@@ -1,0 +1,55 @@
+{
+    "name": "Melmetal",
+    "pokedex_number": "#0809",
+    "types": [
+        "Steel",
+        "Unknown"
+    ],
+    "abilities": [
+        "Iron Fist"
+    ],
+    "stats": {
+        "HP": 135,
+        "Attack": 143,
+        "Defense": 143,
+        "Sp. Atk": 80,
+        "Sp. Def": 65,
+        "Speed": 34,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Let's Go Pikachu": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.",
+            "Let's Go Eevee": "Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years."
+        },
+        "Generation VIII": {
+            "Sword": "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan. *",
+            "Shield": "Centrifugal force is behind the punches of Melmetal's heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon. *"
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Unavailable",
+            "Moon": "Unavailable",
+            "Ultra Sun": "Unavailable",
+            "Ultra Moon": "Unavailable",
+            "Let's Go Pikachu": "Transfer from Pokémon GO to GO Park (International version) Trade locally from international version of Let's Go Pikachu or Eevee ( Mainland Chinese version)",
+            "Let's Go Eevee": "Transfer from Pokémon GO to GO Park (International version) Trade locally from international version of Let's Go Pikachu or Eevee ( Mainland Chinese version)"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME",
+            "Shield": "Pokémon HOME",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

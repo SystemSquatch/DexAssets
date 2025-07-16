@@ -1,0 +1,44 @@
+{
+    "name": "Pecharunt",
+    "pokedex_number": "#1025",
+    "types": [
+        "Poison",
+        "Ghost"
+    ],
+    "abilities": [
+        "Poison Puppeteer"
+    ],
+    "stats": {
+        "HP": 88,
+        "Attack": 88,
+        "Defense": 160,
+        "Sp. Atk": 88,
+        "Sp. Def": 88,
+        "Speed": 88,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It feeds others toxic mochi that draw out desires and capabilities. Those who eat the mochi fall under Pecharunt’s control, chained to its will.",
+            "Violet": "Its peach-shaped shell serves as storage for a potent poison. It makes poisonous mochi and serves them to people and Pokémon."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Loyalty Plaza (requires Mythical Pecha Berry ) ( Only one )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Pecharunt",
+            "method": [
+                "Base Stage"
+            ]
+        }
+    ]
+}

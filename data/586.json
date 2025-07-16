@@ -1,0 +1,87 @@
+{
+    "name": "Sawsbuck",
+    "pokedex_number": "#0586",
+    "types": [
+        "Normal",
+        "Grass"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Sap Sipper",
+        "Serene Grace"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 70,
+        "Sp. Atk": 60,
+        "Sp. Def": 70,
+        "Speed": 95,
+        "Total": 475
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "They migrate according to the seasons. People can tell the season by looking at Sawsbuck's horns.",
+            "White": "The plants growing on its horns change according to the season. The leaders of the herd possess magnificent horns.",
+            "Black 2": "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.",
+            "White 2": "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring."
+        },
+        "Generation VI": {
+            "X": "They migrate according to the seasons. People can tell the season by looking at Sawsbuck's horns.",
+            "Y": "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.",
+            "Omega Ruby": "They migrate according to the seasons. People can tell the season by looking at Sawsbuck's horns.",
+            "Alpha Sapphire": "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "It’s said that Sawsbuck are calm and easy to tame during the season when they take on this form, so it’s the perfect time to make one your partner.",
+            "Violet": "Though there are many enthusiasts for Sawsbuck as a species, this seasonal form in particular is not very popular."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Dragonspiral Tower ( dark grass )",
+            "White": "Dragonspiral Tower ( dark grass )",
+            "Black 2": "Dragonspiral Tower",
+            "White 2": "Dragonspiral Tower"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Grass ) ( Spring Form ) Pokémon Bank ( Summer/Autumn/Winter Forms )",
+            "Y": "Friend Safari ( Grass ) ( Spring Form ) Pokémon Bank ( Summer/Autumn/Winter Forms )",
+            "Omega Ruby": "Evolve Deerling ( Spring Form ) Pokémon Bank ( Summer/Autumn/Winter Forms )",
+            "Alpha Sapphire": "Evolve Deerling ( Spring Form ) Pokémon Bank ( Summer/Autumn/Winter Forms )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six ( Spring Form ) West Province: Area Three ( Autumn Form ) North Province: Socarrat Trail ( Autumn Form ) North Province: Area One , Dalizapa Passage , Glaseado Mountain ( Winter Form ) Evolve Deerling ( Summer Form ) Tera Raid Battles ( 4★ ) ( Spring Form )",
+            "Violet": "South Province: Area Six ( Spring Form ) West Province: Area Three ( Autumn Form ) North Province: Socarrat Trail ( Autumn Form ) North Province: Area One , Dalizapa Passage , Glaseado Mountain ( Winter Form ) Evolve Deerling ( Summer Form ) Tera Raid Battles ( 4★ ) ( Spring Form )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome ( Spring Form ) Coastal Biome , Torchlit Labyrinth ( Summer Form ) Canyon Biome , Chargestone Cavern ( Autumn Form ) Polar Biome ( Winter Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Deerling",
+            "to": "Sawsbuck",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

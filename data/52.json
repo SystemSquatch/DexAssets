@@ -1,0 +1,175 @@
+{
+    "name": "Meowth",
+    "pokedex_number": "#0052",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Pickup",
+        "Technician",
+        "Pickup",
+        "Technician",
+        "Pickup",
+        "Tough Claws",
+        "Unnerve",
+        "Rattled"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Sp. Atk": 40,
+        "Sp. Def": 40,
+        "Speed": 90,
+        "Total": 290
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+            "Yellow": "Appears to be more active at night. It loves round and shiny things. It can't stop from picking them up.",
+            "Stadium": "Sleeps in the daytime. At night, its eyes glow as it happily collects coins, its favorite things."
+        },
+        "Generation II": {
+            "Gold": "It is fascinated by round objects. It can't stop playing with them until it tires and falls asleep.",
+            "Silver": "It loves anything that shines. It especially adores coins that it picks up and secretly hoards.",
+            "Crystal": "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines too.",
+            "Stadium 2": "It is fascinated by round objects. It can't stop playing with them until it tires and falls asleep. (Pokémon Red, Silver, or Crystal inserted) It loves anything that shines. It especially adores coins that it picks up and secretly hoards. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pok é mon loves shiny coins that glitter with light.",
+            "Sapphire": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pok é mon loves shiny coins that glitter with light.",
+            "Emerald": "Meowth withdraw their sharp claws into their paws to silently sneak about. For some reason, this Pok é mon loves shiny coins that glitter with light.",
+            "FireRed": "All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.",
+            "LeafGreen": "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change."
+        },
+        "Generation IV": {
+            "Diamond": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+            "Pearl": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+            "Platinum": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+            "HeartGold": "It is fascinated by round objects. It can't stop playing with them until it tires and falls asleep.",
+            "SoulSilver": "It loves anything that shines. It especially adores coins that it picks up and secretly hoards."
+        },
+        "Generation V": {
+            "Black": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+            "White": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+            "Black 2": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+            "White 2": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly."
+        },
+        "Generation VI": {
+            "X": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+            "Y": "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.",
+            "Omega Ruby": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.",
+            "Alpha Sapphire": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light."
+        },
+        "Generation VII": {
+            "Sun": "This Pokémon was not originally found in Alola. Human actions caused a surge in their numbers, and they went feral. They're prideful and crafty.",
+            "Moon": "When its delicate pride is wounded, or when the gold coin on its forehead is dirtied, it flies into a hysterical rage.",
+            "Ultra Sun": "It's impulsive, selfish, and fickle. It's very popular with some Trainers who like giving it the attention it needs.",
+            "Ultra Moon": "A royal house that flourished in the distant past brought it here from another region. Meowth is both selfish and prideful.",
+            "Let's Go Pikachu": "Highly intelligent and prideful, it's famously difficult to handle—but that's also a reason for its popularity.",
+            "Let's Go Eevee": "Highly intelligent and prideful, it's famously difficult to handle—but that's also a reason for its popularity."
+        },
+        "Generation VIII": {
+            "Sword": "Living with a savage, seafaring people has toughened this Pokémon's body so much that parts of it have turned to iron.",
+            "Shield": "These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.",
+            "Brilliant Diamond": "It is nocturnal by nature. If it spots something shiny, its eyes glitter as brightly as the shiny object.",
+            "Shining Pearl": "It is nocturnal by nature. If it spots something shiny, its eyes glitter as brightly as the shiny object."
+        },
+        "Generation IX": {
+            "Scarlet": "All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.",
+            "Violet": "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines, too."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Trade",
+            "Blue": "Routes 5 , 6 , 7 , and 8",
+            "Blue (Japan)": "Routes 5 , 6 , 7 , and 8",
+            "Yellow": "Trade"
+        },
+        "Generation II": {
+            "Gold": "Trade",
+            "Silver": "Routes 5 , 6 , 7 , 8 , 38 , and 39",
+            "Crystal": "Routes 5 , 6 , 7 , 8 , 11 , 38 , and 39 Night"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade Skitty at the Battle Frontier",
+            "FireRed": "Routes 5 , 6 , 7 , and 8 , Bond Bridge , Canyon Entrance , Cape Brink , Five Isle Meadow , Kindle Road , Ruin Valley , Sevault Canyon , Treasure Beach , Water Path",
+            "LeafGreen": "Routes 5 , 6 , 7 , and 8 , Bond Bridge , Canyon Entrance , Cape Brink , Five Isle Meadow , Kindle Road , Ruin Valley , Sevault Canyon , Treasure Beach , Water Path",
+            "Colosseum": "Trade",
+            "XD": "Prestige Precept Center (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Trophy Garden",
+            "Pearl": "Trophy Garden",
+            "Platinum": "Trophy Garden",
+            "HeartGold": "Trade",
+            "SoulSilver": "Routes 5 , 6 , 7 , 8 , 38 , and 39",
+            "Pal Park": "Field",
+            "Pokéwalker": "Sightseeing"
+        },
+        "Generation V": {
+            "Black": "Trade , Event",
+            "White": "Trade , Event",
+            "Black 2": "Trade with Yancy in Nimbasa City (male player character only)",
+            "White 2": "Trade with Yancy in Nimbasa City (male player character only)",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Breed Persian",
+            "Alpha Sapphire": "Breed Persian"
+        },
+        "Generation VII": {
+            "Sun": "Route 2 , Trainers' School , Hau'oli City , Malie Garden ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Moon": "Route 2 , Trainers' School , Hau'oli City , Malie Garden ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Sun": "Route 2 , Trainers' School , Hau'oli City , Malie Garden ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Moon": "Route 2 , Trainers' School , Hau'oli City , Malie Garden ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Let's Go Pikachu": "Trade",
+            "Let's Go Eevee": "Routes 24 and 25 ( Kantonian Form ) Trade Kantonian Meowth on Cinnabar Island ( Alolan Form )"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Galarian Meowth at Turffield Stadium ( Kantonian Form ) Event ( Gigantamax Factor ) ( Kantonian Form ) Trade Version 1.2.0+ ( Alolan Form ) Route 4 ( Galarian Form ) Dusty Bowl , Giant's Seat , Stony Wilderness ( Max Raid Battle ) ( Galarian Form",
+            "Shield": "Trade Galarian Meowth at Turffield Stadium ( Kantonian Form ) Event ( Gigantamax Factor ) ( Kantonian Form ) Trade Version 1.2.0+ ( Alolan Form ) Route 4 ( Galarian Form ) Dusty Bowl , Giant's Seat , Stony Wilderness ( Max Raid Battle ) ( Galarian Form",
+            "Expansion Pass": "Trade Galarian Meowth with Regina on Isle of Armor ( Kantonian Form ) Reward for finding at least 5 Alolan Diglett ( Alolan Form ) Brawlers' Cave , Courageous Cavern , Stepping-Stone Sea , Snowslide Slope , Path to the Peak , Giant's Bed , Frigid Sea ( Max Raid Battle ) ( Galarian Form )",
+            "Brilliant Diamond": "Trophy Garden ( Kantonian Form ) Unobtainable ( Alolan/Galarian Forms )",
+            "Shining Pearl": "Trophy Garden ( Kantonian Form ) Unobtainable ( Alolan/Galarian Forms )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Area Three ( Kantonian Form ) West Province: Area Three ( Kantonian Form ) South Province: Area Two ( Flying Tera Type ) ( Kantonian Form ) Tera Raid Battles ( 2★ ) ( Kantonian Form ) Pokémon HOME ( Alolan Form ) Gift from Salvatore ( Galarian Form )",
+            "Violet": "East Province: Area Three ( Kantonian Form ) West Province: Area Three ( Kantonian Form ) South Province: Area Two ( Flying Tera Type ) ( Kantonian Form ) Tera Raid Battles ( 2★ ) ( Kantonian Form ) Pokémon HOME ( Alolan Form ) Gift from Salvatore ( Galarian Form )",
+            "The Hidden Treasure of Area Zero": "Trade with Salvatore in the League Club Room ( Alolan Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Meowth",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Meowth",
+            "to": "Persian",
+            "method": [
+                "Level 28",
+                "Level up (with high friendship)"
+            ]
+        },
+        {
+            "from": "Meowth",
+            "to": "Perrserker",
+            "method": [
+                "Level 28"
+            ]
+        }
+    ]
+}

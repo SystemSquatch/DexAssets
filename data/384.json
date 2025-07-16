@@ -1,0 +1,110 @@
+{
+    "name": "Rayquaza",
+    "pokedex_number": "#0384",
+    "types": [
+        "Dragon",
+        "Flying"
+    ],
+    "abilities": [
+        "Air Lock",
+        "Delta Stream"
+    ],
+    "stats": {
+        "HP": 105,
+        "Attack": 150,
+        "Defense": 90,
+        "Sp. Atk": 150,
+        "Sp. Def": 90,
+        "Speed": 95,
+        "Total": 680
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Rayquaza lived for hundreds of millions of years in the earth's ozone layer, never descending to the ground. This Pok é mon appears to feed on water and particles in the atmosphere.",
+            "Sapphire": "Rayquaza is said to have lived for hundreds of millions of years in the earth's ozone layer, above the clouds. Its existence had been completely unknown because it lived so high in the sky.",
+            "Emerald": "A Pok é mon that flies endlessly in the ozone layer. It is said it would descend to the ground if Kyogre and Groudon were to fight.",
+            "FireRed": "It has lived for hundreds of millions of years in the ozone layer. Its flying form looks like a meteor.",
+            "LeafGreen": "It has lived for hundreds of millions of years in the ozone layer. Its flying form looks like a meteor."
+        },
+        "Generation IV": {
+            "Diamond": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+            "Pearl": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+            "Platinum": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+            "HeartGold": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
+            "SoulSilver": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it."
+        },
+        "Generation V": {
+            "Black": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+            "White": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+            "Black 2": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+            "White 2": "It lives in the ozone layer far above the clouds and cannot be seen from the ground."
+        },
+        "Generation VI": {
+            "X": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+            "Y": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
+            "Omega Ruby": "Rayquaza is said to have lived for hundreds of millions of years. Legends remain of how it put to rest the clash between Kyogre and Groudon.",
+            "Alpha Sapphire": "It flies forever through the ozone layer, consuming meteoroids for sustenance. The many meteoroids in its body provide the energy it needs to Mega Evolve."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+            "Shining Pearl": "It lives in the ozone layer far above the clouds and cannot be seen from the ground."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Sky Pillar ( Only one )",
+            "Sapphire": "Sky Pillar ( Only one )",
+            "Emerald": "Sky Pillar ( Only one )",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Embedded Tower (requires Jade Orb ) ( Only one )",
+            "SoulSilver": "Embedded Tower (requires Jade Orb ) ( Only one )",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer , Event",
+            "White": "Poké Transfer , Event",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade , Event",
+            "Y": "Trade , Event",
+            "Omega Ruby": "Sky Pillar ( Only one )",
+            "Alpha Sapphire": "Sky Pillar ( Only one )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Cliff World ) (requires Groudon and Kyogre in party) ( Only one )",
+            "Ultra Moon": "Ultra Space Wilds ( Cliff World ) (requires Groudon and Kyogre in party) ( Only one )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one )",
+            "Brilliant Diamond": "Ramanas Park (requires Stratospheric Slate ) ( Only one )",
+            "Shining Pearl": "Ramanas Park (requires Stratospheric Slate ) ( Only one )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade , Poké Portal News",
+            "Violet": "Trade , Poké Portal News",
+            "The Hidden Treasure of Area Zero": "Great Crater of Paldea after receiving the Rayquaza Treat from Snacksworth ( Only one ) ( Group Quest )"
+        }
+    },
+    "evolution": []
+}

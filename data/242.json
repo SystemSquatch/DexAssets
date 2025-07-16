@@ -1,0 +1,141 @@
+{
+    "name": "Blissey",
+    "pokedex_number": "#0242",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Natural Cure",
+        "Serene Grace",
+        "Healer"
+    ],
+    "stats": {
+        "HP": 255,
+        "Attack": 10,
+        "Defense": 10,
+        "Sp. Atk": 75,
+        "Sp. Def": 135,
+        "Speed": 55,
+        "Total": 540
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Anyone who takes even one bite of Blissey 's egg becomes unfailingly caring and pleasant to everyone.",
+            "Silver": "It has a very compassionate nature. If it sees a sick Pok é mon , it will nurse the sufferer back to health.",
+            "Crystal": "Biting into one of the delicious eggs that Blissey provides will make everyone around smile with joy.",
+            "Stadium 2": "Anyone who takes even one bite of Blissey 's egg becomes unfailingly caring and pleasant to everyone. (Pokémon Red, Silver, or Crystal inserted) It has a very compassionate nature. If it sees a sick Pok é mon , it will nurse the sufferer back to health. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Blissey senses sadness with its fluffy coat of fur. If it does so, this Pok é mon will rush over to the sad person, however far they may be, to share an egg of happiness that brings a smile to any face.",
+            "Sapphire": "Blissey senses sadness with its fluffy coat of fur. If it does so, this Pok é mon will rush over to the sad person, however far they may be, to share an egg of happiness that brings a smile to any face.",
+            "Emerald": "If it senses sadness with its fluffy fur, a Blissey will rush over to the sad person, however far away, to share an egg of happiness that brings a smile to any face.",
+            "FireRed": "It has a very compassionate nature. If it sees a sick Pok é mon , it will nurse the sufferer back to health.",
+            "LeafGreen": "Anyone who takes even one bite of Blissey 's egg becomes unfailingly caring and pleasant to everyone."
+        },
+        "Generation IV": {
+            "Diamond": "This kindhearted Pokémon nurses sick Pokémon to health. It senses feelings of sadness.",
+            "Pearl": "It is a Pokémon that delivers happiness. Eating its egg is said to make one kind to everyone.",
+            "Platinum": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
+            "HeartGold": "Anyone who takes even one taste of Blissey 's egg becomes unfailingly caring and pleasant to everyone.",
+            "SoulSilver": "It has a very compassionate nature. If it sees a sick Pokémon, it will nurse the sufferer back to health."
+        },
+        "Generation V": {
+            "Black": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
+            "White": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
+            "Black 2": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
+            "White 2": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone."
+        },
+        "Generation VI": {
+            "X": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
+            "Y": "This kindhearted Pokémon nurses sick Pokémon to health. It senses feelings of sadness.",
+            "Omega Ruby": "Blissey senses sadness with its fluffy coat of fur. If it does so, this Pokémon will rush over to a sad person, no matter how far away, to share a Lucky Egg that brings a smile to any face.",
+            "Alpha Sapphire": "Blissey senses sadness with its fluffy coat of fur. If it does so, this Pokémon will rush over to a sad person, no matter how far away, to share a Lucky Egg that brings a smile to any face."
+        },
+        "Generation VII": {
+            "Sun": "Even the most ferocious Pokémon become calm when they eat Blissey's egg, which is said to be filled with happiness.",
+            "Moon": "Its fluffy fur coat acts as a sensor, enabling it to read the feelings of people and Pokémon.",
+            "Ultra Sun": "Their eggs are such a delicacy that some say eating one will bring you happiness. These eggs fetch the highest prices on the market.",
+            "Ultra Moon": "This Pokémon is overflowing with love. Only Chansey that share a strong bond with their Trainer can evolve, so people say."
+        },
+        "Generation VIII": {
+            "Sword": "Whenever a Blissey finds a weakened Pokémon, it will share its egg and offer its care until the other Pokémon is all better.",
+            "Shield": "Blissey lays mysterious eggs that are filled with happiness. It's said that anyone who eats a Blissey egg will start acting kindly to all others.",
+            "Brilliant Diamond": "This kindhearted Pokémon nurses sick Pokémon to health. It senses feelings of sadness.",
+            "Shining Pearl": "It is a Pokémon that delivers happiness. Eating its egg is said to make one kind to everyone.",
+            "Legends: Arceus": "A kindhearted Pokémon that will care for any sick person or Pokémon until their health improves. The eggs it lays are delicious and bring good fortune to those who eat them."
+        },
+        "Generation IX": {
+            "Scarlet": "Anyone who takes even one taste of Blissey’s egg becomes unfailingly caring and pleasant to everyone.",
+            "Violet": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Chansey",
+            "Silver": "Evolve Chansey",
+            "Crystal": "Evolve Chansey"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Chansey after obtaining National Pokédex",
+            "LeafGreen": "Evolve Chansey after obtaining National Pokédex",
+            "Colosseum": "Trade",
+            "XD": "Evolve Chansey"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Chansey",
+            "Pearl": "Evolve Chansey",
+            "Platinum": "Evolve Chansey",
+            "HeartGold": "Evolve Chansey",
+            "SoulSilver": "Evolve Chansey",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade , Event",
+            "White": "Evolve Chansey",
+            "Black 2": "Evolve Chansey",
+            "White 2": "Evolve Chansey"
+        },
+        "Generation VI": {
+            "X": "Evolve Chansey",
+            "Y": "Evolve Chansey",
+            "Omega Ruby": "Evolve Chansey",
+            "Alpha Sapphire": "Evolve Chansey"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Chansey",
+            "Moon": "Evolve Chansey",
+            "Ultra Sun": "Poni Plains ( SOS Battle )",
+            "Ultra Moon": "Poni Plains ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Fields of Honor , Brawlers' Cave , Challenge Beach , Challenge Road , Courageous Cavern , Forest of Focus , Honeycalm Island , Insular Sea , Loop Lagoon , Potbottom Desert , Soothing Wetlands , Stepping-Stone Sea , Training Lowlands , Warm-Up Tunnel , Workout Sea Soothing Wetlands ( Wanderer ) Fields of Honor , Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Chansey",
+            "Shining Pearl": "Evolve Chansey",
+            "Legends: Arceus": "Obsidian Fieldlands : near Obsidian Falls Cobalt Coastlands : massive mass outbreaks Alabaster Icelands : Avalanche Slopes"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Area One , Area Two , Area Three Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "North Province: Area One , Area Two , Area Three Tera Raid Battles ( 5★ , 6★ )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome , Coastal Biome , Torchlit Labyrinth"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Chansey",
+            "to": "Blissey",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        }
+    ]
+}

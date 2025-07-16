@@ -1,0 +1,88 @@
+{
+    "name": "Darmanitan",
+    "pokedex_number": "#0555",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sheer Force",
+        "Gorilla Tactics",
+        "Zen Mode"
+    ],
+    "stats": {
+        "HP": 105,
+        "Attack": 140,
+        "Defense": 55,
+        "Sp. Atk": 30,
+        "Sp. Def": 55,
+        "Speed": 95,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Its internal fire burns at 2,500° F , making enough power that it can destroy a dump truck with one punch.",
+            "White": "When weakened in battle, it transforms into a stone statue. Then it sharpens its mind and fights on mentally.",
+            "Black 2": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
+            "White 2": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind."
+        },
+        "Generation VI": {
+            "X": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
+            "Y": "Its internal fire burns at 2,500 degrees Fahrenheit , making enough power that it can destroy a dump truck with one punch.",
+            "Omega Ruby": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
+            "Alpha Sapphire": "Its internal fire burns at 2,500 degrees Fahrenheit , making enough power that it can destroy a dump truck with one punch."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Anger has reignited its atrophied flame sac. This Pokémon spews fire everywhere as it rampages indiscriminately.",
+            "Shield": "Darmanitan takes this form when enraged. It won't stop spewing flames until its rage has settled, even if its body starts to melt."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Desert Resort (Five) *",
+            "White": "Desert Resort (Five) *",
+            "Black 2": "Desert Resort ( N's Pokémon )",
+            "White 2": "Desert Resort ( N's Pokémon )"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Mirage Islands (west of Route 104 and north of Route 113 ), Mirage Mountain (east of Route 125 )",
+            "Alpha Sapphire": "Mirage Islands (west of Route 104 and north of Route 113 ), Mirage Mountain (east of Route 125 )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+ ( Unovan Form ) Dusty Bowl , Giant's Cap , Hammerlocke Hills , Lake of Outrage , Stony Wilderness ( Max Raid Battle ) ( Galarian Form )",
+            "Shield": "Trade Version 1.2.0+ ( Unovan Form ) Trade ( Galarian Form )",
+            "Sword Expansion Pass": "Evolve Darumaka ( Unovan Form ) Snowslide Slope ( Wanderer ) ( Galarian Form ) Slippery Slope , Giant's Bed , Snowslide Slope , Frigid Sea ( Max Raid Battle ) ( Galarian Form )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Darumaka",
+            "to": "Darmanitan",
+            "method": [
+                "Level 35",
+                "Use Ice Stone"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "name": "Chimecho",
+    "pokedex_number": "#0358",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 50,
+        "Defense": 70,
+        "Sp. Atk": 95,
+        "Sp. Def": 80,
+        "Speed": 65,
+        "Total": 425
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Chimecho makes its cries echo inside its hollow body. When this Pok é mon becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.",
+            "Sapphire": "In high winds, Chimecho cries as it hangs from a tree branch or the eaves of a building using a suction cup on its head. This Pok é mon plucks berries with its long tail and eats them.",
+            "Emerald": "They fly about very actively when the hot season arrives. They communicate among themselves using seven different and distinguishing cries.",
+            "FireRed": "It travels by riding on winds. It cleverly uses its long tail to pluck nuts and berries, which it loves to eat.",
+            "LeafGreen": "It travels by riding on winds. It cleverly uses its long tail to pluck nuts and berries, which it loves to eat."
+        },
+        "Generation IV": {
+            "Diamond": "To knock foes flying, it makes the air shudder with its cries. It converses using seven cries.",
+            "Pearl": "Emitting ultrasonic cries, it floats on winds to travel great distances.",
+            "Platinum": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
+            "HeartGold": "It uses the sucker on its head to hang from a tree or from eaves. It can produce seven different tones.",
+            "SoulSilver": "It uses the sucker on its head to hang from a tree or from eaves. It can produce seven different tones."
+        },
+        "Generation V": {
+            "Black": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
+            "White": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
+            "Black 2": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
+            "White 2": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes."
+        },
+        "Generation VI": {
+            "X": "It uses the sucker on its head to hang from a tree or from eaves. It can produce seven different tones.",
+            "Y": "Emitting ultrasonic cries, it floats on winds to travel great distances.",
+            "Omega Ruby": "Chimecho makes its cries echo inside its hollow body. When this Pokémon becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.",
+            "Alpha Sapphire": "In high winds, Chimecho cries as it hangs from a tree branch or the eaves of a building using a suction cup on its head. This Pokémon plucks berries with its long tail and eats them."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "To knock foes flying, it makes the air shudder with its cries. It converses using seven cries.",
+            "Shining Pearl": "Chimecho emits ultrasonic cries. It floats on the wind to travel great distances.",
+            "Legends: Arceus": "Can emit waves of air powerful enough to knock out prey taller than itself. I hypothesize that it amplifies the faint sound of wind within its body."
+        },
+        "Generation IX": {
+            "Scarlet": "It uses the sucker on its head to hang from a tree or from eaves. It can produce seven different tones.",
+            "Violet": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Top of Mt. Pyre",
+            "Sapphire": "Top of Mt. Pyre",
+            "Emerald": "Top of Mt. Pyre",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Sendoff Spring , Mt. Coronet",
+            "Pearl": "Sendoff Spring , Mt. Coronet",
+            "Platinum": "Turnback Cave , Mt. Coronet",
+            "HeartGold": "Safari Zone (tall grass in Swamp with 15 Forest points)",
+            "SoulSilver": "Safari Zone (tall grass in Swamp with 15 Forest points)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Abundant Shrine",
+            "White": "Abundant Shrine",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Evolve Chingling",
+            "Y": "Evolve Chingling",
+            "Omega Ruby": "Top of Mt. Pyre",
+            "Alpha Sapphire": "Top of Mt. Pyre"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Sendoff Spring , Mt. Coronet",
+            "Shining Pearl": "Sendoff Spring , Mt. Coronet",
+            "Legends: Arceus": "Coronet Highlands : Celestica Trail , Primeval Grotto ( mass outbreaks ), Sacred Plaza , massive mass outbreaks Alabaster Icelands : Lake Acuity (additional )"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Infernal Pass , Crystal Pool Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Chingling",
+            "to": "Chimecho",
+            "method": [
+                "Level up (during the night, with high friendship)"
+            ]
+        }
+    ]
+}

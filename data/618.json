@@ -1,0 +1,81 @@
+{
+    "name": "Stunfisk",
+    "pokedex_number": "#0618",
+    "types": [
+        "Ground",
+        "Electric"
+    ],
+    "abilities": [
+        "Static",
+        "Limber",
+        "Mimicry",
+        "Sand Veil"
+    ],
+    "stats": {
+        "HP": 109,
+        "Attack": 66,
+        "Defense": 84,
+        "Sp. Atk": 81,
+        "Sp. Def": 99,
+        "Speed": 32,
+        "Total": 471
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.",
+            "White": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.",
+            "Black 2": "When its opponent can't be paralyzed, it contorts itself with unexpected speed and flops away.",
+            "White 2": "When its opponent can't be paralyzed, it contorts itself with unexpected speed and flops away."
+        },
+        "Generation VI": {
+            "X": "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.",
+            "Y": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.",
+            "Omega Ruby": "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.",
+            "Alpha Sapphire": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Living in mud with a high iron content has given it a strong steel body.",
+            "Shield": "Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 8 , Icirrus City , Moor of Icirrus ( puddles Spring Summer Autumn ; fishing and surfing )",
+            "White": "Route 8 , Icirrus City , Moor of Icirrus ( puddles Spring Summer Autumn ; fishing and surfing )",
+            "Black 2": "Route 8 , Icirrus City , Moor of Icirrus ( puddles Spring Summer Autumn ; fishing and surfing )",
+            "White 2": "Route 8 , Icirrus City , Moor of Icirrus ( puddles Spring Summer Autumn ; fishing and surfing )",
+            "Dream World": "Sparkling Sea *"
+        },
+        "Generation VI": {
+            "X": "Routes 14 and 19 , Friend Safari ( Electric )",
+            "Y": "Routes 14 and 19 , Friend Safari ( Electric )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Water World )",
+            "Ultra Moon": "Ultra Space Wilds ( Water World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+ ( Unovan Form ) Slumbering Weald , Galar Mine No. 2 , Dusty Bowl , Lake of Outrage ( Galarian Form ) Rolling Fields , Giant's Seat , Stony Wilderness , Dusty Bowl ( Max Raid Battle ) ( Galarian Form )",
+            "Shield": "Trade Version 1.2.0+ ( Unovan Form ) Slumbering Weald , Galar Mine No. 2 , Dusty Bowl , Lake of Outrage ( Galarian Form ) Rolling Fields , Giant's Seat , Stony Wilderness , Dusty Bowl ( Max Raid Battle ) ( Galarian Form )",
+            "Expansion Pass": "Trade Galarian Stunfisk with Regina on Isle of Armor ( Unovan Form ) Max Lair ( Dynamax Adventure ) ( Unovan/Galarian Forms )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

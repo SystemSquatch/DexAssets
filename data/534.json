@@ -1,0 +1,91 @@
+{
+    "name": "Conkeldurr",
+    "pokedex_number": "#0534",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Guts",
+        "Sheer Force",
+        "Iron Fist"
+    ],
+    "stats": {
+        "HP": 105,
+        "Attack": 140,
+        "Defense": 95,
+        "Sp. Atk": 55,
+        "Sp. Def": 65,
+        "Speed": 45,
+        "Total": 505
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
+            "White": "They use concrete pillars as walking canes. They know moves that enable them to swing the pillars freely in battle.",
+            "Black 2": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.",
+            "White 2": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete."
+        },
+        "Generation VI": {
+            "X": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
+            "Y": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.",
+            "Omega Ruby": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
+            "Alpha Sapphire": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.",
+            "Shield": "When going all out, this Pokémon throws aside its concrete pillars and leaps at opponents to pummel them with its fists."
+        },
+        "Generation IX": {
+            "Scarlet": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
+            "Violet": "Rather than rely on their strength, they master moves that make good use of centrifugal force to swing around concrete."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Gurdurr",
+            "White": "Evolve Gurdurr",
+            "Black 2": "Evolve Gurdurr",
+            "White 2": "Evolve Gurdurr"
+        },
+        "Generation VI": {
+            "X": "Evolve Gurdurr",
+            "Y": "Evolve Gurdurr",
+            "Omega Ruby": "Evolve Gurdurr",
+            "Alpha Sapphire": "Evolve Gurdurr"
+        },
+        "Generation VII": {
+            "Sun": "Poni Plains ( Island Scan ) Mo",
+            "Moon": "Poni Plains ( Island Scan ) Mo",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Motostoke Riverbank ( Wanderer ) Rolling Fields , South Lake Miloch , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Motostoke Riverbank ( Wanderer ) Rolling Fields , South Lake Miloch , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed , Giant's Foot ( Wanderer )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Gurdurr",
+            "to": "Conkeldurr",
+            "method": [
+                "Trade"
+            ]
+        }
+    ]
+}

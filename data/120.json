@@ -1,0 +1,158 @@
+{
+    "name": "Staryu",
+    "pokedex_number": "#0120",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Illuminate",
+        "Natural Cure",
+        "Analytic"
+    ],
+    "stats": {
+        "HP": 30,
+        "Attack": 45,
+        "Defense": 55,
+        "Sp. Atk": 70,
+        "Sp. Def": 55,
+        "Speed": 85,
+        "Total": 340
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "An enigmatic Pok é mon that can effortlessly regenerate any appendage it loses in battle.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "An enigmatic Pok é mon that can effortlessly regenerate any appendage it loses in battle.",
+            "Yellow": "As long as the center section is unharmed, it can grow back fully even if it is chopped to bits.",
+            "Stadium": "It is capable of growing back any portion of its body that is cut off. At night, the center core glows with a red light."
+        },
+        "Generation II": {
+            "Gold": "At night, the center of its body slowly flickers with the same rhythm as a human heartbeat.",
+            "Silver": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
+            "Crystal": "When the stars twinkle at night, it floats up from the sea floor, and its body's center core flickers.",
+            "Stadium 2": "At night, the center of its body slowly flickers with the same rhythm as a human heartbeat. (Pokémon Red, Silver, or Crystal inserted) Even if its body is torn, it can regenerate as long as the glowing central core remains intact. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Staryu 's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pok é mon look like the stars in the sky.",
+            "Sapphire": "Staryu apparently communicates with the stars in the night sky by flashing the red core at the center of its body. If parts of its body are torn, this Pok é mon simply regenerates the missing pieces and limbs.",
+            "Emerald": "It gathers with others in the night and makes its red core glow on and off with the twinkling stars. It can regenerate limbs if they are severed from its body.",
+            "FireRed": "It appears in large numbers by seashores. At night, its central core flashes with a red light.",
+            "LeafGreen": "An enigmatic Pok é mon that can effortlessly regenerate any appendage it loses in battle."
+        },
+        "Generation IV": {
+            "Diamond": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+            "Pearl": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+            "Platinum": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+            "HeartGold": "At night, the middle of its body slowly flickers with the same rhythm as a human heartbeat.",
+            "SoulSilver": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact."
+        },
+        "Generation V": {
+            "Black": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+            "White": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+            "Black 2": "As long as its red core remains, it can regenerate its body instantly, even if it's torn apart.",
+            "White 2": "As long as its red core remains, it can regenerate its body instantly, even if it's torn apart."
+        },
+        "Generation VI": {
+            "X": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
+            "Y": "It appears in large numbers by seashores. At night, its central core flashes with a red light.",
+            "Omega Ruby": "Staryu's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokémon look like the stars in the sky.",
+            "Alpha Sapphire": "Staryu apparently communicates with the stars in the night sky by flashing the red core at the center of its body. If parts of its body are torn, this Pokémon simply regenerates the missing pieces and limbs."
+        },
+        "Generation VII": {
+            "Sun": "Large numbers of these Pokémon make their home at the seaside. At night, a strange red glow radiates from the center of their bodies.",
+            "Moon": "This Pokémon gets nibbled on by Lumineon and others. Thanks to its red core, it regenerates fast, so it's unconcerned by their snack attacks.",
+            "Ultra Sun": "In many places, there are folktales of stardust falling into the ocean and becoming Staryu.",
+            "Ultra Moon": "No number of injuries can bother Staryu. Its amazing regenerative powers return it to its previous state in half a day!",
+            "Let's Go Pikachu": "As long as the center section is unharmed, this Pokémon can grow back fully even if it is chopped to bits.",
+            "Let's Go Eevee": "As long as the center section is unharmed, this Pokémon can grow back fully even if it is chopped to bits."
+        },
+        "Generation VIII": {
+            "Sword": "If you visit a beach at the end of summer, you'll be able to see groups of Staryu lighting up in a steady rhythm.",
+            "Shield": "Fish Pokémon nibble at it, but Staryu isn't bothered. Its body regenerates quickly, even if part of it is completely torn off.",
+            "Brilliant Diamond": "If Staryu's body is damaged, it will regenerate as long as the red core remains. The core flashes at midnight.",
+            "Shining Pearl": "If Staryu's body is damaged, it will regenerate as long as the red core remains. The core flashes at midnight."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Seafoam Islands Routes 19 , 20 , 21 , Cinnabar Island , Seafoam Islands ( Super Rod )",
+            "Blue": "Seafoam Islands Routes 19 , 20 , 21 , Cinnabar Island , Seafoam Islands ( Super Rod )",
+            "Blue (Japan)": "Seafoam Islands Routes 19 , 20 , 21 , Cinnabar Island , Seafoam Islands ( Super Rod )",
+            "Yellow": "Seafoam Islands ( Surfing ) Routes 19 , 20 , 21 , Pallet Town , Vermilion Harbor , Cinnabar Island , Seafoam Islands ( Super Rod )"
+        },
+        "Generation II": {
+            "Gold": "Routes 19 , 34 , 40 , Olivine City , Cianwood City , Cerulean City and Gym , Cherrygrove City , Union Cave ( Good Rod and Super Rod ) Night",
+            "Silver": "Routes 19 , 34 , 40 , Olivine City , Cianwood City , Cerulean City and Gym , Cherrygrove City , Union Cave ( Good Rod and Super Rod ) Night",
+            "Crystal": "Routes 19 , 34 , 40 , Olivine City , Cianwood City , Cherrygrove City , Union Cave ( Good Rod and Super Rod ) Night"
+        },
+        "Generation III": {
+            "Ruby": "Lilycove City ( Super Rod )",
+            "Sapphire": "Lilycove City ( Super Rod )",
+            "Emerald": "Lilycove City ( Super Rod )",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Pallet Town , Vermilion City , Cinnabar Island , One Island , Five Island , Icefall Cave ( Super Rod )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Sunyshore City , Canalave City ( Super Rod )",
+            "Pearl": "Sunyshore City , Canalave City ( Super Rod )",
+            "Platinum": "Sunyshore City , Canalave City ( Super Rod )",
+            "HeartGold": "Routes 19 , 34 , 40 , Cherrygrove City , Cianwood City , Union Cave B2F, Olivine City ( Good Rod and Super Rod ) Night Route 47 ( Surfing )",
+            "SoulSilver": "Routes 19 , 34 , 40 , Cherrygrove City , Cianwood City , Union Cave B2F, Olivine City ( Good Rod and Super Rod ) Night Route 47 ( Surfing )",
+            "Pal Park": "Sea",
+            "Pokéwalker": "Beautiful Beach and Beyond the Sea"
+        },
+        "Generation V": {
+            "Black": "Route 13 ( Surfing or Surfing in rippling water )",
+            "White": "Route 13 ( Surfing or Surfing in rippling water )",
+            "Black 2": "Route 13 , Undella Town , Humilau City ( Surfing or Surfing in rippling water ) Transfer from Dream Radar",
+            "White 2": "Route 13 , Undella Town , Humilau City ( Surfing or Surfing in rippling water ) Transfer from Dream Radar",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Route 8 ( Good Rod )",
+            "Y": "Trade",
+            "Omega Ruby": "Lilycove City , Team Magma Hideout ( Super Rod )",
+            "Alpha Sapphire": "Lilycove City , Team Aqua Hideout ( Super Rod )"
+        },
+        "Generation VII": {
+            "Sun": "Hano Beach , Poké Pelago * Route 7 ( fishing )",
+            "Moon": "Hano Beach , Poké Pelago * Route 7 ( fishing )",
+            "Ultra Sun": "Hano Beach , Poké Pelago Route 7 ( fishing )",
+            "Ultra Moon": "Hano Beach , Poké Pelago Route 7 ( fishing )",
+            "Let's Go Pikachu": "Routes 18 , 19 , and 21 ( Sea Skim )",
+            "Let's Go Eevee": "Routes 18 , 19 , and 21 ( Sea Skim )"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Challenge Beach , Training Lowlands",
+            "Brilliant Diamond": "Canalave City , Sunyshore City ( Super Rod ) Grand Underground - Fountainspring Cave , Icy Cave , Riverbank Cave , Still-Water Cavern , Glacial Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Canalave City , Sunyshore City ( Super Rod ) Grand Underground - Fountainspring Cave , Icy Cave , Riverbank Cave , Still-Water Cavern , Glacial Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Staryu",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Staryu",
+            "to": "Starmie",
+            "method": [
+                "Use Water Stone"
+            ]
+        }
+    ]
+}

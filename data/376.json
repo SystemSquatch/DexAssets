@@ -1,0 +1,129 @@
+{
+    "name": "Metagross",
+    "pokedex_number": "#0376",
+    "types": [
+        "Steel",
+        "Psychic"
+    ],
+    "abilities": [
+        "Clear Body",
+        "Light Metal",
+        "Tough Claws"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 135,
+        "Defense": 130,
+        "Sp. Atk": 95,
+        "Sp. Def": 90,
+        "Speed": 70,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Metagross has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This Pok é mon can float in the air by tucking in its four legs.",
+            "Sapphire": "Metagross is the result of two Metang achieving fusion. When hunting, this Pok é mon pins the prey to the ground under its massive body. It then eats the helpless victim using the large mouth on its stomach.",
+            "Emerald": "Metagross has four brains that are joined by a complex neural network. As a result of integration, this Pok é mon is smarter than a supercomputer.",
+            "FireRed": "It is formed by two Metang fusing. Its four brains are said to be superior to a supercomputer.",
+            "LeafGreen": "It is formed by two Metang fusing. Its four brains are said to be superior to a supercomputer."
+        },
+        "Generation IV": {
+            "Diamond": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+            "Pearl": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+            "Platinum": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+            "HeartGold": "It folds its four legs when flying. Its four brains are said to be superior to a supercomputer.",
+            "SoulSilver": "It folds its four legs when flying. Its four brains are said to be superior to a supercomputer."
+        },
+        "Generation V": {
+            "Black": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+            "White": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+            "Black 2": "With four linked brains, it's more intelligent than a supercomputer, and it uses calculations to analyze foes.",
+            "White 2": "With four linked brains, it's more intelligent than a supercomputer, and it uses calculations to analyze foes."
+        },
+        "Generation VI": {
+            "X": "With four linked brains, it's more intelligent than a supercomputer, and it uses calculations to analyze foes.",
+            "Y": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+            "Omega Ruby": "Metagross has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This Pokémon can float in the air by tucking in its four legs.",
+            "Alpha Sapphire": "Metagross is the result of two Metang achieving fusion. When hunting, this Pokémon pins the prey to the ground under its massive body. It then eats the helpless victim using the large mouth on its stomach."
+        },
+        "Generation VII": {
+            "Sun": "This form results from one Metagross, one Metang , and two Beldum linking up.",
+            "Moon": "Mega Evolution stimulated its brain. It emerged as a ruthless Pokémon that will clutch at any means of ensuring its victories.",
+            "Ultra Sun": "Its intellect surpasses its previous level, resulting in battles so cruel, they'll make you want to cover your eyes.",
+            "Ultra Moon": "When it knows it can't win, it digs the claws on its legs into its opponent and starts the countdown to a big explosion."
+        },
+        "Generation VIII": {
+            "Sword": "Because the magnetic powers of these Pokémon get stronger in freezing temperatures, Metagross living on snowy mountains are full of energy.",
+            "Shield": "Metagross is the result of the fusion of two Metang . This Pokémon defeats its opponents through use of its supercomputer-level brain.",
+            "Brilliant Diamond": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+            "Shining Pearl": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer."
+        },
+        "Generation IX": {
+            "Scarlet": "It folds its four legs when flying. Its four brains are said to be superior to a supercomputer.",
+            "Violet": "It firmly pins its prey using its four claws and large body. Then Metagross uses the mouth on its stomach to chew its prey to bits."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Metang",
+            "Sapphire": "Evolve Metang",
+            "Emerald": "Evolve Metang",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Tower Colosseum (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Metang",
+            "Pearl": "Evolve Metang",
+            "Platinum": "Evolve Metang",
+            "HeartGold": "Evolve Metang",
+            "SoulSilver": "Evolve Metang",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Giant Chasm ( rustling grass )",
+            "White": "Giant Chasm ( rustling grass )",
+            "Black 2": "Giant Chasm ( rustling grass )",
+            "White 2": "Giant Chasm ( rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Metang",
+            "Y": "Evolve Metang",
+            "Omega Ruby": "Evolve Metang",
+            "Alpha Sapphire": "Evolve Metang"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Metang",
+            "Moon": "Evolve Metang",
+            "Ultra Sun": "Evolve Metang",
+            "Ultra Moon": "Evolve Metang",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Snowslide Slope ( Wanderer ) Giant's Bed , Snowslide Slope , Path to the Peak , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Metang",
+            "Shining Pearl": "Evolve Metang",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Metang",
+            "to": "Metagross",
+            "method": [
+                "Level 45"
+            ]
+        }
+    ]
+}

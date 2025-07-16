@@ -1,0 +1,80 @@
+{
+    "name": "Skiddo",
+    "pokedex_number": "#0672",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sap Sipper",
+        "Grass Pelt"
+    ],
+    "stats": {
+        "HP": 66,
+        "Attack": 65,
+        "Defense": 48,
+        "Sp. Atk": 62,
+        "Sp. Def": 57,
+        "Speed": 52,
+        "Total": 350
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Thought to be one of the first Pokémon to live in harmony with humans, it has a placid disposition.",
+            "Y": "If it has sunshine and water, it doesn't need to eat, because it can generate energy from the leaves on its back.",
+            "Omega Ruby": "Thought to be one of the first Pokémon to live in harmony with humans, it has a placid disposition.",
+            "Alpha Sapphire": "If it has sunshine and water, it doesn't need to eat, because it can generate energy from the leaves on its back."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "Until recently, people living in the mountains would ride on the back of these Pokémon to traverse the mountain paths.",
+            "Violet": "As long as it has sunlight and water, Skiddo can make energy with the leaves on its body, allowing it to live on rocky mountains barren of food."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Route 5",
+            "Y": "Route 5",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five East Province: Area One , Area Two , Area Three West Province: Area One , Area Two , Asado Desert Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five East Province: Area One , Area Two , Area Three West Province: Area One , Area Two , Asado Desert Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Skiddo",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Skiddo",
+            "to": "Gogoat",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "name": "Swoobat",
+    "pokedex_number": "#0528",
+    "types": [
+        "Psychic",
+        "Flying"
+    ],
+    "abilities": [
+        "Unaware",
+        "Klutz",
+        "Simple"
+    ],
+    "stats": {
+        "HP": 67,
+        "Attack": 57,
+        "Defense": 55,
+        "Sp. Atk": 77,
+        "Sp. Def": 55,
+        "Speed": 114,
+        "Total": 425
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It emits sound waves of various frequencies from its nose, including some powerful enough to destroy rocks.",
+            "White": "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.",
+            "Black 2": "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble.",
+            "White 2": "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble."
+        },
+        "Generation VI": {
+            "X": "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble.",
+            "Y": "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.",
+            "Omega Ruby": "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble.",
+            "Alpha Sapphire": "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Emitting powerful sound waves tires it out. Afterward, it won't be able to fly for a little while.",
+            "Shield": "The auspicious shape of this Pokémon's nose apparently led some regions to consider Swoobat a symbol of good luck."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Woobat",
+            "White": "Evolve Woobat",
+            "Black 2": "Evolve Woobat",
+            "White 2": "Evolve Woobat"
+        },
+        "Generation VI": {
+            "X": "Evolve Woobat",
+            "Y": "Evolve Woobat",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields , Watchtower Ruins , East Lake Axewell , Motostoke Riverbank , Stony Wilderness , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Rolling Fields , Watchtower Ruins , East Lake Axewell , Motostoke Riverbank , Stony Wilderness , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Challenge Beach , Training Lowlands ( Wanderer ) Challenge Road , Loop Lagoon , Workout Sea , Stepping-Stone Sea , Frostpoint Field , Giant's Bed , Frigid Sea , Ballimere Lake , Dyna Tree Hill ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Woobat",
+            "to": "Swoobat",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        }
+    ]
+}

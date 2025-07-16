@@ -1,0 +1,169 @@
+{
+    "name": "Scyther",
+    "pokedex_number": "#0123",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "abilities": [
+        "Swarm",
+        "Technician",
+        "Steadfast"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 80,
+        "Sp. Atk": 55,
+        "Sp. Def": 80,
+        "Speed": 105,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
+            "Yellow": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.",
+            "Stadium": "Moves incredibly quickly and shreds its enemy with its razor-sharp scythes. On rare occasions, it flies with its wings."
+        },
+        "Generation II": {
+            "Gold": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+            "Silver": "When it moves, it leaves only a blur. If it hides in grass, its protective colors make it invisible.",
+            "Crystal": "It's very proud of its speed. It moves so fast that its opponent does not even know what knocked it down.",
+            "Stadium 2": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track. (Pokémon Red, Silver, or Crystal inserted) When it moves, it leaves only a blur. If it hides in grass, its protective colors make it invisible. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pok é mon 's scythes are so effective, they can slice through thick logs in one wicked stroke.",
+            "Sapphire": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pok é mon 's scythes are so effective, they can slice through thick logs in one wicked stroke.",
+            "Emerald": "Its blindingly fast speed adds to the sharpness of its twin forearm scythes. The scythes can slice through thick logs in one wicked stroke.",
+            "FireRed": "It tears and shreds prey with its wickedly sharp scythes. It very rarely spreads its wings to fly.",
+            "LeafGreen": "With ninja-like agility and speed, it can create the illusion that there is more than one of itself."
+        },
+        "Generation IV": {
+            "Diamond": "It is nearly impossible to parry its attacking scythes. Its movements are like a ninja's.",
+            "Pearl": "It is nearly impossible to parry its attacking scythes. Its movements are like a ninja's.",
+            "Platinum": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+            "HeartGold": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+            "SoulSilver": "When it moves, it leaves only a blur. If it hides in grass, its protective coloration makes it invisible."
+        },
+        "Generation V": {
+            "Black": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+            "White": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+            "Black 2": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+            "White 2": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects."
+        },
+        "Generation VI": {
+            "X": "It tears and shreds prey with its wickedly sharp scythes. It very rarely spreads its wings to fly.",
+            "Y": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+            "Omega Ruby": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke.",
+            "Alpha Sapphire": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke."
+        },
+        "Generation VII": {
+            "Sun": "It confuses its prey with its quick, ninja-like movements. Then, in an instant, it cleaves them with its scythes.",
+            "Moon": "While young, they live together deep in the mountains, training themselves in how to fight with their scythes and move at high speeds.",
+            "Ultra Sun": "Its two sharp scythes are more than just weapons. It uses them with dexterity to dress its prey before eating.",
+            "Ultra Moon": "Some call it a ninja. Its movements— imperceptibly quick—are sufficient to cleave the air in two. It's very popular in Alola.",
+            "Let's Go Pikachu": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.",
+            "Let's Go Eevee": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja."
+        },
+        "Generation VIII": {
+            "Sword": "As Scyther fights more and more battles, its scythes become sharper and sharper. With a single slice, Scyther can fell a massive tree.",
+            "Shield": "If you come across an area in a forest where a lot of the trees have been cut down, what you've found is a Scyther's territory.",
+            "Brilliant Diamond": "It is nearly impossible to parry its attacking scythes. Its movements are like a ninja's.",
+            "Shining Pearl": "It is nearly impossible to parry its attacking scythes. Its movements are like a ninja's.",
+            "Legends: Arceus": "The large, wickedly sharp scythes on its forearms are truly fearsome weapons. Prey’s attempts to flee are unfailingly thwarted by this Pokémon's nimble motions."
+        },
+        "Generation IX": {
+            "Scarlet": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+            "Violet": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Safari Zone Celadon City ( Rocket Game Corner )",
+            "Blue": "Trade",
+            "Blue (Japan)": "Safari Zone",
+            "Yellow": "Safari Zone Celadon City ( Rocket Game Corner )"
+        },
+        "Generation II": {
+            "Gold": "National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "Silver": "National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "Crystal": "National Park ( Bug-Catching Contest ) Tu Th Sa"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "Safari Zone Celadon City ( Rocket Game Corner )",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Route 229",
+            "Pearl": "Trade",
+            "Platinum": "Routes 210 and 215",
+            "HeartGold": "National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "SoulSilver": "National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer , Event",
+            "White": "Poké Transfer , Event",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Route 21",
+            "Y": "Route 21",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Poni Plains , Poké Pelago *",
+            "Moon": "Poni Plains , Poké Pelago *",
+            "Ultra Sun": "Poni Plains",
+            "Ultra Moon": "Poni Plains",
+            "Let's Go Pikachu": "Routes 14 and 15",
+            "Let's Go Eevee": "Trade"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Training Lowlands Training Lowlands ( Wanderer ) Fields of Honor ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Route 229 Grand Underground - Grassland Cave , Sunlit Cavern , Riverbank Cave , Still-Water Cavern , Big Bluff Cavern",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Obsidian Fieldlands : The Heartwood , Grandtree Arena (additional nearby), massive mass outbreaks Coronet Highlands : near Primeval Grotto Alabaster Icelands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Four , Area Six North Province: Area Two , Casseroya Lake , Socarrat Trail South Province: Area Four ( Normal Tera Type ) Tera Raid Battles ( 4★ , 5★ )",
+            "Violet": "South Province: Area Four , Area Six North Province: Area Two , Casseroya Lake , Socarrat Trail South Province: Area Four ( Normal Tera Type ) Tera Raid Battles ( 4★ , 5★ )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome , Canyon Biome , Chargestone Cavern"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Scyther",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Scyther",
+            "to": "Scizor",
+            "method": [
+                "Trade (holding Metal Coat)"
+            ]
+        },
+        {
+            "from": "Scyther",
+            "to": "Kleavor",
+            "method": [
+                "Use Black Augurite"
+            ]
+        }
+    ]
+}

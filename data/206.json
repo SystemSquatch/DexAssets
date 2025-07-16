@@ -1,0 +1,146 @@
+{
+    "name": "Dunsparce",
+    "pokedex_number": "#0206",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Serene Grace",
+        "Run Away",
+        "Rattled"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 70,
+        "Defense": 70,
+        "Sp. Atk": 65,
+        "Sp. Def": 65,
+        "Speed": 45,
+        "Total": 415
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "When spotted, this Pok é mon escapes backward by furiously boring into the ground with its tail.",
+            "Silver": "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings.",
+            "Crystal": "It hides deep inside caves where no light ever reaches it and remains virtually motionless there.",
+            "Stadium 2": "When spotted, this Pok é mon escapes backward by furiously boring into the ground with its tail. (Pokémon Red, Silver, or Crystal inserted) If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backwards. This Pok é mon is known to make its nest in complex shapes deep under the ground.",
+            "Sapphire": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backwards. This Pok é mon is known to make its nest in complex shapes deep under the ground.",
+            "Emerald": "Its drill-tipped tail is used to burrow into the ground backwards. This Pok é mon is known to make its nest in complex shapes deep under the ground.",
+            "FireRed": "If spotted, it escapes by burrowing with its tail. It can hover just slightly using its wings.",
+            "LeafGreen": "When spotted, this Pok é mon escapes backward by furiously boring into the ground with its tail."
+        },
+        "Generation IV": {
+            "Diamond": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+            "Pearl": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+            "Platinum": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+            "HeartGold": "When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail.",
+            "SoulSilver": "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings."
+        },
+        "Generation V": {
+            "Black": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+            "White": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+            "Black 2": "It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail.",
+            "White 2": "It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail."
+        },
+        "Generation VI": {
+            "X": "When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail.",
+            "Y": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+            "Omega Ruby": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground.",
+            "Alpha Sapphire": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It travels by digging through the ground. Diglett and Dunsparce share one another's tunnels happily.",
+            "Ultra Moon": "When it sees a person, it digs a hole with its tail to make its escape. If you happen to find one, consider yourself lucky."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon's tiny wings have some scientists saying that Dunsparce used to fly through the sky in ancient times.",
+            "Shield": "The nests Dunsparce live in are mazes of tunnels. They never get lost in their own nests—they can tell where they are by the scent of the dirt.",
+            "Brilliant Diamond": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+            "Shining Pearl": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little."
+        },
+        "Generation IX": {
+            "Scarlet": "It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail.",
+            "Violet": "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Dark Cave *",
+            "Silver": "Dark Cave *",
+            "Crystal": "Dark Cave *"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Three Isle Port",
+            "LeafGreen": "Three Isle Port",
+            "Colosseum": "Pyrite Cave (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 208 ( Swarm )",
+            "Pearl": "Route 208 ( Swarm )",
+            "Platinum": "Route 208 ( Swarm )",
+            "HeartGold": "Dark Cave",
+            "SoulSilver": "Dark Cave",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Route 12",
+            "White": "Route 12",
+            "Black 2": "Routes 1 , 2 , 6 , 12 , 18 , and 20 , Floccesy Ranch , Dreamyard , Village Bridge , Victory Road , Nature Preserve ( rustling grass ) Route 6 * and Floccesy Ranch ( Hidden Grotto )",
+            "White 2": "Routes 1 , 2 , 6 , 12 , 18 , and 20 , Floccesy Ranch , Dreamyard , Village Bridge , Victory Road , Nature Preserve ( rustling grass ) Route 6 * and Floccesy Ranch ( Hidden Grotto )",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Routes 3 and 22 , Friend Safari ( Normal )",
+            "Y": "Routes 3 and 22 , Friend Safari ( Normal )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 2",
+            "Ultra Moon": "Route 2",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Soothing Wetlands Fields of Honor ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Route 208 ( Swarm )",
+            "Shining Pearl": "Route 208 ( Swarm )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Three , Area Four , Area Five , Area Six , Alfornada Cavern East Province: Area One , Area Two , Area Three , Tagtree Thicket West Province: Area Two , Area Three , Asado Desert North Province: Dalizapa Passage Area Zero South Province: Area Three ( Poison Tera Type ) Tera Raid Battles ( 1★ , 3★ )",
+            "Violet": "South Province: Area One , Area Three , Area Four , Area Five , Area Six , Alfornada Cavern East Province: Area One , Area Two , Area Three , Tagtree Thicket West Province: Area Two , Area Three , Asado Desert North Province: Dalizapa Passage Area Zero South Province: Area Three ( Poison Tera Type ) Tera Raid Battles ( 1★ , 3★ )",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Crystal Pool , Chilling Waterhead , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Dunsparce",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Dunsparce",
+            "to": "Dudunsparce",
+            "method": [
+                "Level up (knowing Hyper Drill)"
+            ]
+        }
+    ]
+}

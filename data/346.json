@@ -1,0 +1,122 @@
+{
+    "name": "Cradily",
+    "pokedex_number": "#0346",
+    "types": [
+        "Rock",
+        "Grass"
+    ],
+    "abilities": [
+        "Suction Cups",
+        "Storm Drain"
+    ],
+    "stats": {
+        "HP": 86,
+        "Attack": 81,
+        "Defense": 97,
+        "Sp. Atk": 81,
+        "Sp. Def": 107,
+        "Speed": 43,
+        "Total": 495
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Cradily roams around the ocean floor in search of food. This Pok é mon freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
+            "Sapphire": "Cradily 's body serves as an anchor, preventing it from being washed away in rough seas. This Pok é mon secretes a strong digestive fluid from its tentacles.",
+            "Emerald": "It drags its heavy body along the seafloor. It makes its nest in the shallows of warm seas. Cradily can be seen on beaches when the tide goes out.",
+            "FireRed": "It ensnares prey with its eight tentacles. It then melts the prey with a strong acid before feeding.",
+            "LeafGreen": "It ensnares prey with its eight tentacles. It then melts the prey with a strong acid before feeding."
+        },
+        "Generation IV": {
+            "Diamond": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
+            "Pearl": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
+            "Platinum": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
+            "HeartGold": "It lives in warm seas. Its heavy body weighs it down so it won't get washed away in rough weather.",
+            "SoulSilver": "It lives in warm seas. Its heavy body weighs it down so it won't get washed away in rough weather."
+        },
+        "Generation V": {
+            "Black": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
+            "White": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
+            "Black 2": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
+            "White 2": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches."
+        },
+        "Generation VI": {
+            "X": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
+            "Y": "It ensnares prey with its eight tentacles. It then melts the prey with a strong acid before feeding.",
+            "Omega Ruby": "Cradily roams around the ocean floor in search of food. This Pokémon freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
+            "Alpha Sapphire": "Cradily's body serves as an anchor, preventing it from being washed away in rough seas. This Pokémon secretes a strong digestive fluid from its tentacles."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Normally, it lived on shallow sea shoals. When the tide went out, this Pokémon came up on land to search for prey.",
+            "Ultra Moon": "This carnivorous Pokémon lived in primordial seas. It catches prey in its eight tentacles and dissolves them with digestive fluid as it eats."
+        },
+        "Generation VIII": {
+            "Sword": "It has short legs and can't walk very fast, but its neck and tentacles can extend to over three times their usual length to nab distant prey.",
+            "Shield": "Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients.",
+            "Brilliant Diamond": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
+            "Shining Pearl": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Lileep",
+            "Sapphire": "Evolve Lileep",
+            "Emerald": "Evolve Lileep",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Lileep",
+            "Pearl": "Evolve Lileep",
+            "Platinum": "Evolve Lileep",
+            "HeartGold": "Trade",
+            "SoulSilver": "Evolve Lileep",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Evolve Lileep",
+            "White": "Evolve Lileep",
+            "Black 2": "Evolve Lileep",
+            "White 2": "Evolve Lileep"
+        },
+        "Generation VI": {
+            "X": "Evolve Lileep",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Lileep",
+            "Alpha Sapphire": "Evolve Lileep"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Lileep",
+            "Ultra Moon": "Evolve Lileep",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Slippery Slope , Snowslide Slope , Crown Shrine , Giant's Foot , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Lileep",
+            "Shining Pearl": "Evolve Lileep",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Lileep",
+            "to": "Cradily",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

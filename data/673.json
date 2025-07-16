@@ -1,0 +1,73 @@
+{
+    "name": "Gogoat",
+    "pokedex_number": "#0673",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sap Sipper",
+        "Grass Pelt"
+    ],
+    "stats": {
+        "HP": 123,
+        "Attack": 100,
+        "Defense": 62,
+        "Sp. Atk": 97,
+        "Sp. Def": 81,
+        "Speed": 68,
+        "Total": 531
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "It can tell how its Trainer is feeling by subtle shifts in the grip on its horns. This empathic sense lets them run as if one being.",
+            "Y": "They inhabit mountainous regions. The leader of the herd is decided by a battle of clashing horns.",
+            "Omega Ruby": "It can tell how its Trainer is feeling by subtle shifts in the grip on its horns. This empathic sense lets them run as if one being.",
+            "Alpha Sapphire": "They inhabit mountainous regions. The leader of the herd is decided by a battle of clashing horns."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "It can sense the feelings of others by touching them with its horns. This species has assisted people with their work since 5,000 years ago.",
+            "Violet": "These Pokémon live in herds in mountainous places. The victor in their contests of clashing horns will become the leader of the herd."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Friend Safari ( Grass )",
+            "Y": "Friend Safari ( Grass )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six West Province: Area Three North Province: Area One , Area Two , Area Three , Casseroya Lake , Dalizapa Passage Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Area Six West Province: Area Three North Province: Area One , Area Two , Area Three , Casseroya Lake , Dalizapa Passage Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Skiddo",
+            "to": "Gogoat",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

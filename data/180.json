@@ -1,0 +1,140 @@
+{
+    "name": "Flaaffy",
+    "pokedex_number": "#0180",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Static",
+        "Plus"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 55,
+        "Sp. Atk": 80,
+        "Sp. Def": 60,
+        "Speed": 45,
+        "Total": 365
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "As a result of storing too much electricity, it developed patches where even downy wool won't grow.",
+            "Silver": "Its fluffy fleece easily stores electricity. Its rubbery hide keeps it from being electrocuted.",
+            "Crystal": "Because of its rubbery, electricity-resistant skin, it can store lots of electricity in its fur.",
+            "Stadium 2": "As a result of storing too much electricity, it developed patches where even downy wool won't grow. (Pokémon Red, Silver, or Crystal inserted) Its fluffy fleece easily stores electricity. Its rubbery hide keeps it from being electrocuted. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Flaaffy 's wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity.",
+            "Sapphire": "Flaaffy 's wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity.",
+            "Emerald": "Its fleece quality changes to generate strong static electricity with a small amount of wool. The bare, slick parts of its hide are shielded against electricity.",
+            "FireRed": "Its fluffy fleece easily stores electricity. Its rubbery hide keeps it from being electrocuted.",
+            "LeafGreen": "As a result of storing too much electricity, it developed patches where even downy wool won't grow."
+        },
+        "Generation IV": {
+            "Diamond": "If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.",
+            "Pearl": "If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.",
+            "Platinum": "If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.",
+            "HeartGold": "As a result of storing too much electricity, it developed patches where even downy wool won't grow.",
+            "SoulSilver": "Its fluffy fleece easily stores electricity. Its rubbery hide keeps it from being electrocuted."
+        },
+        "Generation V": {
+            "Black": "If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.",
+            "White": "If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.",
+            "Black 2": "Not even downy wool will grow on its rubbery, nonconductive patches of skin that prevent electrical shock.",
+            "White 2": "Not even downy wool will grow on its rubbery, nonconductive patches of skin that prevent electrical shock."
+        },
+        "Generation VI": {
+            "X": "Its fluffy fleece easily stores electricity. Its rubbery hide keeps it from being electrocuted.",
+            "Y": "If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.",
+            "Omega Ruby": "Flaaffy's wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity.",
+            "Alpha Sapphire": "Flaaffy's wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity."
+        },
+        "Generation VII": {
+            "Ultra Sun": "In the places on its body where fleece doesn't grow, its skin is rubbery and doesn't conduct electricity. Those spots are safe to touch.",
+            "Ultra Moon": "It stores electricity in its fluffy fleece. If it stores up too much, it will start to go bald in those patches."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "If its coat becomes fully charged with electricity, its tail lights up. Flaaffy can fire hair that zaps on impact.",
+            "Shining Pearl": "If its coat becomes fully charged with electricity, its tail lights up. Flaaffy can fire hair that zaps on impact."
+        },
+        "Generation IX": {
+            "Scarlet": "As a result of storing too much electricity, it developed patches where even downy wool won’t grow.",
+            "Violet": "Because of its rubbery, electricity-resistant skin, it can store lots of electricity in its fur."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 42 and 43",
+            "Silver": "Routes 42 and 43",
+            "Crystal": "Trade"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Evolve Mareep",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Pyrite Town (Shadow)",
+            "XD": "Evolve Mareep"
+        },
+        "Generation IV": {
+            "Diamond": "Route 222 ( Poké Radar )",
+            "Pearl": "Route 222 ( Poké Radar )",
+            "Platinum": "Route 222 ( Poké Radar )",
+            "HeartGold": "Routes 42 and 43",
+            "SoulSilver": "Routes 42 and 43",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Mareep",
+            "Black 2": "Evolve Mareep",
+            "White 2": "Evolve Mareep"
+        },
+        "Generation VI": {
+            "X": "Evolve Mareep",
+            "Y": "Evolve Mareep",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Mareep , Poké Pelago",
+            "Ultra Moon": "Evolve Mareep , Poké Pelago",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 222 ( Poké Radar ) Grand Underground - Grassland Cave , Whiteout Cave , Sunlit Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 222 ( Poké Radar ) Grand Underground - Grassland Cave , Whiteout Cave , Sunlit Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Three West Province: Area Two Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area Three West Province: Area Two Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Mareep",
+            "to": "Flaaffy",
+            "method": [
+                "Level 15"
+            ]
+        },
+        {
+            "from": "Flaaffy",
+            "to": "Ampharos",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "name": "Hattrem",
+    "pokedex_number": "#0857",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Healer",
+        "Anticipation",
+        "Magic Bounce"
+    ],
+    "stats": {
+        "HP": 57,
+        "Attack": 40,
+        "Defense": 65,
+        "Sp. Atk": 86,
+        "Sp. Def": 73,
+        "Speed": 49,
+        "Total": 370
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "No matter who you are, if you bring strong emotions near this Pokémon, it will silence you violently.",
+            "Shield": "Using the braids on its head, it pummels foes to get them to quiet down. One blow from those braids would knock out a professional boxer."
+        },
+        "Generation IX": {
+            "Scarlet": "To this Pokémon, strong emotions apparently feel like incredibly loud noises—even if the emotions are happy ones.",
+            "Violet": "The moment this Pokémon finds someone who's emitting strong emotions, it will pummel them senseless with its braids to silence them."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Dusty Bowl , Glimwood Tangle Bridge Field , Hammerlocke Hills , Motostoke Riverbank , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Shield": "Dusty Bowl , Glimwood Tangle Bridge Field , Hammerlocke Hills , Motostoke Riverbank , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Expansion Pass": "Frostpoint Field , Giant's Bed , Old Cemetery , Giant's Foot , Frigid Sea , Three-Point Pass , Ballimere Lake Slippery Slope ( Wanderer ) Frostpoint Field , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six East Province: Tagtree Thicket North Province: Glaseado Mountain Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area Six East Province: Tagtree Thicket North Province: Glaseado Mountain Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Hatenna",
+            "to": "Hattrem",
+            "method": [
+                "Level 32"
+            ]
+        },
+        {
+            "from": "Hattrem",
+            "to": "Hatterene",
+            "method": [
+                "Level 42"
+            ]
+        }
+    ]
+}

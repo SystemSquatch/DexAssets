@@ -1,0 +1,117 @@
+{
+    "name": "Bronzor",
+    "pokedex_number": "#0436",
+    "types": [
+        "Steel",
+        "Psychic"
+    ],
+    "abilities": [
+        "Levitate",
+        "Heatproof",
+        "Heavy Metal"
+    ],
+    "stats": {
+        "HP": 57,
+        "Attack": 24,
+        "Defense": 86,
+        "Sp. Atk": 24,
+        "Sp. Def": 86,
+        "Speed": 23,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
+            "Pearl": "X-ray photos were taken to check its body structure. Nothing appeared, however.",
+            "Platinum": "There are researchers who believe this Pokémon reflected like a mirror in the distant past.",
+            "HeartGold": "Ancient people believed that the pattern on Bronzor 's back contained a mysterious power.",
+            "SoulSilver": "Ancient people believed that the pattern on Bronzor 's back contained a mysterious power."
+        },
+        "Generation V": {
+            "Black": "There are researchers who believe this Pokémon reflected like a mirror in the distant past.",
+            "White": "There are researchers who believe this Pokémon reflected like a mirror in the distant past.",
+            "Black 2": "They are found in ancient tombs. The patterns on their backs are said to be imbued with mysterious power.",
+            "White 2": "They are found in ancient tombs. The patterns on their backs are said to be imbued with mysterious power."
+        },
+        "Generation VI": {
+            "X": "Ancient people believed that the pattern on Bronzor's back contained a mysterious power.",
+            "Y": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
+            "Omega Ruby": "Ancient people believed that the pattern on Bronzor's back contained a mysterious power.",
+            "Alpha Sapphire": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It appears in ancient ruins. The pattern on its body doesn't come from any culture in the Galar region, so it remains shrouded in mystery.",
+            "Shield": "Polishing Bronzor to a shine makes its surface reflect the truth, according to common lore. Be that as it may, Bronzor hates being polished.",
+            "Brilliant Diamond": "Implements shaped like Bronzor were discovered in ancient tombs. It is unknown whether they are related.",
+            "Shining Pearl": "X-ray photos were taken to check its body structure, but nothing was seen.",
+            "Legends: Arceus": "Floats using a mysterious energy. The pattern engraved upon its back is held as sacred and can sometimes be found in imagery from ancient cemeteries and other such timeworn places."
+        },
+        "Generation IX": {
+            "Scarlet": "Ancient people believed that the pattern on Bronzor’s back contained a mysterious power.",
+            "Violet": "They are found in ancient tombs. The patterns on their backs are said to be imbued with mysterious power."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Route 206 , Wayward Cave , Turnback Cave , Mt. Coronet",
+            "Pearl": "Route 206 , Wayward Cave , Turnback Cave , Mt. Coronet",
+            "Platinum": "Route 211 , Wayward Cave , Turnback Cave , Mt. Coronet",
+            "HeartGold": "Safari Zone (Peak with 35 Peak points and 14 Forest points) Slowpoke Well , Union Cave , Mt. Mortar , Dark Cave , Whirl Islands , Mt. Silver Cave , Ice Path , Cliff Cave , Diglett's Cave , Mt. Moon , Cerulean Cave , Rock Tunnel , Seafoam Islands , Victory Road , Tohjo Falls (Sinnoh Sound)",
+            "SoulSilver": "Safari Zone (Peak with 35 Peak points and 14 Forest points) Slowpoke Well , Union Cave , Mt. Mortar , Dark Cave , Whirl Islands , Mt. Silver Cave , Ice Path , Cliff Cave , Diglett's Cave , Mt. Moon , Cerulean Cave , Rock Tunnel , Seafoam Islands , Victory Road , Tohjo Falls (Sinnoh Sound)",
+            "Pokéwalker": "Icy Mountain Rd. , Winner's Path"
+        },
+        "Generation V": {
+            "Black": "Breed Bronzong",
+            "White": "Breed Bronzong",
+            "Black 2": "Abundant Shrine Abundant Shrine ( Hidden Grotto ) * Transfer from Dream Radar",
+            "White 2": "Abundant Shrine Abundant Shrine ( Hidden Grotto ) * Transfer from Dream Radar",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Breed Bronzong",
+            "Y": "Breed Bronzong",
+            "Omega Ruby": "Mt. Pyre exterior ( hidden Pokémon * )",
+            "Alpha Sapphire": "Mt. Pyre exterior ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "South Lake Miloch , Giant's Seat , Bridge Field Dusty Bowl , Giant's Seat , Hammerlocke Hills , Motostoke Riverbank , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "South Lake Miloch , Giant's Seat , Bridge Field , Stony Wilderness Dusty Bowl , Giant's Seat , Hammerlocke Hills , Motostoke Riverbank , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Foot , Three-Point Pass Brawlers' Cave , Courageous Cavern , Stepping-Stone Sea , Giant's Bed , Snowslide Slope , Path to the Peak , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 206 , Wayward Cave , Turnback Cave , Mt. Coronet Grand Underground - Rocky Cave , Icy Cave , Dazzling Cave , Stargleam Cavern , Big Bluff Cavern , Glacial Cavern (After obtaining TM96 ( Strength ))",
+            "Shining Pearl": "Route 206 , Wayward Cave , Turnback Cave , Mt. Coronet Grand Underground - Rocky Cave , Icy Cave , Dazzling Cave , Stargleam Cavern , Big Bluff Cavern , Glacial Cavern (After obtaining TM96 ( Strength ))",
+            "Legends: Arceus": "Crimson Mirelands : massive mass outbreaks Coronet Highlands : Ancient Quarry , near Clamberclaw Cliffs , near Celestica Ruins , near Primeval Grotto , Stonetooth Rows Day , massive mass outbreaks Alabaster Icelands : Lake Acuity , Snowpoint Temple , massive mass outbreaks Coronet Highlands: Wayward Wood , near Ancient Quarry, Sonorous Path , Lonely Spring , Clamberclaw Cliffs, Primeval Grotto Shaking ore deposits Alabaster Icelands: Lake Acuity Shaking ore deposits"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Two , Area Three , Area Four , Area Five East Province: Area Two West Province: Area One , Area Two Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area Two , Area Three , Area Four , Area Five East Province: Area Two West Province: Area One , Area Two Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Oni Mountain , Infernal Pass , Crystal Pool , Chilling Waterhead , Wistful Fields , Paradise Barrens , Kitakami Wilds"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Bronzor",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Bronzor",
+            "to": "Bronzong",
+            "method": [
+                "Level 33"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "name": "Araquanid",
+    "pokedex_number": "#0752",
+    "types": [
+        "Water",
+        "Bug"
+    ],
+    "abilities": [
+        "Water Bubble",
+        "Water Absorb"
+    ],
+    "stats": {
+        "HP": 68,
+        "Attack": 70,
+        "Defense": 92,
+        "Sp. Atk": 50,
+        "Sp. Def": 132,
+        "Speed": 42,
+        "Total": 454
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It delivers headbutts with the water bubble on its head. Small Pokémon get sucked into the bubble, where they drown.",
+            "Moon": "Despite what its appearance suggests, it cares for others. If it finds vulnerable, weak Pokémon, it protectively brings them into its water bubble.",
+            "Ultra Sun": "It usually passes its time in the water. When its belly is full, it stores its subdued prey in the water bubble on its head.",
+            "Ultra Moon": "It has a habit of storing things it values in its water bubble. If its Trainer doesn't watch out, Araquanid will try to put them in its bubble!"
+        },
+        "Generation VIII": {
+            "Sword": "It launches water bubbles with its legs, drowning prey within the bubbles. This Pokémon can then take its time to savor its meal.",
+            "Shield": "It acts as a caretaker for Dewpider , putting them inside its bubble and letting them eat any leftover food."
+        },
+        "Generation IX": {
+            "Scarlet": "A caring Pokémon, Araquanid carries Dewpider around inside its water bubble to protect them as it walks. It protects its food in its bubble too.",
+            "Violet": "It launches sticky water bubbles. Foes who lose consciousness while trapped inside these bubbles will get torn apart by Araquanid’s gnashing jaws."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Malie Garden Day",
+            "Moon": "Malie Garden Day",
+            "Ultra Sun": "Malie Garden Day",
+            "Ultra Moon": "Malie Garden Day Received from Samson Oak at Heahea Beach * ( Totem -sized)",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Stony Wilderness ( Wanderer ) Rolling Fields , Dappled Grove , West Lake Axewell , South Lake Miloch , Bridge Field , Dusty Bowl , Lake of Outrage ( Max Raid Battle )",
+            "Shield": "Lake of Outrage Stony Wilderness ( Wanderer ) Rolling Fields , Dappled Grove , West Lake Axewell , South Lake Miloch , Bridge Field , Dusty Bowl , Lake of Outrage ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed , Old Cemetery , Giant's Foot , Frigid Sea , Three-Point Pass , Ballimere Lake Max Lair ( Dynamax Adventure ) Slippery Slope , Crown Shrine , Giant's Foot , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Dewpider",
+            "to": "Araquanid",
+            "method": [
+                "Level 22"
+            ]
+        }
+    ]
+}

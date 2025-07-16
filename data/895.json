@@ -1,0 +1,44 @@
+{
+    "name": "Regidrago",
+    "pokedex_number": "#0895",
+    "types": [
+        "Dragon",
+        "Unknown"
+    ],
+    "abilities": [
+        "Dragon's Maw"
+    ],
+    "stats": {
+        "HP": 200,
+        "Attack": 100,
+        "Defense": 50,
+        "Sp. Atk": 100,
+        "Sp. Def": 50,
+        "Speed": 80,
+        "Total": 580
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "An academic theory proposes that Regidrago's arms were once the head of an ancient dragon Pokémon. The theory remains unproven.",
+            "Shield": "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Split-Decision Ruins ( Only one , choice between it and Regieleki )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME",
+            "Violet": "Pokémon HOME"
+        }
+    },
+    "evolution": []
+}

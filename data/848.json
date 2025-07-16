@@ -1,0 +1,63 @@
+{
+    "name": "Toxel",
+    "pokedex_number": "#0848",
+    "types": [
+        "Electric",
+        "Poison"
+    ],
+    "abilities": [
+        "Rattled",
+        "Static",
+        "Klutz"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 38,
+        "Defense": 35,
+        "Sp. Atk": 54,
+        "Sp. Def": 35,
+        "Speed": 40,
+        "Total": 242
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pokémon, a tingling sensation follows.",
+            "Shield": "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis."
+        },
+        "Generation IX": {
+            "Scarlet": "It has no problem drinking dirty water. An organ inside Toxel’s body filters such water into a poisonous liquid that is harmless to Toxel.",
+            "Violet": "This selfish, attention-seeking Pokémon stores poison and electricity in two different sacs inside its body."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Received from a Pokémon Breeder inside the Pokémon Nursery on Route 5 Route 7 , Hammerlocke Hills , Giant's Cap , Stony Wilderness , Bridge Field , Motostoke Riverbank East Lake Axewell , North Lake Miloch , Motostoke Riverbank , Giant's Cap , Lake of Outrage , Giant's Mirror , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Received from a Pokémon Breeder inside the Pokémon Nursery on Route 5 Route 7 , Hammerlocke Hills , Giant's Cap , Stony Wilderness , Bridge Field , Motostoke Riverbank East Lake Axewell , North Lake Miloch , Motostoke Riverbank , Giant's Cap , Lake of Outrage , Giant's Mirror , Hammerlocke Hills ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Four , Area Six Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two , Area Four , Area Six Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Toxel",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Toxel",
+            "to": "Toxtricity",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

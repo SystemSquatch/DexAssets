@@ -1,0 +1,43 @@
+{
+    "name": "Eternatus",
+    "pokedex_number": "#0890",
+    "types": [
+        "Poison",
+        "Dragon"
+    ],
+    "abilities": [
+        "Pressure"
+    ],
+    "stats": {
+        "HP": 140,
+        "Attack": 85,
+        "Defense": 95,
+        "Sp. Atk": 145,
+        "Sp. Def": 95,
+        "Speed": 130,
+        "Total": 690
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "As a result of Rose 's meddling, Eternatus absorbed all the energy in the Galar region. It's now in a state of power overload.",
+            "Shield": "Infinite amounts of energy pour from this Pokémon's enlarged core, warping the surrounding space-time."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Tower Summit ( Only one )",
+            "Shield": "Tower Summit ( Only one )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME",
+            "Violet": "Pokémon HOME"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Tinkatink",
+    "pokedex_number": "#0957",
+    "types": [
+        "Fairy",
+        "Steel"
+    ],
+    "abilities": [
+        "Mold Breaker",
+        "Own Tempo",
+        "Pickpocket"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 45,
+        "Defense": 45,
+        "Sp. Atk": 35,
+        "Sp. Def": 64,
+        "Speed": 58,
+        "Total": 297
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.",
+            "Violet": "This Pokémon pounds iron scraps together to make a hammer. It will remake the hammer again and again until it's satisfied with the result."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area Two , Area Three East Province: Area Two West Province: Area One , Asado Desert Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Area Two , Area Three East Province: Area Two West Province: Area One , Asado Desert Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Tinkatink",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Tinkatink",
+            "to": "Tinkatuff",
+            "method": [
+                "Level 24"
+            ]
+        }
+    ]
+}

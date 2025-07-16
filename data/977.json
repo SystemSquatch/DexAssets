@@ -1,0 +1,37 @@
+{
+    "name": "Dondozo",
+    "pokedex_number": "#0977",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Unaware",
+        "Oblivious",
+        "Water Veil"
+    ],
+    "stats": {
+        "HP": 150,
+        "Attack": 100,
+        "Defense": 115,
+        "Sp. Atk": 65,
+        "Sp. Def": 65,
+        "Speed": 35,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon is a glutton, but it's bad at getting food. It teams up with a Tatsugiri to catch prey.",
+            "Violet": "It treats Tatsugiri like its boss and follows it loyally. Though powerful, Dondozo is apparently not very smart."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "North Province: Casseroya Lake Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "North Province: Casseroya Lake Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": []
+}

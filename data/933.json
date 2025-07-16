@@ -1,0 +1,52 @@
+{
+    "name": "Naclstack",
+    "pokedex_number": "#0933",
+    "types": [
+        "Rock",
+        "Unknown"
+    ],
+    "abilities": [
+        "Purifying Salt",
+        "Sturdy",
+        "Clear Body"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 100,
+        "Sp. Atk": 35,
+        "Sp. Def": 65,
+        "Speed": 35,
+        "Total": 355
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey’s body.",
+            "Violet": "It compresses rock salt inside its body and shoots out hardened salt pellets with enough force to perforate an iron sheet."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six West Province: Area Three West Province: Area Two ( Ghost Tera Type ) North Province: Area One , Area Two , Area Three , Casseroya Lake , Glaseado Mountain Area Zero Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area Six West Province: Area Three West Province: Area Two ( Ghost Tera Type ) North Province: Area One , Area Two , Area Three , Casseroya Lake , Glaseado Mountain Area Zero Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Nacli",
+            "to": "Naclstack",
+            "method": [
+                "Level 24"
+            ]
+        },
+        {
+            "from": "Naclstack",
+            "to": "Garganacl",
+            "method": [
+                "Level 38"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Obstagoon",
+    "pokedex_number": "#0862",
+    "types": [
+        "Dark",
+        "Normal"
+    ],
+    "abilities": [
+        "Reckless",
+        "Guts",
+        "Defiant"
+    ],
+    "stats": {
+        "HP": 93,
+        "Attack": 90,
+        "Defense": 101,
+        "Sp. Atk": 60,
+        "Sp. Def": 81,
+        "Speed": 95,
+        "Total": 520
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout—this move is known as Obstruct .",
+            "Shield": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Route 2 (only one), Bridge Field ( Wanderer ) Bridge Field , Dusty Bowl , Giant's Mirror , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Lake of Outrage Route 2 (only one), Bridge Field ( Wanderer ) Bridge Field , Dusty Bowl , Giant's Mirror , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed , Ballimere Lake ( Wanderer ) Frostpoint Field , Giant's Bed , Snowslide Slope , Giant's Foot , Frigid Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Linoone",
+            "to": "Obstagoon",
+            "method": [
+                "Level 35 (during the night)"
+            ]
+        }
+    ]
+}

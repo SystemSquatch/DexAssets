@@ -1,0 +1,143 @@
+{
+    "name": "Marill",
+    "pokedex_number": "#0183",
+    "types": [
+        "Water",
+        "Fairy"
+    ],
+    "abilities": [
+        "Thick Fat",
+        "Huge Power",
+        "Sap Sipper"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 20,
+        "Defense": 50,
+        "Sp. Atk": 20,
+        "Sp. Def": 50,
+        "Speed": 40,
+        "Total": 250
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "The tip of its tail, which contains oil that is lighter than water, lets it swim without drowning.",
+            "Silver": "The end of its tail serves as a buoy that keeps it from drowning, even in a vicious current.",
+            "Crystal": "The fur on its body naturally repels water. It can stay dry, even when it plays in the water.",
+            "Stadium 2": "The tip of its tail, which contains oil that is lighter than water, lets it swim without drowning. (Pokémon Red, Silver, or Crystal inserted) The end of its tail serves as a buoy that keeps it from drowning, even in a vicious current. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Marill 's oil-filled tail acts much like a life preserver. If you see just its tail bobbing on the water's surface, it's a sure indication that this Pok é mon is diving beneath the water to feed on aquatic plants.",
+            "Sapphire": "When fishing for food at the edge of a fast-running stream, Marill wraps its tail around the trunk of a tree. This Pok é mon 's tail is flexible and configured to stretch.",
+            "Emerald": "Its body is covered with water-repellent fur. Because of the fur, it can swim through water at high speed without being slowed by the water's resistance.",
+            "FireRed": "The end of its tail serves as a buoy that keeps it from drowning, even in a vicious current.",
+            "LeafGreen": "The tip of its tail, which contains oil that is lighter than water, lets it swim without drowning."
+        },
+        "Generation IV": {
+            "Diamond": "Using its tail as a float, it dives underwater. It likes eating plants that grow on river bottoms.",
+            "Pearl": "The tip of its tail is filled with oil that is lighter than water, so it acts as a float.",
+            "Platinum": "The oil-filled end of its tail floats on water. It keeps Marill from drowning even in a strong current.",
+            "HeartGold": "The tip of its tail, which contains oil that is lighter than water, lets it swim without drowning.",
+            "SoulSilver": "The end of its tail serves as a buoy that keeps it from drowning, even in a vicious current."
+        },
+        "Generation V": {
+            "Black": "The oil-filled end of its tail floats on water. It keeps Marill from drowning even in a strong current.",
+            "White": "The oil-filled end of its tail floats on water. It keeps Marill from drowning even in a strong current.",
+            "Black 2": "The oil-filled tail functions as a buoy, so it's fine even in rivers with strong currents.",
+            "White 2": "The oil-filled tail functions as a buoy, so it's fine even in rivers with strong currents."
+        },
+        "Generation VI": {
+            "X": "The fur on its body naturally repels water. It can stay dry, even when it plays in the water.",
+            "Y": "The tip of its tail is filled with oil that is lighter than water, so it acts as a float.",
+            "Omega Ruby": "Marill's oil-filled tail acts much like a life preserver. If you see just its tail bobbing on the water's surface, it's a sure indication that this Pokémon is diving beneath the water to feed on aquatic plants.",
+            "Alpha Sapphire": "When fishing for food at the edge of a fast-running stream, Marill wraps its tail around the trunk of a tree. This Pokémon's tail is flexible and configured to stretch."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "This Pokémon uses its round tail as a float. The ball of Marill's tail is filled with nutrients that have been turned into an oil.",
+            "Shield": "Even after Marill swims in a cold sea, its water-repellent fur dries almost as soon as Marill leaves the water. That's why this Pokémon is never cold.",
+            "Brilliant Diamond": "Using its tail as a float, it dives underwater. It likes eating plants that grow in riverbeds.",
+            "Shining Pearl": "The tip of its tail is filled with oil that is lighter than water, so it acts as a float."
+        },
+        "Generation IX": {
+            "Scarlet": "The fur on its body naturally repels water. It can stay dry even when it plays in the water.",
+            "Violet": "The oil-filled tail functions as a buoy, so it's fine even in rivers with strong currents."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Mt. Mortar (walking)",
+            "Silver": "Mt. Mortar (walking)",
+            "Crystal": "Mt. Mortar ( Surfing ) Route 42 , Mt. Mortar Night"
+        },
+        "Generation III": {
+            "Ruby": "Routes 102 , 111 , 114 , and 117 , Petalburg City ( Surfing ) Routes 117 and 120 (tall grass)",
+            "Sapphire": "Routes 102 , 111 , 114 , and 117 , Petalburg City ( Surfing ) Routes 117 and 120 (tall grass)",
+            "Emerald": "Routes 102 , 111 , 114 , 117 , and 120 , Petalburg City , Safari Zone ( Surfing ) Routes 104 , 112 , 117 , and 120 (tall grass)",
+            "FireRed": "Trade",
+            "LeafGreen": "Four Island , Icefall Cave , Ruin Valley",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Great Marsh , Trophy Garden",
+            "Pearl": "Great Marsh , Trophy Garden",
+            "Platinum": "Routes 212 and 215 , Trophy Garden",
+            "HeartGold": "Mt. Mortar Safari Zone (tall grass Night and Surfing in Meadow, default)",
+            "SoulSilver": "Mt. Mortar Safari Zone (tall grass Night and Surfing in Meadow, default)",
+            "Pal Park": "Pond",
+            "Pokéwalker": "Resort"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Azurill",
+            "Black 2": "Routes 6 , 11 , and 22 , Village Bridge , Abundant Shrine ( Tall grass and Surfing ) Victory Road * , Pinwheel Forest , Relic Passage ( Surfing ) Route 20 , Floccesy Ranch ( Surfing in rippling water ) Floccesy Ranch ( Hidden Grotto )",
+            "White 2": "Routes 6 , 11 , and 22 , Village Bridge , Abundant Shrine ( Tall grass and Surfing ) Victory Road * , Pinwheel Forest , Relic Passage ( Surfing ) Route 20 , Floccesy Ranch ( Surfing in rippling water ) Floccesy Ranch ( Hidden Grotto )",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Route 3 ( Surfing )",
+            "Y": "Route 3 ( Surfing )",
+            "Omega Ruby": "Routes 102 , 111 , 114 , and 123 , Petalburg City ( Surfing ) Route 117 ( Tall grass and Surfing ) Route 120 ( Horde Encounter )",
+            "Alpha Sapphire": "Routes 102 , 111 , 114 , and 123 , Petalburg City ( Surfing ) Route 117 ( Tall grass and Surfing ) Route 120 ( Horde Encounter )"
+        },
+        "Generation VII": {
+            "Sun": "Brooklet Hill ( Island Scan ) Sa",
+            "Moon": "Brooklet Hill ( Island Scan ) Sa",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Fields of Honor , Soothing Wetlands ( Wanderer ) Fields of Honor ( Max Raid Battle )",
+            "Brilliant Diamond": "Great Marsh , Trophy Garden",
+            "Shining Pearl": "Great Marsh , Trophy Garden",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Four , Area Five East Province: Area Two West Province: Area One Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area One , Area Two , Area Four , Area Five East Province: Area Two West Province: Area One Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Azurill",
+            "to": "Marill",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        },
+        {
+            "from": "Marill",
+            "to": "Azumarill",
+            "method": [
+                "Level 18"
+            ]
+        }
+    ]
+}

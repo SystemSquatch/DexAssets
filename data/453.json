@@ -1,0 +1,116 @@
+{
+    "name": "Croagunk",
+    "pokedex_number": "#0453",
+    "types": [
+        "Poison",
+        "Fighting"
+    ],
+    "abilities": [
+        "Anticipation",
+        "Dry Skin",
+        "Poison Touch"
+    ],
+    "stats": {
+        "HP": 48,
+        "Attack": 61,
+        "Defense": 40,
+        "Sp. Atk": 61,
+        "Sp. Def": 40,
+        "Speed": 50,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
+            "Pearl": "Inflating its poison sacs, it makes an eerie blubbering sound for intimidation.",
+            "Platinum": "It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.",
+            "HeartGold": "Fluid squeezed from its finger, albeit poisonous, is a significant ingredient in remedies for lower-back HG /lower back SS pain.",
+            "SoulSilver": "Fluid squeezed from its finger, albeit poisonous, is a significant ingredient in remedies for lower-back HG /lower back SS pain."
+        },
+        "Generation V": {
+            "Black": "It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.",
+            "White": "It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.",
+            "Black 2": "Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab.",
+            "White 2": "Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab."
+        },
+        "Generation VI": {
+            "X": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
+            "Y": "Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab.",
+            "Omega Ruby": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
+            "Alpha Sapphire": "Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It makes frightening noises with its poison-filled cheek sacs. When opponents flinch, Croagunk hits them with a poison jab.",
+            "Shield": "Once diluted, its poison becomes medicinal. This Pokémon came into popularity after a pharmaceutical company chose it as a mascot.",
+            "Brilliant Diamond": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
+            "Shining Pearl": "It inflates its poison sacs and makes a blubbering sound to intimidate foes.",
+            "Legends: Arceus": "A poison wielder with a dastardly personality. Despite such qualities, this species is afforded a measure of popularity due to its peculiar cry and comical features."
+        },
+        "Generation IX": {
+            "Scarlet": "Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab.",
+            "Violet": "It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Great Marsh",
+            "Pearl": "Great Marsh",
+            "Platinum": "Route 212 , Great Marsh",
+            "HeartGold": "Safari Zone (tall grass in Marshland with 42 Forest points)",
+            "SoulSilver": "Safari Zone (tall grass in Marshland with 42 Forest points)",
+            "Pokéwalker": "Rally"
+        },
+        "Generation V": {
+            "Black": "Route 8 ( Swarm ) Spring Summer Autumn",
+            "White": "Route 8 ( Swarm ) Spring Summer Autumn",
+            "Black 2": "Route 8 , Icirrus City , Moor of Icirrus Spring Summer Autumn",
+            "White 2": "Route 8 , Icirrus City , Moor of Icirrus Spring Summer Autumn",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Route 7",
+            "Y": "Route 7",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Galar Mine No. 2 , Motostoke Outskirts , Bridge Field , Stony Wilderness , Dusty Bowl , Giant's Cap Dusty Bowl , North Lake Miloch , Rolling Fields , South Lake Miloch , Stony Wilderness ( Max Raid Battle )",
+            "Shield Expansion Pass": "Soothing Wetlands , Forest of Focus",
+            "Brilliant Diamond": "Great Marsh Grand Underground - Swampy Cave , Riverbank Cave , Still-Water Cavern , Bogsunk Cavern",
+            "Shining Pearl": "Great Marsh Grand Underground - Swampy Cave , Riverbank Cave , Still-Water Cavern , Bogsunk Cavern",
+            "Legends: Arceus": "Crimson Mirelands : Gapejaw Bog , Holm of Trials , near Sludge Mound , Scarlet Bog , massive mass outbreaks Coronet Highlands : near Ancient Quarry"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Five West Province: Area Two Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Area Five West Province: Area Two Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Croagunk",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Croagunk",
+            "to": "Toxicroak",
+            "method": [
+                "Level 37"
+            ]
+        }
+    ]
+}

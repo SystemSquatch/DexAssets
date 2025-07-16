@@ -1,0 +1,44 @@
+{
+    "name": "Toedscruel",
+    "pokedex_number": "#0949",
+    "types": [
+        "Ground",
+        "Grass"
+    ],
+    "abilities": [
+        "Mycelium Might"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 65,
+        "Sp. Atk": 80,
+        "Sp. Def": 120,
+        "Speed": 100,
+        "Total": 515
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "These Pokémon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach.",
+            "Violet": "It coils its 10 tentacles around prey and sucks out their nutrients, causing the prey pain. The folds along the rim of its head are a popular delicacy."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "North Province: Socarrat Trail Tera Raid Battles ( 4★ , 6★ )",
+            "Violet": "North Province: Socarrat Trail Tera Raid Battles ( 4★ , 6★ )",
+            "The Hidden Treasure of Area Zero": "Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Toedscool",
+            "to": "Toedscruel",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

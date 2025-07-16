@@ -1,0 +1,89 @@
+{
+    "name": "Amoonguss",
+    "pokedex_number": "#0591",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "abilities": [
+        "Effect Spore",
+        "Regenerator"
+    ],
+    "stats": {
+        "HP": 114,
+        "Attack": 85,
+        "Defense": 70,
+        "Sp. Atk": 85,
+        "Sp. Def": 80,
+        "Speed": 30,
+        "Total": 464
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
+            "White": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.",
+            "Black 2": "It moves the caps on both arms and does a dance to lure prey. It prefers damp places.",
+            "White 2": "It moves the caps on both arms and does a dance to lure prey. It prefers damp places."
+        },
+        "Generation VI": {
+            "X": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.",
+            "Y": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
+            "Omega Ruby": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.",
+            "Alpha Sapphire": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "This Pokémon puffs poisonous spores at its foes. If the spores aren't washed off quickly, they'll grow into mushrooms wherever they land.",
+            "Shield": "Amoonguss generally doesn't move as much. It tends to stand still near Poké Balls that have been dropped on the ground."
+        },
+        "Generation IX": {
+            "Scarlet": "Be wary of the poisonous spores it releases. Mushrooms resembling Amoonguss’s caps will grow out of anywhere the spores touch.",
+            "Violet": "Amoonguss mimics Poké Balls. It is not yet clear whether this mimicry is effective against other Pokémon."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 10 (both in dark grass and as fake items) Route 11",
+            "White": "Route 10 (both in dark grass and as fake items) Route 11",
+            "Black 2": "Routes 11 , 22 , and 23 (both in tall grass and as fake items * ) Route 22 , Abundant Shrine * , and Pinwheel Forest * ( Hidden Grotto )",
+            "White 2": "Routes 11 , 22 , and 23 (both in tall grass and as fake items * ) Route 22 , Abundant Shrine * , and Pinwheel Forest * ( Hidden Grotto )"
+        },
+        "Generation VI": {
+            "X": "Route 20 , Pokémon Village",
+            "Y": "Route 20 , Pokémon Village",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Forest of Focus ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Area Two , Socarrat Trail Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "North Province: Area Two , Socarrat Trail Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Foongus",
+            "to": "Amoonguss",
+            "method": [
+                "Level 39"
+            ]
+        }
+    ]
+}

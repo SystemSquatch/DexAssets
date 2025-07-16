@@ -1,0 +1,77 @@
+{
+    "name": "Tyrantrum",
+    "pokedex_number": "#0697",
+    "types": [
+        "Rock",
+        "Dragon"
+    ],
+    "abilities": [
+        "Strong Jaw",
+        "Rock Head"
+    ],
+    "stats": {
+        "HP": 82,
+        "Attack": 121,
+        "Defense": 119,
+        "Sp. Atk": 69,
+        "Sp. Def": 59,
+        "Speed": 71,
+        "Total": 521
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Thanks to its gargantuan jaws, which could shred thick metal plates as if they were paper, it was invincible in the ancient world it once inhabited.",
+            "Y": "Nothing could stop this Pokémon 100 million years ago, so it behaved like a king.",
+            "Omega Ruby": "Thanks to its gargantuan jaws, which could shred thick metal plates as if they were paper, it was invincible in the ancient world it once inhabited.",
+            "Alpha Sapphire": "Nothing could stop this Pokémon 100 million years ago, so it behaved like a king."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Complete restoration is impossible, allowing room for theories that its entire body was once covered in a feather-like coat.",
+            "Ultra Moon": "The king of the ancient world, it can easily crunch a car with the devastating strength of its enormous jaws."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon is from about 100,000,000 years ago. It has the presence of a king, vicious but magnificent.",
+            "Shield": "A single bite of Tyrantrum's massive jaws will demolish a car. This Pokémon was the king of the ancient world."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Evolve Tyrunt",
+            "Y": "Evolve Tyrunt",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Tyrunt",
+            "Ultra Moon": "Evolve Tyrunt",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Ballimere Lake ( Wanderer ) Giant's Bed , Snowslide Slope , Path to the Peak , Frigid Sea , Three-Point Pass , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Tyrunt",
+            "to": "Tyrantrum",
+            "method": [
+                "Level 39 (during the day)"
+            ]
+        }
+    ]
+}

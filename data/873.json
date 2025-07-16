@@ -1,0 +1,56 @@
+{
+    "name": "Frosmoth",
+    "pokedex_number": "#0873",
+    "types": [
+        "Ice",
+        "Bug"
+    ],
+    "abilities": [
+        "Shield Dust",
+        "Ice Scales"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Atk": 125,
+        "Sp. Def": 90,
+        "Speed": 65,
+        "Total": 475
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Icy scales fall from its wings like snow as it flies over fields and mountains. The temperature of its wings is less than −290 degrees Fahrenheit .",
+            "Shield": "It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away."
+        },
+        "Generation IX": {
+            "Scarlet": "Frosmoth senses air currents with its antennae. It sends its scales drifting on frigid air, making them fall like snow.",
+            "Violet": "It causes blizzards as it flies around with its huge, chill-emanating wings. Clean meltwater is its favorite thing to drink."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Giant's Cap , Hammerlocke Hills , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Giant's Cap , Hammerlocke Hills , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Path to the Peak Max Lair ( Dynamax Adventure ) Slippery Slope , Giant's Bed , Snowslide Slope , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Area One , Glaseado Mountain Area Zero Tera Raid Battles ( 4★ , 6★ )",
+            "Violet": "North Province: Area One , Glaseado Mountain Area Zero Tera Raid Battles ( 4★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Snom",
+            "to": "Frosmoth",
+            "method": [
+                "Level up (during the night, with high friendship)"
+            ]
+        }
+    ]
+}

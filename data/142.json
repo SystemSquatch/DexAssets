@@ -1,0 +1,143 @@
+{
+    "name": "Aerodactyl",
+    "pokedex_number": "#0142",
+    "types": [
+        "Rock",
+        "Flying"
+    ],
+    "abilities": [
+        "Rock Head",
+        "Pressure",
+        "Unnerve",
+        "Tough Claws"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 65,
+        "Sp. Atk": 60,
+        "Sp. Def": 75,
+        "Speed": 130,
+        "Total": 515
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "A ferocious, prehistoric Pok é mon that goes for the enemy's throat with its serrated saw-like fangs.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "A ferocious, prehistoric Pok é mon that goes for the enemy's throat with its serrated saw-like fangs.",
+            "Yellow": "A savage Pok é mon that died out in ancient times. It was resurrected using DNA taken from amber.",
+            "Stadium": "A Pokémon that was resurrected from the genes of an ancient dinosaur. With sharp fangs, it is very vicious."
+        },
+        "Generation II": {
+            "Gold": "A vicious Pok é mon from the distant past, it appears to have flown by spreading its wings and gliding.",
+            "Silver": "This vicious Pok é mon is said to have flown in ancient skies while shrieking high-pitched cries.",
+            "Crystal": "In prehistoric times, this Pok é mon flew freely and fearlessly through the skies.",
+            "Stadium 2": "A vicious Pok é mon from the distant past, it appears to have flown by spreading its wings and gliding. (Pokémon Red, Silver, or Crystal inserted) This vicious Pok é mon is said to have flown in ancient skies while shrieking high-pitched cries. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Aerodactyl is a Pok é mon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
+            "Sapphire": "Aerodactyl is a Pok é mon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
+            "Emerald": "Aerodactyl is a Pok é mon from the age of dinosaurs. It was regenerated from DNA extracted from amber. It is imagined to have been the king of the skies.",
+            "FireRed": "It was regenerated from a dinosaur's genetic matter that was found in amber. It flies with high-pitched cries.",
+            "LeafGreen": "A ferocious, prehistoric Pok é mon that goes for the enemy's throat with its serrated, sawlike fangs."
+        },
+        "Generation IV": {
+            "Diamond": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
+            "Pearl": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
+            "Platinum": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
+            "HeartGold": "A vicious Pokémon from the distant past, it appears to have flown by spreading its wings and gliding.",
+            "SoulSilver": "This vicious Pokémon is said to have flown in ancient skies while shrieking high-pitched cries."
+        },
+        "Generation V": {
+            "Black": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
+            "White": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
+            "Black 2": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
+            "White 2": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades."
+        },
+        "Generation VI": {
+            "X": "It was regenerated from a dinosaur's genetic matter that was found in amber. It flies with high-pitched cries.",
+            "Y": "This vicious Pokémon is said to have flown in ancient skies while shrieking high-pitched cries.",
+            "Omega Ruby": "Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
+            "Alpha Sapphire": "Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times."
+        },
+        "Generation VII": {
+            "Sun": "Part of its body has become stone. Some scholars claim that this is Aerodactyl's true appearance.",
+            "Moon": "When it Mega Evolves, it becomes more vicious than ever before. Some say that's because its excess of power is causing it pain.",
+            "Ultra Sun": "It will attack anything that moves. Mega Evolution is a burden on its body, so it's incredibly irritated.",
+            "Ultra Moon": "Mega Evolution awakened some dormant genes, bringing back the sharp rocks that once covered Aerodactyl's entire body.",
+            "Let's Go Pikachu": "The power of Mega Evolution has completely restored its genes. The rocks on its body are harder than diamond.",
+            "Let's Go Eevee": "The power of Mega Evolution has completely restored its genes. The rocks on its body are harder than diamond."
+        },
+        "Generation VIII": {
+            "Sword": "This is a ferocious Pokémon from ancient times. Apparently even modern technology is incapable of producing a perfectly restored specimen.",
+            "Shield": "Aerodactyl's sawlike fangs can shred skin to tatters—even the skin of Steel-type Pokémon.",
+            "Brilliant Diamond": "It's a Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
+            "Shining Pearl": "It's a Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Revive from Old Amber at the Pokémon Lab on Cinnabar Island",
+            "Blue": "Revive from Old Amber at the Pokémon Lab on Cinnabar Island",
+            "Blue (Japan)": "Revive from Old Amber at the Pokémon Lab on Cinnabar Island",
+            "Yellow": "Revive from Old Amber at the Pokémon Lab on Cinnabar Island"
+        },
+        "Generation II": {
+            "Gold": "Trade Chansey on Route 14",
+            "Silver": "Trade Chansey on Route 14",
+            "Crystal": "Trade Chansey on Route 14"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Revive from Old Amber at the Pokémon Lab on Cinnabar Island",
+            "LeafGreen": "Revive from Old Amber at the Pokémon Lab on Cinnabar Island",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Revive from Old Amber at the Oreburgh Mining Museum in Oreburgh City",
+            "Pearl": "Revive from Old Amber at the Oreburgh Mining Museum in Oreburgh City",
+            "Platinum": "Revive from Old Amber at the Oreburgh Mining Museum in Oreburgh City",
+            "HeartGold": "Revive from Old Amber at the Pewter Museum of Science in Pewter City",
+            "SoulSilver": "Revive from Old Amber at the Pewter Museum of Science in Pewter City",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Revive from Old Amber at the Nacrene Museum",
+            "White": "Revive from Old Amber at the Nacrene Museum",
+            "Black 2": "Revive from Old Amber at the Nacrene Museum",
+            "White 2": "Revive from Old Amber at the Nacrene Museum",
+            "Dream World": "Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Revive from Old Amber at the Ambrette Town Fossil Lab",
+            "Y": "Revive from Old Amber at the Ambrette Town Fossil Lab",
+            "Omega Ruby": "Revive from Old Amber at the Devon Corporation in Rustboro City",
+            "Alpha Sapphire": "Revive from Old Amber at the Devon Corporation in Rustboro City"
+        },
+        "Generation VII": {
+            "Sun": "Seafolk Village ( Gift )",
+            "Moon": "Seafolk Village ( Gift )",
+            "Ultra Sun": "Seafolk Village ( Gift )",
+            "Ultra Moon": "Seafolk Village ( Gift )",
+            "Let's Go Pikachu": "Revive from Old Amber at the Cinnabar Lab on Cinnabar Island",
+            "Let's Go Eevee": "Revive from Old Amber at the Cinnabar Lab on Cinnabar Island"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Giant's Bed ( Wanderer ) Frostpoint Field , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake , Dyna Tree Hill ( Max Raid Battle )",
+            "Brilliant Diamond": "Revive from Old Amber at the Oreburgh Mining Museum in Oreburgh City",
+            "Shining Pearl": "Revive from Old Amber at the Oreburgh Mining Museum in Oreburgh City",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

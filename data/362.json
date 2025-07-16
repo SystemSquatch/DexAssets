@@ -1,0 +1,131 @@
+{
+    "name": "Glalie",
+    "pokedex_number": "#0362",
+    "types": [
+        "Ice",
+        "Unknown"
+    ],
+    "abilities": [
+        "Inner Focus",
+        "Ice Body",
+        "Moody",
+        "Refrigerate"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 80,
+        "Sp. Atk": 80,
+        "Sp. Def": 80,
+        "Speed": 80,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Glalie has a body made of rock, which it hardens with an armor of ice. This Pok é mon has the ability to freeze moisture in the atmosphere into any shape it desires.",
+            "Sapphire": "Glalie has the ability to freely control ice. For example, it can instantly freeze its foe solid. After immobilizing its foe in ice, this Pok é mon enjoys eating it in leisurely fashion.",
+            "Emerald": "A Glalie has the power to instantaneously freeze moisture in the atmosphere. A dazzling cloud of diamondlike ice crystals forms around its body.",
+            "FireRed": "It has a body of ice that won't melt, even with fire. It can instantly freeze moisture in the atmosphere.",
+            "LeafGreen": "It has a body of ice that won't melt, even with fire. It can instantly freeze moisture in the atmosphere."
+        },
+        "Generation IV": {
+            "Diamond": "To protect itself, it clads its body in an armor of ice, made by freezing moisture in the air.",
+            "Pearl": "To protect itself, it clads its body in an armor of ice, made by freezing moisture in the air.",
+            "Platinum": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
+            "HeartGold": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
+            "SoulSilver": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes."
+        },
+        "Generation V": {
+            "Black": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
+            "White": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
+            "Black 2": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
+            "White 2": "It prevents prey from escaping by instantaneously freezing moisture in the air."
+        },
+        "Generation VI": {
+            "X": "To protect itself, it clad its body in an armor of ice, made by freezing moisture in the air.",
+            "Y": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
+            "Omega Ruby": "Glalie has a body made of rock, which it hardens with an armor of ice. This Pokémon has the ability to freeze moisture in the atmosphere into any shape it desires.",
+            "Alpha Sapphire": "Glalie has the ability to freely control ice. For example, it can instantly freeze its prey solid. After immobilizing its prey in ice, this Pokémon enjoys eating it in leisurely fashion."
+        },
+        "Generation VII": {
+            "Sun": "The excess energy from Mega Evolution spilled over from its mouth, breaking its jaw. It spews endless blizzards.",
+            "Moon": "It envelops prey in its mouth, freezing them instantly. But its jaw is dislocated, so it's unable to eat them.",
+            "Ultra Sun": "When it spews stupendously cold air from its broken mouth, the entire area around it gets whited out.",
+            "Ultra Moon": "The power of Mega Evolution was so strong that it smashed Glalie's jaw. Its inability to eat very well leaves Glalie irritated."
+        },
+        "Generation VIII": {
+            "Sword": "It has a body of ice that won't melt, even with fire. It can instantly freeze moisture in the atmosphere.",
+            "Shield": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
+            "Brilliant Diamond": "To protect itself, it clad its body in an armor of ice, made by freezing moisture in the air.",
+            "Shining Pearl": "To protect itself, it clad its body in an armor of ice, made by freezing moisture in the air.",
+            "Legends: Arceus": "It covers its body with an armor of ice harder than steel. Uses its breath to freeze prey, which it then devours as if they were frozen desserts."
+        },
+        "Generation IX": {
+            "Scarlet": "Its prey is instantaneously frozen stiff by the cold air it exhales from its huge mouth. While they’re in that frozen state, it gobbles them up.",
+            "Violet": "It prevents prey from escaping by instantaneously freezing moisture in the air."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Snorunt",
+            "Sapphire": "Evolve Snorunt",
+            "Emerald": "Evolve Snorunt",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Evolve Snorunt"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Snorunt",
+            "Pearl": "Evolve Snorunt",
+            "Platinum": "Evolve Snorunt",
+            "HeartGold": "Evolve Pokéwalker Snorunt",
+            "SoulSilver": "Evolve Pokéwalker Snorunt",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Evolve Snorunt",
+            "Y": "Evolve Snorunt",
+            "Omega Ruby": "Evolve Snorunt Event : transfer from Pokémon Omega Ruby and Pokémon Alpha Sapphire Special Demo Version (international)",
+            "Alpha Sapphire": "Evolve Snorunt Event : transfer from Pokémon Omega Ruby and Pokémon Alpha Sapphire Special Demo Version (international)"
+        },
+        "Generation VII": {
+            "Sun": "Mount Lanakila ( SOS Battle )",
+            "Moon": "Mount Lanakila ( SOS Battle )",
+            "Ultra Sun": "Mount Lanakila",
+            "Ultra Moon": "Mount Lanakila",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 10 , Lake of Outrage Route 9 (only one), Giant's Cap , Giant's Seat , Watchtower Ruins ( Wanderer ) Dusty Bowl , Giant's Cap , Hammerlocke Hills , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 10 , Lake of Outrage Route 9 (only one), Giant's Cap , Giant's Seat , Watchtower Ruins ( Wanderer ) Dusty Bowl , Giant's Cap , Giant's Seat , Hammerlocke Hills , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Slippery Slope , Giant's Bed , Snowslide Slope ( Wanderer ) Max Lair ( Dynamax Adventure Slippery Slope , Giant's Bed , Old Cemetery , Snowslide Slope , Giant's Foot , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Routes 216 and 217 , Acuity Lakefront ( Poké Radar ) Grand Underground - Icy Cave , Whiteout Cave , Glacial Cavern",
+            "Shining Pearl": "Routes 216 and 217 , Acuity Lakefront ( Poké Radar ) Grand Underground - Icy Cave , Whiteout Cave , Glacial Cavern",
+            "Legends: Arceus": "Alabaster Icelands : Avalanche Slopes , Bonechill Wastes (additional ), Arena's Approach (only one during Request 86), Avalugg's Legacy , Snowpoint Temple , near Pearl Settlement , massive mass outbreaks Alabaster Icelands: Avalanche Slopes, Bonechill Wastes, Icebound Falls , Arena's Approach, Glacier Terrace , Heart's Crag , Pearl Settlement Shaking ore deposits"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Glaseado Mountain Tera Raid Battles ( 5★ )",
+            "Violet": "North Province: Glaseado Mountain Tera Raid Battles ( 5★ )",
+            "The Hidden Treasure of Area Zero": "Evolve Snorunt"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Snorunt",
+            "to": "Glalie",
+            "method": [
+                "Level 42"
+            ]
+        }
+    ]
+}

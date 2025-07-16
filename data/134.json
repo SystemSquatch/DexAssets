@@ -1,0 +1,152 @@
+{
+    "name": "Vaporeon",
+    "pokedex_number": "#0134",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Water Absorb",
+        "Hydration"
+    ],
+    "stats": {
+        "HP": 130,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Atk": 110,
+        "Sp. Def": 95,
+        "Speed": 65,
+        "Total": 525
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
+            "Yellow": "Its cell structure is similar to water molecules. It will melt away and become invisible in water.",
+            "Stadium": "Found quietly resting by lake shores. Its cell structure is similar to water, so it can invisibly melt into water."
+        },
+        "Generation II": {
+            "Gold": "When Vaporeon 's fins begin to vibrate, it is a sign that rain will come within a few hours.",
+            "Silver": "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
+            "Crystal": "As it uses the fins on the tip of its tail to swim, it blends with the water perfectly.",
+            "Stadium 2": "When Vaporeon 's fins begin to vibrate, it is a sign that rain will come within a few hours. (Pokémon Red, Silver, or Crystal inserted) It prefers beautiful shores. With cells similar to water molecules, it could melt in water. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pok é mon has the ability to freely control water.",
+            "Sapphire": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pok é mon has the ability to freely control water.",
+            "Emerald": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow them to live underwater. They have the ability to freely control water.",
+            "FireRed": "Its body's cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
+            "LeafGreen": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's."
+        },
+        "Generation IV": {
+            "Diamond": "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
+            "Pearl": "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
+            "Platinum": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
+            "HeartGold": "When Vaporeon 's fins begin to vibrate, it is a sign that rain will come within a few hours.",
+            "SoulSilver": "It prefers beautiful shores. With cells similar to water molecules, it could melt in water."
+        },
+        "Generation V": {
+            "Black": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
+            "White": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
+            "Black 2": "Its cell composition is similar to water molecules. As a result, it can't be seen when it melts away into water.",
+            "White 2": "Its cell composition is similar to water molecules. As a result, it can't be seen when it melts away into water."
+        },
+        "Generation VI": {
+            "X": "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
+            "Y": "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
+            "Omega Ruby": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
+            "Alpha Sapphire": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water."
+        },
+        "Generation VII": {
+            "Sun": "Its cells are composed of units much like water molecules. It lives close to water and is often mistaken for a mermaid.",
+            "Moon": "Blending in with the water and erasing all signs of its presence, it patiently waits for its prey, fish Pokémon.",
+            "Ultra Sun": "Clean, clear waters are its usual habitat. When it's about to be attacked by an invading enemy, it dives into the water to hide.",
+            "Ultra Moon": "It detects nearby moisture with its fin. When its fin begins trembling rapidly, that means rain will fall in a few hours.",
+            "Let's Go Pikachu": "Its cell structure is similar to water molecules. It melts into the water and becomes invisible.",
+            "Let's Go Eevee": "Its cell structure is similar to water molecules. It melts into the water and becomes invisible."
+        },
+        "Generation VIII": {
+            "Sword": "When Vaporeon's fins begin to vibrate, it is a sign that rain will come within a few hours.",
+            "Shield": "Its body's cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
+            "Brilliant Diamond": "It has evolved to be suited for an aquatic life. It can become invisible when it melts away into water.",
+            "Shining Pearl": "It has evolved to be suited for an aquatic life. It can become invisible when it melts away into water.",
+            "Legends: Arceus": "Tests show that its cells closely resemble water molecules, which perhaps explains its ability to conceal its form while submerged. I believe the origins of mermaid folklore lie with this Pokémon."
+        },
+        "Generation IX": {
+            "Scarlet": "It lives close to water. Its long tail is ridged with a fin, which is often mistaken for a mermaid’s.",
+            "Violet": "Its cell composition is similar to water molecules. As a result, it can't be seen when it melts away into water."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Eevee",
+            "Blue": "Evolve Eevee",
+            "Blue (Japan)": "Evolve Eevee",
+            "Yellow": "Evolve Eevee"
+        },
+        "Generation II": {
+            "Gold": "Evolve Eevee",
+            "Silver": "Evolve Eevee",
+            "Crystal": "Evolve Eevee"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Eevee",
+            "LeafGreen": "Evolve Eevee",
+            "Colosseum": "Trade",
+            "XD": "Evolve Eevee"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Eevee",
+            "Pearl": "Evolve Eevee",
+            "Platinum": "Evolve Eevee",
+            "HeartGold": "Evolve Eevee",
+            "SoulSilver": "Evolve Eevee",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade Global Link event",
+            "White": "Trade Global Link event",
+            "Black 2": "Evolve Eevee",
+            "White 2": "Evolve Eevee"
+        },
+        "Generation VI": {
+            "X": "Evolve Eevee",
+            "Y": "Evolve Eevee",
+            "Omega Ruby": "Evolve Eevee",
+            "Alpha Sapphire": "Evolve Eevee"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Eevee",
+            "Moon": "Evolve Eevee",
+            "Ultra Sun": "Evolve Eevee",
+            "Ultra Moon": "Evolve Eevee",
+            "Let's Go Pikachu": "Evolve Eevee",
+            "Let's Go Eevee": "Evolve Eevee"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage ( Wanderer ) Giant's Mirror ( Max Raid Battles )",
+            "Shield": "Lake of Outrage ( Wanderer ) Giant's Mirror ( Max Raid Battles )",
+            "Expansion Pass": "Giant's Bed ( Wanderer ) Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Eevee",
+            "Shining Pearl": "Evolve Eevee",
+            "Legends: Arceus": "Cobalt Coastlands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six East Province: Tagtree Thicket North Province: Area Two , Area Three , Casseroya Lake , Glaseado Mountain North Province: Casseroya Lake ( Water Tera Type ) Tera Raid Battles ( 6★ )",
+            "Violet": "South Province: Area Six East Province: Tagtree Thicket North Province: Area Two , Area Three , Casseroya Lake , Glaseado Mountain North Province: Casseroya Lake ( Water Tera Type ) Tera Raid Battles ( 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Eevee",
+            "to": "Vaporeon",
+            "method": [
+                "Use Water Stone"
+            ]
+        }
+    ]
+}

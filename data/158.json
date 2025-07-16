@@ -1,0 +1,138 @@
+{
+    "name": "Totodile",
+    "pokedex_number": "#0158",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Sheer Force"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 64,
+        "Sp. Atk": 44,
+        "Sp. Def": 48,
+        "Speed": 43,
+        "Total": 314
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Its well-developed jaws are powerful and capable of crushing anything. Even its trainer must be careful.",
+            "Silver": "It is small but rough and tough. It won't hesitate to take a bite out of anything that moves.",
+            "Crystal": "This rough critter chomps at any moving object it sees. Turning your back on it is not recommended.",
+            "Stadium 2": "Its well-developed jaws are powerful and capable of crushing anything. Even its trainer must be careful. (Pokémon Red, Silver, or Crystal inserted) It is small but rough and tough. It won't hesitate to take a bite out of anything that moves. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Despite the smallness of its body, Totodile 's jaws are very powerful. While the Pok é mon may think it is just playfully nipping, its bite has enough power to cause serious injury.",
+            "Sapphire": "Despite the smallness of its body, Totodile 's jaws are very powerful. While the Pok é mon may think it is just playfully nipping, its bite has enough power to cause serious injury.",
+            "Emerald": "Despite its small body, Totodile 's jaws are very powerful. While it may think it is just playfully nipping, its bite has enough strength to cause serious injury.",
+            "FireRed": "It is small but rough and tough. It won't hesitate to take a bite out of anything that moves.",
+            "LeafGreen": "Its well-developed jaws are powerful and capable of crushing anything. Even its Trainer must be careful."
+        },
+        "Generation IV": {
+            "Diamond": "It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.",
+            "Pearl": "It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.",
+            "Platinum": "It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.",
+            "HeartGold": "Its powerful, well-developed jaws are capable of crushing anything. Even its Trainer must be careful.",
+            "SoulSilver": "It is small but rough and tough. It won't hesitate to take a bite out of anything that moves."
+        },
+        "Generation V": {
+            "Black": "It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.",
+            "White": "It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.",
+            "Black 2": "It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.",
+            "White 2": "It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful."
+        },
+        "Generation VI": {
+            "X": "It is small but rough and tough. It won't hesitate to take a bite out of anything that moves.",
+            "Y": "Its powerful, well-developed jaws are capable of crushing anything. Even its Trainer must be careful.",
+            "Omega Ruby": "Despite the smallness of its body, Totodile's jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury.",
+            "Alpha Sapphire": "Despite the smallness of its body, Totodile's jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It has a habit of biting everything with its well-developed jaws. Even its Trainer needs to be careful.",
+            "Shining Pearl": "It has a habit of biting everything with its well-developed jaws. Even its Trainer needs to be careful."
+        },
+        "Generation IX": {
+            "Scarlet": "Its powerful, well-developed jaws are capable of crushing anything. Even its Trainer must be careful.",
+            "Violet": "This rough critter chomps at any moving object it sees. Turning your back on it is not recommended."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "First partner Pokémon from Professor Elm in New Bark Town",
+            "Silver": "First partner Pokémon from Professor Elm in New Bark Town",
+            "Crystal": "First partner Pokémon from Professor Elm in New Bark Town"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Received from Professor Birch at Littleroot Town after completing the Hoenn Pokédex",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Reward for defeating 100 Trainers in Mt. Battle"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "First partner Pokémon from Professor Elm in New Bark Town",
+            "SoulSilver": "First partner Pokémon from Professor Elm in New Bark Town",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade , Event",
+            "Y": "Trade , Event",
+            "Omega Ruby": "Received from Professor Birch on Route 101 after first entering the Hall of Fame",
+            "Alpha Sapphire": "Received from Professor Birch on Route 101 after first entering the Hall of Fame"
+        },
+        "Generation VII": {
+            "Sun": "Seaward Cave ( Island Scan ) Mo",
+            "Moon": "Seaward Cave ( Island Scan ) Mo",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern (after obtaining the National Pokédex )",
+            "Shining Pearl": "Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern (after obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Savanna Biome (after boosting biodiversity in the Savanna Biome)"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Totodile",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Totodile",
+            "to": "Croconaw",
+            "method": [
+                "Level 18"
+            ]
+        }
+    ]
+}

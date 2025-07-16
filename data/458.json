@@ -1,0 +1,114 @@
+{
+    "name": "Mantyke",
+    "pokedex_number": "#0458",
+    "types": [
+        "Water",
+        "Flying"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Water Absorb",
+        "Water Veil"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 20,
+        "Defense": 50,
+        "Sp. Atk": 60,
+        "Sp. Def": 120,
+        "Speed": 50,
+        "Total": 345
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "A friendly Pokémon that captures the subtle flows of seawater using its two antennae.",
+            "Pearl": "Scientists discovered that the distinctive patterns on its back differ by region.",
+            "Platinum": "People organize tours to see this Pokémon frolic and skim the tops of waves with Remoraid .",
+            "HeartGold": "When it swims close to the surface of the ocean, people aboard ships are able to observe the pattern on its back.",
+            "SoulSilver": "When it swims close to the surface of the ocean, people aboard ships are able to observe the pattern on its back."
+        },
+        "Generation V": {
+            "Black": "People organize tours to see this Pokémon frolic and skim the tops of waves with Remoraid.",
+            "White": "People organize tours to see this Pokémon frolic and skim the tops of waves with Remoraid.",
+            "Black 2": "The pattern on its back varies by region. It often swims in a school of Remoraid.",
+            "White 2": "The pattern on its back varies by region. It often swims in a school of Remoraid."
+        },
+        "Generation VI": {
+            "X": "The pattern on its back varies by region. It often swims in a school of Remoraid.",
+            "Y": "When it swims close to the surface of the ocean, people aboard ships are able to observe the pattern on its back.",
+            "Omega Ruby": "The pattern on its back varies by region. It often swims in a school of Remoraid.",
+            "Alpha Sapphire": "When it swims close to the surface of the ocean, people aboard ships are able to observe the pattern on its back."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It's highly friendly and easily tamed. Tours that take people swimming with Mantyke are a super-popular beach activity.",
+            "Ultra Moon": "Mantyke are friendly toward people and will approach boats closely. The patterns on their backs differ depending on their habitat."
+        },
+        "Generation VIII": {
+            "Sword": "Mantyke living in Galar seem to be somewhat sluggish. The colder waters of the seas in this region may be the cause.",
+            "Shield": "It swims along with a school of Remoraid, and they'll all fight together to repel attackers.",
+            "Brilliant Diamond": "A friendly Pokémon that senses the subtle flows of seawater using its two antennae.",
+            "Shining Pearl": "Scientists discovered that the distinctive patterns on its back differ by region.",
+            "Legends: Arceus": "Though ball-like in shape, this Pokémon is a proficient swimmer. I have discovered that if a Mantyke spends much time with schools of Remoraid, it will eventually achieve evolution."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Route 223 , Sunyshore City ( Surfing )",
+            "Pearl": "Route 223 , Sunyshore City ( Surfing )",
+            "Platinum": "Route 223 ( Surfing )",
+            "HeartGold": "Breed Mantine holding a Wave Incense",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Undella Town , Undella Bay Spring Summer Autumn ( Surfing )",
+            "White": "Undella Town , Undella Bay Spring Summer Autumn ( Surfing )",
+            "Black 2": "Route 21 , Undella Bay Spring Summer Autumn ( Surfing )",
+            "White 2": "Route 21 , Undella Bay Spring Summer Autumn ( Surfing )"
+        },
+        "Generation VI": {
+            "X": "Route 12 , Shalour City , Azure Bay ( Surfing )",
+            "Y": "Route 12 , Shalour City , Azure Bay ( Surfing )",
+            "Omega Ruby": "Battle Resort",
+            "Alpha Sapphire": "Battle Resort"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Routes 1 , 8 , Hau'oli City , Kala'e Bay , Melemele Sea ( Surfing )",
+            "Ultra Moon": "Routes 1 , 8 , Hau'oli City , Kala'e Bay , Melemele Sea ( Surfing )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 9 , Lake of Outrage , Motostoke Riverbank East Lake Axewell , Giant's Mirror , North Lake Miloch , South Lake Miloch , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Route 9 , Lake of Outrage , Motostoke Riverbank East Lake Axewell , Giant's Mirror , North Lake Miloch , South Lake Miloch , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor , Workout Sea , Stepping-Stone Sea , Insular Sea , Honeycalm Island , Honeycalm Sea",
+            "Brilliant Diamond": "Route 223 , Sunyshore City ( Surfing )",
+            "Shining Pearl": "Route 223 , Sunyshore City ( Surfing )",
+            "Legends: Arceus": "Cobalt Coastlands : near Ginkgo Landing , near Aipom Hill , near Bathers' Lagoon , Tranquility Cove , near Castaway Shore , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Mantyke",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Mantyke",
+            "to": "Mantine",
+            "method": [
+                "Level up"
+            ]
+        }
+    ]
+}

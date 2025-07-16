@@ -1,0 +1,117 @@
+{
+    "name": "Swellow",
+    "pokedex_number": "#0277",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Guts",
+        "Scrappy"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 60,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 125,
+        "Total": 430
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Swellow flies high above our heads, making graceful arcs in the sky. This Pok é mon dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by Swellow 's clawed feet, preventing escape.",
+            "Sapphire": "Swellow is very conscientious about the upkeep of its glossy wings. Once two Swellow are gathered, they diligently take care of cleaning each other's wings.",
+            "Emerald": "A Swellow dives upon prey from far above. It never misses its targets. It takes to the skies in search of lands with a warm climate.",
+            "FireRed": "If its two tail feathers are standing at attention, it is proof of good health. It soars elegantly in the sky.",
+            "LeafGreen": "If its two tail feathers are standing at attention, it is proof of good health. It soars elegantly in the sky."
+        },
+        "Generation IV": {
+            "Diamond": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
+            "Pearl": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
+            "Platinum": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
+            "HeartGold": "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.",
+            "SoulSilver": "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws."
+        },
+        "Generation V": {
+            "Black": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
+            "White": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
+            "Black 2": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
+            "White 2": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey."
+        },
+        "Generation VI": {
+            "X": "If its two tail feathers are standing at attention, it is proof of good health. It soars elegantly in the sky.",
+            "Y": "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.",
+            "Omega Ruby": "Swellow flies high above our heads, making graceful arcs in the sky. This Pokémon dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by Swellow's clawed feet, preventing escape.",
+            "Alpha Sapphire": "Swellow is very conscientious about the upkeep of its glossy wings. Once two Swellow are gathered, they diligently take care of cleaning each other's wings."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It circles the sky in search of prey and dives sharply to catch its target.",
+            "Shining Pearl": "It circles the sky in search of prey and dives sharply to catch its target."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 115",
+            "Sapphire": "Route 115",
+            "Emerald": "Route 115",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Route 213 ( Poké Radar )",
+            "Pearl": "Route 213 ( Poké Radar )",
+            "Platinum": "Route 213 ( Poké Radar )",
+            "HeartGold": "Evolve Taillow",
+            "SoulSilver": "Evolve Taillow",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Route 13 , Giant Chasm",
+            "White": "Route 13 , Giant Chasm",
+            "Black 2": "Route 13 ( Swarm )",
+            "White 2": "Route 13 ( Swarm )",
+            "Dream World": "Pleasant Forest , Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Evolve Taillow",
+            "Y": "Evolve Taillow",
+            "Omega Ruby": "Evolve Taillow",
+            "Alpha Sapphire": "Evolve Taillow"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Cliff World )",
+            "Ultra Moon": "Ultra Space Wilds ( Cliff World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 213 ( Poké Radar )",
+            "Shining Pearl": "Route 213 ( Poké Radar )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Taillow",
+            "to": "Swellow",
+            "method": [
+                "Level 22"
+            ]
+        }
+    ]
+}

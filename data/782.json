@@ -1,0 +1,79 @@
+{
+    "name": "Jangmo-o",
+    "pokedex_number": "#0782",
+    "types": [
+        "Dragon",
+        "Unknown"
+    ],
+    "abilities": [
+        "Bulletproof",
+        "Soundproof",
+        "Overcoat"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 55,
+        "Defense": 65,
+        "Sp. Atk": 45,
+        "Sp. Def": 45,
+        "Speed": 45,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It expresses its feelings by smacking its scales. Metallic sounds echo through the tall mountains where Jangmo-o lives.",
+            "Moon": "They live in mountains where no trace of humans can be detected. Jangmo-o grow little by little as they battle one another.",
+            "Ultra Sun": "It smacks the scales on its head against rocks or against the ground to frighten its opponents. It can also contact its friends with these noises.",
+            "Ultra Moon": "It will never show an enemy its back in battle. Ancient warriors liked Jangmo-o for its valiant disposition and made it one of their own."
+        },
+        "Generation VIII": {
+            "Sword": "They learn to fight by smashing their head scales together. The dueling strengthens both their skills and their spirits.",
+            "Shield": "Jangmo-o strikes its scales to communicate with others of its kind. Its scales are actually fur that's become as hard as metal."
+        },
+        "Generation IX": {
+            "Scarlet": "The scale atop its head is useful for both offense and defense. It bravely stands and faces its foes rather than turning tail, even if its foes are strong.",
+            "Violet": "They communicate with their allies using the sounds their scales make when struck. A group of these Pokémon causes quite a racket."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Vast Poni Canyon",
+            "Moon": "Vast Poni Canyon",
+            "Ultra Sun": "Vast Poni Canyon",
+            "Ultra Moon": "Vast Poni Canyon",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Axew's Eye , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Sword Expansion Pass": "Challenge Road , Potbottom Desert Challenge Road ( Wanderer ) Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Wistful Fields , Paradise Barrens , Kitakami Wilds Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Jangmo-o",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Jangmo-o",
+            "to": "Hakamo-o",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

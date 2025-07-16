@@ -1,0 +1,120 @@
+{
+    "name": "Drifloon",
+    "pokedex_number": "#0425",
+    "types": [
+        "Ghost",
+        "Flying"
+    ],
+    "abilities": [
+        "Aftermath",
+        "Unburden",
+        "Flare Boost"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 50,
+        "Defense": 34,
+        "Sp. Atk": 60,
+        "Sp. Def": 44,
+        "Speed": 70,
+        "Total": 348
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
+            "Pearl": "It tugs on the hands of children to steal them away. However, it gets pulled around instead.",
+            "Platinum": "Because of the way it floats aimlessly, an old folktale calls it a \"Signpost for Wandering Spirits.\"",
+            "HeartGold": "It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.",
+            "SoulSilver": "It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing."
+        },
+        "Generation V": {
+            "Black": "Because of the way it floats aimlessly, an old folktale calls it a \"Signpost for Wandering Spirits.\"",
+            "White": "Because of the way it floats aimlessly, an old folktale calls it a \"Signpost for Wandering Spirits.\"",
+            "Black 2": "These Pokémon are called the \"Signpost for Wandering Spirits.\" Children holding them sometimes vanish.",
+            "White 2": "These Pokémon are called the \"Signpost for Wandering Spirits.\" Children holding them sometimes vanish."
+        },
+        "Generation VI": {
+            "X": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
+            "Y": "These Pokémon are called the \"Signpost for Wandering Spirits.\" Children holding them sometimes vanish.",
+            "Omega Ruby": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
+            "Alpha Sapphire": "These Pokémon are called the \"Signpost for Wandering Spirits.\" Children holding them sometimes vanish."
+        },
+        "Generation VII": {
+            "Sun": "Stories go that it grabs the hands of small children and drags them away to the afterlife. It dislikes heavy children.",
+            "Moon": "If for some reason its body bursts, its soul spills out with a screaming sound.",
+            "Ultra Sun": "Its round body is stuffed with souls and expands each time it leads someone away.",
+            "Ultra Moon": "Wandering souls gathered together to form this Pokémon. When trying to make friends with children, Drifloon grabs them by the hand."
+        },
+        "Generation VIII": {
+            "Sword": "Perhaps seeking company, it approaches children. However, it often quickly runs away again when the children play too roughly with it.",
+            "Shield": "The gathering of many souls gave rise to this Pokémon. During humid seasons, they seem to appear in abundance.",
+            "Brilliant Diamond": "It is a Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
+            "Shining Pearl": "It tugs on the hands of children to spirit them away. However, it gets pulled around instead.",
+            "Legends: Arceus": "Said to lure away young children and carry them off to the afterlife. Some whisper that Drifloon are formed of reincarnated human souls, but these rumors are as yet unconfirmed."
+        },
+        "Generation IX": {
+            "Scarlet": "It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.",
+            "Violet": "Because of the way it floats aimlessly, an old folktale calls it a “signpost for wandering spirits.”"
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Valley Windworks Fr (after defeating Team Galactic there)",
+            "Pearl": "Valley Windworks Fr (after defeating Team Galactic there)",
+            "Platinum": "Valley Windworks Fr (after defeating Team Galactic there)",
+            "HeartGold": "Trade",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Breed Drifblim",
+            "White": "Breed Drifblim",
+            "Black 2": "Route 13 ( Hidden Grotto ) * Transfer from Dream Radar",
+            "White 2": "Route 13 ( Hidden Grotto ) * Transfer from Dream Radar",
+            "Dream World": "Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Route 8",
+            "Y": "Route 8",
+            "Omega Ruby": "Soaring in the sky",
+            "Alpha Sapphire": "Soaring in the sky"
+        },
+        "Generation VII": {
+            "Sun": "Hau'oli Cemetery Day",
+            "Moon": "Hau'oli Cemetery Day",
+            "Ultra Sun": "Hau'oli Cemetery Day Trainers' School Night ( One )",
+            "Ultra Moon": "Hau'oli Cemetery Day Trainers' School Night ( One )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 5 , North Lake Miloch , South Lake Miloch , Watchtower Ruins Giant's Cap , Hammerlocke Hills , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Shield": "Route 5 , North Lake Miloch , South Lake Miloch , Watchtower Ruins Giant's Cap , Hammerlocke Hills , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor , Challenge Beach , Workout Sea , Loop Lagoon , Stepping-Stone Sea , Insular Sea , Honeycalm Island , Honeycalm Sea",
+            "Brilliant Diamond": "Valley Windworks Fr (after defeating Team Galactic there)",
+            "Shining Pearl": "Valley Windworks Fr (after defeating Team Galactic there)",
+            "Legends: Arceus": "Obsidian Fieldlands : Aspiration Hill Night , Floaro Gardens Night , Horseshoe Plains Night , near Worn Bridge Night , Deertrack Path Night , Windswept Run Night , Ramanas Island Night , massive mass outbreaks Cobalt Coastlands : Crossing Slope Night , Ginkgo Landing and nearby Night , near Aipom Hill Night , Bathers' Lagoon and nearby Night , near Hideaway Bay Night , Deadwood Haunt Night , near Tombolo Walk Night , Sand's Reach and nearby Night , Tranquility Cove Night , near Castaway Shore Night , near Islespy Shore Night (mass outbreaks nearby Day Night ), Lunker's Lair Night , Seagrass Haven Night , Firespit Island Night Alabaster Icelands : Bonechill Wastes Night , Avalugg's Legacy Night , Glacier Terrace Night (also mass outbreaks Day Night ), Heart's Crag Night , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five , Area Six East Province: Area Two , Tagtree Thicket West Province: Area One North Province: Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 2★ )",
+            "Violet": "Union Circle Tera Raid Battle Search ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Drifloon",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Drifloon",
+            "to": "Drifblim",
+            "method": [
+                "Level 28"
+            ]
+        }
+    ]
+}

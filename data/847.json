@@ -1,0 +1,57 @@
+{
+    "name": "Barraskewda",
+    "pokedex_number": "#0847",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Propeller Tail"
+    ],
+    "stats": {
+        "HP": 61,
+        "Attack": 123,
+        "Defense": 60,
+        "Sp. Atk": 60,
+        "Sp. Def": 50,
+        "Speed": 136,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "This Pokémon has a jaw that's as sharp as a spear and as strong as steel. Apparently Barraskewda's flesh is surprisingly tasty, too.",
+            "Shield": "It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them."
+        },
+        "Generation IX": {
+            "Scarlet": "It spins its tail fins to leap from the water, then viciously bites down on Wingull flying close to the water’s surface.",
+            "Violet": "It swims at speeds of over 100 knots and battles fiercely with pods of Finizen over prey."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Route 2 , Motostoke Riverbank , Dusty Bowl , Lake of Outrage South Lake Miloch , North Lake Miloch , Bridge Field , Lake of Outrage ( Max Raid Battle )",
+            "Shield": "Route 2 , Motostoke Riverbank , Dusty Bowl , Lake of Outrage South Lake Miloch , North Lake Miloch , Bridge Field , Lake of Outrage ( Max Raid Battle )",
+            "Expansion Pass": "Training Lowlands ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: South Paldean Sea East Province: Area Two , Area Three , East Paldean Sea West Province: Area Two , West Paldean Sea North Province: Area One , Area Three , North Paldean Sea , Glaseado Mountain Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: South Paldean Sea East Province: Area Two , Area Three , East Paldean Sea West Province: Area Two , West Paldean Sea North Province: Area One , Area Three , North Paldean Sea , Glaseado Mountain Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Oni Mountain , Chilling Waterhead"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Arrokuda",
+            "to": "Barraskewda",
+            "method": [
+                "Level 26"
+            ]
+        }
+    ]
+}

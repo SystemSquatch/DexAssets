@@ -1,0 +1,112 @@
+{
+    "name": "Buizel",
+    "pokedex_number": "#0418",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Water Veil"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 65,
+        "Defense": 35,
+        "Sp. Atk": 60,
+        "Sp. Def": 30,
+        "Speed": 85,
+        "Total": 330
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It has a flotation sac that is like an inflatable collar. It floats on water with its head out.",
+            "Pearl": "It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses.",
+            "Platinum": "It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.",
+            "HeartGold": "It inflates its flotation sac, keeping its face above water in order to watch for prey movement.",
+            "SoulSilver": "It inflates its flotation sac, keeping its face above water in order to watch for prey movement."
+        },
+        "Generation V": {
+            "Black": "It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.",
+            "White": "It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.",
+            "Black 2": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
+            "White 2": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on."
+        },
+        "Generation VI": {
+            "X": "It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses.",
+            "Y": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
+            "Omega Ruby": "It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses.",
+            "Alpha Sapphire": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "When air fills the flotation sac on its neck, the sac balloons like an inner tube. This Pokémon floats with its head out of the water.",
+            "Shining Pearl": "It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses.",
+            "Legends: Arceus": "It moves freely in the water by spinning its forked tail for propulsion. The resemblance to the screw of a steamboat is coincidental."
+        },
+        "Generation IX": {
+            "Scarlet": "It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.",
+            "Violet": "It inflates its flotation sac, keeping its face above water in order to watch for prey movement."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 205 , 213 , and 224 , Valley Windworks",
+            "Pearl": "Routes 205 , 213 , and 224 , Valley Windworks",
+            "Platinum": "Routes 205 , 212 , and 213 , Valley Windworks",
+            "HeartGold": "Safari Zone (tall grass in Wetland with 35 Waterside points) Routes 4 , 6 , 9 , 10 , 13 , 21 , 22 , 24 , 25 , 26 , 27 , 28 , 30 , 31 , 32 , 34 , 35 , 42 , 43 , 44 , 45 , and 47 , Ruins of Alph , Mt. Silver (Sinnoh Sound)",
+            "SoulSilver": "Safari Zone (tall grass in Wetland with 35 Waterside points) Routes 4 , 6 , 9 , 10 , 13 , 21 , 22 , 24 , 25 , 26 , 27 , 28 , 30 , 31 , 32 , 34 , 35 , 42 , 43 , 44 , 45 , and 47 , Ruins of Alph , Mt. Silver (Sinnoh Sound)",
+            "Pokéwalker": "White Lake"
+        },
+        "Generation V": {
+            "Black": "Routes 11 and 14 ( Surfing )",
+            "White": "Routes 11 and 14 ( Surfing )",
+            "Black 2": "Routes 11 , 14 , and 23 , Victory Road * , Nature Preserve , Lostlorn Forest ( Surfing )",
+            "White 2": "Routes 11 , 14 , and 23 , Victory Road * , Nature Preserve , Lostlorn Forest ( Surfing )",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Breed Floatzel",
+            "Y": "Breed Floatzel",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Floatzel",
+            "Ultra Moon": "Breed Floatzel",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 205 , 213 , and 224 , Valley Windworks Grand Underground - Riverbank Cave , Fountainspring Cave , Still-Water Cavern",
+            "Shining Pearl": "Routes 205 , 213 , and 224 , Valley Windworks Grand Underground - Riverbank Cave , Fountainspring Cave , Still-Water Cavern",
+            "Legends: Arceus": "Obsidian Fieldlands : Horseshoe Plains , near Worn Bridge , Windswept Run , massive mass outbreaks Cobalt Coastlands : Ginkgo Landing , Aipom Hill , Bathers' Lagoon"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Poco Path , Area One , Area Two , Area Four , Area Five , South Paldean Sea East Province: Area Two , Area Three , East Paldean Sea , Tagtree Thicket West Province: Area One , Area Two , West Paldean Sea Area Zero West Province: Area One ( Ice Tera Type ) Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Poco Path , Area One , Area Two , Area Four , Area Five , South Paldean Sea East Province: Area Two , Area Three , East Paldean Sea , Tagtree Thicket West Province: Area One , Area Two , West Paldean Sea Area Zero West Province: Area One ( Ice Tera Type ) Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Buizel",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Buizel",
+            "to": "Floatzel",
+            "method": [
+                "Level 26"
+            ]
+        }
+    ]
+}

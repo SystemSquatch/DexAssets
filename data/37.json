@@ -1,0 +1,165 @@
+{
+    "name": "Vulpix",
+    "pokedex_number": "#0037",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Flash Fire",
+        "Snow Cloak",
+        "Drought",
+        "Snow Warning"
+    ],
+    "stats": {
+        "HP": 38,
+        "Attack": 41,
+        "Defense": 40,
+        "Sp. Atk": 50,
+        "Sp. Def": 65,
+        "Speed": 65,
+        "Total": 299
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",
+            "Yellow": "Both its fur and its tails are beautiful. As it grows, the tails split and form more tails.",
+            "Stadium": "A single, white-colored tail splits into six beautiful tails. As it grows older, it grows even more tails."
+        },
+        "Generation II": {
+            "Gold": "As it develops, its single white tail gains color and splits into six. It is quite warm and cuddly.",
+            "Silver": "If it is attacked by an enemy that is stronger than itself, it feigns injury to fool the enemy and escapes.",
+            "Crystal": "As its body grows larger, its six warm tails become more beautiful, with a more luxurious coat of fur.",
+            "Stadium 2": "As it develops, its single white tail gains color and splits into six. It is quite warm and cuddly. (Pokémon Red, Silver, or Crystal inserted) If it is attacked by an enemy that is stronger than itself, it feigns injury to fool the enemy and escapes. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "At the time of its birth, Vulpix has one white tail. The tail separates into six if this Pok é mon receives plenty of love from its Trainer . The six tails become magnificently curled.",
+            "Sapphire": "Inside Vulpix 's body burns a flame that never goes out. During the daytime, when the temperatures rise, this Pok é mon releases flames from its mouth to prevent its body from growing too hot.",
+            "Emerald": "It can freely control fire, making fiery orbs fly like will-o'-the-wisps. Just before evolution, its six tails grow hot as if on fire.",
+            "FireRed": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
+            "LeafGreen": "When it is born, it has just one snow-white tail. The tail splits from its tip as it grows older."
+        },
+        "Generation IV": {
+            "Diamond": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
+            "Pearl": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
+            "Platinum": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
+            "HeartGold": "As it develops, its single white tail gains color and splits into six. It is quite warm and cuddly.",
+            "SoulSilver": "If it is attacked by an enemy that is stronger than itself, it feigns injury to fool the enemy and escapes."
+        },
+        "Generation V": {
+            "Black": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
+            "White": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
+            "Black 2": "As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm.",
+            "White 2": "As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm."
+        },
+        "Generation VI": {
+            "X": "When it is born, it has just one snow-white tail. The tail splits from its tip as it grows older.",
+            "Y": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
+            "Omega Ruby": "At the time of its birth, Vulpix has one white tail. The tail separates into six if this Pokémon receives plenty of love from its Trainer. The six tails become magnificently curled.",
+            "Alpha Sapphire": "Inside Vulpix's body burns a flame that never goes out. During the daytime, when the temperatures rise, this Pokémon releases flames from its mouth to prevent its body from growing too hot."
+        },
+        "Generation VII": {
+            "Sun": "It exhales air colder than -58 degrees Fahrenheit . Elderly people in Alola call this Pokémon by an older name—Keokeo.",
+            "Moon": "In hot weather, this Pokémon makes ice shards with its six tails and sprays them around to cool itself off.",
+            "Ultra Sun": "If you carelessly approach it because it's cute, the boss of the pack, Ninetales, will appear and freeze you.",
+            "Ultra Moon": "They live together in a skulk, helping one another. Before eating their prey, they freeze it solid with their –58 degree Fahrenheit breath.",
+            "Let's Go Pikachu": "It looks like snow come to life, and the breath it exhales is −58 degrees Fahrenheit . Another name for it is Keokeo.",
+            "Let's Go Eevee": "It looks like snow come to life, and the breath it exhales is −58 degrees Fahrenheit . Another name for it is Keokeo."
+        },
+        "Generation VIII": {
+            "Sword": "After long years in the ever-snowcapped mountains of Alola, this Vulpix has gained power over ice.",
+            "Shield": "If you observe its curly hairs through a microscope, you'll see small ice particles springing up.",
+            "Brilliant Diamond": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
+            "Shining Pearl": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
+            "Legends: Arceus": "These Pokémon live in packs in the snowy mountains and defend themselves with icy breath. I suspect this species changed its form to adapt to the frigid climate."
+        },
+        "Generation IX": {
+            "Scarlet": "They live together in a skulk, helping one another. Before eating their prey, they freeze it solid with their −58 degree Fahrenheit breath.",
+            "Violet": "In hot weather, this Pokémon makes ice shards with its six tails and sprays them around to cool itself off."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Trade",
+            "Blue": "Routes 7 and 8 , Pokémon Mansion",
+            "Blue (Japan)": "Trade",
+            "Yellow": "Celadon City ( Rocket Game Corner )"
+        },
+        "Generation II": {
+            "Gold": "Trade",
+            "Silver": "Routes 7 , 8 , 36 , and 37",
+            "Crystal": "Trade"
+        },
+        "Generation III": {
+            "Ruby": "Mt. Pyre exterior",
+            "Sapphire": "Mt. Pyre exterior",
+            "Emerald": "Mt. Pyre exterior",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Routes 7 and 8 , Pokémon Mansion",
+            "Colosseum": "Trade",
+            "XD": "ONBS (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 209 and 214 (LeafGreen)",
+            "Pearl": "Routes 209 and 214 (LeafGreen)",
+            "Platinum": "Routes 209 and 214 (LeafGreen)",
+            "HeartGold": "Trade",
+            "SoulSilver": "Routes 7 , 8 , 36 , 37 , and 48",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Abundant Shrine",
+            "White": "Abundant Shrine",
+            "Black 2": "Abundant Shrine Abundant Shrine ( Hidden Grotto ) *",
+            "White 2": "Abundant Shrine Abundant Shrine ( Hidden Grotto ) *",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Breed Ninetales",
+            "Y": "Breed Ninetales",
+            "Omega Ruby": "Mt. Pyre exterior, Mirage Forest (north of Route 124 )",
+            "Alpha Sapphire": "Mt. Pyre exterior, Mirage Forest (north of Route 124 )"
+        },
+        "Generation VII": {
+            "Sun": "Tapu Village , Mount Lanakila ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Moon": "Trade , Pokémon Bank",
+            "Ultra Sun": "Tapu Village , Mount Lanakila ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Moon": "Trade , Pokémon Bank",
+            "Let's Go Pikachu": "Trade",
+            "Let's Go Eevee": "Routes 5 , 6 , 7 and 8 ( Kantonian Form ) Trade Kantonian Vulpix in Celadon City ( Alolan Form )"
+        },
+        "Generation VIII": {
+            "Sword": "Motostoke Stadium * ( Kantonian Form ) Route 3 , Rolling Fields , Dappled Grove , Watchtower Ruins , East Lake Axewell , West Lake Axewell , Axew's Eye , South Lake Miloch , Giant's Seat , North Lake Miloch ( Kantonian Form ) Stony Wilderness , Giant's Cap , Dusty Bowl , Hammerlocke Hills , Lake of Outrage ( Max Raid Battle ) ( Kantonian Form ) Trade ( Alolan Form )",
+            "Shield": "Motostoke Stadium * ( Kantonian Form ) Dusty Bowl , Hammerlocke Hills ( Kantonian Form ) Trade ( Alolan Form )",
+            "Expansion Pass": "Reward for finding at least 20 Alolan Diglett ( Alolan Form )",
+            "Brilliant Diamond": "Trade ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Shining Pearl": "Grand Underground - Spacious Cave , Volcanic Cave , Sandsear Cave , Typhlo Cavern (After obtaining the National Pokédex ) ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Legends: Arceus": "Cobalt Coastlands : Veilstone Cape , massive mass outbreaks ( Kantonian Form ) Alabaster Icelands : massive mass outbreaks ( Kantonian Form ) Alabaster Icelands: Whiteout Valley (only one during Request 83) ( Alolan Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Reveler's Road , Kitakami Hall , Mossfell Confluence , Fellhorn Gorge , Oni Mountain , Oni's Maw , Infernal Pass , Crystal Pool , Chilling Waterhead , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods ( Kantonian Form ) Chargestone Cavern , Polar Biome ( Alolan Form ) Tera Raid Battles ( 2★ ) ( Kantonian Form ) Tera Raid Battles ( 3★ ) ( Alolan Form )",
+            "The Hidden Treasure of Area Zero (Violet)": "Reveler's Road , Kitakami Hall , Mossfell Confluence , Fellhorn Gorge , Oni Mountain , Oni's Maw , Infernal Pass , Crystal Pool , Chilling Waterhead , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods ( Kantonian Form ) Union Circle ( Alolan Form ) Tera Raid Battles ( 2★ ) ( Kantonian Form ) Tera Raid Battle Search ( 3★ ) ( Alolan Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Vulpix",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Vulpix",
+            "to": "Ninetales",
+            "method": [
+                "Use Fire Stone",
+                "Use Ice Stone"
+            ]
+        }
+    ]
+}

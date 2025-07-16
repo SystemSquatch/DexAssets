@@ -1,0 +1,142 @@
+{
+    "name": "Sudowoodo",
+    "pokedex_number": "#0185",
+    "types": [
+        "Rock",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sturdy",
+        "Rock Head",
+        "Rattled"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 100,
+        "Defense": 115,
+        "Sp. Atk": 30,
+        "Sp. Def": 65,
+        "Speed": 30,
+        "Total": 410
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Although it always pretends to be a tree, its composition appears to be closer to a rock than a plant.",
+            "Silver": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
+            "Crystal": "If a tree branch shakes when there is no wind, it's a Sudowoodo , not a tree. It hides from the rain.",
+            "Stadium 2": "Although it always pretends to be a tree, its composition appears to be closer to a rock than a plant. (Pokémon Red, Silver, or Crystal inserted) It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because the forelegs remain green throughout the year, the Pok é mon is easily identified as a fake during the winter.",
+            "Sapphire": "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because the forelegs remain green throughout the year, the Pok é mon is easily identified as a fake during the winter.",
+            "Emerald": "It mimics a tree to avoid being attacked by enemies. But since its forelegs remain green throughout the year, it is easily identified as a fake in the winter.",
+            "FireRed": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
+            "LeafGreen": "Although it always pretends to be a tree, its composition appears to be closer to a rock than a plant."
+        },
+        "Generation IV": {
+            "Diamond": "Despite appearing to be a tree, its body is closer to rocks and stones. It is very weak to water.",
+            "Pearl": "It stands along paths pretending to be a tree. If it starts raining, it seems to disappear.",
+            "Platinum": "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.",
+            "HeartGold": "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
+            "SoulSilver": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining."
+        },
+        "Generation V": {
+            "Black": "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.",
+            "White": "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.",
+            "Black 2": "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.",
+            "White 2": "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain."
+        },
+        "Generation VI": {
+            "X": "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
+            "Y": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
+            "Omega Ruby": "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because its hands remain green throughout the year, the Pokémon is easily identified as a fake during the winter.",
+            "Alpha Sapphire": "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because its hands remain green throughout the year, the Pokémon is easily identified as a fake during the winter."
+        },
+        "Generation VII": {
+            "Sun": "To avoid attack, it mimics a tree. It will run off if splashed with water, which it hates.",
+            "Moon": "Apparently, the larger the green parts of this Pokémon, the more collectors value it. It's a particular favorite among elderly people.",
+            "Ultra Sun": "It's so popular with the elderly that there's a magazine devoted to this Pokémon. Fans obsess over the particular length and angle of its arms.",
+            "Ultra Moon": "The result of its holding the same pose all the time is arms that have become supple yet strong."
+        },
+        "Generation VIII": {
+            "Sword": "If a tree branch shakes when there is no wind, it's a Sudowoodo, not a tree. It hides from the rain.",
+            "Shield": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
+            "Brilliant Diamond": "Though it looks like a tree, its body is actually more like rock or stone. The Pokémon is very weak to water.",
+            "Shining Pearl": "It stands along paths pretending to be a tree. If it starts raining, it seems to disappear.",
+            "Legends: Arceus": "Though it pretends to be a tree, it fails to fool even children. To the touch, its body feels more like rock than tree bark. Sudowoodo's extreme aversion to water merits special note."
+        },
+        "Generation IX": {
+            "Scarlet": "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
+            "Violet": "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Route 36 ( Only one )",
+            "Silver": "Route 36 ( Only one )",
+            "Crystal": "Route 36 ( Only one )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Battle Frontier ( Only one )",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Miror's Hideout (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Bonsly",
+            "Pearl": "Routes 214 and 221",
+            "Platinum": "Route 221",
+            "HeartGold": "Route 36 ( Only one ) *",
+            "SoulSilver": "Route 36 ( Only one ) *",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Route 20 ( Swarm )",
+            "White 2": "Trade",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Route 20 ( Mixed Horde with Trevenant )",
+            "Y": "Route 20 ( Mixed Horde with Trevenant )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Routes 1 and 5 , Lush Jungle ( SOS Battle )",
+            "Moon": "Routes 1 and 5 , Lush Jungle ( SOS Battle )",
+            "Ultra Sun": "Routes 1 and 5 , Lush Jungle ( SOS Battle )",
+            "Ultra Moon": "Routes 1 and 5 , Lush Jungle ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Bridge Field , Dusty Bowl , Hammerlocke Hills , Motostoke Outskirts , Motostoke Riverbank Giant's Seat Sw , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Bridge Field , Dusty Bowl , Hammerlocke Hills , Motostoke Outskirts , Motostoke Riverbank Giant's Seat Sw , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Bonsly",
+            "Shining Pearl": "Routes 214 and 221",
+            "Legends: Arceus": "Crimson Mirelands : Cloudpool Ridge and nearby, massive mass outbreaks Coronet Highlands : Celestica Ruins and nearby"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area Three North Province: Socarrat Trail Tera Raid Battles ( 3★ )",
+            "Violet": "West Province: Area Three North Province: Socarrat Trail Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Bonsly",
+            "to": "Sudowoodo",
+            "method": [
+                "Level up (knowing Mimic)"
+            ]
+        }
+    ]
+}

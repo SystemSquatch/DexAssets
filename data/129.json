@@ -1,0 +1,162 @@
+{
+    "name": "Magikarp",
+    "pokedex_number": "#0129",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Rattled"
+    ],
+    "stats": {
+        "HP": 20,
+        "Attack": 10,
+        "Defense": 55,
+        "Sp. Atk": 15,
+        "Sp. Def": 20,
+        "Speed": 80,
+        "Total": 200
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+            "Yellow": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles.",
+            "Stadium": "Whoever its opponent, and however horrible the attack it receives, all it does is Splash around."
+        },
+        "Generation II": {
+            "Gold": "An underpowered, pathetic Pok é mon . It may jump high on rare occasions, but never more than seven feet .",
+            "Silver": "For no reason, it jumps and splashes about, making it easy for predators like Pidgeotto to catch it mid-jump.",
+            "Crystal": "This weak and pathetic Pok é mon gets easily pushed along rivers when there are strong currents.",
+            "Stadium 2": "An underpowered, pathetic Pok é mon . It may jump high on rare occasions, but never more than seven feet. (Pokémon Red, Silver, or Crystal inserted) For no reason, it jumps and splashes about, making it easy for predators like Pidgeotto to catch it mid-jump. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Magikarp is a pathetic excuse for a Pok é mon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
+            "Sapphire": "Magikarp is virtually useless in battle as it can only splash around. As a result, it is considered to be weak. However, it is actually a very hardy Pok é mon that can survive in any body of water no matter how polluted it is.",
+            "Emerald": "Its swimming muscles are weak, so it is easily washed away by currents. In places where water pools, you can see many Magikarp deposited there by the flow.",
+            "FireRed": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pok é mon in the world.",
+            "LeafGreen": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today."
+        },
+        "Generation IV": {
+            "Diamond": "It is said to be the world's weakest Pokémon. No one knows why it has managed to survive.",
+            "Pearl": "It is unable to swim against even slow-moving currents. It always splashes about for some reason.",
+            "Platinum": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
+            "HeartGold": "An underpowered, pathetic Pokémon. It may jump high on rare occasions, but usually not more than seven feet .",
+            "SoulSilver": "For no reason, it jumps and splashes about, making it easy for predators like Pidgeotto to catch it mid-jump."
+        },
+        "Generation V": {
+            "Black": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
+            "White": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
+            "Black 2": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
+            "White 2": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though."
+        },
+        "Generation VI": {
+            "X": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.",
+            "Y": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+            "Omega Ruby": "Magikarp is a pathetic excuse for a Pokémon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
+            "Alpha Sapphire": "Magikarp is virtually useless in battle as it can only splash around. As a result, it is considered to be weak. However, it is actually a very hardy Pokémon that can survive in any body of water no matter how polluted it is."
+        },
+        "Generation VII": {
+            "Sun": "Although weak and helpless, this Pokémon is incredibly fertile. They exist in such multitudes, you'll soon grow tired of seeing them.",
+            "Moon": "Its reckless leaps make it easy pickings for predators. On the bright side, many Pokémon enjoy longer life spans, thanks to Magikarp.",
+            "Ultra Sun": "In the distant past, they were fairly strong, but they have become gradually weaker over time.",
+            "Ultra Moon": "Thanks to their strong hold on life, dirty water doesn't bother them at all. They live in waters all over the world!",
+            "Let's Go Pikachu": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers, and shallow puddles.",
+            "Let's Go Eevee": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers, and shallow puddles."
+        },
+        "Generation VIII": {
+            "Sword": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.",
+            "Shield": "This weak and pathetic Pokémon gets easily pushed along rivers when there are strong currents.",
+            "Brilliant Diamond": "It is said to be the world's weakest Pokémon. No one knows why it has managed to survive.",
+            "Shining Pearl": "It is unable to swim against even slow-moving currents. It always splashes about for some reason.",
+            "Legends: Arceus": "A feeble, pitiful imbecile of a Pokémon that is nonetheless very hardy. Unperturbed by turbid water, it can be found living in all sorts of places."
+        },
+        "Generation IX": {
+            "Scarlet": "An underpowered, pathetic Pokémon. It may jump high on rare occasions but never more than seven feet.",
+            "Violet": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 6 , 10 , 11 , 12 , 13 , 17 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , 25 , Pallet Town , Viridian City , Cerulean City , Vermilion City , Celadon City , Fuchsia City , Safari Zone , Seafoam Islands , Cinnabar Island , Indigo Plateau , Cerulean Cave ( Old Rod ) Routes 12 , 13 , 17 , and 18 , Fuchsia City ( Super Rod ) Buy from Magikarp salesman for $ 500 on Route 4",
+            "Blue": "Routes 6 , 10 , 11 , 12 , 13 , 17 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , 25 , Pallet Town , Viridian City , Cerulean City , Vermilion City , Celadon City , Fuchsia City , Safari Zone , Seafoam Islands , Cinnabar Island , Indigo Plateau , Cerulean Cave ( Old Rod ) Routes 12 , 13 , 17 , and 18 , Fuchsia City ( Super Rod ) Buy from Magikarp salesman for $ 500 on Route 4",
+            "Blue (Japan)": "Routes 6 , 10 , 11 , 12 , 13 , 17 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , 25 , Pallet Town , Viridian City , Cerulean City , Vermilion City , Celadon City , Fuchsia City , Safari Zone , Seafoam Islands , Cinnabar Island , Indigo Plateau ( Old Rod ) Routes 12 , 13 , 17 , and 18 , Fuchsia City ( Super Rod ) Buy from Magikarp salesman for $ 500 on Route 4",
+            "Yellow": "Routes 6 , 10 , 11 , 12 , 13 , 17 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , and 25 , Pallet Town , Viridian City , Cerulean City , Vermilion City , Celadon City , Fuchsia City , Safari Zone , Seafoam Islands , Cinnabar Island , Indigo Plateau , Cerulean Cave ( Old Rod ) Fuchsia City , Safari Zone ( Super Rod ) Buy from Magikarp salesman for $ 500 on Route 4"
+        },
+        "Generation II": {
+            "Gold": "Routes 19 , 20 , 21 , 26 , 27 , New Bark Town , Pallet Town , Cherrygrove City , Cerulean City and Gym , Cianwood City , Vermilion City , Cinnabar Island , Whirl Islands ( Old Rod or Good Rod ) Routes 6 , 9 , 10 , 12 , 13 , 22 , 24 , 25 , 28 , 30 , 31 , 32 , 34 , 35 , 40 , 41 , 42 , and 44 , Violet City , Ecruteak City , Olivine City , Cianwood City , Viridian City , Ruins of Alph , Union Cave , Ilex Forest , Slowpoke Well , Mt. Mortar , Tohjo Falls , Mt. Silver , Mt. Silver Cave ( fishing ) Routes 43 , 45 , Dark Cave , Lake of Rage , Blackthorn City , Dragon's Den , Fuchsia City ( Surfing and fishing )",
+            "Silver": "Routes 19 , 20 , 21 , 26 , 27 , New Bark Town , Pallet Town , Cherrygrove City , Cerulean City and Gym , Cianwood City , Vermilion City , Cinnabar Island , Whirl Islands ( Old Rod or Good Rod ) Routes 6 , 9 , 10 , 12 , 13 , 22 , 24 , 25 , 28 , 30 , 31 , 32 , 34 , 35 , 40 , 41 , 42 , and 44 , Violet City , Ecruteak City , Olivine City , Cianwood City , Viridian City , Ruins of Alph , Union Cave , Ilex Forest , Slowpoke Well , Mt. Mortar , Tohjo Falls , Mt. Silver , Mt. Silver Cave ( fishing ) Routes 43 , 45 , Dark Cave , Lake of Rage , Blackthorn City , Dragon's Den , Fuchsia City ( Surfing and fishing )",
+            "Crystal": "Routes 19 , 20 , 21 , 26 , 27 , New Bark Town , Pallet Town , Cherrygrove City , Cianwood City , Vermilion City , Cinnabar Island , Whirl Islands ( Old Rod or Good Rod ) Routes 6 , 9 , 10 , 12 , 13 , 22 , 24 , 25 , 28 , 30 , 31 , 32 , 34 , 35 , 40 , 41 , 42 , and 44 , Violet City , Ecruteak City , Olivine City , Cerulean City , Viridian City , Ruins of Alph , Union Cave , Ilex Forest , Slowpoke Well , Mt. Mortar , Tohjo Falls , Mt. Silver , Mt. Silver Cave ( fishing ) Routes 43 , 45 , Dark Cave , Lake of Rage , Blackthorn City , Dragon's Den , Fuchsia City ( Surfing and fishing )"
+        },
+        "Generation III": {
+            "Ruby": "Routes 102 , 103 , 105 , 106 , 107 , 108 , 109 , 110 , 111 , 114 , 115 , 117 , 118 , 119 , 120 , 121 , 122 , 123 , 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 , and 134 , Petalburg City , Dewford Town , Slateport City , Lilycove City , Pacifidlog Town , Ever Grande City , Abandoned Ship , Safari Zone , Shoal Cave , Meteor Falls , Seafloor Cavern , Victory Road , Mossdeep City ( Old Rod or Good Rod ) Route 104 ( fishing ) Sootopolis City ( Surfing and fishing )",
+            "Sapphire": "Routes 102 , 103 , 105 , 106 , 107 , 108 , 109 , 110 , 111 , 114 , 115 , 117 , 118 , 119 , 120 , 121 , 122 , 123 , 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 , and 134 , Petalburg City , Dewford Town , Slateport City , Lilycove City , Pacifidlog Town , Ever Grande City , Abandoned Ship , Safari Zone , Shoal Cave , Meteor Falls , Seafloor Cavern , Victory Road , Mossdeep City ( Old Rod or Good Rod ) Route 104 ( fishing ) Sootopolis City ( Surfing and fishing )",
+            "Emerald": "Routes 102 , 103 , 105 , 106 , 107 , 108 , 109 , 110 , 111 , 114 , 115 , 117 , 118 , 119 , 120 , 121 , 122 , 123 , 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 , and 134 , Petalburg City , Dewford Town , Slateport City , Lilycove City , Pacifidlog Town , Ever Grande City , Abandoned Ship , Safari Zone , Shoal Cave , Meteor Falls , Seafloor Cavern , Victory Road , Mossdeep City ( Old Rod or Good Rod ) Route 104 ( fishing ) Sootopolis City ( Surfing and fishing )",
+            "FireRed": "Routes 4 , 6 , 10 , 11 , 12 , 13 , 19 , 20 , 21 , 22 , 23 , 24 , and 25 , Treasure Beach , Kindle Road , Cape Brink , Bond Bridge , Five Isle Meadow , Ruin Valley , Water Path , Water Labyrinth , Resort Gorgeous , Memorial Pillar , Green Path , Outcast Island , Tanoby Ruins , Pallet Town , Cerulean City , Viridian City , Fuchsia City , Vermilion City , Celadon City , Cinnabar Island , One Island , Four Island , Five Island , Trainer Tower , Cerulean Cave , Safari Zone , Berry Forest , Icefall Cave , Seafoam Islands ( Old Rod or Good Rod ) Buy from Magikarp salesman for $ 500 on Route 4",
+            "LeafGreen": "Routes 4 , 6 , 10 , 11 , 12 , 13 , 19 , 20 , 21 , 22 , 23 , 24 , and 25 , Treasure Beach , Kindle Road , Cape Brink , Bond Bridge , Five Isle Meadow , Ruin Valley , Water Path , Water Labyrinth , Resort Gorgeous , Memorial Pillar , Green Path , Outcast Island , Tanoby Ruins , Pallet Town , Cerulean City , Viridian City , Fuchsia City , Vermilion City , Celadon City , Cinnabar Island , One Island , Four Island , Five Island , Trainer Tower , Cerulean Cave , Safari Zone , Berry Forest , Icefall Cave , Seafoam Islands ( Old Rod or Good Rod ) Buy from Magikarp salesman for $ 500 on Route 4",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 203 , 204 , 205 , 208 , 209 , 210 , 212 , 213 , 214 , 218 , 219 , 220 , 221 , 222 , 223 , 224 , 225 , 226 , 227 , 228 , 229 , and 230 , Twinleaf Town , Eterna City , Canalave City , Celestic Town , Pastoria City , Sunyshore City , Lake Verity , Lake Acuity , Lake Valor , Ravaged Path , Valley Windworks , Mt. Coronet , Iron Island , Great Marsh , Sendoff Spring , Pokémon League , Victory Road , Fuego Ironworks , Oreburgh Gate , Resort Area ( Old Rod or Good Rod ) Trade Finneon on Route 226 ( German )",
+            "Pearl": "Routes 203 , 204 , 205 , 208 , 209 , 210 , 212 , 213 , 214 , 218 , 219 , 220 , 221 , 222 , 223 , 224 , 225 , 226 , 227 , 228 , 229 , and 230 , Twinleaf Town , Eterna City , Canalave City , Celestic Town , Pastoria City , Sunyshore City , Lake Verity , Lake Acuity , Lake Valor , Ravaged Path , Valley Windworks , Mt. Coronet , Iron Island , Great Marsh , Sendoff Spring , Pokémon League , Victory Road , Fuego Ironworks , Oreburgh Gate , Resort Area ( Old Rod or Good Rod ) Trade Finneon on Route 226 ( German )",
+            "Platinum": "Routes 203 , 204 , 205 , 208 , 209 , 210 , 212 , 213 , 214 , 218 , 219 , 220 , 221 , 222 , 223 , 224 , 225 , 226 , 227 , 228 , 229 , 230 , Twinleaf Town , Eterna City , Canalave City , Celestic Town , Pastoria City , Sunyshore City , Lake Verity , Lake Acuity , Lake Valor , Ravaged Path , Valley Windworks , Mt. Coronet , Iron Island , Great Marsh , Sendoff Spring , Pokémon League , Victory Road , Fuego Ironworks , Oreburgh Gate ( Old Rod or Good Rod ) Trade Finneon on Route 226 ( German ) Resort Area ( fishing )",
+            "HeartGold": "Routes 19 , 20 , 21 , 26 , 27 , 28 , 34 , 40 , 41 , 47 , New Bark Town , Cherrygrove City , Olivine City , Cianwood City , Cinnabar Island , Pallet Town , Union Cave 3F, Whirl Islands 1F/B1F/B2F, Mt. Silver Cave 1F, Cerulean Cave , Seafoam Islands B4F, Vermilion City ( Old Rod or Good Rod ) Routes 4 , 6 , 9 , 10 , 12 , 13 , 22 , 24 , 25 , 30 , 31 , 32 , 35 , 42 , 44 , Violet City , Ecruteak City , Viridian City , Cerulean City , Ruins of Alph , Union Cave 1F/2F, Slowpoke Well , Cliff Edge Gate , Mt. Mortar , Tohjo Falls , Mt. Silver , Ilex Forest ( fishing ) Routes 43 , 45 , Dark Cave , Lake of Rage , Blackthorn City , Fuchsia City , Dragon's Den , Mt. Moon Square ( Surfing and fishing ) Safari Zone ( Surfing , Old Rod and Good Rod in Meadow, Swamp and Rocky Beach - default; Old and Good Rod in Marshland, default; Old Rod in Wetland, default)",
+            "SoulSilver": "Routes 19 , 20 , 21 , 26 , 27 , 28 , 34 , 40 , 41 , 47 , New Bark Town , Cherrygrove City , Olivine City , Cianwood City , Cinnabar Island , Pallet Town , Union Cave 3F, Whirl Islands 1F/B1F/B2F, Mt. Silver Cave 1F, Cerulean Cave , Seafoam Islands B4F, Vermilion City ( Old Rod or Good Rod ) Routes 4 , 6 , 9 , 10 , 12 , 13 , 22 , 24 , 25 , 30 , 31 , 32 , 35 , 42 , 44 , Violet City , Ecruteak City , Viridian City , Cerulean City , Ruins of Alph , Union Cave 1F/2F, Slowpoke Well , Cliff Edge Gate , Mt. Mortar , Tohjo Falls , Mt. Silver , Ilex Forest ( fishing ) Routes 43 , 45 , Dark Cave , Lake of Rage , Blackthorn City , Fuchsia City , Dragon's Den , Mt. Moon Square ( Surfing and fishing ) Safari Zone ( Surfing , Old Rod and Good Rod in Meadow, Swamp and Rocky Beach - default; Old and Good Rod in Marshland, default; Old Rod in Wetland, default)",
+            "Pal Park": "Pond",
+            "Pokéwalker": "Warm Beach , Stormy Beach , Winner's Path"
+        },
+        "Generation V": {
+            "Black": "Buy from Magikarp salesman for $ 500 on Marvelous Bridge",
+            "White": "Buy from Magikarp salesman for $ 500 on Marvelous Bridge",
+            "Black 2": "Nature Preserve ( fishing ) Buy from Magikarp salesman for $ 500 on Marvelous Bridge",
+            "White 2": "Nature Preserve ( fishing ) Buy from Magikarp salesman for $ 500 on Marvelous Bridge",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Routes 3 , 22 , Parfum Palace ( fishing ) Trade Gyarados in a hotel in Camphrier Town , Ambrette Town , Cyllage City , Geosenge Town , Coumarine City , or Couriway Town",
+            "Y": "Routes 3 , 22 , Parfum Palace ( fishing ) Trade Gyarados in a hotel in Camphrier Town , Ambrette Town , Cyllage City , Geosenge Town , Coumarine City , or Couriway Town",
+            "Omega Ruby": "Routes 102 , 103 , 105 , 106 , 107 , 108 , 109 , 110 , 111 , 114 , 115 , 117 , 118 , 119 , 120 , 122 , 123 , 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 , 134 , Sea Mauville , Petalburg City , Meteor Falls , Dewford Town , Mossdeep City , Lilycove City , Slateport City , Team Magma Hideout OR , Team Aqua Hideout AS , Sealed Chamber , Victory Road , Ever Grande City , Pacifidlog Town , Scorched Slab , Safari Zone , Shoal Cave , Seafloor Cavern , Battle Resort ( Old Rod or Good Rod ) Route 104 ( fishing ) Sootopolis City ( Surfing and fishing )",
+            "Alpha Sapphire": "Routes 102 , 103 , 105 , 106 , 107 , 108 , 109 , 110 , 111 , 114 , 115 , 117 , 118 , 119 , 120 , 122 , 123 , 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 , 134 , Sea Mauville , Petalburg City , Meteor Falls , Dewford Town , Mossdeep City , Lilycove City , Slateport City , Team Magma Hideout OR , Team Aqua Hideout AS , Sealed Chamber , Victory Road , Ever Grande City , Pacifidlog Town , Scorched Slab , Safari Zone , Shoal Cave , Seafloor Cavern , Battle Resort ( Old Rod or Good Rod ) Route 104 ( fishing ) Sootopolis City ( Surfing and fishing )"
+        },
+        "Generation VII": {
+            "Sun": "Routes 7 , 8 , 9 , 13 , 14 , 15 , Melemele Sea , Seaward Cave , Kala'e Bay , Paniola Town , Akala Outskirts , Brooklet Hill , Malie Garden , Seafolk Village , Poni Wilds , Poni Breaker Coast , Poni Meadow , Poni Gauntlet , Vast Poni Canyon , Secluded Shore ( fishing )",
+            "Moon": "Routes 7 , 8 , 9 , 13 , 14 , 15 , Melemele Sea , Seaward Cave , Kala'e Bay , Paniola Town , Akala Outskirts , Brooklet Hill , Malie Garden , Seafolk Village , Poni Wilds , Poni Breaker Coast , Poni Meadow , Poni Gauntlet , Vast Poni Canyon , Secluded Shore ( fishing )",
+            "Ultra Sun": "Routes 7 , 8 , 9 , 13 , 14 , 15 , Melemele Sea , Seaward Cave , Kala'e Bay , Paniola Town , Akala Outskirts , Brooklet Hill , Malie Garden , Seafolk Village , Poni Breaker Coast , Poni Meadow , Poni Gauntlet , Vast Poni Canyon ( fishing )",
+            "Ultra Moon": "Routes 7 , 8 , 9 , 13 , 14 , 15 , Melemele Sea , Seaward Cave , Kala'e Bay , Paniola Town , Akala Outskirts , Brooklet Hill , Malie Garden , Seafolk Village , Poni Breaker Coast , Poni Meadow , Poni Gauntlet , Vast Poni Canyon ( fishing )",
+            "Let's Go Pikachu": "Routes 4 , 6 , 10 , 11 , 12 , 13 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , and 25 , Seafoam Islands , Cerulean Cave ( Sea Skim ) Buy from Magikarp salesman for $ 500 on Route 4",
+            "Let's Go Eevee": "Routes 4 , 6 , 10 , 11 , 12 , 13 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , and 25 , Seafoam Islands , Cerulean Cave ( Sea Skim ) Buy from Magikarp salesman for $ 500 on Route 4"
+        },
+        "Generation VIII": {
+            "Sword": "South Lake Miloch Routes 2 , 4 , 5 , and 6 , Axew's Eye , Bridge Field , East Lake Axewell , Motostoke , North Lake Miloch , Slumbering Weald , South Lake Miloch ( fishing ) West Lake Axewell ( Surfing and fishing ) Bridge Field , Dusty Bowl , East Lake Axewell , Giant's Cap , Lake of Outrage , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "South Lake Miloch Routes 2 , 4 , 5 , and 6 , Axew's Eye , Bridge Field , East Lake Axewell , Motostoke , North Lake Miloch , Slumbering Weald , South Lake Miloch ( fishing ) West Lake Axewell ( Surfing and fishing ) Bridge Field , Dusty Bowl , East Lake Axewell , Giant's Cap , Lake of Outrage , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor , Courageous Cavern , Soothing Wetlands , Challenge Beach , Forest of Focus , Training Lowlands , Workout Sea , Loop Lagoon , Stepping-Stone Sea , Insular Sea , Honeycalm Island , Honeycalm Sea , Giant's Bed , Snowslide Slope , Giant's Foot , Frigid Sea , Ballimere Lake ( fishing ) Giant's Bed , Giant's Foot , Roaring-Sea Caves , Ballimere Lake ( Surfing )",
+            "Brilliant Diamond": "Routes 203 , 204 , 205 , 208 , 209 , 210 , 212 , 213 , 214 , 218 , 219 , 220 , 221 , 222 , 223 , 224 , 225 , 226 , 227 , 228 , 229 , and 230 , Twinleaf Town , Eterna City , Canalave City , Celestic Town , Pastoria City , Sunyshore City , Lake Verity , Lake Acuity , Lake Valor , Ravaged Path , Valley Windworks , Mt. Coronet , Iron Island , Great Marsh , Sendoff Spring , Pokémon League , Victory Road , Fuego Ironworks , Oreburgh Gate , Resort Area ( Old Rod or Good Rod ) Trade Finneon on Route 226 ( German )",
+            "Shining Pearl": "Routes 203 , 204 , 205 , 208 , 209 , 210 , 212 , 213 , 214 , 218 , 219 , 220 , 221 , 222 , 223 , 224 , 225 , 226 , 227 , 228 , 229 , and 230 , Twinleaf Town , Eterna City , Canalave City , Celestic Town , Pastoria City , Sunyshore City , Lake Verity , Lake Acuity , Lake Valor , Ravaged Path , Valley Windworks , Mt. Coronet , Iron Island , Great Marsh , Sendoff Spring , Pokémon League , Victory Road , Fuego Ironworks , Oreburgh Gate , Resort Area ( Old Rod or Good Rod ) Trade Finneon on Route 226 ( German )",
+            "Legends: Arceus": "Obsidian Fieldlands : Worn Bridge ( mass outbreaks ), near Oreburrow Tunnel , Obsidian Falls , Lake Verity Cobalt Coastlands : massive mass outbreaks Coronet Highlands : near Celestica Trail"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five , Area Six , South Paldean Sea , Poco Path East Province: Area Two , Area Three , East Paldean Sea , Tagtree Thicket West Province: Area Two , Area Three , West Paldean Sea North Province: Area One , North Paldean Sea , Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 2★ , 3★ )",
+            "Violet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five , Area Six , South Paldean Sea , Poco Path East Province: Area Two , Area Three , East Paldean Sea , Tagtree Thicket West Province: Area Two , Area Three , West Paldean Sea North Province: Area One , North Paldean Sea , Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 2★ , 3★ )",
+            "The Hidden Treasure of Area Zero": "Reveler's Road , Mossfell Confluence , Fellhorn Gorge , Oni Mountain , Oni's  Maw , Infernal Pass , Chilling Waterhead , Kitakami Wilds"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Magikarp",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Magikarp",
+            "to": "Gyarados",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

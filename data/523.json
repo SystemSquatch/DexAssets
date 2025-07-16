@@ -1,0 +1,87 @@
+{
+    "name": "Zebstrika",
+    "pokedex_number": "#0523",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Lightning Rod",
+        "Motor Drive",
+        "Sap Sipper"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 63,
+        "Sp. Atk": 80,
+        "Sp. Def": 63,
+        "Speed": 116,
+        "Total": 497
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
+            "White": "This ill-tempered Pokémon is dangerous because when it's angry, it shoots lightning from its mane in all directions.",
+            "Black 2": "When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.",
+            "White 2": "When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions."
+        },
+        "Generation VI": {
+            "X": "When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.",
+            "Y": "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
+            "Omega Ruby": "When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.",
+            "Alpha Sapphire": "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon is aggressive and has a volatile disposition. When agitated, it will illuminate its mane in yellow and fire off bolts of electricity.",
+            "Violet": "Once the herd hears thunder, it chases after the storm clouds so that the Blitzle in the group can use the lightning to charge up."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 7",
+            "White": "Route 7",
+            "Black 2": "Routes 3 and 7 Route 3 ( Hidden Grotto ) *",
+            "White 2": "Routes 3 and 7 Route 3 ( Hidden Grotto ) *"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Electric )",
+            "Y": "Friend Safari ( Electric )",
+            "Omega Ruby": "Mirage Islands (west of Route 104 , west of Dewford Town , north of Route 124 , south of Route 134 ), Mirage Mountain (south of Route 129 )",
+            "Alpha Sapphire": "Mirage Islands (west of Route 104 , west of Dewford Town , north of Route 124 , south of Route 134 ), Mirage Mountain (south of Route 129 )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Savanna Biome Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Blitzle",
+            "to": "Zebstrika",
+            "method": [
+                "Level 27"
+            ]
+        }
+    ]
+}

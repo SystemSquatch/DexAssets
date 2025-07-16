@@ -1,0 +1,155 @@
+{
+    "name": "Squirtle",
+    "pokedex_number": "#0007",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Rain Dish"
+    ],
+    "stats": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Atk": 50,
+        "Sp. Def": 64,
+        "Speed": 43,
+        "Total": 314
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+            "Yellow": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
+            "Stadium": "It takes time for the shell to form and harden after hatching. It sprays foam powerfully from its mouth."
+        },
+        "Generation II": {
+            "Gold": "The shell is soft when it is born. It soon becomes so resilient, prodding fingers will bounce off it.",
+            "Silver": "The shell, which hardens soon after it is born, is resilient. If you poke it, it will bounce back out.",
+            "Crystal": "When it feels threatened, it draws its legs inside its shell and sprays water from its mouth.",
+            "Stadium 2": "The shell is soft when it is born. It soon becomes so resilient, prodding fingers will bounce off it. (Pokémon Red, Silver, or Crystal inserted) The shell, which hardens soon after it is born, is resilient. If you poke it, it will bounce back out. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Squirtle 's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pok é mon to swim at high speeds.",
+            "Sapphire": "Squirtle 's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pok é mon to swim at high speeds.",
+            "Emerald": "Its shell is not just for protection. Its rounded shape and the grooves on its surface minimize resistance in water, enabling Squirtle to swim at high speeds.",
+            "FireRed": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+            "LeafGreen": "After birth, its back swells and hardens into a shell. It powerfully sprays foam from its mouth."
+        },
+        "Generation IV": {
+            "Diamond": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+            "Pearl": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+            "Platinum": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+            "HeartGold": "The shell is soft when it is born. It soon becomes so resilient, prodding fingers will bounce off it.",
+            "SoulSilver": "The shell, which hardens soon after it is born, is resilient. If you poke it, it will bounce back out."
+        },
+        "Generation V": {
+            "Black": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+            "White": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+            "Black 2": "It shelters itself in its shell then strikes back with spouts of water at every opportunity.",
+            "White 2": "It shelters itself in its shell then strikes back with spouts of water at every opportunity."
+        },
+        "Generation VI": {
+            "X": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+            "Y": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
+            "Omega Ruby": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
+            "Alpha Sapphire": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
+            "Let's Go Eevee": "Shoots water at prey while in the water. Withdraws into its shell when in danger."
+        },
+        "Generation VIII": {
+            "Sword": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+            "Shield": "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth.",
+            "Brilliant Diamond": "It hides in its shell to protect itself, then strikes back with spouts of water at every opportunity.",
+            "Shining Pearl": "It hides in its shell to protect itself, then strikes back with spouts of water at every opportunity."
+        },
+        "Generation IX": {
+            "Scarlet": "After birth, its back swells and hardens into a shell. It sprays a potent foam from its mouth.",
+            "Violet": "Its shell is soft immediately after it is born. In no time at all, the shell becomes so resilient that a prodding finger will bounce right off it."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "First partner Pokémon from Professor Oak in Pallet Town",
+            "Blue": "First partner Pokémon from Professor Oak in Pallet Town",
+            "Blue (Japan)": "First partner Pokémon from Professor Oak in Pallet Town",
+            "Yellow": "Received from Officer Jenny in Vermilion City after receiving the Thunder Badge"
+        },
+        "Generation II": {
+            "Gold": "Time Capsule , Event",
+            "Silver": "Time Capsule , Event",
+            "Crystal": "Time Capsule , Event"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "First partner Pokémon from Professor Oak in Pallet Town",
+            "LeafGreen": "First partner Pokémon from Professor Oak in Pallet Town",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Received from Professor Oak in Pallet Town after defeating Red",
+            "SoulSilver": "Received from Professor Oak in Pallet Town after defeating Red",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Global Link Event",
+            "White": "Global Link Event",
+            "Black 2": "Poké Transfer , Event",
+            "White 2": "Poké Transfer , Event"
+        },
+        "Generation VI": {
+            "X": "Received from Professor Sycamore in Lumiose City after defeating him",
+            "Y": "Received from Professor Sycamore in Lumiose City after defeating him",
+            "Omega Ruby": "Trade , Event",
+            "Alpha Sapphire": "Trade , Event"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Seaward Cave ( Island Scan ) Mo",
+            "Ultra Moon": "Seaward Cave ( Island Scan ) Mo",
+            "Let's Go Pikachu": "Route 24 , Route 25 , Seafoam Islands Vermilion City ( Only one )",
+            "Let's Go Eevee": "Route 24 , Route 25 , Seafoam Islands Vermilion City ( Only one )"
+        },
+        "Generation VIII": {
+            "Sword": "Wild Area News , Pokémon HOME Event Trade Version 1.2.0+",
+            "Shield": "Wild Area News , Pokémon HOME Event Trade Version 1.2.0+",
+            "Expansion Pass": "Master Dojo ( Only one ; Gigantamax Factor )",
+            "Brilliant Diamond": "Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern (after obtaining the National Pokédex )",
+            "Shining Pearl": "Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern (after obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Canyon Biome (after boosting biodiversity in the Canyon Biome)"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Squirtle",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Squirtle",
+            "to": "Wartortle",
+            "method": [
+                "Level 16"
+            ]
+        }
+    ]
+}

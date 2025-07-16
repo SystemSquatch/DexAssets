@@ -1,0 +1,114 @@
+{
+    "name": "Leafeon",
+    "pokedex_number": "#0470",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Leaf Guard",
+        "Chlorophyll"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 110,
+        "Defense": 130,
+        "Sp. Atk": 60,
+        "Sp. Def": 65,
+        "Speed": 95,
+        "Total": 525
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.",
+            "Pearl": "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.",
+            "Platinum": "It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.",
+            "HeartGold": "When you see Leafeon asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air.",
+            "SoulSilver": "When you see Leafeon asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air."
+        },
+        "Generation V": {
+            "Black": "It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.",
+            "White": "It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.",
+            "Black 2": "With cells similar to those of plants, it performs photosynthesis inside its body and creates pure air.",
+            "White 2": "With cells similar to those of plants, it performs photosynthesis inside its body and creates pure air."
+        },
+        "Generation VI": {
+            "X": "When you see Leafeon asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air.",
+            "Y": "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.",
+            "Omega Ruby": "When you see Leafeon asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air.",
+            "Alpha Sapphire": "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air."
+        },
+        "Generation VII": {
+            "Sun": "Its cellular composition is closer to that of a plant than an animal. It uses photosynthesis to produce its energy supply without eating food.",
+            "Moon": "The younger they are, the more they smell like fresh grass. With age, their fragrance takes on the odor of fallen leaves.",
+            "Ultra Sun": "Although it doesn't like disputes, it will sharpen the leaf on its tail into a blade and fight if it has to protect its friends.",
+            "Ultra Moon": "It gets its nutrition from photosynthesis. It lives a quiet life deep in forests where clean rivers flow."
+        },
+        "Generation VIII": {
+            "Sword": "Galarians favor the distinctive aroma that drifts from this Pokémon's leaves. There's a popular perfume made using that scent.",
+            "Shield": "This Pokémon's tail is blade sharp, with a fantastic cutting edge that can slice right though large trees.",
+            "Brilliant Diamond": "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.",
+            "Shining Pearl": "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.",
+            "Legends: Arceus": "Cells similar to those of plants have been found in its fur. Its hard tail can fell a large tree with one stroke, and the tail's sharpness exceeds even that of a sword crafted by a master."
+        },
+        "Generation IX": {
+            "Scarlet": "When you see Leafeon asleep in a patch of sunshine, you’ll know it is using photosynthesis to produce clean air.",
+            "Violet": "The younger they are, the more they smell like fresh grass. With age, their fragrance takes on the odor of fallen leaves."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Eevee",
+            "Pearl": "Evolve Eevee",
+            "Platinum": "Evolve Eevee",
+            "HeartGold": "Trade , Evolve Eevee in Pokémon Diamond, Pearl or Platinum",
+            "SoulSilver": "Trade , Evolve Eevee in Pokémon Diamond, Pearl or Platinum"
+        },
+        "Generation V": {
+            "Black": "Evolve Dream World Eevee",
+            "White": "Evolve Dream World Eevee",
+            "Black 2": "Evolve Eevee",
+            "White 2": "Evolve Eevee"
+        },
+        "Generation VI": {
+            "X": "Evolve Eevee",
+            "Y": "Evolve Eevee",
+            "Omega Ruby": "Evolve Eevee",
+            "Alpha Sapphire": "Evolve Eevee"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Eevee",
+            "Moon": "Evolve Eevee",
+            "Ultra Sun": "Evolve Eevee",
+            "Ultra Moon": "Evolve Eevee",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage ( Wanderer ) Giant's Mirror ( Max Raid Battle )",
+            "Shield": "Lake of Outrage ( Wanderer ) Giant's Mirror ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed ( Wanderer ) Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Eevee",
+            "Shining Pearl": "Evolve Eevee",
+            "Legends: Arceus": "Obsidian Fieldlands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area Three North Province: Socarrat Trail South Province: Area Four ( Grass Tera Type ) Tera Raid Battles ( 6★ )",
+            "Violet": "West Province: Area Three North Province: Socarrat Trail South Province: Area Four ( Grass Tera Type ) Tera Raid Battles ( 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Eevee",
+            "to": "Leafeon",
+            "method": [
+                "Level up (near a Eterna Forest)",
+                "Level up (near a Pinwheel Forest)",
+                "Level up (near a Kalos Route 20)",
+                "Use Leaf Stone"
+            ]
+        }
+    ]
+}

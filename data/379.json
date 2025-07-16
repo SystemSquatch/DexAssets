@@ -1,0 +1,111 @@
+{
+    "name": "Registeel",
+    "pokedex_number": "#0379",
+    "types": [
+        "Steel",
+        "Unknown"
+    ],
+    "abilities": [
+        "Clear Body",
+        "Light Metal"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 75,
+        "Defense": 150,
+        "Sp. Atk": 75,
+        "Sp. Def": 150,
+        "Speed": 50,
+        "Total": 580
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Registeel has a body that is harder than any kind of metal. Its body is apparently hollow. No one has any idea what this Pok é mon eats.",
+            "Sapphire": "Registeel was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth.",
+            "Emerald": "Its body is harder than any other kind of metal. The body metal is composed of a mysterious substance. Not only is it hard, it shrinks and stretches flexibly.",
+            "FireRed": "It is sturdier than any kind of metal. It hardened due to pressure underground over tens of thousands of years.",
+            "LeafGreen": "It is sturdier than any kind of metal. It hardened due to pressure underground over tens of thousands of years."
+        },
+        "Generation IV": {
+            "Diamond": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+            "Pearl": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+            "Platinum": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+            "HeartGold": "Its body is said to be harder than any kind of metal. A study has revealed that its body is hollow.",
+            "SoulSilver": "Its body is said to be harder than any kind of metal. A study has revealed that its body is hollow."
+        },
+        "Generation V": {
+            "Black": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+            "White": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+            "Black 2": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+            "White 2": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched."
+        },
+        "Generation VI": {
+            "X": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+            "Y": "Its body is said to be harder than any kind of metal. A study has revealed that its body is hollow.",
+            "Omega Ruby": "Registeel has a body that is harder than any kind of metal. Its body is apparently hollow. No one has any idea what this Pokémon eats.",
+            "Alpha Sapphire": "Registeel was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Registeel's body is made of a strange material that is flexible enough to stretch and shrink but also more durable than any metal.",
+            "Shield": "It's rumored that this Pokémon was born deep underground in the planet's mantle and that it emerged onto the surface 10,000 years ago.",
+            "Brilliant Diamond": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+            "Shining Pearl": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Ancient Tomb ( Only one )",
+            "Sapphire": "Ancient Tomb ( Only one )",
+            "Emerald": "Ancient Tomb ( Only one )",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Iron Island (requires fateful encounter Regigigas ) ( Iron Ruins , Only one )",
+            "HeartGold": "Trade",
+            "SoulSilver": "Trade",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Underground Ruins (Iron Chamber) ( Only one )",
+            "White 2": "Unova Link to obtain the Iron Key"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Ancient Tomb ( Only one )",
+            "Alpha Sapphire": "Ancient Tomb ( Only one )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Cave World ) ( Only one )",
+            "Ultra Moon": "Ultra Space Wilds ( Cave World ) ( Only one )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Iron Ruins ( Only one )",
+            "Brilliant Diamond": "Ramanas Park (requires Discovery Slate ) ( Only one )",
+            "Shining Pearl": "Ramanas Park (requires Discovery Slate ) ( Only one )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME Version 3.0.0+",
+            "Violet": "Pokémon HOME Version 3.0.0+"
+        }
+    },
+    "evolution": []
+}

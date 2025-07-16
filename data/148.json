@@ -1,0 +1,158 @@
+{
+    "name": "Dragonair",
+    "pokedex_number": "#0148",
+    "types": [
+        "Dragon",
+        "Unknown"
+    ],
+    "abilities": [
+        "Shed Skin",
+        "Marvel Scale"
+    ],
+    "stats": {
+        "HP": 61,
+        "Attack": 84,
+        "Defense": 65,
+        "Sp. Atk": 70,
+        "Sp. Def": 70,
+        "Speed": 70,
+        "Total": 420
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "A mystical Pok é mon that exudes a gentle aura. Has the ability to change climate conditions.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "A mystical Pok é mon that exudes a gentle aura. Has the ability to change climate conditions.",
+            "Yellow": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
+            "Stadium": "Lives in large bodies of water like the sea and lakes. It is said to have the power to change the weather and fly."
+        },
+        "Generation II": {
+            "Gold": "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
+            "Silver": "Its crystalline orbs appear to give this Pok é mon the power to freely control the weather.",
+            "Crystal": "It is called the divine Pok é mon . When its entire body brightens slightly, the weather changes.",
+            "Stadium 2": "They say that if it emits an aura from its whole body, the weather will begin to change instantly. (Pokémon Red, Silver, or Crystal inserted) Its crystalline orbs appear to give this Pok é mon the power to freely control the weather. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
+            "Sapphire": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
+            "Emerald": "A Dragonair stores an enormous amount of energy inside its body. It is said to alter the weather around it by loosing energy from the crystals on its neck and tail.",
+            "FireRed": "It is said to live in seas and lakes. Even though it has no wings, it has been seen flying occasionally.",
+            "LeafGreen": "A mystical Pok é mon that exudes a gentle aura. It is said to have the ability to change the weather."
+        },
+        "Generation IV": {
+            "Diamond": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+            "Pearl": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+            "Platinum": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+            "HeartGold": "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
+            "SoulSilver": "Its crystalline orbs appear to give this Pokémon the power to freely control the weather."
+        },
+        "Generation V": {
+            "Black": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+            "White": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+            "Black 2": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+            "White 2": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes."
+        },
+        "Generation VI": {
+            "X": "Its crystalline orbs appear to give this Pokémon the power to freely control the weather.",
+            "Y": "A mystical Pokémon that exudes a gentle aura. It is said to have the ability to change the weather.",
+            "Omega Ruby": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
+            "Alpha Sapphire": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail."
+        },
+        "Generation VII": {
+            "Sun": "It has long been thought that its crystalline orbs are imbued with the power to control the weather.",
+            "Moon": "From time immemorial, it has been venerated by agricultural peoples as an entity able to control the weather.",
+            "Ultra Sun": "Lakes where Dragonair live are filled with offerings from people, because they believe this Pokémon is able to control the weather.",
+            "Ultra Moon": "Some say that if you see it at the start of the year, flying through the sky and twisting its body, you'll be healthy all year long.",
+            "Let's Go Pikachu": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
+            "Let's Go Eevee": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon lives in pristine oceans and lakes. It can control the weather, and it uses this power to fly into the sky, riding on the wind.",
+            "Shield": "This Pokémon gathers power in the orbs on its tail and controls the weather. When enshrouded by an aura, Dragonair has a mystical appearance.",
+            "Brilliant Diamond": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+            "Shining Pearl": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes."
+        },
+        "Generation IX": {
+            "Scarlet": "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
+            "Violet": "It is called the divine Pokémon. When its entire body brightens slightly, the weather changes."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Dratini",
+            "Blue": "Evolve Dratini",
+            "Blue (Japan)": "Rocket Game Corner",
+            "Yellow": "Safari Zone ( Super Rod )"
+        },
+        "Generation II": {
+            "Gold": "Route 45 and Dragon's Den ( Super Rod )",
+            "Silver": "Route 45 and Dragon's Den ( Super Rod )",
+            "Crystal": "Route 45 and Dragon's Den ( Super Rod )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Safari Zone ( Super Rod )",
+            "LeafGreen": "Safari Zone ( Super Rod )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Mt. Coronet ( Super Rod )",
+            "Pearl": "Mt. Coronet ( Super Rod )",
+            "Platinum": "Mt. Coronet ( Super Rod )",
+            "HeartGold": "Dragon's Den ( Super Rod ) Safari Zone (Super Rod in Swamp with 15 Waterside points, and with 20 Waterside points)",
+            "SoulSilver": "Dragon's Den ( Super Rod ) Safari Zone (Super Rod in Swamp with 15 Waterside points, and with 20 Waterside points)",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Dragonspiral Tower ( Fishing in rippling water )",
+            "White": "Dragonspiral Tower ( Fishing in rippling water )",
+            "Black 2": "Dragonspiral Tower ( Fishing in rippling water )",
+            "White 2": "Dragonspiral Tower ( Fishing in rippling water )"
+        },
+        "Generation VI": {
+            "X": "Route 21 ( Super Rod ) Friend Safari ( Dragon )",
+            "Y": "Route 21 ( Super Rod ) Friend Safari ( Dragon )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Poni Gauntlet , Poni Meadow , Vast Poni Canyon ( SOS Battle )",
+            "Moon": "Poni Gauntlet , Poni Meadow , Vast Poni Canyon ( SOS Battle )",
+            "Ultra Sun": "Poni Gauntlet , Poni Meadow ( SOS Battle )",
+            "Ultra Moon": "Poni Gauntlet , Poni Meadow ( SOS Battle )",
+            "Let's Go Pikachu": "Route 10 ( Sea Skim )",
+            "Let's Go Eevee": "Route 10 ( Sea Skim )"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Ballimere Lake ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Mount Coronet ( Super Rod )",
+            "Shining Pearl": "Mount Coronet ( Super Rod )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Casseroya Lake South Province: Area Six ( Electric Tera Type ) Tera Raid Battles ( 4★ )",
+            "Violet": "North Province: Casseroya Lake South Province: Area Six ( Electric Tera Type ) Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Dratini",
+            "to": "Dragonair",
+            "method": [
+                "Level 30"
+            ]
+        },
+        {
+            "from": "Dragonair",
+            "to": "Dragonite",
+            "method": [
+                "Level 55"
+            ]
+        }
+    ]
+}

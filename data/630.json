@@ -1,0 +1,96 @@
+{
+    "name": "Mandibuzz",
+    "pokedex_number": "#0630",
+    "types": [
+        "Dark",
+        "Flying"
+    ],
+    "abilities": [
+        "Big Pecks",
+        "Overcoat",
+        "Weak Armor"
+    ],
+    "stats": {
+        "HP": 110,
+        "Attack": 65,
+        "Defense": 105,
+        "Sp. Atk": 55,
+        "Sp. Def": 95,
+        "Speed": 80,
+        "Total": 510
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It makes a nest out of bones it finds. It grabs weakened prey in its talons and hauls it to its nest of bones.",
+            "White": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
+            "Black 2": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
+            "White 2": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease."
+        },
+        "Generation VI": {
+            "X": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
+            "Y": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
+            "Omega Ruby": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
+            "Alpha Sapphire": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones."
+        },
+        "Generation VII": {
+            "Sun": "They adorn themselves beautifully with bones. This is supposedly an effort to attract males, but no male Mandibuzz have ever been found.",
+            "Moon": "It circles in the sky, keeping a keen eye out for Pokémon in a weakened state. Its choicest food is Cubone.",
+            "Ultra Sun": "It skillfully arranges the bones of its prey to construct its nest. Most of the bones are Cubone.",
+            "Ultra Moon": "It's always searching for food for Vullaby. When it finds a weak Pokémon, Mandibuzz swoops it right off to its nest."
+        },
+        "Generation VIII": {
+            "Sword": "Although it's a bit of a ruffian, this Pokémon will take lost Vullaby under its wing and care for them till they're ready to leave the nest.",
+            "Shield": "They adorn themselves with bones. There seem to be fashion trends among them, as different bones come into and fall out of popularity."
+        },
+        "Generation IX": {
+            "Scarlet": "It's always searching for food for Vullaby. When it finds a weak Pokémon, Mandibuzz swoops it right off to its nest.",
+            "Violet": "Watching from the sky, they attack weakened prey on the ground. They have a habit of decorating themselves with bones."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 11 , Village Bridge ( dark grass )",
+            "White": "Trade",
+            "Black 2": "Route 4 * Th",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Vullaby",
+            "Y": "Evolve Vullaby",
+            "Omega Ruby": "Evolve Vullaby",
+            "Alpha Sapphire": "Evolve Vullaby"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Poni Plains",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Poni Plains",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Dusty Bowl , Lake of Outrage Rolling Fields , East Lake Axewell , West Lake Axewell , Bridge Field , Stony Wilderness , Giant's Mirror ( Max Raid Battle )",
+            "Shield Expansion Pass": "Challenge Road ( Wanderer ) Loop Lagoon , Dusty Bowl ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Savanna Biome Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Vullaby",
+            "to": "Mandibuzz",
+            "method": [
+                "Level 54"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "name": "Tsareena",
+    "pokedex_number": "#0763",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Leaf Guard",
+        "Queenly Majesty",
+        "Sweet Veil"
+    ],
+    "stats": {
+        "HP": 72,
+        "Attack": 120,
+        "Defense": 98,
+        "Sp. Atk": 50,
+        "Sp. Def": 98,
+        "Speed": 72,
+        "Total": 510
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Its long, striking legs aren't just for show but to be used to kick with skill. In victory, it shows off by kicking the defeated, laughing boisterously.",
+            "Moon": "A Pokémon known for the beauty of its well-shaped legs, it sometimes appears as a mascot in advertisements for beauty salons.",
+            "Ultra Sun": "A master of grand and beautiful kicks, it can knock out even kickboxing champions with a single blow.",
+            "Ultra Moon": "A Pokémon with an aggressive personality and a mastery of kicking, it cackles every time it kicks an opponent."
+        },
+        "Generation VIII": {
+            "Sword": "This feared Pokémon has long, slender legs and a cruel heart. It shows no mercy as it stomps on its opponents.",
+            "Shield": "A kick from the hardened tips of this Pokémon's legs leaves a wound in the opponent's body and soul that will never heal."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon is proud and aggressive. However, it is said that a Tsareena will instantly become calm if someone touches the crown on its calyx.",
+            "Violet": "This Pokémon launches fierce yet elegant kicks with its long, slender legs. It views Quaquaval as its rival."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Evolve Steenee",
+            "Moon": "Evolve Steenee",
+            "Ultra Sun": "Evolve Steenee",
+            "Ultra Moon": "Evolve Steenee",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Stony Wilderness Dappled Grove , Giant's Mirror ( Max Raid Battle )",
+            "Shield": "Stony Wilderness Dappled Grove , Giant's Mirror ( Max Raid Battle )",
+            "Expansion Pass": "Loop Lagoon ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Socarrat Trail ( Psychic Tera Type ) Tera Raid Battles ( 5★ )",
+            "Violet": "North Province: Socarrat Trail ( Psychic Tera Type ) Tera Raid Battles ( 5★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Steenee",
+            "to": "Tsareena",
+            "method": [
+                "Level up (knowing Stomp)"
+            ]
+        }
+    ]
+}

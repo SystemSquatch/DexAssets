@@ -1,0 +1,147 @@
+{
+    "name": "Hoothoot",
+    "pokedex_number": "#0163",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Insomnia",
+        "Keen Eye",
+        "Tinted Lens"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 30,
+        "Defense": 30,
+        "Sp. Atk": 36,
+        "Sp. Def": 56,
+        "Speed": 50,
+        "Total": 262
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+            "Silver": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
+            "Crystal": "It begins to hoot at the same time every day. Some trainers use them in place of clocks.",
+            "Stadium 2": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen. (Pokémon Red, Silver, or Crystal inserted) It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pok é mon begins hooting at precisely the same time every day.",
+            "Sapphire": "Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pok é mon begins hooting at precisely the same time every day.",
+            "Emerald": "It has an internal organ that senses the earth's rotation. Using this special organ, a Hoothoot begins hooting at precisely the same time every day.",
+            "FireRed": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
+            "LeafGreen": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen."
+        },
+        "Generation IV": {
+            "Diamond": "It always stands on one foot. Even when attacked, it does not brace itself using both feet.",
+            "Pearl": "It switches its standing foot so quickly, it can't be seen. It cries at the same time every day.",
+            "Platinum": "It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways.",
+            "HeartGold": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+            "SoulSilver": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time."
+        },
+        "Generation V": {
+            "Black": "It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways.",
+            "White": "It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways.",
+            "Black 2": "It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways.",
+            "White 2": "It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways."
+        },
+        "Generation VI": {
+            "X": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
+            "Y": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+            "Omega Ruby": "Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pokémon begins hooting at precisely the same time every day.",
+            "Alpha Sapphire": "Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pokémon begins hooting at precisely the same time every day."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Every day, it tilts its head in the same rhythm. A long time ago, people raised these Pokémon to serve as clocks.",
+            "Ultra Moon": "It cries out at the same time every day. A long time ago, people cherished it and considered it a divine messenger sent to tell the time."
+        },
+        "Generation VIII": {
+            "Sword": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+            "Shield": "It begins to hoot at the same time every day. Some Trainers use them in place of clocks.",
+            "Brilliant Diamond": "It always stands on one foot. Even when attacked, it does not brace itself using both feet.",
+            "Shining Pearl": "It switches its standing foot so quickly that the switch can't be seen. It cries at the same time every day."
+        },
+        "Generation IX": {
+            "Scarlet": "Hoothoot's internal clock is precise at all times. It tilts its head in a fixed rhythm.",
+            "Violet": "Since it tells time precisely, some countries consider it to be a deity of wisdom, versed in the ways of the world."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 1 , 2 , 29 , 30 , 31 , 35 , 36 , and 37 , National Park Night",
+            "Silver": "Routes 1 , 2 , 29 , 30 , 31 , 35 , 36 , and 37 , National Park Night",
+            "Crystal": "Routes 1 , 2 , 5 , 25 , 29 , 30 , 31 , 32 , 34 , 35 , 36 , and 37 , Ilex Forest , National Park Night Routes 26 , 27 , 29 , 30 , 31 , 32 , 34 , 35 , 36 , 37 , 38 , 39 , 43 , Ilex Forest , National Park , Lake of Rage ( Headbutt trees )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Safari Zone extension",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 210 , 211 , Great Marsh Night",
+            "Pearl": "Routes 210 , 211 , Great Marsh Night",
+            "Platinum": "Routes 205 , 210 , 211 , Great Marsh , Eterna Forest Night",
+            "HeartGold": "Routes 29 , 30 , 31 , 35 , 36 , 37 , National Park , Viridian Forest Night Routes 1 , 2 , 3 , 4 , 5 , 6 , 8 , 12 , 13 , 14 , 15 , 18 , 21 , 22 , 25 , 26 , 27 , 29 , 30 , 31 , 32 , 34 , 35 , 36 , 37 , 38 , 39 , 43 , 47 , 48 , Ilex Forest , National Park , Lake of Rage , New Bark Town , Cherrygrove City , Violet City , Ecruteak City , Pallet Town , Viridian City , Pewter City , Cerulean City , Fuchsia City , Safari Zone Gate , Viridian Forest ( Headbutt trees )",
+            "SoulSilver": "Routes 29 , 30 , 31 , 35 , 36 , 37 , National Park , Viridian Forest Night Routes 1 , 2 , 3 , 4 , 5 , 6 , 8 , 12 , 13 , 14 , 15 , 18 , 21 , 22 , 25 , 26 , 27 , 29 , 30 , 31 , 32 , 34 , 35 , 36 , 37 , 38 , 39 , 43 , 47 , 48 , Ilex Forest , National Park , Lake of Rage , New Bark Town , Cherrygrove City , Violet City , Ecruteak City , Pallet Town , Viridian City , Pewter City , Cerulean City , Fuchsia City , Safari Zone Gate , Viridian Forest ( Headbutt trees )",
+            "Pal Park": "Forest",
+            "Pokéwalker": "Rugged Road , Suburban Area , and Night Sky's Edge"
+        },
+        "Generation V": {
+            "Black": "Breed Noctowl",
+            "White": "Breed Noctowl",
+            "Black 2": "Breed Noctowl ; Transfer from Dream Radar",
+            "White 2": "Breed Noctowl ; Transfer from Dream Radar",
+            "Dream World": "Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Breed Noctowl , Friend Safari ( Flying )",
+            "Y": "Breed Noctowl , Friend Safari ( Flying )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Lush Jungle Night Poké Pelago *",
+            "Ultra Moon": "Lush Jungle Night Poké Pelago *",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Routes 1 and 2 , Dappled Grove , Giant's Cap , Slumbering Weald East Lake Axewell , Giant's Cap , Hammerlocke Hills , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Routes 1 and 2 , Dappled Grove , Giant's Cap , Slumbering Weald East Lake Axewell , Giant's Cap , Hammerlocke Hills , Rolling Fields ( Max Raid Battle )",
+            "Expansion Pass": "Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Routes 210 , 211 , Great Marsh Night Grand Underground - Spacious Cave , Grassland Cave , Fountainspring Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern (After obtaining TM96 ( Strength ))",
+            "Shining Pearl": "Routes 210 , 211 , Great Marsh Night Grand Underground - Spacious Cave , Grassland Cave , Fountainspring Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern (After obtaining TM96 ( Strength ))",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Reveler's Road , Kitakami Hall , Mossfell Confluence , Fellhorn Gorge , Oni Mountain , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Hoothoot",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Hoothoot",
+            "to": "Noctowl",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

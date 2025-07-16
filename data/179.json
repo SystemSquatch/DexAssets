@@ -1,0 +1,142 @@
+{
+    "name": "Mareep",
+    "pokedex_number": "#0179",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Static",
+        "Plus"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 40,
+        "Defense": 40,
+        "Sp. Atk": 65,
+        "Sp. Def": 45,
+        "Speed": 35,
+        "Total": 280
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
+            "Silver": "Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week.",
+            "Crystal": "It stores lots of air in its soft fur, allowing it to stay cool in summer and warm in winter.",
+            "Stadium 2": "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you. (Pokémon Red, Silver, or Crystal inserted) Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Mareep 's fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail grows.",
+            "Sapphire": "Mareep 's fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail grows.",
+            "Emerald": "Its fluffy wool rubs together and builds a static charge. The more energy is charged, the more brightly the lightbulb at the tip of its tail glows.",
+            "FireRed": "Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week.",
+            "LeafGreen": "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you."
+        },
+        "Generation IV": {
+            "Diamond": "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
+            "Pearl": "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
+            "Platinum": "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
+            "HeartGold": "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
+            "SoulSilver": "Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week."
+        },
+        "Generation V": {
+            "Black": "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
+            "White": "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
+            "Black 2": "When cold weather increases static electricity, its wool doubles in size and the tip of its tail glows slightly.",
+            "White 2": "When cold weather increases static electricity, its wool doubles in size and the tip of its tail glows slightly."
+        },
+        "Generation VI": {
+            "X": "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
+            "Y": "It stores lots of air in its soft fur, allowing it to stay cool in summer and warm in winter.",
+            "Omega Ruby": "Mareep's fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail glows.",
+            "Alpha Sapphire": "Mareep's fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail glows."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Clothing made from Mareep's fleece is easily charged with static electricity, so a special process is used on it.",
+            "Ultra Moon": "Rubbing its fleece generates electricity. You'll want to pet it because it's cute, but if you use your bare hand, you'll get a painful shock."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Its fluffy coat doubles in size when static electricity builds up. Touching it can be shocking.",
+            "Shining Pearl": "Its fluffy coat doubles in size when static electricity builds up. Touching it can be shocking."
+        },
+        "Generation IX": {
+            "Scarlet": "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
+            "Violet": "Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 32 , 42 , and 43",
+            "Silver": "Routes 32 , 42 , and 43",
+            "Crystal": "Trade"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Safari Zone extension",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Card e Room (Shadow) * , Trade",
+            "XD": "Cipher Lab (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Valley Windworks ( Poké Radar )",
+            "Pearl": "Valley Windworks ( Poké Radar )",
+            "Platinum": "Valley Windworks ( Poké Radar )",
+            "HeartGold": "Routes 32 , 42 , and 43 Safari Zone (tall grass in Rocky Beach with 5 Forest points) Hatch Egg received from Primo in Violet City",
+            "SoulSilver": "Routes 32 , 42 , and 43 Safari Zone (tall grass in Rocky Beach with 5 Forest points) Hatch Egg received from Primo in Violet City",
+            "Pal Park": "Field",
+            "Pokéwalker": "Icy Mountain Rd. , Big Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Floccesy Ranch",
+            "White 2": "Floccesy Ranch",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Route 12 ( Horde Encounter )",
+            "Y": "Route 12 ( Horde Encounter )",
+            "Omega Ruby": "Trade , Event",
+            "Alpha Sapphire": "Trade , Event"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Paniola Ranch",
+            "Ultra Moon": "Paniola Ranch",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Valley Windworks ( Poké Radar ) Grand Underground - Grassland Cave , Whiteout Cave , Sunlit Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Valley Windworks ( Poké Radar ) Grand Underground - Grassland Cave , Whiteout Cave , Sunlit Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Two Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Area Two Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Mareep",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Mareep",
+            "to": "Flaaffy",
+            "method": [
+                "Level 15"
+            ]
+        }
+    ]
+}

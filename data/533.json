@@ -1,0 +1,99 @@
+{
+    "name": "Gurdurr",
+    "pokedex_number": "#0533",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Guts",
+        "Sheer Force",
+        "Iron Fist"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 105,
+        "Defense": 85,
+        "Sp. Atk": 40,
+        "Sp. Def": 50,
+        "Speed": 40,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
+            "White": "They strengthen their bodies by carrying steel beams. They show off their big muscles to their friends.",
+            "Black 2": "With strengthened bodies, they skillfully wield steel beams to take down buildings.",
+            "White 2": "With strengthened bodies, they skillfully wield steel beams to take down buildings."
+        },
+        "Generation VI": {
+            "X": "With strengthened bodies, they skillfully wield steel beams to take down buildings.",
+            "Y": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
+            "Omega Ruby": "With strengthened bodies, they skillfully wield steel beams to take down buildings.",
+            "Alpha Sapphire": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It shows off its muscles to Machoke and other Gurdurr. If it fails to measure up to the other Pokémon, it lies low for a little while.",
+            "Shield": "Gurdurr excels at demolition—construction is not its forte. In any case, there's skill in the way this Pokémon wields its metal beam."
+        },
+        "Generation IX": {
+            "Scarlet": "They strengthen their bodies by carrying steel beams. They show off their big muscles to their friends.",
+            "Violet": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Twist Mountain",
+            "White": "Twist Mountain",
+            "Black 2": "Relic Passage , Twist Mountain , Pinwheel Forest , Victory Road",
+            "White 2": "Relic Passage , Twist Mountain , Pinwheel Forest , Victory Road",
+            "Dream World": "Dream Park *"
+        },
+        "Generation VI": {
+            "X": "Route 18 and Victory Road (Cave)",
+            "Y": "Route 18 and Victory Road (Cave)",
+            "Omega Ruby": "Evolve Timburr",
+            "Alpha Sapphire": "Evolve Timburr"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Timburr",
+            "Moon": "Evolve Timburr",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 8 , Dusty Bowl , Stony Wilderness Rolling Fields , South Lake Miloch , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 8 , Dusty Bowl Rolling Fields , South Lake Miloch , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed , Giant's Foot Frostpoint Field , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Mossfell Confluence , Fellhorn Gorge , Paradise Barrens Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Timburr",
+            "to": "Gurdurr",
+            "method": [
+                "Level 25"
+            ]
+        },
+        {
+            "from": "Gurdurr",
+            "to": "Conkeldurr",
+            "method": [
+                "Trade"
+            ]
+        }
+    ]
+}

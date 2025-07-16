@@ -1,0 +1,64 @@
+{
+    "name": "Furfrou",
+    "pokedex_number": "#0676",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Fur Coat"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 60,
+        "Sp. Atk": 65,
+        "Sp. Def": 90,
+        "Speed": 102,
+        "Total": 472
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
+            "Y": "Historically, in the Kalos region, these Pokémon were the designated guardians of the king.",
+            "Omega Ruby": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
+            "Alpha Sapphire": "Historically, in the Kalos region, these Pokémon were the designated guardians of the king."
+        },
+        "Generation VII": {
+            "Ultra Sun": "There was an era when aristocrats would compete to see who could trim their Furfrou's fur into the most exquisite style.",
+            "Ultra Moon": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it."
+        },
+        "Generation VIII": {},
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Route 5",
+            "Y": "Route 5",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 2 , Ancient Poni Path , Hau'oli City , Poni Wilds",
+            "Ultra Moon": "Route 2 , Ancient Poni Path , Hau'oli City , Poni Wilds",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

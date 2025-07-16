@@ -1,0 +1,75 @@
+{
+    "name": "Stufful",
+    "pokedex_number": "#0759",
+    "types": [
+        "Normal",
+        "Fighting"
+    ],
+    "abilities": [
+        "Fluffy",
+        "Klutz",
+        "Cute Charm"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 75,
+        "Defense": 50,
+        "Sp. Atk": 45,
+        "Sp. Def": 50,
+        "Speed": 50,
+        "Total": 340
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Despite its adorable appearance, when it gets angry and flails about, its arms and legs could knock a pro wrestler sprawling.",
+            "Moon": "A touch from anyone except a known friend sends it into a surging frenzy. It's an incredibly dangerous Pokémon.",
+            "Ultra Sun": "It boasts power enough to split large trees in half. The organ on its rear releases an odor that it uses to communicate with others of its kind.",
+            "Ultra Moon": "Stufful hates to be hugged or touched in any way. It will squirm, thrash, and resist with amazing power."
+        },
+        "Generation VIII": {
+            "Sword": "Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokémon could result in painful retaliation.",
+            "Shield": "The way it protects itself by flailing its arms may be an adorable sight, but stay well away. This is flailing that can snap thick tree trunks."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Route 8 , Akala Outskirts",
+            "Moon": "Route 8 , Akala Outskirts",
+            "Ultra Sun": "Route 8 , Akala Outskirts",
+            "Ultra Moon": "Route 8 , Akala Outskirts",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 5 , East Lake Axewell , Bridge Field , Dappled Grove , Giant's Seat , Hammerlocke Hills , North Lake Miloch Stony Wilderness Sw , Rolling Fields , East Lake Axewell , North Lake Miloch , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Route 5 , East Lake Axewell , Bridge Field , Dappled Grove , Giant's Seat , Hammerlocke Hills , North Lake Miloch Stony Wilderness Sw , Rolling Fields , East Lake Axewell , North Lake Miloch , Dusty Bowl ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Stufful",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Stufful",
+            "to": "Bewear",
+            "method": [
+                "Level 27"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "name": "Cloyster",
+    "pokedex_number": "#0091",
+    "types": [
+        "Water",
+        "Ice"
+    ],
+    "abilities": [
+        "Shell Armor",
+        "Skill Link",
+        "Overcoat"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 95,
+        "Defense": 180,
+        "Sp. Atk": 85,
+        "Sp. Def": 45,
+        "Speed": 70,
+        "Total": 525
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
+            "Yellow": "For protection, it uses its harder-than-diamonds shell. It also shoots spikes from the shell.",
+            "Stadium": "Its shell is so hard, it can even withstand a bomb. No one has ever seen what is inside its shell."
+        },
+        "Generation II": {
+            "Gold": "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
+            "Silver": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+            "Crystal": "Even a missile can't break the spikes it uses to stab opponents. They're even harder than its shell.",
+            "Stadium 2": "Once it slams its shell shut, it is impossible to open, even by those with superior strength. (Pokémon Red, Silver, or Crystal inserted) Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pok é mon shoots spikes from its shell using the same system.",
+            "Sapphire": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pok é mon shoots spikes from its shell using the same system.",
+            "Emerald": "It swims in the sea by swallowing water, then jetting it out toward the rear. The Cloyster shoots spikes from its shell using the same system.",
+            "FireRed": "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
+            "LeafGreen": "When attacked, it launches its horns in quick volleys. Its innards have never been seen."
+        },
+        "Generation IV": {
+            "Diamond": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
+            "Pearl": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
+            "Platinum": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
+            "HeartGold": "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
+            "SoulSilver": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells."
+        },
+        "Generation V": {
+            "Black": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
+            "White": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
+            "Black 2": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
+            "White 2": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes."
+        },
+        "Generation VI": {
+            "X": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+            "Y": "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
+            "Omega Ruby": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",
+            "Alpha Sapphire": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system."
+        },
+        "Generation VII": {
+            "Sun": "Its hard shell cannot be shattered—not even by a bomb. The contents of the shell remain unknown.",
+            "Moon": "Excavation of the tombs of ancient hunting tribes has turned up many spears tipped with spikes that had fallen off this Pokémon's shell.",
+            "Ultra Sun": "If areas of Cloyster's very hard shell get damaged, those areas swell, gradually growing into large sharp spikes.",
+            "Ultra Moon": "Slowpoke tails are its favorite food. It has even been known to come up on land to look for Slowpoke from time to time.",
+            "Let's Go Pikachu": "For protection, it uses its harder-than-diamond shell. It also shoots spikes from the shell.",
+            "Let's Go Eevee": "For protection, it uses its harder-than-diamond shell. It also shoots spikes from the shell."
+        },
+        "Generation VIII": {
+            "Sword": "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
+            "Shield": "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
+            "Brilliant Diamond": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
+            "Shining Pearl": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes."
+        },
+        "Generation IX": {
+            "Scarlet": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+            "Violet": "When attacked, it launches its spikes in quick volleys. Its innards have never been seen."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Shellder",
+            "Blue": "Evolve Shellder",
+            "Blue (Japan)": "Evolve Shellder",
+            "Yellow": "Evolve Shellder"
+        },
+        "Generation II": {
+            "Gold": "Evolve Shellder",
+            "Silver": "Evolve Shellder",
+            "Crystal": "Evolve Shellder"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Shellder",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Evolve Shellder"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Shellder",
+            "Pearl": "Evolve Shellder",
+            "Platinum": "Evolve Shellder",
+            "HeartGold": "Evolve Shellder",
+            "SoulSilver": "Evolve Shellder",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Route 13 , Undella Town , Undella Bay ( Fishing in rippling water )",
+            "White": "Route 13 , Undella Town , Undella Bay ( Fishing in rippling water )",
+            "Black 2": "Route 13 , Undella Town , Seaside Cave , Humilau City ( Fishing in rippling water )",
+            "White 2": "Route 13 , Undella Town , Seaside Cave , Humilau City ( Fishing in rippling water )"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Ice )",
+            "Y": "Route 8 ( Super Rod ) Friend Safari ( Ice )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Shellder",
+            "Moon": "Evolve Shellder",
+            "Ultra Sun": "Evolve Shellder",
+            "Ultra Moon": "Evolve Shellder",
+            "Let's Go Pikachu": "Seafoam Islands ( Sea Skim )",
+            "Let's Go Eevee": "Seafoam Islands ( Sea Skim )"
+        },
+        "Generation VIII": {
+            "Sword": "Giant's Seat ( fishing ) West Lake Axewell , East Lake Axewell ( Wanderer ) Dusty Bowl , North Lake Miloch , South Lake Miloch , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Giant's Seat ( fishing ) West Lake Axewell , East Lake Axewell ( Wanderer ) Dusty Bowl , North Lake Miloch , South Lake Miloch , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Courageous Cavern , Loop Lagoon ( fishing ) Fields of Honor , Challenge Beach , Loop Lagoon , Workout Sea , Insular Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Shellder",
+            "Shining Pearl": "Evolve Shellder",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: South Paldean Sea East Province: East Paldean Sea West Province: West Paldean Sea North Province: North Paldean Sea Tera Raid Battles ( 4★ , 5★ )",
+            "Violet": "South Province: South Paldean Sea East Province: East Paldean Sea West Province: West Paldean Sea North Province: North Paldean Sea Tera Raid Battles ( 4★ , 5★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Shellder",
+            "to": "Cloyster",
+            "method": [
+                "Use Water Stone"
+            ]
+        }
+    ]
+}

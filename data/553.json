@@ -1,0 +1,97 @@
+{
+    "name": "Krookodile",
+    "pokedex_number": "#0553",
+    "types": [
+        "Ground",
+        "Dark"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Moxie",
+        "Anger Point"
+    ],
+    "stats": {
+        "HP": 95,
+        "Attack": 117,
+        "Defense": 70,
+        "Sp. Atk": 65,
+        "Sp. Def": 70,
+        "Speed": 92,
+        "Total": 509
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile.",
+            "White": "It can expand the focus of its eyes, enabling it to see objects in the far distance as if it were using binoculars.",
+            "Black 2": "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes.",
+            "White 2": "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes."
+        },
+        "Generation VI": {
+            "X": "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes.",
+            "Y": "They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile.",
+            "Omega Ruby": "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes.",
+            "Alpha Sapphire": "They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile."
+        },
+        "Generation VII": {
+            "Sun": "Its unique faculty of sight can detect small prey more than 30 miles away, even in the midst of a sandstorm.",
+            "Moon": "After clamping down with its powerful jaws, it twists its body around to rip its prey in half.",
+            "Ultra Sun": "When it spots prey, even at a distance of over 30 miles , it swims through the desert as if it were water, then jumps out and chomps them.",
+            "Ultra Moon": "It conceals itself in sandstorms that Flygon whip up and waits patiently for prey to appear."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon is known as the Bully of the Sands. Krookodile's mighty jaws can bite through heavy plates of iron with almost no effort at all.",
+            "Shield": "While terribly aggressive, Krookodile also has the patience to stay hidden under sand for days, lying in wait for prey."
+        },
+        "Generation IX": {
+            "Scarlet": "After clamping down with its powerful jaws, it twists its body around to rip its prey in half.",
+            "Violet": "Its unique faculty of sight can detect small prey more than 30 miles away, even in the midst of a sandstorm."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Krokorok",
+            "White": "Evolve Krokorok",
+            "Black 2": "Evolve Krokorok",
+            "White 2": "Evolve Krokorok",
+            "Dream World": "Rugged Mountain *"
+        },
+        "Generation VI": {
+            "X": "Evolve Krokorok",
+            "Y": "Evolve Krokorok",
+            "Omega Ruby": "Evolve Krokorok",
+            "Alpha Sapphire": "Evolve Krokorok"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Krokorok",
+            "Moon": "Evolve Krokorok",
+            "Ultra Sun": "Evolve Krokorok",
+            "Ultra Moon": "Evolve Krokorok",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Potbottom Desert ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 5★ )",
+            "Violet": "Tera Raid Battles ( 5★ )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Krokorok",
+            "to": "Krookodile",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

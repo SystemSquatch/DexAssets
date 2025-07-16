@@ -1,0 +1,131 @@
+{
+    "name": "Lotad",
+    "pokedex_number": "#0270",
+    "types": [
+        "Water",
+        "Grass"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Rain Dish",
+        "Own Tempo"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 30,
+        "Sp. Atk": 40,
+        "Sp. Def": 50,
+        "Speed": 30,
+        "Total": 220
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Lotad live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this Pok é mon travels on land in search of clean water.",
+            "Sapphire": "Lotad is said to have dwelled on land before. However, this Pok é mon is thought to have returned to water because the leaf on its head grew large and heavy. It now lives by floating atop the water.",
+            "Emerald": "This Pok é mon lives in ponds with clean water. It is known to ferry small Pok é mon across ponds by carrying them on the broad leaf on its head.",
+            "FireRed": "It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts.",
+            "LeafGreen": "It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts."
+        },
+        "Generation IV": {
+            "Diamond": "It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim.",
+            "Pearl": "It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim.",
+            "Platinum": "It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim.",
+            "HeartGold": "Its leaf grew too large for it to live on land. That is how it began to live floating in the water.",
+            "SoulSilver": "Its leaf grew too large for it to live on land. That is how it began to live floating in the water."
+        },
+        "Generation V": {
+            "Black": "It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim.",
+            "White": "It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim.",
+            "Black 2": "It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim.",
+            "White 2": "It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim."
+        },
+        "Generation VI": {
+            "X": "It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim.",
+            "Y": "It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts.",
+            "Omega Ruby": "Lotad live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this Pokémon travels on land in search of clean water.",
+            "Alpha Sapphire": "Lotad is said to have dwelled on land before. However, this Pokémon is thought to have returned to water because the leaf on its head grew large and heavy. It now lives by floating atop the water."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts.",
+            "Shield": "Its leaf grew too large for it to live on land. That is how it began to live floating in the water.",
+            "Brilliant Diamond": "It looks like an aquatic plant and serves as a ferry for Pokémon that can't swim.",
+            "Shining Pearl": "It looks like an aquatic plant and serves as a ferry for Pokémon that can't swim."
+        },
+        "Generation IX": {
+            "Scarlet": "The leaf on its head is naturally dirt repellent and will stay clean even after transporting Pokémon that are covered in mud.",
+            "Violet": "Lotad will gather in lakes that have good water quality. The surfaces of the lakes sometimes become covered in Lotad leaves."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Routes 102 and 114",
+            "Emerald": "Routes 102 and 114",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 203 , 204 , 205 , 212 (Sapphire)",
+            "Pearl": "Routes 203 , 204 , 205 , 212 (Sapphire)",
+            "Platinum": "Routes 203 , 204 , 205 , 212 (Sapphire)",
+            "HeartGold": "Safari Zone (Desert with 8 Waterside points; Plains with 12 Waterside points)",
+            "SoulSilver": "Safari Zone (Desert with 8 Waterside points; Plains with 12 Waterside points)",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest ( Surfing )",
+            "Black 2": "Breed Lombre or Ludicolo",
+            "White 2": "Breed Lombre or Ludicolo",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Breed Lombre or Ludicolo",
+            "Y": "Breed Lombre or Ludicolo",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Route 102 Route 114 ( Horde Encounter )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Lombre or Ludicolo",
+            "Ultra Moon": "Breed Lombre or Ludicolo",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Route 2 , Rolling Fields , Dappled Grove , West Lake Axewell Bridge Field , Dappled Grove , Stony Wilderness ( Max Raid Battle )",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Grand Underground - Grassland Cave , Riverbank Cave , Fountainspring Cave , Sunlit Cavern , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Apple Hills , Reveler's Road , Oni Mountain , Infernal Pass , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Lotad",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Lotad",
+            "to": "Lombre",
+            "method": [
+                "Level 14"
+            ]
+        }
+    ]
+}

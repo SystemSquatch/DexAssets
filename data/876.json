@@ -1,0 +1,53 @@
+{
+    "name": "Indeedee",
+    "pokedex_number": "#0876",
+    "types": [
+        "Psychic",
+        "Normal"
+    ],
+    "abilities": [
+        "Inner Focus",
+        "Synchronize",
+        "Own Tempo",
+        "Synchronize",
+        "Psychic Surge"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 55,
+        "Sp. Atk": 105,
+        "Sp. Def": 95,
+        "Speed": 95,
+        "Total": 475
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "These intelligent Pokémon touch horns with each other to share information between them.",
+            "Shield": "They diligently serve people and Pokémon so they can gather feelings of gratitude. The females are particularly good at babysitting."
+        },
+        "Generation IX": {
+            "Scarlet": "It dislikes conflict. If a fight occurs in its territory, it uses psychic power to throw things at the combatants in an effort to drive them away.",
+            "Violet": "In search of happy feelings—such as joy and gratitude—Indeedee bustles around, taking diligent care of people and other Pokémon."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Glimwood Tangle , Lake of Outrage ( Male ) Rolling Fields , East Lake Axewell , Motostoke Riverbank , Bridge Field , Stony Wilderness , Dusty Bowl ( Max Raid Battle ) ( Male ) Breed Indeedee ( Female )",
+            "Shield": "Glimwood Tangle , Lake of Outrage ( Female ) Rolling Fields , East Lake Axewell , Motostoke Riverbank , Bridge Field , Stony Wilderness , Dusty Bowl ( Max Raid Battle ) ( Female ) Breed Indeedee ( Male )",
+            "Sword Expansion Pass": "Ballimere Lake ( Male ) Giant's Bed , Snowslide Slope , Path to the Peak , Ballimere Lake ( Max Raid Battle ) ( Male ) Max Lair ( Dynamax Adventure ) ( Male/Female )",
+            "Shield Expansion Pass": "Ballimere Lake ( Female ) Giant's Bed , Snowslide Slope , Path to the Peak , Ballimere Lake ( Max Raid Battle ) ( Female ) Max Lair ( Dynamax Adventure ) ( Male/Female )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Area One Tera Raid Battles ( 3★ , 5★ )",
+            "Violet": "North Province: Area One Tera Raid Battles ( 3★ , 5★ )",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Paradise Barrens , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": []
+}

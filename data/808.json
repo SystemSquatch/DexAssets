@@ -1,0 +1,55 @@
+{
+    "name": "Meltan",
+    "pokedex_number": "#0808",
+    "types": [
+        "Steel",
+        "Unknown"
+    ],
+    "abilities": [
+        "Magnet Pull"
+    ],
+    "stats": {
+        "HP": 46,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Atk": 55,
+        "Sp. Def": 35,
+        "Speed": 34,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Let's Go Pikachu": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
+            "Let's Go Eevee": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel."
+        },
+        "Generation VIII": {
+            "Sword": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy. *",
+            "Shield": "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve. *"
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Unavailable",
+            "Moon": "Unavailable",
+            "Ultra Sun": "Unavailable",
+            "Ultra Moon": "Unavailable",
+            "Let's Go Pikachu": "Transfer from Pokémon GO to GO Park (International version) Event ( Mainland Chinese version)",
+            "Let's Go Eevee": "Transfer from Pokémon GO to GO Park (International version) Event ( Mainland Chinese version)"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME",
+            "Shield": "Pokémon HOME",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

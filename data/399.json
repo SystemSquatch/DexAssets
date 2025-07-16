@@ -1,0 +1,110 @@
+{
+    "name": "Bidoof",
+    "pokedex_number": "#0399",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Simple",
+        "Unaware",
+        "Moody"
+    ],
+    "stats": {
+        "HP": 59,
+        "Attack": 45,
+        "Defense": 40,
+        "Sp. Atk": 35,
+        "Sp. Def": 40,
+        "Speed": 31,
+        "Total": 250
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+            "Pearl": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
+            "Platinum": "A comparison revealed that Bidoof 's front teeth grow at the same rate as Rattata 's.",
+            "HeartGold": "It lives in groups by the water. It chews up boulders and trees around its nest with its incisors.",
+            "SoulSilver": "It lives in groups by the water. It chews up boulders and trees around its nest with its incisors."
+        },
+        "Generation V": {
+            "Black": "A comparison revealed that Bidoof's front teeth grow at the same rate as Rattata's.",
+            "White": "A comparison revealed that Bidoof's front teeth grow at the same rate as Rattata's.",
+            "Black 2": "A comparison revealed that Bidoof's front teeth grow at the same rate as Rattata's.",
+            "White 2": "A comparison revealed that Bidoof's front teeth grow at the same rate as Rattata's."
+        },
+        "Generation VI": {
+            "X": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+            "Y": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
+            "Omega Ruby": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+            "Alpha Sapphire": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+            "Shining Pearl": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
+            "Legends: Arceus": "Bidoof has an unsophisticated face and is rarely flustered by anything. There have been incidents involving Bidoof sauntering into villages and gnawing on the houses without a single care."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 201 , 202 , 203 , 204 , 205 , 208 , 211 , Lake Verity , Great Marsh , Valley Windworks",
+            "Pearl": "Routes 201 , 202 , 203 , 204 , 205 , 208 , 211 , Lake Verity , Great Marsh , Valley Windworks",
+            "Platinum": "Routes 201 , 202 , 203 , 204 , 205 , 208 , and 211 , Lake Verity , Eterna Forest",
+            "HeartGold": "Safari Zone (Forest with 10 Waterside points) Routes 4 , 6 , 9 , 10 , 13 , 21 , 22 , 24 , 25 , 26 , 27 , 28 , 30 , 31 , 32 , 34 , 35 , 42 , 43 , 44 , 45 , 47 , Ruins of Alph , Mt. Silver (Sinnoh Sound)",
+            "SoulSilver": "Safari Zone (Forest with 10 Waterside points) Routes 4 , 6 , 9 , 10 , 13 , 21 , 22 , 24 , 25 , 26 , 27 , 28 , 30 , 31 , 32 , 34 , 35 , 42 , 43 , 44 , 45 , 47 , Ruins of Alph , Mt. Silver (Sinnoh Sound)",
+            "Pokéwalker": "Sinnoh Field"
+        },
+        "Generation V": {
+            "Black": "Breed Bibarel",
+            "White": "Breed Bibarel",
+            "Black 2": "Breed Bibarel",
+            "White 2": "Breed Bibarel",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Routes 3 and 22",
+            "Y": "Routes 3 and 22",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 201 , 202 , 203 , 204 , 205 , 208 , 211 , Lake Verity , Great Marsh , Valley Windworks Grand Underground - Spacious Cave , Grassland Cave , Fountainspring Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern",
+            "Shining Pearl": "Routes 201 , 202 , 203 , 204 , 205 , 208 , 211 , Lake Verity , Great Marsh , Valley Windworks Grand Underground - Spacious Cave , Grassland Cave , Fountainspring Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern",
+            "Legends: Arceus": "Obsidian Fieldlands : Aspiration Hill , Horseshoe Plains , Tidewater Dam and nearby, massive mass outbreaks Crimson Mirelands : Gapejaw Bog , near Ursa's Ring , Droning Meadow Alabaster Icelands : near Avalugg's Legacy , near Glacier Terrace , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Bidoof",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Bidoof",
+            "to": "Bibarel",
+            "method": [
+                "Level 15"
+            ]
+        }
+    ]
+}

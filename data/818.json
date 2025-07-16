@@ -1,0 +1,56 @@
+{
+    "name": "Inteleon",
+    "pokedex_number": "#0818",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Sniper"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 65,
+        "Sp. Atk": 125,
+        "Sp. Def": 65,
+        "Speed": 120,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air.",
+            "Shield": "Its nictitating membranes let it pick out foes' weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3."
+        },
+        "Generation IX": {
+            "Scarlet": "It uses special lenses in its eyes to sense things about its opponents—like their body heat—then attacks once it identifies a weak spot.",
+            "Violet": "It may present itself as being well-mannered, but deep down, it still has a lazy side. It will slack off when its Trainer isn’t looking."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Evolve Drizzile",
+            "Shield": "Evolve Drizzile",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade , Poké Portal News",
+            "Violet": "Trade , Poké Portal News",
+            "The Hidden Treasure of Area Zero": "Evolve Drizzile"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Drizzile",
+            "to": "Inteleon",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

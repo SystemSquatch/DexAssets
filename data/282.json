@@ -1,0 +1,126 @@
+{
+    "name": "Gardevoir",
+    "pokedex_number": "#0282",
+    "types": [
+        "Psychic",
+        "Fairy"
+    ],
+    "abilities": [
+        "Synchronize",
+        "Trace",
+        "Telepathy",
+        "Pixilate"
+    ],
+    "stats": {
+        "HP": 68,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Atk": 125,
+        "Sp. Def": 115,
+        "Speed": 80,
+        "Total": 518
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Gardevoir has the ability to read the future. If it senses impending danger to its Trainer , this Pok é mon is said to unleash its psychokinetic energy at full power.",
+            "Sapphire": "Gardevoir has the psychokinetic power to distort the dimensions and create a small black hole. This Pok é mon will try to protect its Trainer even at the risk of its own life.",
+            "Emerald": "It apparently does not feel the pull of gravity because it supports itself with psychic power. It will give its life to protect its Trainer .",
+            "FireRed": "It has the power to predict the future. Its power peaks when it is protecting its Trainer .",
+            "LeafGreen": "It has the power to predict the future. Its power peaks when it is protecting its Trainer ."
+        },
+        "Generation IV": {
+            "Diamond": "It will try to guard its trusted Trainer with its life. It has the ability to see the future.",
+            "Pearl": "It will try to guard its trusted Trainer with its life. It has the ability to see the future.",
+            "Platinum": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
+            "HeartGold": "It unleashes psychokinetic energy at full power when protecting a Trainer it has bonded closely with.",
+            "SoulSilver": "It unleashes psychokinetic energy at full power when protecting a Trainer it has bonded closely with."
+        },
+        "Generation V": {
+            "Black": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
+            "White": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
+            "Black 2": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
+            "White 2": "To protect its Trainer, it will expend all its psychic power to create a small black hole."
+        },
+        "Generation VI": {
+            "X": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
+            "Y": "It has the power to predict the future. Its power peaks when it is protecting its Trainer.",
+            "Omega Ruby": "Gardevoir has the ability to read the future. If it senses impending danger to its Trainer, this Pokémon is said to unleash its psychokinetic energy at full power.",
+            "Alpha Sapphire": "Gardevoir has the psychokinetic power to distort the dimensions and create a small black hole. This Pokémon will try to protect its Trainer even at the risk of its own life."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It has the power to predict the future. Its power peaks when it is protecting its Trainer.",
+            "Shield": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
+            "Brilliant Diamond": "It will try to guard its trusted Trainer with its life. It has the ability to see the future.",
+            "Shining Pearl": "It will try to guard its trusted Trainer with its life. It has the ability to see the future.",
+            "Legends: Arceus": "It will dedicate itself to defending a master it has come to adore. Its pure white dress, reminiscent of those worn by ladies of nobility, is the dress of one who is willing to risk their life."
+        },
+        "Generation IX": {
+            "Scarlet": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
+            "Violet": "It unleashes psychokinetic energy at full power when protecting a Trainer it has bonded closely with."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Kirlia",
+            "Sapphire": "Evolve Kirlia",
+            "Emerald": "Evolve Kirlia",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Evolve Kirlia"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Kirlia",
+            "Pearl": "Evolve Kirlia",
+            "Platinum": "Evolve Kirlia",
+            "HeartGold": "Evolve Kirlia",
+            "SoulSilver": "Evolve Kirlia",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade , Event",
+            "White": "Evolve Kirlia",
+            "Black 2": "Evolve Kirlia",
+            "White 2": "Evolve Kirlia"
+        },
+        "Generation VI": {
+            "X": "Evolve Kirlia",
+            "Y": "Evolve Kirlia",
+            "Omega Ruby": "Evolve Kirlia",
+            "Alpha Sapphire": "Evolve Kirlia"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Kirlia",
+            "Ultra Moon": "Evolve Kirlia",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Dusty Bowl , Lake of Outrage Bridge Field , Hammerlocke Hills , Lake of Outrage , Motostoke Riverbank , Rolling Fields , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Shield": "Dusty Bowl , Lake of Outrage Bridge Field , Hammerlocke Hills , Lake of Outrage , Motostoke Riverbank , Rolling Fields , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Expansion Pass": "Training Lowlands ( Wanderer ) Fields of Honor , Soothing Wetlands ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Kirlia",
+            "Shining Pearl": "Evolve Kirlia",
+            "Legends: Arceus": "Alabaster Icelands : Heart's Crag Day , Lake Acuity ( mass outbreaks ), massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Glaseado Mountain Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "North Province: Glaseado Mountain Tera Raid Battles ( 5★ , 6★ )",
+            "The Hidden Treasure of Area Zero": "Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Kirlia",
+            "to": "Gardevoir",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

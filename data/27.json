@@ -1,0 +1,164 @@
+{
+    "name": "Sandshrew",
+    "pokedex_number": "#0027",
+    "types": [
+        "Ground",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sand Veil",
+        "Snow Cloak",
+        "Sand Rush",
+        "Slush Rush"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 85,
+        "Sp. Atk": 20,
+        "Sp. Def": 30,
+        "Speed": 40,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
+            "Yellow": "Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew.",
+            "Stadium": "When hunting, it hides at the lip of its burrow. If prey comes close, it lunges out and drags in the prey instantly."
+        },
+        "Generation II": {
+            "Gold": "If it fell from a great height, this Pok é mon could save itself by rolling into a ball and bouncing.",
+            "Silver": "Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball.",
+            "Crystal": "It prefers dry, sandy places because it uses the sand to protect itself when threatened.",
+            "Stadium 2": "If it fell from a great height, this Pok é mon could save itself by rolling into a ball and bouncing. (Pokémon Red, Silver, or Crystal inserted) Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Sandshrew 's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pok é mon curls up to protect itself from its enemies.",
+            "Sapphire": "Sandshrew has a very dry hide that is extremely tough. The Pok é mon can roll into a ball that repels any attack. At night, it burrows into the desert sand to sleep.",
+            "Emerald": "When it curls up in a ball, it can make any attack bounce off harmlessly. Its hide has turned tough and solid as a result of living in the desert.",
+            "FireRed": "It burrows and lives underground. If threatened, it curls itself up into a ball for protection.",
+            "LeafGreen": "Burrows deep underground in arid locations far from water. It only emerges to hunt for prey."
+        },
+        "Generation IV": {
+            "Diamond": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
+            "Pearl": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
+            "Platinum": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
+            "HeartGold": "If it fell from a great height, this Pokémon could save itself by rolling into a ball and bouncing.",
+            "SoulSilver": "Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball."
+        },
+        "Generation V": {
+            "Black": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
+            "White": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
+            "Black 2": "It digs deep burrows to live in. When in danger, it rolls up its body to withstand attacks.",
+            "White 2": "It digs deep burrows to live in. When in danger, it rolls up its body to withstand attacks."
+        },
+        "Generation VI": {
+            "X": "It burrows and lives underground. If threatened, it curls itself up into a ball for protection.",
+            "Y": "Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball.",
+            "Omega Ruby": "Sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies.",
+            "Alpha Sapphire": "Sandshrew has a very dry hide that is extremely tough. The Pokémon can roll into a ball that repels any attack. At night, it burrows into the desert sand to sleep."
+        },
+        "Generation VII": {
+            "Sun": "It lives on snowy mountains. Its steel shell is very hard—so much so, it can't roll its body up into a ball.",
+            "Moon": "An ancient tradition of Alolan festivals, still carried on to this day, is a competition to slide Sandshrew across ice as far as one can.",
+            "Ultra Sun": "After fleeing a volcanic eruption, it ended up moving to an area of snowy mountains. Its ice shell is as hard as steel.",
+            "Ultra Moon": "The skin on its back is as hard as steel. Predators go after its soft belly, so it clings to the ground desperately.",
+            "Let's Go Pikachu": "Its ice-covered body lets it slide across the ground with bullet-like speed, sending its enemies flying when it hits them.",
+            "Let's Go Eevee": "Its ice-covered body lets it slide across the ground with bullet-like speed, sending its enemies flying when it hits them."
+        },
+        "Generation VIII": {
+            "Sword": "Life on mountains covered with deep snow has granted this Pokémon a body of ice that's as hard as steel.",
+            "Shield": "It lives in snowy mountains on southern islands. When a blizzard rolls in, this Pokémon hunkers down in the snow to avoid getting blown away.",
+            "Brilliant Diamond": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
+            "Shining Pearl": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall."
+        },
+        "Generation IX": {
+            "Scarlet": "It lives on snowy mountains. Its steel shell is very hard—so much so, it can’t roll its body up into a ball.",
+            "Violet": "An ancient tradition of Alolan festivals, still carried on to this day, is a competition to slide Sandshrew across ice as far as one can."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Trade",
+            "Blue": "Routes 4 , 8 , 9 , 10 , 11 , and 23",
+            "Blue (Japan)": "Routes 4 , 8 , 9 , 10 , 11 , and 23",
+            "Yellow": "Routes 3 and 4 , Mt. Moon"
+        },
+        "Generation II": {
+            "Gold": "Union Cave , Mt. Moon",
+            "Silver": "Goldenrod Game Corner",
+            "Crystal": "Routes 3 and 4 , Union Cave , Mt. Moon Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Routes 111 and 113",
+            "Sapphire": "Routes 111 and 113",
+            "Emerald": "Route 111 , Mirage Tower",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Routes 4 , 8 , 9 , 10 , 11 , and 23",
+            "Colosseum": "Trade",
+            "XD": "Rock Poké Spot"
+        },
+        "Generation IV": {
+            "Diamond": "Wayward Cave (LeafGreen)",
+            "Pearl": "Wayward Cave (LeafGreen)",
+            "Platinum": "Wayward Cave (LeafGreen)",
+            "HeartGold": "Union Cave , Mt. Moon Safari Zone (Desert, default)",
+            "SoulSilver": "Goldenrod Game Corner Safari Zone (Desert, default)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Breed Sandslash",
+            "White": "Breed Sandslash",
+            "Black 2": "Desert Resort , Relic Castle",
+            "White 2": "Desert Resort , Relic Castle",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Ground )",
+            "Y": "Friend Safari ( Ground )",
+            "Omega Ruby": "Routes 111 and 113",
+            "Alpha Sapphire": "Routes 111 and 113"
+        },
+        "Generation VII": {
+            "Sun": "Trade , Pokémon Bank",
+            "Moon": "Mount Lanakila , Tapu Village ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Sun": "Trade , Pokémon Bank",
+            "Ultra Moon": "Mount Lanakila , Tapu Village ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Let's Go Pikachu": "Routes 3 and 4 ( Kantonian Form ) Trade Kantonian Sandshrew in Celadon City ( Alolan Form )",
+            "Let's Go Eevee": "Trade"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Warm-Up Tunnel ( Kantonian Form ) Challenge Beach , Courageous Cavern ( Max Raid Battle ) ( Kantonian Form ) Reward for finding at least 30 Alolan Diglett ( Alolan Form )",
+            "Brilliant Diamond": "Trade ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Shining Pearl": "Grand Underground - Spacious Cave , Rocky Cave , Sandsear Cave , Big Bluff Cavern (After obtaining the National Pokédex ) ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Reveler's Road , Oni Mountain , Wistful Fields , Paradise Barrens , Kitakami Wilds ( Kantonian Form ) Union Circle ( Alolan Form ) Tera Raid Battles ( 1★ , 3★ ) ( Kantonian Form ) Tera Raid Battle Search ( 3★ ) ( Alolan Form )",
+            "The Hidden Treasure of Area Zero (Violet)": "Reveler's Road , Oni Mountain , Wistful Fields , Paradise Barrens , Kitakami Wilds ( Kantonian Form ) Chargestone Cavern , Polar Biome ( Alolan Form ) Tera Raid Battles ( 1★ , 3★ ) ( Kantonian Form ) Tera Raid Battles ( 3★ ) ( Alolan Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Sandshrew",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Sandshrew",
+            "to": "Sandslash",
+            "method": [
+                "Level 22",
+                "Use Ice Stone"
+            ]
+        }
+    ]
+}

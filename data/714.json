@@ -1,0 +1,89 @@
+{
+    "name": "Noibat",
+    "pokedex_number": "#0714",
+    "types": [
+        "Flying",
+        "Dragon"
+    ],
+    "abilities": [
+        "Frisk",
+        "Infiltrator",
+        "Telepathy"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 35,
+        "Sp. Atk": 45,
+        "Sp. Def": 40,
+        "Speed": 55,
+        "Total": 245
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "They live in pitch-black caves. Their enormous ears can emit ultrasonic waves of 200,000 hertz.",
+            "Y": "Even a robust wrestler will become dizzy and unable to stand when exposed to its 200,000-hertz ultrasonic waves.",
+            "Omega Ruby": "They live in pitch-black caves. Their enormous ears can emit ultrasonic waves of 200,000 hertz.",
+            "Alpha Sapphire": "Even a robust wrestler will become dizzy and unable to stand when exposed to its 200,000-hertz ultrasonic waves."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Fruits are its favorite foods. This gourmet carefully picks out just the ripe ones using its sonar.",
+            "Ultra Moon": "It flies around in search of fruit to eat. It uses ultrasonic waves to detect which fruits are ripe."
+        },
+        "Generation VIII": {
+            "Sword": "After nightfall, they emerge from the caves they nest in during the day. Using their ultrasonic waves, they go on the hunt for ripened fruit.",
+            "Shield": "No wavelength of sound is beyond Noibat's ability to produce. The ultrasonic waves it generates can overcome much larger Pokémon."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon emits ultrasonic waves from its large ears to search for fruit to eat. It mistakes Applin for its food.",
+            "Violet": "Noibat can change the frequency of its sound waves at will, and it generates ultrasonic waves of up to 200,000 hertz."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Terminus Cave , Victory Road , Friend Safari ( Dragon )",
+            "Y": "Terminus Cave , Victory Road , Friend Safari ( Dragon )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Verdant Cavern Trade Lillipup on Route 5",
+            "Ultra Moon": "Verdant Cavern Trade Lillipup on Route 5",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Galar Mine No. 2 , Bridge Field , Watchtower Ruins Rolling Fields , Axew's Eye , Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Galar Mine No. 2 , Bridge Field , Watchtower Ruins Rolling Fields , Axew's Eye , Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Frostpoint Field , Giant's Bed , Frigid Sea , Ballimere Lake , Dyna Tree Hill ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area Two North Province: Area One , Area Two Tera Raid Battles ( 3★ )",
+            "Violet": "West Province: Area Two North Province: Area One , Area Two Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Apple Hills , Reveler's Road , Kitakami Hall , Mossfell Confluence , Fellhorn Gorge , Oni Mountain , Oni's Maw , Crystal Pool , Kitakami Wilds"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Noibat",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Noibat",
+            "to": "Noivern",
+            "method": [
+                "Level 48"
+            ]
+        }
+    ]
+}

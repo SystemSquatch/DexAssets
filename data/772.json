@@ -1,0 +1,72 @@
+{
+    "name": "Type: Null",
+    "pokedex_number": "#0772",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Battle Armor"
+    ],
+    "stats": {
+        "HP": 95,
+        "Attack": 95,
+        "Defense": 95,
+        "Sp. Atk": 95,
+        "Sp. Def": 95,
+        "Speed": 59,
+        "Total": 534
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "The heavy control mask it wears suppresses its intrinsic capabilities. This Pokémon has some hidden special power.",
+            "Moon": "Due to the danger that this synthetic Pokémon may go on a rampage, it wears a control mask to restrain its power.",
+            "Ultra Sun": "A Pokémon weapon developed for a specific mission, it went berserk during an experiment, so it was cryogenically frozen.",
+            "Ultra Moon": "There's danger of its going on a rampage, so its true power is sealed away beneath its control mask."
+        },
+        "Generation VIII": {
+            "Sword": "Rumor has it that the theft of top-secret research notes led to a new instance of this Pokémon being created in the Galar region.",
+            "Shield": "It was modeled after a mighty Pokémon of myth . The mask placed upon it limits its power in order to keep it under control."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Received from Gladion at Aether Paradise after becoming Champion",
+            "Moon": "Received from Gladion at Aether Paradise after becoming Champion",
+            "Ultra Sun": "Received from Wicke at Ancient Poni Path after becoming Champion Received from Wicke at Aether Paradise if party and boxes are full at Ancient Poni Path",
+            "Ultra Moon": "Received from Wicke at Ancient Poni Path after becoming Champion Received from Wicke at Aether Paradise if party and boxes are full at Ancient Poni Path",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Received from a Macro Cosmos employee at the Battle Tower after becoming Champion",
+            "Shield": "Received from a Macro Cosmos employee at the Battle Tower after becoming Champion",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Type: Null",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Type: Null",
+            "to": "Silvally",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        }
+    ]
+}

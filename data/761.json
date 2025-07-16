@@ -1,0 +1,77 @@
+{
+    "name": "Bounsweet",
+    "pokedex_number": "#0761",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Leaf Guard",
+        "Oblivious",
+        "Sweet Veil"
+    ],
+    "stats": {
+        "HP": 42,
+        "Attack": 30,
+        "Defense": 38,
+        "Sp. Atk": 30,
+        "Sp. Def": 38,
+        "Speed": 32,
+        "Total": 210
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "A delectable aroma pours from its body. They are often swallowed whole by Toucannon lured by that wafting deliciousness.",
+            "Moon": "Although it's too sugary for human consumption, Bounsweet's sweat can be watered down into a juice with just the right amount of sweetness.",
+            "Ultra Sun": "Because of its sweet, delicious aroma, bird Pokémon are always after it, but it's not intelligent enough to care.",
+            "Ultra Moon": "It tries to resist being swallowed by a bird Pokémon by spinning the sepals on its head. It's usually a fruitless attempt."
+        },
+        "Generation VIII": {
+            "Sword": "Its body gives off a sweet, fruity scent that is extremely appetizing to bird Pokémon.",
+            "Shield": "When under attack, it secretes a sweet and delicious sweat. The scent only calls more enemies to it."
+        },
+        "Generation IX": {
+            "Scarlet": "Its sweat is sweet, like syrup made from boiled-down fruit. Because of this, Bounsweet was highly valued in the past, when sweeteners were scarce.",
+            "Violet": "A Greedent drawn in by the sweet scent of these Pokémon will tuck the Bounsweet in among the berries in its tail and carry them all away."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Lush Jungle Trade Lillipup at Route 5",
+            "Moon": "Lush Jungle Trade Lillipup at Route 5",
+            "Ultra Sun": "Breed Steenee or Tsareena",
+            "Ultra Moon": "Breed Steenee or Tsareena",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields , Dappled Grove , West Lake Axewell , Watchtower Ruins , East Lake Axewell , Stony Wilderness Dappled Grove , Giant's Mirror ( Max Raid Battle )",
+            "Shield": "Rolling Fields , Dappled Grove , West Lake Axewell , Watchtower Ruins , East Lake Axewell , Stony Wilderness Dappled Grove , Giant's Mirror ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two East Province: Area One , Area Two Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two East Province: Area One , Area Two Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Bounsweet",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Bounsweet",
+            "to": "Steenee",
+            "method": [
+                "Level 18"
+            ]
+        }
+    ]
+}

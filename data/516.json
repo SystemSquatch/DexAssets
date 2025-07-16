@@ -1,0 +1,82 @@
+{
+    "name": "Simipour",
+    "pokedex_number": "#0516",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Gluttony",
+        "Torrent"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 98,
+        "Defense": 63,
+        "Sp. Atk": 98,
+        "Sp. Def": 63,
+        "Speed": 101,
+        "Total": 498
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "The tuft on its head holds water. When the level runs low, it replenishes the tuft by siphoning up water with its tail.",
+            "White": "The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall.",
+            "Black 2": "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail.",
+            "White 2": "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail."
+        },
+        "Generation VI": {
+            "X": "The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall.",
+            "Y": "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail.",
+            "Omega Ruby": "The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall.",
+            "Alpha Sapphire": "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Panpour",
+            "White": "Evolve Panpour",
+            "Black 2": "Evolve Panpour",
+            "White 2": "Evolve Panpour"
+        },
+        "Generation VI": {
+            "X": "Evolve Panpour",
+            "Y": "Evolve Panpour",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Panpour",
+            "to": "Simipour",
+            "method": [
+                "Use Water Stone"
+            ]
+        }
+    ]
+}

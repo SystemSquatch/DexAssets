@@ -1,0 +1,51 @@
+{
+    "name": "Fidough",
+    "pokedex_number": "#0926",
+    "types": [
+        "Fairy",
+        "Unknown"
+    ],
+    "abilities": [
+        "Own Tempo",
+        "Klutz"
+    ],
+    "stats": {
+        "HP": 37,
+        "Attack": 55,
+        "Defense": 70,
+        "Sp. Atk": 30,
+        "Sp. Def": 55,
+        "Speed": 65,
+        "Total": 312
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon is smooth and moist to the touch. Yeast in Fidough’s breath induces fermentation in the Pokémon’s vicinity.",
+            "Violet": "The yeast in Fidough's breath is useful for cooking, so this Pokémon has been protected by people since long ago."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Three , Area Six , Pokémon League East Province: Area Three West Province: Area Three Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two , Area Three , Area Six , Pokémon League East Province: Area Three West Province: Area Three Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Fidough",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Fidough",
+            "to": "Dachsbun",
+            "method": [
+                "Level 26"
+            ]
+        }
+    ]
+}

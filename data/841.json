@@ -1,0 +1,58 @@
+{
+    "name": "Flapple",
+    "pokedex_number": "#0841",
+    "types": [
+        "Grass",
+        "Dragon"
+    ],
+    "abilities": [
+        "Ripen",
+        "Gluttony",
+        "Hustle"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 80,
+        "Sp. Atk": 95,
+        "Sp. Def": 60,
+        "Speed": 70,
+        "Total": 485
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "It ate a sour apple, and that induced its evolution. In its cheeks, it stores an acid capable of causing chemical burns.",
+            "Shield": "It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple."
+        },
+        "Generation IX": {
+            "Scarlet": "It flutters around while seeking an opening in the opponent’s guard, then attacks by spitting acidic liquid strong enough to melt metal.",
+            "Violet": "It uses its own body fluid to repair its apple. Strong Flapple that have won many battles have apples that are clay colored all over."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Axew's Eye , Bridge Field , Dappled Grove , Giant's Mirror , Stony Wilderness ( Max Raid Battle ) Dappled Grove ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Shield": "Trade",
+            "Sword Expansion Pass": "Stepping-Stone Sea Loop Lagoon ( Max Raid Battle ) Loop Lagoon ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 5★ )",
+            "Violet": "Tera Raid Battles ( 5★ )",
+            "The Hidden Treasure of Area Zero": "Mossfell Confluence"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Applin",
+            "to": "Flapple",
+            "method": [
+                "Use Tart Apple"
+            ]
+        }
+    ]
+}

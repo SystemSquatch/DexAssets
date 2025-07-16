@@ -1,0 +1,121 @@
+{
+    "name": "Aggron",
+    "pokedex_number": "#0306",
+    "types": [
+        "Steel",
+        "Rock"
+    ],
+    "abilities": [
+        "Sturdy",
+        "Rock Head",
+        "Heavy Metal",
+        "Filter"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 180,
+        "Sp. Atk": 60,
+        "Sp. Def": 60,
+        "Speed": 50,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Aggron claims an entire mountain as its own territory. It mercilessly beats up anything that violates its environment. This Pok é mon vigilantly patrols its territory at all times.",
+            "Sapphire": "Aggron is surprisingly protective of its environment. If its mountain is ravaged by a landslide or a fire, this Pok é mon will haul topsoil to the area, plant trees, and beautifully restore its own territory.",
+            "Emerald": "Its iron horns grow longer a little at a time. They are used to determine the Aggron 's age. The gouges in its armor are worn with pride as mementos from battles.",
+            "FireRed": "It claims a large mountain as its sole territory. It mercilessly thrashes those that violate its space.",
+            "LeafGreen": "It claims a large mountain as its sole territory. It mercilessly thrashes those that violate its space."
+        },
+        "Generation IV": {
+            "Diamond": "While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.",
+            "Pearl": "While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.",
+            "Platinum": "While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.",
+            "HeartGold": "You can tell its age by the length of its iron horns. It claims an entire mountain as its territory.",
+            "SoulSilver": "You can tell its age by the length of its iron horns. It claims an entire mountain as its territory."
+        },
+        "Generation V": {
+            "Black": "While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.",
+            "White": "While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.",
+            "Black 2": "It claims an entire mountain as its own. The more wounds it has, the more it has battled, so don't take it lightly.",
+            "White 2": "It claims an entire mountain as its own. The more wounds it has, the more it has battled, so don't take it lightly."
+        },
+        "Generation VI": {
+            "X": "It claims an entire mountain as its own. The more wounds it has, the more it has battled, so don't take it lightly.",
+            "Y": "While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.",
+            "Omega Ruby": "Aggron claims an entire mountain as its own territory. It mercilessly beats up anything that violates its environment. This Pokémon vigilantly patrols its territory at all times.",
+            "Alpha Sapphire": "Aggron is protective of its environment. If its mountain is ravaged by a landslide or a fire, this Pokémon will haul topsoil to the area, plant trees, and beautifully restore its own territory."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Aggron has a horn sharp enough to perforate thick iron sheets. It brings down its opponents by ramming into them horn first.",
+            "Shield": "Long ago, there was a king who wore a helmet meant to resemble the head of an Aggron. He was trying to channel the Pokémon's strength.",
+            "Brilliant Diamond": "While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.",
+            "Shining Pearl": "While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Lairon",
+            "Sapphire": "Evolve Lairon",
+            "Emerald": "Evolve Lairon",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Evolve Lairon"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Lairon",
+            "Pearl": "Trade",
+            "Platinum": "Evolve Lairon",
+            "HeartGold": "Evolve Lairon",
+            "SoulSilver": "Evolve Lairon",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Lairon",
+            "Black 2": "Evolve Lairon",
+            "White 2": "Evolve Lairon"
+        },
+        "Generation VI": {
+            "X": "Evolve Lairon",
+            "Y": "Trade , Event",
+            "Omega Ruby": "Evolve Lairon",
+            "Alpha Sapphire": "Evolve Lairon"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Poni Plains ( Island Scan ) Mo",
+            "Ultra Moon": "Poni Plains ( Island Scan ) Mo",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Lakeside Cave ( Wanderer ) Slippery Slope , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Lairon",
+            "Shining Pearl": "Evolve Lairon",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Lairon",
+            "to": "Aggron",
+            "method": [
+                "Level 42"
+            ]
+        }
+    ]
+}

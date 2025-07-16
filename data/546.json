@@ -1,0 +1,104 @@
+{
+    "name": "Cottonee",
+    "pokedex_number": "#0546",
+    "types": [
+        "Grass",
+        "Fairy"
+    ],
+    "abilities": [
+        "Prankster",
+        "Infiltrator",
+        "Chlorophyll"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 27,
+        "Defense": 60,
+        "Sp. Atk": 37,
+        "Sp. Def": 50,
+        "Speed": 66,
+        "Total": 280
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
+            "White": "They go wherever the wind takes them. On rainy days, their bodies are heavier, so they take shelter beneath big trees.",
+            "Black 2": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
+            "White 2": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud."
+        },
+        "Generation VI": {
+            "X": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
+            "Y": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
+            "Omega Ruby": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
+            "Alpha Sapphire": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud."
+        },
+        "Generation VII": {
+            "Sun": "When it finds others of its kind, they all stick together. When enough of them have collected, the mass resembles a cumulonimbus cloud.",
+            "Moon": "Pillows and beds stuffed with cotton exhaled by Cottonee are soft and puffy, light and airy—altogether top quality.",
+            "Ultra Sun": "To protect itself, it shoots cotton from its body. When it gets wet in the rain, its cotton grows moist and heavy, and it can't move as well.",
+            "Ultra Moon": "When attacked, it expels cotton from its body to create a diversion. The cotton it loses grows back in quickly."
+        },
+        "Generation VIII": {
+            "Sword": "It shoots cotton from its body to protect itself. If it gets caught up in hurricane-strength winds, it can get sent to the other side of the Earth.",
+            "Shield": "Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that's highly prized by many luxury brands."
+        },
+        "Generation IX": {
+            "Scarlet": "Pillows and beds stuffed with cotton exhaled by Cottonee are soft and puffy, light and airy— altogether top quality.",
+            "Violet": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Pinwheel Forest (inner), Lostlorn Forest , Abundant Shrine",
+            "White": "Trade Petilil in Nacrene City",
+            "Black 2": "Pinwheel Forest (inner), Lostlorn Forest , Castelia City , Abundant Shrine , Victory Road",
+            "White 2": "Trade Petilil on Route 4",
+            "Dream World": "Pleasant Forest *"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Petalburg Woods ( hidden Pokémon * )",
+            "Alpha Sapphire": "Petalburg Woods ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Malie Garden , Melemele Meadow , Poni Meadow , Poni Plains , Ula'ula Meadow",
+            "Moon": "Trade",
+            "Ultra Sun": "Malie Garden , Melemele Meadow , Poni Meadow , Poni Plains , Ula'ula Meadow",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Minccino in Hulbury Stony Wilderness Dappled Grove , Bridge Field , Stony Wilderness , Giant's Mirror ( Max Raid Battle )",
+            "Shield": "Trade Minccino in Hulbury Stony Wilderness Dappled Grove , Bridge Field , Stony Wilderness , Giant's Mirror ( Max Raid Battle )",
+            "Expansion Pass": "Ballimere Lake Frostpoint Field , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Coastal Biome Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Cottonee",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Cottonee",
+            "to": "Whimsicott",
+            "method": [
+                "Use Sun Stone"
+            ]
+        }
+    ]
+}

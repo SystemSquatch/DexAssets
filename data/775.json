@@ -1,0 +1,57 @@
+{
+    "name": "Komala",
+    "pokedex_number": "#0775",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Comatose"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 115,
+        "Defense": 65,
+        "Sp. Atk": 75,
+        "Sp. Def": 95,
+        "Speed": 65,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It is born asleep, and it dies asleep. All its movements are apparently no more than the results of it tossing and turning in its dreams.",
+            "Moon": "The log it holds was given to it by its parents at birth. It has also been known to cling to the arm of a friendly Trainer.",
+            "Ultra Sun": "It stays asleep from the moment it's born. When it falls into a deep sleep, it stops moving altogether.",
+            "Ultra Moon": "It remains asleep from birth to death as a result of the sedative properties of the leaves that form its diet."
+        },
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "Komala spends its entire life sleeping. It feeds on leaves that contain a potent poison only Komala can break down.",
+            "Violet": "A potent anesthetic can be made by diluting Komala's drool. This anesthetic was used for surgeries in the past."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Route 11",
+            "Moon": "Route 11",
+            "Ultra Sun": "Route 11",
+            "Ultra Moon": "Route 11",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One East Province: Area One , Area Two , Tagtree Thicket West Province: Area Three Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Area One East Province: Area One , Area Two , Tagtree Thicket West Province: Area Three Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": []
+}

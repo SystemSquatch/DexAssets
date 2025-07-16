@@ -1,0 +1,54 @@
+{
+    "name": "Magearna",
+    "pokedex_number": "#0801",
+    "types": [
+        "Steel",
+        "Fairy"
+    ],
+    "abilities": [
+        "Soul-Heart"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 95,
+        "Defense": 115,
+        "Sp. Atk": 130,
+        "Sp. Def": 115,
+        "Speed": 65,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "This beautiful form reflects Magearna's appearance when first presented to a king's daughter 500 years ago.",
+            "Moon": "This gorgeous Magearna looks as it did at the time of its invention. Its luxurious decoration pleased the king's daughter.",
+            "Ultra Sun": "This is its form from almost 500 years ago. Its body is nothing more than a container—its artificial heart is the actual life-form.",
+            "Ultra Moon": "It functions thanks to its artificial soul. The vivid decoration is proof that it was presented as a gift to royalty."
+        },
+        "Generation VIII": {},
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Hau'oli City ( QR Scanner )",
+            "Moon": "Hau'oli City ( QR Scanner )",
+            "Ultra Sun": "Hau'oli City ( QR Scanner )",
+            "Ultra Moon": "Hau'oli City ( QR Scanner )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME Version 1.2.0+",
+            "Shield": "Pokémon HOME Version 1.2.0+",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME",
+            "Violet": "Pokémon HOME"
+        }
+    },
+    "evolution": []
+}

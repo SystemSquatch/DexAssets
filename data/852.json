@@ -1,0 +1,60 @@
+{
+    "name": "Clobbopus",
+    "pokedex_number": "#0852",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Limber",
+        "Technician"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 68,
+        "Defense": 60,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 32,
+        "Total": 310
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "It's very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.",
+            "Shield": "Its tentacles tear off easily, but it isn't alarmed when that happens—it knows they'll grow back. It's about as smart as a three-year-old."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Route 9 North Lake Miloch , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Route 9 North Lake Miloch , Dusty Bowl ( Max Raid Battle )",
+            "Expansion Pass": "Courageous Cavern , Loop Lagoon",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Clobbopus",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Clobbopus",
+            "to": "Grapploct",
+            "method": [
+                "Level up (knowing Taunt)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "name": "Gorebyss",
+    "pokedex_number": "#0368",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Hydration"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 84,
+        "Defense": 105,
+        "Sp. Atk": 114,
+        "Sp. Def": 75,
+        "Speed": 52,
+        "Total": 485
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Gorebyss lives in the southern seas at extreme depths. Its body is built to withstand the enormous pressure of water at incredible depths. Because of this, this Pok é mon 's body is unharmed by ordinary attacks.",
+            "Sapphire": "Although Gorebyss is the very picture of elegance and beauty while swimming, it is also cruel. When it spots prey, this Pok é mon inserts its thin mouth into the prey's body and drains the prey of its body fluids.",
+            "Emerald": "A Gorebyss siphons the body fluids of prey through its thin, tubular mouth. Its light pink body color turns vivid when it finishes feeding.",
+            "FireRed": "Its swimming form is exquisitely elegant. With its thin mouth, it feeds on seaweed that grows between rocks.",
+            "LeafGreen": "Its swimming form is exquisitely elegant. With its thin mouth, it feeds on seaweed that grows between rocks."
+        },
+        "Generation IV": {
+            "Diamond": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
+            "Pearl": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
+            "Platinum": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
+            "HeartGold": "Its pink body becomes more vivid with the rise of water temperatures in the springtime.",
+            "SoulSilver": "Its pink body becomes more vivid with the rise of water temperatures in the springtime."
+        },
+        "Generation V": {
+            "Black": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
+            "White": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
+            "Black 2": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
+            "White 2": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason."
+        },
+        "Generation VI": {
+            "X": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
+            "Y": "Its swimming form is exquisitely elegant. With its thin mouth, it feeds on seaweed that grows between rocks.",
+            "Omega Ruby": "Gorebyss lives in the southern seas at extreme depths. Its body is built to withstand the enormous pressure of water at incredible depths. Because of this, this Pokémon's body is unharmed by ordinary attacks.",
+            "Alpha Sapphire": "Although Gorebyss is the very picture of elegance and beauty while swimming, it is also cruel. When it spots prey, this Pokémon inserts its thin mouth into the prey's body and drains the prey of its body fluids."
+        },
+        "Generation VII": {
+            "Ultra Sun": "The color of its body changes with the water temperature. The coloration of Gorebyss in Alola is almost blindingly vivid.",
+            "Ultra Moon": "It sucks bodily fluids out of its prey. The leftover meat sinks to the seafloor, where it becomes food for other Pokémon."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
+            "Shining Pearl": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Clamperl",
+            "Sapphire": "Evolve Clamperl",
+            "Emerald": "Evolve Clamperl",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Clamperl",
+            "Pearl": "Evolve Clamperl",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Clamperl",
+            "SoulSilver": "Evolve Clamperl",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Evolve Clamperl",
+            "White": "Route 4 ( Fishing in rippling water )",
+            "Black 2": "Evolve Clamperl",
+            "White 2": "Route 4 ( Fishing in rippling water )"
+        },
+        "Generation VI": {
+            "X": "Evolve Clamperl",
+            "Y": "Route 12 ( Super Rod )",
+            "Omega Ruby": "Evolve Clamperl",
+            "Alpha Sapphire": "Evolve Clamperl"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 15 , Melemele Sea Day ( SOS Battle , fishing )",
+            "Ultra Moon": "Route 15 , Melemele Sea Day ( SOS Battle , fishing )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Clamperl",
+            "Shining Pearl": "Evolve Clamperl",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Clamperl",
+            "to": "Gorebyss",
+            "method": [
+                "Trade (holding Deep Sea Scale)"
+            ]
+        }
+    ]
+}

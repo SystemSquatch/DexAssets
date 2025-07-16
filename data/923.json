@@ -1,0 +1,45 @@
+{
+    "name": "Pawmot",
+    "pokedex_number": "#0923",
+    "types": [
+        "Electric",
+        "Fighting"
+    ],
+    "abilities": [
+        "Volt Absorb",
+        "Natural Cure",
+        "Iron Fist"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 115,
+        "Defense": 70,
+        "Sp. Atk": 70,
+        "Sp. Def": 60,
+        "Speed": 105,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",
+            "Violet": "Pawmot's fluffy fur acts as a battery. It can store the same amount of electricity as an electric car."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Pawmo",
+            "to": "Pawmot",
+            "method": [
+                "Other"
+            ]
+        }
+    ]
+}

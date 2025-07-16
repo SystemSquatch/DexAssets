@@ -1,0 +1,68 @@
+{
+    "name": "Lunala",
+    "pokedex_number": "#0792",
+    "types": [
+        "Psychic",
+        "Ghost"
+    ],
+    "abilities": [
+        "Shadow Shield"
+    ],
+    "stats": {
+        "HP": 137,
+        "Attack": 113,
+        "Defense": 89,
+        "Sp. Atk": 137,
+        "Sp. Def": 107,
+        "Speed": 97,
+        "Total": 680
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It is said to be a female evolution of Cosmog . When its third eye activates, away it flies to another world.",
+            "Moon": "Said to live in another world, this Pokémon devours light, drawing the moonless dark veil of night over the brightness of day.",
+            "Ultra Sun": "Records of it exist in writings from long, long ago, where it was known by the name “the beast that calls the moon.”",
+            "Ultra Moon": "It sometimes summons unknown powers and life-forms here to this world from holes that lead to other worlds."
+        },
+        "Generation VIII": {
+            "Sword": "Known as the Beast That Calls the Moon, this Pokémon lives by taking in any and all light and converting it into its own energy. *",
+            "Shield": "It steals the light from its surroundings and then becomes the full moon, showering its own light across the night sky. *"
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Altar of the Moone ( Only one )",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Mahalo Trail ( Only one )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME Trade Version 1.3.0+",
+            "Shield": "Pokémon HOME Trade Version 1.3.0+",
+            "Shield Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Casseroya Lake after receiving the Lunala Treat from Snacksworth ( Only one ) ( Group Quest )",
+            "The Hidden Treasure of Area Zero (Violet)": "Casseroya Lake after receiving the Lunala Treat from Snacksworth ( Only one ) ( Solo Quest )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Cosmoem",
+            "to": "Lunala",
+            "method": [
+                "Level 53"
+            ]
+        }
+    ]
+}

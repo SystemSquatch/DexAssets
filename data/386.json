@@ -1,0 +1,107 @@
+{
+    "name": "Deoxys",
+    "pokedex_number": "#0386",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Pressure"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 150,
+        "Defense": 50,
+        "Sp. Atk": 150,
+        "Sp. Def": 50,
+        "Speed": 150,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "The DNA of a space virus underwent a sudden mutation upon exposure to a laser beam and resulted in Deoxys . The crystalline organ on this Pok é mon 's chest appears to be its brain.",
+            "Sapphire": "Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pok é mon shoots lasers from the crystalline organ on its chest.",
+            "FireRed": "This Deoxys has transformed into its aggressive guise. It can fool enemies by altering its appearance.",
+            "LeafGreen": "When it changes form, an aurora appears. It absorbs attacks by altering its cellular structure.",
+            "Emerald": "A Pok é mon that mutated from an extraterrestrial virus exposed to a laser beam. Its body is configured for superior agility and speed."
+        },
+        "Generation IV": {
+            "Diamond": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
+            "Pearl": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
+            "Platinum": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
+            "HeartGold": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.",
+            "SoulSilver": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen."
+        },
+        "Generation V": {
+            "Black": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
+            "White": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
+            "Black 2": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
+            "White 2": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon."
+        },
+        "Generation VI": {
+            "X": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
+            "Y": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.",
+            "Omega Ruby": "The DNA of a space virus underwent a sudden mutation upon exposure to a laser beam and resulted in Deoxys. The crystalline organ on this Pokémon's chest appears to be its brain.",
+            "Alpha Sapphire": "Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "An alien virus that fell to earth on a meteorite underwent a DNA mutation to become this Pokémon.",
+            "Shining Pearl": "An alien virus that fell to earth on a meteorite underwent a DNA mutation to become this Pokémon."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Birth Island (requires AuroraTicket ) ( Only one )",
+            "FireRed": "Birth Island (requires AuroraTicket ) ( Only one )",
+            "LeafGreen": "Birth Island (requires AuroraTicket ) ( Only one )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Pal Park , Event",
+            "Pearl": "Pal Park , Event",
+            "Platinum": "Pal Park",
+            "HeartGold": "Pal Park",
+            "SoulSilver": "Pal Park",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer , Event",
+            "White": "Poké Transfer , Event",
+            "Black 2": "Poké Transfer , Event",
+            "White 2": "Poké Transfer , Event"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Sky Pillar ( Only one )",
+            "Alpha Sapphire": "Sky Pillar ( Only one )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Pokémon HOME",
+            "Shining Pearl": "Pokémon HOME",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME , Event Version 3.0.0+",
+            "Violet": "Pokémon HOME , Event Version 3.0.0+"
+        }
+    },
+    "evolution": []
+}

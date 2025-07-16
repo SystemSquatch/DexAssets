@@ -1,0 +1,85 @@
+{
+    "name": "Litleo",
+    "pokedex_number": "#0667",
+    "types": [
+        "Fire",
+        "Normal"
+    ],
+    "abilities": [
+        "Rivalry",
+        "Unnerve",
+        "Moxie"
+    ],
+    "stats": {
+        "HP": 62,
+        "Attack": 50,
+        "Defense": 58,
+        "Sp. Atk": 73,
+        "Sp. Def": 54,
+        "Speed": 72,
+        "Total": 369
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body.",
+            "Y": "They set off on their own from their pride and live by themselves to become stronger. These hot-blooded Pokémon are quick to fight.",
+            "Omega Ruby": "The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body.",
+            "Alpha Sapphire": "They set off on their own from their pride and live by themselves to become stronger. These hot-blooded Pokémon are quick to fight."
+        },
+        "Generation VII": {
+            "Ultra Sun": "When they're young, they live with a pride. Once they're able to hunt prey on their own, they're kicked out and have to make their own way.",
+            "Ultra Moon": "This hot-blooded Pokémon is filled with curiosity. When it gets angry or starts fighting, its short mane gets hot."
+        },
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "When Litleo are young, female Pyroar will teach them how to hunt. Once the Litleo mature, they will leave the pride and set out on their own.",
+            "Violet": "The more a Litleo trains its body and spirit by battling mighty enemies, the hotter its mane will grow."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Route 22",
+            "Y": "Route 22",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Poké Pelago *",
+            "Ultra Moon": "Poké Pelago *",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Three , Area Five East Province: Area One , Area Two Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Three , Area Five East Province: Area One , Area Two Tera Raid Battles ( 1★ )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Litleo",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Litleo",
+            "to": "Pyroar",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

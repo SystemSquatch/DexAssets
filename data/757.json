@@ -1,0 +1,78 @@
+{
+    "name": "Salandit",
+    "pokedex_number": "#0757",
+    "types": [
+        "Poison",
+        "Fire"
+    ],
+    "abilities": [
+        "Corrosion",
+        "Oblivious"
+    ],
+    "stats": {
+        "HP": 48,
+        "Attack": 44,
+        "Defense": 40,
+        "Sp. Atk": 71,
+        "Sp. Def": 40,
+        "Speed": 77,
+        "Total": 320
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It burns its bodily fluids to create a poisonous gas. When its enemies become disoriented from inhaling the gas, it attacks them.",
+            "Moon": "Volcanoes or dry, craggy places are its home. It emanates a sweet-smelling poisonous gas that attracts bug Pokémon, then attacks them.",
+            "Ultra Sun": "The males will do whatever the females tell them. They give the females most of their food. Due to malnutrition, the males can't evolve.",
+            "Ultra Moon": "It weakens opponents and sends them reeling with its poisonous gas. Salandit doesn't deal well with Spinda , since it's always reeling."
+        },
+        "Generation VIII": {
+            "Sword": "Its venom sacs produce a fluid that this Pokémon then heats up with the flame in its tail. This process creates Salandit's poisonous gas.",
+            "Shield": "This sneaky Pokémon will slink behind its prey and immobilize it with poisonous gas before the prey even realizes Salandit is there."
+        },
+        "Generation IX": {
+            "Scarlet": "It taunts its prey and lures them into narrow, rocky areas where it then sprays them with toxic gas to make them dizzy and take them down.",
+            "Violet": "Only female Salandit can produce gas laden with pheromones. Males entranced by this gas will do whatever the females tell them."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Route 8 , Wela Volcano Park",
+            "Moon": "Route 8 , Wela Volcano Park",
+            "Ultra Sun": "Route 8 , Wela Volcano Park , Lush Jungle (Cave)",
+            "Ultra Moon": "Route 8 , Wela Volcano Park , Lush Jungle (Cave)",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Stony Wilderness Giant's Cap , Stony Wilderness , Dusty Bowl , Lake of Outrage , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Motostoke Outskirts , Motostoke Riverbank , Stony Wilderness Motostoke Riverbank , East Lake Axewell , North Lake Miloch , Giant's Cap , Stony Wilderness , Dusty Bowl , Lake of Outrage , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Challenge Road Fields of Honor , Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Alfornada Cavern East Province: Area Two , Area Three West Province: Area One , Area Two North Province: Dalizapa Passage , Glaseado Mountain East Province: Area One ( Dragon Tera Type ) Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Alfornada Cavern East Province: Area Two , Area Three West Province: Area One , Area Two North Province: Dalizapa Passage , Glaseado Mountain East Province: Area One ( Dragon Tera Type ) Tera Raid Battles ( 2★ )",
+            "The Hidden Treasure of Area Zero": "Apple Hills , Reveler's Road , Oni Mountain , Oni's Maw , Crystal Pool"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Salandit",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Salandit",
+            "to": "Salazzle",
+            "method": [
+                "Level 33 ((Female only))"
+            ]
+        }
+    ]
+}

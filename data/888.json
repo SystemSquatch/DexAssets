@@ -1,0 +1,43 @@
+{
+    "name": "Zacian",
+    "pokedex_number": "#0888",
+    "types": [
+        "Fairy",
+        "Unknown"
+    ],
+    "abilities": [
+        "Intrepid Sword"
+    ],
+    "stats": {
+        "HP": 92,
+        "Attack": 130,
+        "Defense": 115,
+        "Sp. Atk": 80,
+        "Sp. Def": 115,
+        "Speed": 138,
+        "Total": 670
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Now armed with a weapon it used in ancient times, this Pokémon needs only a single strike to fell even Gigantamax Pokémon.",
+            "Shield": "Able to cut down anything with a single strike, it became known as the Fairy King's Sword, and it inspired awe in friend and foe alike."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Tower Summit ( Only one )",
+            "Shield": "Trade",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME",
+            "Violet": "Pokémon HOME"
+        }
+    },
+    "evolution": []
+}

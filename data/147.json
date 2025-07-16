@@ -1,0 +1,160 @@
+{
+    "name": "Dratini",
+    "pokedex_number": "#0147",
+    "types": [
+        "Dragon",
+        "Unknown"
+    ],
+    "abilities": [
+        "Shed Skin",
+        "Marvel Scale"
+    ],
+    "stats": {
+        "HP": 41,
+        "Attack": 64,
+        "Defense": 45,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 50,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Long considered a mythical Pok é mon until recently when a small colony was found living underwater.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Long considered a mythical Pok é mon until recently when a small colony was found living underwater.",
+            "Yellow": "The existence of this mythical Pok é mon was only recently confirmed by a fisherman who caught one.",
+            "Stadium": "Even the young are known to exceed 6' 6\" . It is rare and was long considered to exist only in myth."
+        },
+        "Generation II": {
+            "Gold": "It is born large to start with. It repeatedly sheds its skin as it steadily grows longer.",
+            "Silver": "This Pok é mon is full of life energy. It continually sheds its skin and grows steadily larger.",
+            "Crystal": "It sheds many layers of skin as it grows larger. During this process, it is protected by a rapid waterfall.",
+            "Stadium 2": "It is born large to start with. It repeatedly sheds its skin as it steadily grows longer. (Pokémon Red, Silver, or Crystal inserted) This Pok é mon is full of life energy. It continually sheds its skin and grows steadily larger. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.",
+            "Sapphire": "Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.",
+            "Emerald": "A Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.",
+            "FireRed": "Even the young can exceed 6.5 feet in length. It grows larger by repeatedly shedding skin.",
+            "LeafGreen": "Long considered a mythical Pok é mon until recently, when a small colony was found living underwater."
+        },
+        "Generation IV": {
+            "Diamond": "It is called the \"Mirage Pokémon\" because so few have seen it. Its shed skin has been found.",
+            "Pearl": "It is called the \"Mirage Pokémon\" because so few have seen it. Its shed skin has been found.",
+            "Platinum": "It is called the \"Mirage Pokémon\" because so few have seen it. Its shed skin has been found.",
+            "HeartGold": "It is born large to start with. It repeatedly sheds its skin as it steadily grows longer.",
+            "SoulSilver": "This Pokémon is full of life energy. It continually sheds its skin and grows steadily larger."
+        },
+        "Generation V": {
+            "Black": "It is called the \"Mirage Pokémon\" because so few have seen it. Its shed skin has been found.",
+            "White": "It is called the \"Mirage Pokémon\" because so few have seen it. Its shed skin has been found.",
+            "Black 2": "It is called the \"Mirage Pokémon\" because so few have seen it. Its shed skin has been found.",
+            "White 2": "It is called the \"Mirage Pokémon\" because so few have seen it. Its shed skin has been found."
+        },
+        "Generation VI": {
+            "X": "It is called the \"Mirage Pokémon\" because so few have seen it. Its shed skin has been found.",
+            "Y": "This Pokémon is full of life energy. It continually sheds its skin and grows steadily larger.",
+            "Omega Ruby": "Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.",
+            "Alpha Sapphire": "Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels."
+        },
+        "Generation VII": {
+            "Sun": "It grows by molting repeatedly. Boots made from the tanned cast-off skin are a super luxury item.",
+            "Moon": "After a 10-hour struggle, a fisherman was able to pull one up and confirm its existence.",
+            "Ultra Sun": "It's still weak, so it lurks on the floor of bodies of water, eating whatever food sinks down and living a quiet life.",
+            "Ultra Moon": "It sheds its skin—almost on a daily basis—and grows larger. Its skin is soft just after it's been shed.",
+            "Let's Go Pikachu": "Long thought to be a myth, this Pokémon's existence was only recently confirmed by a fisherman who caught one.",
+            "Let's Go Eevee": "Long thought to be a myth, this Pokémon's existence was only recently confirmed by a fisherman who caught one."
+        },
+        "Generation VIII": {
+            "Sword": "Dratini dwells near bodies of rapidly flowing water, such as the plunge pools of waterfalls. As it grows, Dratini will shed its skin many times.",
+            "Shield": "This Pokémon was long considered to be no more than a myth. The small lump on a Dratini's forehead is actually a horn that's still coming in.",
+            "Brilliant Diamond": "It is called the Mirage Pokémon because so few have seen it, but its shed skin has been found.",
+            "Shining Pearl": "It is called the Mirage Pokémon because so few have seen it, but its shed skin has been found."
+        },
+        "Generation IX": {
+            "Scarlet": "It sheds many layers of skin as it grows larger. During this process, it is protected by a rapid waterfall.",
+            "Violet": "It is born large to start with. It repeatedly sheds its skin as it steadily grows longer."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Safari Zone ( Super Rod ) Buy for 2800 C in the Rocket Game Corner in Celadon City",
+            "Blue": "Safari Zone ( Super Rod ) Buy for 4600 C in the Rocket Game Corner in Celadon City",
+            "Blue (Japan)": "Safari Zone ( Super Rod )",
+            "Yellow": "Safari Zone ( Super Rod )"
+        },
+        "Generation II": {
+            "Gold": "Dragon's Den ( Surfing , Good Rod , and Super Rod ) Route 45 ( Good Rod and Super Rod ) Goldenrod Game Corner",
+            "Silver": "Dragon's Den ( Surfing , Good Rod , and Super Rod ) Route 45 ( Good Rod and Super Rod ) Goldenrod Game Corner",
+            "Crystal": "Dragon's Den ( Surfing , Good Rod , and Super Rod ) Route 45 ( Good Rod and Super Rod ) Received from Master in Dragon's Den after completing Master's quiz *"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Safari Zone ( Super Rod ) Buy for 2800 C in the Rocket Game Corner in Celadon City",
+            "LeafGreen": "Safari Zone ( Super Rod ) Buy for 4600 C in the Rocket Game Corner in Celadon City",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Mt. Coronet ( Super Rod )",
+            "Pearl": "Mt. Coronet ( Super Rod )",
+            "Platinum": "Mt. Coronet ( Super Rod )",
+            "HeartGold": "Dragon's Den ( Surfing , Good Rod , and Super Rod ) Safari Zone ( Good Rod in Swamp with 10 Waterside points; Super Rod in Swamp, default) Goldenrod Game Corner Received from Master in Dragon's Den after completing Master's quiz *",
+            "SoulSilver": "Dragon's Den ( Surfing , Good Rod , and Super Rod ) Safari Zone ( Good Rod in Swamp with 10 Waterside points; Super Rod in Swamp, default) Goldenrod Game Corner Received from Master in Dragon's Den after completing Master's quiz *",
+            "Pal Park": "Pond",
+            "Pokéwalker": "Blue Lake"
+        },
+        "Generation V": {
+            "Black": "Dragonspiral Tower ( fishing )",
+            "White": "Dragonspiral Tower ( fishing )",
+            "Black 2": "Dragonspiral Tower ( fishing )",
+            "White 2": "Dragonspiral Tower ( fishing ) Received from Benga in Floccesy Town after he is defeated at White Treehollow ( Shiny )",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Route 21 ( Good Rod )",
+            "Y": "Route 21 ( Good Rod )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Poni Gauntlet , Poni Meadow , Vast Poni Canyon ( fishing )",
+            "Moon": "Poni Gauntlet , Poni Meadow , Vast Poni Canyon ( fishing )",
+            "Ultra Sun": "Poni Gauntlet , Poni Meadow ( fishing )",
+            "Ultra Moon": "Poni Gauntlet , Poni Meadow ( fishing )",
+            "Let's Go Pikachu": "Route 10 ( Sea Skim )",
+            "Let's Go Eevee": "Route 10 ( Sea Skim )"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Ballimere Lake ( Surfing and fishing ) Giant's Bed , Path to the Peak , Frigid Sea , Three-Point Pass , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Mount Coronet ( Super Rod ) Grand Underground - Fountainspring Cave (After obtaining the National Pokédex )",
+            "Shining Pearl": "Mount Coronet ( Super Rod ) Grand Underground - Fountainspring Cave (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six North Province: Area Two , Casseroya Lake Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area Six North Province: Area Two , Casseroya Lake Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Dratini",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Dratini",
+            "to": "Dragonair",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

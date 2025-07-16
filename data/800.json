@@ -1,0 +1,60 @@
+{
+    "name": "Necrozma",
+    "pokedex_number": "#0800",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Prism Armor",
+        "Neuroforce"
+    ],
+    "stats": {
+        "HP": 97,
+        "Attack": 107,
+        "Defense": 101,
+        "Sp. Atk": 127,
+        "Sp. Def": 89,
+        "Speed": 79,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Reminiscent of the Ultra Beasts , this life-form, apparently asleep underground, is thought to have come from another world in ancient times.",
+            "Moon": "Light is apparently the source of its energy. It has an extraordinarily vicious disposition and is constantly firing off laser beams .",
+            "Ultra Sun": "This is its form when it has absorbed overwhelming light energy. It fires laser beams from all over its body.",
+            "Ultra Moon": "The light pouring out from all over its body affects living things and nature, impacting them in various ways."
+        },
+        "Generation VIII": {
+            "Sword": "Necrozma has subjugated Lunala entirely, forcing the unfortunate Pokémon to emit its light energy for Necrozma to consume. *",
+            "Shield": "When Necrozma latches on to Lunala , it becomes vicious, seeing enemies everywhere it looks. It will burn the world with lasers. *"
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Ten Carat Hill ( Only one )",
+            "Moon": "Ten Carat Hill ( Only one )",
+            "Ultra Sun": "Mount Lanakila ( Only one )",
+            "Ultra Moon": "Mount Lanakila ( Only one )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME Trade Version 1.3.0+",
+            "Shield": "Pokémon HOME Trade Version 1.3.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one , requires unlocking the They Came From The Ultra Beyond! adventure)",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Socarrat Trail after receiving the Necrozma Treat from Snacksworth ( Only one ) ( Group Quest )"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,134 @@
+{
+    "name": "Bellossom",
+    "pokedex_number": "#0182",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Healer"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 85,
+        "Sp. Atk": 90,
+        "Sp. Def": 100,
+        "Speed": 50,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun.",
+            "Silver": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",
+            "Crystal": "When these dance together, their petals rub against each other, making pretty, relaxing sounds.",
+            "Stadium 2": "Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun. (Pokémon Red, Silver, or Crystal inserted) Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "When Bellossom gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This Pok é mon 's dancing is renowned in the southern lands.",
+            "Sapphire": "A Bellossom grows flowers more beautifully if it has evolved from a smelly Gloom - the stinkier the better. At night, this Pok é mon closes its petals and goes to sleep.",
+            "Emerald": "Its flower petals deepen in color through exposure to sunlight. When cloudy weather persists, it does a dance that is thought to be a ritual for summoning the sun.",
+            "FireRed": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",
+            "LeafGreen": "Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun."
+        },
+        "Generation IV": {
+            "Diamond": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
+            "Pearl": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
+            "Platinum": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
+            "HeartGold": "Bellossom gather at times and seem to dance. They say that the dance is a ritual to summon the sun.",
+            "SoulSilver": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound."
+        },
+        "Generation V": {
+            "Black": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
+            "White": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
+            "Black 2": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
+            "White 2": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open."
+        },
+        "Generation VI": {
+            "X": "Bellossom gather at times and seem to dance. They say that the dance is a ritual to summon the sun.",
+            "Y": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
+            "Omega Ruby": "When Bellossom gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This Pokémon's dancing is renowned in the southern lands.",
+            "Alpha Sapphire": "A Bellossom grows flowers more beautifully if it has evolved from a smelly Gloom—the more stinky the better. At night, this Pokémon closes its petals and goes to sleep."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",
+            "Shield": "Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun.",
+            "Brilliant Diamond": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
+            "Shining Pearl": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open."
+        },
+        "Generation IX": {
+            "Scarlet": "Due to the effects of the Sun Stone, it is now active during the daytime. It likes to dance in pools of sunlight.",
+            "Violet": "After it grows up, it leaves the forest it was born in to form groups with other Bellossom. It breaks into dance when it gets excited."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Gloom",
+            "Silver": "Evolve Gloom",
+            "Crystal": "Evolve Gloom"
+        },
+        "Generation III": {
+            "Ruby": "Evolve Gloom",
+            "Sapphire": "Evolve Gloom",
+            "Emerald": "Evolve Gloom",
+            "FireRed": "Evolve Gloom",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Gloom",
+            "Pearl": "Evolve Gloom",
+            "Platinum": "Evolve Gloom",
+            "HeartGold": "Evolve Gloom",
+            "SoulSilver": "Evolve Gloom",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Gloom",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Gloom",
+            "Y": "Evolve Gloom",
+            "Omega Ruby": "Evolve Gloom",
+            "Alpha Sapphire": "Evolve Gloom"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Giant's Mirror ( Wanderer ) Dappled Grove ( Max Raid Battle )",
+            "Shield": "Giant's Mirror ( Wanderer ) Dappled Grove ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Gloom",
+            "Shining Pearl": "Evolve Gloom",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Gloom",
+            "to": "Bellossom",
+            "method": [
+                "Use Sun Stone"
+            ]
+        }
+    ]
+}

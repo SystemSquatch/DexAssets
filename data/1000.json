@@ -1,0 +1,43 @@
+{
+    "name": "Gholdengo",
+    "pokedex_number": "#1000",
+    "types": [
+        "Steel",
+        "Ghost"
+    ],
+    "abilities": [
+        "Good as Gold"
+    ],
+    "stats": {
+        "HP": 87,
+        "Attack": 60,
+        "Defense": 95,
+        "Sp. Atk": 133,
+        "Sp. Def": 91,
+        "Speed": 84,
+        "Total": 550
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
+            "Violet": "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Evolve Gimmighoul",
+            "Violet": "Evolve Gimmighoul"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Gimmighoul",
+            "to": "Gholdengo",
+            "method": [
+                "Other"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "name": "Mismagius",
+    "pokedex_number": "#0429",
+    "types": [
+        "Ghost",
+        "Unknown"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 60,
+        "Sp. Atk": 105,
+        "Sp. Def": 105,
+        "Speed": 105,
+        "Total": 495
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Its cries sound like incantations. Those hearing it are tormented by headaches and hallucinations.",
+            "Pearl": "It chants incantations. While they usually torment targets, some chants bring happiness.",
+            "Platinum": "Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.",
+            "HeartGold": "Its cries sound like incantations to torment the foe. It appears where you least expect it.",
+            "SoulSilver": "Its cries sound like incantations to torment the foe. It appears where you least expect it."
+        },
+        "Generation V": {
+            "Black": "Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.",
+            "White": "Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.",
+            "Black 2": "Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.",
+            "White 2": "Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power."
+        },
+        "Generation VI": {
+            "X": "It chants incantations. While they usually torment targets, some chants bring happiness.",
+            "Y": "Its cries sound like incantations to torment the foe. It appears where you least expect it.",
+            "Omega Ruby": "It chants incantations. While they usually torment targets, some chants bring happiness.",
+            "Alpha Sapphire": "Its cries sound like incantations to torment the foe. It appears where you least expect it."
+        },
+        "Generation VII": {
+            "Sun": "It appears as if from nowhere—muttering incantations, placing curses, and giving people terrifying visions.",
+            "Moon": "Mismagius have been known to cast spells to make people fall in love, so some people search for this Pokémon as if their life depended on it.",
+            "Ultra Sun": "Feared for its wrath and the curses it spreads, this Pokémon will also, on a whim, cast spells that help people.",
+            "Ultra Moon": "Its muttered curses can cause awful headaches or terrifying visions that torment others."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Its cries sound like incantations. Those who hear it are tormented by headaches and hallucinations.",
+            "Shining Pearl": "It chants incantations. While these incantations can torment targets, some bring happiness.",
+            "Legends: Arceus": "The incantations Mismagius chants can ward against misfortune, so a custom exists of inviting it into one's home. Incur the Pokémon's displeasure, however, and disaster will surely ensue."
+        },
+        "Generation IX": {
+            "Scarlet": "Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.",
+            "Violet": "Its cries sound like incantations to torment the foe. It appears where you least expect it."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Evolve Misdreavus",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Misdreavus",
+            "SoulSilver": "Evolve Misdreavus"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Abundant Shrine ( rustling grass )",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Misdreavus",
+            "Alpha Sapphire": "Evolve Misdreavus"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Misdreavus , Poké Pelago *",
+            "Moon": "Evolve Misdreavus , Poké Pelago *",
+            "Ultra Sun": "Evolve Misdreavus",
+            "Ultra Moon": "Evolve Misdreavus",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Evolve Misdreavus",
+            "Legends: Arceus": "Coronet Highlands : Stonetooth Rows Night , massive mass outbreaks Alabaster Icelands : massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Union Circle Tera Raid Battle Search ( 5★ )",
+            "Violet": "South Province: Alfornada Cavern North Province: Area One , Area Two , Casseroya Lake , Glaseado Mountain Tera Raid Battles ( 5★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Misdreavus",
+            "to": "Mismagius",
+            "method": [
+                "Use Dusk Stone"
+            ]
+        }
+    ]
+}

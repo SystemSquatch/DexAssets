@@ -1,0 +1,117 @@
+{
+    "name": "Dustox",
+    "pokedex_number": "#0269",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "abilities": [
+        "Shield Dust",
+        "Compound Eyes"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 70,
+        "Sp. Atk": 50,
+        "Sp. Def": 90,
+        "Speed": 65,
+        "Total": 385
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Dustox is instinctively drawn to light. Swarms of this Pok é mon are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food.",
+            "Sapphire": "When Dustox flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This Pok é mon searches for food using its antennae like radar.",
+            "Emerald": "It is a nocturnal Pok é mon that flies from fields and mountains to the attraction of streetlights at night. It looses highly toxic powder from its wings.",
+            "FireRed": "It scatters horribly toxic dust when it senses danger. They tend to gather in the glow of streetlamps at night.",
+            "LeafGreen": "It scatters horribly toxic dust when it senses danger. They tend to gather in the glow of streetlamps at night."
+        },
+        "Generation IV": {
+            "Diamond": "A nocturnal Pokémon. Drawn by streetlights, they messily eat the leaves of trees lining boulevards.",
+            "Pearl": "It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.",
+            "Platinum": "Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.",
+            "HeartGold": "It scatters its fine dust all over when it is attacked. It is a nocturnal Pokémon.",
+            "SoulSilver": "It scatters its fine dust all over when it is attacked. It is a nocturnal Pokémon."
+        },
+        "Generation V": {
+            "Black": "Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.",
+            "White": "Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.",
+            "Black 2": "Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.",
+            "White 2": "Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards."
+        },
+        "Generation VI": {
+            "X": "A nocturnal Pokémon. Drawn by streetlights, they messily eat the leaves of trees lining boulevards.",
+            "Y": "It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.",
+            "Omega Ruby": "Dustox is instinctively drawn to light. Swarms of this Pokémon are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food.",
+            "Alpha Sapphire": "When Dustox flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This Pokémon searches for food using its antennae like radar."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Dustox are nocturnal Pokémon. Drawn by streetlights, they messily eat the leaves of trees lining boulevards.",
+            "Shining Pearl": "It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.",
+            "Legends: Arceus": "Tends to be drawn to bonfires on dark nights. Difficult to chase away from settlements because of the way it scatters highly toxic scales."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Cascoon",
+            "Sapphire": "Evolve Cascoon",
+            "Emerald": "Evolve Cascoon",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Cascoon",
+            "Pearl": "Route 230 , Eterna Forest",
+            "Platinum": "Routes 205 , 224 , and 229 , Eterna Forest",
+            "HeartGold": "National Park ( Bug-Catching Contest ) Th",
+            "SoulSilver": "National Park ( Bug-Catching Contest ) Th",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Cascoon",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Cascoon",
+            "Y": "Evolve Cascoon",
+            "Omega Ruby": "Evolve Cascoon",
+            "Alpha Sapphire": "Evolve Cascoon"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Cascoon",
+            "Shining Pearl": "Route 230 , Eterna Forest",
+            "Legends: Arceus": "Obsidian Fieldlands : Floaro Gardens Night , Grueling Grove Night ( mass outbreaks nearby Day Night ), The Heartwood Night , massive mass outbreaks Cobalt Coastlands : Bathers' Lagoon Night , Veilstone Cape Night"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Cascoon",
+            "to": "Dustox",
+            "method": [
+                "Level 10"
+            ]
+        }
+    ]
+}

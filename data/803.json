@@ -1,0 +1,68 @@
+{
+    "name": "Poipole",
+    "pokedex_number": "#0803",
+    "types": [
+        "Poison",
+        "Unknown"
+    ],
+    "abilities": [
+        "Beast Boost"
+    ],
+    "stats": {
+        "HP": 67,
+        "Attack": 73,
+        "Defense": 67,
+        "Sp. Atk": 73,
+        "Sp. Def": 67,
+        "Speed": 73,
+        "Total": 420
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Ultra Sun": "This Ultra Beast is well enough liked to be chosen as a first partner in its own world.",
+            "Ultra Moon": "An Ultra Beast that lives in a different world, it cackles wildly as it sprays its opponents with poison from the needles on its head."
+        },
+        "Generation VIII": {},
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Unobtainable",
+            "Moon": "Unobtainable",
+            "Ultra Sun": "Received from Soliera US / Dulse UM in Megalo Tower or Ultra Megalopolis *",
+            "Ultra Moon": "Received from Soliera US / Dulse UM in Megalo Tower or Ultra Megalopolis *",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Received from the Dynamax Adventure attendant in Max Lair",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Poipole",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Poipole",
+            "to": "Naganadel",
+            "method": [
+                "Level up (knowing Dragon Pulse)"
+            ]
+        }
+    ]
+}

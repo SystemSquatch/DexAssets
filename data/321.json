@@ -1,0 +1,125 @@
+{
+    "name": "Wailord",
+    "pokedex_number": "#0321",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Water Veil",
+        "Oblivious",
+        "Pressure"
+    ],
+    "stats": {
+        "HP": 170,
+        "Attack": 90,
+        "Defense": 45,
+        "Sp. Atk": 90,
+        "Sp. Def": 45,
+        "Speed": 60,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Wailord is the largest of all identified Pok é mon up to now. This giant Pok é mon swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.",
+            "Sapphire": "When chasing prey, Wailord herds them by leaping out of the water and making a humongous splash. It is breathtaking to see this Pok é mon leaping out of the sea with others in its pod.",
+            "Emerald": "It breathes through nostrils that it raises above the sea. By inhaling to its maximum capacity, a Wailord can dive close to 10,000 feet beneath the waves.",
+            "FireRed": "It is among the largest of all Pok é mon . It herds prey in a pack then swallows the massed prey in one gulp.",
+            "LeafGreen": "It is among the largest of all Pok é mon . It herds prey in a pack then swallows the massed prey in one gulp."
+        },
+        "Generation IV": {
+            "Diamond": "The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.",
+            "Pearl": "The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.",
+            "Platinum": "The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.",
+            "HeartGold": "It is the largest of all identified Pokémon. They jump as a pack to herd their prey.",
+            "SoulSilver": "It is the largest of all identified Pokémon. They jump as a pack to herd their prey."
+        },
+        "Generation V": {
+            "Black": "The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.",
+            "White": "The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.",
+            "Black 2": "It can sometimes knock out opponents with the shock created by breaching and crashing its big body onto the water.",
+            "White 2": "It can sometimes knock out opponents with the shock created by breaching and crashing its big body onto the water."
+        },
+        "Generation VI": {
+            "X": "It can sometimes knock out opponents with the shock created by breaching and crashing its big body onto the water.",
+            "Y": "The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.",
+            "Omega Ruby": "Wailord is the largest of all identified Pokémon up to now. This giant Pokémon swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.",
+            "Alpha Sapphire": "When chasing prey, Wailord herds them by leaping out of the water and making a humongous splash. It is breathtaking to see this Pokémon leaping out of the sea with others in its pod."
+        },
+        "Generation VII": {
+            "Sun": "Wailord pursue their prey in pods. With their large mouths, they can swallow entire schools of Wishiwashi whole.",
+            "Moon": "Its immense size is the reason for its popularity. Wailord watching is a favorite sightseeing activity in various parts of the world.",
+            "Ultra Sun": "They eat so many fish Pokémon that when Wailord become too numerous, fishermen have to chase them off.",
+            "Ultra Moon": "When a small Wailmer is attacked by Sharpedo or Dhelmise, its whole pod works together to protect it."
+        },
+        "Generation VIII": {
+            "Sword": "It can sometimes knock out opponents with the shock created by breaching and crashing its big body onto the water.",
+            "Shield": "Its immense size is the reason for its popularity. Wailord watching is a favorite sightseeing activity in various parts of the world.",
+            "Brilliant Diamond": "It's the biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.",
+            "Shining Pearl": "It's the biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 129 ( Surfing )",
+            "Sapphire": "Route 129 ( Surfing )",
+            "Emerald": "Route 129 ( Surfing )",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 223 and 230 ( Super Rod )",
+            "Pearl": "Routes 223 and 230 ( Super Rod )",
+            "Platinum": "Routes 223 and 230 ( Super Rod )",
+            "HeartGold": "Evolve Pokéwalker Wailmer",
+            "SoulSilver": "Evolve Pokéwalker Wailmer",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Undella Bay ( Surfing in rippling water )",
+            "White": "Undella Bay ( Surfing in rippling water )",
+            "Black 2": "Undella Bay ( Surfing in rippling water )",
+            "White 2": "Undella Bay ( Surfing in rippling water )"
+        },
+        "Generation VI": {
+            "X": "Evolve Wailmer",
+            "Y": "Evolve Wailmer",
+            "Omega Ruby": "Evolve Wailmer",
+            "Alpha Sapphire": "Evolve Wailmer"
+        },
+        "Generation VII": {
+            "Sun": "Poni Breaker Coast , Seafolk Village ( SOS Battle ) Poni Wilds ( SOS Battle and Ambush encounter )",
+            "Moon": "Poni Breaker Coast , Seafolk Village ( SOS Battle ) Poni Wilds ( SOS Battle and Ambush encounter )",
+            "Ultra Sun": "Seafolk Village ( SOS Battle ) Poni Breaker Coast ( SOS Battle and Ambush encounter )",
+            "Ultra Moon": "Seafolk Village ( SOS Battle ) Poni Breaker Coast ( SOS Battle and Ambush encounter )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 9 ( fishing ) Bridge Field , East Lake Axewell , Lake of Outrage , North Lake Miloch , South Lake Miloch , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Route 9 ( fishing ) Bridge Field , East Lake Axewell , Lake of Outrage , North Lake Miloch , South Lake Miloch , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Workout Sea ( Wanderer )",
+            "Brilliant Diamond": "Routes 223 and 230 ( Super Rod )",
+            "Shining Pearl": "Routes 223 and 230 ( Super Rod )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Wailmer",
+            "to": "Wailord",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

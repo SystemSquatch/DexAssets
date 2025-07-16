@@ -1,0 +1,44 @@
+{
+    "name": "Brambleghast",
+    "pokedex_number": "#0947",
+    "types": [
+        "Grass",
+        "Ghost"
+    ],
+    "abilities": [
+        "Wind Rider",
+        "Infiltrator"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 115,
+        "Defense": 70,
+        "Sp. Atk": 80,
+        "Sp. Def": 70,
+        "Speed": 90,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.",
+            "Violet": "Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pokémon will bury an entire town."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "North Province: Area One , Socarrat Trail Tera Raid Battles ( 5★ )",
+            "Violet": "North Province: Area One , Socarrat Trail Tera Raid Battles ( 5★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Bramblin",
+            "to": "Brambleghast",
+            "method": [
+                "Other"
+            ]
+        }
+    ]
+}

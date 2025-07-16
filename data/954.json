@@ -1,0 +1,45 @@
+{
+    "name": "Rabsca",
+    "pokedex_number": "#0954",
+    "types": [
+        "Bug",
+        "Psychic"
+    ],
+    "abilities": [
+        "Synchronize",
+        "Telepathy"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 50,
+        "Defense": 85,
+        "Sp. Atk": 115,
+        "Sp. Def": 100,
+        "Speed": 45,
+        "Total": 470
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pokémon is actually inside the ball.",
+            "Violet": "An infant sleeps inside the ball. Rabsca rolls the ball soothingly with its legs to ensure the infant sleeps comfortably."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 4★ )",
+            "Violet": "Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Rellor",
+            "to": "Rabsca",
+            "method": [
+                "Other"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Nihilego",
+    "pokedex_number": "#0793",
+    "types": [
+        "Rock",
+        "Poison"
+    ],
+    "abilities": [
+        "Beast Boost"
+    ],
+    "stats": {
+        "HP": 109,
+        "Attack": 53,
+        "Defense": 47,
+        "Sp. Atk": 127,
+        "Sp. Def": 131,
+        "Speed": 103,
+        "Total": 570
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "One of several mysterious Ultra Beasts. People on the street report observing those infested by it suddenly becoming violent.",
+            "Moon": "One of the Ultra Beasts. It's unclear whether or not this Pokémon is sentient, but sometimes it can be observed behaving like a young girl.",
+            "Ultra Sun": "A life-form from another world, it was dubbed a UB and is thought to produce a strong neurotoxin.",
+            "Ultra Moon": "It appeared in this world from an Ultra Wormhole. Nihilego appears to be a parasite that lives by feeding on people and Pokémon."
+        },
+        "Generation VIII": {},
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Diglett's Tunnel or Wela Volcano Park ( Only one for either location)",
+            "Moon": "Diglett's Tunnel or Wela Volcano Park ( Only one for either location)",
+            "Ultra Sun": "Ultra Deep Sea",
+            "Ultra Moon": "Ultra Deep Sea",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one , requires unlocking the They Came From The Ultra Beyond! adventure)",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

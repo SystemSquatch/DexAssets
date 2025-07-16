@@ -1,0 +1,158 @@
+{
+    "name": "Horsea",
+    "pokedex_number": "#0116",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Sniper",
+        "Damp"
+    ],
+    "stats": {
+        "HP": 30,
+        "Attack": 40,
+        "Defense": 70,
+        "Sp. Atk": 70,
+        "Sp. Def": 25,
+        "Speed": 60,
+        "Total": 295
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+            "Yellow": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.",
+            "Stadium": "Uses its tail to keep its balance while spraying ink from its mouth. The ink appears to be for shooting down bugs."
+        },
+        "Generation II": {
+            "Gold": "If attacked by a larger enemy, it quickly swims to safety by adeptly controlling its dorsal fin.",
+            "Silver": "Its big, developed fins move rapidly, allowing it to swim backward while still facing forward.",
+            "Crystal": "When they're in a safe location, they can be seen playfully tangling their tails together.",
+            "Stadium 2": "If attacked by a larger enemy, it quickly swims to safety by adeptly controlling its dorsal fin. (Pokémon Red, Silver, or Crystal inserted) Its big, developed fins move rapidly, allowing it to swim backward while still facing forward. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Horsea eats small insects and moss off of rocks. If the ocean current turns fast, this Pok é mon anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
+            "Sapphire": "If Horsea senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This Pok é mon swims by cleverly flapping the fins on its back.",
+            "Emerald": "By cleverly flicking the fins on its back side to side, it moves in any direction while facing forward. It spits ink to escape if it senses danger.",
+            "FireRed": "It maintains balance using its tail, which is wound up like a coil. It may spray ink from its mouth.",
+            "LeafGreen": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water."
+        },
+        "Generation IV": {
+            "Diamond": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+            "Pearl": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+            "Platinum": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+            "HeartGold": "If attacked by a larger enemy, it quickly swims to safety by adeptly controlling its well-developed dorsal fin.",
+            "SoulSilver": "Its big, developed fins move rapidly, allowing it to swim backward while still facing forward."
+        },
+        "Generation V": {
+            "Black": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+            "White": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+            "Black 2": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+            "White 2": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees."
+        },
+        "Generation VI": {
+            "X": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+            "Y": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+            "Omega Ruby": "Horsea eats small insects and moss off of rocks. If the ocean current turns fast, this Pokémon anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
+            "Alpha Sapphire": "If Horsea senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This Pokémon swims by cleverly flapping the fin on its back."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.",
+            "Let's Go Eevee": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth."
+        },
+        "Generation VIII": {
+            "Sword": "Horsea makes its home in oceans with gentle currents. If this Pokémon is under attack, it spits out pitch-black ink and escapes.",
+            "Shield": "They swim with dance-like motions and cause whirlpools to form. Horsea compete to see which of them can generate the biggest whirlpool.",
+            "Brilliant Diamond": "It makes its nest in the shade of corals. If it senses danger, it spits black ink and flees.",
+            "Shining Pearl": "It makes its nest in the shade of corals. If it senses danger, it spits black ink and flees."
+        },
+        "Generation IX": {
+            "Scarlet": "If attacked—even by a large enemy—Horsea effortlessly swims to safety by utilizing its well-developed dorsal fin.",
+            "Violet": "It maintains balance using its tail, which is wound up like a coil. It may spray ink from its mouth."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Seafoam Islands Routes 19 , 20 , and 21 , Seafoam Islands , Cinnabar Island ( Super Rod )",
+            "Blue": "Routes 19 , 20 , and 21 , Seafoam Islands , Cinnabar Island ( Super Rod )",
+            "Blue (Japan)": "Rocket Game Corner , Seafoam Islands Routes 19 , 20 , and 21 , Seafoam Islands , Cinnabar Island ( Super Rod )",
+            "Yellow": "Routes 10 , 11 , 12 , and 13 , Vermilion City ( Super Rod )"
+        },
+        "Generation II": {
+            "Gold": "Whirl Islands ( Surfing , Good Rod or Super Rod )",
+            "Silver": "Whirl Islands ( Surfing , Good Rod or Super Rod )",
+            "Crystal": "Whirl Islands ( Surfing , Good Rod or Super Rod )"
+        },
+        "Generation III": {
+            "Ruby": "Routes 132 , 133 , and 134 ( Super Rod )",
+            "Sapphire": "Routes 132 , 133 , and 134 ( Super Rod )",
+            "Emerald": "Routes 132 , 133 , and 134 ( Super Rod ) Trade Bagon in Pacifidlog Town",
+            "FireRed": "Vermilion City , Treasure Beach , Kindle Road , Bond Bridge , Resort Gorgeous , Water Labyrinth , Water Path , Green Path , Outcast Island , Tanoby Ruins , Five Isle Meadow , Memorial Pillar , One Island , Five Island , Icefall Cave , Trainer Tower , Pallet Town , Cinnabar Island ( Good Rod or Super Rod ) Routes 4 , 10 , 11 , 12 , 13 , 19 , 20 , 21 , and 24 , Cerulean City , Seafoam Islands ( Super Rod )",
+            "LeafGreen": "Routes 4 , 10 , 11 , 12 , 13 , 19 , 20 , 21 , and 24 , Cerulean City , Seafoam Islands , Pallet Town , Cinnabar Island ( Good Rod ) Vermilion City ( Good Rod or Super Rod )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 226 ( Good Rod )",
+            "Pearl": "Route 226 ( Good Rod )",
+            "Platinum": "Route 226 ( Good Rod )",
+            "HeartGold": "Whirl Islands , Seafoam Islands ( Good Rod or Super Rod )",
+            "SoulSilver": "Whirl Islands , Seafoam Islands ( Good Rod or Super Rod )",
+            "Pal Park": "Sea",
+            "Pokéwalker": "Warm Beach , Beyond the Sea , and Winner's Path"
+        },
+        "Generation V": {
+            "Black": "Routes 17 and 18 , P2 Laboratory ( Fishing )",
+            "White": "Routes 17 and 18 , P2 Laboratory ( Fishing )",
+            "Black 2": "Routes 17 and 18 , P2 Laboratory ( Fishing )",
+            "White 2": "Routes 17 and 18 , P2 Laboratory ( Fishing )",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Ambrette Town , Cyllage City ( Good Rod )",
+            "Y": "Ambrette Town , Cyllage City ( Good Rod )",
+            "Omega Ruby": "Routes 130 , 131 , 132 , 133 , and 134 , Sealed Chamber ( Super Rod )",
+            "Alpha Sapphire": "Routes 130 , 131 , 132 , 133 , and 134 , Sealed Chamber ( Super Rod )"
+        },
+        "Generation VII": {
+            "Sun": "Kala'e Bay ( Island Scan ) We",
+            "Moon": "Kala'e Bay ( Island Scan ) We",
+            "Ultra Sun": "Kala'e Bay ( Island Scan ) We",
+            "Ultra Moon": "Kala'e Bay ( Island Scan ) We",
+            "Let's Go Pikachu": "Routes 11 , 12 , and 13 ( Sea Skim )",
+            "Let's Go Eevee": "Routes 11 , 12 , and 13 ( Sea Skim )"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Insular Sea Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 226 ( Good Rod ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 226 ( Good Rod ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth , Canyon Biome , Chargestone Cavern , Polar Biome Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Horsea",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Horsea",
+            "to": "Seadra",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

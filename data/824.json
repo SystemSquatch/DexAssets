@@ -1,0 +1,61 @@
+{
+    "name": "Blipbug",
+    "pokedex_number": "#0824",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Swarm",
+        "Compound Eyes",
+        "Telepathy"
+    ],
+    "stats": {
+        "HP": 25,
+        "Attack": 20,
+        "Defense": 20,
+        "Sp. Atk": 25,
+        "Sp. Def": 45,
+        "Speed": 45,
+        "Total": 180
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "A constant collector of information, this Pokémon is very smart. Very strong is what it isn't.",
+            "Shield": "Often found in gardens, this Pokémon has hairs on its body that it uses to assess its surroundings."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Routes 1 and 2 , Giant's Cap , Slumbering Weald Bridge Field , Dappled Grove , Rolling Fields , South Lake Miloch ( Max Raid Battle )",
+            "Shield": "Routes 1 and 2 , Giant's Cap , Slumbering Weald Bridge Field , Dappled Grove , Rolling Fields , South Lake Miloch ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor , Challenge Beach , Training Lowlands , Challenge Road , Workout Sea , Loop Lagoon , Stepping-Stone Sea , Insular Sea , Honeycalm Island",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Blipbug",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Blipbug",
+            "to": "Dottler",
+            "method": [
+                "Level 10"
+            ]
+        }
+    ]
+}

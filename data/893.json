@@ -1,0 +1,43 @@
+{
+    "name": "Zarude",
+    "pokedex_number": "#0893",
+    "types": [
+        "Dark",
+        "Grass"
+    ],
+    "abilities": [
+        "Leaf Guard"
+    ],
+    "stats": {
+        "HP": 105,
+        "Attack": 120,
+        "Defense": 105,
+        "Sp. Atk": 70,
+        "Sp. Def": 95,
+        "Speed": 105,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "This Zarude left its pack to raise a human child . The cloth Zarude would wrap the child with has a comforting scent that calmed the child's crying.",
+            "Shield": "This Zarude's special strength stems from its love and care for an orphaned human child that the Pokémon has raised since the child's infancy."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Event (Version 1.2.0 onwards)",
+            "Shield": "Event (Version 1.2.0 onwards)",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME , Event",
+            "Violet": "Pokémon HOME , Event"
+        }
+    },
+    "evolution": []
+}

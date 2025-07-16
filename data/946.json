@@ -1,0 +1,51 @@
+{
+    "name": "Bramblin",
+    "pokedex_number": "#0946",
+    "types": [
+        "Grass",
+        "Ghost"
+    ],
+    "abilities": [
+        "Wind Rider",
+        "Infiltrator"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 65,
+        "Defense": 30,
+        "Sp. Atk": 45,
+        "Sp. Def": 35,
+        "Speed": 60,
+        "Total": 275
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon.",
+            "Violet": "Not even Bramblin knows where it is headed as it tumbles across the wilderness, blown by the wind. It loathes getting wet."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "East Province: Area Three West Province: Asado Desert Tera Raid Battles ( 2★ )",
+            "Violet": "East Province: Area Three West Province: Asado Desert Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Bramblin",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Bramblin",
+            "to": "Brambleghast",
+            "method": [
+                "Other"
+            ]
+        }
+    ]
+}

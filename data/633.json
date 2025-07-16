@@ -1,0 +1,95 @@
+{
+    "name": "Deino",
+    "pokedex_number": "#0633",
+    "types": [
+        "Dark",
+        "Dragon"
+    ],
+    "abilities": [
+        "Hustle"
+    ],
+    "stats": {
+        "HP": 52,
+        "Attack": 65,
+        "Defense": 50,
+        "Sp. Atk": 45,
+        "Sp. Def": 50,
+        "Speed": 38,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It tends to bite everything, and it is not a picky eater. Approaching it carelessly is dangerous.",
+            "White": "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.",
+            "Black 2": "Lacking sight, it's unaware of its surroundings, so it bumps into things and eats anything that moves.",
+            "White 2": "Lacking sight, it's unaware of its surroundings, so it bumps into things and eats anything that moves."
+        },
+        "Generation VI": {
+            "X": "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.",
+            "Y": "Lacking sight, it's unaware of its surroundings, so it bumps into things and eats anything that moves.",
+            "Omega Ruby": "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.",
+            "Alpha Sapphire": "Lacking sight, it's unaware of its surroundings, so it bumps into things and eats anything that moves."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "When it encounters something, its first urge is usually to bite it. If it likes what it tastes, it will commit the associated scent to memory.",
+            "Shield": "Because it can't see, this Pokémon is constantly biting at everything it touches, trying to keep track of its surroundings."
+        },
+        "Generation IX": {
+            "Scarlet": "It can’t see, so its first approach to examining things is to bite them. You will be covered in wounds until a Deino warms up to you.",
+            "Violet": "It nests deep inside a cave. Food there is scarce, so Deino will sink its teeth into anything that moves and attempt to eat it."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Victory Road",
+            "White": "Victory Road",
+            "Black 2": "Breed Zweilous or Hydreigon",
+            "White 2": "Breed Zweilous or Hydreigon"
+        },
+        "Generation VI": {
+            "X": "Breed Zweilous or Hydreigon",
+            "Y": "Breed Zweilous or Hydreigon",
+            "Omega Ruby": "Meteor Falls ( hidden Pokémon * )",
+            "Alpha Sapphire": "Meteor Falls ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Ten Carat Hill ( Island Scan ) Tu",
+            "Moon": "Ten Carat Hill ( Island Scan ) Tu",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Dusty Bowl , Giant's Mirror , Bridge Field ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Sword Expansion Pass": "Roaring-Sea Caves",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Alfornada Cavern North Province: Area Two , Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 3★ )",
+            "Violet": "Union Circle Tera Raid Battle Search ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Deino",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Deino",
+            "to": "Zweilous",
+            "method": [
+                "Level 50"
+            ]
+        }
+    ]
+}

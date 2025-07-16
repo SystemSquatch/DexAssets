@@ -1,0 +1,98 @@
+{
+    "name": "Drilbur",
+    "pokedex_number": "#0529",
+    "types": [
+        "Ground",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sand Rush",
+        "Sand Force",
+        "Mold Breaker"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 40,
+        "Sp. Atk": 30,
+        "Sp. Def": 45,
+        "Speed": 68,
+        "Total": 328
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It can dig through the ground at a speed of 30 mph . It could give a car running aboveground a good race.",
+            "White": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+            "Black 2": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
+            "White 2": "By spinning its body, it can dig straight through the ground at a speed of 30 mph."
+        },
+        "Generation VI": {
+            "X": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+            "Y": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
+            "Omega Ruby": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+            "Alpha Sapphire": "By spinning its body, it can dig straight through the ground at a speed of 30 mph."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It brings its claws together and whirls around at high speed before rushing toward its prey.",
+            "Shield": "It's a digger, using its claws to burrow through the ground. It causes damage to vegetable crops, so many farmers have little love for it."
+        },
+        "Generation IX": {
+            "Scarlet": "It can dig through the ground at a speed of 30 mph. It could give a car running aboveground a good race.",
+            "Violet": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Wellspring Cave , Chargestone Cave , Mistralton Cave , Twist Mountain ( Dust cloud )",
+            "White": "Wellspring Cave , Chargestone Cave , Mistralton Cave , Twist Mountain ( Dust cloud )",
+            "Black 2": "Relic Passage , Chargestone Cave , Mistralton Cave ( Dust cloud )",
+            "White 2": "Relic Passage , Chargestone Cave , Mistralton Cave ( Dust cloud )",
+            "Dream World": "Icy Cave *"
+        },
+        "Generation VI": {
+            "X": "Breed Excadrill",
+            "Y": "Breed Excadrill",
+            "Omega Ruby": "Breed Excadrill",
+            "Alpha Sapphire": "Breed Excadrill"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Galar Mine , Stony Wilderness , Giant's Mirror , Giant's Cap , Dusty Bowl , Hammerlocke Hills Rolling Fields , Bridge Field ( Max Raid Battle )",
+            "Shield": "Galar Mine , Stony Wilderness , Giant's Mirror , Giant's Cap , Dusty Bowl , Hammerlocke Hills Rolling Fields , Bridge Field ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Chargestone Cavern , Canyon Biome , Polar Biome Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Drilbur",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Drilbur",
+            "to": "Excadrill",
+            "method": [
+                "Level 31"
+            ]
+        }
+    ]
+}

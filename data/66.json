@@ -1,0 +1,158 @@
+{
+    "name": "Machop",
+    "pokedex_number": "#0066",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Guts",
+        "No Guard",
+        "Steadfast"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 50,
+        "Sp. Atk": 35,
+        "Sp. Def": 35,
+        "Speed": 35,
+        "Total": 305
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
+            "Yellow": "Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.",
+            "Stadium": "Its whole body is covered with muscles, so it can raise bulges anywhere. It can throw a hundred adults."
+        },
+        "Generation II": {
+            "Gold": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
+            "Silver": "It loves to work out and build its muscles. It is never satisfied, even if it trains hard all day long.",
+            "Crystal": "It trains by lifting rocks in the mountains. It can even pick up a Graveler with ease.",
+            "Stadium 2": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger. (Pokémon Red, Silver, or Crystal inserted) It loves to work out and build its muscles. It is never satisfied, even if it trains hard all day long. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Machop 's muscles are special - they never get sore no matter how much they are used in exercise. This Pok é mon has sufficient power to hurl a hundred adult humans.",
+            "Sapphire": "Machop exercises by hefting around a Graveler as if it were a barbell. There are some Machop that travel the world in a quest to master all kinds of martial arts.",
+            "Emerald": "It continually undertakes strenuous training to master all forms of martial arts. Its strength lets it easily hoist a sumo wrestler onto its shoulders.",
+            "FireRed": "Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups.",
+            "LeafGreen": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger."
+        },
+        "Generation IV": {
+            "Diamond": "It hefts a Graveler repeatedly to strengthen its entire body. It uses every type of martial arts.",
+            "Pearl": "Its muscles never cramp however much it trains. It lives in the mountains away from humans.",
+            "Platinum": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
+            "HeartGold": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
+            "SoulSilver": "It loves to work out and build its muscles. It is never satisfied, even if it trains hard all day long."
+        },
+        "Generation V": {
+            "Black": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
+            "White": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
+            "Black 2": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
+            "White 2": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once."
+        },
+        "Generation VI": {
+            "X": "It hefts a Graveler repeatedly to strengthen its entire body. It uses every type of martial arts.",
+            "Y": "Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups.",
+            "Omega Ruby": "Machop's muscles are special—they never get sore no matter how much they are used in exercise. This Pokémon has sufficient power to hurl a hundred adult humans.",
+            "Alpha Sapphire": "Machop exercises by hefting around a Graveler as if it were a barbell. There are some Machop that travel the world in a quest to master all kinds of martial arts."
+        },
+        "Generation VII": {
+            "Sun": "It loves working out. As it gazes at its muscles, which continue to swell day by day, it becomes more and more dedicated to its training.",
+            "Moon": "With its superhuman strength, it's able to throw a hundred people all at the same time. Its strength comes from lifting Graveler every day.",
+            "Ultra Sun": "Once this Pokémon has gained enough confidence and muscle from training with its friends, it challenges Makuhita to a battle.",
+            "Ultra Moon": "It likes food that's highly nutritious because its instincts drive it to build muscle efficiently.",
+            "Let's Go Pikachu": "Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.",
+            "Let's Go Eevee": "Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough."
+        },
+        "Generation VIII": {
+            "Sword": "Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups.",
+            "Shield": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
+            "Brilliant Diamond": "It hefts a Graveler repeatedly to strengthen its entire body. It uses every type of martial arts.",
+            "Shining Pearl": "Its muscles never cramp however much it trains. It lives in the mountains away from humans.",
+            "Legends: Arceus": "Though as small as a child, it has strength enough to easily throw a well-built adult. Striving to become ever stronger, Machop trains by carrying a Graveler on its shoulders."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Rock Tunnel , Victory Road",
+            "Blue": "Rock Tunnel , Victory Road",
+            "Blue (Japan)": "Rock Tunnel , Victory Road",
+            "Yellow": "Route 10 , Rock Tunnel"
+        },
+        "Generation II": {
+            "Gold": "Rock Tunnel , Mt. Mortar Trade Drowzee in Goldenrod Department Store",
+            "Silver": "Rock Tunnel , Mt. Mortar Trade Drowzee in Goldenrod Department Store",
+            "Crystal": "Rock Tunnel , Mt. Mortar Morning Day Trade Abra in Goldenrod Department Store"
+        },
+        "Generation III": {
+            "Ruby": "Route 112 , Fiery Path , Jagged Pass",
+            "Sapphire": "Route 112 , Fiery Path , Jagged Pass",
+            "Emerald": "Fiery Path , Jagged Pass",
+            "FireRed": "Mt. Ember , Rock Tunnel , Victory Road",
+            "LeafGreen": "Mt. Ember , Rock Tunnel , Victory Road",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 207 , 208 , and 210 , Mt. Coronet",
+            "Pearl": "Routes 207 , 208 , and 210 , Mt. Coronet",
+            "Platinum": "Routes 206 , 207 , 210 , and 211 , Mt. Coronet",
+            "HeartGold": "Cliff Cave , Rock Tunnel , Mt. Mortar Safari Zone Morning Day (Wasteland, default) Trade Drowzee in Goldenrod Department Store",
+            "SoulSilver": "Cliff Cave , Rock Tunnel , Mt. Mortar Safari Zone Morning Day (Wasteland, default) Trade Drowzee in Goldenrod Department Store",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Rugged Road , Dim Cave , and Scary Cave"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Glittering Cave",
+            "Y": "Glittering Cave",
+            "Omega Ruby": "Route 112 , Fiery Path , Jagged Pass",
+            "Alpha Sapphire": "Route 112 , Fiery Path , Jagged Pass"
+        },
+        "Generation VII": {
+            "Sun": "Ten Carat Hill Trade Spearow at Route 2",
+            "Moon": "Ten Carat Hill Trade Spearow at Route 2",
+            "Ultra Sun": "Ten Carat Hill",
+            "Ultra Moon": "Ten Carat Hill",
+            "Let's Go Pikachu": "Rock Tunnel , Victory Road",
+            "Let's Go Eevee": "Rock Tunnel , Victory Road"
+        },
+        "Generation VIII": {
+            "Sword": "Route 3 , North Lake Miloch , South Lake Miloch , Watchtower Ruins , Giant's Seat , Giant's Mirror , Stony Wilderness Rolling Fields , South Lake Miloch , North Lake Miloch , Stony Wilderness , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Route 3 , North Lake Miloch , South Lake Miloch , Watchtower Ruins , Giant's Seat , Giant's Mirror , Stony Wilderness Rolling Fields , South Lake Miloch , North Lake Miloch , Stony Wilderness , Dusty Bowl ( Max Raid Battle )",
+            "Brilliant Diamond": "Routes 207 , 208 , and 210 , Mount Coronet Grand Underground - Spacious Cave , Grassland Cave , Whiteout Cave , Sunlit Cavern",
+            "Shining Pearl": "Routes 207 , 208 , and 210 , Mount Coronet Grand Underground - Spacious Cave , Grassland Cave , Whiteout Cave , Sunlit Cavern",
+            "Legends: Arceus": "Obsidian Fieldlands : Oreburrow Tunnel , near Obsidian Falls Cobalt Coastlands : near Ginkgo Landing , Castaway Shore Coronet Highlands : Bolderoll Ravine , near Cloudcap Pass , massive mass outbreaks Alabaster Icelands : Icebound Falls , Arena's Approach , Snowfall Hot Spring , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Machop",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Machop",
+            "to": "Machoke",
+            "method": [
+                "Level 28"
+            ]
+        }
+    ]
+}

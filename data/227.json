@@ -1,0 +1,133 @@
+{
+    "name": "Skarmory",
+    "pokedex_number": "#0227",
+    "types": [
+        "Steel",
+        "Flying"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Sturdy",
+        "Weak Armor"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 80,
+        "Defense": 140,
+        "Sp. Atk": 40,
+        "Sp. Def": 70,
+        "Speed": 70,
+        "Total": 465
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky.",
+            "Silver": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
+            "Crystal": "The feathers that it sheds are very sharp. It is said that people once used the feathers as swords.",
+            "Stadium 2": "Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky. (Pokémon Red, Silver, or Crystal inserted) After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Skarmory is entirely encased in hard, protective armor. This Pok é mon flies at close to 190 mph . It slashes foes with its wings that possess swordlike cutting edges.",
+            "Sapphire": "Skarmory 's steel wings become tattered and bashed in from repeated battles. Once a year, the battered wings grow back completely, restoring the cutting edges to their pristine state.",
+            "Emerald": "A Pok é mon that has a body and wings of steel. People in the past used feathers fallen from Skarmory to make swords and knives.",
+            "FireRed": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
+            "LeafGreen": "Its sturdy wings look heavy, but its bones are hollow and light, allowing it to fly freely in the sky."
+        },
+        "Generation IV": {
+            "Diamond": "Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph .",
+            "Pearl": "Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph .",
+            "Platinum": "Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph .",
+            "HeartGold": "Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky.",
+            "SoulSilver": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns."
+        },
+        "Generation V": {
+            "Black": "Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph .",
+            "White": "Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph .",
+            "Black 2": "Its heavy-looking iron body is actually thin and light, so it can fly at speeds over 180 mph .",
+            "White 2": "Its heavy-looking iron body is actually thin and light, so it can fly at speeds over 180 mph ."
+        },
+        "Generation VI": {
+            "X": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
+            "Y": "Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph .",
+            "Omega Ruby": "Skarmory is entirely encased in hard, protective armor. This Pokémon flies at close to 190 mph . It slashes foes with its wings that possess swordlike cutting edges.",
+            "Alpha Sapphire": "Skarmory's steel wings become tattered and bashed in from repeated battles. Once a year, the battered wings grow back completely, restoring the cutting edges to their pristine state."
+        },
+        "Generation VII": {
+            "Sun": "Its feathers, which fall off as it grows, are thin and sharp. In times long past, warriors used them as swords.",
+            "Moon": "Its metal body is sturdy, but it does rust rather easily. So on rainy days, this Pokémon prefers to stay put in its nest.",
+            "Ultra Sun": "The wing feathers it sheds can be processed and made into knives whose sharpness is recognized by the finest chefs.",
+            "Ultra Moon": "Its body is draped in steel armor. It looks heavy, but it can fly at speeds of up to 185 miles an hour !"
+        },
+        "Generation VIII": {
+            "Sword": "The pointed feathers of these Pokémon are sharper than swords. Skarmory and Corviknight fight viciously over territory.",
+            "Shield": "People fashion swords from Skarmory's shed feathers, so this Pokémon is a popular element in heraldic designs.",
+            "Brilliant Diamond": "Skarmory is clad entirely in ironhard armor. It flies at speeds over 180 mph .",
+            "Shining Pearl": "Skarmory is clad entirely in ironhard armor. It flies at speeds over 180 mph ."
+        },
+        "Generation IX": {
+            "Scarlet": "Its sturdy, heavy-looking iron body is actually thin and light, so it can fly at speeds over 180 mph.",
+            "Violet": "Since the feathers that it sheds are thin and sharp, people apparently once used them as swords."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Trade , Event",
+            "Silver": "Route 45",
+            "Crystal": "Route 45 Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Route 113",
+            "Sapphire": "Route 113",
+            "Emerald": "Route 113",
+            "FireRed": "Sevault Canyon",
+            "LeafGreen": "Trade",
+            "Colosseum": "Realgam Tower (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 227 , Stark Mountain",
+            "Pearl": "Route 227 , Stark Mountain",
+            "Platinum": "Route 227 , Stark Mountain",
+            "HeartGold": "Trade",
+            "SoulSilver": "Route 45",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Reversal Mountain",
+            "White 2": "Reversal Mountain",
+            "Dream World": "Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Victory Road , Friend Safari ( Steel )",
+            "Y": "Victory Road , Friend Safari ( Steel )",
+            "Omega Ruby": "Route 113",
+            "Alpha Sapphire": "Route 113"
+        },
+        "Generation VII": {
+            "Sun": "Routes 10 and 17 , Mount Hokulani , Vast Poni Canyon , Poké Pelago *",
+            "Moon": "Routes 10 and 17 , Mount Hokulani , Vast Poni Canyon , Poké Pelago *",
+            "Ultra Sun": "Routes 10 and 17 , Mount Hokulani , Vast Poni Canyon",
+            "Ultra Moon": "Routes 10 and 17 , Mount Hokulani , Vast Poni Canyon",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Challenge Road Challenge Road ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Route 227 , Stark Mountain",
+            "Shining Pearl": "Route 227 , Stark Mountain",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Canyon Biome Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": []
+}

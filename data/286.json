@@ -1,0 +1,120 @@
+{
+    "name": "Breloom",
+    "pokedex_number": "#0286",
+    "types": [
+        "Grass",
+        "Fighting"
+    ],
+    "abilities": [
+        "Effect Spore",
+        "Poison Heal",
+        "Technician"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 130,
+        "Defense": 80,
+        "Sp. Atk": 60,
+        "Sp. Def": 60,
+        "Speed": 70,
+        "Total": 460
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Breloom closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms. This Pok é mon 's fighting technique puts boxers to shame.",
+            "Sapphire": "The seeds ringing Breloom 's tail are made of hardened toxic spores. It is horrible to eat the seeds. Just taking a bite of this Pok é mon 's seed will cause your stomach to rumble.",
+            "Emerald": "It scatters spores from holes in the cap on its head. It loves warm and humid climates. It feeds on trees and plants in fields and forests.",
+            "FireRed": "The seeds on its tail are made of toxic spores. It knocks out foes with quick, virtually invisible punches.",
+            "LeafGreen": "The seeds on its tail are made of toxic spores. It knocks out foes with quick, virtually invisible punches."
+        },
+        "Generation IV": {
+            "Diamond": "Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.",
+            "Pearl": "Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.",
+            "Platinum": "Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.",
+            "HeartGold": "It scatters poisonous spores and throws powerful punches while its foe is hampered by inhaled spores.",
+            "SoulSilver": "It scatters poisonous spores and throws powerful punches while its foe is hampered by inhaled spores."
+        },
+        "Generation V": {
+            "Black": "Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.",
+            "White": "Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.",
+            "Black 2": "Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.",
+            "White 2": "Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers."
+        },
+        "Generation VI": {
+            "X": "Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.",
+            "Y": "It scatters poisonous spores and throws powerful punches while its foe is hampered by inhaled spores.",
+            "Omega Ruby": "Breloom closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms. This Pokémon's fighting technique puts boxers to shame.",
+            "Alpha Sapphire": "The seeds ringing Breloom's tail are made of hardened toxic spores. It is horrible to eat the seeds. Just taking a bite of this Pokémon's seed will cause your stomach to rumble."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.",
+            "Shining Pearl": "Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers."
+        },
+        "Generation IX": {
+            "Scarlet": "It scatters poisonous spores and throws powerful punches while its foe is hampered by inhaled spores.",
+            "Violet": "The seeds on its tail are made of toxic spores. It knocks out foes with quick, virtually invisible punches."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Shroomish",
+            "Sapphire": "Evolve Shroomish",
+            "Emerald": "Evolve Shroomish",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Evolve Shroomish"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Shroomish",
+            "Pearl": "Evolve Shroomish",
+            "Platinum": "Evolve Shroomish",
+            "HeartGold": "Safari Zone (Wasteland with 42 Forest points)",
+            "SoulSilver": "Safari Zone (Wasteland with 42 Forest points)",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Evolve Shroomish",
+            "White": "Trade",
+            "Black 2": "Pinwheel Forest ( Hidden Grotto ) *",
+            "White 2": "Pinwheel Forest ( Hidden Grotto ) *"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Fighting )",
+            "Y": "Friend Safari ( Fighting )",
+            "Omega Ruby": "Evolve Shroomish",
+            "Alpha Sapphire": "Evolve Shroomish"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Shroomish",
+            "Shining Pearl": "Evolve Shroomish",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area Three West Province: Area Three ( Rock Tera Type ) Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "West Province: Area Three West Province: Area Three ( Rock Tera Type ) Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Shroomish",
+            "to": "Breloom",
+            "method": [
+                "Level 23"
+            ]
+        }
+    ]
+}

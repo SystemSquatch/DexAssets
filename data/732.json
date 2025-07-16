@@ -1,0 +1,75 @@
+{
+    "name": "Trumbeak",
+    "pokedex_number": "#0732",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Skill Link",
+        "Pickup"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 85,
+        "Defense": 50,
+        "Sp. Atk": 40,
+        "Sp. Def": 50,
+        "Speed": 75,
+        "Total": 355
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It eats berries and stores their seeds in its beak. When it encounters enemies or prey, it fires off all the seeds in a burst.",
+            "Moon": "By bending its beak, it can produce a variety of calls and brand itself a noisy nuisance for its neighbors.",
+            "Ultra Sun": "It can bend the tip of its beak to produce over a hundred different cries at will.",
+            "Ultra Moon": "From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants."
+        },
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "It flies around using a hundred different cries in various ways to declare its territory to others.",
+            "Violet": "When it encounters foes, it launches the many seeds stored in its beak in a radial burst."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Routes 5 , 8 , and 11 , Lush Jungle , Poni Grove , Poni Plains",
+            "Moon": "Routes 5 , 8 , and 11 , Lush Jungle , Poni Grove , Poni Plains",
+            "Ultra Sun": "Routes 5 , 8 , and 11 , Poni Grove , Poni Plains Lush Jungle ( SOS Battle )",
+            "Ultra Moon": "Routes 5 , 8 , and 11 , Poni Grove , Poni Plains Lush Jungle ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Pikipek",
+            "to": "Trumbeak",
+            "method": [
+                "Level 14"
+            ]
+        },
+        {
+            "from": "Trumbeak",
+            "to": "Toucannon",
+            "method": [
+                "Level 28"
+            ]
+        }
+    ]
+}

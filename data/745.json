@@ -1,0 +1,78 @@
+{
+    "name": "Lycanroc",
+    "pokedex_number": "#0745",
+    "types": [
+        "Rock",
+        "Unknown"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Sand Rush",
+        "Keen Eye",
+        "Vital Spirit",
+        "Steadfast",
+        "No Guard",
+        "Tough Claws"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 115,
+        "Defense": 65,
+        "Sp. Atk": 55,
+        "Sp. Def": 65,
+        "Speed": 112,
+        "Total": 487
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "The more intimidating the opponent it faces, the more this Pokémon's blood boils. It will attack with no regard for its own safety.",
+            "Moon": "It goads its enemies into attacking, withstands the hits, and in return, delivers a headbutt, crushing their bones with its rocky mane.",
+            "Ultra Sun": "Bathed in the setting sun of evening, Lycanroc has undergone a special kind of evolution. An intense fighting spirit underlies its calmness.",
+            "Ultra Moon": "This strange form is the result of its evolving at dusk. It's very rare in Alola."
+        },
+        "Generation VIII": {
+            "Sword": "This form of Lycanroc is normally calm and quiet. Once a battle begins, however, this Pokémon displays a ferocious fighting spirit.",
+            "Shield": "These Pokémon have both calm and ferocious qualities. Their temperamental nature makes them a difficult species to raise."
+        },
+        "Generation IX": {
+            "Scarlet": "Normally this Pokémon doesn’t even bark, but once it enters battle, it will relentlessly drive the opponent into a corner.",
+            "Violet": "These Pokémon have both calm and ferocious qualities. It's said that this form of Lycanroc is the most troublesome to raise."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Vast Poni Canyon ( Midday/Midnight Forms ) Unobtainable ( Dusk Form )",
+            "Moon": "Vast Poni Canyon ( Midday/Midnight Forms ) Unobtainable ( Dusk Form )",
+            "Ultra Sun": "Vast Poni Canyon ( Midday/Midnight Forms ) Evolve Own Tempo Rockruff ( Dusk Form )",
+            "Ultra Moon": "Vast Poni Canyon ( Midday/Midnight Forms ) Evolve Own Tempo Rockruff ( Dusk Form )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Challenge Road ( Wanderer ) ( Midday/Midnight Forms ) Fields of Honor , Challenge Road , Training Lowlands , Potbottom Desert ( Max Raid Battle ) ( Midday/Midnight Forms ) Max Lair ( Dynamax Adventure ) ( Midday/Midnight Forms ) Challenge Road ( Max Raid Battle ) ( Dusk Form )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: South Province (Area Six) ( Midday/Midnight Forms ) North Province: Dalizapa Passage , Glaseado Mountain ( Midday/Midnight Forms ) Area Zero ( Midday/Midnight Forms ) North Province: Area One ( Midday/Midnight/Dusk Forms ) Tera Raid Battles ( 4★ ) ( Midday Form ) Tera Raid Battles ( 4★ ) ( Midnight Form ) Tera Raid Battles ( 6★ ) ( Dusk Form )",
+            "Violet": "South Province: South Province (Area Six) ( Midday/Midnight Forms ) North Province: Dalizapa Passage , Glaseado Mountain ( Midday/Midnight Forms ) Area Zero ( Midday/Midnight Forms ) North Province: Area One ( Midday/Midnight/Dusk Forms ) Tera Raid Battles ( 4★ ) ( Midday Form ) Tera Raid Battles ( 4★ ) ( Midnight Form ) Tera Raid Battles ( 6★ ) ( Dusk Form )",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Oni Mountain , Kitakami Wilds ( Midday/Midnight Forms )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Rockruff",
+            "to": "Lycanroc",
+            "method": [
+                "Level 25 (during the day)",
+                "Level 25 (during the night)",
+                "Level 25 (during the dusk)"
+            ]
+        }
+    ]
+}

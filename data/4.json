@@ -1,0 +1,154 @@
+{
+    "name": "Charmander",
+    "pokedex_number": "#0004",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Blaze",
+        "Solar Power"
+    ],
+    "stats": {
+        "HP": 39,
+        "Attack": 52,
+        "Defense": 43,
+        "Sp. Atk": 60,
+        "Sp. Def": 50,
+        "Speed": 65,
+        "Total": 309
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
+            "Yellow": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
+            "Stadium": "Even the newborns have flaming tails. Unfamiliar with fire, babies are said to accidentally burn themselves."
+        },
+        "Generation II": {
+            "Gold": "The flame on its tail shows the strength of its life force. If it is weak, the flame also burns weakly.",
+            "Silver": "The flame on its tail indicates Charmander 's life force. If it is healthy, the flame burns brightly.",
+            "Crystal": "If it's healthy, the flame on the tip of its tail will burn vigorously, even if it gets a bit wet.",
+            "Stadium 2": "The flame on its tail shows the strength of its life force. If it is weak, the flame also burns weakly. (Pokémon Red, Silver, or Crystal inserted) The flame on its tail indicates Charmander 's life force. If it is healthy, the flame burns brightly. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pok é mon becomes enraged, the flame burns fiercely.",
+            "Sapphire": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pok é mon becomes enraged, the flame burns fiercely.",
+            "Emerald": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is happy, and blazes when it is enraged.",
+            "FireRed": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+            "LeafGreen": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail."
+        },
+        "Generation IV": {
+            "Diamond": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+            "Pearl": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+            "Platinum": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+            "HeartGold": "The flame on its tail shows the strength of its life force. If it is weak, the flame also burns weakly.",
+            "SoulSilver": "The flame on its tail indicates Charmander 's life force. If it is healthy, the flame burns brightly."
+        },
+        "Generation V": {
+            "Black": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+            "White": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+            "Black 2": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+            "White 2": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely."
+        },
+        "Generation VI": {
+            "X": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
+            "Y": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+            "Omega Ruby": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+            "Alpha Sapphire": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
+            "Let's Go Eevee": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places."
+        },
+        "Generation VIII": {
+            "Sword": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+            "Shield": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+            "Brilliant Diamond": "The fire on the tip of its tail is a measure of its life. If the Pokémon is healthy, its tail burns intensely.",
+            "Shining Pearl": "The fire on the tip of its tail is a measure of its life. If the Pokémon is healthy, its tail burns intensely."
+        },
+        "Generation IX": {
+            "Scarlet": "The flame on its tail shows the strength of its life-force. If Charmander is weak, the flame also burns weakly.",
+            "Violet": "If Charmander is healthy, the flame on the tip of its tail will burn vigorously and won’t go out even if it gets a bit wet."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "First partner Pokémon from Professor Oak in Pallet Town",
+            "Blue": "First partner Pokémon from Professor Oak in Pallet Town",
+            "Blue (Japan)": "First partner Pokémon from Professor Oak in Pallet Town",
+            "Yellow": "Received from a boy on Route 24"
+        },
+        "Generation II": {
+            "Gold": "Time Capsule , Event",
+            "Silver": "Time Capsule , Event",
+            "Crystal": "Time Capsule , Event"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "First partner Pokémon from Professor Oak in Pallet Town",
+            "LeafGreen": "First partner Pokémon from Professor Oak in Pallet Town",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade , Event",
+            "Pearl": "Trade , Event",
+            "Platinum": "Trade , Event",
+            "HeartGold": "Received from Professor Oak in Pallet Town after defeating Red",
+            "SoulSilver": "Received from Professor Oak in Pallet Town after defeating Red",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Global Link Event",
+            "White": "Global Link Event",
+            "Black 2": "Poké Transfer , Event",
+            "White 2": "Poké Transfer , Event"
+        },
+        "Generation VI": {
+            "X": "Received from Professor Sycamore in Lumiose City after defeating him",
+            "Y": "Received from Professor Sycamore in Lumiose City after defeating him",
+            "Omega Ruby": "Trade , Event",
+            "Alpha Sapphire": "Trade , Event"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 3 ( Island Scan ) Su",
+            "Ultra Moon": "Route 3 ( Island Scan ) Su",
+            "Let's Go Pikachu": "Route 3 , Route 4 , Rock Tunnel Route 24 ( Only one )",
+            "Let's Go Eevee": "Route 3 , Route 4 , Rock Tunnel Route 24 ( Only one )"
+        },
+        "Generation VIII": {
+            "Sword": "Received from Leon at his house in Postwick after becoming Champion ( Gigantamax Factor ) Hammerlocke Hills , Lake of Outrage ( Max Raid Battle )",
+            "Shield": "Received from Leon at his house in Postwick after becoming Champion ( Gigantamax Factor ) Hammerlocke Hills , Lake of Outrage ( Max Raid Battle )",
+            "Brilliant Diamond": "Grand Underground - Volcanic Cave , Sandsear Cave , Typhlo Cavern (after obtaining the National Pokédex )",
+            "Shining Pearl": "Grand Underground - Volcanic Cave , Sandsear Cave , Typhlo Cavern (after obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Savanna Biome (after boosting biodiversity in the Savanna Biome)"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Charmander",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Charmander",
+            "to": "Charmeleon",
+            "method": [
+                "Level 16"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "name": "Beedrill",
+    "pokedex_number": "#0015",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "abilities": [
+        "Swarm",
+        "Sniper",
+        "Adaptability"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 80,
+        "Defense": 40,
+        "Sp. Atk": 45,
+        "Sp. Def": 80,
+        "Speed": 75,
+        "Total": 385
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
+            "Yellow": "It has 3 poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+            "Stadium": "Flies at high speeds and attacks with three stingers: one on its rear and one on each of its two forelegs. May appear in swarms."
+        },
+        "Generation II": {
+            "Gold": "It can take down any opponent with its powerful poison stingers. It sometimes attacks in swarms.",
+            "Silver": "It has three poison barbs. The barb on its tail secretes the most powerful poison.",
+            "Crystal": "It uses sharp, poisonous stings to defeat prey, then takes the victim back to its nest for food.",
+            "Stadium 2": "It can take down any opponent with its powerful poison stingers. It sometimes attacks in swarms. (Pokémon Red, Silver, or Crystal inserted) It has three poison barbs. The barb on its tail secretes the most powerful poison. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Beedrill is extremely territorial. No one should ever approach its nest - this is for their own safety. If angered, they will attack in a furious swarm.",
+            "Sapphire": "Beedrill is extremely territorial. No one should ever approach its nest - this is for their own safety. If angered, they will attack in a furious swarm.",
+            "Emerald": "A Beedrill is extremely territorial. For safety reasons, no one should ever approach its nest. If angered, they will attack in a swarm.",
+            "FireRed": "May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.",
+            "LeafGreen": "It flies at high speed and attacks using the large venomous stingers on its forelegs and tail."
+        },
+        "Generation IV": {
+            "Diamond": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+            "Pearl": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+            "Platinum": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+            "HeartGold": "It can take down any opponent with its powerful poison stingers. It sometimes attacks in swarms.",
+            "SoulSilver": "It has three poison barbs. The barb on its tail secretes the most powerful poison."
+        },
+        "Generation V": {
+            "Black": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+            "White": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+            "Black 2": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+            "White 2": "Its best attack involves flying around at high speed, striking with poison needles, then flying off."
+        },
+        "Generation VI": {
+            "X": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+            "Y": "May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.",
+            "Omega Ruby": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.",
+            "Alpha Sapphire": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Its legs have become poison stingers. It stabs its prey repeatedly with the stingers on its limbs, dealing the final blow with the stinger on its rear.",
+            "Let's Go Eevee": "Its legs have become poison stingers. It stabs its prey repeatedly with the stingers on its limbs, dealing the final blow with the stinger on its rear."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+            "Shining Pearl": "Its best attack involves flying around at high speed, striking with poison needles, then flying off."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Kakuna",
+            "Blue": "Evolve Kakuna",
+            "Blue (Japan)": "Evolve Kakuna",
+            "Yellow": "Trade"
+        },
+        "Generation II": {
+            "Gold": "National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "Silver": "Route 2 Morning National Park ( Bug-Catching Contest ) Tu Th Sa Routes 26 , 27 , 34 , 35 , 36 , 37 , 38 , and 39 , Azalea Town , Ilex Forest , Lake of Rage ( Headbutt trees )",
+            "Crystal": "National Park ( Bug-Catching Contest ) Tu Th Sa Ilex Forest ( Headbutt trees )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Kakuna",
+            "LeafGreen": "Evolve Kakuna",
+            "Colosseum": "Trade",
+            "XD": "Cipher Key Lair (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Kakuna",
+            "Pearl": "Evolve Kakuna",
+            "Platinum": "Evolve Kakuna",
+            "HeartGold": "National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "SoulSilver": "Route 2 Morning Night Viridian Forest Morning National Park ( Bug-Catching Contest ) Tu Th Sa Route 47 , Ilex Forest ( Headbutt trees )",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Route 12 ( rustling grass )",
+            "White": "Trade",
+            "Black 2": "Pinwheel Forest ( Hidden Grotto ) *",
+            "White 2": "Trade",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Evolve Kakuna",
+            "Y": "Evolve Kakuna",
+            "Omega Ruby": "Evolve Kakuna",
+            "Alpha Sapphire": "Evolve Kakuna"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 4 ( Island Scan ) Th",
+            "Ultra Moon": "Route 4 ( Island Scan ) Th",
+            "Let's Go Pikachu": "Evolve Kakuna",
+            "Let's Go Eevee": "Viridian Forest"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Evolve Kakuna",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Kakuna",
+            "to": "Beedrill",
+            "method": [
+                "Level 10"
+            ]
+        }
+    ]
+}

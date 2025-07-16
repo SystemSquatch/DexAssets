@@ -1,0 +1,138 @@
+{
+    "name": "Skiploom",
+    "pokedex_number": "#0188",
+    "types": [
+        "Grass",
+        "Flying"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Leaf Guard",
+        "Infiltrator"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 45,
+        "Defense": 50,
+        "Sp. Atk": 45,
+        "Sp. Def": 65,
+        "Speed": 80,
+        "Total": 340
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "The bloom on top of its head opens and closes as the temperature fluctuates up and down.",
+            "Silver": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
+            "Crystal": "As soon as it rains, it closes its flower and hides in the shade of a tree to avoid getting wet.",
+            "Stadium 2": "The bloom on top of its head opens and closes as the temperature fluctuates up and down. (Pokémon Red, Silver, or Crystal inserted) It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Skiploom 's flower blossoms when the temperature rises above 64 degrees F . How much the flower opens depends on the temperature. For that reason, this Pok é mon is sometimes used as a thermometer.",
+            "Sapphire": "Skiploom 's flower blossoms when the temperature rises above 64 degrees F . How much the flower opens depends on the temperature. For that reason, this Pok é mon is sometimes used as a thermometer.",
+            "Emerald": "It blossoms when the temperature rises above 64 degrees F . Because its flower's blooming changes with the temperature, it is sometimes used as a thermometer.",
+            "FireRed": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
+            "LeafGreen": "The bloom on top of its head opens and closes as the temperature fluctuates up and down."
+        },
+        "Generation IV": {
+            "Diamond": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+            "Pearl": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+            "Platinum": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+            "HeartGold": "The bloom on top of its head opens and closes as the temperature fluctuates up and down.",
+            "SoulSilver": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun."
+        },
+        "Generation V": {
+            "Black": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+            "White": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+            "Black 2": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+            "White 2": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible."
+        },
+        "Generation VI": {
+            "X": "The bloom on top of its head opens and closes as the temperature fluctuates up and down.",
+            "Y": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
+            "Omega Ruby": "Skiploom's flower blossoms when the temperature rises above 64 degrees Fahrenheit . How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.",
+            "Alpha Sapphire": "Skiploom's flower blossoms when the temperature rises above 64 degrees Fahrenheit . How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+            "Shining Pearl": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible."
+        },
+        "Generation IX": {
+            "Scarlet": "Skiploom enthusiasts can apparently tell where a Skiploom was born by the scent drifting from the flower on the Pokémon’s head.",
+            "Violet": "When the weather grows cold, Skiploom's flower closes and the Pokémon cannot photosynthesize, so it flies away to warmer regions."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Route 14 Morning Day",
+            "Silver": "Route 14 Morning Day",
+            "Crystal": "Route 14 Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Hoppip",
+            "LeafGreen": "Evolve Hoppip",
+            "Colosseum": "Pyrite Town (Shadow)",
+            "XD": "Evolve Hoppip"
+        },
+        "Generation IV": {
+            "Diamond": "Route 205 (North) ( Poké Radar )",
+            "Pearl": "Fuego Ironworks ( Poké Radar )",
+            "Platinum": "Evolve Hoppip",
+            "HeartGold": "Route 14 Morning Day Safari Zone (tall grass in Meadow, default Morning Day and with 8 Forest points; Surfing in Meadow with 3 Waterside points)",
+            "SoulSilver": "Route 14 Morning Day Safari Zone (tall grass in Meadow, default Morning Day and with 8 Forest points; Surfing in Meadow with 3 Waterside points)",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Hoppip",
+            "Black 2": "Evolve Hoppip",
+            "White 2": "Evolve Hoppip"
+        },
+        "Generation VI": {
+            "X": "Evolve Hoppip",
+            "Y": "Evolve Hoppip",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 205 (North) ( Poké Radar ) Grand Underground - Grassland Cave , Sunlit Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Fuego Ironworks ( Poké Radar ) Grand Underground - Grassland Cave , Sunlit Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Three , Area Five East Province: Area One , Area Two West Province: Area Two Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area Three , Area Five East Province: Area One , Area Two West Province: Area Two Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Hoppip",
+            "to": "Skiploom",
+            "method": [
+                "Level 18"
+            ]
+        },
+        {
+            "from": "Skiploom",
+            "to": "Jumpluff",
+            "method": [
+                "Level 27"
+            ]
+        }
+    ]
+}

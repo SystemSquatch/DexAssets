@@ -1,0 +1,162 @@
+{
+    "name": "Grimer",
+    "pokedex_number": "#0088",
+    "types": [
+        "Poison",
+        "Unknown"
+    ],
+    "abilities": [
+        "Stench",
+        "Sticky Hold",
+        "Poison Touch",
+        "Gluttony",
+        "Poison Touch",
+        "Power of Alchemy"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 50,
+        "Sp. Atk": 40,
+        "Sp. Def": 50,
+        "Speed": 25,
+        "Total": 325
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
+            "Yellow": "Made of hardened sludge. It smells too putrid to touch. Even weeds won't grow in its path.",
+            "Stadium": "Sludge that was transformed when exposed to X-rays from the moon. Loves sludge, industrial waste and other refuse."
+        },
+        "Generation II": {
+            "Gold": "As it moves, it loses bits of its body from which new Grimer emerge. This worsens the stench around it.",
+            "Silver": "Wherever Grimer has passed, so many germs are left behind that no plants will ever grow again.",
+            "Crystal": "When two of these Pok é mon 's bodies are combined together, new poisons are created.",
+            "Stadium 2": "As it moves, it loses bits of its body from which new Grimer emerge. This worsens the stench around it. (Pokémon Red, Silver, or Crystal inserted) Wherever Grimer has passed, so many germs are left behind that no plants will ever grow again. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Grimer 's sludgy and rubbery body can be forced through any opening, however small it may be. This Pok é mon enters sewer pipes to drink filthy wastewater.",
+            "Sapphire": "Grimer emerged from the sludge that settled on a polluted seabed. This Pok é mon loves anything filthy. It constantly leaks a horribly germ-infested fluid from all over its body.",
+            "Emerald": "Born from polluted sludge in the sea, Grimer 's favorite food is anything filthy. They feed on wastewater pumped out from factories.",
+            "FireRed": "Sludge exposed to X rays from the moon transformed into Grimer . It loves feeding on filthy things.",
+            "LeafGreen": "Appears in filthy areas. It thrives by sucking up polluted sludge that is pumped out of factories."
+        },
+        "Generation IV": {
+            "Diamond": "It was born when sludge in a dirty stream was exposed to the moon's X-rays. It appears among filth.",
+            "Pearl": "It was born when sludge in a dirty stream was exposed to the moon's X-rays. It appears among filth.",
+            "Platinum": "It was born when sludge in a dirty stream was exposed to the moon's X-rays. It appears among filth.",
+            "HeartGold": "As it moves, it loses bits of its body, from which new Grimer emerge. This worsens the stench around it.",
+            "SoulSilver": "Wherever Grimer has passed, so many germs are left behind that no plants will ever grow again."
+        },
+        "Generation V": {
+            "Black": "It was born when sludge in a dirty stream was exposed to the moon's X-rays. It appears among filth.",
+            "White": "It was born when sludge in a dirty stream was exposed to the moon's X-rays. It appears among filth.",
+            "Black 2": "Born from sludge, these Pokémon now gather in polluted places and increase the bacteria in their bodies.",
+            "White 2": "Born from sludge, these Pokémon now gather in polluted places and increase the bacteria in their bodies."
+        },
+        "Generation VI": {
+            "X": "Sludge exposed to X-rays from the moon transformed into Grimer. It loves feeding on filthy things.",
+            "Y": "Appears in filthy areas. It thrives by sucking up polluted sludge that is pumped out of factories.",
+            "Omega Ruby": "Grimer's sludgy and rubbery body can be forced through any opening, however small it may be. This Pokémon enters sewer pipes to drink filthy wastewater.",
+            "Alpha Sapphire": "Grimer emerged from the sludge that settled on a polluted seabed. This Pokémon loves anything filthy. It constantly leaks a horribly germ-infested fluid from all over its body."
+        },
+        "Generation VII": {
+            "Sun": "A Grimer, which had been brought in to solve a problem with garbage, developed over time into this form.",
+            "Moon": "The crystals on Grimer's body are lumps of toxins. If one falls off, lethal poisons leak out.",
+            "Ultra Sun": "There are a hundred or so of them living in Alola's waste-disposal site. They're all hard workers who eat a lot of trash.",
+            "Ultra Moon": "Brought to Alola to solve the garbage problem, Grimer seems to relish any and all kinds of trash.",
+            "Let's Go Pikachu": "It has a passion for trash above all else, speedily digesting it and creating brilliant crystals of sparkling poison.",
+            "Let's Go Eevee": "It has a passion for trash above all else, speedily digesting it and creating brilliant crystals of sparkling poison."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It was born when sludge in a dirty stream was exposed to the moon's X-rays. It appears among filth.",
+            "Shining Pearl": "It was born when sludge in a dirty stream was exposed to the moon's X-rays. It appears among filth."
+        },
+        "Generation IX": {
+            "Scarlet": "They store their toxins inside their bodies, so unlike Grimer from other regions, they don’t smell bad even up close.",
+            "Violet": "Alolan Grimer will gladly gobble up any kind of trash, making it a widely used and popular Pokémon at garbage disposal facilities."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Pokémon Mansion",
+            "Blue": "Pokémon Mansion",
+            "Blue (Japan)": "Pokémon Mansion",
+            "Yellow": "Pokémon Mansion , Power Plant"
+        },
+        "Generation II": {
+            "Gold": "Routes 16 , 17 , and 18 Celadon City ( Surfing )",
+            "Silver": "Routes 16 , 17 , and 18 Celadon City ( Surfing )",
+            "Crystal": "Routes 16 , 17 , and 18 Celadon City ( Surfing )"
+        },
+        "Generation III": {
+            "Ruby": "Fiery Path",
+            "Sapphire": "Fiery Path",
+            "Emerald": "Fiery Path",
+            "FireRed": "Pokémon Mansion Celadon City ( Super Rod )",
+            "LeafGreen": "Pokémon Mansion Celadon City ( Super Rod )",
+            "Colosseum": "Trade",
+            "XD": "Phenac Stadium (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Route 212 ( Poké Radar )",
+            "Pearl": "Route 212 ( Poké Radar )",
+            "Platinum": "Route 212 ( Poké Radar )",
+            "HeartGold": "Routes 16 , 17 , and 18 Celadon City ( Surfing ) Safari Zone (tall grass in Marshland, default Morning Day ; Surfing in Marshland, default)",
+            "SoulSilver": "Routes 16 , 17 , and 18 Celadon City ( Surfing ) Safari Zone (tall grass in Marshland, default Morning Day ; Surfing in Marshland, default)",
+            "Pal Park": "Field",
+            "Pokéwalker": "Town Outskirts"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Castelia Sewers (walking, surfing / fishing Spring Summer )",
+            "White 2": "Castelia Sewers (walking, surfing / fishing Spring Summer )",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Breed Muk",
+            "Y": "Breed Muk",
+            "Omega Ruby": "Fiery Path",
+            "Alpha Sapphire": "Fiery Path"
+        },
+        "Generation VII": {
+            "Sun": "Trainers' School , Hau'oli City , Malie City ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Moon": "Trainers' School , Hau'oli City , Malie City ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Sun": "Trainers' School , Hau'oli City , Malie City ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Moon": "Trainers' School , Hau'oli City , Malie City ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Let's Go Pikachu": "Pokémon Mansion , Power Plant ( Kantonian Form ) Trade Kantonian Grimer in Cinnabar Island ( Alolan Form )",
+            "Let's Go Eevee": "Trade"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 212 ( Poké Radar ) ( Kantonian Form ) Grand Underground - Swampy Cave , Dazzling Cave , Stargleam Cavern , Bogsunk Cavern (After obtaining the National Pokédex ) ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Shining Pearl": "Route 212 ( Poké Radar ) ( Kantonian Form ) Grand Underground - Swampy Cave , Dazzling Cave , Stargleam Cavern , Bogsunk Cavern (After obtaining the National Pokédex ) ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Cortondo ( Kantonian Form ) East Province: Area Two ( Kantonian Form ) West Province: Area Two ( Kantonian Form ) Tera Raid Battles ( 2★ ) ( Kantonian Form ) Trade ( Alolan Form )",
+            "Violet": "South Province: Cortondo ( Kantonian Form ) East Province: Area Two ( Kantonian Form ) West Province: Area Two ( Kantonian Form ) Tera Raid Battles ( 2★ ) ( Kantonian Form ) Trade ( Alolan Form )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth ( Alolan Form ) Tera Raid Battles ( 3★ ) ( Alolan Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Grimer",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Grimer",
+            "to": "Muk",
+            "method": [
+                "Level 38"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "name": "Steenee",
+    "pokedex_number": "#0762",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Leaf Guard",
+        "Oblivious",
+        "Sweet Veil"
+    ],
+    "stats": {
+        "HP": 52,
+        "Attack": 40,
+        "Defense": 48,
+        "Sp. Atk": 40,
+        "Sp. Def": 48,
+        "Speed": 62,
+        "Total": 290
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "The sepals on its head developed to protect its body. These are quite hard, so even if pecked by bird Pokémon, this Pokémon is totally fine.",
+            "Moon": "This Pokémon is always bouncing around energetically. Other Pokémon are attracted by its lively appearance and pleasant aroma.",
+            "Ultra Sun": "It's protected by its hard sepals, so it plays with bird Pokémon without worry. They peck it relentlessly, but it doesn't care.",
+            "Ultra Moon": "It bounces around, swinging the sepals on its head with abandon. They're quite painful when they smack you!"
+        },
+        "Generation VIII": {
+            "Sword": "As it twirls like a dancer, a sweet smell spreads out around it. Anyone who inhales the scent will feel a surge of happiness.",
+            "Shield": "Any Corvisquire that pecks at this Pokémon will be greeted with a smack from its sepals followed by a sharp kick."
+        },
+        "Generation IX": {
+            "Scarlet": "Steenee spreads a sweet scent that makes others feel invigorated. This same scent is popular for antiperspirants.",
+            "Violet": "Steenee bounces energetically through forests. If the rind that peels off its body is pulverized, it can be used to treat stomach pains."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Trade Granbull in Seafolk Village",
+            "Moon": "Trade Granbull in Seafolk Village",
+            "Ultra Sun": "Lush Jungle",
+            "Ultra Moon": "Lush Jungle",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Axew's Eye Dappled Grove , Giant's Mirror ( Max Raid Battle )",
+            "Shield": "Axew's Eye Dappled Grove , Giant's Mirror ( Max Raid Battle )",
+            "Expansion Pass": "Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Area One , Area Two West Province: Area Three Tera Raid Battles ( 3★ )",
+            "Violet": "East Province: Area One , Area Two West Province: Area Three Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Bounsweet",
+            "to": "Steenee",
+            "method": [
+                "Level 18"
+            ]
+        },
+        {
+            "from": "Steenee",
+            "to": "Tsareena",
+            "method": [
+                "Level up (knowing Stomp)"
+            ]
+        }
+    ]
+}

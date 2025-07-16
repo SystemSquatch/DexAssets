@@ -1,0 +1,123 @@
+{
+    "name": "Silcoon",
+    "pokedex_number": "#0266",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Shed Skin"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 35,
+        "Defense": 55,
+        "Sp. Atk": 25,
+        "Sp. Def": 25,
+        "Speed": 15,
+        "Total": 205
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Silcoon tethers itself to a tree branch using silk to keep from falling. There, this Pok é mon hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",
+            "Sapphire": "Silcoon was thought to endure hunger and not consume anything before its evolution. However, it is now thought that this Pok é mon slakes its thirst by drinking rainwater that collects on its silk.",
+            "Emerald": "It prepares for evolution using the energy it stored while it was a Wurmple . It keeps watch over the surroundings with its two eyes.",
+            "FireRed": "It conserves its energy by moving as little as possible. It awaits evolution while drinking only a little rainwater.",
+            "LeafGreen": "It conserves its energy by moving as little as possible. It awaits evolution while drinking only a little rainwater."
+        },
+        "Generation IV": {
+            "Diamond": "It anchors itself by wrapping twigs with the silk from its body. It motionlessly awaits evolution.",
+            "Pearl": "It drinks dew that collects on its silk and waits for evolution. Its hard cocoon repels attacks.",
+            "Platinum": "It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.",
+            "HeartGold": "Having wrapped silk around the branches of a tree, it quiescently awaits evolution.",
+            "SoulSilver": "Having wrapped silk around the branches of a tree, it quiescently awaits evolution."
+        },
+        "Generation V": {
+            "Black": "It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.",
+            "White": "It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.",
+            "Black 2": "It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.",
+            "White 2": "It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution."
+        },
+        "Generation VI": {
+            "X": "It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.",
+            "Y": "It drinks dew that collects on its silk and waits for evolution. Its hard cocoon repels attacks.",
+            "Omega Ruby": "Silcoon tethers itself to a tree branch using silk to keep from falling. There, this Pokémon hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",
+            "Alpha Sapphire": "Silcoon was thought to endure hunger and not consume anything before its evolution. However, it is now thought that this Pokémon slakes its thirst by drinking rainwater that collects on its silk."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It anchors itself by wrapping twigs with the silk from its body. It motionlessly awaits evolution.",
+            "Shining Pearl": "It drinks dew that collects on its silk while it waits for evolution. Its hard cocoon repels attacks.",
+            "Legends: Arceus": "Wraps itself in thin strings of silk while it stores energy for evolution. It can't extend its limbs and its movement is slow, but its eyes keep a sharp lookout—Silcoon is always on guard."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Petalburg Woods",
+            "Sapphire": "Petalburg Woods",
+            "Emerald": "Petalburg Woods",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Eterna Forest Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "Pearl": "Evolve Wurmple",
+            "Platinum": "Route 205 , Eterna Forest",
+            "HeartGold": "National Park ( Bug-Catching Contest ) Th",
+            "SoulSilver": "National Park ( Bug-Catching Contest ) Th",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Wurmple",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Wurmple",
+            "Y": "Evolve Wurmple",
+            "Omega Ruby": "Petalburg Woods",
+            "Alpha Sapphire": "Petalburg Woods"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Eterna Forest Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees ) Grand Underground - Grassland Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern",
+            "Shining Pearl": "Evolve Wurmple",
+            "Legends: Arceus": "Obsidian Fieldlands : Floaro Gardens Day , Horseshoe Plains Day , The Heartwood Day , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Wurmple",
+            "to": "Silcoon",
+            "method": [
+                "Level 7"
+            ]
+        },
+        {
+            "from": "Silcoon",
+            "to": "Beautifly",
+            "method": [
+                "Level 10"
+            ]
+        }
+    ]
+}

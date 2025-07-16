@@ -1,0 +1,100 @@
+{
+    "name": "Mime Jr.",
+    "pokedex_number": "#0439",
+    "types": [
+        "Psychic",
+        "Fairy"
+    ],
+    "abilities": [
+        "Soundproof",
+        "Filter",
+        "Technician"
+    ],
+    "stats": {
+        "HP": 20,
+        "Attack": 25,
+        "Defense": 45,
+        "Sp. Atk": 70,
+        "Sp. Def": 90,
+        "Speed": 60,
+        "Total": 310
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon.",
+            "Pearl": "It likes places where people gather. It mimics foes to confuse them, then makes its getaway.",
+            "Platinum": "It mimics the expressions and motions of those it sees to understand the feelings of others.",
+            "HeartGold": "In an attempt to confuse its enemy, it mimics the enemy's movements. Then it wastes no time in making itself scarce!",
+            "SoulSilver": "In an attempt to confuse its enemy, it mimics the enemy's movements. Then it wastes no time in making itself scarce!"
+        },
+        "Generation V": {
+            "Black": "It mimics the expressions and motions of those it sees to understand the feelings of others.",
+            "White": "It mimics the expressions and motions of those it sees to understand the feelings of others.",
+            "Black 2": "It mimics the expressions and motions of those it sees to understand the feelings of others.",
+            "White 2": "It mimics the expressions and motions of those it sees to understand the feelings of others."
+        },
+        "Generation VI": {
+            "X": "In an attempt to confuse its enemy, it mimics the enemy's movements. Then it wastes no time in making itself scarce!",
+            "Y": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon.",
+            "Omega Ruby": "In an attempt to confuse its enemy, it mimics the enemy's movements. Then it wastes no time in making itself scarce!",
+            "Alpha Sapphire": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It does its absolute best to mimic the movements and expressions of its opponents, but it's still not very good at it.",
+            "Ultra Moon": "When this gifted mimic surprises an opponent, Mime Jr. feels so happy that it ends up forgetting it was imitating something."
+        },
+        "Generation VIII": {
+            "Sword": "It mimics everyone it sees, but it puts extra effort into copying the graceful dance steps of Mr. Rime as practice.",
+            "Shield": "It looks for a Mr. Rime that's a good dancer and carefully copies the Mr. Rime's steps like an apprentice.",
+            "Brilliant Diamond": "It habitually mimics foes. The mimicked foe is said to be unable to look away from Mime Jr.",
+            "Shining Pearl": "It likes places where people gather. It mimics foes to confuse them, then makes its getaway.",
+            "Legends: Arceus": "Known to turn up in bustling marketplaces now and again. It mimics people much as a child would, then watches how they react, eyes sparkling."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 209 and 210 , Trophy Garden",
+            "Pearl": "Trophy Garden",
+            "Platinum": "Trophy Garden",
+            "HeartGold": "Breed Mr. Mime holding an Odd Incense",
+            "SoulSilver": "Breed Mr. Mime holding an Odd Incense",
+            "Pokéwalker": "Sinnoh Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Trade",
+            "White 2": "Breed Mr. Mime holding an Odd Incense"
+        },
+        "Generation VI": {
+            "X": "Reflection Cave ( Horde Encounter )",
+            "Y": "Reflection Cave ( Horde Encounter )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Hau'oli City",
+            "Ultra Moon": "Hau'oli City",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields ( Wanderer ) Bridge Field , Hammerlocke Hills , Lake of Outrage , Motostoke Riverbank , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Rolling Fields ( Wanderer ) Bridge Field , Hammerlocke Hills , Lake of Outrage , Motostoke Riverbank , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Slippery Slope , Frostpoint Field , Giant's Bed , Old Cemetery , Snowslide Slope , Giant's Foot , Frigid Sea , Three-Point Pass , Ballimere Lake Snowslide Slope , Path to the Peak , Giant's Bed , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Routes 209 and 210 , Trophy Garden",
+            "Shining Pearl": "Trophy Garden",
+            "Legends: Arceus": "Obsidian Fieldlands : Horseshoe Plains , Sandgem Flats , massive mass outbreaks Coronet Highlands : massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

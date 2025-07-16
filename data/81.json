@@ -1,0 +1,163 @@
+{
+    "name": "Magnemite",
+    "pokedex_number": "#0081",
+    "types": [
+        "Electric",
+        "Steel"
+    ],
+    "abilities": [
+        "Magnet Pull",
+        "Sturdy",
+        "Analytic"
+    ],
+    "stats": {
+        "HP": 25,
+        "Attack": 35,
+        "Defense": 70,
+        "Sp. Atk": 95,
+        "Sp. Def": 55,
+        "Speed": 45,
+        "Total": 325
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Uses anti-gravity to stay suspended. Appears without warning and uses Thunder Wave and similar moves.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Uses anti-gravity to stay suspended. Appears without warning and uses Thunder Wave and similar moves.",
+            "Yellow": "It is born with the ability to defy gravity. It floats in air on powerful electromagnetic waves.",
+            "Stadium": "Appears as if out of nowhere. It floats using anti-gravity and discharges electricity from two side-mounted units."
+        },
+        "Generation II": {
+            "Gold": "It is attracted by electromagnetic waves. It may approach trainers if they are using their Pok é gear .",
+            "Silver": "The units at the sides of its body generate anti-gravity energy to keep it aloft in the air.",
+            "Crystal": "The electricity emitted by the units on each side of its body cause it to become a strong magnet.",
+            "Stadium 2": "It is attracted by electromagnetic waves. It may approach trainers if they are using their POK é GEAR . (Pokémon Red, Silver, or Crystal inserted) The units at the sides of its body generate anti-gravity energy to keep it aloft in the air. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pok é mon clinging to the breaker box.",
+            "Sapphire": "Magnemite floats in the air by emitting electromagnetic waves from the units at its sides. These waves block gravity. This Pok é mon becomes incapable of flight if its internal electrical supply is depleted.",
+            "Emerald": "The units at its sides are extremely powerful magnets. They generate enough magnetism to draw in iron objects from over 300 feet away.",
+            "FireRed": "It moves while constantly hovering. It discharges Thunder Wave and so on from the units at its sides.",
+            "LeafGreen": "Uses antigravity to stay suspended. Appears without warning and uses Thunder Wave and similar moves."
+        },
+        "Generation IV": {
+            "Diamond": "The units at its sides generate electromagnetic waves that keep it airborne. It feeds on electricity.",
+            "Pearl": "The units at its sides generate electromagnetic waves that keep it airborne. It feeds on electricity.",
+            "Platinum": "The faster the units at its sides rotate, the greater the magnetic force they generate.",
+            "HeartGold": "It is attracted by electromagnetic waves. It may approach Trainers if they are using their Pokégear.",
+            "SoulSilver": "The units at the sides of its body generate antigravity energy to keep it aloft in the air."
+        },
+        "Generation V": {
+            "Black": "The faster the units at its sides rotate, the greater the magnetic force they generate.",
+            "White": "The faster the units at its sides rotate, the greater the magnetic force they generate.",
+            "Black 2": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
+            "White 2": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float."
+        },
+        "Generation VI": {
+            "X": "The units at the sides of its body generate antigravity energy to keep it aloft in the air.",
+            "Y": "It moves while constantly hovering. It discharges Thunder Wave and so on from the units at its sides.",
+            "Omega Ruby": "Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box.",
+            "Alpha Sapphire": "Magnemite floats in the air by emitting electromagnetic waves from the units at its sides. These waves block gravity. This Pokémon becomes incapable of flight if its internal electrical supply is depleted."
+        },
+        "Generation VII": {
+            "Sun": "They gather in places where electricity is available. They can be found clinging to the steel towers used to support power lines.",
+            "Moon": "It sends out electromagnetic waves, which let it float through the air. Touching it while it's eating electricity will give you a full-body shock.",
+            "Ultra Sun": "It's frequently the cause of power outages, which is why some power plants send out electrical signals that it can't stand.",
+            "Ultra Moon": "Perhaps because electrical lines are often buried these days, the number of Magnemite attacks on power plants has increased.",
+            "Let's Go Pikachu": "It is hatched with the ability to defy gravity. It floats while emitting powerful electromagnetic waves.",
+            "Let's Go Eevee": "It is hatched with the ability to defy gravity. It floats while emitting powerful electromagnetic waves."
+        },
+        "Generation VIII": {
+            "Sword": "At times, Magnemite runs out of electricity and ends up on the ground. If you give batteries to a grounded Magnemite, it'll start moving again.",
+            "Shield": "It subsists on electricity. As Magnemite flies, it emits electromagnetic waves from the units on each side of its body.",
+            "Brilliant Diamond": "The units at its sides generate electromagnetic waves that keep it airborne. It feeds on electricity.",
+            "Shining Pearl": "The units at its sides generate electromagnetic waves that keep it airborne. It feeds on electricity.",
+            "Legends: Arceus": "A bizarre Pokémon with but a single eye embedded in an iron sphere. I suspect this creature levitates due to the magnetism it emits from its arms, which resemble horseshoe-shaped magnets."
+        },
+        "Generation IX": {
+            "Scarlet": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
+            "Violet": "It moves while constantly hovering. It discharges electromagnetic waves and so on from the units at its sides."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Power Plant",
+            "Blue": "Power Plant",
+            "Blue (Japan)": "Power Plant",
+            "Yellow": "Route 10 , Power Plant"
+        },
+        "Generation II": {
+            "Gold": "Routes 6 , 11 , 38 , and 39",
+            "Silver": "Routes 6 , 11 , 38 , and 39",
+            "Crystal": "Routes 6 , 11 , 38 , and 39"
+        },
+        "Generation III": {
+            "Ruby": "New Mauville",
+            "Sapphire": "New Mauville",
+            "Emerald": "New Mauville",
+            "FireRed": "Power Plant",
+            "LeafGreen": "Power Plant",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Fuego Ironworks ( Swarm )",
+            "Pearl": "Fuego Ironworks ( Swarm )",
+            "Platinum": "Route 222 , Fuego Ironworks",
+            "HeartGold": "Routes 6 , 11 , 38 , and 39 Safari Zone (Peak, default; Wasteland, default)",
+            "SoulSilver": "Routes 6 , 11 , 38 , and 39 Safari Zone (Peak, default; Wasteland, default)",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Suburban Area"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest *",
+            "Black 2": "Virbank Complex",
+            "White 2": "Virbank Complex",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Breed Magneton or Magnezone",
+            "Y": "Breed Magneton or Magnezone",
+            "Omega Ruby": "Route 110 ( Horde Encounter ) New Mauville",
+            "Alpha Sapphire": "Route 110 ( Horde Encounter ) New Mauville"
+        },
+        "Generation VII": {
+            "Sun": "Trainers' School , Hau'oli City , Malie City , Poké Pelago",
+            "Moon": "Trainers' School , Hau'oli City , Malie City , Poké Pelago",
+            "Ultra Sun": "Trainers' School , Hau'oli City , Malie City",
+            "Ultra Moon": "Trainers' School , Hau'oli City , Malie City",
+            "Let's Go Pikachu": "Power Plant",
+            "Let's Go Eevee": "Power Plant"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Challenge Beach Fields of Honor , Forest of Focus , Challenge Beach , Brawlers' Cave , Courageous Cavern , Stepping-Stone Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Fuego Ironworks ( Swarm ) Grand Underground - Spacious Cave , Whiteout Cave , Icy Cave , Glacial Cavern",
+            "Shining Pearl": "Fuego Ironworks ( Swarm ) Grand Underground - Spacious Cave , Whiteout Cave , Icy Cave , Glacial Cavern",
+            "Legends: Arceus": "Cobalt Coastlands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Area Two , Area Three Tera Raid Battles ( 2★ )",
+            "Violet": "East Province: Area Two , Area Three Tera Raid Battles ( 2★ )",
+            "The Hidden Treasure of Area Zero": "Canyon Biome , Chargestone Cavern , Polar Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Magnemite",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Magnemite",
+            "to": "Magneton",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

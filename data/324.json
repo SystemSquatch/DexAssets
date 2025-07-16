@@ -1,0 +1,122 @@
+{
+    "name": "Torkoal",
+    "pokedex_number": "#0324",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "White Smoke",
+        "Drought",
+        "Shell Armor"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 140,
+        "Sp. Atk": 85,
+        "Sp. Def": 70,
+        "Speed": 20,
+        "Total": 470
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Torkoal digs through mountains in search of coal. If it finds some, it fills hollow spaces on its shell with the coal and burns it. If it is attacked, this Pok é mon spouts thick black smoke to beat a retreat.",
+            "Sapphire": "Torkoal generates energy by burning coal. It grows weaker as the fire dies down. When it is preparing for battle, this Pok é mon burns more coal.",
+            "Emerald": "It battles using energy it gets from burning coal. When loosing smoke from its nostrils, it lets off a sound that is similar to a locomotive's horn.",
+            "FireRed": "It burns coal inside its shell. If it is attacked, it belches thick, black smoke and flees.",
+            "LeafGreen": "It burns coal inside its shell. If it is attacked, it belches thick, black smoke and flees."
+        },
+        "Generation IV": {
+            "Diamond": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+            "Pearl": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+            "Platinum": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+            "HeartGold": "You find abandoned coal mines full of them. They dig tirelessly in search of coal.",
+            "SoulSilver": "You find abandoned coal mines full of them. They dig tirelessly in search of coal."
+        },
+        "Generation V": {
+            "Black": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+            "White": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+            "Black 2": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+            "White 2": "It burns coal inside its shell for energy. It blows out black soot if it is endangered."
+        },
+        "Generation VI": {
+            "X": "You find abandoned coal mines full of them. They dig tirelessly in search of coal.",
+            "Y": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+            "Omega Ruby": "Torkoal digs through mountains in search of coal. If it finds some, it fills hollow spaces on its shell with the coal and burns it. If it is attacked, this Pokémon spouts thick black smoke to beat a retreat.",
+            "Alpha Sapphire": "Torkoal generates energy by burning coal. It grows weaker as the fire dies down. When it is preparing for battle, this Pokémon burns more coal."
+        },
+        "Generation VII": {
+            "Sun": "Coal is the source of Torkoal's energy. Large amounts of coal can be found in the mountains where they live.",
+            "Moon": "If the fire burning within its shell goes out, it will die. Those who wish to raise one in their home must always keep something flammable at hand.",
+            "Ultra Sun": "You can tell how it's feeling by the smoke spouting from its shell. Tremendous velocity is a sign of good health.",
+            "Ultra Moon": "It burns coal to produce energy. When it has burned through all of its coal, it becomes unable to move."
+        },
+        "Generation VIII": {
+            "Sword": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+            "Shield": "You find abandoned coal mines full of them. They dig tirelessly in search of coal.",
+            "Brilliant Diamond": "It burns coal inside its shell for energy. It blows out black soot if it is in a tough situation.",
+            "Shining Pearl": "It burns coal inside its shell for energy. It blows out black soot if it is in a tough situation."
+        },
+        "Generation IX": {
+            "Scarlet": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+            "Violet": "Coal is the source of Torkoal's energy. Large amounts of coal can be found in the mountains where they live."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Fiery Path",
+            "Sapphire": "Fiery Path",
+            "Emerald": "Fiery Path , Magma Hideout",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 227 , Stark Mountain ( Poké Radar )",
+            "Pearl": "Route 227 , Stark Mountain ( Poké Radar )",
+            "Platinum": "Route 227 , Stark Mountain ( Poké Radar )",
+            "HeartGold": "Safari Zone (Savannah with 35 Peak points)",
+            "SoulSilver": "Safari Zone (Savannah with 35 Peak points)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer or Pokémon Dream World",
+            "White": "Poké Transfer or Pokémon Dream World",
+            "Black 2": "Poké Transfer or Pokémon Dream World",
+            "White 2": "Poké Transfer or Pokémon Dream World",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Route 18",
+            "Y": "Route 18",
+            "Omega Ruby": "Fiery Path",
+            "Alpha Sapphire": "Fiery Path"
+        },
+        "Generation VII": {
+            "Sun": "Route 12 , Blush Mountain",
+            "Moon": "Route 12 , Blush Mountain",
+            "Ultra Sun": "Route 12 , Blush Mountain",
+            "Ultra Moon": "Route 12 , Blush Mountain",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 6 , Motostoke Riverbank , Giant's Cap , Giant's Mirror Dusty Bowl , Giant's Cap , Hammerlocke Hills , Lake of Outrage , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 6 , Motostoke Riverbank , Giant's Cap , Giant's Mirror Dusty Bowl , Giant's Cap , Hammerlocke Hills , Lake of Outrage , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Warm-Up Tunnel , Potbottom Desert Fields of Honor , Loop Lagoon ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Route 227 , Stark Mountain ( Poké Radar ) Grand Underground - Sandsear Cave , Volcanic Cave , Typhlo Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 227 , Stark Mountain ( Poké Radar ) Grand Underground - Sandsear Cave , Volcanic Cave , Typhlo Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Area Three West Province: Area One ( Normal Tera Type ) Tera Raid Battles ( 4★ , 6★ )",
+            "Violet": "East Province: Area Three West Province: Area One ( Normal Tera Type ) Tera Raid Battles ( 4★ , 6★ )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth"
+        }
+    },
+    "evolution": []
+}

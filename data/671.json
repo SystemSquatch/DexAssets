@@ -1,0 +1,76 @@
+{
+    "name": "Florges",
+    "pokedex_number": "#0671",
+    "types": [
+        "Fairy",
+        "Unknown"
+    ],
+    "abilities": [
+        "Flower Veil",
+        "Symbiosis"
+    ],
+    "stats": {
+        "HP": 78,
+        "Attack": 65,
+        "Defense": 68,
+        "Sp. Atk": 112,
+        "Sp. Def": 154,
+        "Speed": 75,
+        "Total": 552
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "It claims exquisite flower gardens as its territory, and it obtains power from basking in the energy emitted by flowering plants.",
+            "Y": "In times long past, governors of castles would invite Florges to create flower gardens to embellish the castle domains.",
+            "Omega Ruby": "It claims exquisite flower gardens as its territory, and it obtains power from basking in the energy emitted by flowering plants.",
+            "Alpha Sapphire": "In times long past, governors of castles would invite Florges to create flower gardens to embellish the castle domains."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It controls the flowers it grows. The petal blizzards that Florges triggers are overwhelming in their beauty and power.",
+            "Ultra Moon": "Its life can span several hundred years. It's said to devote its entire life to protecting gardens."
+        },
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "A flower garden made by a white-flowered Florges will be beautifully decorated with flowering plants of many different colors.",
+            "Violet": "A Florges adorned with white flowers can sync with the wavelengths of various colors to draw forth their power."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Evolve Floette",
+            "Y": "Evolve Floette",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Floette",
+            "Ultra Moon": "Evolve Floette",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Area Three ( All Flowers ) Tera Raid Battles ( 5★ ) ( Red Flower )",
+            "Violet": "North Province: Area Three ( All Flowers ) Tera Raid Battles ( 5★ ) ( Red Flower )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Floette",
+            "to": "Florges",
+            "method": [
+                "Use Shiny Stone"
+            ]
+        }
+    ]
+}

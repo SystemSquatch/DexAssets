@@ -1,0 +1,63 @@
+{
+    "name": "Scorbunny",
+    "pokedex_number": "#0813",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Blaze",
+        "Libero"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 71,
+        "Defense": 40,
+        "Sp. Atk": 40,
+        "Sp. Def": 40,
+        "Speed": 69,
+        "Total": 310
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "A warm-up of running around gets fire energy coursing through this Pokémon's body. Once that happens, it's ready to fight at full power.",
+            "Shield": "It has special pads on the backs of its feet, and one on its nose. Once it's raring to fight, these pads radiate tremendous heat."
+        },
+        "Generation IX": {
+            "Scarlet": "Once its body has heated up, Scorbunny can use the full extent of its power. That’s why it does warm-up exercises.",
+            "Violet": "Fire energy gathers in the pads of its feet, raising their temperature. Once hot, Scorbunny’s footpads can deal heavy damage to opponents."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "First partner Pokémon from Leon in Postwick",
+            "Shield": "First partner Pokémon from Leon in Postwick",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Chargestone Cavern , Polar Biome (after boosting biodiversity in the Polar Biome)"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Scorbunny",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Scorbunny",
+            "to": "Raboot",
+            "method": [
+                "Level 16"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "name": "Jumpluff",
+    "pokedex_number": "#0189",
+    "types": [
+        "Grass",
+        "Flying"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Leaf Guard",
+        "Infiltrator"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 55,
+        "Defense": 70,
+        "Sp. Atk": 55,
+        "Sp. Def": 85,
+        "Speed": 110,
+        "Total": 450
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Once it catches the wind, it deftly controls its cotton-puff spores to float, even around the world.",
+            "Silver": "Drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring.",
+            "Crystal": "Even in the fiercest wind, it can control its fluff to make its way to any place in the world it wants.",
+            "Stadium 2": "Once it catches the wind, it deftly controls its cotton-puff spores to float, even around the world. (Pokémon Red, Silver, or Crystal inserted) Drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pok é mon descends to the ground when it encounters cold air while it is floating.",
+            "Sapphire": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pok é mon descends to the ground when it encounters cold air while it is floating.",
+            "Emerald": "Jumpluff ride warm southern winds to cross the sea and fly to foreign lands. This Pok é mon lands when it encounters cold air while it is floating.",
+            "FireRed": "It drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring.",
+            "LeafGreen": "Once it catches the wind, it deftly controls its cotton-puff spores to float, even around the world."
+        },
+        "Generation IV": {
+            "Diamond": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
+            "Pearl": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
+            "Platinum": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
+            "HeartGold": "Once it catches the wind, it deftly controls its cotton-puff spores--it can even float around the world.",
+            "SoulSilver": "Drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring."
+        },
+        "Generation V": {
+            "Black": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
+            "White": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
+            "Black 2": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
+            "White 2": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes."
+        },
+        "Generation VI": {
+            "X": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
+            "Y": "Even in the fiercest wind, it can control its fluff to make its way to any place in the world it wants.",
+            "Omega Ruby": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating.",
+            "Alpha Sapphire": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
+            "Shining Pearl": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes."
+        },
+        "Generation IX": {
+            "Scarlet": "Jumpluff travels on seasonal winds. Once its cotton spores run out, its journey ends, as does its life.",
+            "Violet": "Beware its cotton spores. If you accidentally breathe them in, you'll be racked with coughs and itchiness."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Skiploom",
+            "Silver": "Evolve Skiploom",
+            "Crystal": "Evolve Skiploom"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Skiploom",
+            "LeafGreen": "Evolve Skiploom",
+            "Colosseum": "Evolve Skiploom",
+            "XD": "Evolve Skiploom"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Skiploom",
+            "Pearl": "Evolve Skiploom",
+            "Platinum": "Evolve Skiploom",
+            "HeartGold": "Safari Zone (tall grass in Marshland with 5 Plains points; Surfing in Marshland with 10 Waterside points)",
+            "SoulSilver": "Safari Zone (tall grass in Marshland with 5 Plains points; Surfing in Marshland with 10 Waterside points)",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Skiploom",
+            "Black 2": "Evolve Skiploom",
+            "White 2": "Evolve Skiploom"
+        },
+        "Generation VI": {
+            "X": "Evolve Skiploom",
+            "Y": "Evolve Skiploom",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Skiploom",
+            "Shining Pearl": "Evolve Skiploom",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six West Province: Area Three North Province: Area One , Area Two , Area Three Area Zero",
+            "Violet": "South Province: Area Six West Province: Area Three North Province: Area One , Area Two , Area Three Area Zero"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Skiploom",
+            "to": "Jumpluff",
+            "method": [
+                "Level 27"
+            ]
+        }
+    ]
+}

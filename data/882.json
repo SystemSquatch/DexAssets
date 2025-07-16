@@ -1,0 +1,46 @@
+{
+    "name": "Dracovish",
+    "pokedex_number": "#0882",
+    "types": [
+        "Water",
+        "Dragon"
+    ],
+    "abilities": [
+        "Water Absorb",
+        "Strong Jaw",
+        "Sand Rush"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 90,
+        "Defense": 100,
+        "Sp. Atk": 70,
+        "Sp. Def": 80,
+        "Speed": 75,
+        "Total": 505
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Powerful legs and jaws made it the apex predator of its time. Its own overhunting of its prey was what drove it to extinction.",
+            "Shield": "Its mighty legs are capable of running at speeds exceeding 40 mph , but this Pokémon can't breathe unless it's underwater."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Revive from Fossilized Fish and Fossilized Drake by Cara Liss on Route 6",
+            "Shield": "Revive from Fossilized Fish and Fossilized Drake by Cara Liss on Route 6",
+            "Expansion Pass": "Snowslide Slope ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Klefki",
+    "pokedex_number": "#0707",
+    "types": [
+        "Steel",
+        "Fairy"
+    ],
+    "abilities": [
+        "Prankster",
+        "Magician"
+    ],
+    "stats": {
+        "HP": 57,
+        "Attack": 80,
+        "Defense": 91,
+        "Sp. Atk": 80,
+        "Sp. Def": 87,
+        "Speed": 75,
+        "Total": 470
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "These key collectors threaten any attackers by fiercely jingling their keys at them.",
+            "Y": "It never lets go of a key that it likes, so people give it the keys to vaults and safes as a way to prevent crime.",
+            "Omega Ruby": "These key collectors threaten any attackers by fiercely jingling their keys at them.",
+            "Alpha Sapphire": "It never lets go of a key that it likes, so people give it the keys to vaults and safes as a way to prevent crime."
+        },
+        "Generation VII": {
+            "Sun": "This even-tempered Pokémon has a habit of collecting keys. It will sneak into people's homes to steal their keys.",
+            "Moon": "It inserts its horn into chinks in metal, absorbing metal ions. For some reason, it collects keys.",
+            "Ultra Sun": "Although it's unclear why it collects keys, giving it a key makes Klefki very happy. However, it apparently only likes master keys.",
+            "Ultra Moon": "Long ago it lived in mines, but once the minerals that make up its diet became scarcer, Klefki began appearing in human settlements."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon is constantly collecting keys. Entrust a Klefki with important keys, and the Pokémon will protect them no matter what.",
+            "Shield": "Klefki sucks in metal ions with the horn topping its head. It seems this Pokémon loves keys so much that its head needed to look like one, too."
+        },
+        "Generation IX": {
+            "Scarlet": "Once it absorbs a key’s metal ions, it discards the key without a second thought. However, it will hang on to keys it favors for decades.",
+            "Violet": "In the past, noble families entrusted their vault keys to a Klefki. They passed the Klefki down through the generations, taking good care of it."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Routes 15 and 16 , Lost Hotel , Friend Safari ( Steel )",
+            "Y": "Routes 15 and 16 , Lost Hotel , Friend Safari ( Steel )",
+            "Omega Ruby": "Route 113 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 113 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Thrifty Megamart (Abandoned Site) , Poké Pelago *",
+            "Moon": "Thrifty Megamart (Abandoned Site) , Poké Pelago *",
+            "Ultra Sun": "Thrifty Megamart (Abandoned Site)",
+            "Ultra Moon": "Thrifty Megamart (Abandoned Site)",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Fields of Honor Fields of Honor ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six North Province: Glaseado Mountain",
+            "Violet": "South Province: Area Six North Province: Glaseado Mountain"
+        }
+    },
+    "evolution": []
+}

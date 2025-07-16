@@ -1,0 +1,93 @@
+{
+    "name": "Heatran",
+    "pokedex_number": "#0485",
+    "types": [
+        "Fire",
+        "Steel"
+    ],
+    "abilities": [
+        "Flash Fire",
+        "Flame Body"
+    ],
+    "stats": {
+        "HP": 91,
+        "Attack": 90,
+        "Defense": 106,
+        "Sp. Atk": 130,
+        "Sp. Def": 106,
+        "Speed": 77,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+            "Pearl": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+            "Platinum": "Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.",
+            "HeartGold": "Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves.",
+            "SoulSilver": "Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves."
+        },
+        "Generation V": {
+            "Black": "Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.",
+            "White": "Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.",
+            "Black 2": "Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.",
+            "White 2": "Its body is made of rugged steel. However, it is partially melted in spots because of its own heat."
+        },
+        "Generation VI": {
+            "X": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+            "Y": "Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves.",
+            "Omega Ruby": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+            "Alpha Sapphire": "Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+            "Shining Pearl": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+            "Legends: Arceus": "Stories tell of this Pokémon being birthed from the boiling magma within Mount Coronet. Its molten-steel body holds many mysteries."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Stark Mountain ( Only one )",
+            "Pearl": "Stark Mountain ( Only one )",
+            "Platinum": "Stark Mountain ( Only one ) *",
+            "HeartGold": "Trade",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Reversal Mountain (requires Magma Stone ) ( Only one )",
+            "White 2": "Reversal Mountain (requires Magma Stone ) ( Only one )"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Scorched Slab ( Only one )",
+            "Alpha Sapphire": "Scorched Slab ( Only one )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Cave World ) ( Only one )",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one )",
+            "Brilliant Diamond": "Stark Mountain ( Only one )",
+            "Shining Pearl": "Stark Mountain ( Only one )",
+            "Legends: Arceus": "Cobalt Coastlands : Lava Dome Sanctum ( Only one )"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME",
+            "Violet": "Pokémon HOME"
+        }
+    },
+    "evolution": []
+}

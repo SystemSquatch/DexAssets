@@ -1,0 +1,153 @@
+{
+    "name": "Wooper",
+    "pokedex_number": "#0194",
+    "types": [
+        "Water",
+        "Ground"
+    ],
+    "abilities": [
+        "Damp",
+        "Water Absorb",
+        "Poison Point",
+        "Water Absorb",
+        "Unaware"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 45,
+        "Defense": 45,
+        "Sp. Atk": 25,
+        "Sp. Def": 25,
+        "Speed": 15,
+        "Total": 210
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "This Pok é mon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+            "Silver": "When it walks around on the ground, it coats its body with a slimy, poisonous film.",
+            "Crystal": "A mucous membrane covers its body. Touching it barehanded will cause a shooting pain.",
+            "Stadium 2": "This Pok é mon lives in cold water. It will leave the water to search for food when it gets cold outside. (Pokémon Red, Silver, or Crystal inserted) When it walks around on the ground, it coats its body with a slimy, poisonous film. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
+            "Sapphire": "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
+            "Emerald": "Wooper usually live in water but come out onto land seeking food occasionally. On land, they coat their bodies with a gooey, toxic film.",
+            "FireRed": "When it walks around on the ground, it coats its body with a slimy, poisonous film.",
+            "LeafGreen": "This Pok é mon lives in cold water. It will leave the water to search for food when it gets cold outside."
+        },
+        "Generation IV": {
+            "Diamond": "It lives in cold water, half burying itself in mud at the bottom to sleep.",
+            "Pearl": "When the temperature cools in the evening, they emerge from water to seek food along the shore.",
+            "Platinum": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+            "HeartGold": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+            "SoulSilver": "When it walks around on the ground, it coats its body with a slimy, poisonous film."
+        },
+        "Generation V": {
+            "Black": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+            "White": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+            "Black 2": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+            "White 2": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating."
+        },
+        "Generation VI": {
+            "X": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+            "Y": "When the temperature cools in the evening, they emerge from water to seek food along the shore.",
+            "Omega Ruby": "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
+            "Alpha Sapphire": "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+            "Shield": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+            "Brilliant Diamond": "It lives in cold water, half burying itself in mud at the bottom to sleep.",
+            "Shining Pearl": "When the temperature cools in the evening, they emerge from water to seek food along the shore."
+        },
+        "Generation IX": {
+            "Scarlet": "After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.",
+            "Violet": "It's dangerous for Wooper to travel alone. They line up in groups of three or four and help each other as they walk around the wetlands."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Route 32 Night Ruins of Alph , Union Cave ( Surfing )",
+            "Silver": "Route 32 Night Ruins of Alph , Union Cave ( Surfing )",
+            "Crystal": "Route 32 , Ruins of Alph , Union Cave Night Ruins of Alph , Union Cave ( Surfing )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Safari Zone extension",
+            "FireRed": "Four Island , Icefall Cave , Ruin Valley",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Cave Poké Spot"
+        },
+        "Generation IV": {
+            "Diamond": "Route 212 , Great Marsh",
+            "Pearl": "Route 212 , Great Marsh",
+            "Platinum": "Great Marsh",
+            "HeartGold": "Hatch Egg received from Primo in Violet City Route 32 , Cliff Edge Gate , Ruins of Alph , Union Cave Cliff Cave Morning Day Safari Zone (tall grass in Meadow, default Night and with 3 Waterside points; Surfing in Meadow, Marshland, or Wetland - default; tall grass in Marshland or Wetland - default Night )",
+            "SoulSilver": "Hatch Egg received from Primo in Violet City Route 32 , Cliff Edge Gate , Ruins of Alph , Union Cave Cliff Cave Morning Day Safari Zone (tall grass in Meadow, default Night and with 3 Waterside points; Surfing in Meadow, Marshland, or Wetland - default; tall grass in Marshland or Wetland - default Night )",
+            "Pal Park": "Pond",
+            "Pokéwalker": "Beautiful Beach"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest ( Surfing )",
+            "Black 2": "Breed Quagsire",
+            "White 2": "Breed Quagsire",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Ground )",
+            "Y": "Friend Safari ( Ground )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Quagsire",
+            "Ultra Moon": "Breed Quagsire",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "West Lake Axewell , South Lake Miloch , Giant's Seat , Giant's Cap Dusty Bowl , Rolling Fields , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "West Lake Axewell , South Lake Miloch , Giant's Seat , Giant's Cap Dusty Bowl , Rolling Fields , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Soothing Wetlands",
+            "Brilliant Diamond": "Route 212 , Great Marsh Grand Underground - Fountainspring Cave , Swampy Cave , Bogsunk Cavern (After obtaining the TM97 ( Defog ))",
+            "Shining Pearl": "Route 212 , Great Marsh Grand Underground - Fountainspring Cave , Swampy Cave , Bogsunk Cavern (After obtaining the TM97 ( Defog ))",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Four , Area Five , Area Six , Alfornada Cavern ( Paldean Form ) East Province: Area Three , Tagtree Thicket ( Paldean Form ) West Province: Area Three ( Paldean Form ) North Province: Area One , Glaseado Mountain ( Paldean Form ) Tera Raid Battles ( 1★ ) ( Paldean Form ) Trade Paldean Wooper in Cascarrafa ( Johtonian Form )",
+            "Violet": "South Province: Area One , Area Four , Area Five , Area Six , Alfornada Cavern ( Paldean Form ) East Province: Area Three , Tagtree Thicket ( Paldean Form ) West Province: Area Three ( Paldean Form ) North Province: Area One , Glaseado Mountain ( Paldean Form ) Tera Raid Battles ( 1★ ) ( Paldean Form ) Trade Paldean Wooper in Cascarrafa ( Johtonian Form )",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Reveler's Road , Mossfell Confluence , Fellhorn Gorge , Oni Mountain , Chilling Waterhead , Kitakami Wilds , Timeless Woods ( Johtonian Form ) Tera Raid Battles ( 1★ ) ( Johtonian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Wooper",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Wooper",
+            "to": "Quagsire",
+            "method": [
+                "Level 20"
+            ]
+        },
+        {
+            "from": "Wooper",
+            "to": "Clodsire",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

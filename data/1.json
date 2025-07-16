@@ -1,0 +1,155 @@
+{
+    "name": "Bulbasaur",
+    "pokedex_number": "#0001",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Chlorophyll"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 49,
+        "Defense": 49,
+        "Sp. Atk": 65,
+        "Sp. Def": 65,
+        "Speed": 45,
+        "Total": 318
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pok é mon .",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pok é mon .",
+            "Yellow": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
+            "Stadium": "The bulb-like pouch on its back grows larger as it ages. The pouch is filled with numerous seeds."
+        },
+        "Generation II": {
+            "Gold": "The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.",
+            "Silver": "It carries a seed on its back right from birth. As it grows older, the seed also grows larger.",
+            "Crystal": "While it is young, it uses the nutrients that are stored in the seeds on its back in order to grow.",
+            "Stadium 2": "The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows. (Pokémon Red, Silver, or Crystal inserted) It carries a seed on its back right from birth. As it grows older, the seed also grows larger. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+            "Sapphire": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+            "Emerald": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+            "FireRed": "There is a plant seed on its back right from the day this Pok é mon is born. The seed slowly grows larger.",
+            "LeafGreen": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pok é mon ."
+        },
+        "Generation IV": {
+            "Diamond": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+            "Pearl": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+            "Platinum": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+            "HeartGold": "The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.",
+            "SoulSilver": "It carries a seed on its back right from birth. As it grows older, the seed also grows larger."
+        },
+        "Generation V": {
+            "Black": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+            "White": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+            "Black 2": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+            "White 2": "For some time after its birth, it grows by gaining nourishment from the seed on its back."
+        },
+        "Generation VI": {
+            "X": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+            "Y": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+            "Omega Ruby": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+            "Alpha Sapphire": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
+            "Let's Go Eevee": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy."
+        },
+        "Generation VIII": {
+            "Sword": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+            "Shield": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
+            "Brilliant Diamond": "For some time after its birth, it grows by taking nourishment from the seed on its back.",
+            "Shining Pearl": "For some time after its birth, it grows by taking nourishment from the seed on its back."
+        },
+        "Generation IX": {
+            "Scarlet": "For some time after its birth, it uses the nutrients that are packed into the seed on its back in order to grow.",
+            "Violet": "It carries a seed on its back right from birth. As its body grows larger, the seed does too."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "First partner Pokémon from Professor Oak in Pallet Town",
+            "Blue": "First partner Pokémon from Professor Oak in Pallet Town",
+            "Blue (Japan)": "First partner Pokémon from Professor Oak in Pallet Town",
+            "Yellow": "Received from a girl in Cerulean City if the partner Pikachu 's friendship is 147 or higher"
+        },
+        "Generation II": {
+            "Gold": "Time Capsule , Event",
+            "Silver": "Time Capsule , Event",
+            "Crystal": "Time Capsule , Event"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "First partner Pokémon from Professor Oak in Pallet Town",
+            "LeafGreen": "First partner Pokémon from Professor Oak in Pallet Town",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Received from Professor Oak in Pallet Town after defeating Red",
+            "SoulSilver": "Received from Professor Oak in Pallet Town after defeating Red",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Global Link Event",
+            "White": "Global Link Event",
+            "Black 2": "Poké Transfer , Event",
+            "White 2": "Poké Transfer , Event"
+        },
+        "Generation VI": {
+            "X": "Received from Professor Sycamore in Lumiose City after defeating him",
+            "Y": "Received from Professor Sycamore in Lumiose City after defeating him",
+            "Omega Ruby": "Trade , Event",
+            "Alpha Sapphire": "Trade , Event"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 2 ( Island Scan ) Fr",
+            "Ultra Moon": "Route 2 ( Island Scan ) Fr",
+            "Let's Go Pikachu": "Viridian Forest Cerulean City ( Only one )",
+            "Let's Go Eevee": "Viridian Forest Cerulean City ( Only one )"
+        },
+        "Generation VIII": {
+            "Sword": "Wild Area News , Pokémon HOME Event Trade Version 1.2.0+",
+            "Shield": "Wild Area News , Pokémon HOME Event Trade Version 1.2.0+",
+            "Expansion Pass": "Master Dojo ( Only one ; Gigantamax Factor )",
+            "Brilliant Diamond": "Grand Underground - Grassland Cave , Sunlit Cavern , Swampy Cave , Riverbank Cave , Still-Water Cavern , Bogsunk Cavern (after obtaining the National Pokédex )",
+            "Shining Pearl": "Grand Underground - Grassland Cave , Sunlit Cavern , Swampy Cave , Riverbank Cave , Still-Water Cavern , Bogsunk Cavern (after obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth (after boosting biodiversity in the Coastal Biome)"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Bulbasaur",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Bulbasaur",
+            "to": "Ivysaur",
+            "method": [
+                "Level 16"
+            ]
+        }
+    ]
+}

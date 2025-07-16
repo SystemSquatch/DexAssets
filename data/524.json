@@ -1,0 +1,99 @@
+{
+    "name": "Roggenrola",
+    "pokedex_number": "#0524",
+    "types": [
+        "Rock",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sturdy",
+        "Weak Armor",
+        "Sand Force"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 75,
+        "Defense": 85,
+        "Sp. Atk": 25,
+        "Sp. Def": 25,
+        "Speed": 15,
+        "Total": 280
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
+            "White": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
+            "Black 2": "The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from.",
+            "White 2": "The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from."
+        },
+        "Generation VI": {
+            "X": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
+            "Y": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
+            "Omega Ruby": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
+            "Alpha Sapphire": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core."
+        },
+        "Generation VII": {
+            "Sun": "Born deep within the ground, it compares itself with similar species, such as Geodude and Carbink , to settle which has the hardest body.",
+            "Moon": "The hexagonal cavity is its ear. It walks in the direction of sounds it hears, but if the sounds cease, it panics and topples over.",
+            "Ultra Sun": "The hexagonal hole is its ear. Deep in that ear is an energy core, so if you stick your hand in there, Roggenrola will be very angry!",
+            "Ultra Moon": "It was found in a fissure in a layer of exposed rock. The material that makes up its body is dirt from several hundred years ago."
+        },
+        "Generation VIII": {
+            "Sword": "It's as hard as steel, but apparently a long soak in water will cause it to soften a bit.",
+            "Shield": "When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Wellspring Cave",
+            "White": "Wellspring Cave",
+            "Black 2": "Relic Passage",
+            "White 2": "Relic Passage"
+        },
+        "Generation VI": {
+            "X": "Reflection Cave",
+            "Y": "Reflection Cave",
+            "Omega Ruby": "Fiery Path ( hidden Pokémon * )",
+            "Alpha Sapphire": "Fiery Path ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Ten Carat Hill",
+            "Moon": "Ten Carat Hill",
+            "Ultra Sun": "Ten Carat Hill",
+            "Ultra Moon": "Ten Carat Hill",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Galar Mine , Motostoke Outskirts , Stony Wilderness , Rolling Fields Rolling Fields , Giant's Seat , Stony Wilderness , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Galar Mine , Motostoke Outskirts , Stony Wilderness , Rolling Fields Rolling Fields , Giant's Seat , Stony Wilderness , Dusty Bowl ( Max Raid Battle )",
+            "Expansion Pass": "Challenge Road Fields of Honor ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Roggenrola",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Roggenrola",
+            "to": "Boldore",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "name": "Chandelure",
+    "pokedex_number": "#0609",
+    "types": [
+        "Ghost",
+        "Fire"
+    ],
+    "abilities": [
+        "Flash Fire",
+        "Flame Body",
+        "Infiltrator",
+        "Shadow Tag"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 90,
+        "Sp. Atk": 145,
+        "Sp. Def": 90,
+        "Speed": 80,
+        "Total": 520
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It absorbs a spirit, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance.",
+            "White": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
+            "Black 2": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+            "White 2": "The spirits burned up in its ominous flame lose their way and wander this world forever."
+        },
+        "Generation VI": {
+            "X": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
+            "Y": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+            "Omega Ruby": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
+            "Alpha Sapphire": "The spirits burned up in its ominous flame lose their way and wander this world forever."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "This Pokémon haunts dilapidated mansions. It sways its arms to hypnotize opponents with the ominous dancing of its flames.",
+            "Shield": "In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence— or so it's said."
+        },
+        "Generation IX": {
+            "Scarlet": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+            "Violet": "It absorbs spirits, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Lampent",
+            "White": "Evolve Lampent",
+            "Black 2": "Evolve Lampent",
+            "White 2": "Evolve Lampent"
+        },
+        "Generation VI": {
+            "X": "Evolve Lampent",
+            "Y": "Evolve Lampent",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Lampent",
+            "Moon": "Evolve Lampent",
+            "Ultra Sun": "Evolve Lampent",
+            "Ultra Moon": "Evolve Lampent",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage ( Wanderer ) Dusty Bowl , Giant's Cap , Hammerlocke Hills , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Lake of Outrage ( Wanderer ) Dusty Bowl , Giant's Cap , Hammerlocke Hills , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed ( Wanderer ) Fields of Honor , Challenge Beach , Loop Lagoon , Potbottom Desert , Giant's Bed , Snowslide Slope , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Lampent",
+            "to": "Chandelure",
+            "method": [
+                "Use Dusk Stone"
+            ]
+        }
+    ]
+}

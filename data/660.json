@@ -1,0 +1,75 @@
+{
+    "name": "Diggersby",
+    "pokedex_number": "#0660",
+    "types": [
+        "Normal",
+        "Ground"
+    ],
+    "abilities": [
+        "Pickup",
+        "Cheek Pouch",
+        "Huge Power"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 56,
+        "Defense": 77,
+        "Sp. Atk": 50,
+        "Sp. Def": 77,
+        "Speed": 78,
+        "Total": 423
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "With their powerful ears, they can heft boulders of a ton or more with ease. They can be a big help at construction sites.",
+            "Y": "As powerful as an excavator, its ears can reduce dense bedrock to rubble. When it's finished digging, it lounges lazily.",
+            "Omega Ruby": "With their powerful ears, they can heft boulders of a ton or more with ease. They can be a big help at construction sites.",
+            "Alpha Sapphire": "As powerful as an excavator, its ears can reduce dense bedrock to rubble. When it's finished digging, it lounges lazily."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "With power equal to an excavator, it can dig through dense bedrock. It's a huge help during tunnel construction.",
+            "Shield": "The fur on its belly retains heat exceptionally well. People used to make heavy winter clothing from fur shed by this Pokémon."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Route 22 , Friend Safari ( Ground )",
+            "Y": "Route 22 , Friend Safari ( Ground )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Axew's Eye , Giant's Seat , North Lake Miloch , Bridge Field , Giant's Mirror , Giant's Cap Rolling Fields , East Lake Axewell , Motostoke Riverbank , Bridge Field , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Axew's Eye , Giant's Seat , North Lake Miloch , Bridge Field , Giant's Mirror , Giant's Cap Rolling Fields , East Lake Axewell , Motostoke Riverbank , Bridge Field , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Bunnelby",
+            "to": "Diggersby",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

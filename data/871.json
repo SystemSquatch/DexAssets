@@ -1,0 +1,48 @@
+{
+    "name": "Pincurchin",
+    "pokedex_number": "#0871",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Lightning Rod",
+        "Electric Surge"
+    ],
+    "stats": {
+        "HP": 48,
+        "Attack": 101,
+        "Defense": 95,
+        "Sp. Atk": 91,
+        "Sp. Def": 85,
+        "Speed": 15,
+        "Total": 435
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines.",
+            "Shield": "It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon generates electricity when it digests food. It uses its five hard teeth to scrape seaweed off surfaces and eat it.",
+            "Violet": "This Pokémon is so timid that even brushing against seaweed will make it discharge electricity in surprise. Its lips do not conduct electricity."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Route 9 Giant's Mirror , Lake of Outrage , Motostoke Riverbank ( Max Raid Battle )",
+            "Shield": "Route 9 Giant's Mirror , Lake of Outrage , Motostoke Riverbank ( Max Raid Battle )",
+            "Expansion Pass": "Courageous Cavern , Loop Lagoon Frigid Sea (walking and Surfing ) Frostpoint Field , Giant's Bed , Three-Point Pass , Frigid Sea , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Area Two West Province: Area Two North Province: Area One , Area Three North Province: Glaseado Mountain ( Electric Tera Type ) Tera Raid Battles ( 3★ , 5★ , 6★ )",
+            "Violet": "East Province: Area Two West Province: Area Two North Province: Area One , Area Three North Province: Glaseado Mountain ( Electric Tera Type ) Tera Raid Battles ( 3★ , 5★ , 6★ )"
+        }
+    },
+    "evolution": []
+}

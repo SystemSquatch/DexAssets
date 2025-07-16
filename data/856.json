@@ -1,0 +1,65 @@
+{
+    "name": "Hatenna",
+    "pokedex_number": "#0856",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Healer",
+        "Anticipation",
+        "Magic Bounce"
+    ],
+    "stats": {
+        "HP": 42,
+        "Attack": 30,
+        "Defense": 45,
+        "Sp. Atk": 56,
+        "Sp. Def": 53,
+        "Speed": 39,
+        "Total": 265
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Via the protrusion on its head, it senses other creatures' emotions. If you don't have a calm disposition, it will never warm up to you.",
+            "Shield": "If this Pokémon senses a strong emotion, it will run away as fast as it can. It prefers areas without people."
+        },
+        "Generation IX": {
+            "Scarlet": "Because the emotions of others constantly flow into its head, this Pokémon prefers environments where no other creatures live.",
+            "Violet": "It senses the feelings of other living creatures. Be careful not to expose it to strong emotions for too long, or it will end up exhausted."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Trade Maractus in Stow-on-Side Sw Hammerlocke Hills , Motostoke Outskirts , Stony Wilderness Bridge Field , Hammerlocke Hills , Motostoke Riverbank , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Shield": "Trade Maractus in Stow-on-Side Sw Hammerlocke Hills , Motostoke Outskirts , Stony Wilderness Bridge Field , Hammerlocke Hills , Motostoke Riverbank , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Expansion Pass": "Slippery Slope , Frostpoint Field , Giant's Bed , Old Cemetery , Giant's Foot , Frigid Sea , Three-Point Pass , Ballimere Lake Frostpoint Field , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Four West Province: Area Three Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two , Area Four West Province: Area Three Tera Raid Battles ( 1★ )",
+            "The Hidden Treasure of Area Zero": "Apple Hills , Oni Mountain , Oni's Maw , Infernal Pass , Crystal Pool , Paradise Barrens , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Hatenna",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Hatenna",
+            "to": "Hattrem",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

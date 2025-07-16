@@ -1,0 +1,35 @@
+{
+    "name": "Wo-Chien",
+    "pokedex_number": "#1001",
+    "types": [
+        "Dark",
+        "Grass"
+    ],
+    "abilities": [
+        "Tablets of Ruin"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 90,
+        "Defense": 100,
+        "Sp. Atk": 100,
+        "Sp. Def": 135,
+        "Speed": 70,
+        "Total": 580
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "The grudge of a person punished for writing the king’s evil deeds upon wooden tablets has clad itself in dead leaves to become a Pokémon.",
+            "Violet": "It drains the life-force from vegetation, causing nearby forests to instantly wither and fields to turn barren."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Grasswither Shrine ( Only one )",
+            "Violet": "South Province: Grasswither Shrine ( Only one )"
+        }
+    },
+    "evolution": []
+}

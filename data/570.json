@@ -1,0 +1,99 @@
+{
+    "name": "Zorua",
+    "pokedex_number": "#0570",
+    "types": [
+        "Dark",
+        "Unknown"
+    ],
+    "abilities": [
+        "Illusion"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 65,
+        "Defense": 40,
+        "Sp. Atk": 80,
+        "Sp. Def": 40,
+        "Speed": 65,
+        "Total": 330
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
+            "White": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
+            "Black 2": "It changes so it looks just like its foe, tricks it, and then uses that opportunity to flee.",
+            "White 2": "It changes so it looks just like its foe, tricks it, and then uses that opportunity to flee."
+        },
+        "Generation VI": {
+            "X": "It changes so it looks just like its foe, tricks it, and then uses that opportunity to flee.",
+            "Y": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
+            "Omega Ruby": "It changes so it looks just like its foe, tricks it, and then uses that opportunity to flee.",
+            "Alpha Sapphire": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon."
+        },
+        "Generation VII": {
+            "Ultra Sun": "This Pokémon has a cowardly disposition, so when it's not around friends, it basically always stays transformed as something else.",
+            "Ultra Moon": "If a normally talkative child suddenly stops talking, it may have been replaced by Zorua."
+        },
+        "Generation VIII": {
+            "Sword": "Zorua is a timid Pokémon. This disposition seems to be what led to the development of Zorua's ability to take on the forms of other creatures.",
+            "Shield": "Zorua sometimes transforms into a person and goes into cities to search for food. When Zorua does this, it usually takes on the form of a child.",
+            "Legends: Arceus": "A once-departed soul, returned to life in Hisui. Derives power from resentment, which rises as energy atop its head and takes on the forms of foes. In this way, Zorua vents lingering malice."
+        },
+        "Generation IX": {
+            "Scarlet": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
+            "Violet": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Castelia City (requires fateful encounter Celebi ) Breed Zoroark (requires Shiny fateful encounter Entei , Raikou , or Suicune )",
+            "White": "Castelia City (requires fateful encounter Celebi ) Breed Zoroark (requires Shiny fateful encounter Entei , Raikou , or Suicune )",
+            "Black 2": "Received from Rood in Driftveil City ( N's Pokémon )",
+            "White 2": "Received from Rood in Driftveil City ( N's Pokémon )"
+        },
+        "Generation VI": {
+            "X": "Breed Zoroark",
+            "Y": "Breed Zoroark",
+            "Omega Ruby": "Route 101 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 101 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Trainers' School",
+            "Ultra Moon": "Trainers' School",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Forest of Focus Fields of Honor , Soothing Wetlands ( Wanderer )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Alabaster Icelands : near Avalugg's Legacy ( mass outbreaks ), near Glacier Terrace , Icepeak Cavern , massive mass outbreaks ( Hisuian Form ) Unobtainable ( Unovan Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Tagtree Thicket (May disguise as other Pokémon) ( Unovan Form ) West Province: Area Three (May disguise as other Pokémon) ( Unovan Form ) Tera Raid Battles ( 3★ ) ( Unovan Form ) Breed Event / transferred Hisuian Zoroark ( Hisuian Form )",
+            "Violet": "East Province: Tagtree Thicket (May disguise as other Pokémon) ( Unovan Form ) West Province: Area Three (May disguise as other Pokémon) ( Unovan Form ) Tera Raid Battles ( 3★ ) ( Unovan Form ) Breed Event / transferred Hisuian Zoroark ( Hisuian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Zorua",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Zorua",
+            "to": "Zoroark",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

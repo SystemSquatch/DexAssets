@@ -1,0 +1,85 @@
+{
+    "name": "Espurr",
+    "pokedex_number": "#0677",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Infiltrator",
+        "Own Tempo"
+    ],
+    "stats": {
+        "HP": 62,
+        "Attack": 48,
+        "Defense": 54,
+        "Sp. Atk": 63,
+        "Sp. Def": 60,
+        "Speed": 68,
+        "Total": 355
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "The organ that emits its intense psychic power is sheltered by its ears to keep power from leaking out.",
+            "Y": "It has enough psychic energy to blast everything within 300 feet of itself, but it has no control over its power.",
+            "Omega Ruby": "The organ that emits its intense psychic power is sheltered by its ears to keep power from leaking out.",
+            "Alpha Sapphire": "It has enough psychic energy to blast everything within 300 feet of itself, but it has no control over its power."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Though Espurr's expression never changes, behind that blank stare is an intense struggle to contain its devastating psychic power.",
+            "Shield": "There's enough psychic power in Espurr to send a wrestler flying, but because this power can't be controlled, Espurr finds it troublesome."
+        },
+        "Generation IX": {
+            "Scarlet": "It keeps its ears covered to prevent the intense psychic power in its body from escaping, but it falls unconscious if this power builds too much.",
+            "Violet": "Behind an Espurr’s expressionless face is a frantic struggle to contain psychic power."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Route 6 , Friend Safari ( Psychic )",
+            "Y": "Route 6 , Friend Safari ( Psychic )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 5 , Hammerlocke Hills , Motostoke Riverbank Watchtower Ruins , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 5 , Hammerlocke Hills , Motostoke Riverbank Watchtower Ruins , Stony Wilderness ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Canyon Biome Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Espurr",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Espurr",
+            "to": "Meowstic",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

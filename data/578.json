@@ -1,0 +1,99 @@
+{
+    "name": "Duosion",
+    "pokedex_number": "#0578",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Overcoat",
+        "Magic Guard",
+        "Regenerator"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 40,
+        "Defense": 50,
+        "Sp. Atk": 125,
+        "Sp. Def": 60,
+        "Speed": 30,
+        "Total": 370
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
+            "White": "When their brains, now divided in two, are thinking the same thoughts, these Pokémon exhibit their maximum power.",
+            "Black 2": "When their two divided brains think the same thoughts, their psychic power is maximized.",
+            "White 2": "When their two divided brains think the same thoughts, their psychic power is maximized."
+        },
+        "Generation VI": {
+            "X": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
+            "Y": "When their two divided brains think the same thoughts, their psychic power is maximized.",
+            "Omega Ruby": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
+            "Alpha Sapphire": "When their two divided brains think the same thoughts, their psychic power is maximized."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Its psychic power can supposedly cover a range of more than half a mile—but only if its two brains can agree with each other.",
+            "Shield": "Its brain has split into two, and the two halves rarely think alike. Its actions are utterly unpredictable."
+        },
+        "Generation IX": {
+            "Scarlet": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
+            "Violet": "When their brains, now divided in two, are thinking the same thoughts, these Pokémon exhibit their maximum power."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Route 9",
+            "Black 2": "Trade",
+            "White 2": "Route 9 , Strange House",
+            "Dream World": "Spooky Manor *"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Psychic )",
+            "Y": "Friend Safari ( Psychic )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Route 16 ( Island Scan ) Tu",
+            "Moon": "Route 16 ( Island Scan ) Tu",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Dusty Bowl Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Shield Expansion Pass": "Slippery Slope , Frostpoint Field Giant's Bed , Snowslide Slope , Path to the Peak , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Chargestone Cavern , Polar Biome Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Solosis",
+            "to": "Duosion",
+            "method": [
+                "Level 32"
+            ]
+        },
+        {
+            "from": "Duosion",
+            "to": "Reuniclus",
+            "method": [
+                "Level 41"
+            ]
+        }
+    ]
+}

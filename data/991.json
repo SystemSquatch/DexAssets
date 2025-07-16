@@ -1,0 +1,35 @@
+{
+    "name": "Iron Bundle",
+    "pokedex_number": "#0991",
+    "types": [
+        "Ice",
+        "Water"
+    ],
+    "abilities": [
+        "Quark Drive"
+    ],
+    "stats": {
+        "HP": 56,
+        "Attack": 80,
+        "Defense": 114,
+        "Sp. Atk": 124,
+        "Sp. Def": 60,
+        "Speed": 136,
+        "Total": 570
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Its shape is similar to a robot featured in a paranormal magazine article. The robot was said to have been created by an ancient civilization.",
+            "Violet": "It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Union Circle , Poké Portal News",
+            "Violet": "Area Zero"
+        }
+    },
+    "evolution": []
+}

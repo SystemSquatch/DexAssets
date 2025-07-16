@@ -1,0 +1,79 @@
+{
+    "name": "Hakamo-o",
+    "pokedex_number": "#0783",
+    "types": [
+        "Dragon",
+        "Fighting"
+    ],
+    "abilities": [
+        "Bulletproof",
+        "Soundproof",
+        "Overcoat"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 75,
+        "Defense": 90,
+        "Sp. Atk": 65,
+        "Sp. Def": 70,
+        "Speed": 65,
+        "Total": 420
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It leaps at its prey with a courageous shout. Its scaly punches tear its opponents to shreds.",
+            "Moon": "It sheds and regrows its scales on a continuous basis. The scales become harder and sharper each time they're regrown.",
+            "Ultra Sun": "It makes noise by clanging its scales together. When the rhythm has reached its peak, Hakamo-o attacks.",
+            "Ultra Moon": "The scales it sheds can be molded and processed to make pots and pans. They conduct heat well, so they're a popular item."
+        },
+        "Generation VIII": {
+            "Sword": "The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents.",
+            "Shield": "Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition."
+        },
+        "Generation IX": {
+            "Scarlet": "It gets into fistfights so intense that the scales on its arms peel off. Bare arms are a sign of valiance.",
+            "Violet": "It fires itself up by striking its scales with force as it dances. Its roar is a battle cry."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Vast Poni Canyon ( SOS Battle )",
+            "Moon": "Vast Poni Canyon ( SOS Battle )",
+            "Ultra Sun": "Vast Poni Canyon ( SOS Battle )",
+            "Ultra Moon": "Vast Poni Canyon ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Axew's Eye , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Sword Expansion Pass": "Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Kitakami Wilds Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Jangmo-o",
+            "to": "Hakamo-o",
+            "method": [
+                "Level 35"
+            ]
+        },
+        {
+            "from": "Hakamo-o",
+            "to": "Kommo-o",
+            "method": [
+                "Level 45"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "name": "Luvdisc",
+    "pokedex_number": "#0370",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Hydration"
+    ],
+    "stats": {
+        "HP": 43,
+        "Attack": 30,
+        "Defense": 55,
+        "Sp. Atk": 40,
+        "Sp. Def": 65,
+        "Speed": 97,
+        "Total": 330
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Luvdisc live in shallow seas in the tropics. This heart-shaped Pok é mon earned its name by swimming after loving couples it spotted in the ocean's waves.",
+            "Sapphire": "Luvdisc 's heart-shaped body is a symbol of love and romance. It is said that any couple meeting this Pok é mon is promised a loving relationship that never ends.",
+            "Emerald": "Luvdisc make the branches of Corsola their nests. There is a custom from long ago of giving a Luvdisc as a gift to express one's feelings of love.",
+            "FireRed": "During the spawning season, countless Luvdisc congregate at coral reefs, turning the waters pink.",
+            "LeafGreen": "During the spawning season, countless Luvdisc congregate at coral reefs, turning the waters pink."
+        },
+        "Generation IV": {
+            "Diamond": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
+            "Pearl": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
+            "Platinum": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
+            "HeartGold": "Its heart-shaped body makes it popular. In some places, you would give a Luvdisc to someone you love.",
+            "SoulSilver": "Its heart-shaped body makes it popular. In some places, you would give a Luvdisc to someone you love."
+        },
+        "Generation V": {
+            "Black": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
+            "White": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
+            "Black 2": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
+            "White 2": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love."
+        },
+        "Generation VI": {
+            "X": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
+            "Y": "During the spawning season, countless Luvdisc congregate at coral reefs, turning the waters pink.",
+            "Omega Ruby": "Luvdisc live in shallow seas in the tropics. This heart-shaped Pokémon earned its name by swimming after loving couples it spotted in the ocean's waves.",
+            "Alpha Sapphire": "Luvdisc's heart-shaped body is a symbol of love and romance. It is said that any couple meeting this Pokémon is promised a loving relationship that never ends."
+        },
+        "Generation VII": {
+            "Sun": "If a Luvdisc is left on its own, it becomes despondent, leaving itself open to attack. That is when Pelipper snatch them up.",
+            "Moon": "Loving couples have a soft spot for this Pokémon, so honeymoon hotels often release this Pokémon into their pools.",
+            "Ultra Sun": "There was an era when it was overfished due to the rumor that having one of its heart-shaped scales would enable you to find a sweetheart.",
+            "Ultra Moon": "Luvdisc makes its home in coral reefs in warm seas. It especially likes sleeping in the space between Corsola's branches."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It lives in warm seas. It is said that couples who find this Pokémon will be blessed with eternal love.",
+            "Shining Pearl": "It lives in warm seas. It is said that couples who find this Pokémon will be blessed with eternal love."
+        },
+        "Generation IX": {
+            "Scarlet": "Its heart-shaped body makes it popular. In some places, you would give a Luvdisc to someone you love.",
+            "Violet": "During the spawning season, countless Luvdisc congregate at coral reefs, turning the waters pink."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 128 , Ever Grande City ( Good Rod or Super Rod )",
+            "Sapphire": "Route 128 , Ever Grande City ( Good Rod or Super Rod )",
+            "Emerald": "Route 128 , Ever Grande City ( Good Rod or Super Rod )",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 224 , Pokémon League ( Super Rod )",
+            "Pearl": "Route 224 , Pokémon League ( Super Rod )",
+            "Platinum": "Route 224 , Pokémon League ( Super Rod )",
+            "HeartGold": "Route 27 ( Surfing during a Swarm )",
+            "SoulSilver": "Route 27 ( Surfing during a Swarm )",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Routes 4 and 13 , Driftveil City , Undella Town , Undella Bay ( Fishing )",
+            "White": "Routes 4 and 13 , Driftveil City , Undella Town , Undella Bay ( Fishing )",
+            "Black 2": "Routes 13 and 21 , Seaside Cave , Undella Town , Humilau City ( Fishing )",
+            "White 2": "Routes 13 and 21 , Seaside Cave , Undella Town , Humilau City ( Fishing )",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Routes 8 and 12 , Ambrette Town , Cyllage City , Shalour City , Azure Bay ( Old Rod )",
+            "Y": "Routes 8 and 12 , Ambrette Town , Cyllage City , Shalour City , Azure Bay ( Old Rod )",
+            "Omega Ruby": "Route 128 , Ever Grande City , Victory Road ( Good Rod or Super Rod )",
+            "Alpha Sapphire": "Route 128 , Ever Grande City , Victory Road ( Good Rod or Super Rod )"
+        },
+        "Generation VII": {
+            "Sun": "Route 9 , Melemele Sea ( Fishing )",
+            "Moon": "Route 9 , Melemele Sea ( Fishing )",
+            "Ultra Sun": "Route 9 , Melemele Sea ( Fishing )",
+            "Ultra Moon": "Route 9 , Melemele Sea ( Fishing )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 224 , Pokémon League ( Super Rod )",
+            "Shining Pearl": "Route 224 , Pokémon League ( Super Rod )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: South Paldean Sea East Province: East Paldean Sea West Province: West Paldean Sea Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: South Paldean Sea East Province: East Paldean Sea West Province: West Paldean Sea Tera Raid Battles ( 2★ )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome"
+        }
+    },
+    "evolution": []
+}

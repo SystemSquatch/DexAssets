@@ -1,0 +1,139 @@
+{
+    "name": "Cyndaquil",
+    "pokedex_number": "#0155",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Blaze",
+        "Flash Fire"
+    ],
+    "stats": {
+        "HP": 39,
+        "Attack": 52,
+        "Defense": 43,
+        "Sp. Atk": 60,
+        "Sp. Def": 50,
+        "Speed": 65,
+        "Total": 309
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It is timid, and always curls itself up in a ball. If attacked, it flares up its back for protection.",
+            "Silver": "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back.",
+            "Crystal": "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes.",
+            "Stadium 2": "It is timid, and always curls itself up in a ball. If attacked, it flares up its back for protection. (Pokémon Red, Silver, or Crystal inserted) It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pok é mon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
+            "Sapphire": "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pok é mon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
+            "Emerald": "It flares flames from its back to protect itself. The fire burns vigorously if the Pok é mon is angry. When it is tired, it sputters with incomplete combustion.",
+            "FireRed": "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back.",
+            "LeafGreen": "It is timid and always curls itself up in a ball. If attacked, it flares up its back for protection."
+        },
+        "Generation IV": {
+            "Diamond": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
+            "Pearl": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
+            "Platinum": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
+            "HeartGold": "It is timid, and always curls itself up in a ball. If attacked, it flares up its back for protection.",
+            "SoulSilver": "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back."
+        },
+        "Generation V": {
+            "Black": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
+            "White": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
+            "Black 2": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
+            "White 2": "It has a timid nature. If it is startled, the flames on its back burn more vigorously."
+        },
+        "Generation VI": {
+            "X": "It is timid and always curls itself up in a ball. If attacked, it flares up its back for protection.",
+            "Y": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
+            "Omega Ruby": "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
+            "Alpha Sapphire": "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
+            "Shining Pearl": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
+            "Legends: Arceus": "Hails from the Johto region. Though usually curled into a ball due to its timid disposition, it harbors tremendous firepower."
+        },
+        "Generation IX": {
+            "Scarlet": "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back.",
+            "Violet": "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "First partner Pokémon from Professor Elm in New Bark Town",
+            "Silver": "First partner Pokémon from Professor Elm in New Bark Town",
+            "Crystal": "First partner Pokémon from Professor Elm in New Bark Town"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Received from Professor Birch at Littleroot Town after completing the Hoenn Pokédex",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Reward for defeating 100 Trainers in Mt. Battle"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "First partner Pokémon from Professor Elm in New Bark Town",
+            "SoulSilver": "First partner Pokémon from Professor Elm in New Bark Town",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade , Event",
+            "Y": "Trade , Event",
+            "Omega Ruby": "Received from Professor Birch on Route 101 after first entering the Hall of Fame",
+            "Alpha Sapphire": "Received from Professor Birch on Route 101 after first entering the Hall of Fame"
+        },
+        "Generation VII": {
+            "Sun": "Route 3 ( Island Scan ) Su",
+            "Moon": "Route 3 ( Island Scan ) Su",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Grand Underground - Sandsear Cave , Typhlo Cavern , Volcanic Cave (after obtaining the National Pokédex )",
+            "Shining Pearl": "Grand Underground - Sandsear Cave , Typhlo Cavern , Volcanic Cave (after obtaining the National Pokédex )",
+            "Legends: Arceus": "Jubilife Village : First partner Pokémon from Professor Laventon , Received from Professor Laventon (after completing Mission 18, if the player did not choose Cyndaquil) Crimson Mirelands : Space-time distortions (after completing Mission 18), massive mass outbreaks after completing Request 102)"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Polar Biome (after boosting biodiversity in the Polar Biome)"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Cyndaquil",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Cyndaquil",
+            "to": "Quilava",
+            "method": [
+                "Level 14"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Munkidori",
+    "pokedex_number": "#1015",
+    "types": [
+        "Poison",
+        "Psychic"
+    ],
+    "abilities": [
+        "Toxic Chain",
+        "Frisk"
+    ],
+    "stats": {
+        "HP": 88,
+        "Attack": 75,
+        "Defense": 66,
+        "Sp. Atk": 130,
+        "Sp. Def": 90,
+        "Speed": 106,
+        "Total": 555
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "The chain is made from toxins that enhance capabilities. It stimulated Munkidori's brain and caused the Pokémon's psychic powers to bloom.",
+            "Violet": "Munkidori keeps itself somewhere safe while it toys with its foes, using psychokinesis to induce intense dizziness."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Wistful Fields (after completing the main story of The Teal Mask ; only one )"
+        }
+    },
+    "evolution": []
+}

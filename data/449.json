@@ -1,0 +1,113 @@
+{
+    "name": "Hippopotas",
+    "pokedex_number": "#0449",
+    "types": [
+        "Ground",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sand Stream",
+        "Sand Force"
+    ],
+    "stats": {
+        "HP": 68,
+        "Attack": 72,
+        "Defense": 78,
+        "Sp. Atk": 38,
+        "Sp. Def": 42,
+        "Speed": 32,
+        "Total": 330
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
+            "Pearl": "It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet.",
+            "Platinum": "It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten.",
+            "HeartGold": "It shrouds itself in sand to ward off germs. It travels easily through the sands of the desert.",
+            "SoulSilver": "It shrouds itself in sand to ward off germs. It travels easily through the sands of the desert."
+        },
+        "Generation V": {
+            "Black": "It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten.",
+            "White": "It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten.",
+            "Black 2": "It shuts its nostrils tight then travels through sand as if walking. They form colonies of around 10.",
+            "White 2": "It shuts its nostrils tight then travels through sand as if walking. They form colonies of around 10."
+        },
+        "Generation VI": {
+            "X": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
+            "Y": "It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet.",
+            "Omega Ruby": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
+            "Alpha Sapphire": "It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It moves through the sands with its mouth open, swallowing sand along with its prey. It gets rid of the sand by spouting it from its nose.",
+            "Shield": "This Pokémon is active during the day and passes the cold desert nights burrowed snuggly into the sand.",
+            "Brilliant Diamond": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
+            "Shining Pearl": "It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet.",
+            "Legends: Arceus": "Though large and languid, Hippopotas is difficult to detect due to its tendency to burrow into and lurk beneath the soil. When agitated or excited, it expels sand from its nostrils."
+        },
+        "Generation IX": {
+            "Scarlet": "It shuts its nostrils tight, then travels through sand as if walking. They form colonies of around 10.",
+            "Violet": "It shrouds itself in sand to ward off germs. It travels easily through the sands of the desert."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Maniac Tunnel",
+            "Pearl": "Maniac Tunnel",
+            "Platinum": "Maniac Tunnel",
+            "HeartGold": "Safari Zone (Desert with 28 Peak points)",
+            "SoulSilver": "Safari Zone (Desert with 28 Peak points)"
+        },
+        "Generation V": {
+            "Black": "Route 4 ( Swarm )",
+            "White": "Route 4 ( Swarm )",
+            "Black 2": "Breed Hippowdon",
+            "White 2": "Breed Hippowdon",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Route 9",
+            "Y": "Route 9",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Hippowdon",
+            "Ultra Moon": "Breed Hippowdon",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 6 , Dusty Bowl Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Route 6 , Dusty Bowl Dusty Bowl ( Max Raid Battle )",
+            "Brilliant Diamond": "Maniac Tunnel Grand Underground - Rocky Cave , Big Bluff Cavern , Sandsear Cave (After obtaining Defog )",
+            "Shining Pearl": "Maniac Tunnel Grand Underground - Rocky Cave , Big Bluff Cavern , Sandsear Cave (After obtaining Defog )",
+            "Legends: Arceus": "Crimson Mirelands : Gapejaw Bog , near Sludge Mound , Scarlet Bog , massive mass outbreaks Coronet Highlands : Celestica Trail , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Asado Desert Tera Raid Battles ( 3★ )",
+            "Violet": "West Province: Asado Desert Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Hippopotas",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Hippopotas",
+            "to": "Hippowdon",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

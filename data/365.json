@@ -1,0 +1,121 @@
+{
+    "name": "Walrein",
+    "pokedex_number": "#0365",
+    "types": [
+        "Ice",
+        "Water"
+    ],
+    "abilities": [
+        "Thick Fat",
+        "Ice Body",
+        "Oblivious"
+    ],
+    "stats": {
+        "HP": 110,
+        "Attack": 80,
+        "Defense": 90,
+        "Sp. Atk": 95,
+        "Sp. Def": 90,
+        "Speed": 65,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Walrein 's two massively developed tusks can totally shatter blocks of ice weighing ten tons with one blow. This Pok é mon 's thick coat of blubber insulates it from subzero temperatures.",
+            "Sapphire": "Walrein swims all over in frigid seawater while crushing icebergs with its grand, imposing tusks. Its thick layer of blubber makes enemy attacks bounce off harmlessly.",
+            "Emerald": "To protect its herd, the leader battles anything that invades its territory, even at the cost of its life. Its tusks may snap off in battle.",
+            "FireRed": "It swims through icy seas while shattering ice floes with its large tusks. It is protected by its thick blubber.",
+            "LeafGreen": "It swims through icy seas while shattering ice floes with its large tusks. It is protected by its thick blubber."
+        },
+        "Generation IV": {
+            "Diamond": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
+            "Pearl": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
+            "Platinum": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
+            "HeartGold": "It shatters drift ice with its strong tusks. Its thick layer of blubber repels enemy attacks.",
+            "SoulSilver": "It shatters drift ice with its strong tusks. Its thick layer of blubber repels enemy attacks."
+        },
+        "Generation V": {
+            "Black": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
+            "White": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
+            "Black 2": "Not only does its thick blubber keep it warm, it also protects it from attacks. It shatters ice with its prized tusks.",
+            "White 2": "Not only does its thick blubber keep it warm, it also protects it from attacks. It shatters ice with its prized tusks."
+        },
+        "Generation VI": {
+            "X": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
+            "Y": "It shatters drift ice with its strong tusks. Its thick layer of blubber repels enemy attacks.",
+            "Omega Ruby": "Walrein's two massively developed tusks can totally shatter blocks of ice weighing 10 tons with one blow. This Pokémon's thick coat of blubber insulates it from subzero temperatures.",
+            "Alpha Sapphire": "Walrein swims all over in frigid seawater while crushing icebergs with its grand, imposing tusks. Its thick layer of blubber makes enemy attacks bounce off harmlessly."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Walrein form herds of 20 to 30 individuals. When a threat appears, the herd's leader will protect the group with its life.",
+            "Shield": "Walrein's tusks keep growing throughout its life. Tusks broken in battle will grow back to their usual impressive size in a year.",
+            "Brilliant Diamond": "It shatters ice with its big tusks. Its thick blubber repels not only the cold but also enemy attacks.",
+            "Shining Pearl": "It shatters ice with its big tusks. Its thick blubber repels not only the cold but also enemy attacks.",
+            "Legends: Arceus": "Its thick tusks are strong enough to shatter drift ice. They have been known to break, but they will grow back by the next year. The Hisui region is well known for these broken tusks."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Sealeo",
+            "Sapphire": "Evolve Sealeo",
+            "Emerald": "Evolve Sealeo",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Evolve Sealeo"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Evolve Sealeo",
+            "Platinum": "Evolve Sealeo",
+            "HeartGold": "Evolve Sealeo",
+            "SoulSilver": "Evolve Sealeo",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Undella Bay ( Surfing in rippling water ) Winter",
+            "White": "Undella Bay ( Surfing in rippling water ) Winter",
+            "Black 2": "Undella Bay ( Surfing in rippling water ) Winter",
+            "White 2": "Undella Bay ( Surfing in rippling water ) Winter"
+        },
+        "Generation VI": {
+            "X": "Evolve Sealeo",
+            "Y": "Evolve Sealeo",
+            "Omega Ruby": "Evolve Sealeo",
+            "Alpha Sapphire": "Evolve Sealeo"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Sealeo",
+            "Moon": "Evolve Sealeo",
+            "Ultra Sun": "Evolve Sealeo",
+            "Ultra Moon": "Evolve Sealeo",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Frigid Sea ( Wanderer ) Giant's Bed , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Grand Underground - Icy Cave , Whiteout Cave , Glacial Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Grand Underground - Icy Cave , Whiteout Cave , Glacial Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Cobalt Coastlands : Ginkgo Landing , Hideaway Bay ( mass outbreaks ), Islespy Shore , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Sealeo",
+            "to": "Walrein",
+            "method": [
+                "Level 44"
+            ]
+        }
+    ]
+}

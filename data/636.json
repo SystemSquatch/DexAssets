@@ -1,0 +1,99 @@
+{
+    "name": "Larvesta",
+    "pokedex_number": "#0636",
+    "types": [
+        "Bug",
+        "Fire"
+    ],
+    "abilities": [
+        "Flame Body",
+        "Swarm"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 85,
+        "Defense": 55,
+        "Sp. Atk": 50,
+        "Sp. Def": 55,
+        "Speed": 60,
+        "Total": 360
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "This Pokémon was believed to have been born from the sun. When it evolves, its entire body is engulfed in flames.",
+            "White": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.",
+            "Black 2": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves.",
+            "White 2": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves."
+        },
+        "Generation VI": {
+            "X": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves.",
+            "Y": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.",
+            "Omega Ruby": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves.",
+            "Alpha Sapphire": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies."
+        },
+        "Generation VII": {
+            "Ultra Sun": "When battling opponents, it sprays fire from its five horns. The max temperature of the flames can reach nearly 5,500 degrees Fahrenheit .",
+            "Ultra Moon": "It protects itself with flame. Long years ago, people believed Larvesta had a nest on the sun."
+        },
+        "Generation VIII": {
+            "Sword": "The people of ancient times believed that Larvesta fell from the sun.",
+            "Shield": "Larvesta's body is warm all over. It spouts fire from the tips of its horns to intimidate predators and scare prey."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon was called the Larva That Stole the Sun. The fire Larvesta spouts from its horns can cut right through a sheet of iron.",
+            "Violet": "In ancient times, Larvesta was worshiped as the emissary of the sun. However, it was also viewed as a burden since it often caused forest fires."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Hatch Egg received from a Pokémon Ranger inside a building on Route 18",
+            "White": "Hatch Egg received from a Pokémon Ranger inside a building on Route 18",
+            "Black 2": "Breed Volcarona",
+            "White 2": "Breed Volcarona"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Fire )",
+            "Y": "Friend Safari ( Fire )",
+            "Omega Ruby": "Mirage Forest (north of Route 111 ), Mirage Island (north of Route 113 )",
+            "Alpha Sapphire": "Mirage Forest (north of Route 111 ), Mirage Island (north of Route 113 )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Lush Jungle (Cave)",
+            "Ultra Moon": "Lush Jungle (Cave)",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Loop Lagoon , Forest of Focus ( Wanderer ) Fields of Honor , Challenge Beach , Loop Lagoon , Potbottom Desert ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Asado Desert Tera Raid Battles ( 3★ )",
+            "Violet": "West Province: Asado Desert Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Larvesta",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Larvesta",
+            "to": "Volcarona",
+            "method": [
+                "Level 59"
+            ]
+        }
+    ]
+}

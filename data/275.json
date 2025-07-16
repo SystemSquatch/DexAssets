@@ -1,0 +1,124 @@
+{
+    "name": "Shiftry",
+    "pokedex_number": "#0275",
+    "types": [
+        "Grass",
+        "Dark"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Wind Rider",
+        "Pickpocket",
+        "Early Bird"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 60,
+        "Sp. Atk": 90,
+        "Sp. Def": 60,
+        "Speed": 80,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Shiftry is a mysterious Pok é mon that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
+            "Sapphire": "Shiftry 's large fans generate awesome gusts of wind at a speed close to 100 feet per second. The whipped-up wind blows anything away. This Pok é mon chooses to live quietly deep in forests.",
+            "Emerald": "It is said to arrive on chilly, wintry winds. Feared from long ago as the guardian of forests, this Pok é mon lives in a deep forest where people do not venture.",
+            "FireRed": "A Pok é mon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
+            "LeafGreen": "A Pok é mon that was feared as a forest guardian. It can read the foe's mind and take preemptive action."
+        },
+        "Generation IV": {
+            "Diamond": "By flapping its leafy fan, it can whip up gusts of 100 ft /second that can level houses.",
+            "Pearl": "By flapping its leafy fan, it can whip up gusts of 100 ft /second that can level houses.",
+            "Platinum": "By flapping its leafy fan, it can whip up gusts of 100 ft /second that can level houses.",
+            "HeartGold": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.",
+            "SoulSilver": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds."
+        },
+        "Generation V": {
+            "Black": "By flapping its leafy fan, it can whip up gusts of 100 ft /second that can level houses.",
+            "White": "By flapping its leafy fan, it can whip up gusts of 100 ft /second that can level houses.",
+            "Black 2": "By flapping its leafy fan, it can whip up gusts of 100 ft /second that can level houses.",
+            "White 2": "By flapping its leafy fan, it can whip up gusts of 100 ft /second that can level houses."
+        },
+        "Generation VI": {
+            "X": "A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
+            "Y": "By flapping its leafy fan, it can whip up gusts of 100 feet per second that can level houses.",
+            "Omega Ruby": "Shiftry is a mysterious Pokémon that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
+            "Alpha Sapphire": "Shiftry's large fans generate awesome gusts of wind at a speed close to 100 feet per second. The whipped-up wind blows anything away. This Pokémon chooses to live quietly deep in forests."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
+            "Shield": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.",
+            "Brilliant Diamond": "By flapping its leafy fans, it can whip up gusts of 100 feet per second that can level houses.",
+            "Shining Pearl": "By flapping its leafy fans, it can whip up gusts of 100 feet per second that can level houses."
+        },
+        "Generation IX": {
+            "Scarlet": "It is said that when Shiftry flaps its leafy fans atop ancient trees, chilly winds blow and the season rolls into winter.",
+            "Violet": "Legends tell of a bird Pokémon that received divine punishment for its evil deeds and had its beak and wings replaced."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Nuzleaf",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Evolve Nuzleaf",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Evolve Nuzleaf"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Nuzleaf",
+            "Pearl": "Evolve Nuzleaf",
+            "Platinum": "Evolve Nuzleaf",
+            "HeartGold": "Evolve Nuzleaf",
+            "SoulSilver": "Evolve Nuzleaf",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Nuzleaf",
+            "Black 2": "Nature Preserve ( rustling grass )",
+            "White 2": "Nature Preserve ( rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Nuzleaf",
+            "Y": "Evolve Nuzleaf",
+            "Omega Ruby": "Evolve Nuzleaf",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Nuzleaf",
+            "Ultra Moon": "Evolve Nuzleaf",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Dappled Grove Bridge Field , Dappled Grove , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Brilliant Diamond": "Evolve Nuzleaf",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Nuzleaf",
+            "to": "Shiftry",
+            "method": [
+                "Use Leaf Stone"
+            ]
+        }
+    ]
+}

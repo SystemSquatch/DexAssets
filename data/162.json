@@ -1,0 +1,133 @@
+{
+    "name": "Furret",
+    "pokedex_number": "#0162",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Run Away",
+        "Keen Eye",
+        "Frisk"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 76,
+        "Defense": 64,
+        "Sp. Atk": 45,
+        "Sp. Def": 55,
+        "Speed": 90,
+        "Total": 415
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It makes a nest to suit its long and skinny body. The nest is impossible for other Pok é mon to enter.",
+            "Silver": "There is no telling where the tail begins. Despite its short legs, it is quick at hunting Rattata .",
+            "Crystal": "It lives in narrow burrows that fit its slim body. The deeper the nests go, the more maze-like they become.",
+            "Stadium 2": "It makes a nest to suit its long and skinny body. The nest is impossible for other Pok é mon to enter. (Pokémon Red, Silver, or Crystal inserted) There is no telling where the tail begins. Despite its short legs, it is quick at hunting Rattata . (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pok é mon is very nimble and fleet.",
+            "Sapphire": "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pok é mon is very nimble and fleet.",
+            "Emerald": "A Furret has a very slim build. When under attack, it can squirm through narrow spaces and get away. In spite of its short limbs, it is very nimble and fleet.",
+            "FireRed": "There is no telling where its tail begins. Despite its short legs, it is quick at hunting Rattata .",
+            "LeafGreen": "It makes a nest to suit its long and skinny body. The nest is impossible for other Pok é mon to enter."
+        },
+        "Generation IV": {
+            "Diamond": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
+            "Pearl": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
+            "Platinum": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
+            "HeartGold": "It makes a nest to suit its long and skinny body. The nest is impossible for other Pokémon to enter.",
+            "SoulSilver": "There is no telling where the tail begins. Despite its short legs, it is quick and likes to chase Rattata ."
+        },
+        "Generation V": {
+            "Black": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
+            "White": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
+            "Black 2": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
+            "White 2": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed."
+        },
+        "Generation VI": {
+            "X": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
+            "Y": "It makes a nest to suit its long and skinny body. The nest is impossible for other Pokémon to enter.",
+            "Omega Ruby": "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet.",
+            "Alpha Sapphire": "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
+            "Shining Pearl": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed."
+        },
+        "Generation IX": {
+            "Scarlet": "It raises its offspring inside a long, narrow nest. Once they're old enough, it takes them outside the nest to prepare them for independence.",
+            "Violet": "It is nimble and has a very flexible body. Even if you get ahold of it, it'll slip right out of your arms."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Route 1 Morning Day",
+            "Silver": "Route 1 Morning Day",
+            "Crystal": "Routes 1 and 43 Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Sentret",
+            "LeafGreen": "Evolve Sentret",
+            "Colosseum": "Pyrite Town (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Sentret",
+            "Pearl": "Evolve Sentret",
+            "Platinum": "Evolve Sentret",
+            "HeartGold": "Route 1 Morning Day Safari Zone (tall grass in Swamp with 5 Plains points; tall grass in Wetland with 2 Plains points)",
+            "SoulSilver": "Route 1 Morning Day Safari Zone (tall grass in Swamp with 5 Plains points; tall grass in Wetland with 2 Plains points)",
+            "Pal Park": "Field",
+            "Pokéwalker": "Town Outskirts"
+        },
+        "Generation V": {
+            "Black": "Evolve Sentret",
+            "White": "Evolve Sentret",
+            "Black 2": "Route 7 ( Swarm )",
+            "White 2": "Route 7 ( Swarm )"
+        },
+        "Generation VI": {
+            "X": "Evolve Sentret",
+            "Y": "Evolve Sentret",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Grand Underground - Spacious Cave , Rocky Cave , Volcanic Cave , Whiteout Cave , Big Bluff Cavern , Typhlo Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Grand Underground - Spacious Cave , Rocky Cave , Volcanic Cave , Whiteout Cave , Big Bluff Cavern , Typhlo Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Apple Hills , Reveler's Road , Kitakami Hall , Mossfell Confluence Tera Raid Battles ( 3★ , 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Sentret",
+            "to": "Furret",
+            "method": [
+                "Level 15"
+            ]
+        }
+    ]
+}

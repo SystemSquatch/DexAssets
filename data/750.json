@@ -1,0 +1,72 @@
+{
+    "name": "Mudsdale",
+    "pokedex_number": "#0750",
+    "types": [
+        "Ground",
+        "Unknown"
+    ],
+    "abilities": [
+        "Own Tempo",
+        "Stamina",
+        "Inner Focus"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 125,
+        "Defense": 100,
+        "Sp. Atk": 55,
+        "Sp. Def": 85,
+        "Speed": 35,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It spits a mud that provides resistance to both wind and rain, so the walls of old houses were often coated with it.",
+            "Moon": "Its heavy, mud-covered kicks are its best means of attack, and it can reduce large trucks to scrap without breaking a sweat.",
+            "Ultra Sun": "It remains calm and unmoving no matter the situation. It mixes dirt with the saliva in its mouth to make a special kind of mud.",
+            "Ultra Moon": "It can trudge mountain roads without rest for three days and three nights, all the while dragging a 10-ton load."
+        },
+        "Generation VIII": {
+            "Sword": "Mud that hardens around a Mudsdale's legs sets harder than stone. It's so hard that it allows this Pokémon to scrap a truck with a single kick.",
+            "Shield": "Mudsdale has so much stamina that it could carry over 10 tons across the Galar region without rest or sleep."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon has been treasured not just for its physical labor but also because it produces high-quality mud used for making pottery.",
+            "Violet": "Its legs are fortified with mud and harder than stone, and they can reduce a large truck to scrap with one kick."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Poni Plains",
+            "Moon": "Poni Plains",
+            "Ultra Sun": "Poni Plains Route 12 , Blush Mountain ( SOS Battle )",
+            "Ultra Moon": "Poni Plains Route 12 , Blush Mountain ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Axew's Eye , Giant's Seat , Dusty Bowl Rolling Fields , Bridge Field ( Max Raid Battle )",
+            "Shield": "Axew's Eye , Giant's Seat , Dusty Bowl Rolling Fields , Bridge Field ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six North Province: Area One , Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 5★ )",
+            "Violet": "South Province: Area Six North Province: Area One , Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 5★ )",
+            "The Hidden Treasure of Area Zero": "Evolve Mudbray"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Mudbray",
+            "to": "Mudsdale",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

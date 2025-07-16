@@ -1,0 +1,102 @@
+{
+    "name": "Pawniard",
+    "pokedex_number": "#0624",
+    "types": [
+        "Dark",
+        "Steel"
+    ],
+    "abilities": [
+        "Defiant",
+        "Inner Focus",
+        "Pressure"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 85,
+        "Defense": 70,
+        "Sp. Atk": 40,
+        "Sp. Def": 40,
+        "Speed": 60,
+        "Total": 340
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
+            "White": "They fight at Bisharp's command. They cling to their prey and inflict damage by sinking their blades into it.",
+            "Black 2": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
+            "White 2": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey."
+        },
+        "Generation VI": {
+            "X": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
+            "Y": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
+            "Omega Ruby": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
+            "Alpha Sapphire": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey."
+        },
+        "Generation VII": {
+            "Ultra Sun": "After shredding its prey, it sharpens its blades on a stone by the river. Each Pawniard has its own favorite sharpening stone.",
+            "Ultra Moon": "It follows Bisharp's orders to a tee when it attacks enemies. After slashing an opponent, Pawniard clangs both of its blades together."
+        },
+        "Generation VIII": {
+            "Sword": "It uses river stones to maintain the cutting edges of the blades covering its body. These sharpened blades allow it to bring down opponents.",
+            "Shield": "A pack of these Pokémon forms to serve a Bisharp boss. Each Pawniard trains diligently, dreaming of one day taking the lead."
+        },
+        "Generation IX": {
+            "Scarlet": "Pawniard will fearlessly challenge even powerful foes. In a pinch, it will cling to opponents and pierce them with the blades all over its body.",
+            "Violet": "Any chips in its blades would prove fatal for it. After each battle, it diligently maintains its blades using its favorite sharpening stone."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 9 and 11",
+            "White": "Routes 9 and 11",
+            "Black 2": "Route 9",
+            "White 2": "Route 9",
+            "Dream World": "Spooky Manor *"
+        },
+        "Generation VI": {
+            "X": "Route 15 , Lost Hotel , Friend Safari ( Dark )",
+            "Y": "Route 15 , Lost Hotel , Friend Safari ( Dark )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 17 ( SOS Battle )",
+            "Ultra Moon": "Route 17 ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 8 , Motostoke Outskirts , Giant's Cap , Giant's Mirror , Stony Wilderness , Motostoke Riverbank West Lake Axewell , Giant's Seat , Stony Wilderness , Giant's Mirror , Dusty Bowl , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Route 8 , Motostoke Outskirts , Giant's Cap , Giant's Mirror , Stony Wilderness , Motostoke Riverbank West Lake Axewell , Giant's Seat , Stony Wilderness , Giant's Mirror , Dusty Bowl , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Soothing Wetlands , Forest of Focus , Challenge Road , Potbottom Desert",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Five East Province: Area Three North Province: Area Two Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Area Five East Province: Area Three North Province: Area Two Tera Raid Battles ( 2★ )",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Oni Mountain , Wistful Fields , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Pawniard",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Pawniard",
+            "to": "Bisharp",
+            "method": [
+                "Level 52"
+            ]
+        }
+    ]
+}

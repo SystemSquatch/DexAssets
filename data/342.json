@@ -1,0 +1,127 @@
+{
+    "name": "Crawdaunt",
+    "pokedex_number": "#0342",
+    "types": [
+        "Water",
+        "Dark"
+    ],
+    "abilities": [
+        "Hyper Cutter",
+        "Shell Armor",
+        "Adaptability"
+    ],
+    "stats": {
+        "HP": 63,
+        "Attack": 120,
+        "Defense": 85,
+        "Sp. Atk": 90,
+        "Sp. Def": 55,
+        "Speed": 55,
+        "Total": 468
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Crawdaunt has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this Pok é mon , making them desolate places.",
+            "Sapphire": "Crawdaunt molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this Pok é mon hides in its streambed burrow to avoid attack from its foes.",
+            "Emerald": "A brutish Pok é mon that loves to battle. A veteran Crawdaunt that has prevailed in hundreds of battles has giant pincers marked with countless scars.",
+            "FireRed": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
+            "LeafGreen": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise."
+        },
+        "Generation IV": {
+            "Diamond": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+            "Pearl": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+            "Platinum": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+            "HeartGold": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
+            "SoulSilver": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest."
+        },
+        "Generation V": {
+            "Black": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+            "White": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+            "Black 2": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out.",
+            "White 2": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out."
+        },
+        "Generation VI": {
+            "X": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+            "Y": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out.",
+            "Omega Ruby": "Crawdaunt has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this Pokémon, making them desolate places.",
+            "Alpha Sapphire": "Crawdaunt molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this Pokémon hides in its streambed burrow to avoid attack from its foes."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Its temperament is rough and it loves to fight, but as soon as its pincers break off, it turns cowardly. It stays timid until they grow back.",
+            "Ultra Moon": "Its pincers often fall off. Unlike with Crabrawler or Clauncher, the meat in its claws is utterly nasty and stinking."
+        },
+        "Generation VIII": {
+            "Sword": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
+            "Shield": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
+            "Brilliant Diamond": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+            "Shining Pearl": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond."
+        },
+        "Generation IX": {
+            "Scarlet": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out.",
+            "Violet": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Corphish",
+            "Sapphire": "Evolve Corphish",
+            "Emerald": "Evolve Corphish",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Celestic Town ( Super Rod )",
+            "Pearl": "Celestic Town ( Super Rod )",
+            "Platinum": "Celestic Town ( Super Rod )",
+            "HeartGold": "Evolve Corphish",
+            "SoulSilver": "Evolve Corphish",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Corphish",
+            "Black 2": "Route 3 and Striaton City ( Surfing in rippling water )",
+            "White 2": "Route 3 and Striaton City ( Surfing in rippling water )"
+        },
+        "Generation VI": {
+            "X": "Route 3 and Parfum Palace ( Super Rod ) Friend Safari ( Dark )",
+            "Y": "Route 3 and Parfum Palace ( Super Rod ) Friend Safari ( Dark )",
+            "Omega Ruby": "Routes 117 and 123 ( Super Rod )",
+            "Alpha Sapphire": "Routes 117 and 123 ( Super Rod )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Vast Poni Canyon ( SOS Battle )",
+            "Ultra Moon": "Vast Poni Canyon ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Axew's Eye , Giant's Seat South Lake Miloch , Turffield ( Wanderer ) Dusty Bowl , Giant's Mirror , South Lake Miloch , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Axew's Eye , Giant's Seat South Lake Miloch , Turffield ( Wanderer ) Dusty Bowl , Giant's Mirror , South Lake Miloch , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Forest of Focus , Challenge Beach , Training Lowlands ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Celestic Town ( Super Rod ) Grand Underground - Spacious Cave , Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Celestic Town ( Super Rod ) Grand Underground - Spacious Cave , Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge Tera Raid Battles ( 4★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Corphish",
+            "to": "Crawdaunt",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

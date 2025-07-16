@@ -1,0 +1,98 @@
+{
+    "name": "Gothorita",
+    "pokedex_number": "#0575",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Frisk",
+        "Competitive",
+        "Shadow Tag"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 70,
+        "Sp. Atk": 75,
+        "Sp. Def": 85,
+        "Speed": 55,
+        "Total": 390
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "They use hypnosis to control people and Pokémon. Tales of Gothorita leading people astray are told in every corner.",
+            "White": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
+            "Black 2": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
+            "White 2": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights."
+        },
+        "Generation VI": {
+            "X": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
+            "Y": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
+            "Omega Ruby": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
+            "Alpha Sapphire": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It's said that when stars shine in the night sky, this Pokémon will spirit away sleeping children. Some call it the Witch of Punishment.",
+            "Shield": "On nights when the stars shine, this Pokémon's psychic power is at its strongest. It's unknown just what link Gothorita has to the greater universe."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon will hypnotize children to put them to sleep before carrying them away. Be wary of nights when the starlight is bright.",
+            "Violet": "Using its psychic power, it arranges pebbles to form the shapes of constellations. Some people believe this Pokémon came from outer space."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 9",
+            "White": "Trade",
+            "Black 2": "Route 9 , Strange House",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Route 20 , Pokémon Village , Friend Safari ( Psychic )",
+            "Y": "Route 20 , Pokémon Village , Friend Safari ( Psychic )",
+            "Omega Ruby": "Evolve Gothita",
+            "Alpha Sapphire": "Evolve Gothita"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Gothita",
+            "Moon": "Evolve Gothita",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Giant's Cap , Dusty Bowl Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Sword Expansion Pass": "Slippery Slope , Frostpoint Field Giant's Bed , Snowslide Slope , Path to the Peak , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area Six Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Gothita",
+            "to": "Gothorita",
+            "method": [
+                "Level 32"
+            ]
+        },
+        {
+            "from": "Gothorita",
+            "to": "Gothitelle",
+            "method": [
+                "Level 41"
+            ]
+        }
+    ]
+}

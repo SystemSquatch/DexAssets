@@ -1,0 +1,149 @@
+{
+    "name": "Blastoise",
+    "pokedex_number": "#0009",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Rain Dish",
+        "Mega Launcher"
+    ],
+    "stats": {
+        "HP": 79,
+        "Attack": 83,
+        "Defense": 100,
+        "Sp. Atk": 85,
+        "Sp. Def": 105,
+        "Speed": 78,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "A brutal Pok é mon with pressurized water jets on its shell. They are used for high speed tackles.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "A brutal Pok é mon with pressurized water jets on its shell. They are used for high speed tackles.",
+            "Yellow": "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
+            "Stadium": "It has spouts extending from its shell at the top. They spray water like cannons, hard enough to pierce concrete walls."
+        },
+        "Generation II": {
+            "Gold": "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires.",
+            "Silver": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
+            "Crystal": "It firmly plants its feet on the ground before shooting water from the jets on its back.",
+            "Stadium 2": "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires. (Pokémon Red, Silver, or Crystal inserted) The rocket cannons on its shell fire jets of water capable of punching holes through thick steel. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet .",
+            "Sapphire": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet .",
+            "Emerald": "The waterspouts that protrude from its shell are highly accurate. Their bullets of water can precisely nail tin cans from a distance of over 160 feet .",
+            "FireRed": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+            "LeafGreen": "The pressurized water jets on this brutal Pok é mon 's shell are used for high- speed tackles."
+        },
+        "Generation IV": {
+            "Diamond": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+            "Pearl": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+            "Platinum": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+            "HeartGold": "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires.",
+            "SoulSilver": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel."
+        },
+        "Generation V": {
+            "Black": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+            "White": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+            "Black 2": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+            "White 2": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel."
+        },
+        "Generation VI": {
+            "X": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+            "Y": "The pressurized water jets on this brutal Pokémon's shell are used for high-speed tackles.",
+            "Omega Ruby": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet .",
+            "Alpha Sapphire": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet ."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "The cannon on its back is as powerful as a tank gun. Its tough legs and back enable it to withstand the recoil from firing the cannon.",
+            "Let's Go Eevee": "The cannon on its back is as powerful as a tank gun. Its tough legs and back enable it to withstand the recoil from firing the cannon."
+        },
+        "Generation VIII": {
+            "Sword": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+            "Shield": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
+            "Brilliant Diamond": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+            "Shining Pearl": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel."
+        },
+        "Generation IX": {
+            "Scarlet": "It deliberately increases its body weight so it can withstand the recoil of the water jets it fires.",
+            "Violet": "It has jet nozzles on its shell. This impressive Pokémon uses these jets to charge toward foes with all the force of a rocket."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Wartortle",
+            "Blue": "Evolve Wartortle",
+            "Blue (Japan)": "Evolve Wartortle",
+            "Yellow": "Evolve Wartortle"
+        },
+        "Generation II": {
+            "Gold": "Time Capsule , Event",
+            "Silver": "Time Capsule , Event",
+            "Crystal": "Time Capsule , Event"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "Evolve Wartortle",
+            "LeafGreen": "Evolve Wartortle",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Wartortle",
+            "SoulSilver": "Evolve Wartortle",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer , Evolve Wartortle (from Event Squirtle )",
+            "White": "Poké Transfer , Evolve Wartortle (from Event Squirtle )",
+            "Black 2": "Poké Transfer , Evolve Wartortle (from Event Squirtle )",
+            "White 2": "Poké Transfer , Evolve Wartortle (from Event Squirtle )"
+        },
+        "Generation VI": {
+            "X": "Evolve Wartortle",
+            "Y": "Evolve Wartortle",
+            "Omega Ruby": "Trade , Event",
+            "Alpha Sapphire": "Trade , Event"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Wartortle",
+            "Ultra Moon": "Evolve Wartortle",
+            "Let's Go Pikachu": "Evolve Wartortle",
+            "Let's Go Eevee": "Evolve Wartortle"
+        },
+        "Generation VIII": {
+            "Sword": "Evolve Wild Area News Wartortle Trade Version 1.2.0+",
+            "Shield": "Evolve Wild Area News Wartortle Trade Version 1.2.0+",
+            "Expansion Pass": "Evolve Wartortle Workout Sea , Stepping-Stone Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Wartortle",
+            "Shining Pearl": "Evolve Wartortle",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Wartortle"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Wartortle",
+            "to": "Blastoise",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

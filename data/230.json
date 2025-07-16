@@ -1,0 +1,135 @@
+{
+    "name": "Kingdra",
+    "pokedex_number": "#0230",
+    "types": [
+        "Water",
+        "Dragon"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Sniper",
+        "Damp"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 95,
+        "Defense": 95,
+        "Sp. Atk": 95,
+        "Sp. Def": 95,
+        "Speed": 85,
+        "Total": 540
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
+            "Silver": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
+            "Crystal": "It stores energy by sleeping at underwater depths at which no other life forms can survive.",
+            "Stadium 2": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning. (Pokémon Red, Silver, or Crystal inserted) It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Kingdra lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this Pok é mon creates spiraling ocean currents.",
+            "Sapphire": "Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pok é mon is said to awaken and wander about in search of prey.",
+            "Emerald": "It sleeps quietly, deep on the seafloor. When it comes up to the surface, it creates a huge whirlpool that can swallow even ships.",
+            "FireRed": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
+            "LeafGreen": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning."
+        },
+        "Generation IV": {
+            "Diamond": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+            "Pearl": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+            "Platinum": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+            "HeartGold": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
+            "SoulSilver": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes."
+        },
+        "Generation V": {
+            "Black": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+            "White": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+            "Black 2": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+            "White 2": "It lives in caves on the seafloor and creates giant whirlpools every time it moves."
+        },
+        "Generation VI": {
+            "X": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
+            "Y": "It stores energy by sleeping at underwater depths at which no other life-forms can survive.",
+            "Omega Ruby": "Kingdra lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this Pokémon creates spiraling ocean currents.",
+            "Alpha Sapphire": "Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pokémon is said to awaken and wander about in search of prey."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "With the arrival of a storm at sea, this Pokémon will show itself on the surface. When a Kingdra and a Dragonite meet, a fierce battle ensues.",
+            "Shield": "Scales shed by this Pokémon have such a splendorous gleam to them that they've been given to royalty as gifts.",
+            "Brilliant Diamond": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+            "Shining Pearl": "It lives in caves on the seafloor and creates giant whirlpools every time it moves."
+        },
+        "Generation IX": {
+            "Scarlet": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
+            "Violet": "This Pokémon is said to sleep at the bottom of the sea—deeper than any other life-form can descend—building its energy."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Seadra",
+            "Silver": "Evolve Seadra",
+            "Crystal": "Evolve Seadra"
+        },
+        "Generation III": {
+            "Ruby": "Evolve Seadra",
+            "Sapphire": "Evolve Seadra",
+            "Emerald": "Evolve Seadra",
+            "FireRed": "Evolve Seadra",
+            "LeafGreen": "Evolve Seadra",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Seadra",
+            "Pearl": "Evolve Seadra",
+            "Platinum": "Evolve Seadra",
+            "HeartGold": "Evolve Seadra",
+            "SoulSilver": "Evolve Seadra",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Routes 17 and 18 , P2 Laboratory ( Fishing in rippling water )",
+            "White": "Routes 17 and 18 , P2 Laboratory ( Fishing in rippling water )",
+            "Black 2": "Routes 17 and 18 , P2 Laboratory ( Fishing in rippling water )",
+            "White 2": "Routes 17 and 18 , P2 Laboratory ( Fishing in rippling water )"
+        },
+        "Generation VI": {
+            "X": "Evolve Seadra",
+            "Y": "Evolve Seadra",
+            "Omega Ruby": "Evolve Seadra",
+            "Alpha Sapphire": "Evolve Seadra"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Seadra",
+            "Moon": "Evolve Seadra",
+            "Ultra Sun": "Evolve Seadra",
+            "Ultra Moon": "Evolve Seadra",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Honeycalm Sea ( Wanderer ) Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Seadra",
+            "Shining Pearl": "Evolve Seadra",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Seadra",
+            "to": "Kingdra",
+            "method": [
+                "Trade (holding Dragon Scale)"
+            ]
+        }
+    ]
+}

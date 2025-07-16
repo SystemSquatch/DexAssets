@@ -1,0 +1,81 @@
+{
+    "name": "Audino",
+    "pokedex_number": "#0531",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Healer",
+        "Regenerator",
+        "Klutz",
+        "Healer"
+    ],
+    "stats": {
+        "HP": 103,
+        "Attack": 60,
+        "Defense": 86,
+        "Sp. Atk": 60,
+        "Sp. Def": 86,
+        "Speed": 50,
+        "Total": 445
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+            "White": "Its auditory sense is astounding. It has a radarlike ability to understand its surroundings through slight sounds.",
+            "Black 2": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
+            "White 2": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch."
+        },
+        "Generation VI": {
+            "X": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
+            "Y": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+            "Omega Ruby": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
+            "Alpha Sapphire": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Audino's sense of hearing is superb. Not even a pebble rolling along over a mile away will escape Audino's ears.",
+            "Shield": "This Pokémon has a kind heart. By touching with its feelers, Audino can gauge other creatures' feelings and physical conditions."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 1 , 2 , 3 , 5 , 6 , 7 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , and 18 , P2 Laboratory , Dreamyard , Pinwheel Forest , Lostlorn Forest , Dragonspiral Tower , Village Bridge , Giant Chasm , Abundant Shrine , Cold Storage ( rustling grass )",
+            "White": "Routes 1 , 2 , 3 , 5 , 6 , 7 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , and 18 , P2 Laboratory , Dreamyard , Pinwheel Forest , Lostlorn Forest , Dragonspiral Tower , Village Bridge , Giant Chasm , Abundant Shrine , Cold Storage ( rustling grass )",
+            "Black 2": "Routes 1 , 2 , 3 , 5 , 6 , 7 , 9 , 11 , 12 , 13 , 14 , 15 , 16 , 18 , 20 , 22 , and 23 , Floccesy Ranch , Virbank Complex , Pinwheel Forest , Dreamyard , P2 Laboratory , Castelia City , Lostlorn Forest , Dragonspiral Tower , Village Bridge , Giant Chasm , Abundant Shrine , Victory Road , Reversal Mountain , Nature Preserve ( rustling grass )",
+            "White 2": "Routes 1 , 2 , 3 , 5 , 6 , 7 , 9 , 11 , 12 , 13 , 14 , 15 , 16 , 18 , 20 , 22 , and 23 , Floccesy Ranch , Virbank Complex , Pinwheel Forest , Dreamyard , P2 Laboratory , Castelia City , Lostlorn Forest , Dragonspiral Tower , Village Bridge , Giant Chasm , Abundant Shrine , Victory Road , Reversal Mountain , Nature Preserve ( rustling grass )",
+            "Dream World": "Dream Park *"
+        },
+        "Generation VI": {
+            "X": "Route 6 (rustling bush) Friend Safari ( Normal )",
+            "Y": "Route 6 (rustling bush) Friend Safari ( Normal )",
+            "Omega Ruby": "Mirage Forests (south of Route 109 , south of Route 132 ), Mirage Island (south of Pacifidlog Town ), Mirage Mountain (north of Route 125 )",
+            "Alpha Sapphire": "Mirage Forests (south of Route 109 , south of Route 132 ), Mirage Island (south of Pacifidlog Town ), Mirage Mountain (north of Route 125 )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Rocky World )",
+            "Ultra Moon": "Ultra Space Wilds ( Rocky World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Slippery Slope , Frostpoint Field , Giant's Bed , Old Cemetery , Snowslide Slope , Tunnel to the Top , Path to the Peak , Giant's Foot , Roaring-Sea Caves , Frigid Sea , Three-Point Pass , Ballimere Lake , Lakeside Cave Slippery Slope , Frostpoint Field , Giant's Bed , Giant's Foot , Ballimere Lake ( Wanderer ) Max Lair ( Dynamax Adventure ) Slippery Slope , Frostpoint Field , Giant's Bed , Old Cemetery , Snowslide Slope , Path to the Peak , Crown Shrine , Giant's Foot , Frigid Sea , Three-Point Pass , Ballimere Lake , Dyna Tree Hill ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

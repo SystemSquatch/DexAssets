@@ -1,0 +1,41 @@
+{
+    "name": "Sinistcha",
+    "pokedex_number": "#1013",
+    "types": [
+        "Grass",
+        "Ghost"
+    ],
+    "abilities": [
+        "Hospitality",
+        "Heatproof"
+    ],
+    "stats": {
+        "HP": 71,
+        "Attack": 60,
+        "Defense": 106,
+        "Sp. Atk": 121,
+        "Sp. Def": 80,
+        "Speed": 70,
+        "Total": 508
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It lives inside a superb teacup that was crafted by a potter of great renown. Collectors positively adore this Pokémon.",
+            "Violet": "The more stirring it does with the tea whisk on its head, the more energy it builds up. It does this to prepare for battle."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {}
+    },
+    "evolution": [
+        {
+            "from": "Poltchageist",
+            "to": "Sinistcha",
+            "method": [
+                "Unknown"
+            ]
+        }
+    ]
+}

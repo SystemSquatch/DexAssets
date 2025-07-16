@@ -1,0 +1,94 @@
+{
+    "name": "Darumaka",
+    "pokedex_number": "#0554",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Hustle",
+        "Inner Focus"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 45,
+        "Sp. Atk": 15,
+        "Sp. Def": 45,
+        "Speed": 50,
+        "Total": 315
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
+            "White": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
+            "Black 2": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100° F .",
+            "White 2": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100° F ."
+        },
+        "Generation VI": {
+            "X": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
+            "Y": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit .",
+            "Omega Ruby": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
+            "Alpha Sapphire": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit ."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It lived in snowy areas for so long that its fire sac cooled off and atrophied. It now has an organ that generates cold instead.",
+            "Shield": "The colder they get, the more energetic they are. They freeze their breath to make snowballs, using them as ammo for playful snowball fights."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 4 , Desert Resort",
+            "White": "Route 4 , Desert Resort",
+            "Black 2": "Route 4 , Desert Resort Desert Resort ( N's Pokémon )",
+            "White 2": "Route 4 , Desert Resort Desert Resort ( N's Pokémon )"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Breed Darmanitan",
+            "Alpha Sapphire": "Breed Darmanitan"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+ ( Unovan Form ) Routes 8 and 10 ( Galarian Form ) Dusty Bowl , Giant's Cap , Hammerlocke Hills , Lake of Outrage , Stony Wilderness ( Max Raid Battle ) ( Galarian Form )",
+            "Shield": "Trade Version 1.2.0+ ( Unovan Form ) Trade , Wild Area News ( Galarian Form )",
+            "Sword Expansion Pass": "Trade Galarian Darumaka with Regina on Isle of Armor ( Unovan Form ) Snowslide Slope ( Galarian Form ) Slippery Slope , Giant's Bed , Snowslide Slope , Frigid Sea ( Max Raid Battle ) ( Galarian Form )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Darumaka",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Darumaka",
+            "to": "Darmanitan",
+            "method": [
+                "Level 35",
+                "Use Ice Stone"
+            ]
+        }
+    ]
+}

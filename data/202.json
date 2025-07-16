@@ -1,0 +1,131 @@
+{
+    "name": "Wobbuffet",
+    "pokedex_number": "#0202",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Shadow Tag",
+        "Telepathy"
+    ],
+    "stats": {
+        "HP": 190,
+        "Attack": 33,
+        "Defense": 58,
+        "Sp. Atk": 33,
+        "Sp. Def": 58,
+        "Speed": 33,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike.",
+            "Silver": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+            "Crystal": "In order to conceal its black tail, it lives in a dark cave and only moves about at night.",
+            "Stadium 2": "It hates light and shock. If attacked, it inflates its body to pump up its counter strike. (Pokémon Red, Silver, or Crystal inserted) To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "If two or more Wobbuffet meet, they will turn competitive and try to outdo each other's endurance. However, they may try to see which one can endure the longest without food. Trainers need to beware of this habit.",
+            "Sapphire": "Wobbuffet does nothing but endure attacks - it won't attack on its own. However, it won't endure an attack on its tail. When that happens, the Pok é mon will try to take the foe with it using Destiny Bond .",
+            "Emerald": "Usually docile, a Wobbuffet strikes back ferociously if its black tail is attacked. It makes its lair in caves where it waits for nightfall.",
+            "FireRed": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+            "LeafGreen": "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike."
+        },
+        "Generation IV": {
+            "Diamond": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
+            "Pearl": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
+            "Platinum": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
+            "HeartGold": "It hates light and shock. If attacked, it inflates its body to build up its counterstrike.",
+            "SoulSilver": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack."
+        },
+        "Generation V": {
+            "Black": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
+            "White": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
+            "Black 2": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
+            "White 2": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret."
+        },
+        "Generation VI": {
+            "X": "It hates light and shock. If attacked, it inflates its body to build up its counterstrike.",
+            "Y": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+            "Omega Ruby": "If two or more Wobbuffet meet, they will turn competitive and try to outdo each other's endurance. However, they may try to see which one can endure the longest without food. Trainers need to beware of this habit.",
+            "Alpha Sapphire": "Wobbuffet does nothing but endure attacks—it won't attack on its own. However, it won't endure an attack on its tail. When that happens, the Pokémon will try to take the foe with it using Destiny Bond."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike.",
+            "Shield": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+            "Brilliant Diamond": "It desperately tries to keep its black tail hidden. This behavior is said to be proof that its tail hides a secret.",
+            "Shining Pearl": "It desperately tries to keep its black tail hidden. This behavior is said to be proof that its tail hides a secret."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Dark Cave *",
+            "Silver": "Dark Cave *",
+            "Crystal": "Dark Cave * Night , Goldenrod Game Corner"
+        },
+        "Generation III": {
+            "Ruby": "Safari Zone",
+            "Sapphire": "Safari Zone",
+            "Emerald": "Safari Zone",
+            "FireRed": "Cerulean Cave , Ruin Valley",
+            "LeafGreen": "Cerulean Cave , Ruin Valley",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Lake Verity , Lake Acuity , Lake Valor ( Poké Radar )",
+            "Pearl": "Lake Verity , Lake Acuity , Lake Valor ( Poké Radar )",
+            "Platinum": "Lake Verity , Lake Valor ( Poké Radar )",
+            "HeartGold": "Cerulean Cave , Dark Cave (Blackthorn side) Safari Zone Night (Peak, default and 10 Peak points)",
+            "SoulSilver": "Cerulean Cave , Dark Cave (Blackthorn side) Safari Zone Night (Peak, default and 10 Peak points)",
+            "Pal Park": "Field",
+            "Pokéwalker": "Noisy Forest"
+        },
+        "Generation V": {
+            "Black": "Evolve Wynaut",
+            "White": "Evolve Wynaut",
+            "Black 2": "Trade with Curtis or Yancy in Nimbasa City",
+            "White 2": "Trade with Curtis or Yancy in Nimbasa City",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Reflection Cave , Friend Safari ( Psychic )",
+            "Y": "Reflection Cave , Friend Safari ( Psychic )",
+            "Omega Ruby": "Safari Zone (Zone 2, long grass )",
+            "Alpha Sapphire": "Safari Zone (Zone 2, long grass )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 5 , Motostoke Riverbank , Bridge Field , Dusty Bowl , Hammerlocke Hills , Lake of Outrage Motostoke Riverbank , Stony Wilderness , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Route 5 , Motostoke Riverbank , Bridge Field , Dusty Bowl , Hammerlocke Hills , Lake of Outrage Motostoke Riverbank , Stony Wilderness , Hammerlocke Hills ( Max Raid Battle )",
+            "Brilliant Diamond": "Lake Verity , Lake Acuity , Lake Valor ( Poké Radar ) Grand Underground - Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Lake Verity , Lake Acuity , Lake Valor ( Poké Radar ) Grand Underground - Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Wynaut",
+            "to": "Wobbuffet",
+            "method": [
+                "Level 15"
+            ]
+        }
+    ]
+}

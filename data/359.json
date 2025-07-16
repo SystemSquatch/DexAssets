@@ -1,0 +1,119 @@
+{
+    "name": "Absol",
+    "pokedex_number": "#0359",
+    "types": [
+        "Dark",
+        "Unknown"
+    ],
+    "abilities": [
+        "Pressure",
+        "Super Luck",
+        "Justified",
+        "Magic Bounce"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 130,
+        "Defense": 60,
+        "Sp. Atk": 75,
+        "Sp. Def": 60,
+        "Speed": 75,
+        "Total": 465
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Every time Absol appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster Pok é mon .",
+            "Sapphire": "Absol has the ability to foretell the coming of natural disasters. It lives in a harsh, rugged mountain environment. This Pok é mon very rarely ventures down from the mountains.",
+            "Emerald": "It sharply senses even subtle changes in the sky and the land to predict natural disasters. It is a long-lived Pok é mon that has a life-span of 100 years.",
+            "FireRed": "It appears when it senses an impending natural disaster. As a result, it was mistaken as a doom-bringer.",
+            "LeafGreen": "It appears when it senses an impending natural disaster. As a result, it was mistaken as a doom-bringer."
+        },
+        "Generation IV": {
+            "Diamond": "It senses coming disasters and appears before people only to warn them of impending danger.",
+            "Pearl": "It senses coming disasters and appears before people only to warn them of impending danger.",
+            "Platinum": "Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.",
+            "HeartGold": "It has the ability to foretell natural disasters. Its life span is over a hundred years.",
+            "SoulSilver": "It has the ability to foretell natural disasters. Its life span is over a hundred years."
+        },
+        "Generation V": {
+            "Black": "Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.",
+            "White": "Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.",
+            "Black 2": "It appears from deep in the mountains to warn people about upcoming disasters it has sensed with its horn.",
+            "White 2": "It appears from deep in the mountains to warn people about upcoming disasters it has sensed with its horn."
+        },
+        "Generation VI": {
+            "X": "It senses coming disasters and appears before people only to warn them of impending danger.",
+            "Y": "It appears when it senses an impending natural disaster. As a result, it was mistaken as a doom bringer.",
+            "Omega Ruby": "Every time Absol appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster Pokémon.",
+            "Alpha Sapphire": "Absol has the ability to foretell the coming of natural disasters. It lives in a harsh, rugged mountain environment. This Pokémon very rarely ventures down from the mountains."
+        },
+        "Generation VII": {
+            "Sun": "When this Pokémon whips the winglike fur on its back as though beating its wings, it sends an intimidating aura flying at its opponents.",
+            "Moon": "As the energy of Mega Evolution fills it, its fur bristles. What you see on its back are not true wings, and this Pokémon isn't able to fly.",
+            "Ultra Sun": "Normally, it dislikes fighting, so it really hates changing to this form for battles.",
+            "Ultra Moon": "It converts the energy from Mega Evolution into an intimidating aura. Fainthearted people expire from shock at the sight of it."
+        },
+        "Generation VIII": {
+            "Sword": "Swift as the wind, Absol races through fields and mountains. Its curved, bow-like horn is acutely sensitive to the warning signs of natural disasters.",
+            "Shield": "Because of this Pokémon's ability to detect danger, people mistook Absol as a bringer of doom.",
+            "Brilliant Diamond": "It senses coming disasters and appears before people only to warn them of impending danger.",
+            "Shining Pearl": "It senses coming disasters and appears before people only to warn them of impending danger."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 120",
+            "Sapphire": "Route 120",
+            "Emerald": "Route 120",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Tower Colosseum (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 213 ( Swarm )",
+            "Pearl": "Route 213 ( Swarm )",
+            "Platinum": "Mt. Coronet (summit)",
+            "HeartGold": "Slowpoke Well , Union Cave , Mt. Mortar , Dark Cave , Whirl Islands , Mt. Silver Cave , Ice Path , Cliff Cave , Diglett's Cave , Mt. Moon , Cerulean Cave , Rock Tunnel , Seafoam Islands , Victory Road , Tohjo Falls (Hoenn Sound)",
+            "SoulSilver": "Slowpoke Well , Union Cave , Mt. Mortar , Dark Cave , Whirl Islands , Mt. Silver Cave , Ice Path , Cliff Cave , Diglett's Cave , Mt. Moon , Cerulean Cave , Rock Tunnel , Seafoam Islands , Victory Road , Tohjo Falls (Hoenn Sound)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Route 13 , Giant Chasm",
+            "White": "Route 13 , Giant Chasm",
+            "Black 2": "Routes 13 and 14 Route 23 ( Hidden Grotto )",
+            "White 2": "Routes 13 and 14 Route 23 ( Hidden Grotto )",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Route 8 , Friend Safari ( Dark )",
+            "Y": "Route 8 , Friend Safari ( Dark )",
+            "Omega Ruby": "Route 120",
+            "Alpha Sapphire": "Route 120"
+        },
+        "Generation VII": {
+            "Sun": "Mount Lanakila , Tapu Village",
+            "Moon": "Mount Lanakila , Tapu Village",
+            "Ultra Sun": "Mount Lanakila , Tapu Village",
+            "Ultra Moon": "Mount Lanakila , Tapu Village",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Giant's Bed , Old Cemetery , Snowslide Slope , Path to the Peak , Giant's Foot , Frigid Sea , Three-Point Pass Frostpoint Field ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Route 213 ( Swarm ) Grand Underground - Spacious Cave , Grassland Cave , Dazzling Cave , Sunlit Cavern * , Stargleam Cavern , Big Bluff Cavern",
+            "Shining Pearl": "Route 213 ( Swarm ) Grand Underground - Spacious Cave , Grassland Cave , Dazzling Cave , Sunlit Cavern * , Stargleam Cavern , Big Bluff Cavern",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Gimmighoul",
+    "pokedex_number": "#0999",
+    "types": [
+        "Ghost",
+        "Unknown"
+    ],
+    "abilities": [
+        "Rattled",
+        "Run Away"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 70,
+        "Sp. Atk": 75,
+        "Sp. Def": 70,
+        "Speed": 10,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon was born from passion that seeped into a coin. It wanders, apparently seeking to return to the treasure chest it once inhabited.",
+            "Violet": "It wanders around, carrying an old coin on its back. It survives by draining the life-force from humans who try to pick up its coin."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Chest Form South Province: Area One : On cliff north of Poco Path Lighthouse Area Two , Area Three , Area Four , Area Five , Area Six : on Watchtowers & Leaking Tower of Paldea East Province: Area One : on Watchtower, and on plateau west of Area Two 's southwestern Pokémon Center Area Three : on Watchtower West Province: Area One : on Watchtower Area Two : inside Colonnade Hollow West Paldean Sea : on nearest island southwest of Porto Marinada Asado Desert : on Watchtower, on rock formation south of Watchtower, and in Ruins north of Watchtower North Province: Area One : on Watchtower, and in Ruins southwest of lake Area Two : in center of shallow pond west of Firescourge Shrine Casseroya Lake : on Watchtowers #1, #2, and #3, in Ruins between Watchtowers #1 & #2, and on northwest side of central rock formation in Socarrat Trail Glaseado Mountain : on Watchtower, near top of waterfall west of Montenevera , and in Ruins west of Dalizapa Passage Roaming Form Transfer from Pokémon GO via Pokémon HOME",
+            "Violet": "Chest Form South Province: Area One : On cliff north of Poco Path Lighthouse Area Two , Area Three , Area Four , Area Five , Area Six : on Watchtowers & Leaking Tower of Paldea East Province: Area One : on Watchtower, and on plateau west of Area Two 's southwestern Pokémon Center Area Three : on Watchtower West Province: Area One : on Watchtower Area Two : inside Colonnade Hollow West Paldean Sea : on nearest island southwest of Porto Marinada Asado Desert : on Watchtower, on rock formation south of Watchtower, and in Ruins north of Watchtower North Province: Area One : on Watchtower, and in Ruins southwest of lake Area Two : in center of shallow pond west of Firescourge Shrine Casseroya Lake : on Watchtowers #1, #2, and #3, in Ruins between Watchtowers #1 & #2, and on northwest side of central rock formation in Socarrat Trail Glaseado Mountain : on Watchtower, near top of waterfall west of Montenevera , and in Ruins west of Dalizapa Passage Roaming Form Transfer from Pokémon GO via Pokémon HOME"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Gimmighoul",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Gimmighoul",
+            "to": "Gholdengo",
+            "method": [
+                "Other"
+            ]
+        }
+    ]
+}

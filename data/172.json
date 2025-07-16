@@ -1,0 +1,147 @@
+{
+    "name": "Pichu",
+    "pokedex_number": "#0172",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Static",
+        "Lightning Rod"
+    ],
+    "stats": {
+        "HP": 20,
+        "Attack": 40,
+        "Defense": 15,
+        "Sp. Atk": 35,
+        "Sp. Def": 35,
+        "Speed": 60,
+        "Total": 205
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+            "Silver": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
+            "Crystal": "It is unskilled at storing electric power. Any kind of shock causes it to discharge energy spontaneously.",
+            "Stadium 2": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled."
+        },
+        "Generation III": {
+            "Ruby": "Pichu charges itself with electricity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricity coming off this Pok é mon .",
+            "Sapphire": "When Pichu plays with others, it may short out electricity with another Pichu , creating a shower of sparks. In that event, this Pok é mon will begin crying, startled by the flash of sparks.",
+            "Emerald": "It is still inept at retaining electricity. When it is startled, it discharges power accidentally. It gets better at holding power as it grows older.",
+            "FireRed": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
+            "LeafGreen": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled."
+        },
+        "Generation IV": {
+            "Diamond": "The electric pouches on its cheeks are still small. They cannot store much electricity yet.",
+            "Pearl": "It plays with others by touching tails and setting off sparks. This appears to be a test of courage.",
+            "Platinum": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
+            "HeartGold": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+            "SoulSilver": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself."
+        },
+        "Generation V": {
+            "Black": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
+            "White": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
+            "Black 2": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
+            "White 2": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked."
+        },
+        "Generation VI": {
+            "X": "It plays with others by touching tails and setting off sparks. This appears to be a test of courage.",
+            "Y": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+            "Omega Ruby": "Pichu charges itself with electricity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricity coming off this Pokémon.",
+            "Alpha Sapphire": "When Pichu plays with others, it may short out electricity with another Pichu, creating a shower of sparks. In that event, this Pokémon will begin crying, startled by the flash of sparks."
+        },
+        "Generation VII": {
+            "Sun": "It is not yet skilled at controlling electricity. If you take your eyes off it, it may shock itself.",
+            "Moon": "Despite this Pokémon's cute appearance, those who want to live with one should prepare to be on the receiving end of its electric jolts.",
+            "Ultra Sun": "It still can't use electricity well. When it's surprised or excited, it discharges electricity unintentionally.",
+            "Ultra Moon": "It has electric sacs in its cheeks. When they're fully charged, Pichu plays very energetically."
+        },
+        "Generation VIII": {
+            "Sword": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
+            "Shield": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
+            "Brilliant Diamond": "The electric sacs on its cheeks are still small. They cannot store much electricity yet.",
+            "Shining Pearl": "It plays with others by touching tails and setting off sparks. This appears to be a test of courage.",
+            "Legends: Arceus": "Pichu stores electricity in the sacs on its cheeks but discharges it inadvertently when agitated or excited. Being yet immature, the Pokémon's handling of electricity is rather inept."
+        },
+        "Generation IX": {
+            "Scarlet": "It is unskilled at storing electric power. Any kind of shock causes it to discharge energy spontaneously.",
+            "Violet": "Despite this Pokémon's cute appearance, those who want to live with one should prepare to be on the receiving end of its electric jolts."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Breed Pikachu or Raichu",
+            "Silver": "Breed Pikachu or Raichu",
+            "Crystal": "Breed Pikachu or Raichu Route 34 ( Odd Egg * )"
+        },
+        "Generation III": {
+            "Ruby": "Breed Pikachu or Raichu",
+            "Sapphire": "Breed Pikachu or Raichu",
+            "Emerald": "Breed Pikachu or Raichu",
+            "FireRed": "Breed Pikachu or Raichu",
+            "LeafGreen": "Breed Pikachu or Raichu",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trophy Garden",
+            "Pearl": "Trophy Garden",
+            "Platinum": "Trophy Garden",
+            "HeartGold": "Breed Pikachu or Raichu",
+            "SoulSilver": "Breed Pikachu or Raichu",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Breed Pikachu or Raichu",
+            "Y": "Breed Pikachu or Raichu",
+            "Omega Ruby": "Breed Pikachu or Raichu",
+            "Alpha Sapphire": "Breed Pikachu or Raichu"
+        },
+        "Generation VII": {
+            "Sun": "Route 1 , Hau'oli City",
+            "Moon": "Route 1 , Hau'oli City",
+            "Ultra Sun": "Route 1",
+            "Ultra Moon": "Route 1",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Giant's Cap , Hammerlocke Hills , Motostoke Riverbank ( Max Raid Battle )",
+            "Shield": "Giant's Cap , Hammerlocke Hills , Motostoke Riverbank ( Max Raid Battle )",
+            "Expansion Pass": "Forest of Focus ( Wanderer ) Fields of Honor , Forest of Focus , Challenge Beach , Honeycalm Seas ( Max Raid Battle )",
+            "Brilliant Diamond": "Trophy Garden",
+            "Shining Pearl": "Trophy Garden",
+            "Legends: Arceus": "Obsidian Fieldlands : near Aspiration Hill , Floaro Gardens , Nature's Pantry Day , massive mass outbreaks Crimson Mirelands : near Golden Lowlands"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Los Platos Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two , Los Platos Tera Raid Battles ( 1★ )",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Apple Hills , Loyalty Plaza , Reveler's Road , Oni Mountain , Oni's Maw , Infernal Pass , Crystal Pool , Wistful Fields"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Pichu",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Pichu",
+            "to": "Pikachu",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        }
+    ]
+}

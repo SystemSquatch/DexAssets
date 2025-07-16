@@ -1,0 +1,92 @@
+{
+    "name": "Stoutland",
+    "pokedex_number": "#0508",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Sand Rush",
+        "Scrappy"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 100,
+        "Defense": 90,
+        "Sp. Atk": 45,
+        "Sp. Def": 90,
+        "Speed": 80,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
+            "White": "This extremely wise Pokémon excels at rescuing people stranded at sea or in the mountains.",
+            "Black 2": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.",
+            "White 2": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain."
+        },
+        "Generation VI": {
+            "X": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
+            "Y": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.",
+            "Omega Ruby": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
+            "Alpha Sapphire": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain."
+        },
+        "Generation VII": {
+            "Sun": "Intelligent, good-natured, and valiant, it's a trustworthy partner on rescue teams.",
+            "Moon": "With this wise Pokémon, there could be no concern that it would ever attack people. Some parents even trust it to babysit.",
+            "Ultra Sun": "It pays no mind to the cold, thanks to its long warm coat. Stoutland in Alola look a little uncomfortable.",
+            "Ultra Moon": "Its fur is long and thick. A long time ago in cold regions, every household kept a Stoutland."
+        },
+        "Generation VIII": {
+            "Sword": "These Pokémon seem to enjoy living with humans. Even a Stoutland caught in the wild will warm up to people in about three days.",
+            "Shield": "Stoutland is immensely proud of its impressive moustache. It's said that moustache length is what determines social standing among this species."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 10 , Cold Storage , P2 Laboratory ( Rustling grass )",
+            "White": "Route 10 , Cold Storage , P2 Laboratory ( Rustling grass )",
+            "Black 2": "Routes 1 , 2 , and 3 , P2 Laboratory ( Rustling grass )",
+            "White 2": "Routes 1 , 2 , and 3 , P2 Laboratory ( Rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Herdier",
+            "Y": "Evolve Herdier",
+            "Omega Ruby": "Evolve Herdier",
+            "Alpha Sapphire": "Evolve Herdier"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Herdier",
+            "Moon": "Evolve Herdier",
+            "Ultra Sun": "Evolve Herdier",
+            "Ultra Moon": "Evolve Herdier",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Training Lowlands ( Wanderer ) Fields of Honor ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Herdier",
+            "to": "Stoutland",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

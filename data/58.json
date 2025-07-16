@@ -1,0 +1,162 @@
+{
+    "name": "Growlithe",
+    "pokedex_number": "#0058",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Flash Fire",
+        "Justified",
+        "Rock Head"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 45,
+        "Sp. Atk": 70,
+        "Sp. Def": 50,
+        "Speed": 60,
+        "Total": 350
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Very protective of its territory. It will bark and bite to repel intruders from its space.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Very protective of its territory. It will bark and bite to repel intruders from its space.",
+            "Yellow": "A Pok é mon with a friendly nature. However, it will bark fiercely at anything invading its territory.",
+            "Stadium": "Friendly and loyal, but also jealously protective of its territory. Carelessly approaching it may result in a bite."
+        },
+        "Generation II": {
+            "Gold": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+            "Silver": "Extremely loyal, it will fearlessly bark at any opponent to protect its own trainer from harm.",
+            "Crystal": "It controls a big territory. If it detects an unknown smell, it roars loudly to force out the intruder.",
+            "Stadium 2": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes. (Pokémon Red, Silver, or Crystal inserted) Extremely loyal, it will fearlessly bark at any opponent to protect its own trainer from harm. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Growlithe has a superb sense of smell. Once it smells anything, this Pok é mon won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
+            "Sapphire": "Growlithe has a superb sense of smell. Once it smells anything, this Pok é mon won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
+            "Emerald": "Its superb sense of smell ensures that this Pok é mon won't forget any scent, no matter what. It uses its sense of smell to detect the emotions of others.",
+            "FireRed": "Very friendly and faithful to people. It will try to repel enemies by barking and biting.",
+            "LeafGreen": "It is very protective of its territory. It will bark and bite to repel intruders from its space."
+        },
+        "Generation IV": {
+            "Diamond": "A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
+            "Pearl": "A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
+            "Platinum": "A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
+            "HeartGold": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+            "SoulSilver": "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm."
+        },
+        "Generation V": {
+            "Black": "A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
+            "White": "A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
+            "Black 2": "Extremely loyal to its Trainer, it will bark at those who approach the Trainer unexpectedly and run them out of town.",
+            "White 2": "Extremely loyal to its Trainer, it will bark at those who approach the Trainer unexpectedly and run them out of town."
+        },
+        "Generation VI": {
+            "X": "Very friendly and faithful to people. It will try to repel enemies by barking and biting.",
+            "Y": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+            "Omega Ruby": "Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
+            "Alpha Sapphire": "Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things."
+        },
+        "Generation VII": {
+            "Sun": "It's both clever and loyal, but if a stranger tries to invade its territory, it barks threateningly.",
+            "Moon": "It looks cute, but when you approach another Trainer's Growlithe, it will bark at you and bite.",
+            "Ultra Sun": "While it's quite friendly toward humans once it's grown used to them, in the wild it must be quite fierce to defend its territory from Rockruff.",
+            "Ultra Moon": "It has lived alongside humans since ages ago. Its bones have been found in excavations of ruins from the Stone Age.",
+            "Let's Go Pikachu": "A Pokémon with a friendly nature. However, it will bark fiercely at anything invading its territory.",
+            "Let's Go Eevee": "A Pokémon with a friendly nature. However, it will bark fiercely at anything invading its territory."
+        },
+        "Generation VIII": {
+            "Sword": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+            "Shield": "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.",
+            "Brilliant Diamond": "It is a Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
+            "Shining Pearl": "It is a Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
+            "Legends: Arceus": "They patrol their territory in pairs. I believe the igneous rock components in the fur of this species are the result of volcanic activity in its habitat."
+        },
+        "Generation IX": {
+            "Scarlet": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+            "Violet": "It's very friendly and faithful to people. It will try to repel enemies by barking and biting."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 7 and 8 , Pokémon Mansion",
+            "Blue": "Trade",
+            "Blue (Japan)": "Routes 7 and 8 , Pokémon Mansion",
+            "Yellow": "Pokémon Mansion"
+        },
+        "Generation II": {
+            "Gold": "Routes 7 , 8 , 36 , and 37",
+            "Silver": "Trade",
+            "Crystal": "Routes 8 , 35 , 36 , and 37 Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "Routes 7 and 8 , Pokémon Mansion",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Cipher Key Lair (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 201 and 202 (FireRed)",
+            "Pearl": "Routes 201 and 202 (FireRed)",
+            "Platinum": "Routes 201 and 202 (FireRed)",
+            "HeartGold": "Routes 7 , 8 , 36 , 37 , and 48",
+            "SoulSilver": "Trade",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Virbank Complex",
+            "White 2": "Virbank Complex",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Fire )",
+            "Y": "Friend Safari ( Fire )",
+            "Omega Ruby": "Mt. Pyre exterior ( hidden Pokémon * )",
+            "Alpha Sapphire": "Mt. Pyre exterior ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Route 2",
+            "Moon": "Route 2",
+            "Ultra Sun": "Route 2",
+            "Ultra Moon": "Route 2",
+            "Let's Go Pikachu": "Routes 5 , 6 , 7 and 8",
+            "Let's Go Eevee": "Trade"
+        },
+        "Generation VIII": {
+            "Sword": "Dusty Bowl , Hammerlocke Hills",
+            "Shield": "Route 3 , Rolling Fields , Dappled Grove , Watchtower Ruins , East Lake Axewell , West Lake Axewell , Axew's Eye , South Lake Miloch , Giant's Seat , North Lake Miloch Dusty Bowl , Giant's Cap , Hammerlocke Hills , Lake of Outrage , Stony Wilderness ( Max Raid Battle )",
+            "Brilliant Diamond": "Grand Underground - Spacious Cave , Volcanic Cave , Sandsear Cave , Typhlo Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Cobalt Coastlands : Windbreak Stand , Veilstone Cape , massive mass outbreaks ( Hisuian Form ) Unobtainable ( Kantonian Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Three ( Kantonian Form ) East Province: Area Three ( Kantonian Form ) North Province: Area Two ( Kantonian Form ) East Province: Area Two ( Ground Tera Type ) ( Kantonian Form ) Tera Raid Battles ( 2★ ) ( Kantonian Form ) Pokémon HOME ( Hisuian Form )",
+            "Violet": "South Province: Area Three ( Kantonian Form ) East Province: Area Three ( Kantonian Form ) North Province: Area Two ( Kantonian Form ) East Province: Area Two ( Ground Tera Type ) ( Kantonian Form ) Tera Raid Battles ( 2★ ) ( Kantonian Form ) Pokémon HOME ( Hisuian Form )",
+            "The Hidden Treasure of Area Zero": "Apple Hills , Reveler's Road , Mossfell Confluence , Oni Mountain , Oni's Maw , Infernal Pass , Crystal Pool , Paradise Barrens , Kitakami Wilds , Timeless Woods ( Kantonian Form ) Gift from Perrin ( Hisuian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Growlithe",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Growlithe",
+            "to": "Arcanine",
+            "method": [
+                "Use Fire Stone"
+            ]
+        }
+    ]
+}

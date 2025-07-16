@@ -1,0 +1,78 @@
+{
+    "name": "Thundurus",
+    "pokedex_number": "#0642",
+    "types": [
+        "Electric",
+        "Flying"
+    ],
+    "abilities": [
+        "Prankster",
+        "Defiant",
+        "Volt Absorb"
+    ],
+    "stats": {
+        "HP": 79,
+        "Attack": 115,
+        "Defense": 70,
+        "Sp. Atk": 125,
+        "Sp. Def": 80,
+        "Speed": 111,
+        "Total": 580
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Countless charred remains mar the landscape of places through which Thundurus has passed.",
+            "White": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
+            "Black 2": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
+            "White 2": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked."
+        },
+        "Generation VI": {
+            "X": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
+            "Y": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
+            "Omega Ruby": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
+            "Alpha Sapphire": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Legends: Arceus": "Quick as a flash, it materializes out of nowhere. It pulverizes foes into nothingness with showers of devastatingly powerful lightning bolts launched from the string of orbs on its tail."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Trade , Event",
+            "White": "Roaming Unova ( Only one ) ( Incarnate Forme )",
+            "Black 2": "Transfer from Dream Radar ( Therian Forme )",
+            "White 2": "Transfer from Dream Radar ( Therian Forme )"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Soaring in the sky (requires having Castform in party) ( Only one ) ( Incarnate Forme )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Ultra Space Wilds ( Cliff World ) ( Only one ) ( Incarnate Forme )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Shield Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one ) ( Incarnate Forme )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Cobalt Coastlands : between Sand's Reach and Lunker's Lair Thunderstorm ( Only one ) ( Incarnate Forme )"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME",
+            "Violet": "Pokémon HOME"
+        }
+    },
+    "evolution": []
+}

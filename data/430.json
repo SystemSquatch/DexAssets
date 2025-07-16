@@ -1,0 +1,109 @@
+{
+    "name": "Honchkrow",
+    "pokedex_number": "#0430",
+    "types": [
+        "Dark",
+        "Flying"
+    ],
+    "abilities": [
+        "Insomnia",
+        "Super Luck",
+        "Moxie"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 125,
+        "Defense": 52,
+        "Sp. Atk": 105,
+        "Sp. Def": 52,
+        "Speed": 71,
+        "Total": 505
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Becoming active at night, it is known to swarm with numerous Murkrow in tow.",
+            "Pearl": "It makes its Murkrow cronies bring it food. It idles its time away, grooming itself in its nest.",
+            "Platinum": "If one utters a deep cry, many Murkrow gather quickly. For this, it is called \"Summoner of Night.\"",
+            "HeartGold": "It is merciless by nature. It is said that it never forgives the mistakes of its Murkrow followers.",
+            "SoulSilver": "It is merciless by nature. It is said that it never forgives the mistakes of its Murkrow followers."
+        },
+        "Generation V": {
+            "Black": "If one utters a deep cry, many Murkrow gather quickly. For this, it is called \"Summoner of Night.\"",
+            "White": "If one utters a deep cry, many Murkrow gather quickly. For this, it is called \"Summoner of Night.\"",
+            "Black 2": "If one utters a deep cry, many Murkrow gather quickly. For this, it is called \"Summoner of Night.\"",
+            "White 2": "If one utters a deep cry, many Murkrow gather quickly. For this, it is called \"Summoner of Night.\""
+        },
+        "Generation VI": {
+            "X": "If one utters a deep cry, many Murkrow gather quickly. For this, it is called \"Summoner of Night.\"",
+            "Y": "Becoming active at night, it is known to swarm with numerous Murkrow in tow.",
+            "Omega Ruby": "If one utters a deep cry, many Murkrow gather quickly. For this, it is called \"Summoner of Night.\"",
+            "Alpha Sapphire": "Becoming active at night, it is known to swarm with numerous Murkrow in tow."
+        },
+        "Generation VII": {
+            "Sun": "A single cry from this nocturnal Pokémon, and more than a hundred of its Murkrow cronies will assemble.",
+            "Moon": "If its Murkrow cronies fail to catch food for it, or if it feels they have betrayed it, it will hunt them down wherever they are and punish them.",
+            "Ultra Sun": "It will absolutely not forgive failure from or betrayal by its goons. It has no choice in this if it wants to maintain the order of the flock.",
+            "Ultra Moon": "Its goons take care of most of the fighting for it. The only time it dirties its own hands is in delivering a final blow to finish off an opponent."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Becoming active at night, it is known to form flocks with numerous Murkrow in tow.",
+            "Shining Pearl": "It makes its Murkrow cronies bring it food. It idles its time away, grooming itself in its nest.",
+            "Legends: Arceus": "One cry from this Pokémon, and a murder of Murkrow come flying. At such times, one would think the curtain of night had fallen, plunging the world into jet-black darkness."
+        },
+        "Generation IX": {
+            "Scarlet": "It is merciless by nature. It is said that it never forgives the mistakes of its Murkrow followers.",
+            "Violet": "A single cry from this nocturnal Pokémon, and more than 100 of its Murkrow cronies will assemble."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Murkrow",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Murkrow",
+            "SoulSilver": "Evolve Murkrow"
+        },
+        "Generation V": {
+            "Black": "Abundant Shrine ( rustling grass )",
+            "White": "Trade",
+            "Black 2": "Evolve Murkrow",
+            "White 2": "Evolve Murkrow"
+        },
+        "Generation VI": {
+            "X": "Evolve Murkrow",
+            "Y": "Evolve Murkrow",
+            "Omega Ruby": "Evolve Murkrow",
+            "Alpha Sapphire": "Evolve Murkrow"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Murkrow",
+            "Moon": "Evolve Murkrow",
+            "Ultra Sun": "Evolve Murkrow , Poké Pelago *",
+            "Ultra Moon": "Evolve Murkrow , Poké Pelago *",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Murkrow",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Crimson Mirelands : Cloudpool Ridge Night , massive mass outbreaks Cobalt Coastlands : Bathers' Lagoon Night"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six North Province: Area One , Area Two , Area Three , Casseroya Lake , Socarrat Trail , Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 5★ )",
+            "Violet": "South Province: Area Six North Province: Area One , Area Two , Area Three , Casseroya Lake , Socarrat Trail , Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 5★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Murkrow",
+            "to": "Honchkrow",
+            "method": [
+                "Use Dusk Stone"
+            ]
+        }
+    ]
+}

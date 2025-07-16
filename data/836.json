@@ -1,0 +1,53 @@
+{
+    "name": "Boltund",
+    "pokedex_number": "#0836",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Strong Jaw",
+        "Competitive"
+    ],
+    "stats": {
+        "HP": 69,
+        "Attack": 90,
+        "Defense": 60,
+        "Sp. Atk": 90,
+        "Sp. Def": 60,
+        "Speed": 121,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "This Pokémon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days.",
+            "Shield": "It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph ."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Dusty Bowl , Lake of Outrage , Motostoke Riverbank North Lake Miloch ( Wanderer ) Motostoke Riverbank , Lake of Outrage , Giant's Mirror ( Max Raid Battle )",
+            "Shield": "Dusty Bowl , Lake of Outrage , Motostoke Riverbank North Lake Miloch ( Wanderer ) Motostoke Riverbank , Lake of Outrage , Giant's Mirror ( Max Raid Battle )",
+            "Expansion Pass": "Ballimere Lake Fields of Honor , Forest of Focus , Challenge Beach , Honeycalm Sea , Frostpoint Field , Giant's Bed , Frigid Sea , Three-Point Pass , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Yamper",
+            "to": "Boltund",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

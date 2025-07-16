@@ -1,0 +1,128 @@
+{
+    "name": "Combusken",
+    "pokedex_number": "#0256",
+    "types": [
+        "Fire",
+        "Fighting"
+    ],
+    "abilities": [
+        "Blaze",
+        "Speed Boost"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 60,
+        "Sp. Atk": 85,
+        "Sp. Def": 60,
+        "Speed": 55,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Combusken toughens up its legs and thighs by running through fields and mountains. This Pok é mon 's legs possess both speed and power, enabling it to dole out ten kicks in one second.",
+            "Sapphire": "Combusken battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This Pok é mon 's cry is very loud and distracting.",
+            "Emerald": "It lashes out with 10 kicks per second. Its strong fighting instinct compels it to keep up its offensive until the opponent gives up.",
+            "FireRed": "It boosts its concentration by emitting harsh cries. Its kicks have outstanding destructive power.",
+            "LeafGreen": "It boosts its concentration by emitting harsh cries. Its kicks have outstanding destructive power."
+        },
+        "Generation IV": {
+            "Diamond": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
+            "Pearl": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
+            "Platinum": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
+            "HeartGold": "During a battle, the hot flame in its body increases. Its kicks have outstanding destructive power.",
+            "SoulSilver": "During a battle, the hot flame in its body increases. Its kicks have outstanding destructive power."
+        },
+        "Generation V": {
+            "Black": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
+            "White": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
+            "Black 2": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
+            "White 2": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes."
+        },
+        "Generation VI": {
+            "X": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
+            "Y": "During a battle, the hot flame in its body increases. Its kicks have outstanding destructive power.",
+            "Omega Ruby": "Combusken toughens up its legs and thighs by running through fields and mountains. This Pokémon's legs possess both speed and power, enabling it to dole out 10 kicks in one second.",
+            "Alpha Sapphire": "Combusken battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This Pokémon's cry is very loud and distracting."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
+            "Shining Pearl": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes."
+        },
+        "Generation IX": {
+            "Scarlet": "It boosts its concentration by emitting harsh cries. Its kicks have outstanding destructive power.",
+            "Violet": "When it enters battle, the flame inside its body burns stronger. Its kicks have outstanding destructive power."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Torchic",
+            "Sapphire": "Evolve Torchic",
+            "Emerald": "Evolve Torchic",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Torchic",
+            "SoulSilver": "Evolve Torchic",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer , Evolve Global Link Event Torchic",
+            "White": "Poké Transfer , Evolve Global Link Event Torchic",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade , Evolve event Torchic",
+            "Y": "Trade , Evolve event Torchic",
+            "Omega Ruby": "Evolve Torchic",
+            "Alpha Sapphire": "Evolve Torchic"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 8 ( Island Scan ) Tu",
+            "Ultra Moon": "Route 8 ( Island Scan ) Tu",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Torchic",
+            "Shining Pearl": "Evolve Torchic",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Torchic"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Torchic",
+            "to": "Combusken",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Combusken",
+            "to": "Blaziken",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

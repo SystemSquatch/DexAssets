@@ -1,0 +1,143 @@
+{
+    "name": "Ditto",
+    "pokedex_number": "#0132",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Limber",
+        "Imposter"
+    ],
+    "stats": {
+        "HP": 48,
+        "Attack": 48,
+        "Defense": 48,
+        "Sp. Atk": 48,
+        "Sp. Def": 48,
+        "Speed": 48,
+        "Total": 288
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
+            "Yellow": "When it spots an enemy, its body transfigures into an almost perfect copy of its opponent.",
+            "Stadium": "Capable of reorganizing its cells to transform into an exact duplicate of its enemy. It is usually a shapeless blob."
+        },
+        "Generation II": {
+            "Gold": "It can transform into anything. When it sleeps, it changes into a stone to avoid being attacked.",
+            "Silver": "Its transformation ability is perfect. However, if made to laugh, it can't maintain its disguise.",
+            "Crystal": "When it encounters another Ditto , it will move faster than normal to duplicate that opponent exactly.",
+            "Stadium 2": "It can transform into anything. When it sleeps, it changes into a stone to avoid being attacked. (Pokémon Red, Silver, or Crystal inserted) Its transformation ability is perfect. However, if made to laugh, it can't maintain its disguise. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pok é mon manages to get details wrong.",
+            "Sapphire": "Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pok é mon manages to get details wrong.",
+            "Emerald": "A Ditto rearranges its cell structure to transform itself. However, if it tries to change based on its memory, it will get details wrong.",
+            "FireRed": "It can freely recombine its own cellular structure to transform into other life-forms.",
+            "LeafGreen": "Capable of copying an opponent's genetic code to instantly transform itself into a duplicate of the enemy."
+        },
+        "Generation IV": {
+            "Diamond": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
+            "Pearl": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
+            "Platinum": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
+            "HeartGold": "It can transform into anything. When it sleeps, it changes into a stone to avoid being attacked.",
+            "SoulSilver": "Its transformation ability is perfect. However, if made to laugh, it can't maintain its disguise."
+        },
+        "Generation V": {
+            "Black": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
+            "White": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
+            "Black 2": "It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes.",
+            "White 2": "It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes."
+        },
+        "Generation VI": {
+            "X": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
+            "Y": "It can freely recombine its own cellular structure to transform into other life-forms.",
+            "Omega Ruby": "Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong.",
+            "Alpha Sapphire": "Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong."
+        },
+        "Generation VII": {
+            "Sun": "It can reorganize its cells to make itself into a duplicate of anything it sees. The quality of the duplicate depends on the individual.",
+            "Moon": "With its astonishing capacity for metamorphosis, it can get along with anything. It does not get along well with its fellow Ditto.",
+            "Ultra Sun": "While it can transform into anything, each Ditto apparently has its own strengths and weaknesses when it comes to transformations.",
+            "Ultra Moon": "It transforms into whatever it sees. If the thing it's transforming into isn't right in front of it, Ditto relies on its memory—so sometimes it fails.",
+            "Let's Go Pikachu": "When it spots an enemy, its body transfigures into an almost-perfect copy of its opponent.",
+            "Let's Go Eevee": "When it spots an enemy, its body transfigures into an almost-perfect copy of its opponent."
+        },
+        "Generation VIII": {
+            "Sword": "It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes.",
+            "Shield": "When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly.",
+            "Brilliant Diamond": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
+            "Shining Pearl": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees."
+        },
+        "Generation IX": {
+            "Scarlet": "Its transformation ability is perfect. However, if made to laugh, it can’t maintain its disguise.",
+            "Violet": "It can freely recombine its own cellular structure to transform into other life-forms."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 13 , 14 , 15 , and 23 , Cerulean Cave",
+            "Blue": "Routes 13 , 14 , 15 , and 23 , Cerulean Cave",
+            "Blue (Japan)": "Routes 13 , 14 , 15 , and 23 , Rock Tunnel , Cerulean Cave",
+            "Yellow": "Pokémon Mansion and Cerulean Cave"
+        },
+        "Generation II": {
+            "Gold": "Routes 34 and 35",
+            "Silver": "Routes 34 and 35",
+            "Crystal": "Routes 34 and 35"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Desert Underpass",
+            "FireRed": "Routes 13 , 14 , and 15 , Pokémon Mansion , Cerulean Cave",
+            "LeafGreen": "Routes 13 , 14 , and 15 , Pokémon Mansion , Cerulean Cave",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 218 ( Poké Radar )",
+            "Pearl": "Route 218 ( Poké Radar )",
+            "Platinum": "Trophy Garden *",
+            "HeartGold": "Routes 34 , 35 , and 47 , Cerulean Cave Safari Zone (tall grass in Wetland, default Morning Day , and with 15 Waterside points) Route 47 ( Swarm )",
+            "SoulSilver": "Routes 34 , 35 , and 47 , Cerulean Cave Safari Zone (tall grass in Wetland, default Morning Day , and with 15 Waterside points) Route 47 ( Swarm )",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Giant Chasm (Crater Forest)",
+            "White": "Giant Chasm (Crater Forest)",
+            "Black 2": "Giant Chasm (Crater Forest, Hidden Grotto )",
+            "White 2": "Giant Chasm (Crater Forest, Hidden Grotto )"
+        },
+        "Generation VI": {
+            "X": "Pokémon Village , Friend Safari ( Normal )",
+            "Y": "Pokémon Village , Friend Safari ( Normal )",
+            "Omega Ruby": "Mirage Cave (north of Route 132), Mirage Island (south of Route 132)",
+            "Alpha Sapphire": "Mirage Cave (north of Route 132), Mirage Island (south of Route 132)"
+        },
+        "Generation VII": {
+            "Sun": "Mount Hokulani",
+            "Moon": "Mount Hokulani",
+            "Ultra Sun": "Mount Hokulani Route 9 ( One ) Konikoni City ( Four )",
+            "Ultra Moon": "Mount Hokulani Route 9 ( One ) Konikoni City ( Four )",
+            "Let's Go Pikachu": "Pokémon Mansion and Cerulean Cave",
+            "Let's Go Eevee": "Pokémon Mansion and Cerulean Cave"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Lake of Outrage Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Workout Sea Workout Sea ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Route 218 ( Poké Radar ) Grand Underground - Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 218 ( Poké Radar ) Grand Underground - Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area Two , Area Three (May disguise as other Pokémon) Tera Raid Battles ( 3★ , 4★ , 5★ , 6★ )",
+            "Violet": "West Province: Area Two , Area Three (May disguise as other Pokémon) Tera Raid Battles ( 3★ , 4★ , 5★ , 6★ )"
+        }
+    },
+    "evolution": []
+}

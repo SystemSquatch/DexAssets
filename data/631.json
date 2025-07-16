@@ -1,0 +1,80 @@
+{
+    "name": "Heatmor",
+    "pokedex_number": "#0631",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Gluttony",
+        "Flash Fire",
+        "White Smoke"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 97,
+        "Defense": 66,
+        "Sp. Atk": 105,
+        "Sp. Def": 66,
+        "Speed": 65,
+        "Total": 484
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It breathes through a hole in its tail while it burns with an internal fire. Durant is its prey.",
+            "White": "Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.",
+            "Black 2": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
+            "White 2": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them."
+        },
+        "Generation VI": {
+            "X": "Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.",
+            "Y": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
+            "Omega Ruby": "Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.",
+            "Alpha Sapphire": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "There's a hole in its tail that allows it to draw in the air it needs to keep its fire burning. If the hole gets blocked, this Pokémon will fall ill.",
+            "Shield": "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Victory Road",
+            "White": "Victory Road",
+            "Black 2": "Twist Mountain",
+            "White 2": "Twist Mountain",
+            "Dream World": "Rugged Mountain *"
+        },
+        "Generation VI": {
+            "X": "Route 18",
+            "Y": "Route 18",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 6 , Giant's Mirror , Lake of Outrage Lake of Outrage , Stony Wilderness , Giant's Cap , Dusty Bowl , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Route 6 , Giant's Mirror , Lake of Outrage Lake of Outrage , Stony Wilderness , Giant's Cap , Dusty Bowl , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed , Old Cemetery , Three-Point Pass Giant's Bed , Snowslide Slope , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

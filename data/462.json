@@ -1,0 +1,116 @@
+{
+    "name": "Magnezone",
+    "pokedex_number": "#0462",
+    "types": [
+        "Electric",
+        "Steel"
+    ],
+    "abilities": [
+        "Magnet Pull",
+        "Sturdy",
+        "Analytic"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 70,
+        "Defense": 115,
+        "Sp. Atk": 130,
+        "Sp. Def": 90,
+        "Speed": 60,
+        "Total": 535
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
+            "Pearl": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
+            "Platinum": "A group tried to use scientific means to make Magnezone evolve, but their efforts ended in failure.",
+            "HeartGold": "Exposure to a special magnetic field changed Magneton 's molecular structure, turning it into Magnezone .",
+            "SoulSilver": "Exposure to a special magnetic field changed Magneton 's molecular structure, turning it into Magnezone ."
+        },
+        "Generation V": {
+            "Black": "A group tried to use scientific means to make Magnezone evolve, but their efforts ended in failure.",
+            "White": "A group tried to use scientific means to make Magnezone evolve, but their efforts ended in failure.",
+            "Black 2": "Sometimes the magnetism emitted by Magnezone is too strong, making them attract each other so they cannot move.",
+            "White 2": "Sometimes the magnetism emitted by Magnezone is too strong, making them attract each other so they cannot move."
+        },
+        "Generation VI": {
+            "X": "Sometimes the magnetism emitted by Magnezone is too strong, making them attract each other so they cannot move.",
+            "Y": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
+            "Omega Ruby": "Sometimes the magnetism emitted by Magnezone is too strong, making them attract each other so they cannot move.",
+            "Alpha Sapphire": "It evolved from exposure to a special magnetic field. Three units generate magnetism."
+        },
+        "Generation VII": {
+            "Sun": "Three units generate magnetism. There have been many mistaken reports of UFO sightings when Magnezone flies through the night sky.",
+            "Moon": "As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin, while transmitting signals of unknown purpose.",
+            "Ultra Sun": "It uses radar to monitor its territory. Intruders are quickly disposed of with a hyper beam .",
+            "Ultra Moon": "There are still people who believe that this Pokémon came from outer space. It emanates a powerful magnetic field."
+        },
+        "Generation VIII": {
+            "Sword": "Some say that Magnezone receives signals from space via the antenna on its head and that it's being controlled by some mysterious being.",
+            "Shield": "It's thought that a special magnetic field changed the molecular structure of this Pokémon's body, and that's what caused the Pokémon's evolution.",
+            "Brilliant Diamond": "It evolved from exposure to a special magnetic field. Its three units generate magnetism.",
+            "Shining Pearl": "It evolved from exposure to a special magnetic field. Its three units generate magnetism.",
+            "Legends: Arceus": "I theorize that a special magnetic field influenced this Pokémon, changing its molecular structure and causing it to evolve. It emits strange radio waves toward space from its antenna."
+        },
+        "Generation IX": {
+            "Scarlet": "As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin while transmitting signals of unknown purpose.",
+            "Violet": "Exposure to a special magnetic field changed Magneton's molecular structure, turning it into Magnezone."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Magneton",
+            "Pearl": "Evolve Magneton",
+            "Platinum": "Evolve Magneton",
+            "HeartGold": "Trade , Evolve Magneton in Pokémon Diamond, Pearl or Platinum",
+            "SoulSilver": "Trade , Evolve Magneton in Pokémon Diamond, Pearl or Platinum"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Magneton",
+            "Black 2": "P2 Laboratory ( rustling grass )",
+            "White 2": "P2 Laboratory ( rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Magneton",
+            "Y": "Evolve Magneton",
+            "Omega Ruby": "Evolve Magneton",
+            "Alpha Sapphire": "Evolve Magneton"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Magneton",
+            "Moon": "Evolve Magneton",
+            "Ultra Sun": "Evolve Magneton",
+            "Ultra Moon": "Evolve Magneton",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Loop Lagoon , Insular Sea Fields of Honor , Forest of Focus , Challenge Beach , Brawlers' Cave , Courageous Cavern , Stepping-Stone Sea , Honeycalm Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Magneton",
+            "Shining Pearl": "Evolve Magneton",
+            "Legends: Arceus": "Coronet Highlands : near Clamberclaw Cliffs Flying , near Celestica Trail Flying , near Fabled Spring Flying , Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "Great Crater of Paldea , Area Zero Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "Great Crater of Paldea , Area Zero Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Magneton",
+            "to": "Magnezone",
+            "method": [
+                "Level up (near a Mt Coronet)",
+                "Level up (near a Chargestone Cave)",
+                "Level up (near a Kalos Route 13)",
+                "Level up",
+                "Use Thunder Stone"
+            ]
+        }
+    ]
+}

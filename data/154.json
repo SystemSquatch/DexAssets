@@ -1,0 +1,131 @@
+{
+    "name": "Meganium",
+    "pokedex_number": "#0154",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Leaf Guard"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 100,
+        "Sp. Atk": 83,
+        "Sp. Def": 100,
+        "Speed": 80,
+        "Total": 525
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
+            "Silver": "Meganium 's breath has the power to revive dead grass and plants. It can make them healthy again.",
+            "Crystal": "Anyone who stands beside it becomes refreshed, just as if they were relaxing in a sunny forest.",
+            "Stadium 2": "The aroma that rises from its petals contains a substance that calms aggressive feelings. (Pokémon Red, Silver, or Crystal inserted) Meganium 's breath has the power to revive dead grass and plants. It can make them healthy again. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "The fragrance of Meganium 's flower soothes and calms emotions. In battle, this Pok é mon gives off more of its becalming scent to blunt the foe's fighting spirit.",
+            "Sapphire": "The fragrance of Meganium 's flower soothes and calms emotions. In battle, this Pok é mon gives off more of its becalming scent to blunt the foe's fighting spirit.",
+            "Emerald": "The fragrance of a Meganium 's flower soothes and calms emotions. In battle, it gives off more of its becalming scent to blunt the foe's fighting spirit.",
+            "FireRed": "Meganium 's breath has the power to revive dead grass and plants. It can make them healthy again.",
+            "LeafGreen": "The aroma that rises from its petals contains a substance that calms aggressive feelings."
+        },
+        "Generation IV": {
+            "Diamond": "Its breath has the fantastic ability to revive dead plants and flowers.",
+            "Pearl": "Its breath has the fantastic ability to revive dead plants and flowers.",
+            "Platinum": "Its breath has the fantastic ability to revive dead plants and flowers.",
+            "HeartGold": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
+            "SoulSilver": "Meganium 's breath has the power to revive dead grass and plants. It can make them healthy again."
+        },
+        "Generation V": {
+            "Black": "Its breath has the fantastic ability to revive dead plants and flowers.",
+            "White": "Its breath has the fantastic ability to revive dead plants and flowers.",
+            "Black 2": "Its breath has the fantastic ability to revive dead plants and flowers.",
+            "White 2": "Its breath has the fantastic ability to revive dead plants and flowers."
+        },
+        "Generation VI": {
+            "X": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
+            "Y": "Meganium's breath has the power to revive dead grass and plants. It can make them healthy again.",
+            "Omega Ruby": "The fragrance of Meganium's flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe's fighting spirit.",
+            "Alpha Sapphire": "The fragrance of Meganium's flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe's fighting spirit."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Its breath has the fantastic ability to revive dead plants and flowers.",
+            "Shining Pearl": "Its breath has the fantastic ability to revive dead plants and flowers."
+        },
+        "Generation IX": {
+            "Scarlet": "Anyone who stands beside it becomes refreshed, just as if they were soaking in the soothing atmosphere of a forest.",
+            "Violet": "Meganium’s breath holds within it the power to revive grasses and plants that have withered."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Bayleef",
+            "Silver": "Evolve Bayleef",
+            "Crystal": "Evolve Bayleef"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Evolve Bayleef",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Evolve Bayleef",
+            "XD": "Evolve Bayleef"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Bayleef",
+            "SoulSilver": "Evolve Bayleef",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade , Event",
+            "Y": "Trade , Event",
+            "Omega Ruby": "Evolve Bayleef",
+            "Alpha Sapphire": "Evolve Bayleef"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Bayleef",
+            "Moon": "Evolve Bayleef",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Bayleef",
+            "Shining Pearl": "Evolve Bayleef",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Bayleef"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Bayleef",
+            "to": "Meganium",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

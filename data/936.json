@@ -1,0 +1,44 @@
+{
+    "name": "Armarouge",
+    "pokedex_number": "#0936",
+    "types": [
+        "Fire",
+        "Psychic"
+    ],
+    "abilities": [
+        "Flash Fire",
+        "Weak Armor"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 60,
+        "Defense": 100,
+        "Sp. Atk": 125,
+        "Sp. Def": 80,
+        "Speed": 75,
+        "Total": 525
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.",
+            "Violet": "This Pokémon clads itself in armor that has been fortified by psychic and fire energy, and it shoots blazing fireballs."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area Two Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "Union Circle Tera Raid Battle Search ( 5★ , 6★ , Poké Portal News )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Charcadet",
+            "to": "Armarouge",
+            "method": [
+                "Use Auspicious Armor"
+            ]
+        }
+    ]
+}

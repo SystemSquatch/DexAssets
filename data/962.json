@@ -1,0 +1,38 @@
+{
+    "name": "Bombirdier",
+    "pokedex_number": "#0962",
+    "types": [
+        "Flying",
+        "Dark"
+    ],
+    "abilities": [
+        "Big Pecks",
+        "Keen Eye",
+        "Rocky Payload"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 103,
+        "Defense": 85,
+        "Sp. Atk": 60,
+        "Sp. Def": 85,
+        "Speed": 82,
+        "Total": 485
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It gathers things up in an apron made from shed feathers added to the Pokémon’s chest feathers, then drops those things from high places for fun.",
+            "Violet": "Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six West Province: Area One , Area Three , West Paldean Sea West Province: Area One Former Titan ( Only one ) Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "South Province: Area Six West Province: Area One , Area Three , West Paldean Sea West Province: Area One Former Titan ( Only one ) Tera Raid Battles ( 5★ , 6★ )",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Oni Mountain , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": []
+}

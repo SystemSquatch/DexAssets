@@ -1,0 +1,120 @@
+{
+    "name": "Medicham",
+    "pokedex_number": "#0308",
+    "types": [
+        "Fighting",
+        "Psychic"
+    ],
+    "abilities": [
+        "Pure Power",
+        "Telepathy",
+        "Pure Power"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 75,
+        "Sp. Atk": 60,
+        "Sp. Def": 75,
+        "Speed": 80,
+        "Total": 410
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "It is said that through meditation, Medicham heightens energy inside its body and sharpens its sixth sense. This Pok é mon hides its presence by merging itself with fields and mountains.",
+            "Sapphire": "Through the power of meditation, Medicham developed its sixth sense. It gained the ability to use psychokinetic powers. This Pok é mon is known to meditate for a whole month without eating.",
+            "Emerald": "Through crushingly harsh yoga training, it gained the power to foretell its foe's actions. It battles with elegant, dance-like movement.",
+            "FireRed": "It elegantly avoids attacks with dance-like steps, then launches a devastating blow in the same motion.",
+            "LeafGreen": "It elegantly avoids attacks with dance-like steps, then launches a devastating blow in the same motion."
+        },
+        "Generation IV": {
+            "Diamond": "Through yoga training, it has honed its sixth sense. Its movements are elegant.",
+            "Pearl": "Through daily meditation, it hones its spiritual power. It can sense what others are thinking.",
+            "Platinum": "It gains the ability to see the aura of its opponents by honing its mind through starvation.",
+            "HeartGold": "Through yoga training, it gained the psychic power to predict its foe's next move.",
+            "SoulSilver": "Through yoga training, it gained the psychic power to predict its foe's next move."
+        },
+        "Generation V": {
+            "Black": "It gains the ability to see the aura of its opponents by honing its mind through starvation.",
+            "White": "It gains the ability to see the aura of its opponents by honing its mind through starvation.",
+            "Black 2": "It gains the ability to see the aura of its opponents by honing its mind through starvation.",
+            "White 2": "It gains the ability to see the aura of its opponents by honing its mind through starvation."
+        },
+        "Generation VI": {
+            "X": "It elegantly avoids attacks with dance-like steps, then launches a devastating blow in the same motion.",
+            "Y": "Through yoga training, it gained the psychic power to predict its foe's next move.",
+            "Omega Ruby": "It is said that through meditation, Medicham heightens energy inside its body and sharpens its sixth sense. This Pokémon hides its presence by merging itself with fields and mountains.",
+            "Alpha Sapphire": "Through the power of meditation, Medicham developed its sixth sense. It gained the ability to use psychokinetic powers. This Pokémon is known to meditate for a whole month without eating."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Through yoga training, it has honed its sixth sense. Its movements are elegant.",
+            "Shining Pearl": "Through daily meditation, it hones its spiritual power. It can sense what others are thinking."
+        },
+        "Generation IX": {
+            "Scarlet": "Through yoga training, it gained the psychic power to predict its foe’s next move.",
+            "Violet": "It elegantly avoids attacks with dance-like steps, then launches a devastating blow in the same motion."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Victory Road",
+            "Sapphire": "Victory Road",
+            "Emerald": "Trade",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Evolve Meditite",
+            "XD": "Evolve Meditite"
+        },
+        "Generation IV": {
+            "Diamond": "Route 217 , Acuity Lakefront , Mt. Coronet , Victory Road",
+            "Pearl": "Route 217 , Acuity Lakefront , Mt. Coronet , Victory Road",
+            "Platinum": "Mt. Coronet",
+            "HeartGold": "Safari Zone (Wasteland with 35 Forest points)",
+            "SoulSilver": "Safari Zone (Wasteland with 35 Forest points)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Pinwheel Forest ( Hidden Grotto ) *",
+            "White 2": "Pinwheel Forest ( Hidden Grotto ) *"
+        },
+        "Generation VI": {
+            "X": "Evolve Meditite",
+            "Y": "Evolve Meditite",
+            "Omega Ruby": "Victory Road",
+            "Alpha Sapphire": "Victory Road"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Cave World )",
+            "Ultra Moon": "Ultra Space Wilds ( Cave World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 217 , Acuity Lakefront , Mount Coronet , Victory Road",
+            "Shining Pearl": "Route 217 , Acuity Lakefront , Mount Coronet , Victory Road",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six , Alfornada Cavern Area Zero Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Area Six , Alfornada Cavern Area Zero Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Meditite",
+            "to": "Medicham",
+            "method": [
+                "Level 37"
+            ]
+        }
+    ]
+}

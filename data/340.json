@@ -1,0 +1,130 @@
+{
+    "name": "Whiscash",
+    "pokedex_number": "#0340",
+    "types": [
+        "Water",
+        "Ground"
+    ],
+    "abilities": [
+        "Oblivious",
+        "Anticipation",
+        "Hydration"
+    ],
+    "stats": {
+        "HP": 110,
+        "Attack": 78,
+        "Defense": 73,
+        "Sp. Atk": 76,
+        "Sp. Def": 71,
+        "Speed": 60,
+        "Total": 468
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Whiscash is extremely territorial. Just one of these Pok é mon will claim a large pond as its exclusive territory. If a foe approaches it, it thrashes about and triggers a massive earthquake.",
+            "Sapphire": "If Whiscash goes on a wild rampage, it sets off a quake-like tremor with a radius of over three miles . This Pok é mon has the ability to predict real earthquakes.",
+            "Emerald": "Mysteriously, it can foretell earthquakes. In the daytime, it sleeps in mud at the bottom of a pond. When it awakens, it continually feeds throughout the night.",
+            "FireRed": "It makes its nest at the bottom of swamps. It will eat anything - if it is alive, Whiscash will eat it.",
+            "LeafGreen": "It makes its nest at the bottom of swamps. It will eat anything - if it is alive, Whiscash will eat it."
+        },
+        "Generation IV": {
+            "Diamond": "It is very territorial. It repels foes by setting off tremors that extend over a three-mile radius.",
+            "Pearl": "As a result of causing tremors by thrashing about, it developed the ability to foretell real quakes.",
+            "Platinum": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
+            "HeartGold": "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around.",
+            "SoulSilver": "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around."
+        },
+        "Generation V": {
+            "Black": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
+            "White": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
+            "Black 2": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
+            "White 2": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors."
+        },
+        "Generation VI": {
+            "X": "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around.",
+            "Y": "It makes its nest at the bottom of swamps. It will eat anything--if it is alive, Whiscash will eat it.",
+            "Omega Ruby": "Whiscash is extremely territorial. Just one of these Pokémon will claim a large pond as its exclusive territory. If a foe approaches it, it thrashes about and triggers a massive earthquake.",
+            "Alpha Sapphire": "If Whiscash goes on a wild rampage, it sets off a quake-like tremor with a radius of over three miles . This Pokémon has the ability to predict real earthquakes."
+        },
+        "Generation VII": {
+            "Sun": "A glutton that devours anything that moves, it quietly lurks at the bottom of swamps, lying in wait for prey.",
+            "Moon": "Sighting Whiscash leaping from the water is believed to herald an earthquake.",
+            "Ultra Sun": "Whiscash shakes the ground at high intensities to intimidate its opponents. It swallows its prey whole—along with mud from the swamp floor.",
+            "Ultra Moon": "Its vision is not that good. It senses vibrations in the water with its whiskers to determine the location of its prey."
+        },
+        "Generation VIII": {
+            "Sword": "It makes its nest at the bottom of swamps. It will eat anything—if it is alive, Whiscash will eat it.",
+            "Shield": "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around.",
+            "Brilliant Diamond": "It is very territorial. It repels foes by setting off tremors that extend over a three-mile radius.",
+            "Shining Pearl": "As a result of causing tremors by thrashing about, it developed the ability to foretell real quakes.",
+            "Legends: Arceus": "Strikes its caudal fin against the swamp bed to shake the ground and startle its prey. It will then swallow the fleeing prey whole. People mistook this behavior as the cause of earthquakes."
+        },
+        "Generation IX": {
+            "Scarlet": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
+            "Violet": "Sighting Whiscash leaping from the water is believed to herald an earthquake."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Meteor Falls , Victory Road ( Super Rod )",
+            "Sapphire": "Meteor Falls , Victory Road ( Super Rod )",
+            "Emerald": "Meteor Falls , Victory Road ( Super Rod )",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 205 , 208 , 210 , 212 , 227 , and 228 , Celestic Town , Eterna City , Great Marsh , Mt. Coronet , Oreburgh Gate , Ravaged Path ( Super Rod )",
+            "Pearl": "Routes 205 , 208 , 210 , 212 , 227 , and 228 , Celestic Town , Eterna City , Great Marsh , Mt. Coronet , Oreburgh Gate , Ravaged Path ( Super Rod )",
+            "Platinum": "Route 228 ( Good Rod ) Routes 205 , 210 , 225 , 227 , and 228 , Eterna City , Great Marsh , Mt. Coronet , Oreburgh Gate , Ravaged Path ( Super Rod )",
+            "HeartGold": "Violet City ( Swarm )",
+            "SoulSilver": "Violet City ( Swarm )",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Route 8 , Icirrus City , Moor of Icirrus ( Fishing in rippling water )",
+            "White": "Route 8 , Icirrus City , Moor of Icirrus ( Fishing in rippling water )",
+            "Black 2": "Route 8 , Icirrus City , Moor of Icirrus ( Fishing in rippling water )",
+            "White 2": "Route 8 , Icirrus City , Moor of Icirrus ( Fishing in rippling water )"
+        },
+        "Generation VI": {
+            "X": "Routes 14 and 19 ( Super Rod )",
+            "Y": "Routes 14 and 19 ( Super Rod )",
+            "Omega Ruby": "Meteor Falls ( Super Rod )",
+            "Alpha Sapphire": "Meteor Falls ( Super Rod )"
+        },
+        "Generation VII": {
+            "Sun": "Paniola Town , Poni Gauntlet , Poni Meadow , Seaward Cave , Vast Poni Canyon ( SOS Battle )",
+            "Moon": "Paniola Town , Poni Gauntlet , Poni Meadow , Seaward Cave , Vast Poni Canyon ( SOS Battle )",
+            "Ultra Sun": "Paniola Town , Poni Gauntlet , Poni Meadow , Seaward Cave , Vast Poni Canyon ( SOS Battle )",
+            "Ultra Moon": "Paniola Town , Poni Gauntlet , Poni Meadow , Seaward Cave , Vast Poni Canyon ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Slumbering Weald ( Fishing ) North Lake Miloch , South Lake Miloch ( Wanderer , Surfing ) Bridge Field , Dusty Bowl , Rolling Fields , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Slumbering Weald ( Fishing ) North Lake Miloch , South Lake Miloch ( Wanderer , Surfing ) Bridge Field , Dusty Bowl , Rolling Fields , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Soothing Wetlands , Giant's Bed , Giant's Foot , Ballimere Lake ( Fishing ) Giant's Bed ( Wanderer , Surfing ) Giant's Bed , Giant's Foot , Ballimere Lake , Frigid Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Routes 205 , 208 , 210 , 212 , 227 , and 228 , Celestic Town , Eterna City , Great Marsh , Mt. Coronet , Oreburgh Gate , Ravaged Path ( Super Rod ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern , Swampy Cave , Bogsunk Cavern (After obtaining TM99 ( Waterfall ))",
+            "Shining Pearl": "Routes 205 , 208 , 210 , 212 , 227 , and 228 , Celestic Town , Eterna City , Great Marsh , Mt. Coronet , Oreburgh Gate , Ravaged Path ( Super Rod ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern , Swampy Cave , Bogsunk Cavern (After obtaining TM99 ( Waterfall ))",
+            "Legends: Arceus": "Crimson Mirelands : Gapejaw Bog and nearby, near Ursa's Ring , Scarlet Bog ( mass outbreaks ), near Droning Meadow , Lake Valor (additional ), massive mass outbreaks Coronet Highlands : Wayward Cave"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six East Province: Tagtree Thicket West Province: Area Three North Province: Area One , Glaseado Mountain Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Area Six East Province: Tagtree Thicket West Province: Area Three North Province: Area One , Glaseado Mountain Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Oni Mountain , Kitakami Wilds"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Barboach",
+            "to": "Whiscash",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

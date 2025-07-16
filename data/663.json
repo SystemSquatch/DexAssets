@@ -1,0 +1,83 @@
+{
+    "name": "Talonflame",
+    "pokedex_number": "#0663",
+    "types": [
+        "Fire",
+        "Flying"
+    ],
+    "abilities": [
+        "Flame Body",
+        "Gale Wings"
+    ],
+    "stats": {
+        "HP": 78,
+        "Attack": 81,
+        "Defense": 71,
+        "Sp. Atk": 74,
+        "Sp. Def": 69,
+        "Speed": 126,
+        "Total": 499
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "In the fever of an exciting battle, it showers embers from the gaps between its feathers and takes to the air.",
+            "Y": "When attacking prey, it can reach speeds of up to 310 mph . It finishes its prey off with a colossal kick.",
+            "Omega Ruby": "In the fever of an exciting battle, it showers embers from the gaps between its feathers and takes to the air.",
+            "Alpha Sapphire": "When attacking prey, it can reach speeds of up to 310 mph . It finishes its prey off with a colossal kick."
+        },
+        "Generation VII": {
+            "Sun": "Its favorite foods are Wingull and Pikipek . It attacks with a powerful kick and grasps them firmly in its talons.",
+            "Moon": "It zooms directly at its prey at flight speeds of close to 310 mph , while fiery embers scatter from gaps in its feathers.",
+            "Ultra Sun": "Its tough wings don't allow fire to pass through them. A long time ago, firefighters' outfits were made from Talonflame wings.",
+            "Ultra Moon": "Bird Pokémon make up most of its diet. It approaches at high speeds and smacks them down to the ground with its powerful kick."
+        },
+        "Generation VIII": {
+            "Sword": "Talonflame mainly preys upon other bird Pokémon. To intimidate opponents, it sends embers spewing from gaps between its feathers.",
+            "Shield": "Talonflame dives toward prey at speeds of up to 310 mph and assaults them with powerful kicks, giving the prey no chance to escape."
+        },
+        "Generation IX": {
+            "Scarlet": "It has top-notch flying capabilities. It flies around easily, even while carrying prey that weighs more than 220 lbs .",
+            "Violet": "When it gets excited, it vents sparks from the gaps between its feathers. These unburnable feathers are used as a fireproof material."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Evolve Fletchinder",
+            "Y": "Evolve Fletchinder",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade Bewear at Poni Gauntlet",
+            "Moon": "Trade Bewear at Poni Gauntlet",
+            "Ultra Sun": "Evolve Fletchinder",
+            "Ultra Moon": "Evolve Fletchinder",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Soothing Wetlands , Loop Lagoon , Training Lowlands ( Wanderer ) Fields of Honor , Loop Lagoon ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Three Area Zero Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "South Province: Area Three Area Zero Tera Raid Battles ( 5★ , 6★ )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Fletchinder",
+            "to": "Talonflame",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

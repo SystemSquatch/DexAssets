@@ -1,0 +1,122 @@
+{
+    "name": "Sceptile",
+    "pokedex_number": "#0254",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Unburden",
+        "Lightning Rod"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 65,
+        "Sp. Atk": 105,
+        "Sp. Def": 85,
+        "Speed": 120,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "The leaves growing on Sceptile 's body are very sharp edged. This Pok é mon is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.",
+            "Sapphire": "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pok é mon raises the trees in a forest with loving care.",
+            "Emerald": "In the jungle, its power is without equal. This Pok é mon carefully grows trees and plants. It regulates its body temperature by basking in sunlight.",
+            "FireRed": "The leaves on its forelegs are as sharp as swords. It agilely leaps about the branches of trees to strike.",
+            "LeafGreen": "The leaves on its forelegs are as sharp as swords. It agilely leaps about the branches of trees to strike."
+        },
+        "Generation IV": {
+            "Diamond": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
+            "Pearl": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
+            "Platinum": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
+            "HeartGold": "It agilely leaps about the jungle and uses the sharp leaves on its arms to strike its prey.",
+            "SoulSilver": "It agilely leaps about the jungle and uses the sharp leaves on its arms to strike its prey."
+        },
+        "Generation V": {
+            "Black": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
+            "White": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
+            "Black 2": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
+            "White 2": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat."
+        },
+        "Generation VI": {
+            "X": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
+            "Y": "It agilely leaps about the jungle and uses the sharp leaves on its arms to strike its prey.",
+            "Omega Ruby": "The leaves growing on Sceptile's body are very sharp edged. This Pokémon is very agile—it leaps all over the branches of trees and jumps on its foe from above or behind.",
+            "Alpha Sapphire": "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pokémon raises the trees in a forest with loving care."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
+            "Shining Pearl": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat."
+        },
+        "Generation IX": {
+            "Scarlet": "It agilely flits through the jungle and uses the sharp-edged leaves on its arms to cut down its prey.",
+            "Violet": "The leaves on its arms are as sharp as swords. It agilely leaps about the branches of trees to strike its enemies."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Grovyle",
+            "Sapphire": "Evolve Grovyle",
+            "Emerald": "Evolve Grovyle",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Grovyle",
+            "SoulSilver": "Evolve Grovyle",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer , Event",
+            "White": "Poké Transfer , Event",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Grovyle",
+            "Alpha Sapphire": "Evolve Grovyle"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Grovyle",
+            "Ultra Moon": "Evolve Grovyle",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Grovyle",
+            "Shining Pearl": "Evolve Grovyle",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Grovyle"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Grovyle",
+            "to": "Sceptile",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

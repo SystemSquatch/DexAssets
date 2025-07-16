@@ -1,0 +1,157 @@
+{
+    "name": "Seel",
+    "pokedex_number": "#0086",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Thick Fat",
+        "Hydration",
+        "Ice Body"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 45,
+        "Defense": 55,
+        "Sp. Atk": 45,
+        "Sp. Def": 70,
+        "Speed": 45,
+        "Total": 325
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "The protruding horn on its head is very hard. It is used for bashing through thick ice.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "The protruding horn on its head is very hard. It is used for bashing through thick ice.",
+            "Yellow": "Loves freezing cold conditions. Relishes swimming in a frigid climate of around 14F degrees .",
+            "Stadium": "It boasts a thick hide covered with light blue fur. It plows through ice floes even in water 40 degrees below 0."
+        },
+        "Generation II": {
+            "Gold": "Although it can't walk well on land, it is a graceful swimmer. It especially loves being in frigid seas.",
+            "Silver": "In daytime, it is often found asleep on the seabed in shallow waters. Its nostrils close while it swims.",
+            "Crystal": "The light blue fur that covers it keeps it protected against the cold. It loves iceberg-filled oceans.",
+            "Stadium 2": "Although it can't walk well on land, it is a graceful swimmer. It especially loves being in frigid seas. (Pokémon Red, Silver, or Crystal inserted) In daytime, it is often found asleep on the seabed in shallow waters. Its nostrils close while it swims. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
+            "Sapphire": "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
+            "Emerald": "Seel hunt for prey in frigid, ice-covered seas. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
+            "FireRed": "Covered with light blue fur, its hide is thick and tough. It is active in bitter cold of minus 40 degrees Fahrenheit .",
+            "LeafGreen": "The protruding horn on its head is very hard. It is used for bashing through thick icebergs."
+        },
+        "Generation IV": {
+            "Diamond": "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.",
+            "Pearl": "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.",
+            "Platinum": "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.",
+            "HeartGold": "Although it can't walk well on land, it is a graceful swimmer. It especially loves being in frigid seas.",
+            "SoulSilver": "In daytime, it is often found asleep on the seabed in shallow waters. Its nostrils close while it swims."
+        },
+        "Generation V": {
+            "Black": "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.",
+            "White": "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.",
+            "Black 2": "The colder it gets, the better it feels. It joyfully swims around oceans so cold that they are filled with floating ice.",
+            "White 2": "The colder it gets, the better it feels. It joyfully swims around oceans so cold that they are filled with floating ice."
+        },
+        "Generation VI": {
+            "X": "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.",
+            "Y": "Covered with light blue fur, its hide is thick and tough. It is active in bitter cold of -40 degrees Fahrenheit.",
+            "Omega Ruby": "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
+            "Alpha Sapphire": "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It has always been supposed that Seel live only in cold seas. Their having shown up in Alola is a mystery.",
+            "Ultra Moon": "Thanks to its thick fat, cold seas don't bother it at all, but it gets tired pretty easily in warm waters.",
+            "Let's Go Pikachu": "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit .",
+            "Let's Go Eevee": "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit ."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "This Pokémon lives on icebergs. It uses the sharp point on its head to break up ice as it swims in the sea.",
+            "Shining Pearl": "This Pokémon lives on icebergs. It uses the sharp point on its head to break up ice as it swims in the sea."
+        },
+        "Generation IX": {
+            "Scarlet": "The protrusion on its head is very hard. It is used for bashing through thick ice.",
+            "Violet": "The colder it gets, the better it feels. It joyfully swims around oceans so cold that they are filled with floating ice."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Seafoam Islands Trade Ponyta at the Pokémon Lab on Cinnabar Island",
+            "Blue": "Seafoam Islands Trade Ponyta at the Pokémon Lab on Cinnabar Island",
+            "Blue (Japan)": "Seafoam Islands",
+            "Yellow": "Seafoam Islands"
+        },
+        "Generation II": {
+            "Gold": "Whirl Islands",
+            "Silver": "Whirl Islands",
+            "Crystal": "Whirl Islands Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Seafoam Islands , Icefall Cave Trade Ponyta at the Pokémon Lab on Cinnabar Island",
+            "LeafGreen": "Seafoam Islands , Icefall Cave Trade Ponyta at the Pokémon Lab on Cinnabar Island",
+            "Colosseum": "Trade",
+            "XD": "Phenac Stadium (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 226 and 230",
+            "Pearl": "Trade",
+            "Platinum": "Breed Dewgong",
+            "HeartGold": "Route 47 , Whirl Islands , Seafoam Islands",
+            "SoulSilver": "Route 47 , Whirl Islands , Seafoam Islands",
+            "Pal Park": "Sea",
+            "Pokéwalker": "Stormy Beach"
+        },
+        "Generation V": {
+            "Black": "Giant Chasm ( Surfing )",
+            "White": "Giant Chasm ( Surfing )",
+            "Black 2": "Seaside Cave and Giant Chasm ( Surfing )",
+            "White 2": "Seaside Cave and Giant Chasm ( Surfing )",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Breed Dewgong",
+            "Y": "Breed Dewgong",
+            "Omega Ruby": "Route 125 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 125 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Seaward Cave ( Surfing ) Poké Pelago",
+            "Ultra Moon": "Seaward Cave ( Surfing ) Poké Pelago",
+            "Let's Go Pikachu": "Seafoam Islands",
+            "Let's Go Eevee": "Seafoam Islands"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 226 and 230 Grand Underground - Fountainspring Cave , Whiteout Cave , Icy Cave , Glacial Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Polar Biome Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Seel",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Seel",
+            "to": "Dewgong",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

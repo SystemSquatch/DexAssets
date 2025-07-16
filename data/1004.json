@@ -1,0 +1,35 @@
+{
+    "name": "Chi-Yu",
+    "pokedex_number": "#1004",
+    "types": [
+        "Dark",
+        "Fire"
+    ],
+    "abilities": [
+        "Beads of Ruin"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 80,
+        "Defense": 80,
+        "Sp. Atk": 145,
+        "Sp. Def": 120,
+        "Speed": 100,
+        "Total": 580
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It controls flames burning at over 5,400 degrees Fahrenheit . It casually swims through the sea of lava it creates by melting rock and sand.",
+            "Violet": "The envy accumulated within curved beads that sparked multiple conflicts has clad itself in fire and become a Pokémon."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "North Province: Firescourge Shrine ( Only one )",
+            "Violet": "North Province: Firescourge Shrine ( Only one )"
+        }
+    },
+    "evolution": []
+}

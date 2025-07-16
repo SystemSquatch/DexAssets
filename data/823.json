@@ -1,0 +1,57 @@
+{
+    "name": "Corviknight",
+    "pokedex_number": "#0823",
+    "types": [
+        "Flying",
+        "Steel"
+    ],
+    "abilities": [
+        "Pressure",
+        "Unnerve",
+        "Mirror Armor"
+    ],
+    "stats": {
+        "HP": 98,
+        "Attack": 87,
+        "Defense": 105,
+        "Sp. Atk": 53,
+        "Sp. Def": 85,
+        "Speed": 67,
+        "Total": 495
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "This Pokémon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.",
+            "Shield": "With their great intellect and flying skills, these Pokémon very successfully act as the Galar region's airborne taxi service."
+        },
+        "Generation IX": {
+            "Scarlet": "Corviknight can’t serve as a taxi service in Paldea because the Pokémon’s natural predators will attack it while it flies, endangering the customer.",
+            "Violet": "Although its wings have partly turned to steel and become heavy as a result, this Pokémon flies through the skies with ease."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Route 7 , Dusty Bowl , Lake of Outrage , Slumbering Weald Giant's Cap , Hammerlocke Hills , Motostoke Riverbank , North Lake Miloch , Watchtower Ruins ( Wanderer ) East Lake Axewell , Giant's Cap , Hammerlocke Hills ( Max Raid Battle ) Giant's Cap ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Shield": "Route 7 , Dusty Bowl , Lake of Outrage , Slumbering Weald Giant's Cap , Hammerlocke Hills , Motostoke Riverbank , North Lake Miloch , Watchtower Ruins ( Wanderer ) East Lake Axewell , Giant's Cap , Hammerlocke Hills ( Max Raid Battle ) Giant's Cap ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Expansion Pass": "Ballimere Lake ( Wanderer ) Frostpoint Field , Giant's Bed , Snowslide Slope , Path to the Peak , Frigid Sea , Ballimere Lake , Dyna Tree Hill ( Max Raid Battle ) Frostpoint Field , Giant's Bed , Frigid Sea , Ballimere Lake , Dyna Tree Hill ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Area Two ( Fighting Tera Type ) Area Zero Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "North Province: Area Two ( Fighting Tera Type ) Area Zero Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Corvisquire",
+            "to": "Corviknight",
+            "method": [
+                "Level 38"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "name": "Bronzong",
+    "pokedex_number": "#0437",
+    "types": [
+        "Steel",
+        "Psychic"
+    ],
+    "abilities": [
+        "Levitate",
+        "Heatproof",
+        "Heavy Metal"
+    ],
+    "stats": {
+        "HP": 67,
+        "Attack": 89,
+        "Defense": 116,
+        "Sp. Atk": 79,
+        "Sp. Def": 116,
+        "Speed": 33,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "One caused a news sensation when it was dug up at a construction site after a 2,000-year sleep.",
+            "Pearl": "It can summon rain clouds. People long ago revered it as the bringer of plentiful harvests.",
+            "Platinum": "It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests.",
+            "HeartGold": "Ancient people believed that petitioning Bronzong for rain was the way to make crops grow.",
+            "SoulSilver": "Ancient people believed that petitioning Bronzong for rain was the way to make crops grow."
+        },
+        "Generation V": {
+            "Black": "It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests.",
+            "White": "It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests.",
+            "Black 2": "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",
+            "White 2": "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground."
+        },
+        "Generation VI": {
+            "X": "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",
+            "Y": "Ancient people believed that petitioning Bronzong for rain was the way to make crops grow.",
+            "Omega Ruby": "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",
+            "Alpha Sapphire": "Ancient people believed that petitioning Bronzong for rain was the way to make crops grow."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Some believe it to be a deity that summons rain clouds. When angered, it lets out a warning cry that rings out like the tolling of a bell.",
+            "Shield": "Many scientists suspect that this Pokémon originated outside the Galar region, based on the patterns on its body.",
+            "Brilliant Diamond": "One caused a media storm when it was dug up at a construction site after a 2,000-year sleep.",
+            "Shining Pearl": "It can summon rain clouds. People long ago revered it as the bringer of plentiful harvests.",
+            "Legends: Arceus": "Some believe that its bell-like cry opens holes to another world. It has been revered as a deity since ancient times."
+        },
+        "Generation IX": {
+            "Scarlet": "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",
+            "Violet": "It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Turnback Cave , Mt. Coronet",
+            "Pearl": "Turnback Cave , Mt. Coronet",
+            "Platinum": "Turnback Cave , Mt. Coronet",
+            "HeartGold": "Safari Zone (Forest with 56 Peak points and 35 Forest points)",
+            "SoulSilver": "Safari Zone (Forest with 56 Peak points and 35 Forest points)"
+        },
+        "Generation V": {
+            "Black": "Abundant Shrine",
+            "White": "Abundant Shrine",
+            "Black 2": "Abundant Shrine ( dark grass )",
+            "White 2": "Abundant Shrine ( dark grass )"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Steel )",
+            "Y": "Friend Safari ( Steel )",
+            "Omega Ruby": "Evolve Bronzor",
+            "Alpha Sapphire": "Evolve Bronzor"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 8 , Axew's Eye , Dusty Bowl , Lake of Outrage Bridge Field , Dusty Bowl , East Lake Axewell , Giant's Seat , Stony Wilderness ( Wanderer ) Dusty Bowl , Giant's Seat , Hammerlocke Hills , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 8 , Axew's Eye , Dusty Bowl , Lake of Outrage Bridge Field , Dusty Bowl , East Lake Axewell , Giant's Seat , Stony Wilderness ( Wanderer ) Dusty Bowl , Giant's Seat , Hammerlocke Hills , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed , Giant's Foot , Three-Point Pass Brawlers' Cave , Courageous Cavern , Stepping-Stone Sea , Giant's Bed , Snowslide Slope , Path to the Peak , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Turnback Cave , Mt. Coronet",
+            "Shining Pearl": "Turnback Cave , Mt. Coronet",
+            "Legends: Arceus": "Crimson Mirelands : massive mass outbreaks Coronet Highlands : Ancient Quarry , near Clamberclaw Cliffs (additional ), near Celestica Ruins , near Primeval Grotto , Stonetooth Rows Day , massive mass outbreaks Alabaster Icelands : Lake Acuity , Snowpoint Temple , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six North Province: Area Two , Casseroya Lake , Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 5★ )",
+            "Violet": "South Province: Area Six North Province: Area Two , Casseroya Lake , Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 5★ )",
+            "The Hidden Treasure of Area Zero": "Oni Mountain"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Bronzor",
+            "to": "Bronzong",
+            "method": [
+                "Level 33"
+            ]
+        }
+    ]
+}

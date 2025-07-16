@@ -1,0 +1,144 @@
+{
+    "name": "Houndour",
+    "pokedex_number": "#0228",
+    "types": [
+        "Dark",
+        "Fire"
+    ],
+    "abilities": [
+        "Early Bird",
+        "Flash Fire",
+        "Unnerve"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 30,
+        "Sp. Atk": 80,
+        "Sp. Def": 50,
+        "Speed": 65,
+        "Total": 330
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+            "Silver": "To corner prey, they check each other's location using barks that only they can understand.",
+            "Crystal": "Around dawn, its ominous howl echoes through the area to announce that this is its territory.",
+            "Stadium 2": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey. (Pokémon Red, Silver, or Crystal inserted) To corner prey, they check each other's location using barks that only they can understand. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Houndour hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This Pok é mon 's remarkable teamwork is unparalleled.",
+            "Sapphire": "Houndour hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This Pok é mon 's remarkable teamwork is unparalleled.",
+            "Emerald": "Houndour communicate with each other using a variety of cries to corner their prey. This Pok é mon 's remarkable teamwork is simply unparalleled.",
+            "FireRed": "To corner prey, they check each other's location using barks that only they can understand.",
+            "LeafGreen": "It uses different kinds of cries for communicating with others of its kind and for pursuing prey."
+        },
+        "Generation IV": {
+            "Diamond": "It conveys its feelings using different cries. It works in a pack to cleverly take down prey.",
+            "Pearl": "It conveys its feelings using different cries. It works in a pack to cleverly take down prey.",
+            "Platinum": "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
+            "HeartGold": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+            "SoulSilver": "To corner prey, they check each other's location using barks that only they can understand."
+        },
+        "Generation V": {
+            "Black": "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
+            "White": "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
+            "Black 2": "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
+            "White 2": "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others."
+        },
+        "Generation VI": {
+            "X": "Around dawn, its ominous howl echoes through the area to announce that this is its territory.",
+            "Y": "To corner prey, they check each other's location using barks that only they can understand.",
+            "Omega Ruby": "Houndour hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This Pokémon's remarkable teamwork is unparalleled.",
+            "Alpha Sapphire": "Houndour hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This Pokémon's remarkable teamwork is unparalleled."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It cooperates with others skillfully. When it becomes your partner, it's very loyal to you as its Trainer and will obey your orders.",
+            "Ultra Moon": "They make repeated eerie howls before dawn to call attention to their pack."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It conveys its feelings using different cries. It works in a pack to cleverly take down prey.",
+            "Shining Pearl": "It conveys its feelings using different cries. It works in a pack to cleverly take down prey."
+        },
+        "Generation IX": {
+            "Scarlet": "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
+            "Violet": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Route 7 Night",
+            "Silver": "Route 7 Night",
+            "Crystal": "Route 7 Night"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Safari Zone extension",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Cipher Lab (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Breed Houndoom",
+            "Platinum": "Route 214 , Valor Lakefront",
+            "HeartGold": "Route 7 Night Safari Zone (Savannah with 4 Forest points)",
+            "SoulSilver": "Route 7 Night Safari Zone (Savannah with 4 Forest points)",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Volcano Path"
+        },
+        "Generation V": {
+            "Black": "Route 9 ( Swarm )",
+            "White": "Trade",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Route 10",
+            "Y": "Trade",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Poké Pelago *",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Breed Houndoom",
+            "Shining Pearl": "Breed Houndoom",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Four , Inlet Grotto Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Area Four , Inlet Grotto Tera Raid Battles ( 2★ )",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Oni Mountain , Infernal Pass , Crystal Pool , Chilling Waterhead , Wistful Fields , Paradise Barrens , Kitakami Wilds"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Houndour",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Houndour",
+            "to": "Houndoom",
+            "method": [
+                "Level 24"
+            ]
+        }
+    ]
+}

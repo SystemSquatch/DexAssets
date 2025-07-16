@@ -1,0 +1,115 @@
+{
+    "name": "Burmy",
+    "pokedex_number": "#0412",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Shed Skin",
+        "Overcoat"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 29,
+        "Defense": 45,
+        "Sp. Atk": 29,
+        "Sp. Def": 45,
+        "Speed": 36,
+        "Total": 224
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
+            "Pearl": "If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.",
+            "Platinum": "Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.",
+            "HeartGold": "It covers itself with a cloak to shelter from the cold. When it's hot, its cloak is thinner.",
+            "SoulSilver": "It covers itself with a cloak to shelter from the cold. When it's hot, its cloak is thinner."
+        },
+        "Generation V": {
+            "Black": "Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.",
+            "White": "Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.",
+            "Black 2": "Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.",
+            "White 2": "Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak."
+        },
+        "Generation VI": {
+            "X": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
+            "Y": "If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.",
+            "Omega Ruby": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
+            "Alpha Sapphire": "If its cloak is broken in battle, it quickly remakes the cloak with materials nearby."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
+            "Shining Pearl": "If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.",
+            "Legends: Arceus": "When confronted by a lack of other materials, Burmy will create its cloak using dust and refuse. The cloak seems to be more comfortable than one would think."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees ) ( Plant Cloak )",
+            "Pearl": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees ) ( Plant Cloak )",
+            "Platinum": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees ) ( Plant Cloak )",
+            "HeartGold": "Route 38 ( Headbutt trees * ; post-National) ( Plant Cloak )",
+            "SoulSilver": "Route 38 ( Headbutt trees * ; post-National) ( Plant Cloak )"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer",
+            "Dream World": "Pokémon Café Forest and Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Route 3 , Berry fields (Green Berry trees) ( Plant Cloak )",
+            "Y": "Route 3 , Berry fields (Green Berry trees) ( Plant Cloak )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees ) ( Plant Cloak )",
+            "Shining Pearl": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees ) ( Plant Cloak )",
+            "Legends: Arceus": "Obsidian Fieldlands : Grueling Grove , Worn Bridge , Deertrack Path , Deertrack Heights , Windswept Run , Nature's Pantry , Tidewater Dam , Obsidian Falls Shaking trees ( Plant Cloak ) Crimson Mirelands : Golden Lowlands , Gapejaw Bog , Holm of Trials , Ursa's Ring , near Scarlet Bog , near Cloudpool Ridge , Shrouded Ruins , near Diamond Settlement , near Diamond Heath , Bolderoll Slope , Cottonsedge Prairie , Droning Meadow , near Lake Valor Shaking trees ( Sandy Cloak ) Cobalt Coastlands : Crossing Slope , Ginkgo Landing , Aipom Hill , Bathers' Lagoon , Hideaway Bay , near Deadwood Haunt , Tombolo Walk , Sand's Reach , Tranquility Cove , Castaway Shore , near Windbreak Stand , Spring Path , near Islespy Shore , Veilstone Cape , Lunker's Lair , Seagrass Haven , near Firespit Island Shaking trees ( Trash Cloak ) Coronet Highlands : Heavenward Lookout , near Ancient Quarry , Clamberclaw Cliffs , Celestica Ruins , near Celestica Trail , Sacred Plaza , Stonetooth Rows , Fabled Spring , Cloudcap Pass Shaking trees ( Sandy Cloak ) Alabaster Icelands : Avalanche Slopes , Whiteout Valley , Bonechill Wastes , Bonechill Wastes , Icebound Falls , Arena's Approach , near Avalugg's Legacy , Glacier Terrace , Heart's Crag , Lake Acuity , near Pearl Settlement Shaking trees ( Trash Cloak )"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Burmy",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Burmy",
+            "to": "Wormadam",
+            "method": [
+                "Level 20 ((Female only))"
+            ]
+        },
+        {
+            "from": "Burmy",
+            "to": "Mothim",
+            "method": [
+                "Level 20 ((Male only))"
+            ]
+        }
+    ]
+}

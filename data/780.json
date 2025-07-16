@@ -1,0 +1,60 @@
+{
+    "name": "Drampa",
+    "pokedex_number": "#0780",
+    "types": [
+        "Normal",
+        "Dragon"
+    ],
+    "abilities": [
+        "Berserk",
+        "Sap Sipper",
+        "Cloud Nine"
+    ],
+    "stats": {
+        "HP": 78,
+        "Attack": 60,
+        "Defense": 85,
+        "Sp. Atk": 135,
+        "Sp. Def": 91,
+        "Speed": 36,
+        "Total": 485
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It has a compassionate personality, but if it is angered, it completely destroys its surroundings with its intense breath.",
+            "Moon": "This Pokémon is friendly to people and loves children most of all. It comes from deep in the mountains to play with children it likes in town.",
+            "Ultra Sun": "If a child it has made friends with is bullied, Drampa will find the bully's house and burn it to the ground.",
+            "Ultra Moon": "It appears in towns and plays with the children. Drampa will protect kids when they're in danger, so their moms don't have to worry."
+        },
+        "Generation VIII": {
+            "Sword": "The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.",
+            "Shield": "Drampa is a kind and friendly Pokémon—up until it's angered. When that happens, it stirs up a gale and flattens everything around."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Trade , Event",
+            "Moon": "Mount Lanakila",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Mount Lanakila",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Lake of Outrage Rolling Fields , Axew's Eye ( Max Raid Battle )",
+            "Shield Expansion Pass": "Giant's Bed , Path to the Peak , Frigid Sea , Three-Point Pass , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

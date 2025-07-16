@@ -1,0 +1,93 @@
+{
+    "name": "Servine",
+    "pokedex_number": "#0496",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Contrary"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 75,
+        "Sp. Atk": 60,
+        "Sp. Def": 75,
+        "Speed": 83,
+        "Total": 413
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.",
+            "White": "They avoid attacks by sinking into the shadows of thick foliage. They retaliate with masterful whipping techniques.",
+            "Black 2": "When it gets dirty, its leaves can't be used in photosynthesis, so it always keeps itself clean.",
+            "White 2": "When it gets dirty, its leaves can't be used in photosynthesis, so it always keeps itself clean."
+        },
+        "Generation VI": {
+            "X": "It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.",
+            "Y": "When it gets dirty, its leaves can't be used in photosynthesis, so it always keeps itself clean.",
+            "Omega Ruby": "It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.",
+            "Alpha Sapphire": "When it gets dirty, its leaves can't be used in photosynthesis, so it always keeps itself clean."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "It runs low to the ground, weaving through the grass, then mercilessly pummels its target by whipping them with its vines.",
+            "Violet": "Servine’s one weakness is its inflated sense of pride. It takes a while for Servine to be able to cooperate with other Pokémon."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Snivy",
+            "White": "Evolve Snivy",
+            "Black 2": "Evolve Snivy",
+            "White 2": "Evolve Snivy"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Snivy",
+            "Alpha Sapphire": "Evolve Snivy"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Snivy",
+            "Moon": "Evolve Snivy",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Snivy"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Snivy",
+            "to": "Servine",
+            "method": [
+                "Level 17"
+            ]
+        },
+        {
+            "from": "Servine",
+            "to": "Serperior",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

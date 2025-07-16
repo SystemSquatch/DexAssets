@@ -1,0 +1,98 @@
+{
+    "name": "Fraxure",
+    "pokedex_number": "#0611",
+    "types": [
+        "Dragon",
+        "Unknown"
+    ],
+    "abilities": [
+        "Rivalry",
+        "Mold Breaker",
+        "Unnerve"
+    ],
+    "stats": {
+        "HP": 66,
+        "Attack": 117,
+        "Defense": 70,
+        "Sp. Atk": 40,
+        "Sp. Def": 50,
+        "Speed": 67,
+        "Total": 410
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they've been fighting.",
+            "White": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
+            "Black 2": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.",
+            "White 2": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle."
+        },
+        "Generation VI": {
+            "X": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
+            "Y": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.",
+            "Omega Ruby": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
+            "Alpha Sapphire": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "After battle, this Pokémon carefully sharpens its tusks on river rocks. It needs to take care of its tusks—if one breaks, it will never grow back.",
+            "Shield": "Its skin is as hard as a suit of armor. Fraxure's favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time."
+        },
+        "Generation IX": {
+            "Scarlet": "Because its tusks don’t grow back once they break, this Pokémon apparently won’t use them unless truly necessary.",
+            "Violet": "Fraxure uses its thick tusks to neatly cut prey into two portions—one to eat now and one to save for later."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Victory Road",
+            "White": "Victory Road",
+            "Black 2": "Nature Preserve",
+            "White 2": "Nature Preserve"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Dragon )",
+            "Y": "Friend Safari ( Dragon )",
+            "Omega Ruby": "Evolve Axew",
+            "Alpha Sapphire": "Evolve Axew"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Axew",
+            "Moon": "Evolve Axew",
+            "Ultra Sun": "Evolve Axew",
+            "Ultra Moon": "Evolve Axew",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields , Axew's Eye Sw ( Max Raid Battle )",
+            "Shield": "Rolling Fields , Axew's Eye Sw ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Area One , Dalizapa Passage Tera Raid Battles ( 4★ )",
+            "Violet": "North Province: Area One , Dalizapa Passage Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero": "Canyon Biome , Polar Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Axew",
+            "to": "Fraxure",
+            "method": [
+                "Level 38"
+            ]
+        },
+        {
+            "from": "Fraxure",
+            "to": "Haxorus",
+            "method": [
+                "Level 48"
+            ]
+        }
+    ]
+}

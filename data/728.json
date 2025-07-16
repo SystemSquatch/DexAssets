@@ -1,0 +1,78 @@
+{
+    "name": "Popplio",
+    "pokedex_number": "#0728",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Liquid Voice"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 54,
+        "Defense": 54,
+        "Sp. Atk": 66,
+        "Sp. Def": 56,
+        "Speed": 40,
+        "Total": 320
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker.",
+            "Moon": "This Pokémon can control water bubbles. It practices diligently so it can learn to make big bubbles.",
+            "Ultra Sun": "The balloons it inflates with its nose grow larger and larger as it practices day by day.",
+            "Ultra Moon": "Popplio gets on top of its bouncy water balloons to jump higher. It's quite the acrobatic fighter!"
+        },
+        "Generation VIII": {
+            "Sword": "It creates special bouncy balloons to send at its opponents. When the balloons pop, the sheer force of their bursting is what deals damage. *",
+            "Shield": "If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pokémon to develop their skills. *"
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon can control balloons made of water. It practices diligently so it can learn to make big balloons.",
+            "Violet": "The balloons it inflates with its nose grow larger and larger as it practices day by day."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "First partner Pokémon from Hala in Iki Town",
+            "Moon": "First partner Pokémon from Hala in Iki Town",
+            "Ultra Sun": "First partner Pokémon from Professor Kukui in Route 1",
+            "Ultra Moon": "First partner Pokémon from Professor Kukui in Route 1",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME Trade Version 1.2.0+",
+            "Shield": "Pokémon HOME Trade Version 1.2.0+",
+            "Expansion Pass": "Reward for finding at least 100 Alolan Diglett (if the player chose Sobble )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Coastal Biome (after boosting biodiversity in the Coastal Biome)"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Popplio",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Popplio",
+            "to": "Brionne",
+            "method": [
+                "Level 17"
+            ]
+        }
+    ]
+}

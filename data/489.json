@@ -1,0 +1,106 @@
+{
+    "name": "Phione",
+    "pokedex_number": "#0489",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Hydration"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 80,
+        "Sp. Atk": 80,
+        "Sp. Def": 80,
+        "Speed": 80,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "A Pokémon that lives in warm seas. It inflates the flotation sac on its head to drift and search for food.",
+            "Pearl": "A Pokémon that lives in warm seas. It inflates the flotation sac on its head to drift and search for food.",
+            "Platinum": "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
+            "HeartGold": "When the water warms, they inflate the flotation sac on their heads and drift languidly on the sea in packs.",
+            "SoulSilver": "When the water warms, they inflate the flotation sac on their heads and drift languidly on the sea in packs."
+        },
+        "Generation V": {
+            "Black": "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
+            "White": "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
+            "Black 2": "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
+            "White 2": "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted."
+        },
+        "Generation VI": {
+            "X": "When the water warms, they inflate the flotation sac on their heads and drift languidly on the sea in packs.",
+            "Y": "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
+            "Omega Ruby": "When the water warms, they inflate the flotation sac on their heads and drift languidly on the sea in packs.",
+            "Alpha Sapphire": "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "A Pokémon that lives in warm seas. It inflates the flotation sac on its head to drift and search for food.",
+            "Shining Pearl": "A Pokémon that lives in warm seas. It inflates the flotation sac on its head to drift and search for food.",
+            "Legends: Arceus": "Can be seen floating offshore during seasons when the seas are warm. Its azure body blends in with the ocean waters—logic suggests this is a defense mechanism against natural predators."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "My Pokémon Ranch Breed Manaphy",
+            "Pearl": "My Pokémon Ranch Breed Manaphy",
+            "Platinum": "My Pokémon Ranch (requires Platinum update, Japan only) Breed Manaphy",
+            "HeartGold": "Breed Manaphy",
+            "SoulSilver": "Breed Manaphy"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Breed Manaphy",
+            "Y": "Breed Manaphy",
+            "Omega Ruby": "Breed Manaphy",
+            "Alpha Sapphire": "Breed Manaphy"
+        },
+        "Generation VII": {
+            "Sun": "Breed Manaphy",
+            "Moon": "Breed Manaphy",
+            "Ultra Sun": "Breed Manaphy",
+            "Ultra Moon": "Breed Manaphy",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Breed Manaphy",
+            "Shining Pearl": "Breed Manaphy",
+            "Legends: Arceus": "Cobalt Coastlands : Seaside Hollow ( Three as part of Request 66; unlimited after catching Manaphy )"
+        },
+        "Generation IX": {
+            "Scarlet": "Breed Manaphy Pokémon HOME Version 2.0.1+",
+            "Violet": "Breed Manaphy Pokémon HOME Version 2.0.1+"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Phione",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Phione",
+            "to": "Manaphy",
+            "method": [
+                "Unknown"
+            ]
+        }
+    ]
+}

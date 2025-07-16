@@ -1,0 +1,131 @@
+{
+    "name": "Shuppet",
+    "pokedex_number": "#0353",
+    "types": [
+        "Ghost",
+        "Unknown"
+    ],
+    "abilities": [
+        "Insomnia",
+        "Frisk",
+        "Cursed Body"
+    ],
+    "stats": {
+        "HP": 44,
+        "Attack": 75,
+        "Defense": 35,
+        "Sp. Atk": 63,
+        "Sp. Def": 33,
+        "Speed": 45,
+        "Total": 295
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Shuppet is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this Pok é mon will appear in a swarm and line up beneath the eaves of that person's home.",
+            "Sapphire": "Shuppet grows by feeding on dark emotions, such as vengefulness and envy, in the hearts of people. It roams through cities in search of grudges that taint people.",
+            "Emerald": "This Pok é mon roams about deep in the night seeking such negative emotions as grudges and envy. It retreats to its nest when the sun begins to rise.",
+            "FireRed": "It loves to feed on feelings like envy and malice. Its upright horn catches the emotions of people.",
+            "LeafGreen": "It loves to feed on feelings like envy and malice. Its upright horn catches the emotions of people."
+        },
+        "Generation IV": {
+            "Diamond": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
+            "Pearl": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
+            "Platinum": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
+            "HeartGold": "It uses its horn to feed on envy and malice, or so it's said. It's very active at night.",
+            "SoulSilver": "It uses its horn to feed on envy and malice, or so it's said. It's very active at night."
+        },
+        "Generation V": {
+            "Black": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
+            "White": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
+            "Black 2": "It feeds on the dark emotions of sadness and hatred, which make it grow steadily stronger.",
+            "White 2": "It feeds on the dark emotions of sadness and hatred, which make it grow steadily stronger."
+        },
+        "Generation VI": {
+            "X": "It uses its horn to feed on envy and malice--or so it's said. It's very active at night.",
+            "Y": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
+            "Omega Ruby": "Shuppet is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this Pokémon will appear in a swarm and line up beneath the eaves of that person's home.",
+            "Alpha Sapphire": "Shuppet grows by feeding on dark emotions, such as vengefulness and envy, in the hearts of people. It roams through cities in search of grudges that taint people."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It eats up emotions like malice, jealousy, and resentment, so some people are grateful for its presence.",
+            "Ultra Moon": "There's a proverb that says, “Shun the house where Shuppet gather in the growing dusk.”"
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "They love vengeful emotions and hang in rows under the eaves of houses where vengeful people live.",
+            "Shining Pearl": "They love vengeful emotions and hang in rows under the eaves of houses where vengeful people live."
+        },
+        "Generation IX": {
+            "Scarlet": "It loves to feed on feelings like envy and malice. Its upright horn catches the emotions of people.",
+            "Violet": "It feeds on the dark emotions of sadness and hatred, which make it grow steadily stronger."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Mt. Pyre",
+            "Sapphire": "Routes 121 and 123 , Mt. Pyre",
+            "Emerald": "Routes 121 and 123 , Mt. Pyre",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Breed Banette",
+            "Pearl": "Breed Banette",
+            "Platinum": "Breed Banette",
+            "HeartGold": "Safari Zone (Forest with 35 Forest points)",
+            "SoulSilver": "Safari Zone (Forest with 35 Forest points)",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Route 13 ( Swarm )",
+            "White": "Route 13 ( Swarm )",
+            "Black 2": "Breed Banette",
+            "White 2": "Breed Banette",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Ghost )",
+            "Y": "Friend Safari ( Ghost )",
+            "Omega Ruby": "Routes 121 and 123 , Mt. Pyre",
+            "Alpha Sapphire": "Routes 121 and 123 , Mt. Pyre"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Thrifty Megamart (Abandoned Site)",
+            "Ultra Moon": "Thrifty Megamart (Abandoned Site)",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Breed Banette",
+            "Shining Pearl": "Breed Banette",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Area One , Area Two , Area Three Tera Raid Battles ( 2★ )",
+            "Violet": "East Province: Area One , Area Two , Area Three Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Shuppet",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Shuppet",
+            "to": "Banette",
+            "method": [
+                "Level 37"
+            ]
+        }
+    ]
+}

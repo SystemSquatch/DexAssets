@@ -1,0 +1,103 @@
+{
+    "name": "Sandile",
+    "pokedex_number": "#0551",
+    "types": [
+        "Ground",
+        "Dark"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Moxie",
+        "Anger Point"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 72,
+        "Defense": 35,
+        "Sp. Atk": 35,
+        "Sp. Def": 35,
+        "Speed": 65,
+        "Total": 292
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
+            "White": "It moves along below the sand's surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
+            "Black 2": "They live hidden under hot desert sands in order to keep their body temperature from dropping.",
+            "White 2": "They live hidden under hot desert sands in order to keep their body temperature from dropping."
+        },
+        "Generation VI": {
+            "X": "It moves along below the sand's surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
+            "Y": "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
+            "Omega Ruby": "It moves along below the sand's surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
+            "Alpha Sapphire": "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping."
+        },
+        "Generation VII": {
+            "Sun": "It submerges itself in sand and moves as if swimming. This wise behavior keeps its enemies from finding it and maintains its temperature.",
+            "Moon": "It conceals itself in the sand and chomps down on the legs of any prey that unwarily walk over it. Its favorite food is Trapinch.",
+            "Ultra Sun": "Alola, where it's warm all year round, is a comfortable environment for this Pokémon. Sometimes you'll even see it outside of deserts.",
+            "Ultra Moon": "Sandile's still not good at hunting, so it mostly eats things that have collapsed in the desert. It's called “the cleaner of the desert.”"
+        },
+        "Generation VIII": {
+            "Sword": "The desert gets cold at night, so when the sun sets, this Pokémon burrows deep into the sand and sleeps until sunrise.",
+            "Shield": "Sandile is small, but its legs and lower body are powerful. Pushing sand aside as it goes, Sandile moves through the desert as if it's swimming."
+        },
+        "Generation IX": {
+            "Scarlet": "It submerges itself in sand and moves as if swimming. This wise behavior keeps its enemies from finding it and maintains its temperature.",
+            "Violet": "They live hidden under hot desert sands in order to keep their body temperature from dropping."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 4 , Desert Resort , Relic Castle",
+            "White": "Route 4 , Desert Resort , Relic Castle",
+            "Black 2": "Route 4 , Desert Resort , Relic Castle Desert Resort ( N's Pokémon )",
+            "White 2": "Route 4 , Desert Resort , Relic Castle Desert Resort ( N's Pokémon )"
+        },
+        "Generation VI": {
+            "X": "Route 9 , Friend Safari ( Dark )",
+            "Y": "Route 9 , Friend Safari ( Dark )",
+            "Omega Ruby": "Route 111 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 111 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Haina Desert",
+            "Moon": "Haina Desert",
+            "Ultra Sun": "Breed Krokorok or Krookodile",
+            "Ultra Moon": "Breed Krokorok or Krookodile",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Potbottom Desert",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Asado Desert Tera Raid Battles ( 2★ )",
+            "Violet": "West Province: Asado Desert Tera Raid Battles ( 2★ )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Sandile",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Sandile",
+            "to": "Krokorok",
+            "method": [
+                "Level 29"
+            ]
+        }
+    ]
+}

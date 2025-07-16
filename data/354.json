@@ -1,0 +1,124 @@
+{
+    "name": "Banette",
+    "pokedex_number": "#0354",
+    "types": [
+        "Ghost",
+        "Unknown"
+    ],
+    "abilities": [
+        "Insomnia",
+        "Frisk",
+        "Cursed Body",
+        "Prankster"
+    ],
+    "stats": {
+        "HP": 64,
+        "Attack": 115,
+        "Defense": 65,
+        "Sp. Atk": 83,
+        "Sp. Def": 63,
+        "Speed": 65,
+        "Total": 455
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Banette generates energy for laying strong curses by sticking pins into its own body. This Pok é mon was originally a pitiful plush doll that was thrown away.",
+            "Sapphire": "A cursed energy permeated the stuffing of a discarded and forgotten plush doll, giving it new life as Banette . The Pok é mon 's energy would escape if it were to ever open its mouth.",
+            "Emerald": "An abandoned plush doll became this Pok é mon . They are said to live in garbage dumps and wander about in search of the children that threw them away.",
+            "FireRed": "Strong feelings of hatred turned a puppet into a Pok é mon . If it opens its mouth, its cursed energy escapes.",
+            "LeafGreen": "Strong feelings of hatred turned a puppet into a Pok é mon . If it opens its mouth, its cursed energy escapes."
+        },
+        "Generation IV": {
+            "Diamond": "A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.",
+            "Pearl": "A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.",
+            "Platinum": "A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.",
+            "HeartGold": "This Pokémon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.",
+            "SoulSilver": "This Pokémon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys."
+        },
+        "Generation V": {
+            "Black": "A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.",
+            "White": "A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.",
+            "Black 2": "A doll that became a Pokémon over its grudge of being thrown away. It seeks the child who disowned it.",
+            "White 2": "A doll that became a Pokémon over its grudge of being thrown away. It seeks the child who disowned it."
+        },
+        "Generation VI": {
+            "X": "A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.",
+            "Y": "Strong feelings of hatred turned a puppet into a Pokémon. If it opens its mouth, its cursed energy escapes.",
+            "Omega Ruby": "Banette generates energy for laying strong curses by sticking pins into its own body. This Pokémon was originally a pitiful plush doll that was thrown away.",
+            "Alpha Sapphire": "A cursed energy permeated the stuffing of a discarded and forgotten plush doll, giving it new life as Banette. The Pokémon's energy would escape if it were to ever open its mouth."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Extraordinary energy amplifies its cursing power to such an extent that it can't help but curse its own Trainer.",
+            "Ultra Moon": "Mega Evolution increases its vindictiveness, and the cursing power that was held back by its zipper comes spilling out."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "A doll bore a grudge over being junked, and it became a Pokémon. It seeks the child that disowned it.",
+            "Shining Pearl": "A doll bore a grudge over being junked, and it became a Pokémon. It seeks the child that disowned it."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.",
+            "Violet": "Strong feelings of hatred turned a puppet into a Pokémon. If it opens its mouth, its cursed energy escapes."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Shuppet",
+            "Sapphire": "Sky Pillar",
+            "Emerald": "Sky Pillar",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 225 , 226 , and 227 , Stark Mountain Night",
+            "Pearl": "Routes 225 , 226 , and 227 , Stark Mountain Night",
+            "Platinum": "Routes 225 , 226 Night",
+            "HeartGold": "Safari Zone (tall grass in Marshland with 49 Peak points)",
+            "SoulSilver": "Safari Zone (tall grass in Marshland with 49 Peak points)",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Evolve Shuppet",
+            "White": "Evolve Shuppet",
+            "Black 2": "Strange House and Victory Road",
+            "White 2": "Strange House and Victory Road"
+        },
+        "Generation VI": {
+            "X": "Pokémon Village (trash cans) Th",
+            "Y": "Pokémon Village (trash cans) Th",
+            "Omega Ruby": "Evolve Shuppet",
+            "Alpha Sapphire": "Evolve Shuppet"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Shuppet , Poké Pelago *",
+            "Ultra Moon": "Evolve Shuppet , Poké Pelago *",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 225 , 226 , and 227 , Stark Mountain Night Grand Underground - Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Routes 225 , 226 , and 227 , Stark Mountain Night Grand Underground - Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Alfornada Cavern North Province: Glaseado Mountain Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Alfornada Cavern North Province: Glaseado Mountain Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Shuppet",
+            "to": "Banette",
+            "method": [
+                "Level 37"
+            ]
+        }
+    ]
+}

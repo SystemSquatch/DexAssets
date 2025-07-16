@@ -1,0 +1,161 @@
+{
+    "name": "Graveler",
+    "pokedex_number": "#0075",
+    "types": [
+        "Rock",
+        "Ground"
+    ],
+    "abilities": [
+        "Rock Head",
+        "Sturdy",
+        "Magnet Pull",
+        "Sturdy",
+        "Sand Veil",
+        "Galvanize"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 95,
+        "Defense": 115,
+        "Sp. Atk": 45,
+        "Sp. Def": 45,
+        "Speed": 35,
+        "Total": 390
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
+            "Yellow": "Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid.",
+            "Stadium": "Rolls on steep mountainous trails. It plows through grass, trees and anything else that gets in its way."
+        },
+        "Generation II": {
+            "Gold": "With a free and uncaring nature, it doesn't mind if pieces break off while it rolls down mountains.",
+            "Silver": "A slow walker, it rolls to move. It pays no attention to any object that happens to be in its path.",
+            "Crystal": "It travels by rolling on mountain paths. If it gains too much speed, it stops by running into huge rocks.",
+            "Stadium 2": "With a free and uncaring nature, it doesn't mind if pieces break off while it rolls down mountains. (Pokémon Red, Silver, or Crystal inserted) A slow walker, it rolls to move. It pays no attention to any object that happens to be in its path. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Graveler grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This Pok é mon eats its way through a ton of rocks on a daily basis.",
+            "Sapphire": "Rocks are Graveler 's favorite food. This Pok é mon will climb a mountain from the base to the summit, crunchingly feasting on rocks all the while. Upon reaching the peak, it rolls back down to the bottom.",
+            "Emerald": "They descend from mountains by tumbling down steep slopes. They are so brutal, they smash aside obstructing trees and massive boulders with thunderous tackles.",
+            "FireRed": "Be careful while hiking on mountain trails. Graveler may come rolling down the path without slowing.",
+            "LeafGreen": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction."
+        },
+        "Generation IV": {
+            "Diamond": "Graveler make their homes on sheer cliff faces by gouging out numerous horizontal holes.",
+            "Pearl": "It tumbles down slopes, heedless of any body parts chipping off. It eats a ton of rocks daily.",
+            "Platinum": "It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.",
+            "HeartGold": "With a free and uncaring nature, it doesn't mind if pieces break off while it rolls down mountains.",
+            "SoulSilver": "A slow walker, it rolls to move. It pays no attention to any object that happens to be in its path."
+        },
+        "Generation V": {
+            "Black": "It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.",
+            "White": "It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.",
+            "Black 2": "It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.",
+            "White 2": "It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty."
+        },
+        "Generation VI": {
+            "X": "With a free and uncaring nature, it doesn't mind if pieces break off while it rolls down mountains.",
+            "Y": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
+            "Omega Ruby": "Graveler grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This Pokémon eats its way through a ton of rocks on a daily basis.",
+            "Alpha Sapphire": "Rocks are Graveler's favorite food. This Pokémon will climb a mountain from the base to the summit, crunchingly feasting on rocks all the while. Upon reaching the peak, it rolls back down to the bottom."
+        },
+        "Generation VII": {
+            "Sun": "Its preferred food is dravite. After it has eaten this mineral, crystals form inside the Pokémon, rising to the surface of part of its body.",
+            "Moon": "They eat rocks and often get into a scrap over them. The shock of Graveler smashing together causes a flash of light and a booming noise.",
+            "Ultra Sun": "When two Graveler fight each other, it fills the surroundings with flashes of light and sound. People call it the \"fireworks of the earth.\"",
+            "Ultra Moon": "Graveler's entire body is tinged with electricity due to the stones it likes to eat. It's very quick-tempered.",
+            "Let's Go Pikachu": "When it comes rolling down a mountain path, anything in its way gets zapped by electricity and sent flying.",
+            "Let's Go Eevee": "When it comes rolling down a mountain path, anything in its way gets zapped by electricity and sent flying."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Graveler make their homes on sheer cliff faces that have numerous holes in them.",
+            "Shining Pearl": "It tumbles down slopes, heedless of any body parts chipping off. It eats a ton of rocks daily.",
+            "Legends: Arceus": "Dwells in holes dug into sheer walls of stone. It enjoys rolling down slopes as though it were a boulder during a rockfall, so keep an eye upward while traversing mountain roads."
+        },
+        "Generation IX": {
+            "Scarlet": "They eat rocks and often get into a scrap over them. The impact of Graveler smashing together causes a flash of light and a booming noise.",
+            "Violet": "Graveler’s entire body is electrically charged due to the stones it likes to eat. It is a very quick-tempered Pokémon."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Victory Road",
+            "Blue": "Victory Road",
+            "Blue (Japan)": "Victory Road Trade Kadabra at the Pokémon Lab on Cinnabar Island *",
+            "Yellow": "Victory Road , Cerulean Cave"
+        },
+        "Generation II": {
+            "Gold": "Route 45 , Victory Road , Dark Cave , Mt. Mortar , Mt. Silver Cave",
+            "Silver": "Route 45 , Victory Road , Dark Cave , Mt. Mortar , Mt. Silver Cave",
+            "Crystal": "Route 45 , Victory Road , Dark Cave , Mt. Mortar , Mt. Silver Cave"
+        },
+        "Generation III": {
+            "Ruby": "Victory Road ( Rock Smash )",
+            "Sapphire": "Victory Road ( Rock Smash )",
+            "Emerald": "Magma Hideout (walking) Victory Road ( Rock Smash )",
+            "FireRed": "Kindle Road , Sevault Canyon , Rock Tunnel , Mt. Ember , Cerulean Cave ( Rock Smash )",
+            "LeafGreen": "Kindle Road , Sevault Canyon , Rock Tunnel , Mt. Ember , Cerulean Cave ( Rock Smash )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 211 , 214 , 216 , and 227 , Valor Lakefront , Iron Island , Mt. Coronet , Victory Road , Stark Mountain , Snowpoint Temple",
+            "Pearl": "Routes 211 , 214 , 216 , and 227 , Valor Lakefront , Iron Island , Mt. Coronet , Victory Road , Stark Mountain , Snowpoint Temple",
+            "Platinum": "Routes 211 , 214 , 216 , 225 , 226 , and 227 , Iron Island , Mt. Coronet , Sendoff Spring , Victory Road , Stark Mountain",
+            "HeartGold": "Route 45 , Cliff Cave , Victory Road , Dark Cave , Mt. Mortar , Mt. Silver Cave , Cerulean Cave Safari Zone Morning Day (Peak, default)",
+            "SoulSilver": "Route 45 , Cliff Cave , Victory Road , Dark Cave , Mt. Mortar , Mt. Silver Cave , Cerulean Cave Safari Zone Morning Day (Peak, default)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Challenger's Cave",
+            "White": "Challenger's Cave",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Route 18 , Victory Road , Terminus Cave Route 13 , Victory Road ( Rock Smash )",
+            "Y": "Route 18 , Victory Road , Terminus Cave Route 13 , Victory Road ( Rock Smash )",
+            "Omega Ruby": "Lilycove City , Seafloor Cavern , Shoal Cave , Mirage Cave (north of Fortree City, west of Route 115, north of Route 124, southeast of Route 129), Mirage Forest (west of Route 105), Mirage Island (south of Pacifidlog Town, south of Route 134), Mirage Mountain (north of Route 125, southeast of Route 129) ( Rock Smash )",
+            "Alpha Sapphire": "Lilycove City , Seafloor Cavern , Shoal Cave , Mirage Cave (north of Fortree City, west of Route 115, north of Route 124, southeast of Route 129), Mirage Forest (west of Route 105), Mirage Island (south of Pacifidlog Town, south of Route 134), Mirage Mountain (north of Route 125, southeast of Route 129) ( Rock Smash )"
+        },
+        "Generation VII": {
+            "Sun": "Route 17 ( Alolan Form ) Trade Haunter in Tapu Village * ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Moon": "Route 17 ( Alolan Form ) Trade Haunter in Tapu Village * ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Sun": "Routes 12 and 17 , Blush Mountain ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Moon": "Routes 12 and 17 , Blush Mountain ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Let's Go Pikachu": "Rock Tunnel , Victory Road , Cerulean Cave ( Kantonian Form ) Evolve Geodude ( Alolan Form )",
+            "Let's Go Eevee": "Rock Tunnel , Victory Road , Cerulean Cave ( Kantonian Form ) Evolve Geodude ( Alolan Form )"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 211 , 214 , 216 , and 227 , Valor Lakefront , Iron Island , Mt. Coronet , Victory Road , Stark Mountain , Snowpoint Temple ( Kantonian Form ) Grand Underground - Rocky Cave , Spacious Cave , Volcanic Cave , Big Bluff Cavern , Typhlo Cavern (After obtaining TM97 ( Defog )) ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Shining Pearl": "Routes 211 , 214 , 216 , and 227 , Valor Lakefront , Iron Island , Mt. Coronet , Victory Road , Stark Mountain , Snowpoint Temple ( Kantonian Form ) Grand Underground - Rocky Cave , Spacious Cave , Volcanic Cave , Big Bluff Cavern , Typhlo Cavern (After obtaining TM97 ( Defog )) ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Legends: Arceus": "Obsidian Fieldlands : near Obsidian Falls , massive mass outbreaks ( Kantonian Form ) Crimson Mirelands : Gapejaw Bog , Ursa's Ring , near Sludge Mound , near Scarlet Bog , Bolderoll Slope , Droning Meadow , near Lake Valor ( Kantonian Form ) Cobalt Coastlands : Firespit Island , massive mass outbreaks ( Kantonian Form ) Coronet Highlands : near Ancient Quarry , Clamberclaw Cliffs Day , Celestica Ruins , Sacred Plaza , Bolderoll Ravine , massive mass outbreaks ( Kantonian Form ) Unobtainable ( Alolan Form ) Obsidian Fieldlands: Oreburrow Tunnel , Ramanas Island , Sandgem Flats Shaking ore deposits ( Kantonian Form ) Crimson Mirelands: Golden Lowlands , Gapejaw Bog, Holm of Trials , Ursa's Ring, Sludge Mound, Scarlet Bog, Cloudpool Ridge , Shrouded Ruins , Diamond Heath , Bolderoll Slope, near Cottonsedge Prairie , Lake Valor Shaking ore deposits ( Kantonian Form ) Cobalt Coastlands: Crossing Slope , Ginkgo Landing , Aipom Hill , Bathers' Lagoon , Hideaway Bay , Deadwood Haunt , Tombolo Walk , Sand's Reach , Tranquility Cove , Castaway Shore , Windbreak Stand , Spring Path , Islespy Shore , Veilstone Cape , Firespit Island Shaking ore deposits ( Kantonian Form ) Coronet Highlands: Heavenward Lookout , near Ancient Quarry, Celestica Trail , Sacred Plaza, Stonetooth Rows , Bolderoll Ravine, Fabled Spring , near Cloudcap Pass Shaking ore deposits ( Kantonian Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Oni Mountain , Infernal Pass , Crystal Pool , Chilling Waterhead , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods ( Kantonian Form ) Canyon Biome , Chargestone Cavern ( Alolan Form ) Tera Raid Battles ( 4★ ) ( Kantonian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Geodude",
+            "to": "Graveler",
+            "method": [
+                "Level 25"
+            ]
+        },
+        {
+            "from": "Graveler",
+            "to": "Golem",
+            "method": [
+                "Trade"
+            ]
+        }
+    ]
+}

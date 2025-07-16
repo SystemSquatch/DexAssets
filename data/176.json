@@ -1,0 +1,139 @@
+{
+    "name": "Togetic",
+    "pokedex_number": "#0176",
+    "types": [
+        "Fairy",
+        "Flying"
+    ],
+    "abilities": [
+        "Hustle",
+        "Serene Grace",
+        "Super Luck"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 40,
+        "Defense": 85,
+        "Sp. Atk": 80,
+        "Sp. Def": 105,
+        "Speed": 40,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
+            "Silver": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
+            "Crystal": "Although it does not flap its wings very much, it can stay up in the air as it tags along after its trainer.",
+            "Stadium 2": "They say that it will appear before kindhearted, caring people and shower them with happiness. (Pokémon Red, Silver, or Crystal inserted) It grows dispirited if it is not with kind people. It can float in midair without moving its wings. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Togetic is said to be a Pok é mon that brings good fortune. When the Pok é mon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
+            "Sapphire": "Togetic is said to be a Pok é mon that brings good fortune. When the Pok é mon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
+            "Emerald": "It is said to be a Pok é mon that brings good fortune. When it spots someone who is pure of heart, a Togetic appears and shares its happiness with that person.",
+            "FireRed": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
+            "LeafGreen": "They say that it will appear before kindhearted, caring people and shower them with happiness."
+        },
+        "Generation IV": {
+            "Diamond": "It is said to appear in front of kindly people to scatter a glowing down called \"joy dust.\"",
+            "Pearl": "It is said to appear in front of kindly people to scatter a glowing down called \"joy dust.\"",
+            "Platinum": "To share its happiness, it flies around the world seeking kind-hearted people.",
+            "HeartGold": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
+            "SoulSilver": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings."
+        },
+        "Generation V": {
+            "Black": "To share its happiness, it flies around the world seeking kind-hearted people.",
+            "White": "To share its happiness, it flies around the world seeking kind-hearted people.",
+            "Black 2": "To share its happiness, it flies around the world seeking kind-hearted people.",
+            "White 2": "To share its happiness, it flies around the world seeking kind-hearted people."
+        },
+        "Generation VI": {
+            "X": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
+            "Y": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
+            "Omega Ruby": "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
+            "Alpha Sapphire": "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
+            "Shield": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
+            "Brilliant Diamond": "It is said to appear in front of kindly people to scatter a glowing down called joy dust.",
+            "Shining Pearl": "It is said to appear in front of kindly people to scatter a glowing down called joy dust.",
+            "Legends: Arceus": "No records exist of Togetic being seen in the wilds. Rumors abound that it evolves under the loving care of a trusted human companion, upon whom the Pokémon then bestows great joy."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Togepi",
+            "Silver": "Evolve Togepi",
+            "Crystal": "Evolve Togepi"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Togepi",
+            "LeafGreen": "Evolve Togepi",
+            "Colosseum": "Outskirt Stand (Shadow)",
+            "XD": "Evolve Togepi"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Togepi",
+            "Pearl": "Evolve Togepi",
+            "Platinum": "Evolve Togepi",
+            "HeartGold": "Evolve Togepi",
+            "SoulSilver": "Evolve Togepi",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Togepi",
+            "Black 2": "Evolve Togepi",
+            "White 2": "Evolve Togepi"
+        },
+        "Generation VI": {
+            "X": "Evolve Togepi",
+            "Y": "Evolve Togepi",
+            "Omega Ruby": "Evolve Togepi",
+            "Alpha Sapphire": "Evolve Togepi"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Togepi",
+            "Moon": "Evolve Togepi",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Stony Wilderness Bridge Field , Hammerlocke Hills , Lake of Outrage , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Stony Wilderness Bridge Field , Hammerlocke Hills , Lake of Outrage , Rolling Fields ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Togepi",
+            "Shining Pearl": "Evolve Togepi",
+            "Legends: Arceus": "Crimson Mirelands : near Bolderoll Slope Flying , near Cottonsedge Prairie Flying Cobalt Coastlands : Tranquility Cove Day , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Togepi",
+            "to": "Togetic",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        },
+        {
+            "from": "Togetic",
+            "to": "Togekiss",
+            "method": [
+                "Use Shiny Stone"
+            ]
+        }
+    ]
+}

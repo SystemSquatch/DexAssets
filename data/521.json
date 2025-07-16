@@ -1,0 +1,87 @@
+{
+    "name": "Unfezant",
+    "pokedex_number": "#0521",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Big Pecks",
+        "Super Luck",
+        "Rivalry"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 80,
+        "Sp. Atk": 65,
+        "Sp. Def": 55,
+        "Speed": 93,
+        "Total": 478
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males.",
+            "White": "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.",
+            "Black 2": "Males swing the plumage on their heads to threaten others, but females are better at flying.",
+            "White 2": "Males swing the plumage on their heads to threaten others, but females are better at flying."
+        },
+        "Generation VI": {
+            "X": "Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males.",
+            "Y": "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.",
+            "Omega Ruby": "Males swing their head plumage to threaten opponents. The females' flying abilities surpass those of the males.",
+            "Alpha Sapphire": "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Females of this species are very capable fliers, particularly notable for their stamina. They also take longer to adjust to people.",
+            "Shield": "This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 12 , Lostlorn Forest ( rustling grass ) Routes 6 and 7 , Dragonspiral Tower ( rustling grass ) Spring Summer Autumn",
+            "White": "Route 12 , Lostlorn Forest ( rustling grass ) Routes 6 and 7 , Dragonspiral Tower ( rustling grass ) Spring Summer Autumn",
+            "Black 2": "Routes 3 , 6 , 7 , and 12 , Victory Road ( rustling grass ) Dragonspiral Tower ( rustling grass ) Spring Summer Autumn",
+            "White 2": "Routes 3 , 6 , 7 , and 12 , Victory Road ( rustling grass ) Dragonspiral Tower ( rustling grass ) Spring Summer Autumn"
+        },
+        "Generation VI": {
+            "X": "Evolve Tranquill",
+            "Y": "Evolve Tranquill",
+            "Omega Ruby": "Evolve Tranquill",
+            "Alpha Sapphire": "Evolve Tranquill"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Axew's Eye , Hammerlocke Hills Rolling Fields , East Lake Axewell , Motostoke Riverbank , Bridge Field ( Max Raid Battle )",
+            "Shield": "Axew's Eye , Hammerlocke Hills Rolling Fields , East Lake Axewell , Motostoke Riverbank , Bridge Field ( Max Raid Battle )",
+            "Expansion Pass": "Loop Lagoon ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Tranquill",
+            "to": "Unfezant",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

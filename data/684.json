@@ -1,0 +1,80 @@
+{
+    "name": "Swirlix",
+    "pokedex_number": "#0684",
+    "types": [
+        "Fairy",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sweet Veil",
+        "Unburden"
+    ],
+    "stats": {
+        "HP": 62,
+        "Attack": 48,
+        "Defense": 66,
+        "Sp. Atk": 59,
+        "Sp. Def": 57,
+        "Speed": 49,
+        "Total": 341
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
+            "Y": "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy.",
+            "Omega Ruby": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
+            "Alpha Sapphire": "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It eats its own weight in sugar every day. If it doesn't get enough sugar, it becomes incredibly grumpy.",
+            "Shield": "The sweet smell of cotton candy perfumes Swirlix's fluffy fur. This Pokémon spits out sticky string to tangle up its enemies."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Route 7 , Friend Safari ( Fairy )",
+            "Y": "Friend Safari ( Fairy )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 5 , Glimwood Tangle , Giant's Mirror , Stony Wilderness Rolling Fields , Bridge Field , Hammerlocke Hills , Lake of Outrage ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Swirlix",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Swirlix",
+            "to": "Slurpuff",
+            "method": [
+                "Trade (holding Whipped Dream)"
+            ]
+        }
+    ]
+}

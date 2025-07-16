@@ -1,0 +1,111 @@
+{
+    "name": "Monferno",
+    "pokedex_number": "#0391",
+    "types": [
+        "Fire",
+        "Fighting"
+    ],
+    "abilities": [
+        "Blaze",
+        "Iron Fist"
+    ],
+    "stats": {
+        "HP": 64,
+        "Attack": 78,
+        "Defense": 52,
+        "Sp. Atk": 78,
+        "Sp. Def": 52,
+        "Speed": 81,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "To intimidate attackers, it stretches the fire on its tail to make itself appear bigger.",
+            "Pearl": "It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one weapon.",
+            "Platinum": "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.",
+            "HeartGold": "A bigger fire on its tail and a brighter blue pattern on its face means its rank in its pack is higher.",
+            "SoulSilver": "A bigger fire on its tail and a brighter blue pattern on its face means its rank in its pack is higher."
+        },
+        "Generation V": {
+            "Black": "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.",
+            "White": "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.",
+            "Black 2": "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.",
+            "White 2": "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance."
+        },
+        "Generation VI": {
+            "X": "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.",
+            "Y": "It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one weapon.",
+            "Omega Ruby": "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.",
+            "Alpha Sapphire": "It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one weapon."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "To intimidate attackers, it expands the fire on its tail to make itself appear bigger.",
+            "Shining Pearl": "It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one of its weapons.",
+            "Legends: Arceus": "The deeper the blue on its face, the more powerful it will grow to become. It leaps about every which way and lands powerful blows against its opponents with the flame on its tail."
+        },
+        "Generation IX": {
+            "Scarlet": "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.",
+            "Violet": "A bigger fire on its tail and a brighter blue pattern on its face means it holds a higher rank in its troop."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Chimchar",
+            "Pearl": "Evolve Chimchar",
+            "Platinum": "Evolve Chimchar",
+            "HeartGold": "Trade",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Evolve Global Link event Chimchar",
+            "White": "Evolve Global Link event Chimchar",
+            "Black 2": "Evolve Global Link event Chimchar",
+            "White 2": "Evolve Global Link event Chimchar"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Chimchar",
+            "Alpha Sapphire": "Evolve Chimchar"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 11 ( Island Scan ) Fr",
+            "Ultra Moon": "Route 11 ( Island Scan ) Fr",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Chimchar",
+            "Shining Pearl": "Evolve Chimchar",
+            "Legends: Arceus": "Obsidian Fieldlands : Deertrack Heights , Ramanas Island , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Evolve Chimchar"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Chimchar",
+            "to": "Monferno",
+            "method": [
+                "Level 14"
+            ]
+        },
+        {
+            "from": "Monferno",
+            "to": "Infernape",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

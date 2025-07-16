@@ -1,0 +1,86 @@
+{
+    "name": "Emboar",
+    "pokedex_number": "#0500",
+    "types": [
+        "Fire",
+        "Fighting"
+    ],
+    "abilities": [
+        "Blaze",
+        "Reckless"
+    ],
+    "stats": {
+        "HP": 110,
+        "Attack": 123,
+        "Defense": 65,
+        "Sp. Atk": 100,
+        "Sp. Def": 65,
+        "Speed": 65,
+        "Total": 528
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.",
+            "White": "It has mastered fast and powerful fighting moves. It grows a beard of fire.",
+            "Black 2": "A flaring beard of fire is proof that it is fired up. It is adept at using many different moves.",
+            "White 2": "A flaring beard of fire is proof that it is fired up. It is adept at using many different moves."
+        },
+        "Generation VI": {
+            "X": "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.",
+            "Y": "It has mastered fast and powerful fighting moves. It grows a beard of fire.",
+            "Omega Ruby": "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.",
+            "Alpha Sapphire": "It has mastered fast and powerful fighting moves. It grows a beard of fire."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "The flames blazing deep inside Emboar’s chest erupt vigorously from its chin, forming a beard of fire.",
+            "Violet": "The direr the situation, the more it seems to enjoy itself. The flames around its neck intensify, too, increasing Emboar’s power and speed."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Pignite",
+            "White": "Evolve Pignite",
+            "Black 2": "Evolve Pignite",
+            "White 2": "Evolve Pignite"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Pignite",
+            "Alpha Sapphire": "Evolve Pignite"
+        },
+        "Generation VII": {
+            "Sun": "Ancient Poni Path ( Island Scan ) Sa",
+            "Moon": "Ancient Poni Path ( Island Scan ) Sa",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Pignite"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Pignite",
+            "to": "Emboar",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

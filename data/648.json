@@ -1,0 +1,74 @@
+{
+    "name": "Meloetta",
+    "pokedex_number": "#0648",
+    "types": [
+        "Normal",
+        "Psychic"
+    ],
+    "abilities": [
+        "Serene Grace"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 77,
+        "Defense": 77,
+        "Sp. Atk": 128,
+        "Sp. Def": 128,
+        "Speed": 90,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
+            "White": "Many famous songs have been inspired by the melodies that Meloetta plays.",
+            "Black 2": "The melodies sung by Meloetta have the power to make Pokémon that hear them happy or sad.",
+            "White 2": "The melodies sung by Meloetta have the power to make Pokémon that hear them happy or sad."
+        },
+        "Generation VI": {
+            "X": "The melodies sung by Meloetta have the power to make Pokémon that hear them happy or sad.",
+            "Y": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
+            "Omega Ruby": "The melodies sung by Meloetta have the power to make Pokémon that hear them happy or sad.",
+            "Alpha Sapphire": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Event",
+            "White": "Event",
+            "Black 2": "Event",
+            "White 2": "Event"
+        },
+        "Generation VI": {
+            "X": "Event",
+            "Y": "Event",
+            "Omega Ruby": "Event",
+            "Alpha Sapphire": "Event"
+        },
+        "Generation VII": {
+            "Sun": "Event",
+            "Moon": "Event",
+            "Ultra Sun": "Event",
+            "Ultra Moon": "Event",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME",
+            "Violet": "Pokémon HOME",
+            "The Hidden Treasure of Area Zero": "Coastal Biome ( Only one )"
+        }
+    },
+    "evolution": []
+}

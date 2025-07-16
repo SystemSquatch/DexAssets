@@ -1,0 +1,147 @@
+{
+    "name": "Omastar",
+    "pokedex_number": "#0139",
+    "types": [
+        "Rock",
+        "Water"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Shell Armor",
+        "Weak Armor"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 125,
+        "Sp. Atk": 115,
+        "Sp. Def": 70,
+        "Speed": 55,
+        "Total": 495
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "A prehistoric Pok é mon that died out when its heavy shell made it impossible to catch prey.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "A prehistoric Pok é mon that died out when its heavy shell made it impossible to catch prey.",
+            "Yellow": "Sharp beaks ring its mouth. Its shell was too big for it to move freely, so it became extinct.",
+            "Stadium": "Attacks by ensnaring its enemy with its tentacles and biting with sharp fangs. Its overly-large shell makes it sluggish."
+        },
+        "Generation II": {
+            "Gold": "Apparently, it cracked Shellder 's shell with its sharp fangs and sucked out the insides.",
+            "Silver": "Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs.",
+            "Crystal": "Its heavy shell allowed it to reach only nearby food. This could be the reason it is extinct.",
+            "Stadium 2": "Apparently, it cracked Shellder 's shell with its sharp fangs and sucked out the insides. (Pokémon Red, Silver, or Crystal inserted) Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
+            "Sapphire": "Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
+            "Emerald": "An Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large, making its movements slow and ponderous.",
+            "FireRed": "Its tentacles are highly developed as if they are hands and feet. As soon as it ensnares prey, it bites.",
+            "LeafGreen": "Despite having strong fangs and tentacles, it went extinct when its heavy shell made it unable to catch prey."
+        },
+        "Generation IV": {
+            "Diamond": "It is thought that this Pokémon became extinct because its spiral shell grew too large.",
+            "Pearl": "It is thought that this Pokémon became extinct because its spiral shell grew too large.",
+            "Platinum": "It is thought that this Pokémon became extinct because its spiral shell grew too large.",
+            "HeartGold": "Apparently, it cracked Shellder 's shell with its sharp fangs and sucked out the insides.",
+            "SoulSilver": "Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs."
+        },
+        "Generation V": {
+            "Black": "It is thought that this Pokémon became extinct because its spiral shell grew too large.",
+            "White": "It is thought that this Pokémon became extinct because its spiral shell grew too large.",
+            "Black 2": "It is thought that this Pokémon became extinct because its spiral shell grew too large.",
+            "White 2": "It is thought that this Pokémon became extinct because its spiral shell grew too large."
+        },
+        "Generation VI": {
+            "X": "Its tentacles are highly developed as if they are hands and feet. As soon as it ensnares prey, it bites.",
+            "Y": "Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs.",
+            "Omega Ruby": "Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
+            "Alpha Sapphire": "Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Its heavy shell is thought to be the reason this ancient Pokémon died out. It's apparently a distant ancestor of Octillery .",
+            "Ultra Moon": "It wraps its prey in its tentacles to immobilize them and then finishes them off with its sharp fangs.",
+            "Let's Go Pikachu": "Its sharp beak rings its mouth. Its shell was too big for it to move freely, so it became extinct.",
+            "Let's Go Eevee": "Its sharp beak rings its mouth. Its shell was too big for it to move freely, so it became extinct."
+        },
+        "Generation VIII": {
+            "Sword": "Weighed down by a large and heavy shell, Omastar couldn't move very fast. Some say it went extinct because it was unable to catch food.",
+            "Shield": "Omastar's sharp fangs could crush rock, but the Pokémon can attack only the prey that come within reach of its tentacles.",
+            "Brilliant Diamond": "It is thought that this Pokémon became extinct because its spiral shell grew too large.",
+            "Shining Pearl": "It is thought that this Pokémon became extinct because its spiral shell grew too large."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Omanyte",
+            "Blue": "Evolve Omanyte",
+            "Blue (Japan)": "Evolve Omanyte",
+            "Yellow": "Evolve Omanyte"
+        },
+        "Generation II": {
+            "Gold": "Time Capsule",
+            "Silver": "Time Capsule",
+            "Crystal": "Time Capsule"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Omanyte",
+            "LeafGreen": "Evolve Omanyte",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Omanyte",
+            "Pearl": "Evolve Omanyte",
+            "Platinum": "Evolve Omanyte",
+            "HeartGold": "Evolve Omanyte",
+            "SoulSilver": "Trade",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Evolve Omanyte",
+            "White": "Evolve Omanyte",
+            "Black 2": "Evolve Omanyte",
+            "White 2": "Evolve Omanyte"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Evolve Omanyte",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Evolve Omanyte"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Omanyte",
+            "Ultra Moon": "Evolve Omanyte",
+            "Let's Go Pikachu": "Evolve Omanyte",
+            "Let's Go Eevee": "Evolve Omanyte"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Sword Expansion Pass": "Roaring-Sea Caves ( Wanderer ) Giant's Bed , Snowslide Slope , Giant's Foot , Ballimere Lake , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Omanyte",
+            "Shining Pearl": "Evolve Omanyte",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Omanyte",
+            "to": "Omastar",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

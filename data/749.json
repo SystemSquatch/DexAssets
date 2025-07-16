@@ -1,0 +1,78 @@
+{
+    "name": "Mudbray",
+    "pokedex_number": "#0749",
+    "types": [
+        "Ground",
+        "Unknown"
+    ],
+    "abilities": [
+        "Own Tempo",
+        "Stamina",
+        "Inner Focus"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 100,
+        "Defense": 70,
+        "Sp. Atk": 45,
+        "Sp. Def": 55,
+        "Speed": 45,
+        "Total": 385
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "The mud stuck to Mudbray's hooves enhances its grip and its powerful running gait.",
+            "Moon": "It has a stubborn, individualistic disposition. Eating dirt, making mud, and playing in the mire all form part of its daily routine.",
+            "Ultra Sun": "It loves playing in the mud. If it isn't showered with mud on a daily basis, it gets stressed out and stops listening to its Trainer.",
+            "Ultra Moon": "Possessing mighty power, Mudbray can be loaded with 50 times its own body weight and will be totally fine."
+        },
+        "Generation VIII": {
+            "Sword": "Loads weighing up to 50 times as much as its own body weight pose no issue for this Pokémon. It's skilled at making use of mud.",
+            "Shield": "It eats dirt to create mud and smears this mud all over its feet, giving them the grip needed to walk on rough terrain without slipping."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon covers itself in mud that it has regurgitated. The mud won’t dry out even if it’s exposed to the sun for a long time.",
+            "Violet": "Though a slow walker, Mudbray is plenty strong. Its pace doesn't change even when it's loaded with 50 times its own body weight."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Routes 4 , 6 , and 12 , Paniola Ranch , Blush Mountain",
+            "Moon": "Routes 4 , 6 , and 12 , Paniola Ranch , Blush Mountain",
+            "Ultra Sun": "Routes 4 , 6 , and 12 , Paniola Ranch , Blush Mountain",
+            "Ultra Moon": "Routes 4 , 6 , and 12 , Paniola Ranch , Blush Mountain",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 3 , Rolling Fields , Dappled Grove , West Lake Axewell , East Lake Axewell , North Lake Miloch , South Lake Miloch , Giant's Seat , Giant's Cap Bridge Field ( Max Raid Battle )",
+            "Shield": "Route 3 , Rolling Fields , Dappled Grove , West Lake Axewell , East Lake Axewell , North Lake Miloch , South Lake Miloch , Giant's Seat , Giant's Cap Bridge Field ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Five East Province: Area Two West Province: Area One North Province: Dalizapa Passage Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Area One , Area Two , Area Five East Province: Area Two West Province: Area One North Province: Dalizapa Passage Tera Raid Battles ( 2★ )",
+            "The Hidden Treasure of Area Zero": "Wistful Fields , Paradise Barrens"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Mudbray",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Mudbray",
+            "to": "Mudsdale",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

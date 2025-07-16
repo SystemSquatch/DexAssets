@@ -1,0 +1,92 @@
+{
+    "name": "Eelektrik",
+    "pokedex_number": "#0603",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 85,
+        "Defense": 70,
+        "Sp. Atk": 75,
+        "Sp. Def": 70,
+        "Speed": 40,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.",
+            "White": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+            "Black 2": "It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps.",
+            "White 2": "It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps."
+        },
+        "Generation VI": {
+            "X": "It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps.",
+            "Y": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+            "Omega Ruby": "It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps.",
+            "Alpha Sapphire": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.",
+            "Violet": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Tynamo",
+            "White": "Evolve Tynamo",
+            "Black 2": "Seaside Cave",
+            "White 2": "Seaside Cave"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Tynamo",
+            "Alpha Sapphire": "Evolve Tynamo"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Tynamo",
+            "Moon": "Evolve Tynamo",
+            "Ultra Sun": "Evolve Tynamo",
+            "Ultra Moon": "Evolve Tynamo",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: South Paldean Sea West Province: West Paldean Sea North Province: North Paldean Sea Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: South Paldean Sea West Province: West Paldean Sea North Province: North Paldean Sea Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero": "Kitakami Wilds , Timeless Woods Savanna Biome , Canyon Biome , Chargestone Cavern , Polar Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Tynamo",
+            "to": "Eelektrik",
+            "method": [
+                "Level 39"
+            ]
+        },
+        {
+            "from": "Eelektrik",
+            "to": "Eelektross",
+            "method": [
+                "Use Thunder Stone"
+            ]
+        }
+    ]
+}

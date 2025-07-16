@@ -1,0 +1,117 @@
+{
+    "name": "Shinx",
+    "pokedex_number": "#0403",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Rivalry",
+        "Intimidate",
+        "Guts"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 65,
+        "Defense": 34,
+        "Sp. Atk": 40,
+        "Sp. Def": 34,
+        "Speed": 45,
+        "Total": 263
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+            "Pearl": "Its forelegs have a muscle-based system of generating electricity. Its body shines if endangered.",
+            "Platinum": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
+            "HeartGold": "The extension and contraction of its muscles generates electricity. Its fur glows when it's in trouble.",
+            "SoulSilver": "The extension and contraction of its muscles generates electricity. Its fur glows when it's in trouble."
+        },
+        "Generation V": {
+            "Black": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
+            "White": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
+            "Black 2": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
+            "White 2": "The extension and contraction of its muscles generates electricity. It glows when in trouble."
+        },
+        "Generation VI": {
+            "X": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
+            "Y": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+            "Omega Ruby": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
+            "Alpha Sapphire": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "This Pokémon generates electricity by contracting its muscles. Excited trembling is a sign that Shinx is generating a tremendous amount of electricity.",
+            "Shield": "Electricity makes this Pokémon's fur glow. Shinx sends signals to others of its kind by shaking the tip of its tail while the tail tip is shining brightly.",
+            "Brilliant Diamond": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+            "Shining Pearl": "Its forelegs have a muscle-based system of generating electricity. Its body shines when it is in danger.",
+            "Legends: Arceus": "Shakes its body to generate electricity. Its stature belies its aggression—one must be patient to tame this Pokémon."
+        },
+        "Generation IX": {
+            "Scarlet": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
+            "Violet": "The extension and contraction of its muscles generates electricity. Its fur glows when it's in trouble."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 202 , 203 , and 204 , Fuego Ironworks",
+            "Pearl": "Routes 202 , 203 , and 204 , Fuego Ironworks",
+            "Platinum": "Routes 202 , 203 , and 204 , Valley Windworks",
+            "HeartGold": "Safari Zone (Plains with 10 Plains points) Routes 1 , 2 , 3 , 5 , 7 , 8 , 11 , 14 , 15 , 16 , 17 , 18 , 29 , 33 , 36 , 37 , 38 , 39 , 46 , and 48 , National Park (Sinnoh Sound)",
+            "SoulSilver": "Safari Zone (Plains with 10 Plains points) Routes 1 , 2 , 3 , 5 , 7 , 8 , 11 , 14 , 15 , 16 , 17 , 18 , 29 , 33 , 36 , 37 , 38 , 39 , 46 , and 48 , National Park (Sinnoh Sound)",
+            "Pokéwalker": "Sinnoh Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Breed Luxio or Luxray",
+            "Y": "Breed Luxio or Luxray",
+            "Omega Ruby": "Breed Luxio or Luxray",
+            "Alpha Sapphire": "Breed Luxio or Luxray"
+        },
+        "Generation VII": {
+            "Sun": "Breed Luxio or Luxray",
+            "Moon": "Breed Luxio or Luxray",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Challenge Beach , Training Lowlands , Challenge Road , Potbottom Desert",
+            "Brilliant Diamond": "Routes 202 , 203 , and 204 , Fuego Ironworks Grand Underground - Spacious Cave , Grassland Cave , Sunlit Cavern , Whiteout Cave",
+            "Shining Pearl": "Routes 202 , 203 , and 204 , Fuego Ironworks Grand Underground - Spacious Cave , Grassland Cave , Sunlit Cavern , Whiteout Cave",
+            "Legends: Arceus": "Obsidian Fieldlands : near Aspiration Hill , near Floaro Gardens , Deertrack Heights , near Oreburrow Tunnel , massive mass outbreaks Coronet Highlands : Sonorous Path , Sacred Plaza , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Three South Province: Area Five ( Ice Tera Type ) Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Area Three South Province: Area Five ( Ice Tera Type ) Tera Raid Battles ( 2★ )",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Oni Mountain , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Shinx",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Shinx",
+            "to": "Luxio",
+            "method": [
+                "Level 15"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "name": "Gourgeist",
+    "pokedex_number": "#0711",
+    "types": [
+        "Ghost",
+        "Grass"
+    ],
+    "abilities": [
+        "Pickup",
+        "Frisk",
+        "Insomnia"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 85,
+        "Defense": 122,
+        "Sp. Atk": 58,
+        "Sp. Def": 75,
+        "Speed": 99,
+        "Total": 494
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Singing in eerie voices, they wander town streets on the night of the new moon. Anyone who hears their song is cursed.",
+            "Y": "It enwraps its prey in its hairlike arms. It sings joyfully as it observes the suffering of its prey.",
+            "Omega Ruby": "Singing in eerie voices, they wander town streets on the night of the new moon. Anyone who hears their song is cursed.",
+            "Alpha Sapphire": "It enwraps its prey in its hairlike arms. It sings joyfully as it observes the suffering of its prey."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Supersized Gourgeist aren't picky. They will forcefully drag anyone off to the afterlife.",
+            "Shield": "A supersized Pumpkaboo evolves into a supersized Gourgeist. Its bodily proportions also get passed on to its descendants."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Evolve Pumpkaboo",
+            "Y": "Evolve Pumpkaboo",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Hammerlocke Hills ( Wanderer ) ( Average Size ) Dappled Grove , South Lake Miloch Sw , Watchtower Ruins , Stony Wilderness , Giant's Mirror ( Max Raid Battle ) ( Average Size ) Evolve Pumpkaboo ( All Sizes )",
+            "Shield": "Hammerlocke Hills ( Wanderer ) ( Average Size ) Dappled Grove , South Lake Miloch Sw , Watchtower Ruins , Stony Wilderness , Giant's Mirror ( Max Raid Battle ) ( Average Size ) Evolve Pumpkaboo ( All Sizes )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Pumpkaboo",
+            "to": "Gourgeist",
+            "method": [
+                "Trade"
+            ]
+        }
+    ]
+}

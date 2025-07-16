@@ -1,0 +1,133 @@
+{
+    "name": "Heracross",
+    "pokedex_number": "#0214",
+    "types": [
+        "Bug",
+        "Fighting"
+    ],
+    "abilities": [
+        "Swarm",
+        "Guts",
+        "Moxie",
+        "Skill Link"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 125,
+        "Defense": 75,
+        "Sp. Atk": 40,
+        "Sp. Def": 95,
+        "Speed": 85,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "This powerful Pok é mon thrusts its prized horn under its enemies' bellies then lifts and throws them.",
+            "Silver": "Usually docile, but if disturbed while sipping honey, it chases off the intruder with its horn.",
+            "Crystal": "With its Herculean powers, it can easily throw around an object that is 100 times its own weight.",
+            "Stadium 2": "This powerful Pok é mon thrusts its prized horn under its enemies' bellies then lifts and throws them. (Pokémon Red, Silver, or Crystal inserted) Usually docile, but if disturbed while sipping honey, it chases off the intruder with its horn. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Heracross charges in a straight line at its foe, slips beneath the foe's grasp, and then scoops up and hurls the opponent with its mighty horn. This Pok é mon even has enough power to topple a massive tree.",
+            "Sapphire": "Heracross has sharp claws on its feet. These are planted firmly into the ground or the bark of a tree, giving the Pok é mon a secure and solid footing to forcefully fling away foes with its proud horn.",
+            "Emerald": "They gather in forests seeking the sweet sap of trees. It is completely clad in a steel-hard shell. It is proud of its horn, which it uses to fling foes.",
+            "FireRed": "Usually docile, but if disturbed while sipping honey, it chases off the intruder with its horn.",
+            "LeafGreen": "This powerful Pok é mon thrusts its prized horn under its enemies' bellies, then lifts and throws them."
+        },
+        "Generation IV": {
+            "Diamond": "It gathers in forests to search for tree sap, its favorite food. It's strong enough to hurl foes.",
+            "Pearl": "With powerful legs and claws, it generates enough power to hurl foes over great distances.",
+            "Platinum": "It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.",
+            "HeartGold": "This powerful Pokémon thrusts its prized horn under its enemies' bellies, then lifts and throws them.",
+            "SoulSilver": "It is usually docile, but if it is disturbed while sipping honey, it chases off the intruder with its horn."
+        },
+        "Generation V": {
+            "Black": "It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.",
+            "White": "It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.",
+            "Black 2": "No matter how heavy its opponents, it flings them far away with its prized horn.",
+            "White 2": "No matter how heavy its opponents, it flings them far away with its prized horn."
+        },
+        "Generation VI": {
+            "X": "This powerful Pokémon thrusts its prized horn under its enemies' bellies, then lifts and throws them.",
+            "Y": "With its Herculean powers, it can easily throw around an object that is 100 times its own weight.",
+            "Omega Ruby": "Heracross charges in a straight line at its foe, slips beneath the foe's grasp, and then scoops up and hurls the opponent with its mighty horn. This Pokémon even has enough power to topple a massive tree.",
+            "Alpha Sapphire": "Heracross has sharp claws on its feet. These are planted firmly into the ground or the bark of a tree, giving the Pokémon a secure and solid footing to forcefully fling away foes with its proud horn."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It can grip things with its two horns and lift 500 times its own body weight.",
+            "Ultra Moon": "A tremendous influx of energy builds it up, but when Mega Evolution ends, Heracross is bothered by terrible soreness in its muscles."
+        },
+        "Generation VIII": {
+            "Sword": "Heracross loves sweet sap and will go looking through forests for it. The Pokémon uses its two antennae to pick up scents as it searches.",
+            "Shield": "This Pokémon takes pride in its strength, which allows it to lift things 100 times heavier than itself with no trouble at all.",
+            "Brilliant Diamond": "It gathers in forests to search for tree sap, its favorite food. It's strong enough to hurl foes.",
+            "Shining Pearl": "Its powerful legs and claws give it enough power to hurl foes over great distances.",
+            "Legends: Arceus": "This Pokémon has an unparalleled horn. Heracross itself demonstrates tremendous power—it's capable of throwing several people trained in the traditional arts of war at once."
+        },
+        "Generation IX": {
+            "Scarlet": "It loves sweet nectar. To keep all the nectar to itself, it hurls rivals away with its prized horn.",
+            "Violet": "With its herculean powers, it can easily throw around an object that is 100 times its own weight."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 29 , 30 , 31 , 32 , 33 , 42 , 43 , and 44 ( Headbutt trees ) (only high-encounter trees)",
+            "Silver": "Routes 29 , 30 , 31 , 32 , 33 , 42 , 43 , and 44 ( Headbutt trees ) (only high-encounter trees)",
+            "Crystal": "Azalea Town , Routes 33 , 42 , and 44 ( Headbutt trees )"
+        },
+        "Generation III": {
+            "Ruby": "Safari Zone",
+            "Sapphire": "Safari Zone",
+            "Emerald": "Safari Zone",
+            "FireRed": "Pattern Bush",
+            "LeafGreen": "Pattern Bush",
+            "Colosseum": "Realgamtwr Dome (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , and 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "Pearl": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , and 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "Platinum": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , and 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "HeartGold": "Routes 7 , 11 , 16 , 28 , 33 , 42 , 44 , 45 , 46 , and 47 , Azalea Town , Vermilion City , Celadon City , Mt. Silver , Mt. Silver Cave ( Headbutt trees )",
+            "SoulSilver": "Routes 7 , 11 , 16 , 28 , 33 , 42 , 44 , 45 , 46 , and 47 , Azalea Town , Vermilion City , Celadon City , Mt. Silver , Mt. Silver Cave ( Headbutt trees )",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Route 12",
+            "White": "Route 12",
+            "Black 2": "Route 12 and Lostlorn Forest Lostlorn Forest ( Hidden Grotto )",
+            "White 2": "Lostlorn Forest ( Hidden Grotto )",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Bug )",
+            "Y": "Route 12 , Friend Safari ( Bug )",
+            "Omega Ruby": "Safari Zone (Zone 3, Long Grass )",
+            "Alpha Sapphire": "Safari Zone (Zone 3, Long Grass )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Poni Grove",
+            "Ultra Moon": "Poni Grove",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Shield Expansion Pass": "Training Lowlands Challenge Road , Training Lowlands , Forest of Focus ( Wanderer ) Fields of Honor ( Max Raid Battle )",
+            "Brilliant Diamond": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , and 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "Shining Pearl": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , and 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "Legends: Arceus": "Obsidian Fieldlands : Grueling Grove Crimson Mirelands : Space-time distortions Coronet Highlands : Wayward Wood Day , massive mass outbreaks Coronet Highlands: Wayward Wood, Sonorous Path Shaking trees"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Area Two , Socarrat Trail Tera Raid Battles ( 4★ , 6★ )",
+            "Violet": "North Province: Area Two , Socarrat Trail Tera Raid Battles ( 4★ , 6★ )",
+            "The Hidden Treasure of Area Zero": "Reveler's Road , Kitakami Hall , Mossfell Confluence , Fellhorn Gorge , Oni Mountain , Kitakami Wilds"
+        }
+    },
+    "evolution": []
+}

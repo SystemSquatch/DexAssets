@@ -1,0 +1,103 @@
+{
+    "name": "Roserade",
+    "pokedex_number": "#0407",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "abilities": [
+        "Natural Cure",
+        "Poison Point",
+        "Technician"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 70,
+        "Defense": 55,
+        "Sp. Atk": 125,
+        "Sp. Def": 105,
+        "Speed": 90,
+        "Total": 505
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It attracts prey with a sweet aroma, then downs it with thorny whips hidden in its arms.",
+            "Pearl": "With the movements of a dancer, it strikes with whips that are densely lined with poison thorns.",
+            "Platinum": "Each of its hands contains different toxins, but both hands can jab with near-fatal power.",
+            "HeartGold": "Its sweet aroma attracts prey. Then it spews poison. The more toxic it is, the sweeter its aroma.",
+            "SoulSilver": "Its sweet aroma attracts prey. Then it spews poison. The more toxic it is, the sweeter its aroma."
+        },
+        "Generation V": {
+            "Black": "Each of its hands contains different toxins, but both hands can jab with near-fatal power.",
+            "White": "Each of its hands contains different toxins, but both hands can jab with near-fatal power.",
+            "Black 2": "Luring prey with a sweet scent, it uses poison whips on its arms to poison, bind, and finish off the prey.",
+            "White 2": "Luring prey with a sweet scent, it uses poison whips on its arms to poison, bind, and finish off the prey."
+        },
+        "Generation VI": {
+            "X": "Luring prey with a sweet scent, it uses poison whips on its arms to poison, bind, and finish off the prey.",
+            "Y": "With the movements of a dancer, it strikes with whips that are densely lined with poison thorns.",
+            "Omega Ruby": "Luring prey with a sweet scent, it uses poison whips on its arms to poison, bind, and finish off the prey.",
+            "Alpha Sapphire": "With the movements of a dancer, it strikes with whips that are densely lined with poison thorns."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "After captivating opponents with its sweet scent, it lashes them with its thorny whips.",
+            "Shield": "The poison in its right hand is quick acting. The poison in its left hand is slow acting. Both are life threatening.",
+            "Brilliant Diamond": "It attracts prey with a sweet aroma, then downs it with thorny whips hidden in its arms.",
+            "Shining Pearl": "With the movements of a dancer, it strikes with whips that are densely lined with poison thorns.",
+            "Legends: Arceus": "Hidden within the bouquet on each hand are thorned whips loaded with virulent poison. Roserade moves gracefully as it corners its prey and mercilessly lashes them with its whips."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Roselia",
+            "Pearl": "Evolve Roselia",
+            "Platinum": "Evolve Roselia",
+            "HeartGold": "Evolve Roselia",
+            "SoulSilver": "Evolve Roselia"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Roselia",
+            "Black 2": "Route 12 , Lostlorn Forest , Victory Road ( rustling grass )",
+            "White 2": "Route 12 , Lostlorn Forest , Victory Road ( rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Roselia",
+            "Y": "Evolve Roselia",
+            "Omega Ruby": "Evolve Roselia",
+            "Alpha Sapphire": "Evolve Roselia"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Roselia",
+            "Moon": "Evolve Roselia",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Hammerlocke Hills Dappled Grove ( Max Raid Battle )",
+            "Shield": "Hammerlocke Hills Dappled Grove ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Roselia",
+            "Shining Pearl": "Evolve Roselia",
+            "Legends: Arceus": "Crimson Mirelands : Cloudpool Ridge Day , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Roselia",
+            "to": "Roserade",
+            "method": [
+                "Use Shiny Stone"
+            ]
+        }
+    ]
+}

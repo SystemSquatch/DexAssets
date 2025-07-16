@@ -1,0 +1,123 @@
+{
+    "name": "Ludicolo",
+    "pokedex_number": "#0272",
+    "types": [
+        "Water",
+        "Grass"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Rain Dish",
+        "Own Tempo"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 70,
+        "Sp. Atk": 90,
+        "Sp. Def": 100,
+        "Speed": 70,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Ludicolo begins dancing as soon as it hears cheerful, festive music. This Pok é mon is said to appear when it hears the singing of children on hiking outings.",
+            "Sapphire": "Upon hearing an upbeat and cheerful rhythm, the cells in Ludicolo 's body become very energetic and active. Even in battle, this Pok é mon will exhibit an amazing amount of power.",
+            "Emerald": "When it hears festive music, all the cells in its body become stimulated, and it begins moving in rhythm. It does not quail even when it faces a tough opponent.",
+            "FireRed": "The rhythm of bright, festive music activates Ludicolo 's cells, making it more powerful.",
+            "LeafGreen": "The rhythm of bright, festive music activates Ludicolo 's cells, making it more powerful."
+        },
+        "Generation IV": {
+            "Diamond": "If it hears festive music, all its muscles fill with energy. It can't help breaking out into a dance.",
+            "Pearl": "If it hears festive music, all its muscles fill with energy. It can't help breaking out into a dance.",
+            "Platinum": "If it hears festive music, all its muscles fill with energy. It can't help breaking out into a dance.",
+            "HeartGold": "If it hears festive music, it begins moving in rhythm in order to amplify its power.",
+            "SoulSilver": "If it hears festive music, it begins moving in rhythm in order to amplify its power."
+        },
+        "Generation V": {
+            "Black": "If it hears festive music, all its muscles fill with energy. It can't help breaking out into a dance.",
+            "White": "If it hears festive music, all its muscles fill with energy. It can't help breaking out into a dance.",
+            "Black 2": "If it hears festive music, all its muscles fill with energy. It can't help breaking out into a dance.",
+            "White 2": "If it hears festive music, all its muscles fill with energy. It can't help breaking out into a dance."
+        },
+        "Generation VI": {
+            "X": "If it hears festive music, all its muscles fill with energy. It can't help breaking out into a dance.",
+            "Y": "The rhythm of bright, festive music activates Ludicolo's cells, making it more powerful.",
+            "Omega Ruby": "Ludicolo begins dancing as soon as it hears cheerful, festive music. This Pokémon is said to appear when it hears the singing of children on hiking outings.",
+            "Alpha Sapphire": "Upon hearing an upbeat and cheerful rhythm, the cells in Ludicolo's body become very energetic and active. Even in battle, this Pokémon will exhibit an amazing amount of power."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "The rhythm of bright, festive music activates Ludicolo's cells, making it more powerful.",
+            "Shield": "If it hears festive music, it begins moving in rhythm in order to amplify its power.",
+            "Brilliant Diamond": "If it hears festive music, all its muscles fill with energy. It can't help breaking out into a dance.",
+            "Shining Pearl": "If it hears festive music, all its muscles fill with energy. It can't help breaking out into a dance."
+        },
+        "Generation IX": {
+            "Scarlet": "There are structures throughout its whole body that produce energy when hit by sound waves with a cheerful rhythm.",
+            "Violet": "Dancing with an upbeat rhythm energizes and emboldens it, letting it face any foe without fear."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Evolve Lombre",
+            "Emerald": "Evolve Lombre",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Lombre",
+            "Pearl": "Evolve Lombre",
+            "Platinum": "Evolve Lombre",
+            "HeartGold": "Evolve Lombre",
+            "SoulSilver": "Evolve Lombre",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Trade , Event",
+            "White": "Evolve Lombre",
+            "Black 2": "Evolve Lombre",
+            "White 2": "Evolve Lombre"
+        },
+        "Generation VI": {
+            "X": "Evolve Lombre",
+            "Y": "Evolve Lombre",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Evolve Lombre"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Lombre",
+            "Ultra Moon": "Evolve Lombre",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Dappled Grove Bridge Field , Dappled Grove , Stony Wilderness ( Max Raid Battle )",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Evolve Lombre",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Lombre",
+            "to": "Ludicolo",
+            "method": [
+                "Use Water Stone"
+            ]
+        }
+    ]
+}

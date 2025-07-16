@@ -1,0 +1,73 @@
+{
+    "name": "Cosmog",
+    "pokedex_number": "#0789",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Unaware"
+    ],
+    "stats": {
+        "HP": 43,
+        "Attack": 29,
+        "Defense": 31,
+        "Sp. Atk": 29,
+        "Sp. Def": 31,
+        "Speed": 37,
+        "Total": 200
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Its body is gaseous and frail. It slowly grows as it collects dust from the atmosphere.",
+            "Moon": "In ages past, it was called the child of the stars. It's said to be a Pokémon from another world, but no specific details are known.",
+            "Ultra Sun": "Even though its helpless, gaseous body can be blown away by the slightest breeze, it doesn't seem to care.",
+            "Ultra Moon": "Whether or not it's a Pokémon from this world is a mystery. When it's in a jam, it warps away to a safe place to hide."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon came from another universe. Its gaseous body is so light that even a gentle breeze can blow it away. *",
+            "Shield": "Cosmog is very curious but not very cautious, often placing itself in danger. If things start to look dicey, it teleports away. *"
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Lake of the Sunne ( Only one )",
+            "Moon": "Lake of the Moone ( Only one )",
+            "Ultra Sun": "Lake of the Sunne ( Only one )",
+            "Ultra Moon": "Lake of the Moone ( Only one )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME Trade Version 1.3.0+",
+            "Shield": "Pokémon HOME Trade Version 1.3.0+",
+            "Expansion Pass": "Received from an elderly woman in Freezington after stopping Glastrier 's/ Spectrier 's attack",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME Version 3.0.0+",
+            "Violet": "Pokémon HOME Version 3.0.0+"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Cosmog",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Cosmog",
+            "to": "Cosmoem",
+            "method": [
+                "Level 43"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "name": "Delibird",
+    "pokedex_number": "#0225",
+    "types": [
+        "Ice",
+        "Flying"
+    ],
+    "abilities": [
+        "Vital Spirit",
+        "Hustle",
+        "Insomnia"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 55,
+        "Defense": 45,
+        "Sp. Atk": 65,
+        "Sp. Def": 45,
+        "Speed": 75,
+        "Total": 330
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
+            "Silver": "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.",
+            "Crystal": "It always carries its food with it, wherever it goes. If attacked, it throws its food at the opponent.",
+            "Stadium 2": "It carries food all day long. There are tales about lost people who were saved by the food it had. (Pokémon Red, Silver, or Crystal inserted) It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of Mt. Everest thanks to one of these Pok é mon sharing its food.",
+            "Sapphire": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of Mt. Everest thanks to one of these Pok é mon sharing its food.",
+            "Emerald": "It carries food bundled up in its tail. There was a famous explorer who managed to scale Mt. Everest thanks to a Delibird sharing its food.",
+            "FireRed": "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.",
+            "LeafGreen": "It carries food all day long. There are tales about lost people who were saved by the food it had."
+        },
+        "Generation IV": {
+            "Diamond": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+            "Pearl": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+            "Platinum": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+            "HeartGold": "It carries food all day long. There are tales about lost people who were saved by its stored food.",
+            "SoulSilver": "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks."
+        },
+        "Generation V": {
+            "Black": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+            "White": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+            "Black 2": "It carries food all day long. When someone is lost in the mountains, it shares that food.",
+            "White 2": "It carries food all day long. When someone is lost in the mountains, it shares that food."
+        },
+        "Generation VI": {
+            "X": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+            "Y": "It carries food all day long. When someone is lost in the mountains, it shares that food.",
+            "Omega Ruby": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world's highest mountain, thanks to one of these Pokémon sharing its food.",
+            "Alpha Sapphire": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world's highest mountain, thanks to one of these Pokémon sharing its food."
+        },
+        "Generation VII": {
+            "Sun": "Although it naturally prefers colder locales, Delibird in Alola seem able to withstand the heat to a certain extent.",
+            "Moon": "It has a generous habit of sharing its food with people and Pokémon, so it's always scrounging around for more food.",
+            "Ultra Sun": "It shares its food with people who are stranded. Because Delibird is omnivorous, sometimes it gives those people bug Pokémon.",
+            "Ultra Moon": "It wraps food in its tail to carry it around. The Delibird with the biggest tail is the boss of the flock!"
+        },
+        "Generation VIII": {
+            "Sword": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
+            "Shield": "It has a generous habit of sharing its food with people and Pokémon, so it's always scrounging around for more food.",
+            "Brilliant Diamond": "It carries food rolled up in its tail. It has a habit of sharing food with people lost in the mountains.",
+            "Shining Pearl": "It carries food rolled up in its tail. It has a habit of sharing food with people lost in the mountains."
+        },
+        "Generation IX": {
+            "Scarlet": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
+            "Violet": "It always carries its food with it, wherever it goes. If attacked, it throws its food at the opponent."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Trade , Event",
+            "Silver": "Ice Path",
+            "Crystal": "Ice Path Night"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "Icefall Cave",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Realgamtwr Dome (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 216 ( Swarm )",
+            "Pearl": "Route 216 ( Swarm )",
+            "Platinum": "Route 217 ( Swarm )",
+            "HeartGold": "Trade",
+            "SoulSilver": "Ice Path",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Giant Chasm",
+            "White": "Giant Chasm",
+            "Black 2": "Route 22 and Giant Chasm",
+            "White 2": "Route 22 and Giant Chasm",
+            "Dream World": "Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Route 17 , Friend Safari ( Ice )",
+            "Y": "Route 17 , Friend Safari ( Ice )",
+            "Omega Ruby": "Shoal Cave ( hidden Pokémon * )",
+            "Alpha Sapphire": "Shoal Cave ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Route 3",
+            "Moon": "Route 3",
+            "Ultra Sun": "Seaward Cave",
+            "Ultra Moon": "Seaward Cave",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 8 , Rolling Fields , Dappled Grove , West Lake Axewell , Axew's Eye , Watchtower Ruins , North Lake Miloch , South Lake Miloch , Giant's Seat , Giant's Mirror , Giant's Cap , Dusty Bowl , Hammerlocke Hills Dusty Bowl , East Lake Axewell , Giant's Cap , Hammerlocke Hills , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 8 , Rolling Fields , Dappled Grove , West Lake Axewell , Axew's Eye , Watchtower Ruins , North Lake Miloch , South Lake Miloch , Giant's Seat , Giant's Mirror , Giant's Cap , Dusty Bowl , Hammerlocke Hills Dusty Bowl , East Lake Axewell , Giant's Cap , Giant's Seat , Hammerlocke Hills , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Snowslide Slope Slippery Slope , Frostpoint Field , Giant's Bed , Old Cemetery , Snowslide Slope , Path to the Peak , Crown Shrine , Giant's Foot , Frigid Sea , Three-Point Pass , Ballimere Lake , Dyna Tree Hill ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 216 ( Swarm ) Grand Underground - Whiteout Cave , Icy Cave , Glacial Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 216 ( Swarm ) Grand Underground - Whiteout Cave , Icy Cave , Glacial Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Glaseado Mountain Tera Raid Battles ( 5★ )",
+            "Violet": "North Province: Glaseado Mountain Tera Raid Battles ( 5★ )"
+        }
+    },
+    "evolution": []
+}

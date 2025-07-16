@@ -1,0 +1,139 @@
+{
+    "name": "Ursaring",
+    "pokedex_number": "#0217",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Guts",
+        "Quick Feet",
+        "Unnerve"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 130,
+        "Defense": 75,
+        "Sp. Atk": 75,
+        "Sp. Def": 75,
+        "Speed": 55,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Although it is a good climber, it prefers to snap trees with its forelegs and eat fallen Berries .",
+            "Silver": "With its ability to distinguish any aroma, it unfailingly finds all food buried deep underground.",
+            "Crystal": "Although it has a large body, it is quite skilled at climbing trees. It eats and sleeps in the treetops.",
+            "Stadium 2": "Although it is a good climber, it prefers to snap trees with its forelegs and eat fallen Berries . (Pokémon Red, Silver, or Crystal inserted) With its ability to distinguish any aroma, it unfailingly finds all food buried deep underground. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "In the forests inhabited by Ursaring , it is said that there are many streams and towering trees where they gather food. This Pok é mon walks through its forest gathering food every day.",
+            "Sapphire": "In the forests inhabited by Ursaring , it is said that there are many streams and towering trees where they gather food. This Pok é mon walks through its forest gathering food every day.",
+            "Emerald": "In forests, it is said that there are many streams and towering trees where an Ursaring gathers food. It walks through its forest collecting food every day.",
+            "FireRed": "With its ability to distinguish any smell, it unfailingly finds all food buried deep underground.",
+            "LeafGreen": "Although it is a good climber, it prefers to snap stout trees with its forelegs and eat fallen Berries ."
+        },
+        "Generation IV": {
+            "Diamond": "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
+            "Pearl": "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
+            "Platinum": "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
+            "HeartGold": "Although it is a good climber, it prefers to snap trees with its forelegs and eat fallen berries.",
+            "SoulSilver": "With its ability to distinguish any aroma, it unfailingly finds all food buried deep underground."
+        },
+        "Generation V": {
+            "Black": "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
+            "White": "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
+            "Black 2": "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
+            "White 2": "In its territory, it leaves scratches on trees that bear delicious berries or fruits."
+        },
+        "Generation VI": {
+            "X": "With its ability to distinguish any aroma, it unfailingly finds all food buried deep underground.",
+            "Y": "Although it has a large body, it is quite skilled at climbing trees. It eats and sleeps in the treetops.",
+            "Omega Ruby": "In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pokémon walks through its forest gathering food every day.",
+            "Alpha Sapphire": "In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pokémon walks through its forest gathering food every day."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
+            "Shining Pearl": "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
+            "Legends: Arceus": "When the cold season arrives in Hisui, this Pokémon will wander fields and mountains alike in search of its favorite berries. Ursaring's hunger during this time makes it a ferocious danger."
+        },
+        "Generation IX": {
+            "Scarlet": "It usually wears a hardened expression, but when it’s licking up honey—which it loves—the joy it feels will cause it to break into a wide grin.",
+            "Violet": "It is quite skilled at climbing trees. If it comes across a Primeape while searching for berries in the treetops, trouble will surely ensue."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Route 28 , Victory Road , Mt. Silver , Mt. Silver Cave *",
+            "Silver": "Trade",
+            "Crystal": "Dark Cave * , Mt. Silver Cave Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Evolve Teddiursa",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Snagem Hideout (Shadow)",
+            "XD": "Evolve Teddiursa"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 216 and 217 , Lake Acuity (Emerald)",
+            "Pearl": "Routes 216 and 217 , Lake Acuity (Emerald)",
+            "Platinum": "Routes 216 and 217 , Acuity Lakefront (Emerald)",
+            "HeartGold": "Trade",
+            "SoulSilver": "Route 28 , Victory Road , Mt. Silver , Mt. Silver Cave",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Evolve Teddiursa",
+            "White 2": "Evolve Teddiursa"
+        },
+        "Generation VI": {
+            "X": "Route 21",
+            "Y": "Route 21",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Evolve Teddiursa",
+            "Legends: Arceus": "Obsidian Fieldlands : Space-time distortions Crimson Mirelands : near Gapejaw Bog , Ursa's Ring , near Droning Meadow , massive mass outbreaks Coronet Highlands : Sonorous Path"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area Three North Province: Area One , Area Two , Dalizapa Passage , Glaseado Mountain North Province: Dalizapa Passage ( Flying Tera Type ) Tera Raid Battles ( 4★ )",
+            "Violet": "West Province: Area Three North Province: Area One , Area Two , Dalizapa Passage , Glaseado Mountain North Province: Dalizapa Passage ( Flying Tera Type ) Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Teddiursa",
+            "to": "Ursaring",
+            "method": [
+                "Level 30"
+            ]
+        },
+        {
+            "from": "Ursaring",
+            "to": "Ursaluna",
+            "method": [
+                "Use Peat Block (during the full-moon)"
+            ]
+        }
+    ]
+}

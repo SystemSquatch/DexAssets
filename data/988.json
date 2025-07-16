@@ -1,0 +1,35 @@
+{
+    "name": "Slither Wing",
+    "pokedex_number": "#0988",
+    "types": [
+        "Bug",
+        "Fighting"
+    ],
+    "abilities": [
+        "Protosynthesis"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 135,
+        "Defense": 79,
+        "Sp. Atk": 85,
+        "Sp. Def": 105,
+        "Speed": 81,
+        "Total": 570
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This mysterious Pokémon has some similarities to a creature that an old book introduced as Slither Wing.",
+            "Violet": "This Pokémon somewhat resembles an ancient form of Volcarona that was introduced in a dubious magazine."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Area Zero",
+            "Violet": "Union Circle , Poké Portal News"
+        }
+    },
+    "evolution": []
+}

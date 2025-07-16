@@ -1,0 +1,73 @@
+{
+    "name": "Decidueye",
+    "pokedex_number": "#0724",
+    "types": [
+        "Grass",
+        "Ghost"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Long Reach",
+        "Scrappy"
+    ],
+    "stats": {
+        "HP": 78,
+        "Attack": 107,
+        "Defense": 75,
+        "Sp. Atk": 100,
+        "Sp. Def": 100,
+        "Speed": 70,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It fires arrow quills from its wings with such precision, they can pierce a pebble at distances over a hundred yards .",
+            "Moon": "Although basically cool and cautious, when it's caught by surprise, it's seized by panic.",
+            "Ultra Sun": "It nocks its arrow quills and shoots them at opponents. When it simply can't afford to miss, it tugs the vine on its head to improve its focus.",
+            "Ultra Moon": "Decidueye can nock and fire an arrow at an enemy in a tenth of a second, so its battles are decided in the blink of an eye."
+        },
+        "Generation VIII": {
+            "Sword": "As if wielding a bow, it launches the arrow quills hidden among the feathers of its wings. Decidueye's shots never miss. *",
+            "Shield": "In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent's weak point before they notice what's happening. *",
+            "Legends: Arceus": "The air stored inside the rachises of Decidueye's feathers insulates the Pokémon against Hisui 's extreme cold. This is firm proof that evolution can be influenced by environment."
+        },
+        "Generation IX": {
+            "Scarlet": "It cunningly conceals arrow quills in its wings. It launches these quills with such precision that they can pierce a pebble at over a hundred yards.",
+            "Violet": "It nocks its arrow quills and looses them at opponents. When it needs to hit, it pulls the vines on its hood to narrow its view and focus."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Evolve Dartrix",
+            "Moon": "Evolve Dartrix",
+            "Ultra Sun": "Evolve Dartrix",
+            "Ultra Moon": "Evolve Dartrix",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME Trade Version 1.2.0+",
+            "Shield": "Pokémon HOME Trade Version 1.2.0+",
+            "Expansion Pass": "Evolve Dartrix",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Coronet Highlands : Space-time distortions (after completing Mission 18), massive mass outbreaks (after completing Request 102) ( Hisuian Form ) Unobtainable ( Alolan Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade , Poké Portal News ( Alolan Form ) Pokémon HOME , Poké Portal News ( Hisuian Form )",
+            "Violet": "Trade , Poké Portal News ( Alolan Form ) Pokémon HOME , Poké Portal News ( Hisuian Form )",
+            "The Hidden Treasure of Area Zero": "Evolve Dartrix ( Alolan Form ) Evolve Dartrix in Pokémon Legends: Arceus via Pokémon HOME ( Hisuian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Dartrix",
+            "to": "Decidueye",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

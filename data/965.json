@@ -1,0 +1,51 @@
+{
+    "name": "Varoom",
+    "pokedex_number": "#0965",
+    "types": [
+        "Steel",
+        "Poison"
+    ],
+    "abilities": [
+        "Overcoat",
+        "Slow Start"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 70,
+        "Defense": 63,
+        "Sp. Atk": 30,
+        "Sp. Def": 45,
+        "Speed": 47,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.",
+            "Violet": "The steel section is Varoom's actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "East Province: Area Three West Province: Area Two Tera Raid Battles ( 2★ )",
+            "Violet": "East Province: Area Three West Province: Area Two Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Varoom",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Varoom",
+            "to": "Revavroom",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

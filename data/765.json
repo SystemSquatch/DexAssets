@@ -1,0 +1,64 @@
+{
+    "name": "Oranguru",
+    "pokedex_number": "#0765",
+    "types": [
+        "Normal",
+        "Psychic"
+    ],
+    "abilities": [
+        "Inner Focus",
+        "Telepathy",
+        "Symbiosis"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 60,
+        "Defense": 80,
+        "Sp. Atk": 90,
+        "Sp. Def": 110,
+        "Speed": 60,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Known for its extreme intelligence, this Pokémon will look down on inexperienced Trainers, so it's best suited to veteran Trainers.",
+            "Moon": "Deep in the jungle, high in the lofty canopy, this Pokémon abides. On rare occasions, it shows up at the beach to match wits with Slowking .",
+            "Ultra Sun": "It normally spends its time meditating in the treetops. It throws Poké Balls and gives other Pokémon orders as it pleases.",
+            "Ultra Moon": "Oranguru don't get along with each other, so they're always engaging in battles of wits to decide which one is superior."
+        },
+        "Generation VIII": {
+            "Sword": "With waves of its fan—made from leaves and its own fur—Oranguru skillfully gives instructions to other Pokémon.",
+            "Shield": "It knows the forest inside and out. If it comes across a wounded Pokémon, Oranguru will gather medicinal herbs to treat it."
+        },
+        "Generation IX": {
+            "Scarlet": "People used to mistake Oranguru for a human when they saw it issue command after command to the other Pokémon of the forest.",
+            "Violet": "This Pokémon lives quietly in the depths of the forest. The purple, cape-like fur gets longer and longer as Oranguru ages."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Trade , Event",
+            "Moon": "Lush Jungle",
+            "Ultra Sun": "Trade , Event",
+            "Ultra Moon": "Lush Jungle",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Glimwood Tangle Rolling Fields , East Lake Axewell , Motostoke Riverbank , Bridge Field , Stony Wilderness ( Max Raid Battle )",
+            "Sword Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Shield Expansion Pass": "Forest of Focus Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Tagtree Thicket North Province: Area Two Tera Raid Battles ( 3★ , 5★ )",
+            "Violet": "Union Circle Tera Raid Battle Search ( 3★ , 5★ )"
+        }
+    },
+    "evolution": []
+}

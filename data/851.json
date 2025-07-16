@@ -1,0 +1,54 @@
+{
+    "name": "Centiskorch",
+    "pokedex_number": "#0851",
+    "types": [
+        "Fire",
+        "Bug"
+    ],
+    "abilities": [
+        "Flash Fire",
+        "White Smoke",
+        "Flame Body"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 115,
+        "Defense": 65,
+        "Sp. Atk": 90,
+        "Sp. Def": 90,
+        "Speed": 65,
+        "Total": 525
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit . It lashes its body like a whip and launches itself at enemies.",
+            "Shield": "While its burning body is already dangerous on its own, this excessively hostile Pokémon also has large and very sharp fangs."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Dusty Bowl , Giant's Cap , Hammerlocke Hills , Lake of Outrage , Stony Wilderness ( Max Raid Battle ) Stony Wilderness , use Dynamax Crystal ★Sgr6859 at Watchtower Lair ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Shield": "Dusty Bowl , Giant's Cap , Hammerlocke Hills , Lake of Outrage , Stony Wilderness ( Max Raid Battle ) Stony Wilderness , use Dynamax Crystal ★Sgr6859 at Watchtower Lair ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Expansion Pass": "Giant's Foot Snowslide Slope , Giant's Bed , Ballimere Lake ( Max Raid Battle ) Snowslide Slope , Giant's Bed , Ballimere Lake ( Max Raid Battle ) ( Gigantamax Factor ) Max Lair ( Dynamax Adventure ) ( Gigantamax Factor )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Sizzlipede",
+            "to": "Centiskorch",
+            "method": [
+                "Level 28"
+            ]
+        }
+    ]
+}

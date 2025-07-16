@@ -1,0 +1,44 @@
+{
+    "name": "Skeledirge",
+    "pokedex_number": "#0911",
+    "types": [
+        "Fire",
+        "Ghost"
+    ],
+    "abilities": [
+        "Blaze",
+        "Unaware"
+    ],
+    "stats": {
+        "HP": 104,
+        "Attack": 75,
+        "Defense": 100,
+        "Sp. Atk": 110,
+        "Sp. Def": 75,
+        "Speed": 66,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "The fiery bird changes shape when Skeledirge sings. Rumor has it that the bird was born when the fireball on Skeledirge’s head gained a soul.",
+            "Violet": "Skeledirge’s gentle singing soothes the souls of all that hear it. It burns its enemies to a crisp with flames of over 5,400 degrees Fahrenheit ."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Evolve Crocalor",
+            "Violet": "Evolve Crocalor"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Crocalor",
+            "to": "Skeledirge",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

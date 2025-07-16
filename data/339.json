@@ -1,0 +1,138 @@
+{
+    "name": "Barboach",
+    "pokedex_number": "#0339",
+    "types": [
+        "Water",
+        "Ground"
+    ],
+    "abilities": [
+        "Oblivious",
+        "Anticipation",
+        "Hydration"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 48,
+        "Defense": 43,
+        "Sp. Atk": 46,
+        "Sp. Def": 41,
+        "Speed": 60,
+        "Total": 288
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Barboach 's sensitive whiskers serve as a superb radar system. This Pok é mon hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
+            "Sapphire": "Barboach 's body is covered with a slimy film. If a foe grabs it, this Pok é mon just slips out of the enemy's grip. This Pok é mon grows weak if the slimy coating dries up.",
+            "Emerald": "Its body is covered with a slimy film. The film acts as a barrier to prevent germs in muddy water from entering the Barboach 's body.",
+            "FireRed": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
+            "LeafGreen": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body."
+        },
+        "Generation IV": {
+            "Diamond": "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.",
+            "Pearl": "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.",
+            "Platinum": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
+            "HeartGold": "Barboach uses its whiskers to taste things just as a person uses his or her tongue to taste things.",
+            "SoulSilver": "Barboach uses its whiskers to taste things just as a person uses his or her tongue to taste things."
+        },
+        "Generation V": {
+            "Black": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
+            "White": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
+            "Black 2": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
+            "White 2": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud."
+        },
+        "Generation VI": {
+            "X": "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.",
+            "Y": "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.",
+            "Omega Ruby": "Barboach's sensitive whiskers serve as a superb radar system. This Pokémon hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
+            "Alpha Sapphire": "Barboach's body is covered with a slimy film. If a foe grabs it, this Pokémon just slips out of the enemy's grip. This Pokémon grows weak if the slimy coating dries up."
+        },
+        "Generation VII": {
+            "Sun": "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey's location.",
+            "Moon": "Its slippery body is hard to grasp, so much so that there are festivals where people compete to see how many they can catch barehanded.",
+            "Ultra Sun": "Its entire body is gooey. When pecked at by bird Pokémon, it slips and slides its way to freedom.",
+            "Ultra Moon": "Its whiskers are filled with nerves. They can sense smells and flavors just as a person's nose or tongue would."
+        },
+        "Generation VIII": {
+            "Sword": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
+            "Shield": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
+            "Brilliant Diamond": "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.",
+            "Shining Pearl": "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.",
+            "Legends: Arceus": "Makes its home in swamps with murky water. The poor visibility hides this Pokémon from predators, and the slime on its body makes grasping it difficult."
+        },
+        "Generation IX": {
+            "Scarlet": "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey’s location.",
+            "Violet": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Routes 111 , 114 , 120 , Meteor Falls , Victory Road ( Fishing )",
+            "Sapphire": "Routes 111 , 114 , 120 , Meteor Falls , Victory Road ( Fishing )",
+            "Emerald": "Routes 111 , 114 , 120 , Meteor Falls , Victory Road ( Fishing )",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 205 , 208 , 210 , 212 , 227 , 228 , Celestic Town , Eterna City , Great Marsh , Mt. Coronet , Oreburgh Gate , Ravaged Path ( Good Rod )",
+            "Pearl": "Routes 205 , 208 , 210 , 212 , 227 , 228 , Celestic Town , Eterna City , Great Marsh , Mt. Coronet , Oreburgh Gate , Ravaged Path ( Good Rod )",
+            "Platinum": "Routes 205 , 210 , 225 , 227 , 228 , Eterna City , Great Marsh , Mt. Coronet , Oreburgh Gate , Ravaged Path ( Good Rod )",
+            "HeartGold": "Safari Zone (Super Rod in Marshland with 4 Waterside points, and with 5 Waterside points)",
+            "SoulSilver": "Safari Zone (Super Rod in Marshland with 4 Waterside points, and with 5 Waterside points)",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Route 8 , Icirrus City , Moor of Icirrus ( Fishing )",
+            "White": "Route 8 , Icirrus City , Moor of Icirrus ( Fishing )",
+            "Black 2": "Route 8 , Icirrus City , Moor of Icirrus ( Fishing )",
+            "White 2": "Route 8 , Icirrus City , Moor of Icirrus ( Fishing )",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Route 14 , Route 19 ( Good Rod )",
+            "Y": "Route 14 , Route 19 ( Good Rod )",
+            "Omega Ruby": "Routes 111 , 114 , 120 , Meteor Falls , Victory Road , Scorched Slab ( Good Rod or Super Rod )",
+            "Alpha Sapphire": "Routes 111 , 114 , 120 , Meteor Falls , Victory Road , Scorched Slab ( Good Rod or Super Rod )"
+        },
+        "Generation VII": {
+            "Sun": "Paniola Town , Poni Gauntlet , Poni Meadow , Seaward Cave , Vast Poni Canyon ( Fishing )",
+            "Moon": "Paniola Town , Poni Gauntlet , Poni Meadow , Seaward Cave , Vast Poni Canyon ( Fishing )",
+            "Ultra Sun": "Paniola Town , Poni Gauntlet , Poni Meadow , Seaward Cave , Vast Poni Canyon ( Fishing ) Trade Tentacool at Royal Avenue",
+            "Ultra Moon": "Paniola Town , Poni Gauntlet , Poni Meadow , Seaward Cave , Vast Poni Canyon ( Fishing ) Trade Tentacool at Royal Avenue",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Stony Wilderness Motostoke , Galar Mine No. 2 , Slumbering Weald ( Fishing ) North Lake Miloch , South Lake Miloch ( Surfing and fishing ) Bridge Field , Dusty Bowl , Rolling Fields , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Stony Wilderness Motostoke , Galar Mine No. 2 , Slumbering Weald ( Fishing ) North Lake Miloch , South Lake Miloch ( Surfing and fishing ) Bridge Field , Dusty Bowl , Rolling Fields , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Soothing Wetlands ( Fishing ) Brawlers' Cave , Roaring-Sea Caves ( Surfing ) Giant's Bed , Giant's Foot , Ballimere Lake ( Surfing and fishing )",
+            "Brilliant Diamond": "Routes 205 , 208 , 210 , 212 , 227 , 228 , Celestic Town , Eterna City , Great Marsh , Mt. Coronet , Oreburgh Gate , Ravaged Path ( Good Rod ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern , Swampy Cave , Bogsunk Cavern (After obtaining TM96 ( Strength ))",
+            "Shining Pearl": "Routes 205 , 208 , 210 , 212 , 227 , 228 , Celestic Town , Eterna City , Great Marsh , Mt. Coronet , Oreburgh Gate , Ravaged Path ( Good Rod ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern , Swampy Cave , Bogsunk Cavern (After obtaining TM96 ( Strength ))",
+            "Legends: Arceus": "Crimson Mirelands : Gapejaw Bog and nearby, near Ursa's Ring , near Droning Meadow , Lake Valor , massive mass outbreaks Coronet Highlands : Wayward Cave"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Two , Area Four , Area Five East Province: Area Three , Tagtree Thicket West Province: Area Two Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area Two , Area Four , Area Five East Province: Area Three , Tagtree Thicket West Province: Area Two Tera Raid Battles ( 1★ )",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Oni Mountain , Crystal Pool"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Barboach",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Barboach",
+            "to": "Whiscash",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

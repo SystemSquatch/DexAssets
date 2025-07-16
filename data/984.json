@@ -1,0 +1,35 @@
+{
+    "name": "Great Tusk",
+    "pokedex_number": "#0984",
+    "types": [
+        "Ground",
+        "Fighting"
+    ],
+    "abilities": [
+        "Protosynthesis"
+    ],
+    "stats": {
+        "HP": 115,
+        "Attack": 131,
+        "Defense": 131,
+        "Sp. Atk": 53,
+        "Sp. Def": 53,
+        "Speed": 87,
+        "Total": 570
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Sightings of this Pokémon have occurred in recent years. The name Great Tusk was taken from a creature listed in a certain book.",
+            "Violet": "This creature resembles a mysterious Pokémon that, according to a paranormal magazine, has lived since ancient times."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Area Zero West Province: Asado Desert Former Titan ( Only one )",
+            "Violet": "Union Circle"
+        }
+    },
+    "evolution": []
+}

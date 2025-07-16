@@ -1,0 +1,45 @@
+{
+    "name": "Raging Bolt",
+    "pokedex_number": "#1021",
+    "types": [
+        "Electric",
+        "Dragon"
+    ],
+    "abilities": [
+        "Protosynthesis"
+    ],
+    "stats": {
+        "HP": 125,
+        "Attack": 73,
+        "Defense": 91,
+        "Sp. Atk": 137,
+        "Sp. Def": 89,
+        "Speed": 75,
+        "Total": 590
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It's said to incinerate everything around it with lightning launched from its fur. Very little is known about this creature.",
+            "Violet": "It bears resemblance to a Pokémon that became a hot topic for a short while after a paranormal magazine touted it as Raikou 's ancestor."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Area Zero (after starting Perrin 's questline in The Indigo Disk ; only one )",
+            "The Hidden Treasure of Area Zero (Violet)": "Trade"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Raging Bolt",
+            "method": [
+                "Base Stage"
+            ]
+        }
+    ]
+}

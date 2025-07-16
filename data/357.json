@@ -1,0 +1,117 @@
+{
+    "name": "Tropius",
+    "pokedex_number": "#0357",
+    "types": [
+        "Grass",
+        "Flying"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Solar Power",
+        "Harvest"
+    ],
+    "stats": {
+        "HP": 99,
+        "Attack": 68,
+        "Defense": 83,
+        "Sp. Atk": 72,
+        "Sp. Def": 87,
+        "Speed": 51,
+        "Total": 460
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "The bunches of fruit around Tropius 's neck are very popular with children. This Pok é mon loves fruit, and eats it continuously. Apparently, its love for fruit resulted in its own outgrowth of fruit.",
+            "Sapphire": "Children of the southern tropics eat as snacks the fruit that grows in bunches around the neck of Tropius . This Pok é mon flies by flapping the leaves on its back as if they were wings.",
+            "Emerald": "It flies by flapping its broad leaves. The bunch of fruit that grows around its neck is deliciously sweet. In the spring, it scatters pollen from its neck.",
+            "FireRed": "It lives in tropical jungles. The bunch of fruit around its neck is delicious. The fruit grows twice a year.",
+            "LeafGreen": "It lives in tropical jungles. The bunch of fruit around its neck is delicious. The fruit grows twice a year."
+        },
+        "Generation IV": {
+            "Diamond": "Because it continually ate only its favorite fruit, the fruit started growing around its neck.",
+            "Pearl": "Because it continually ate only its favorite fruit, the fruit started growing around its neck.",
+            "Platinum": "Delicious fruits grew out from around its neck because it always ate the same kind of fruit.",
+            "HeartGold": "The bunch of fruit around its neck ripens twice a year and is delicious. It's a highly favored tropical snack.",
+            "SoulSilver": "The bunch of fruit around its neck ripens twice a year and is delicious. It's a highly favored tropical snack."
+        },
+        "Generation V": {
+            "Black": "Delicious fruits grew out from around its neck because it always ate the same kind of fruit.",
+            "White": "Delicious fruits grew out from around its neck because it always ate the same kind of fruit.",
+            "Black 2": "It flies by flapping its broad leaves and gives the sweet, delicious fruit around its neck to children.",
+            "White 2": "It flies by flapping its broad leaves and gives the sweet, delicious fruit around its neck to children."
+        },
+        "Generation VI": {
+            "X": "It flies by flapping its broad leaves and gives the sweet, delicious fruit around its neck to children.",
+            "Y": "The bunch of fruit around its neck ripens twice a year and is delicious. It's a highly favored tropical snack.",
+            "Omega Ruby": "The bunches of fruit around Tropius's neck are very popular with children. This Pokémon loves fruit, and eats it continuously. Apparently, its love for fruit resulted in its own outgrowth of fruit.",
+            "Alpha Sapphire": "Children of the southern tropics eat as snacks the fruit that grows in bunches around the neck of Tropius. This Pokémon flies by flapping the leaves on its back as if they were wings."
+        },
+        "Generation VII": {
+            "Ultra Sun": "The bunches of fruit growing around the necks of Tropius in Alola are especially sweet compared to those in other regions.",
+            "Ultra Moon": "Bunches of delicious fruit grow around its neck. In warm areas, many ranches raise Tropius."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Because it continually ate only its favorite fruit, the fruit started growing around its neck.",
+            "Shining Pearl": "Because it continually ate only its favorite fruit, the fruit started growing around its neck."
+        },
+        "Generation IX": {
+            "Scarlet": "It lives in tropical jungles. The bunch of fruit around its neck is delicious. The fruit grows twice a year.",
+            "Violet": "Delicious fruits grew out from around its neck because it always ate the same kind of fruit."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 119",
+            "Sapphire": "Route 119",
+            "Emerald": "Route 119",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Tower Colosseum (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Great Marsh",
+            "HeartGold": "Transfer from Pokéwalker",
+            "SoulSilver": "Transfer from Pokéwalker",
+            "Pal Park": "Forest",
+            "Pokéwalker": "Big Forest"
+        },
+        "Generation V": {
+            "Black": "Route 14",
+            "White": "Route 14",
+            "Black 2": "Route 18",
+            "White 2": "Route 18",
+            "Dream World": "Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Flying )",
+            "Y": "Friend Safari ( Flying )",
+            "Omega Ruby": "Routes 119 and 120",
+            "Alpha Sapphire": "Routes 119 and 120"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Exeggutor Island , Poké Pelago *",
+            "Ultra Moon": "Exeggutor Island , Poké Pelago *",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Grand Underground - Grassland Cave , Swampy Cave , Sunlit Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Grand Underground - Grassland Cave , Swampy Cave , Sunlit Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area Two , Area Three North Province: Casseroya Lake Tera Raid Battles ( 4★ )",
+            "Violet": "West Province: Area Two , Area Three North Province: Casseroya Lake Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": []
+}

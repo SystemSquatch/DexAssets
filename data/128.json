@@ -1,0 +1,148 @@
+{
+    "name": "Tauros",
+    "pokedex_number": "#0128",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Anger Point",
+        "Sheer Force",
+        "Cud Chew"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 95,
+        "Sp. Atk": 40,
+        "Sp. Def": 70,
+        "Speed": 110,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+            "Yellow": "A rowdy Pok é mon with a lot of stamina. Once running, it won't stop until it hits something.",
+            "Stadium": "Charges while whipping its hefty body with its tails. Although powerful, it can charge only in a straight line."
+        },
+        "Generation II": {
+            "Gold": "They fight each other by locking horns. The herd's protector takes pride in its battle-scarred horns.",
+            "Silver": "After heightening its will to fight by whipping itself with its three tails, it charges at full speed.",
+            "Crystal": "These violent Pokémon fight with other members of their herd in order to prove their strength.",
+            "Stadium 2": "They fight each other by locking horns. The herd's protector takes pride in its battle-scarred horns. (Pokémon Red, Silver, or Crystal inserted) After heightening its will to fight by whipping itself with its three tails, it charges at full speed. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "This Pok é mon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
+            "Sapphire": "This Pok é mon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
+            "Emerald": "It is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
+            "FireRed": "When it is about to Tackle , it whips its body repeatedly with its three long tails.",
+            "LeafGreen": "When it targets an enemy, it charges furiously while whipping its body with its long tails."
+        },
+        "Generation IV": {
+            "Diamond": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
+            "Pearl": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
+            "Platinum": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
+            "HeartGold": "They fight each other by locking horns. The herd's protector takes pride in its battle-scarred horns.",
+            "SoulSilver": "After heightening its will to fight by whipping itself with its three tails, it charges at full speed."
+        },
+        "Generation V": {
+            "Black": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
+            "White": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
+            "Black 2": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
+            "White 2": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature."
+        },
+        "Generation VI": {
+            "X": "After heightening its will to fight by whipping itself with its three tails, it charges at full speed.",
+            "Y": "When it is about to tackle, it whips its body repeatedly with its three long tails.",
+            "Omega Ruby": "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
+            "Alpha Sapphire": "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself."
+        },
+        "Generation VII": {
+            "Sun": "Historically, people in areas all over the world have ridden Tauros, but the practice is said to have started in Alola.",
+            "Moon": "Although it's known to be a fierce Pokémon, Tauros in the Alola region are said to possess a measure of calmness.",
+            "Ultra Sun": "They live in groups. The one with the longest, thickest, and most-scarred horns is the boss of the herd.",
+            "Ultra Moon": "The climate seems to be related to the reason Tauros in Alola are a little calmer than those in other regions.",
+            "Let's Go Pikachu": "A rowdy Pokémon with a lot of stamina. Once running, it won't stop until it hits something.",
+            "Let's Go Eevee": "A rowdy Pokémon with a lot of stamina. Once running, it won't stop until it hits something."
+        },
+        "Generation VIII": {
+            "Sword": "When Tauros begins whipping itself with its tails, it's a warning that the Pokémon is about to charge with astounding speed.",
+            "Shield": "The Tauros of Galar are volatile in nature, and they won't allow people to ride on their backs.",
+            "Brilliant Diamond": "Once it takes aim at its prey, it makes a headlong charge. It is famous for its violent nature.",
+            "Shining Pearl": "Once it takes aim at its prey, it makes a headlong charge. It is famous for its violent nature."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon blasts water from holes on the tips of its horns—the high-pressure jets pierce right through Tauros’s enemies.",
+            "Violet": "It swims by jetting water from its horns. The most notable characteristic of the Aqua Breed is its high body fat, which allows it to float easily."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Safari Zone",
+            "Blue": "Safari Zone",
+            "Blue (Japan)": "Trade Persian on Route 18",
+            "Yellow": "Safari Zone"
+        },
+        "Generation II": {
+            "Gold": "Routes 38 and 39",
+            "Silver": "Routes 38 and 39",
+            "Crystal": "Routes 38 and 39 Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "Safari Zone",
+            "LeafGreen": "Safari Zone",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 209 and 210 ( Poké Radar )",
+            "Pearl": "Routes 209 and 210 ( Poké Radar )",
+            "Platinum": "Route 210 ( Poké Radar )",
+            "HeartGold": "Routes 38 , 39 , and 48 Safari Zone (Savannah, default Morning Day , and with 5 Plains points)",
+            "SoulSilver": "Routes 38 , 39 , and 48 Safari Zone (Savannah, default Morning Day , and with 5 Plains points)",
+            "Pal Park": "Field",
+            "Pokéwalker": "Scary Cave"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Route 12 Route 12 ( Horde Encounter with Miltank )",
+            "Y": "Route 12 Route 12 ( Horde Encounter with Miltank )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Paniola Ranch , Poni Plains",
+            "Moon": "Paniola Ranch , Poni Plains",
+            "Ultra Sun": "Paniola Ranch , Poni Plains Trade Bewear in Poni Gauntlet",
+            "Ultra Moon": "Paniola Ranch , Poni Plains Trade Bewear in Poni Gauntlet",
+            "Let's Go Pikachu": "Routes 14 and 15",
+            "Let's Go Eevee": "Routes 14 and 15"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Training Lowlands Training Lowlands ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Routes 209 and 210 ( Poké Radar ) Grand Underground - Spacious Cave , Grassland Cave , Fountainspring Cave , Rocky Cave , Whiteout Cave , Icy Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern , Big Bluff Cavern , Glacial Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Routes 209 and 210 ( Poké Radar ) Grand Underground - Spacious Cave , Grassland Cave , Fountainspring Cave , Rocky Cave , Whiteout Cave , Icy Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern , Big Bluff Cavern , Glacial Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Area One ( Paldean Form (Combat Breed) ) East Province: Area Two ( Paldean Form (Combat and Blaze Breeds) ) West Province: Area Two ( Paldean Form (Combat and Blaze Breeds) ) East Province: Area Two ( Electric Tera Type ) ( Paldean Form (Combat Breed) ) Union Circle ( Paldean Form (Aqua Breed) ) Tera Raid Battles ( 4★ , 6★ ) ( Paldean Form (Combat Breed) ) Tera Raid Battles ( 5★ , 6★ ) ( Paldean Form (Blaze Breed) ) Tera Raid Battle Search ( 5★ , 6★ ) ( Paldean Form (Aqua Breed) ) Trade ( Kantonian Form )",
+            "Violet": "East Province: Area One ( Paldean Form (Combat Breed) ) East Province: Area Two ( Paldean Form (Combat and Aqua Breeds) ) West Province: Area Two ( Paldean Form (Combat and Aqua Breeds) ) East Province: Area Two ( Electric Tera Type ) ( Paldean Form (Combat Breed) ) Union Circle ( Paldean Form (Blaze Breed) ) Tera Raid Battles ( 4★ , 6★ ) ( Paldean Form (Combat Breed) ) Tera Raid Battles ( 5★ , 6★ ) ( Paldean Form (Aqua Breed) ) Tera Raid Battle Search ( 5★ , 6★ ) ( Paldean Form (Blaze Breed) ) Trade ( Kantonian Form )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome ( Kantonian Form )"
+        }
+    },
+    "evolution": []
+}

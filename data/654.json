@@ -1,0 +1,81 @@
+{
+    "name": "Braixen",
+    "pokedex_number": "#0654",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Blaze",
+        "Magician"
+    ],
+    "stats": {
+        "HP": 59,
+        "Attack": 59,
+        "Defense": 58,
+        "Sp. Atk": 90,
+        "Sp. Def": 70,
+        "Speed": 73,
+        "Total": 409
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle.",
+            "Y": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.",
+            "Omega Ruby": "It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle.",
+            "Alpha Sapphire": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "It ignites the twig from its tail and waves the twig around to signal its allies. To indicate danger, it draws circles in the air with the twig’s flame.",
+            "Violet": "Braixen’s branch ignites as it’s pulled from the Pokémon’s tail. Braixen then uses the flame to spark powerful attacks."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Friend Safari ( Fire )",
+            "Y": "Friend Safari ( Fire )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Fennekin",
+            "Ultra Moon": "Evolve Fennekin",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Evolve Fennekin"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Fennekin",
+            "to": "Braixen",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Braixen",
+            "to": "Delphox",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

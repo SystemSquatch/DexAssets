@@ -1,0 +1,110 @@
+{
+    "name": "Lumineon",
+    "pokedex_number": "#0457",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Storm Drain",
+        "Water Veil"
+    ],
+    "stats": {
+        "HP": 69,
+        "Attack": 69,
+        "Defense": 76,
+        "Sp. Atk": 69,
+        "Sp. Def": 86,
+        "Speed": 91,
+        "Total": 460
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It lives on the deep-sea floor. It attracts prey by flashing the patterns on its four tail fins.",
+            "Pearl": "To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.",
+            "Platinum": "It crawls along the seafloor using its long front fins like legs. It competes for food with Lanturn .",
+            "HeartGold": "Lumineon swimming in the darkness of the deep sea look like stars shining in the night sky.",
+            "SoulSilver": "Lumineon swimming in the darkness of the deep sea look like stars shining in the night sky."
+        },
+        "Generation V": {
+            "Black": "It crawls along the seafloor using its long front fins like legs. It competes for food with Lanturn .",
+            "White": "It crawls along the seafloor using its long front fins like legs. It competes for food with Lanturn .",
+            "Black 2": "It crawls along the seafloor using its long front fins like legs. It competes for food with Lanturn .",
+            "White 2": "It crawls along the seafloor using its long front fins like legs. It competes for food with Lanturn ."
+        },
+        "Generation VI": {
+            "X": "It lives on the deep-sea floor. It attracts prey by flashing the patterns on its four tail fins.",
+            "Y": "To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.",
+            "Omega Ruby": "It lives on the deep-sea floor. It attracts prey by flashing the patterns on its four tail fins.",
+            "Alpha Sapphire": "To avoid detection by predators, it crawls along the seafloor using the two fins on its chest."
+        },
+        "Generation VII": {
+            "Sun": "With its shining light, it lures its prey close. However, the light also happens to attract ferocious fish Pokémon—its natural predators.",
+            "Moon": "This deep-sea Pokémon lives at the bottom of the sea. Its fins haul it over the seabed in search of its favorite food— Starmie .",
+            "Ultra Sun": "Deep down at the bottom of the ocean, prey is scarce. Lumineon get into fierce disputes with Lanturn over food.",
+            "Ultra Moon": "They traverse the deep waters as if crawling over the seafloor. The fantastic lights of its fins shine like stars in the night sky."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It lives on the deep-sea floor. It attracts prey by flashing patterns on its four fins.",
+            "Shining Pearl": "To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.",
+            "Legends: Arceus": "Uses its gleaming fins to hunt its prey. The view of Lumineon schooling near the surface of the sea at night is breathtaking—it's as though there were shining stars right there."
+        },
+        "Generation IX": {
+            "Scarlet": "With its shining light, it lures its prey close. However, the light also happens to attract ferocious fish Pokémon—its natural predators.",
+            "Violet": "Lumineon swimming in the darkness of the deep sea look like stars shining in the night sky."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 205 , 218 , 219 , 220 , and 221 , Fuego Ironworks , Iron Island , Canalave City , Valley Windworks ( Super Rod )",
+            "Pearl": "Routes 205 , 218 , 219 , 220 , and 221 , Fuego Ironworks , Iron Island , Canalave City , Valley Windworks ( Super Rod )",
+            "Platinum": "Routes 219 , 220 , and 221 ( Good Rod ) Routes 205 , 218 , 219 , 220 , and 221 , Fuego Ironworks , Iron Island , Canalave City , Valley Windworks ( Super Rod )",
+            "HeartGold": "Evolve Pokéwalker Finneon",
+            "SoulSilver": "Evolve Pokéwalker Finneon"
+        },
+        "Generation V": {
+            "Black": "Routes 17 and 18 , P2 Laboratory ( Fishing in rippling water )",
+            "White": "Routes 17 and 18 , P2 Laboratory ( Fishing in rippling water )",
+            "Black 2": "Routes 4 , 17 , and 18 , P2 Laboratory , Virbank City , Virbank Complex ( Fishing in rippling water )",
+            "White 2": "Routes 4 , 17 , and 18 , P2 Laboratory , Virbank City , Virbank Complex ( Fishing in rippling water )"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Finneon",
+            "Alpha Sapphire": "Evolve Finneon"
+        },
+        "Generation VII": {
+            "Sun": "Poni Wilds ( Surfing )",
+            "Moon": "Poni Wilds ( Surfing )",
+            "Ultra Sun": "Poni Breaker Coast ( Surfing ) Route 15 ( SOS Battle )",
+            "Ultra Moon": "Poni Breaker Coast ( Surfing ) Route 15 ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 205 , 218 , 219 , 220 , and 221 , Fuego Ironworks , Iron Island , Canalave City , Valley Windworks ( Super Rod )",
+            "Shining Pearl": "Routes 205 , 218 , 219 , 220 , and 221 , Fuego Ironworks , Iron Island , Canalave City , Valley Windworks ( Super Rod )",
+            "Legends: Arceus": "Cobalt Coastlands : Seagrass Haven and nearby (additional ), massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: West Paldean Sea North Province: North Paldean Sea Tera Raid Battles ( 4★ )",
+            "Violet": "West Province: West Paldean Sea North Province: North Paldean Sea Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Polar Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Finneon",
+            "to": "Lumineon",
+            "method": [
+                "Level 31"
+            ]
+        }
+    ]
+}

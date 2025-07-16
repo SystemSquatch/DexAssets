@@ -1,0 +1,79 @@
+{
+    "name": "Rowlet",
+    "pokedex_number": "#0722",
+    "types": [
+        "Grass",
+        "Flying"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Long Reach"
+    ],
+    "stats": {
+        "HP": 68,
+        "Attack": 55,
+        "Defense": 55,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 42,
+        "Total": 320
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.",
+            "Moon": "Silently it glides, drawing near its targets. Before they even notice it, it begins to pelt them with vicious kicks.",
+            "Ultra Sun": "It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.",
+            "Ultra Moon": "It feels relaxed in tight, dark places and has been known to use its Trainer's pocket or bag as a nest."
+        },
+        "Generation VIII": {
+            "Sword": "At a distance, it launches its sharp feathers while flying about. If the enemy gets too close, Rowlet switches tactics and delivers vicious kicks. *",
+            "Shield": "During the day, it builds up energy via photosynthesis. At night, it flies silently through the sky, on the prowl for prey. *",
+            "Legends: Arceus": "Flies noiselessly on delicate wings. It has mastered the art of deftly launching dagger-sharp feathers from those same wings."
+        },
+        "Generation IX": {
+            "Scarlet": "Silently it glides, streaking toward its targets to get close to them. Before they even notice it, it begins to pelt them with vicious kicks.",
+            "Violet": "It feels relaxed in tight, dark places and has been known to nestle into its Trainer’s bag or the front of their jacket."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "First partner Pokémon from Hala in Iki Town",
+            "Moon": "First partner Pokémon from Hala in Iki Town",
+            "Ultra Sun": "First partner Pokémon from Professor Kukui in Route 1",
+            "Ultra Moon": "First partner Pokémon from Professor Kukui in Route 1",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME Trade Version 1.2.0+",
+            "Shield": "Pokémon HOME Trade Version 1.2.0+",
+            "Expansion Pass": "Reward for finding at least 100 Alolan Diglett (if the player chose Grookey )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Jubilife Village : First partner Pokémon from Professor Laventon , Received from Professor Laventon (after completing Mission 18, if the player did not choose Rowlet) Coronet Highlands : Space-time distortions (after completing Mission 18), massive mass outbreaks (after completing Request 102)"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade , Breed Decidueye or Hisuian Decidueye",
+            "Violet": "Trade , Breed Decidueye or Hisuian Decidueye",
+            "The Hidden Treasure of Area Zero": "Savanna Biome (after boosting biodiversity in the Savanna Biome)"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Rowlet",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Rowlet",
+            "to": "Dartrix",
+            "method": [
+                "Level 17"
+            ]
+        }
+    ]
+}

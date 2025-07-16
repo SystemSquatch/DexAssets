@@ -1,0 +1,153 @@
+{
+    "name": "Muk",
+    "pokedex_number": "#0089",
+    "types": [
+        "Poison",
+        "Unknown"
+    ],
+    "abilities": [
+        "Stench",
+        "Sticky Hold",
+        "Poison Touch",
+        "Gluttony",
+        "Poison Touch",
+        "Power of Alchemy"
+    ],
+    "stats": {
+        "HP": 105,
+        "Attack": 105,
+        "Defense": 75,
+        "Sp. Atk": 65,
+        "Sp. Def": 100,
+        "Speed": 50,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+            "Yellow": "Smells so awful, it can cause fainting. Through degeneration, it lost its sense of smell.",
+            "Stadium": "Becomes indistinguishable if it hides in dirt. Touching its sludge-covered body causes horrible poisonings."
+        },
+        "Generation II": {
+            "Gold": "They love to gather in smelly areas where sludge accumulates, making the stench around them worse.",
+            "Silver": "Its body is made of a powerful poison. Touching it accidentally will cause a fever that requires bed rest.",
+            "Crystal": "As it moves, a very strong poison leaks from it, making the ground there barren for three years.",
+            "Stadium 2": "They love to gather in smelly areas where sludge accumulates, making the stench around them worse. (Pokémon Red, Silver, or Crystal inserted) Its body is made of a powerful poison. Touching it accidentally will cause a fever that requires bed rest. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "From Muk 's body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this Pok é mon 's body fluid can turn a pool stagnant and rancid.",
+            "Sapphire": "This Pok é mon 's favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, Muk are certain to gather.",
+            "Emerald": "It prefers warm and humid habitats. In the summertime, the toxic substances in its body intensify, making Muk reek like putrid kitchen garbage.",
+            "FireRed": "It is usually undetectable because it blends in with the ground. Touching it can cause terrible poisoning.",
+            "LeafGreen": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison."
+        },
+        "Generation IV": {
+            "Diamond": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
+            "Pearl": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
+            "Platinum": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
+            "HeartGold": "They love to gather in smelly areas where sludge accumulates, making the stench around them worse.",
+            "SoulSilver": "Its body is made of a powerful poison. Touching it accidentally will cause a fever that requires bed rest."
+        },
+        "Generation V": {
+            "Black": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
+            "White": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
+            "Black 2": "It's so stinky! Muk's body contains toxic elements, and any plant will wilt when it passes by.",
+            "White 2": "It's so stinky! Muk's body contains toxic elements, and any plant will wilt when it passes by."
+        },
+        "Generation VI": {
+            "X": "They love to gather in smelly areas where sludge accumulates, making the stench around them worse.",
+            "Y": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
+            "Omega Ruby": "From Muk's body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this Pokémon's body fluid can turn a pool stagnant and rancid.",
+            "Alpha Sapphire": "This Pokémon's favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, Muk are certain to gather."
+        },
+        "Generation VII": {
+            "Sun": "The garbage it eats causes continuous chemical changes in its body, which produce its exceedingly vivid coloration.",
+            "Moon": "While it's unexpectedly quiet and friendly, if it's not fed any trash for a while, it will smash its Trainer's furnishings and eat up the fragments.",
+            "Ultra Sun": "There are over a hundred kinds of poison inside its body. Chemical reactions between different poisons are the source of its vitality.",
+            "Ultra Moon": "What look like fangs and claws are actually crystallized poison that will afflict you at a mere touch, so don't get too close.",
+            "Let's Go Pikachu": "Muk's coloration becomes increasingly vivid the more it feasts on its favorite dish—trash.",
+            "Let's Go Eevee": "Muk's coloration becomes increasingly vivid the more it feasts on its favorite dish—trash."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "A toxic fluid seeps from its body. The fluid kills plants and trees immediately upon contact.",
+            "Shining Pearl": "A toxic fluid seeps from its body. The fluid kills plants and trees immediately upon contact."
+        },
+        "Generation IX": {
+            "Scarlet": "There are over a hundred kinds of poison inside its body. Chemical reactions between different poisons are the source of its vitality.",
+            "Violet": "What look like fangs and claws are actually crystallized poison that will afflict you at a mere touch, so don’t get too close."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Pokémon Mansion",
+            "Blue": "Pokémon Mansion",
+            "Blue (Japan)": "Pokémon Mansion",
+            "Yellow": "Pokémon Mansion , Power Plant Trade Kangaskhan at the Pokémon Lab on Cinnabar Island"
+        },
+        "Generation II": {
+            "Gold": "Routes 16 , 17 , and 18 Celadon City ( Surfing )",
+            "Silver": "Routes 16 , 17 , and 18 Celadon City ( Surfing )",
+            "Crystal": "Routes 16 , 17 , and 18 Celadon City ( Surfing )"
+        },
+        "Generation III": {
+            "Ruby": "Evolve Grimer",
+            "Sapphire": "Evolve Grimer",
+            "Emerald": "Evolve Grimer",
+            "FireRed": "Evolve Grimer",
+            "LeafGreen": "Pokémon Mansion",
+            "Colosseum": "Trade",
+            "XD": "Evolve Grimer"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Grimer",
+            "Pearl": "Evolve Grimer",
+            "Platinum": "Evolve Grimer",
+            "HeartGold": "Routes 16 , 17 , and 18 Celadon City ( Surfing ) Safari Zone (tall grass in Marshland with 8 Waterside points; Surfing in Marshland with 16 Waterside points)",
+            "SoulSilver": "Routes 16 , 17 , and 18 Celadon City ( Surfing ) Safari Zone (tall grass in Marshland with 8 Waterside points; Surfing in Marshland with 16 Waterside points)",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Castelia Sewers ( Fishing or Surfing in rippling water ) Spring Summer Route 9 Route 9 ( Hidden Grotto )",
+            "White 2": "Castelia Sewers ( Fishing or Surfing in rippling water ) Spring Summer Route 9 Route 9 ( Hidden Grotto )"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Poison )",
+            "Y": "Friend Safari ( Poison )",
+            "Omega Ruby": "Evolve Grimer",
+            "Alpha Sapphire": "Evolve Grimer"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Grimer ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Moon": "Evolve Grimer ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Sun": "Evolve Grimer ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Moon": "Evolve Grimer ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Let's Go Pikachu": "Pokémon Mansion , Power Plant ( Kantonian Form ) Evolve Grimer ( Alolan Form )",
+            "Let's Go Eevee": "Trade"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Grimer ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Shining Pearl": "Evolve Grimer ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 4★ ) ( Kantonian Form ) Trade ( Alolan Form )",
+            "Violet": "Tera Raid Battles ( 4★ ) ( Kantonian Form ) Trade ( Alolan Form )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth ( Alolan Form ) Tera Raid Battles ( 6★ ) ( Alolan Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Grimer",
+            "to": "Muk",
+            "method": [
+                "Level 38"
+            ]
+        }
+    ]
+}

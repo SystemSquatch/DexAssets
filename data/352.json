@@ -1,0 +1,113 @@
+{
+    "name": "Kecleon",
+    "pokedex_number": "#0352",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Color Change",
+        "Protean"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 70,
+        "Sp. Atk": 60,
+        "Sp. Def": 120,
+        "Speed": 40,
+        "Total": 440
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Kecleon is capable of changing its body colors at will to blend in with its surroundings. There is one exception - this Pok é mon can't change the zigzag pattern on its belly.",
+            "Sapphire": "Kecleon alters its body coloration to blend in with its surroundings, allowing it to sneak up on its prey unnoticed. Then it lashes out with its long, stretchy tongue to instantly ensnare the unsuspecting target.",
+            "Emerald": "A Pok é mon that has the ability to alter its body colors to match its surroundings. A Kecleon reverts to its original colors if it is startled.",
+            "FireRed": "It changes body color to blend in with its surroundings. It also changes color if it is happy or sad.",
+            "LeafGreen": "It changes body color to blend in with its surroundings. It also changes color if it is happy or sad."
+        },
+        "Generation IV": {
+            "Diamond": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+            "Pearl": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+            "Platinum": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+            "HeartGold": "It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed.",
+            "SoulSilver": "It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed."
+        },
+        "Generation V": {
+            "Black": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+            "White": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+            "Black 2": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+            "White 2": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however."
+        },
+        "Generation VI": {
+            "X": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+            "Y": "It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed.",
+            "Omega Ruby": "Kecleon is capable of changing its body colors at will to blend in with its surroundings. There is one exception—this Pokémon can't change the zigzag pattern on its belly.",
+            "Alpha Sapphire": "Kecleon alters its body coloration to blend in with its surroundings, allowing it to sneak up on its prey unnoticed. Then it lashes out with its long, stretchy tongue to instantly ensnare the unsuspecting target."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It changes its hue to blend into its surroundings. If no one takes notice of it for too long, it will pout and never reveal itself.",
+            "Ultra Moon": "Its color changes for concealment and also when its mood or health changes. The darker the color, the healthier it is."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+            "Shining Pearl": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Routes 118 , 119 , 120 , 121 , and 123",
+            "Sapphire": "Routes 118 , 119 , 120 , 121 , and 123",
+            "Emerald": "Routes 118 , 119 , 120 , 121 , and 123",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 210 ( Poké Radar )",
+            "Pearl": "Trade",
+            "Platinum": "Great Marsh (after obtaining National Pokédex )",
+            "HeartGold": "Transfer from Pokéwalker",
+            "SoulSilver": "Transfer from Pokéwalker",
+            "Pal Park": "Forest",
+            "Pokéwalker": "Treehouse"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Nature Preserve",
+            "White 2": "Nature Preserve",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Route 6 , Friend Safari ( Normal )",
+            "Y": "Route 6 , Friend Safari ( Normal )",
+            "Omega Ruby": "Routes 118 , 119 , 120 , 121 , 123 , Lavaridge Town * , Mossdeep Space Center *",
+            "Alpha Sapphire": "Routes 118 , 119 , 120 , 121 , 123 , Lavaridge Town * , Mossdeep Space Center *"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Dividing Peak Tunnel",
+            "Ultra Moon": "Dividing Peak Tunnel",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 210 ( Poké Radar ), Grand Underground - Grassland Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,127 @@
+{
+    "name": "Slakoth",
+    "pokedex_number": "#0287",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Truant"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 60,
+        "Sp. Atk": 35,
+        "Sp. Def": 35,
+        "Speed": 30,
+        "Total": 280
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Slakoth lolls around for over twenty hours every day. Because it moves so little, it does not need much food. This Pok é mon 's sole daily meal consists of just three leaves.",
+            "Sapphire": "Slakoth 's heart beats just once a minute. Whatever happens, it is content to loaf around motionless. It is rare to see this Pok é mon in motion.",
+            "Emerald": "It sleeps virtually all day and night long. It doesn't change its nest its entire life, but it sometimes travels great distances by swimming in rivers.",
+            "FireRed": "It sleeps for 20 hours every day. Making drowsy those that see it is one of its abilities.",
+            "LeafGreen": "It sleeps for 20 hours every day. Making drowsy those that see it is one of its abilities."
+        },
+        "Generation IV": {
+            "Diamond": "It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy.",
+            "Pearl": "It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy.",
+            "Platinum": "It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy.",
+            "HeartGold": "The way Slakoth lolls around makes anyone who watches it feel like doing the same.",
+            "SoulSilver": "The way Slakoth lolls around makes anyone who watches it feel like doing the same."
+        },
+        "Generation V": {
+            "Black": "It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy.",
+            "White": "It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy.",
+            "Black 2": "If it eats just three leaves in a day, it is satisfied. Other than that, it sleeps for 20 hours a day.",
+            "White 2": "If it eats just three leaves in a day, it is satisfied. Other than that, it sleeps for 20 hours a day."
+        },
+        "Generation VI": {
+            "X": "The way Slakoth lolls around makes anyone who watches it feel like doing the same.",
+            "Y": "If it eats just three leaves in a day, it is satisfied. Other than that, it sleeps for 20 hours a day.",
+            "Omega Ruby": "Slakoth lolls around for over 20 hours every day. Because it moves so little, it does not need much food. This Pokémon's sole daily meal consists of just three leaves.",
+            "Alpha Sapphire": "Slakoth's heart beats just once a minute. Whatever happens, it is content to loaf around motionless. It is rare to see this Pokémon in motion."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy.",
+            "Shining Pearl": "It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy."
+        },
+        "Generation IX": {
+            "Scarlet": "It sleeps for 20 hours every day. Making drowsy those that see it is one of its abilities.",
+            "Violet": "The way Slakoth lolls around makes anyone who watches it feel like doing the same."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Petalburg Woods",
+            "Sapphire": "Petalburg Woods",
+            "Emerald": "Petalburg Woods",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Eterna Forest ( Swarm )",
+            "Pearl": "Eterna Forest ( Swarm )",
+            "Platinum": "Eterna Forest ( Swarm )",
+            "HeartGold": "Route 25 ( Headbutt trees * )",
+            "SoulSilver": "Route 25 ( Headbutt trees * )",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Breed Vigoroth or Slaking",
+            "White 2": "Breed Vigoroth or Slaking",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Petalburg Woods",
+            "Alpha Sapphire": "Petalburg Woods"
+        },
+        "Generation VII": {
+            "Sun": "Breed Vigoroth or Slaking",
+            "Moon": "Breed Vigoroth or Slaking",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Eterna Forest ( Swarm )",
+            "Shining Pearl": "Eterna Forest ( Swarm )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Three , Area Five Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Area One , Area Three , Area Five Tera Raid Battles ( 2★ )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Slakoth",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Slakoth",
+            "to": "Vigoroth",
+            "method": [
+                "Level 18"
+            ]
+        }
+    ]
+}

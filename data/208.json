@@ -1,0 +1,132 @@
+{
+    "name": "Steelix",
+    "pokedex_number": "#0208",
+    "types": [
+        "Steel",
+        "Ground"
+    ],
+    "abilities": [
+        "Rock Head",
+        "Sturdy",
+        "Sheer Force",
+        "Sand Force"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 85,
+        "Defense": 200,
+        "Sp. Atk": 55,
+        "Sp. Def": 65,
+        "Speed": 30,
+        "Total": 510
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
+            "Silver": "It is said that if an Onix lives for over 100 years, its composition changes to become diamond-like.",
+            "Crystal": "The many small metal particles that cover this Pok é mon 's body reflect bright light well.",
+            "Stadium 2": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond. (Pokémon Red, Silver, or Crystal inserted) It is said that if an Onix lives for over 100 years, its composition changes to become diamond-like. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Steelix lives even further underground than Onix . This Pok é mon is known to dig towards the earth's core. There are records of this Pok é mon reaching a depth of over six-tenths of a mile underground.",
+            "Sapphire": "Steelix lives even further underground than Onix . This Pok é mon is known to dig towards the earth's core. There are records of this Pok é mon reaching a depth of over six-tenths of a mile underground.",
+            "Emerald": "Steelix live even further underground than Onix . This Pok é mon is known to dig toward the earth's core, reaching a depth of over six-tenths of a mile underground.",
+            "FireRed": "It is said that if an Onix lives for over 100 years, its composition changes to become diamond-like.",
+            "LeafGreen": "Its body has been compressed deep under the ground. As a result, it is even harder than diamond."
+        },
+        "Generation IV": {
+            "Diamond": "Tempered underground under high pressure and heat, its body is harder than any metal.",
+            "Pearl": "It chews its way through boulders with its sturdy jaws. Its eyes can see in the darkness underground.",
+            "Platinum": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
+            "HeartGold": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
+            "SoulSilver": "It's said that if an Onix lives for 100 years, its composition becomes diamondlike as it evolves into a Steelix ."
+        },
+        "Generation V": {
+            "Black": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
+            "White": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
+            "Black 2": "The iron it ingested with the soil it swallowed transformed its body and made it harder than diamonds.",
+            "White 2": "The iron it ingested with the soil it swallowed transformed its body and made it harder than diamonds."
+        },
+        "Generation VI": {
+            "X": "Tempered underground under high pressure and heat, its body is harder than any metal.",
+            "Y": "It chews its way through boulders with its sturdy jaws. Its eyes can see in the darkness underground.",
+            "Omega Ruby": "Steelix lives even further underground than Onix . This Pokémon is known to dig toward the earth's core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground.",
+            "Alpha Sapphire": "Steelix lives even further underground than Onix . This Pokémon is known to dig toward the earth's core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It is said that if an Onix lives for over 100 years, its composition changes to become diamond-like.",
+            "Shield": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
+            "Brilliant Diamond": "Tempered underground under high pressure and heat, its body is harder than any metal.",
+            "Shining Pearl": "It chews its way through boulders with its sturdy jaws. Its eyes can see in the darkness underground.",
+            "Legends: Arceus": "This Pokémon evolved through use of a strange item. Its body is coated with steel powder and notably hard—not even diamond can leave so much as a scratch."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Onix",
+            "Silver": "Evolve Onix",
+            "Crystal": "Evolve Onix"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Onix",
+            "LeafGreen": "Evolve Onix",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Victory Road , Iron Island , Snowpoint Temple",
+            "Pearl": "Victory Road , Iron Island , Snowpoint Temple",
+            "Platinum": "Victory Road , Iron Island",
+            "HeartGold": "Cliff Cave , Mt. Silver Cave Trade any Pokémon with Jasmine at the Olivine Gym",
+            "SoulSilver": "Cliff Cave , Mt. Silver Cave Trade any Pokémon with Jasmine at the Olivine Gym",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Evolve Onix",
+            "White": "Evolve Onix",
+            "Black 2": "Clay Tunnel , Twist Mountain , Underground Ruins ( Dust cloud )",
+            "White 2": "Clay Tunnel , Twist Mountain , Underground Ruins ( Dust cloud )"
+        },
+        "Generation VI": {
+            "X": "Trade Luvdisc in Cyllage City",
+            "Y": "Trade Luvdisc in Cyllage City",
+            "Omega Ruby": "Evolve Onix",
+            "Alpha Sapphire": "Evolve Onix"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Onix",
+            "Ultra Moon": "Evolve Onix",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Giant's Mirror , Giant's Seat ( Wanderer ) Bridge Field , Giant's Seat , Hammerlocke Hills , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Giant's Mirror , Giant's Seat ( Wanderer ) Bridge Field , Giant's Seat , Hammerlocke Hills , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Brilliant Diamond": "Victory Road , Iron Island , Snowpoint Temple",
+            "Shining Pearl": "Victory Road , Iron Island , Snowpoint Temple",
+            "Legends: Arceus": "Obsidian Fieldlands : Space-time distortions Coronet Highlands : Celestica Trail , massive mass outbreaks Cobalt Coastlands : massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Onix",
+            "to": "Steelix",
+            "method": [
+                "Trade (holding Metal Coat)"
+            ]
+        }
+    ]
+}

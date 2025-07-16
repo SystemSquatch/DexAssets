@@ -1,0 +1,130 @@
+{
+    "name": "Lombre",
+    "pokedex_number": "#0271",
+    "types": [
+        "Water",
+        "Grass"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Rain Dish",
+        "Own Tempo"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 50,
+        "Sp. Atk": 60,
+        "Sp. Def": 70,
+        "Speed": 50,
+        "Total": 340
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Lombre is nocturnal - it will get active after dusk. It is also a mischief-maker. When this Pok é mon spots anglers, it tugs on their fishing lines from beneath the surface and enjoys their consternation.",
+            "Sapphire": "Lombre 's entire body is covered by a slippery, slimy film. It feels horribly unpleasant to be touched by this Pok é mon 's hands. Lombre is often mistaken for a human child.",
+            "Emerald": "In the evening, it takes great delight in popping out of rivers and startling people. It feeds on aquatic moss that grows on rocks in the riverbed.",
+            "FireRed": "It lives at the water's edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.",
+            "LeafGreen": "It lives at the water's edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night."
+        },
+        "Generation IV": {
+            "Diamond": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
+            "Pearl": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
+            "Platinum": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
+            "HeartGold": "It is nocturnal and becomes active at nightfall. It feeds on aquatic mosses that grow in the riverbed.",
+            "SoulSilver": "It is nocturnal and becomes active at nightfall. It feeds on aquatic mosses that grow in the riverbed."
+        },
+        "Generation V": {
+            "Black": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
+            "White": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
+            "Black 2": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
+            "White 2": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere."
+        },
+        "Generation VI": {
+            "X": "It lives at the water's edge where it is sunny. It sleeps on a bed of water-grass by day and becomes active at night.",
+            "Y": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
+            "Omega Ruby": "Lombre is nocturnal—it will get active after dusk. It is also a mischief maker. When this Pokémon spots anglers, it tugs on their fishing lines from beneath the surface and enjoys their consternation.",
+            "Alpha Sapphire": "Lombre's entire body is covered by a slippery, slimy film. It feels horribly unpleasant to be touched by this Pokémon's hands. Lombre is often mistaken for a human child."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It is nocturnal and becomes active at nightfall. It feeds on aquatic mosses that grow in the riverbed.",
+            "Shield": "It lives at the water's edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.",
+            "Brilliant Diamond": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
+            "Shining Pearl": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere."
+        },
+        "Generation IX": {
+            "Scarlet": "Old folklore in Kitakami tells of a mischievous child who was reborn as a Pokémon.",
+            "Violet": "It prefers waterfronts with plentiful food. It becomes nocturnal so it wouldn't have to compete for food with bird Pokémon."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Route 114",
+            "Emerald": "Route 114",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 212 and 229 (Sapphire)",
+            "Pearl": "Routes 212 and 229 (Sapphire)",
+            "Platinum": "Routes 212 and 229 (Sapphire)",
+            "HeartGold": "Safari Zone (tall grass in Wetland with 14 Plains points)",
+            "SoulSilver": "Safari Zone (tall grass in Wetland with 14 Plains points)",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Lotad",
+            "Black 2": "Route 3 ( Hidden Grotto ) *",
+            "White 2": "Route 3 ( Hidden Grotto ) *"
+        },
+        "Generation VI": {
+            "X": "Routes 15 , 16 , 21 , Couriway Town , Pokémon Village , Victory Road ( Surfing ) Pokémon Village ( Horde Encounter )",
+            "Y": "Routes 15 , 16 , 21 , Couriway Town , Pokémon Village , Victory Road ( Surfing ) Pokémon Village ( Horde Encounter )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Route 114"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Water World )",
+            "Ultra Moon": "Ultra Space Wilds ( Water World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Route 5 , South Lake Miloch , Dappled Grove , Giant's Cap , Giant's Seat Bridge Field , Dappled Grove , Stony Wilderness ( Max Raid Battle )",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Grand Underground - Grassland Cave , Riverbank Cave , Fountainspring Cave , Sunlit Cavern , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Apple Hills , Mossfell Confluence , Oni Mountain , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Lotad",
+            "to": "Lombre",
+            "method": [
+                "Level 14"
+            ]
+        },
+        {
+            "from": "Lombre",
+            "to": "Ludicolo",
+            "method": [
+                "Use Water Stone"
+            ]
+        }
+    ]
+}

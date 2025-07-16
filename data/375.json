@@ -1,0 +1,135 @@
+{
+    "name": "Metang",
+    "pokedex_number": "#0375",
+    "types": [
+        "Steel",
+        "Psychic"
+    ],
+    "abilities": [
+        "Clear Body",
+        "Light Metal"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 75,
+        "Defense": 100,
+        "Sp. Atk": 55,
+        "Sp. Def": 80,
+        "Speed": 50,
+        "Total": 420
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "When two Beldum fuse together, Metang is formed. The brains of the Beldum are joined by a magnetic nervous system. By linking its brains magnetically, this Pok é mon generates strong psychokinetic power.",
+            "Sapphire": "When two Beldum fuse together, Metang is formed. The brains of the Beldum are joined by a magnetic nervous system. This Pok é mon turns its arms to the rear for traveling at high speed.",
+            "Emerald": "The claws tipping its arms pack the destructive power to tear through thick iron sheets as if they were silk. It flies at over 60 miles per hour .",
+            "FireRed": "It floats midair using magnetism. Its body is so tough, even a crash with a jet plane won't leave a scratch.",
+            "LeafGreen": "It floats midair using magnetism. Its body is so tough, even a crash with a jet plane won't leave a scratch."
+        },
+        "Generation IV": {
+            "Diamond": "It is formed by two Beldum joining together. Its steel body won't be scratched if it collides with a jet.",
+            "Pearl": "It is formed by two Beldum joining together. Its steel body won't be scratched if it collides with a jet.",
+            "Platinum": "It is formed by two Beldum joining together. Its steel body won't be scratched if it collides with a jet.",
+            "HeartGold": "When two Beldum fuse together, a magnetic nervous system places their brains in union.",
+            "SoulSilver": "When two Beldum fuse together, a magnetic nervous system places their brains in union."
+        },
+        "Generation V": {
+            "Black": "It is formed by two Beldum joining together. Its steel body won't be scratched if it collides with a jet.",
+            "White": "It is formed by two Beldum joining together. Its steel body won't be scratched if it collides with a jet.",
+            "Black 2": "It is formed by two Beldum joining together. Its two brains are linked, amplifying its psychic power.",
+            "White 2": "It is formed by two Beldum joining together. Its two brains are linked, amplifying its psychic power."
+        },
+        "Generation VI": {
+            "X": "It is formed by two Beldum joining together. Its steel body won't be scratched if it collides with a jet.",
+            "Y": "It is formed by two Beldum joining together. Its two brains are linked, amplifying its psychic power.",
+            "Omega Ruby": "When two Beldum fuse together, Metang is formed. The brains of the Beldum are joined by a magnetic nervous system. By linking its brains magnetically, this Pokémon generates strong psychokinetic power.",
+            "Alpha Sapphire": "When two Beldum fuse together, Metang is formed. The brains of the Beldum are joined by a magnetic nervous system. This Pokémon turns its arms to the rear for traveling at high speed."
+        },
+        "Generation VII": {
+            "Sun": "When two Beldum link together, their psychic power is doubled. Their intelligence, however, remains unchanged.",
+            "Moon": "It adores magnetic minerals, so it pursues Nosepass at speeds exceeding 60 mph .",
+            "Ultra Sun": "With its two brains, it fires powerful psychic energy to stop its prey in their tracks.",
+            "Ultra Moon": "It flies at high speeds around the skies. When it finds its prey, Metang takes a firm grip with its sharp claws and never lets go."
+        },
+        "Generation VIII": {
+            "Sword": "Two Beldum have become stuck together via their own magnetic forces. With two brains, the resulting Metang has doubled psychic powers.",
+            "Shield": "Using magnetic forces to stay aloft, this Pokémon flies at high speeds, weaving through harsh mountain terrain in pursuit of prey.",
+            "Brilliant Diamond": "It is formed by two Beldum joining together. Its steel body won't be scratched if it collides with a jet.",
+            "Shining Pearl": "It is formed by two Beldum joining together. Its steel body won't be scratched if it collides with a jet."
+        },
+        "Generation IX": {
+            "Scarlet": "It is formed by two Beldum joining together. Its two brains are linked, amplifying its psychic power.",
+            "Violet": "It adores magnetic minerals, so it pursues Nosepass at speeds exceeding 60 mph ."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Beldum",
+            "Sapphire": "Evolve Beldum",
+            "Emerald": "Evolve Beldum",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Beldum",
+            "Pearl": "Evolve Beldum",
+            "Platinum": "Evolve Beldum",
+            "HeartGold": "Safari Zone (Mountain with 56 Peak points)",
+            "SoulSilver": "Safari Zone (Mountain with 56 Peak points)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Giant Chasm (Crater Forest)",
+            "White": "Giant Chasm (Crater Forest)",
+            "Black 2": "Giant Chasm (Crater Forest) Giant Chasm ( Hidden Grotto )",
+            "White 2": "Giant Chasm (Crater Forest) Giant Chasm ( Hidden Grotto )"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Steel )",
+            "Y": "Friend Safari ( Steel )",
+            "Omega Ruby": "Evolve Beldum",
+            "Alpha Sapphire": "Evolve Beldum"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Beldum , Poké Pelago *",
+            "Moon": "Evolve Beldum , Poké Pelago *",
+            "Ultra Sun": "Evolve Beldum",
+            "Ultra Moon": "Evolve Beldum",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Snowslide Slope ( Wanderer ) Giant's Bed , Snowslide Slope , Path to the Peak , Frigid Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Beldum",
+            "Shining Pearl": "Evolve Beldum",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Canyon Biome , Chargestone Cavern , Polar Biome Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Beldum",
+            "to": "Metang",
+            "method": [
+                "Level 20"
+            ]
+        },
+        {
+            "from": "Metang",
+            "to": "Metagross",
+            "method": [
+                "Level 45"
+            ]
+        }
+    ]
+}

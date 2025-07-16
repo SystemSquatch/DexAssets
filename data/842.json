@@ -1,0 +1,58 @@
+{
+    "name": "Appletun",
+    "pokedex_number": "#0842",
+    "types": [
+        "Grass",
+        "Dragon"
+    ],
+    "abilities": [
+        "Ripen",
+        "Gluttony",
+        "Thick Fat"
+    ],
+    "stats": {
+        "HP": 110,
+        "Attack": 85,
+        "Defense": 80,
+        "Sp. Atk": 100,
+        "Sp. Def": 80,
+        "Speed": 30,
+        "Total": 485
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pokémon it preys on.",
+            "Shield": "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack."
+        },
+        "Generation IX": {
+            "Scarlet": "It feeds mainly on sweet apples. It will also eat small bug Pokémon that are attracted by its sweet nectar.",
+            "Violet": "When some Lechonk come along to lick the sweet nectar on Appletun's back, Appletun will spew sticky nectar at them to drive them away."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Axew's Eye , Bridge Field , Dappled Grove , Giant's Mirror , Stony Wilderness ( Max Raid Battle ) Dappled Grove ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Shield Expansion Pass": "Stepping-Stone Sea Loop Lagoon ( Max Raid Battle ) Loop Lagoon ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 5★ )",
+            "Violet": "Tera Raid Battles ( 5★ )",
+            "The Hidden Treasure of Area Zero": "Mossfell Confluence"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Applin",
+            "to": "Appletun",
+            "method": [
+                "Use Sweet Apple"
+            ]
+        }
+    ]
+}

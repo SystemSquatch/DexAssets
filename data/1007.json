@@ -1,0 +1,35 @@
+{
+    "name": "Koraidon",
+    "pokedex_number": "#1007",
+    "types": [
+        "Fighting",
+        "Dragon"
+    ],
+    "abilities": [
+        "Orichalcum Pulse"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 135,
+        "Defense": 115,
+        "Sp. Atk": 85,
+        "Sp. Def": 100,
+        "Speed": 135,
+        "Total": 670
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "The ecology and other data about this Pokémon are unknown. It was named Koraidon by the professor who discovered it. *",
+            "Violet": "It has similar characteristics to a creature described in an old book as the Winged King. *"
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Poco Path ( only one ) ( Limited Build ) Area Zero (after credits ; only one ) ( Apex Build )",
+            "Violet": "Trade"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Dracozolt",
+    "pokedex_number": "#0880",
+    "types": [
+        "Electric",
+        "Dragon"
+    ],
+    "abilities": [
+        "Volt Absorb",
+        "Hustle",
+        "Sand Rush"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 90,
+        "Sp. Atk": 80,
+        "Sp. Def": 70,
+        "Speed": 75,
+        "Total": 505
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "In ancient times, it was unbeatable thanks to its powerful lower body, but it went extinct anyway after it depleted all its plant-based food sources.",
+            "Shield": "The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Revive from Fossilized Bird and Fossilized Drake by Cara Liss on Route 6",
+            "Shield": "Revive from Fossilized Bird and Fossilized Drake by Cara Liss on Route 6",
+            "Expansion Pass": "Snowslide Slope ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

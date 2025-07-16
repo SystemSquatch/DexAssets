@@ -1,0 +1,149 @@
+{
+    "name": "Butterfree",
+    "pokedex_number": "#0012",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "abilities": [
+        "Compound Eyes",
+        "Tinted Lens"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 50,
+        "Sp. Atk": 80,
+        "Sp. Def": 80,
+        "Speed": 70,
+        "Total": 385
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+            "Yellow": "Its wings, covered with poisonous powders, repel water. This allows it to fly in the rain.",
+            "Stadium": "Its wings are covered with poisonous dust. If you see one flapping its wings, be careful not to inhale any of the dust."
+        },
+        "Generation II": {
+            "Gold": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+            "Silver": "Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains.",
+            "Crystal": "It flits from flower to flower, collecting honey. It can even identify distant flowers in bloom.",
+            "Stadium 2": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest. (Pokémon Red, Silver, or Crystal inserted) Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+            "Sapphire": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+            "Emerald": "It has a superior ability to search for delicious honey from flowers. It can seek, extract, and carry honey from flowers blooming over six miles away.",
+            "FireRed": "The wings are protected by rain-repellent dust. As a result, this Pok é mon can fly about even in rain.",
+            "LeafGreen": "In battle, it flaps its wings at great speed to release highly toxic dust into the air."
+        },
+        "Generation IV": {
+            "Diamond": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+            "Pearl": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+            "Platinum": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+            "HeartGold": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+            "SoulSilver": "Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains."
+        },
+        "Generation V": {
+            "Black": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+            "White": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+            "Black 2": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+            "White 2": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen."
+        },
+        "Generation VI": {
+            "X": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+            "Y": "The wings are protected by rain-repellent dust. As a result, this Pokémon can fly about even in rain.",
+            "Omega Ruby": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+            "Alpha Sapphire": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest."
+        },
+        "Generation VII": {
+            "Sun": "Close examination of its large eyes reveals that each eye is composed of a myriad of tiny eyes.",
+            "Moon": "When attacked by other Pokémon, it defends itself by scattering its poisonous scales and fluttering its wings.",
+            "Ultra Sun": "Its wings are covered in toxic scales. If it finds bird Pokémon going after Caterpie , Butterfree sprinkles its scales on them to drive them off.",
+            "Ultra Moon": "Nectar from pretty flowers is its favorite food. In fields of flowers, it has heated battles with Cutiefly for territory.",
+            "Let's Go Pikachu": "Its wings, covered with poisonous powder, repel water. This allows it to fly in the rain.",
+            "Let's Go Eevee": "Its wings, covered with poisonous powder, repel water. This allows it to fly in the rain."
+        },
+        "Generation VIII": {
+            "Sword": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
+            "Shield": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+            "Brilliant Diamond": "It loves the nectar of flowers and can locate flower patches that have even tiny amounts of pollen.",
+            "Shining Pearl": "It loves the nectar of flowers and can locate flower patches that have even tiny amounts of pollen."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Metapod",
+            "Blue": "Evolve Metapod",
+            "Blue (Japan)": "Evolve Metapod",
+            "Yellow": "Evolve Metapod"
+        },
+        "Generation II": {
+            "Gold": "Route 2 Morning National Park ( Bug-Catching Contest ) Tu Th Sa Routes 26 , 27 , 34 , 35 , 36 , 37 , 38 , and 39 , Azalea Town , Ilex Forest , Lake of Rage ( Headbutt trees )",
+            "Silver": "National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "Crystal": "Routes 2 , 24 , and 25 Morning Day National Park ( Bug-Catching Contest ) Tu Th Sa Ilex Forest ( Headbutt trees )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Metapod",
+            "LeafGreen": "Evolve Metapod",
+            "Colosseum": "Trade",
+            "XD": "Cipher Key Lair (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Metapod",
+            "Pearl": "Evolve Metapod",
+            "Platinum": "Evolve Metapod",
+            "HeartGold": "Route 2 Morning Day Viridian Forest Morning National Park ( Bug-Catching Contest ) Tu Th Sa Route 47 , Ilex Forest ( Headbutt trees )",
+            "SoulSilver": "National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Route 12 ( Rustling grass )",
+            "Black 2": "Trade",
+            "White 2": "Pinwheel Forest ( Hidden Grotto ) *",
+            "Dream World": "Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Bug )",
+            "Y": "Friend Safari ( Bug )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Route 5 , Melemele Meadow Route 5 , Lush Jungle , Melemele Meadow ( SOS Battle )",
+            "Moon": "Route 5 , Melemele Meadow Route 5 , Lush Jungle , Melemele Meadow ( SOS Battle )",
+            "Ultra Sun": "Route 5 , Melemele Meadow Route 5 , Lush Jungle , Melemele Meadow ( SOS Battle )",
+            "Ultra Moon": "Route 5 , Melemele Meadow Route 5 , Lush Jungle , Melemele Meadow ( SOS Battle )",
+            "Let's Go Pikachu": "Viridian Forest",
+            "Let's Go Eevee": "Evolve Metapod"
+        },
+        "Generation VIII": {
+            "Sword": "Slumbering Weald , East Lake Axewell , Giant's Mirror , Rolling Fields Bridge Field , Dappled Grove , East Lake Axewell , Giant's Cap , Hammerlocke Hills , Rolling Fields , South Lake Miloch ( Max Raid Battle ) Rolling Fields ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Shield": "Slumbering Weald , East Lake Axewell , Giant's Mirror , Rolling Fields Bridge Field , Dappled Grove , East Lake Axewell , Giant's Cap , Hammerlocke Hills , Rolling Fields , South Lake Miloch ( Max Raid Battle ) Rolling Fields ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Gigantamax Factor ) Slippery Slope , Crown Shrine , Giant's Foot , Ballimere Lake ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Brilliant Diamond": "Evolve Metapod",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Metapod",
+            "to": "Butterfree",
+            "method": [
+                "Level 10"
+            ]
+        }
+    ]
+}

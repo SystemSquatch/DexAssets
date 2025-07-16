@@ -1,0 +1,52 @@
+{
+    "name": "Capsakid",
+    "pokedex_number": "#0951",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Insomnia",
+        "Klutz"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 62,
+        "Defense": 40,
+        "Sp. Atk": 62,
+        "Sp. Def": 40,
+        "Speed": 50,
+        "Total": 304
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.",
+            "Violet": "Traditional Paldean dishes can be extremely spicy because they include the shed front teeth of Capsakid among their ingredients."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area Two West Province: Area One , Asado Desert Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Area Two West Province: Area One , Asado Desert Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Capsakid",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Capsakid",
+            "to": "Scovillain",
+            "method": [
+                "Use Fire Stone"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Corvisquire",
+    "pokedex_number": "#0822",
+    "types": [
+        "Flying",
+        "Unknown"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Unnerve",
+        "Big Pecks"
+    ],
+    "stats": {
+        "HP": 68,
+        "Attack": 67,
+        "Defense": 55,
+        "Sp. Atk": 43,
+        "Sp. Def": 55,
+        "Speed": 77,
+        "Total": 365
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Smart enough to use tools in battle, these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.",
+            "Shield": "The lessons of many harsh battles have taught it how to accurately judge an opponent's strength."
+        },
+        "Generation IX": {
+            "Scarlet": "It’s said that the reason behind Corvisquire’s high level of intelligence is the large size of its brain relative to those of other bird Pokémon.",
+            "Violet": "This intelligent Pokémon will quickly learn how to use any tool it can hold in its beak or its talons."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Giant's Mirror , Hammerlocke Hills , Motostoke Riverbank Route 3 ( Wanderer ) East Lake Axewell , Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Giant's Mirror , Hammerlocke Hills , Motostoke Riverbank Route 3 ( Wanderer ) East Lake Axewell , Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Ballimere Lake Frostpoint Field , Giant's Bed , Frigid Sea , Ballimere Lake , Dyna Tree Hill ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Three , Area Five East Province: Area One , Area Two , Area Three Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area One , Area Three , Area Five East Province: Area One , Area Two , Area Three Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Rookidee",
+            "to": "Corvisquire",
+            "method": [
+                "Level 18"
+            ]
+        },
+        {
+            "from": "Corvisquire",
+            "to": "Corviknight",
+            "method": [
+                "Level 38"
+            ]
+        }
+    ]
+}

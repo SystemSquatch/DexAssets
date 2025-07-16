@@ -1,0 +1,94 @@
+{
+    "name": "Palpitoad",
+    "pokedex_number": "#0536",
+    "types": [
+        "Water",
+        "Ground"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Hydration",
+        "Water Absorb"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 65,
+        "Defense": 55,
+        "Sp. Atk": 65,
+        "Sp. Def": 55,
+        "Speed": 69,
+        "Total": 384
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
+            "White": "It lives in the water and on land. It uses its long, sticky tongue to capture prey.",
+            "Black 2": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
+            "White 2": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents."
+        },
+        "Generation VI": {
+            "X": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
+            "Y": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
+            "Omega Ruby": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
+            "Alpha Sapphire": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It weakens its prey with sound waves intense enough to cause headaches, then entangles them with its sticky tongue.",
+            "Shield": "On occasion, their cries are sublimely pleasing to the ear. Palpitoad with larger lumps on their bodies can sing with a wider range of sounds."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 8 , Icirrus City , Moor of Icirrus Spring Summer Autumn",
+            "White": "Route 8 , Icirrus City , Moor of Icirrus Spring Summer Autumn",
+            "Black 2": "Pinwheel Forest (outer) Route 8 , Icirrus City , Moor of Icirrus Spring Summer Autumn",
+            "White 2": "Pinwheel Forest (outer) Route 8 , Icirrus City , Moor of Icirrus Spring Summer Autumn"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Ground )",
+            "Y": "Friend Safari ( Ground )",
+            "Omega Ruby": "Evolve Tympole",
+            "Alpha Sapphire": "Evolve Tympole"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "North Lake Miloch , Giant's Seat , Giant's Mirror , Giant's Cap , Bridge Field , Dusty Bowl , Hammerlocke Hills Rolling Fields , West Lake Axewell , South Lake Miloch , North Lake Miloch , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "North Lake Miloch , Giant's Seat , Giant's Mirror , Giant's Cap , Bridge Field , Dusty Bowl , Hammerlocke Hills Rolling Fields , West Lake Axewell , South Lake Miloch , North Lake Miloch , Dusty Bowl ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Tympole",
+            "to": "Palpitoad",
+            "method": [
+                "Level 25"
+            ]
+        },
+        {
+            "from": "Palpitoad",
+            "to": "Seismitoad",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

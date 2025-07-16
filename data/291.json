@@ -1,0 +1,119 @@
+{
+    "name": "Ninjask",
+    "pokedex_number": "#0291",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "abilities": [
+        "Speed Boost",
+        "Infiltrator"
+    ],
+    "stats": {
+        "HP": 61,
+        "Attack": 90,
+        "Defense": 45,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 160,
+        "Total": 456
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Ninjask moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this Pok é mon was long believed to be invisible.",
+            "Sapphire": "If Ninjask is not trained properly, it will refuse to obey the Trainer and cry loudly continuously. Because of this quality, this Pok é mon is said to be one that puts the Trainer 's abilities to the test.",
+            "Emerald": "Because it darts about vigorously at high speed, it is very difficult to see. Hearing its distinctive cries for too long induces a headache.",
+            "FireRed": "This Pok é mon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
+            "LeafGreen": "This Pok é mon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap."
+        },
+        "Generation IV": {
+            "Diamond": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+            "Pearl": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+            "Platinum": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+            "HeartGold": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
+            "SoulSilver": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible."
+        },
+        "Generation V": {
+            "Black": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+            "White": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+            "Black 2": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+            "White 2": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap."
+        },
+        "Generation VI": {
+            "X": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
+            "Y": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+            "Omega Ruby": "Ninjask moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this Pokémon was long believed to be invisible.",
+            "Alpha Sapphire": "If Ninjask is not trained properly, it will refuse to obey the Trainer and cry loudly continuously. Because of this quality, this Pokémon is said to be one that puts the Trainer's abilities to the test."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
+            "Shield": "This Pokémon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
+            "Brilliant Diamond": "Because they move so quickly, they sometimes become unseeable. They congregate around tree sap.",
+            "Shining Pearl": "Because they move so quickly, they sometimes become unseeable. They congregate around tree sap."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Nincada",
+            "Sapphire": "Evolve Nincada",
+            "Emerald": "Evolve Nincada",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Nincada",
+            "Pearl": "Evolve Nincada",
+            "Platinum": "Evolve Nincada",
+            "HeartGold": "Evolve Nincada",
+            "SoulSilver": "Evolve Nincada",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Evolve Nincada",
+            "Y": "Evolve Nincada",
+            "Omega Ruby": "Evolve Nincada",
+            "Alpha Sapphire": "Evolve Nincada"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields , Stony Wilderness Bridge Field , Dappled Grove , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Rolling Fields , Stony Wilderness Bridge Field , Dappled Grove , Rolling Fields ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Nincada",
+            "Shining Pearl": "Evolve Nincada",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Nincada",
+            "to": "Ninjask",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "name": "Seedot",
+    "pokedex_number": "#0273",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Early Bird",
+        "Pickpocket"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 50,
+        "Sp. Atk": 30,
+        "Sp. Def": 30,
+        "Speed": 30,
+        "Total": 220
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Seedot attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this Pok é mon 's body becomes.",
+            "Sapphire": "Seedot looks exactly like an acorn when it is dangling from a tree branch. It startles other Pok é mon by suddenly moving. This Pok é mon polishes its body once a day using leaves.",
+            "Emerald": "It hangs off branches and absorbs nutrients. When it finishes eating, its body becomes so heavy that it drops to the ground with a thump.",
+            "FireRed": "If it remains still, it becomes impossible to distinguish from real nuts. It delights in surprising foraging Pidgey .",
+            "LeafGreen": "If it remains still, it becomes impossible to distinguish from real nuts. It delights in surprising foraging Pidgey ."
+        },
+        "Generation IV": {
+            "Diamond": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+            "Pearl": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+            "Platinum": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+            "HeartGold": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
+            "SoulSilver": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall."
+        },
+        "Generation V": {
+            "Black": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+            "White": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+            "Black 2": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+            "White 2": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon."
+        },
+        "Generation VI": {
+            "X": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
+            "Y": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+            "Omega Ruby": "Seedot attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this Pokémon's body becomes.",
+            "Alpha Sapphire": "Seedot looks exactly like an acorn when it is dangling from a tree branch. It startles other Pokémon by suddenly moving. This Pokémon polishes its body once a day using leaves."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "If it remains still, it looks just like a real nut. It delights in surprising foraging Pokémon.",
+            "Shield": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
+            "Brilliant Diamond": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon that try to peck at it.",
+            "Shining Pearl": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon that try to peck at it."
+        },
+        "Generation IX": {
+            "Scarlet": "To expand its habitat, it pretends to be a nut so that bird Pokémon will pick it up and carry it far away.",
+            "Violet": "Seedot live in trees, hanging from the branches and leeching moisture. Rows of them can be found dangling from large, young trees."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Routes 102 and 114",
+            "Sapphire": "Routes 102 , 117 , and 120 ( Swarm ; after mixing records with Emerald)",
+            "Emerald": "Routes 102 , 117 , and 120 Trade Ralts in Rustboro City",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Cipher Lab (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 203 , 204 , 210 , Eterna Forest (Ruby)",
+            "Pearl": "Routes 203 , 204 , 210 , Eterna Forest (Ruby)",
+            "Platinum": "Routes 203 , 204 , 210 , Eterna Forest (Ruby)",
+            "HeartGold": "Viridian Forest ( Headbutt trees ) Safari Zone (tall grass in Meadow with 35 Plains points)",
+            "SoulSilver": "Viridian Forest ( Headbutt trees ) Safari Zone (tall grass in Meadow with 35 Plains points)",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Breed Nuzleaf or Shiftry",
+            "White 2": "Breed Nuzleaf or Shiftry",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Breed Nuzleaf or Shiftry",
+            "Y": "Breed Nuzleaf or Shiftry",
+            "Omega Ruby": "Route 102 Route 114 ( Horde Encounter )",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Nuzleaf or Shiftry",
+            "Ultra Moon": "Breed Nuzleaf or Shiftry",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 2 , Dappled Grove , West Lake Axewell Bridge Field , Dappled Grove , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Brilliant Diamond": "Grand Underground - Grassland Cave , Riverbank Cave , Sunlit Cavern , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Reveler's Road , Kitakami Hall , Mossfell Confluence , Fellhorn Gorge , Oni Mountain , Paradise Barrens , Kitakami Wilds , Timeless Woods Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Seedot",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Seedot",
+            "to": "Nuzleaf",
+            "method": [
+                "Level 14"
+            ]
+        }
+    ]
+}

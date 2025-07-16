@@ -1,0 +1,112 @@
+{
+    "name": "Froslass",
+    "pokedex_number": "#0478",
+    "types": [
+        "Ice",
+        "Ghost"
+    ],
+    "abilities": [
+        "Snow Cloak",
+        "Cursed Body"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 70,
+        "Sp. Atk": 80,
+        "Sp. Def": 70,
+        "Speed": 110,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It freezes foes with an icy breath nearly -60 degrees F . What seems to be its body is actually hollow.",
+            "Pearl": "It freezes foes with an icy breath nearly -60 degrees F . What seems to be its body is actually hollow.",
+            "Platinum": "It freezes prey by blowing its -58 degree F breath. It is said to then secretly display its prey.",
+            "HeartGold": "Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as Froslass .",
+            "SoulSilver": "Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as Froslass [ sic ]"
+        },
+        "Generation V": {
+            "Black": "It freezes prey by blowing its -58 degree F breath. It is said to then secretly display its prey.",
+            "White": "It freezes prey by blowing its -58 degree F breath. It is said to then secretly display its prey.",
+            "Black 2": "It freezes prey by blowing its -58 degree F breath. It is said to then secretly display its prey.",
+            "White 2": "It freezes prey by blowing its -58 degree F breath. It is said to then secretly display its prey."
+        },
+        "Generation VI": {
+            "X": "It freezes foes with an icy breath nearly -60 degrees Fahrenheit . What seems to be its body is actually hollow.",
+            "Y": "Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as Froslass.",
+            "Omega Ruby": "It freezes foes with an icy breath nearly -60 degrees Fahrenheit . What seems to be its body is actually hollow.",
+            "Alpha Sapphire": "Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as Froslass."
+        },
+        "Generation VII": {
+            "Sun": "When it finds humans or Pokémon it likes, it freezes them and takes them to its chilly den, where they become decorations.",
+            "Moon": "The soul of a woman lost on a snowy mountain possessed an icicle, becoming this Pokémon. The food it most relishes is the souls of men.",
+            "Ultra Sun": "It freezes hikers who have come to climb snowy mountains and carries them back to its home. It only goes after men it thinks are handsome.",
+            "Ultra Moon": "It's said that on nights of terrible blizzards, it comes down to human settlements. If you hear it knocking at your door, do not open it!"
+        },
+        "Generation VIII": {
+            "Sword": "After a woman met her end on a snowy mountain, her regrets lingered on. From them, this Pokémon was born. Its favorite food is frozen souls.",
+            "Shield": "It spits out cold air of nearly −60 degrees Fahrenheit to freeze its quarry. It brings frozen prey back to its lair and neatly lines them up.",
+            "Brilliant Diamond": "It freezes foes with an icy breath that is nearly −60 degrees Fahrenheit . What seems to be its body is actually hollow.",
+            "Shining Pearl": "It freezes foes with an icy breath that is nearly −60 degrees Fahrenheit . What seems to be its body is actually hollow.",
+            "Legends: Arceus": "A Pokémon inhabited by the soul of a woman who died bearing a grudge in the snowy mountains. Legends of Froslass placing deathly curses on misbehaving men send shivers down my spine."
+        },
+        "Generation IX": {
+            "Scarlet": "When it finds humans or Pokémon it likes, it freezes them and takes them to its chilly den, where they become decorations.",
+            "Violet": "It freezes prey by blowing its −58 degree Fahrenheit breath. It is said to then secretly display its prey."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Snorunt ♀",
+            "Pearl": "Evolve Snorunt ♀",
+            "Platinum": "Evolve Snorunt ♀",
+            "HeartGold": "Evolve Pokéwalker Snorunt ♀",
+            "SoulSilver": "Evolve Pokéwalker Snorunt ♀"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Evolve Snorunt ♀",
+            "Y": "Evolve Snorunt ♀",
+            "Omega Ruby": "Evolve Snorunt ♀",
+            "Alpha Sapphire": "Evolve Snorunt ♀"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Snorunt ♀",
+            "Moon": "Evolve Snorunt ♀",
+            "Ultra Sun": "Evolve Snorunt ♀",
+            "Ultra Moon": "Evolve Snorunt ♀",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Slippery Slope , Giant's Bed , Old Cemetery , Snowslide Slope , Tunnel to the Top ( Wanderer ) Max Lair ( Dynamax Adventure ) Slippery Slope , Old Cemetery , Giant's Foot , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Snorunt ♀",
+            "Shining Pearl": "Evolve Snorunt ♀",
+            "Legends: Arceus": "Alabaster Icelands : Avalanche Slopes Night , Bonechill Wastes Night , Avalugg's Legacy Night , Snowpoint Temple Night , near Pearl Settlement Night , Ice Column Chamber , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 5★ )",
+            "Violet": "North Province: Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 5★ )",
+            "The Hidden Treasure of Area Zero": "Evolve Snorunt ♀"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Snorunt",
+            "to": "Froslass",
+            "method": [
+                "Use Dawn Stone ((Female only))"
+            ]
+        }
+    ]
+}

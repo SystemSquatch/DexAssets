@@ -1,0 +1,61 @@
+{
+    "name": "Sizzlipede",
+    "pokedex_number": "#0850",
+    "types": [
+        "Fire",
+        "Bug"
+    ],
+    "abilities": [
+        "Flash Fire",
+        "White Smoke",
+        "Flame Body"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 45,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 45,
+        "Total": 305
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
+            "Shield": "It wraps prey up with its heated body, cooking them in its coils. Once they're well-done, it will voraciously nibble them down to the last morsel."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Route 3 , Motostoke Stadium * Stony Wilderness , Giant's Cap , Lake of Outrage , Dusty Bowl , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Route 3 , Motostoke Stadium * Stony Wilderness , Giant's Cap , Lake of Outrage , Dusty Bowl , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Foot Giant's Bed , Snowslide Slope , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Sizzlipede",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Sizzlipede",
+            "to": "Centiskorch",
+            "method": [
+                "Level 28"
+            ]
+        }
+    ]
+}

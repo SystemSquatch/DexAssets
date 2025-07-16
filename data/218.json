@@ -1,0 +1,141 @@
+{
+    "name": "Slugma",
+    "pokedex_number": "#0218",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Magma Armor",
+        "Flame Body",
+        "Weak Armor"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 40,
+        "Sp. Atk": 70,
+        "Sp. Def": 40,
+        "Speed": 20,
+        "Total": 250
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden.",
+            "Silver": "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places.",
+            "Crystal": "These group together in areas that are hotter than normal. If it cools off, its skin hardens.",
+            "Stadium 2": "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden. (Pokémon Red, Silver, or Crystal inserted) A common sight in volcanic areas, it slowly slithers around in a constant search for warm places. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Molten magma courses throughout Slugma 's circulatory system. If this Pok é mon is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size.",
+            "Sapphire": "Slugma does not have any blood in its body. Instead, intensely hot magma circulates throughout this Pok é mon 's body, carrying essential nutrients and oxygen to its organs.",
+            "Emerald": "It is a species of Pok é mon that lives in volcanic areas. If its body cools, its skin hardens and immobilizes it. To avoid that, it sleeps near magma.",
+            "FireRed": "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places.",
+            "LeafGreen": "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden."
+        },
+        "Generation IV": {
+            "Diamond": "Its body is made of magma. If it doesn't keep moving, its body will cool and harden.",
+            "Pearl": "Its body is made of magma. If it doesn't keep moving, its body will cool and harden.",
+            "Platinum": "Its body is made of magma. If it doesn't keep moving, its body will cool and harden.",
+            "HeartGold": "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden.",
+            "SoulSilver": "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places."
+        },
+        "Generation V": {
+            "Black": "Its body is made of magma. If it doesn't keep moving, its body will cool and harden.",
+            "White": "Its body is made of magma. If it doesn't keep moving, its body will cool and harden.",
+            "Black 2": "Its body is made of magma. If it doesn't keep moving, its body will cool and harden.",
+            "White 2": "Its body is made of magma. If it doesn't keep moving, its body will cool and harden."
+        },
+        "Generation VI": {
+            "X": "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places.",
+            "Y": "Its body is made of magma. If it doesn't keep moving, its body will cool and harden.",
+            "Omega Ruby": "Molten magma courses throughout Slugma's circulatory system. If this Pokémon is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size.",
+            "Alpha Sapphire": "Slugma does not have any blood in its body. Instead, intensely hot magma circulates throughout this Pokémon's body, carrying essential nutrients and oxygen to its organs."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Its body is made of magma. If it doesn't keep moving, its body will cool and harden.",
+            "Shining Pearl": "Its body is made of magma. If it doesn't keep moving, its body will cool and harden."
+        },
+        "Generation IX": {
+            "Scarlet": "Its lava body can cool and chip away at times, but a magma bath will heal it right up.",
+            "Violet": "It's said that in ancient times, when volcanoes were more active, there were many more Slugma than there are now."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 16 , 17 , and 18",
+            "Silver": "Routes 16 , 17 , and 18",
+            "Crystal": "Routes 16 , 17 , and 18 Day"
+        },
+        "Generation III": {
+            "Ruby": "Fiery Path",
+            "Sapphire": "Fiery Path",
+            "Emerald": "Route 113 , Fiery Path",
+            "FireRed": "Mt. Ember",
+            "LeafGreen": "Mt. Ember",
+            "Colosseum": "Pyrite Town (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Stark Mountain",
+            "Pearl": "Stark Mountain",
+            "Platinum": "Stark Mountain",
+            "HeartGold": "Hatch Egg received from Primo in Violet City Routes 16 , 17 , and 18",
+            "SoulSilver": "Hatch Egg received from Primo in Violet City Routes 16 , 17 , and 18",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Volcano Path"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Route 13 ( Rock Smash ) Friend Safari ( Fire )",
+            "Y": "Route 13 ( Rock Smash ) Friend Safari ( Fire )",
+            "Omega Ruby": "Fiery Path",
+            "Alpha Sapphire": "Fiery Path"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Magcargo",
+            "Ultra Moon": "Breed Magcargo",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Stark Mountain Grand Underground - Volcanic Cave , Sandsear Cave , Typhlo Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Stark Mountain Grand Underground - Volcanic Cave , Sandsear Cave , Typhlo Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Infernal Pass , Crystal Pool Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Slugma",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Slugma",
+            "to": "Magcargo",
+            "method": [
+                "Level 38"
+            ]
+        }
+    ]
+}

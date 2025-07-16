@@ -1,0 +1,95 @@
+{
+    "name": "Pidove",
+    "pokedex_number": "#0519",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Big Pecks",
+        "Super Luck",
+        "Rivalry"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 55,
+        "Defense": 50,
+        "Sp. Atk": 36,
+        "Sp. Def": 30,
+        "Speed": 43,
+        "Total": 264
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Each follows its Trainer's orders as best it can, but they sometimes fail to understand complicated commands.",
+            "White": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
+            "Black 2": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
+            "White 2": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one."
+        },
+        "Generation VI": {
+            "X": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
+            "Y": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
+            "Omega Ruby": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
+            "Alpha Sapphire": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Where people go, these Pokémon follow. If you're scattering food for them, be careful— several hundred of them can gather at once.",
+            "Shield": "It's forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 3 , Pinwheel Forest (inner)",
+            "White": "Route 3 , Pinwheel Forest (inner)",
+            "Black 2": "Route 20 , Floccesy Ranch , Virbank Complex , Castelia City Pinwheel Forest (outer) ( N's Pokémon )",
+            "White 2": "Route 20 , Floccesy Ranch , Virbank Complex , Castelia City Pinwheel Forest (outer) ( N's Pokémon )",
+            "Dream World": "Windswept Sky *"
+        },
+        "Generation VI": {
+            "X": "Breed Tranquill or Unfezant",
+            "Y": "Breed Tranquill or Unfezant",
+            "Omega Ruby": "Routes 104 , 115 , and 116 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Routes 104 , 115 , and 116 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields , East Lake Axewell , North Lake Miloch , Watchtower Ruins Rolling Fields , East Lake Axewell , Motostoke Riverbank , Bridge Field ( Max Raid Battle )",
+            "Shield": "Rolling Fields , East Lake Axewell , North Lake Miloch , Watchtower Ruins Rolling Fields , East Lake Axewell , Motostoke Riverbank , Bridge Field ( Max Raid Battle )",
+            "Expansion Pass": "Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Pidove",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Pidove",
+            "to": "Tranquill",
+            "method": [
+                "Level 21"
+            ]
+        }
+    ]
+}

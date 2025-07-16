@@ -1,0 +1,37 @@
+{
+    "name": "Klawf",
+    "pokedex_number": "#0950",
+    "types": [
+        "Rock",
+        "Unknown"
+    ],
+    "abilities": [
+        "Anger Shell",
+        "Shell Armor",
+        "Regenerator"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 100,
+        "Defense": 115,
+        "Sp. Atk": 35,
+        "Sp. Def": 55,
+        "Speed": 75,
+        "Total": 450
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Klawf hangs upside-down from cliffs, waiting for prey. But Klawf can’t remain in this position for long because its blood rushes to its head.",
+            "Violet": "This Pokémon lives on sheer cliffs. It sidesteps opponents' attacks, then lunges for their weak spots with its claws."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area Three South Province: Area Three Former Titan ( Only one ) Tera Raid Battles ( 6★ )",
+            "Violet": "South Province: Area Three South Province: Area Three Former Titan ( Only one ) Tera Raid Battles ( 6★ )"
+        }
+    },
+    "evolution": []
+}

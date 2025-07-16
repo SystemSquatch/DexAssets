@@ -1,0 +1,96 @@
+{
+    "name": "Foongus",
+    "pokedex_number": "#0590",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "abilities": [
+        "Effect Spore",
+        "Regenerator"
+    ],
+    "stats": {
+        "HP": 69,
+        "Attack": 55,
+        "Defense": 45,
+        "Sp. Atk": 55,
+        "Sp. Def": 55,
+        "Speed": 15,
+        "Total": 294
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
+            "White": "For some reason, this Pokémon resembles a Poké Ball. They release poison spores to repel those who try to catch them.",
+            "Black 2": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
+            "White 2": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores."
+        },
+        "Generation VI": {
+            "X": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
+            "Y": "It lures Pokémon with its pattern that looks just like a Poké Ball, then releases poison spores.",
+            "Omega Ruby": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
+            "Alpha Sapphire": "It lures Pokémon with its pattern that looks just like a Poké Ball, then releases poison spores."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "No one knows what the Poké Ball-like pattern on Foongus means or why Foongus has it.",
+            "Shield": "The spores released from this Pokémon's hands are highly poisonous, but when thoroughly dried, the spores can be used as stomach medicine."
+        },
+        "Generation IX": {
+            "Scarlet": "There is a theory that the developer of the modern-day Poké Ball really liked Foongus, but this has not been confirmed.",
+            "Violet": "This Pokémon prefers damp places. It spurts out poison spores to repel approaching enemies."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 6 , 7 , and 10 (both in tall grass and as fake items)",
+            "White": "Routes 6 , 7 , and 10 (both in tall grass and as fake items)",
+            "Black 2": "Routes 6 and 7 (both in tall grass and as fake items * ) Routes 5 , 6 , and 13 ( Hidden Grotto )",
+            "White 2": "Routes 6 and 7 (both in tall grass and as fake items * ) Routes 5 , 6 , and 13 ( Hidden Grotto )"
+        },
+        "Generation VI": {
+            "X": "Routes 15 , 16 , and 20 , Pokémon Village ( Horde Encounter )",
+            "Y": "Routes 15 , 16 , and 20 , Pokémon Village ( Horde Encounter )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Forest of Focus",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Tagtree Thicket West Province: Area Three North Province: Area Two Tera Raid Battles ( 2★ )",
+            "Violet": "East Province: Tagtree Thicket West Province: Area Three North Province: Area Two Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Foongus",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Foongus",
+            "to": "Amoonguss",
+            "method": [
+                "Level 39"
+            ]
+        }
+    ]
+}

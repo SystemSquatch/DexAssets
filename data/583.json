@@ -1,0 +1,100 @@
+{
+    "name": "Vanillish",
+    "pokedex_number": "#0583",
+    "types": [
+        "Ice",
+        "Unknown"
+    ],
+    "abilities": [
+        "Ice Body",
+        "Snow Cloak",
+        "Weak Armor"
+    ],
+    "stats": {
+        "HP": 51,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Atk": 80,
+        "Sp. Def": 75,
+        "Speed": 59,
+        "Total": 395
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Snowy mountains are this Pokémon's habitat. During an ancient ice age, they moved to southern areas.",
+            "White": "It conceals itself from enemy eyes by creating many small ice particles and hiding among them.",
+            "Black 2": "They cool down the surrounding air and create ice particles, which they use to freeze their foes.",
+            "White 2": "They cool down the surrounding air and create ice particles, which they use to freeze their foes."
+        },
+        "Generation VI": {
+            "X": "They cool down the surrounding air and create ice particles, which they use to freeze their foes.",
+            "Y": "Snowy mountains are this Pokémon's habitat. During an ancient ice age, they moved to southern areas.",
+            "Omega Ruby": "They cool down the surrounding air and create ice particles, which they use to freeze their foes.",
+            "Alpha Sapphire": "Snowy mountains are this Pokémon's habitat. During an ancient ice age, they moved to southern areas."
+        },
+        "Generation VII": {
+            "Sun": "Hot days cause its body to melt. It can be restored by refreezing it, but the process leaves its body slightly warped.",
+            "Moon": "This Pokémon has existed since the Ice Age. It controls particles of ice, freezes its opponents, and then shatters them with a headbutt.",
+            "Ultra Sun": "It sprays its enemies with grains of ice to freeze them. Most Vanillish in Alola are smaller than average.",
+            "Ultra Moon": "This hearty Pokémon survived the Ice Age. It's incredibly popular in very hot regions."
+        },
+        "Generation VIII": {
+            "Sword": "By drinking pure water, it grows its icy body. This Pokémon can be hard to find on days with warm, sunny weather.",
+            "Shield": "It blasts enemies with cold air reaching −148 degrees Fahrenheit , freezing them solid. But it spares their lives afterward—it's a kind Pokémon."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Dragonspiral Tower ( dark grass ) Winter",
+            "White": "Dragonspiral Tower ( dark grass ) Winter",
+            "Black 2": "Giant Chasm Dragonspiral Tower Winter",
+            "White 2": "Giant Chasm Dragonspiral Tower Winter",
+            "Dream World": "Icy Cave *"
+        },
+        "Generation VI": {
+            "X": "Evolve Vanillite",
+            "Y": "Evolve Vanillite",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Mount Lanakila ( SOS Battle while hailing )",
+            "Moon": "Mount Lanakila ( SOS Battle while hailing )",
+            "Ultra Sun": "Mount Lanakila ( SOS Battle while hailing )",
+            "Ultra Moon": "Mount Lanakila ( SOS Battle while hailing )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Routes 8 and 10 , Axew's Eye , Dusty Bowl Dappled Grove , North Lake Miloch ( Wanderer ) Dusty Bowl , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Routes 8 and 10 , Axew's Eye , Dusty Bowl Dappled Grove , North Lake Miloch ( Wanderer ) Dusty Bowl , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Frostpoint Field , Giant's Bed , Old Cemetery , Snowslide Slope , Giant's Foot , Frigid Sea , Three-Point Pass , Ballimere Lake Giant's Bed , Giant's Foot , Roaring-Sea Caves , Frigid Sea , Ballimere Lake ( Surfing ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Vanillite",
+            "to": "Vanillish",
+            "method": [
+                "Level 35"
+            ]
+        },
+        {
+            "from": "Vanillish",
+            "to": "Vanilluxe",
+            "method": [
+                "Level 47"
+            ]
+        }
+    ]
+}

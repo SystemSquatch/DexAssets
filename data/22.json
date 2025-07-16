@@ -1,0 +1,145 @@
+{
+    "name": "Fearow",
+    "pokedex_number": "#0022",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Sniper"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 65,
+        "Sp. Atk": 61,
+        "Sp. Def": 61,
+        "Speed": 100,
+        "Total": 442
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
+            "Yellow": "A Pok é mon that dates back many years. If it senses danger, it flies high and away, instantly.",
+            "Stadium": "A Pokémon that enjoys flying. It uses its broad wings to adroitly catch the wind to soar elegantly into the sky."
+        },
+        "Generation II": {
+            "Gold": "It shoots itself suddenly high into the sky, then plummets down in one fell swoop to strike its prey.",
+            "Silver": "It cleverly uses its thin, long beak to pluck and eat small insects that hide under the ground.",
+            "Crystal": "It uses its long beak to attack. It has a surprisingly long reach, so it must be treated with caution.",
+            "Stadium 2": "It shoots itself suddenly high into the sky, then plummets down in one fell swoop to strike its prey. (Pokémon Red, Silver, or Crystal inserted) It cleverly uses its thin, long beak to pluck and eat small insects that hide under the ground. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
+            "Sapphire": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
+            "Emerald": "Its long neck and elongated beak are ideal for catching prey in soil or water. It deftly moves this extended and skinny beak to pluck prey.",
+            "FireRed": "Its huge and magnificent wings can keep it aloft in the sky. It can remain flying a whole day without landing.",
+            "LeafGreen": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest."
+        },
+        "Generation IV": {
+            "Diamond": "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
+            "Pearl": "It has the stamina to keep flying all day on its broad wings. It fights by using its sharp beak.",
+            "Platinum": "It has the stamina to fly all day on its broad wings. It fights using its sharp beak.",
+            "HeartGold": "It shoots itself suddenly high into the sky, then plummets down in one fell swoop to strike its prey.",
+            "SoulSilver": "It cleverly uses its thin, long beak to pluck and eat small insects that hide under the ground."
+        },
+        "Generation V": {
+            "Black": "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
+            "White": "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
+            "Black 2": "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
+            "White 2": "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak."
+        },
+        "Generation VI": {
+            "X": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
+            "Y": "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
+            "Omega Ruby": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
+            "Alpha Sapphire": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey."
+        },
+        "Generation VII": {
+            "Sun": "It's tough and has excellent stamina. It has no problem flying continuously for a whole day carrying a heavy load.",
+            "Moon": "Drawings of a Pokémon resembling Fearow can be seen in murals from deep in ancient history.",
+            "Ultra Sun": "Carrying food through Fearow's territory is dangerous. It will snatch the food away from you in a flash!",
+            "Ultra Moon": "In Alola, fish Pokémon are its prey. It can be seen circling above the ocean searching for food.",
+            "Let's Go Pikachu": "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.",
+            "Let's Go Eevee": "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
+            "Shining Pearl": "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 17 , 18 , and 23",
+            "Blue": "Routes 17 , 18 , and 23",
+            "Blue (Japan)": "Routes 17 , 18 , and 23",
+            "Yellow": "Routes 9 , 16 , 17 , 18 , and 23"
+        },
+        "Generation II": {
+            "Gold": "Routes 9 , 10 , 16 , 17 , 18 , and 22 Morning Day",
+            "Silver": "Routes 9 , 10 , 16 , 17 , 18 , and 22 Morning Day",
+            "Crystal": "Routes 9 , 10 , 16 , 17 , 18 , 22 , and 42 Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Routes 17 , 18 , and 23 , Treasure Beach , Kindle Road , Mt. Ember , Cape Brink , Ruin Valley , Water Path , Canyon Entrance , Sevault Canyon",
+            "LeafGreen": "Routes 17 , 18 , and 23 , Treasure Beach , Kindle Road , Mt. Ember , Cape Brink , Ruin Valley , Water Path , Canyon Entrance , Sevault Canyon",
+            "Colosseum": "Trade",
+            "XD": "Evolve Spearow"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 225 , 226 , and 227 , Stark Mountain",
+            "Pearl": "Routes 225 , 226 , and 227 , Stark Mountain",
+            "Platinum": "Routes 225 , 226 , and 227 , Stark Mountain",
+            "HeartGold": "Routes 9 , 10 , 16 , 17 , 18 , 22 , 47 , and 48 Safari Zone (Peak with 5 Forest points; Desert, default Night , with 6 Peak points Night , and with 3 Plains points; Wasteland, default Night )",
+            "SoulSilver": "Routes 9 , 10 , 16 , 17 , 18 , 22 , 47 , and 48 Safari Zone (Peak with 5 Forest points; Desert, default Night , with 6 Peak points Night , and with 3 Plains points; Wasteland, default Night )",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Route 15",
+            "White": "Route 15",
+            "Black 2": "Route 15 ( Swarm )",
+            "White 2": "Route 15 ( Swarm )"
+        },
+        "Generation VI": {
+            "X": "Victory Road (flying shadow)",
+            "Y": "Victory Road (flying shadow)",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Routes 10 and 17 , Mount Hokulani , Poni Plains",
+            "Moon": "Routes 10 and 17 , Mount Hokulani , Poni Plains",
+            "Ultra Sun": "Routes 10 and 17 , Mount Hokulani , Poni Plains",
+            "Ultra Moon": "Routes 10 and 17 , Mount Hokulani , Poni Plains",
+            "Let's Go Pikachu": "Routes 3 , 4 , 9 , 10 , 22 , and 23",
+            "Let's Go Eevee": "Routes 3 , 4 , 9 , 10 , 22 , and 23"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 225 , 226 , and 227 , Stark Mountain",
+            "Shining Pearl": "Routes 225 , 226 , and 227 , Stark Mountain",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Spearow",
+            "to": "Fearow",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

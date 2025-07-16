@@ -1,0 +1,150 @@
+{
+    "name": "Hitmonlee",
+    "pokedex_number": "#0106",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Limber",
+        "Reckless",
+        "Unburden"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 120,
+        "Defense": 53,
+        "Sp. Atk": 35,
+        "Sp. Def": 110,
+        "Speed": 87,
+        "Total": 455
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+            "Yellow": "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.",
+            "Stadium": "Repeatedly kicks its enemy with legs that freely stretch and contract. Some people refer to it as the \"kicking master.\""
+        },
+        "Generation II": {
+            "Gold": "This amazing Pok é mon has an awesome sense of balance. It can kick in succession from any position.",
+            "Silver": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
+            "Crystal": "It is also called the Kick Master. It uses its elastic legs to execute every known kick.",
+            "Stadium 2": "This amazing Pok é mon has an awesome sense of balance. It can kick in succession from any position. (Pokémon Red, Silver, or Crystal inserted) If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Hitmonlee 's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+            "Sapphire": "Hitmonlee 's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+            "Emerald": "Its legs freely stretch and contract. Using these springlike limbs, it bowls over foes with devastating kicks. After battle, it rubs down its tired legs.",
+            "FireRed": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+            "LeafGreen": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra-long, loping strides."
+        },
+        "Generation IV": {
+            "Diamond": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+            "Pearl": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+            "Platinum": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+            "HeartGold": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.",
+            "SoulSilver": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe."
+        },
+        "Generation V": {
+            "Black": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+            "White": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+            "Black 2": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+            "White 2": "Its legs can stretch double. First-time foes are startled by its extensible reach."
+        },
+        "Generation VI": {
+            "X": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+            "Y": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
+            "Omega Ruby": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+            "Alpha Sapphire": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.",
+            "Let's Go Eevee": "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy."
+        },
+        "Generation VIII": {
+            "Sword": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.",
+            "Shield": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+            "Brilliant Diamond": "Its legs can stretch to double their length. First-time foes are startled by Hitmonlee's extensible reach.",
+            "Shining Pearl": "Its legs can stretch to double their length. First-time foes are startled by Hitmonlee's extensible reach."
+        },
+        "Generation IX": {
+            "Scarlet": "At the exact moment it lands a kick on its target, Hitmonlee hardens the muscles on the sole of its foot, maximizing the power of the kick.",
+            "Violet": "It has complete control over the ligaments in its legs, expanding and contracting them to double the reach of its kicks."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan )",
+            "Blue": "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan )",
+            "Blue (Japan)": "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan )",
+            "Yellow": "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan )"
+        },
+        "Generation II": {
+            "Gold": "Evolve Tyrogue",
+            "Silver": "Evolve Tyrogue",
+            "Crystal": "Evolve Tyrogue"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan )",
+            "LeafGreen": "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan )",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Tyrogue",
+            "Pearl": "Evolve Tyrogue",
+            "Platinum": "Evolve Tyrogue",
+            "HeartGold": "Evolve Tyrogue",
+            "SoulSilver": "Evolve Tyrogue",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Evolve Tyrogue",
+            "White": "Evolve Tyrogue",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Tyrogue",
+            "Y": "Evolve Tyrogue",
+            "Omega Ruby": "Evolve Tyrogue",
+            "Alpha Sapphire": "Evolve Tyrogue"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan ) Victory Road",
+            "Let's Go Eevee": "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan ) Victory Road"
+        },
+        "Generation VIII": {
+            "Sword": "Dusty Bowl Rolling Fields , South Lake Miloch , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Rolling Fields , South Lake Miloch , Stony Wilderness ( Max Raid Battle )",
+            "Sword Expansion Pass": "Frostpoint Field , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Shield Expansion Pass": "Max Lair ( Dynamax Adventures )",
+            "Brilliant Diamond": "Evolve Tyrogue",
+            "Shining Pearl": "Evolve Tyrogue",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Canyon Biome Tera Raid Battles ( 5★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Tyrogue",
+            "to": "Hitmonlee",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

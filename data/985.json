@@ -1,0 +1,35 @@
+{
+    "name": "Scream Tail",
+    "pokedex_number": "#0985",
+    "types": [
+        "Fairy",
+        "Psychic"
+    ],
+    "abilities": [
+        "Protosynthesis"
+    ],
+    "stats": {
+        "HP": 115,
+        "Attack": 65,
+        "Defense": 99,
+        "Sp. Atk": 65,
+        "Sp. Def": 115,
+        "Speed": 111,
+        "Total": 570
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "There has been only one reported sighting of this Pokémon. It resembles a mysterious creature depicted in an old expedition journal.",
+            "Violet": "It resembles a mysterious Pokémon described in a paranormal magazine as a Jigglypuff from one billion years ago."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Area Zero",
+            "Violet": "Union Circle"
+        }
+    },
+    "evolution": []
+}

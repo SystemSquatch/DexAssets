@@ -1,0 +1,52 @@
+{
+    "name": "Lechonk",
+    "pokedex_number": "#0915",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Aroma Veil",
+        "Gluttony",
+        "Thick Fat"
+    ],
+    "stats": {
+        "HP": 54,
+        "Attack": 45,
+        "Defense": 40,
+        "Sp. Atk": 35,
+        "Sp. Def": 45,
+        "Speed": 35,
+        "Total": 254
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It searches for food all day. It possesses a keen sense of smell but doesn’t use it for anything other than foraging.",
+            "Violet": "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five , Poco Path , Pokémon League East Province: Area One , Area Two Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five , Poco Path , Pokémon League East Province: Area One , Area Two Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Lechonk",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Lechonk",
+            "to": "Oinkologne",
+            "method": [
+                "Level 18"
+            ]
+        }
+    ]
+}

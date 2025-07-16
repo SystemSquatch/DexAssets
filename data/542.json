@@ -1,0 +1,87 @@
+{
+    "name": "Leavanny",
+    "pokedex_number": "#0542",
+    "types": [
+        "Bug",
+        "Grass"
+    ],
+    "abilities": [
+        "Swarm",
+        "Chlorophyll",
+        "Overcoat"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 103,
+        "Defense": 80,
+        "Sp. Atk": 70,
+        "Sp. Def": 70,
+        "Speed": 92,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Upon finding a small Pokémon, it weaves clothing for it from leaves, using the cutters on its arms and sticky silk.",
+            "White": "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.",
+            "Black 2": "Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth.",
+            "White 2": "Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth."
+        },
+        "Generation VI": {
+            "X": "Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth.",
+            "Y": "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.",
+            "Omega Ruby": "Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth.",
+            "Alpha Sapphire": "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "This gentle Pokémon has strong protective instincts. The leaves on its arms are sharp enough to slice a thick tree in half with one stroke.",
+            "Violet": "It fashions clothing from woven leaves. Though gentle in disposition, it will show no mercy to foes who target young Pokémon."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 6 , Lostlorn Forest ( Rustling grass )",
+            "White": "Route 6 , Lostlorn Forest ( Rustling grass )",
+            "Black 2": "Routes 6 and 12 , Lostlorn Forest ( Rustling grass ) Lostlorn Forest ( Hidden Grotto )",
+            "White 2": "Routes 6 and 12 , Lostlorn Forest ( Rustling grass ) Lostlorn Forest ( Hidden Grotto )"
+        },
+        "Generation VI": {
+            "X": "Evolve Swadloon",
+            "Y": "Evolve Swadloon",
+            "Omega Ruby": "Evolve Swadloon",
+            "Alpha Sapphire": "Evolve Swadloon"
+        },
+        "Generation VII": {
+            "Sun": "Poni Meadow ( Island Scan ) We",
+            "Moon": "Poni Meadow ( Island Scan ) We",
+            "Ultra Sun": "Poni Meadow ( Island Scan ) We",
+            "Ultra Moon": "Poni Meadow ( Island Scan ) We",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Mossfell Confluence , Wistful Fields Tera Raid Battles ( 4★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Swadloon",
+            "to": "Leavanny",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        }
+    ]
+}

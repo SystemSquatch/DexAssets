@@ -1,0 +1,129 @@
+{
+    "name": "Torchic",
+    "pokedex_number": "#0255",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Blaze",
+        "Speed Boost"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 40,
+        "Sp. Atk": 70,
+        "Sp. Def": 50,
+        "Speed": 45,
+        "Total": 310
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Torchic sticks with its Trainer , following behind with unsteady steps. This Pok é mon breathes fire of over 1,800 degrees F , including fireballs that leave the foe scorched black.",
+            "Sapphire": "Torchic has a place inside its body where it keeps its flame. Give it a hug - it will be glowing with warmth. This Pok é mon is covered all over by a fluffy coat of down.",
+            "Emerald": "If attacked, it strikes back by spitting balls of fire it forms in its stomach. A Torchic dislikes darkness because it can't see its surroundings.",
+            "FireRed": "It has a flame sac inside its belly that perpetually burns. It feels warm if it is hugged.",
+            "LeafGreen": "It has a flame sac inside its belly that perpetually burns. It feels warm if it is hugged."
+        },
+        "Generation IV": {
+            "Diamond": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F .",
+            "Pearl": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F .",
+            "Platinum": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F .",
+            "HeartGold": "Inside its body is a place where it keeps a small flame. Hug it! It will be as warm as a hot-water bottle.",
+            "SoulSilver": "Inside its body is a place where it keeps a small flame. Hug it! It will be as warm as a hot-water bottle."
+        },
+        "Generation V": {
+            "Black": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F .",
+            "White": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F .",
+            "Black 2": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F .",
+            "White 2": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F ."
+        },
+        "Generation VI": {
+            "X": "It has a flame sac inside its belly that perpetually burns. It feels warm if it is hugged.",
+            "Y": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees Fahrenheit .",
+            "Omega Ruby": "Torchic sticks with its Trainer, following behind with unsteady steps. This Pokémon breathes fire of over 1,800 degrees Fahrenheit , including fireballs that leave the foe scorched black.",
+            "Alpha Sapphire": "Torchic has a place inside its body where it keeps its flame. Give it a hug—it will be glowing with warmth. This Pokémon is covered all over by a fluffy coat of down."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "A fire burns inside it, so it feels very warm to hug. It launches fireballs of 1,800 degrees Fahrenheit .",
+            "Shining Pearl": "A fire burns inside it, so it feels very warm to hug. It launches fireballs of 1,800 degrees Fahrenheit ."
+        },
+        "Generation IX": {
+            "Scarlet": "Torchic feels toasty warm if you hug it. It has a flame sac inside its belly, and the flames burn continuously as long as Torchic has life in it.",
+            "Violet": "In its belly, it has a sac filled with burning fire, meaning that Torchic feels as warm as a hot-water bottle if you hug it."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "First partner Pokémon from Professor Birch on Route 101",
+            "Sapphire": "First partner Pokémon from Professor Birch on Route 101",
+            "Emerald": "First partner Pokémon from Professor Birch on Route 101",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Received from Steven Stone in Silph Co. after defeating Red",
+            "SoulSilver": "Received from Steven Stone in Silph Co. after defeating Red",
+            "Pal Park": "Field",
+            "Pokéwalker": "Sightseeing"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer , Global Link Event",
+            "White": "Poké Transfer , Global Link Event",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade , Event",
+            "Y": "Trade , Event",
+            "Omega Ruby": "First partner Pokémon from Professor Birch on Route 101",
+            "Alpha Sapphire": "First partner Pokémon from Professor Birch on Route 101"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Combusken or Blaziken",
+            "Ultra Moon": "Breed Combusken or Blaziken",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Breed Combusken or Blaziken",
+            "Brilliant Diamond": "Grand Underground - Sandsear Cave , Typhlo Cavern , Volcanic Cave (after obtaining the National Pokédex )",
+            "Shining Pearl": "Grand Underground - Sandsear Cave , Typhlo Cavern , Volcanic Cave (after obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Polar Biome (after boosting biodiversity in the Polar Biome)"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Torchic",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Torchic",
+            "to": "Combusken",
+            "method": [
+                "Level 16"
+            ]
+        }
+    ]
+}

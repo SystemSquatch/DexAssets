@@ -1,0 +1,36 @@
+{
+    "name": "Tatsugiri",
+    "pokedex_number": "#0978",
+    "types": [
+        "Dragon",
+        "Water"
+    ],
+    "abilities": [
+        "Commander",
+        "Storm Drain"
+    ],
+    "stats": {
+        "HP": 68,
+        "Attack": 50,
+        "Defense": 60,
+        "Sp. Atk": 120,
+        "Sp. Def": 95,
+        "Speed": 82,
+        "Total": 475
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Bird Pokémon are its main prey. This Pokémon knows it's weak, so it hunts with a partner.",
+            "Violet": "It's one of the most intelligent dragon Pokémon. It camouflages itself by inflating its throat sac."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "North Province: Casseroya Lake ( All Forms ) North Province: Casseroya Lake Former Titan ( Only one ) ( Curly Form ) Tera Raid Battles ( 5★ ) ( All Forms )",
+            "Violet": "North Province: Casseroya Lake ( All Forms ) North Province: Casseroya Lake Former Titan ( Only one ) ( Curly Form ) Tera Raid Battles ( 5★ ) ( All Forms )"
+        }
+    },
+    "evolution": []
+}

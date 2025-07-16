@@ -1,0 +1,154 @@
+{
+    "name": "Nidoran♀",
+    "pokedex_number": "#0029",
+    "types": [
+        "Poison",
+        "Unknown"
+    ],
+    "abilities": [
+        "Poison Point",
+        "Rivalry",
+        "Hustle"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 47,
+        "Defense": 52,
+        "Sp. Atk": 40,
+        "Sp. Def": 40,
+        "Speed": 41,
+        "Total": 275
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Although small, its venomous barbs render this Pok é mon dangerous. The female has smaller horns.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Although small, its venomous barbs render this Pok é mon dangerous. The female has smaller horns.",
+            "Yellow": "A mild-mannered Pok é mon that does not like to fight. Beware, its small horns secrete venom.",
+            "Stadium": "Although small, it should be treated with caution because of its highly toxic thorns. The female has a small horn."
+        },
+        "Generation II": {
+            "Gold": "The poison hidden in its small horn is extremely potent. Even a tiny scratch can have fatal results.",
+            "Silver": "Although not very combative, it will torment its foes with poison spikes if it is threatened in any way.",
+            "Crystal": "Small and very docile, it protects itself with its small, poisonous horn when attacked.",
+            "Stadium 2": "The poison hidden in its small horn is extremely potent. Even a tiny scratch can have fatal results. (Pokémon Red, Silver, or Crystal inserted) Although not very combative, it will torment its foes with poison spikes if it is threatened in any way. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Nidoran has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pok é mon . When enraged, it releases a horrible toxin from its horn.",
+            "Sapphire": "Nidoran has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pok é mon . When enraged, it releases a horrible toxin from its horn.",
+            "Emerald": "Its highly toxic barbs are thought to have developed as protection for this small- bodied Pok é mon . When enraged, it releases a horrible toxin from its horn.",
+            "FireRed": "Though small, it must be treated with caution because of its powerfully toxic barbs. The female has smaller horns.",
+            "LeafGreen": "Although small, its venomous barbs render this Pok é mon dangerous. The female has smaller horns."
+        },
+        "Generation IV": {
+            "Diamond": "While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.",
+            "Pearl": "While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.",
+            "Platinum": "While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.",
+            "HeartGold": "The poison hidden in its small horn is extremely potent. Even a tiny scratch can have fatal results.",
+            "SoulSilver": "Although not very combative, it will torment its foes with poison spikes if it is threatened in any way."
+        },
+        "Generation V": {
+            "Black": "While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.",
+            "White": "While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.",
+            "Black 2": "While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.",
+            "White 2": "While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal."
+        },
+        "Generation VI": {
+            "X": "Although small, its venomous barbs render this Pokémon dangerous. The female has smaller horns.",
+            "Y": "Small and very docile, it protects itself with its small, poisonous horn when attacked.",
+            "Omega Ruby": "Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
+            "Alpha Sapphire": "Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "A mild-mannered Pokémon that does not like to fight. Beware—its small horn secretes venom.",
+            "Let's Go Eevee": "A mild-mannered Pokémon that does not like to fight. Beware—its small horn secretes venom."
+        },
+        "Generation VIII": {
+            "Sword": "Females are more sensitive to smells than males. While foraging, they'll use their whiskers to check wind direction and stay downwind of predators.",
+            "Shield": "It uses its hard incisor teeth to crush and eat berries. The tip of a female Nidoran's horn is a bit more rounded than the tip of a male's horn.",
+            "Brilliant Diamond": "While this Pokémon does not prefer to fight, even one drop of the venom it secretes from its barbs can be fatal.",
+            "Shining Pearl": "While this Pokémon does not prefer to fight, even one drop of the venom it secretes from its barbs can be fatal."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Route 22 , Safari Zone Trade Nidoran♂ in Underground Path (Kanto Routes 5–6) (Western languages only)",
+            "Blue": "Route 22 , Safari Zone Trade Nidoran♂ in Underground Path (Kanto Routes 5–6) (Western languages only)",
+            "Blue (Japan)": "Route 22 , Safari Zone",
+            "Yellow": "Routes 2 , 9 , 10 , and 22 , Safari Zone"
+        },
+        "Generation II": {
+            "Gold": "Routes 35 and 36",
+            "Silver": "Routes 35 and 36",
+            "Crystal": "National Park Morning Day Route 35 ( Swarm )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Route 3 , Safari Zone Trade Nidoran♂ in Underground Path (Kanto Routes 5–6)",
+            "LeafGreen": "Route 3 , Safari Zone",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 201 ( Poké Radar )",
+            "Pearl": "Route 201 ( Poké Radar )",
+            "Platinum": "Route 201 ( Poké Radar )",
+            "HeartGold": "Routes 35 and 36 Safari Zone Morning Day (Savannah, default)",
+            "SoulSilver": "Routes 35 and 36 Safari Zone Morning Day (Savannah, default)",
+            "Pal Park": "Field",
+            "Pokéwalker": "Refreshing Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Route 2 ( Hidden Grotto )",
+            "White 2": "Route 2 ( Hidden Grotto )",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Route 11 ( Horde Encounter )",
+            "Y": "Route 11 ( Horde Encounter )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Routes 9 , 10 , 22 and 23",
+            "Let's Go Eevee": "Routes 9 , 10 , 22 and 23"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Giant's Bed , Old Cemetery Frostpoint Field ( Wanderer ) Giant's Bed , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 201 ( Poké Radar ) Grand Underground - Grassland Cave , Swampy Cave , Riverbank Cave , Dazzling Cave , Still-Water Cavern , Sunlit Cavern , Stargleam Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 201 ( Poké Radar ) Grand Underground - Grassland Cave , Swampy Cave , Riverbank Cave , Dazzling Cave , Still-Water Cavern , Sunlit Cavern , Stargleam Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Nidoran♀",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Nidoran♀",
+            "to": "Nidorina",
+            "method": [
+                "Level 16"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Sandy Shocks",
+    "pokedex_number": "#0989",
+    "types": [
+        "Electric",
+        "Ground"
+    ],
+    "abilities": [
+        "Protosynthesis"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 81,
+        "Defense": 97,
+        "Sp. Atk": 121,
+        "Sp. Def": 85,
+        "Speed": 101,
+        "Total": 570
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "No records exist of this Pokémon being caught. Data is lacking, but the Pokémon’s traits match up with a creature shown in an expedition journal.",
+            "Violet": "It slightly resembles a Magneton that lived for 10,000 years and was featured in an article in a paranormal magazine."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Area Zero",
+            "Violet": "Union Circle"
+        }
+    },
+    "evolution": []
+}

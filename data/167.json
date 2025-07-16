@@ -1,0 +1,145 @@
+{
+    "name": "Spinarak",
+    "pokedex_number": "#0167",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "abilities": [
+        "Swarm",
+        "Insomnia",
+        "Sniper"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 60,
+        "Defense": 40,
+        "Sp. Atk": 40,
+        "Sp. Def": 40,
+        "Speed": 30,
+        "Total": 250
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
+            "Silver": "It spins a web using fine--but durable--thread. It then waits patiently for prey to be trapped.",
+            "Crystal": "If prey becomes ensnared in its nest of spun string, it waits motionlessly until it becomes dark.",
+            "Stadium 2": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close. (Pokémon Red, Silver, or Crystal inserted) It spins a web using fine--but durable--thread. It then waits patiently for prey to be trapped. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "The web spun by Spinarak can be considered its second nervous system. It is said that this Pok é mon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands.",
+            "Sapphire": "The web spun by Spinarak can be considered its second nervous system. It is said that this Pok é mon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands.",
+            "Emerald": "The web it spins can be considered its second nervous system. It is said that a Spinarak determines its prey by the tiny vibrations it feels through the web.",
+            "FireRed": "It spins a web using fine--but durable--thread. It then waits patiently for prey to be trapped.",
+            "LeafGreen": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close."
+        },
+        "Generation IV": {
+            "Diamond": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.",
+            "Pearl": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.",
+            "Platinum": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.",
+            "HeartGold": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
+            "SoulSilver": "It spins a web using fine--but durable--thread. It then waits patiently for prey to be trapped."
+        },
+        "Generation V": {
+            "Black": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.",
+            "White": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.",
+            "Black 2": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.",
+            "White 2": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive."
+        },
+        "Generation VI": {
+            "X": "It spins a web using fine--but durable--thread. It then waits patiently for prey to be trapped.",
+            "Y": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
+            "Omega Ruby": "The web spun by Spinarak can be considered its second nervous system. It is said that this Pokémon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands.",
+            "Alpha Sapphire": "The web spun by Spinarak can be considered its second nervous system. It is said that this Pokémon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands."
+        },
+        "Generation VII": {
+            "Sun": "It waits intently until its preferred prey, Cutiefly , gets caught in its web. In fact, it's quite a patient Pokémon.",
+            "Moon": "Some fishermen weave its sturdy thread into nets to catch fish Pokémon.",
+            "Ultra Sun": "With threads from its mouth, it fashions sturdy webs that won't break even if you set a rock on them.",
+            "Ultra Moon": "Although the poison from its fangs isn't that strong, it's potent enough to weaken prey that gets caught in its web."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It sets a trap by spinning a web with thin but strong thread. It waits motionlessly for prey to arrive.",
+            "Shining Pearl": "It sets a trap by spinning a web with thin but strong thread. It waits motionlessly for prey to arrive."
+        },
+        "Generation IX": {
+            "Scarlet": "Even while there are prey ensnared in its nest of spun thread, Spinarak will wait motionlessly until darkness falls.",
+            "Violet": "Some fishers weave its sturdy thread into nets to catch fish Pokémon."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 2 , 30 , 31 , and 37 Night",
+            "Silver": "Trade",
+            "Crystal": "Routes 2 , 30 , 31 , 36 , and 37 , National Park Night Routes 29 , 30 , 31 , 34 , 35 , 36 , 37 , 38 , and 39 ( Headbutt trees )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Safari Zone extension",
+            "FireRed": "Pattern Bush",
+            "LeafGreen": "Pattern Bush",
+            "Colosseum": "Trade",
+            "XD": "Cipher Lab (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Breed Ariados",
+            "Pearl": "Breed Ariados",
+            "Platinum": "Breed Ariados",
+            "HeartGold": "Route 2 Morning Night Routes 30 , 31 , and 37 Night Routes 1 , 2 , 12 , 13 , 14 , 15 , 18 , 21 , 22 , 26 , 27 , 29 , 30 , 31 , 34 , 35 , 36 , 37 , 38 , 39 , 47 , and 48 , New Bark Town , Cherrygrove City , National Park , Safari Zone Gate , Ecruteak City , Pallet Town , Viridian Forest , Viridian City , Fuchsia City ( Headbutt trees )",
+            "SoulSilver": "Trade",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Breed Ariados",
+            "White": "Breed Ariados",
+            "Black 2": "Breed Ariados",
+            "White 2": "Trade",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Breed Ariados",
+            "Y": "Breed Ariados",
+            "Omega Ruby": "Breed Ariados",
+            "Alpha Sapphire": "Breed Ariados"
+        },
+        "Generation VII": {
+            "Sun": "Route 1 Night",
+            "Moon": "Route 1 Night",
+            "Ultra Sun": "Route 1 Night",
+            "Ultra Moon": "Route 1 Night",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Breed Ariados",
+            "Shining Pearl": "Breed Ariados",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Apple Hills , Loyalty Plaza , Reveler's Road , Kitakami Hall , Mossfell Confluence , Fellhorn Gorge , Kitakami Wilds , Timeless Woods Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Spinarak",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Spinarak",
+            "to": "Ariados",
+            "method": [
+                "Level 22"
+            ]
+        }
+    ]
+}

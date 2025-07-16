@@ -1,0 +1,162 @@
+{
+    "name": "Chansey",
+    "pokedex_number": "#0113",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Natural Cure",
+        "Serene Grace",
+        "Healer"
+    ],
+    "stats": {
+        "HP": 250,
+        "Attack": 5,
+        "Defense": 5,
+        "Sp. Atk": 35,
+        "Sp. Def": 105,
+        "Speed": 50,
+        "Total": 450
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "A rare and elusive Pok é mon that is said to bring happiness to those who manage to get it.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "A rare and elusive Pok é mon that is said to bring happiness to those who manage to get it.",
+            "Yellow": "A gentle and kind-hearted Pok é mon that shares its nutritious eggs if it sees an injured Pok é mon .",
+            "Stadium": "Lays very succulent eggs every day. If it is treated with love and care, its eggs appear to become even more delicious."
+        },
+        "Generation II": {
+            "Gold": "It walks carefully to prevent its egg from breaking. However, it is extremely fast at running away.",
+            "Silver": "Few in number and difficult to capture, it is said to bring happiness to the trainer who catches it.",
+            "Crystal": "People try to catch it for its extremely nutritious eggs, but it rarely can be found.",
+            "Stadium 2": "It walks carefully to prevent its egg from breaking. However, it is extremely fast at running away. (Pokémon Red, Silver, or Crystal inserted) Few in number and difficult to capture, it is said to bring happiness to the trainer who catches it. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
+            "Sapphire": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
+            "Emerald": "Chansey lay nutritionally excellent eggs every day. The eggs are so delicious, they are eagerly devoured by even those people who have lost their appetite.",
+            "FireRed": "It lays several eggs a day. The eggs are apparently rich in nutrients and extremely delicious.",
+            "LeafGreen": "A rare and elusive Pok é mon that is said to bring happiness to those who manage to catch one."
+        },
+        "Generation IV": {
+            "Diamond": "It is said to deliver happiness. Being compassionate, it shares its eggs with injured people.",
+            "Pearl": "It lays several eggs a day and won't share them with those who have evil in their hearts.",
+            "Platinum": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",
+            "HeartGold": "It walks carefully to prevent its egg from breaking. However, it is extremely fast at running away.",
+            "SoulSilver": "Being few in number and difficult to capture, it is said to bring happiness to the Trainer who catches it."
+        },
+        "Generation V": {
+            "Black": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",
+            "White": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",
+            "Black 2": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",
+            "White 2": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people."
+        },
+        "Generation VI": {
+            "X": "It is said to deliver happiness. Being compassionate, it shares its eggs with injured people.",
+            "Y": "It lays several eggs a day. The eggs are apparently rich in nutrients and extremely delicious.",
+            "Omega Ruby": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
+            "Alpha Sapphire": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite."
+        },
+        "Generation VII": {
+            "Sun": "The eggs laid by Chansey are rich in nutrients and a favorite food of many Pokémon.",
+            "Moon": "Not only are these Pokémon fast runners, they're also few in number, so anyone who finds one must be lucky indeed.",
+            "Ultra Sun": "It seems that other Pokémon's efforts to take its delicious, nutritious egg away from it caused Chansey to get faster at fleeing.",
+            "Ultra Moon": "Because the eggs on their bellies have been overharvested by people in the past, the Chansey population remains very small.",
+            "Let's Go Pikachu": "A gentle and kindhearted Pokémon that shares its nutritious eggs if it sees an injured Pokémon.",
+            "Let's Go Eevee": "A gentle and kindhearted Pokémon that shares its nutritious eggs if it sees an injured Pokémon."
+        },
+        "Generation VIII": {
+            "Sword": "The egg Chansey carries is not only delicious but also packed with nutrition. It's used as a high-class cooking ingredient.",
+            "Shield": "This species was once very slow. To protect their eggs from other creatures, these Pokémon became able to flee quickly.",
+            "Brilliant Diamond": "It is said to deliver happiness. Being compassionate, it shares its eggs with injured people.",
+            "Shining Pearl": "It lays several eggs a day and won't share them with those who have evil in their hearts.",
+            "Legends: Arceus": "This purehearted Pokémon shares its eggs with the injured. These eggs are so nutritious that they've been nicknamed \"doctors' doubles.\""
+        },
+        "Generation IX": {
+            "Scarlet": "This kindly Pokémon lays highly nutritious eggs and shares them with injured Pokémon or people.",
+            "Violet": "It walks carefully to prevent its egg from breaking. However, it is extremely fast at running away."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Safari Zone , Cerulean Cave",
+            "Blue": "Safari Zone , Cerulean Cave",
+            "Blue (Japan)": "Safari Zone , Cerulean Cave",
+            "Yellow": "Safari Zone , Cerulean Cave"
+        },
+        "Generation II": {
+            "Gold": "Routes 13 , 14 , and 15",
+            "Silver": "Routes 13 , 14 , and 15",
+            "Crystal": "Routes 13 , 14 , and 15"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Safari Zone",
+            "LeafGreen": "Safari Zone",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 209 and 210 , Trophy Garden",
+            "Pearl": "Routes 209 and 210 , Trophy Garden",
+            "Platinum": "Routes 209 and 210 , Trophy Garden",
+            "HeartGold": "Routes 13 , 14 , and 15 Safari Zone (tall grass in Meadow with 12 Plains points)",
+            "SoulSilver": "Routes 13 , 14 , and 15 Safari Zone (tall grass in Meadow with 12 Plains points)",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Happiny",
+            "Black 2": "Evolve Happiny",
+            "White 2": "Evolve Happiny",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Normal )",
+            "Y": "Friend Safari ( Normal )",
+            "Omega Ruby": "Evolve Happiny",
+            "Alpha Sapphire": "Evolve Happiny"
+        },
+        "Generation VII": {
+            "Sun": "Route 12 , Mount Hokulani , Blush Mountain , Poni Grove ( SOS Battle )",
+            "Moon": "Route 12 , Mount Hokulani , Blush Mountain , Poni Grove ( SOS Battle )",
+            "Ultra Sun": "Poni Plains",
+            "Ultra Moon": "Poni Plains",
+            "Let's Go Pikachu": "Routes 5 , 6 , 8 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 21 and 23 , Diglett's Cave , Mt. Moon , Pokémon Tower , Power Plant , Pokémon Mansion , Cerulean Cave",
+            "Let's Go Eevee": "Routes 5 , 6 , 8 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 21 and 23 , Diglett's Cave , Mt. Moon , Pokémon Tower , Power Plant , Pokémon Mansion , Cerulean Cave"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Fields of Honor , Brawlers' Cave , Challenge Beach , Challenge Road , Courageous Cavern , Forest of Focus , Honeycalm Island , Insular Sea , Loop Lagoon , Potbottom Desert , Soothing Wetlands , Stepping-Stone Sea , Training Lowlands , Warm-Up Tunnel , Workout Sea Fields of Honor , Loop Lagoon ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Routes 209 and 210 , Trophy Garden",
+            "Shining Pearl": "Routes 209 and 210 , Trophy Garden",
+            "Legends: Arceus": "Obsidian Fieldlands : near Horseshoe Plains ( mass outbreaks ), near Obsidian Falls Crimson Mirelands : Cottonsedge Prairie (mass outbreaks) Cobalt Coastlands : Hideaway Bay , Tombolo Walk and nearby (additional ), massive mass outbreaks Coronet Highlands : Lonely Spring (mass outbreaks) Alabaster Icelands : Avalanche Slopes"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Four , Area Six East Province: Area Two West Province: Area Two , Area Three North Province: Area One , Area Two , Area Three , Casseroya Lake Area Zero Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area Four , Area Six East Province: Area Two West Province: Area Two , Area Three North Province: Area One , Area Two , Area Three , Casseroya Lake Area Zero Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Happiny",
+            "to": "Chansey",
+            "method": [
+                "Level up (holding Oval Stone, during the day)"
+            ]
+        },
+        {
+            "from": "Chansey",
+            "to": "Blissey",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        }
+    ]
+}

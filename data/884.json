@@ -1,0 +1,65 @@
+{
+    "name": "Duraludon",
+    "pokedex_number": "#0884",
+    "types": [
+        "Steel",
+        "Dragon"
+    ],
+    "abilities": [
+        "Light Metal",
+        "Heavy Metal",
+        "Stalwart"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 95,
+        "Defense": 115,
+        "Sp. Atk": 120,
+        "Sp. Def": 50,
+        "Speed": 85,
+        "Total": 535
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Its body resembles polished metal, and it's both lightweight and strong. The only drawback is that it rusts easily.",
+            "Shield": "The special metal that composes its body is very light, so this Pokémon has considerable agility. It lives in caves because it dislikes the rain."
+        },
+        "Generation IX": {
+            "Scarlet": "Duraludon’s body is comprised of a special metal that’s lightweight and scratch resistant. It’s also smooth, as though it was given a mirror finish.",
+            "Violet": "Its metal body is durable but prone to retaining heat. It vents this heat from the slits in its tail."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Route 10 , Giant's Seat , Lake of Outrage Trade Frosmoth in Wyndon Giant's Seat , Stony Wilderness , Dusty Bowl ( Max Raid Battle ) Giant's Seat ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Shield": "Route 10 , Giant's Seat , Lake of Outrage Trade Frosmoth in Wyndon Giant's Seat , Stony Wilderness , Dusty Bowl ( Max Raid Battle ) Giant's Seat ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Expansion Pass": "Giant's Bed , Path to the Peak , Three-Point Pass , Ballimere Lake , Frigid Sea ( Max Raid Battle ) ( Gigantamax Factor ) Max Lair ( Dynamax Adventure ) ( Gigantamax Factor )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Chargestone Cavern , Polar Biome Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Duraludon",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Duraludon",
+            "to": "Archaludon",
+            "method": [
+                "Unknown"
+            ]
+        }
+    ]
+}

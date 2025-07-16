@@ -1,0 +1,89 @@
+{
+    "name": "Samurott",
+    "pokedex_number": "#0503",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Shell Armor",
+        "Sharpness"
+    ],
+    "stats": {
+        "HP": 95,
+        "Attack": 100,
+        "Defense": 85,
+        "Sp. Atk": 108,
+        "Sp. Def": 70,
+        "Speed": 70,
+        "Total": 528
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.",
+            "White": "Part of the armor on its anterior legs becomes a giant sword. Its cry alone is enough to intimidate most enemies.",
+            "Black 2": "In the time it takes a foe to blink, it can draw and sheathe the seamitars attached to its front legs.",
+            "White 2": "In the time it takes a foe to blink, it can draw and sheathe the seamitars attached to its front legs."
+        },
+        "Generation VI": {
+            "X": "In the time it takes a foe to blink, it can draw and sheathe the seamitars attached to its front legs.",
+            "Y": "One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.",
+            "Omega Ruby": "In the time it takes a foe to blink, it can draw and sheathe the seamitars attached to its front legs.",
+            "Alpha Sapphire": "One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Legends: Arceus": "Hard of heart and deft of blade, this rare form of Samurott is a product of the Pokémon's evolution in the region of Hisui . Its turbulent blows crash into foes like ceaseless pounding waves."
+        },
+        "Generation IX": {
+            "Scarlet": "A master of a sword-drawing art called iaijutsu, Samurott settles its battles with a single swing of either large sword sheathed in its foreleg armor.",
+            "Violet": "Samurott leads its group strictly. Those who do not follow its rules receive a merciless thrashing."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Dewott",
+            "White": "Evolve Dewott",
+            "Black 2": "Evolve Dewott",
+            "White 2": "Evolve Dewott"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Dewott",
+            "Alpha Sapphire": "Evolve Dewott"
+        },
+        "Generation VII": {
+            "Sun": "Poni Wilds ( Island Scan ) Fr",
+            "Moon": "Poni Wilds ( Island Scan ) Fr",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Alabaster Icelands : Space-time distortions (after completing Mission 18), massive mass outbreaks (after completing Request 102) ( Hisuian Form ) Unobtainable ( Unovan Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade , Poké Portal News ( Unovan Form ) Pokémon HOME , Poké Portal News ( Hisuian Form )",
+            "Violet": "Trade , Poké Portal News ( Unovan Form ) Pokémon HOME , Poké Portal News ( Hisuian Form )",
+            "The Hidden Treasure of Area Zero": "Evolve Dewott ( Unovan Form ) Evolve Dewott in Pokémon Legends: Arceus via Pokémon HOME ( Hisuian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Dewott",
+            "to": "Samurott",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

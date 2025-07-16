@@ -1,0 +1,78 @@
+{
+    "name": "Dewpider",
+    "pokedex_number": "#0751",
+    "types": [
+        "Water",
+        "Bug"
+    ],
+    "abilities": [
+        "Water Bubble",
+        "Water Absorb"
+    ],
+    "stats": {
+        "HP": 38,
+        "Attack": 40,
+        "Defense": 52,
+        "Sp. Atk": 40,
+        "Sp. Def": 72,
+        "Speed": 27,
+        "Total": 269
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It crawls onto the land in search of food. Its water bubble allows it to breathe and protects its soft head.",
+            "Moon": "When it comes across enemies or potential prey, this Pokémon smashes its water-bubble-covered head into them.",
+            "Ultra Sun": "When two Dewpider meet, they display their water bubbles to each other. Then the one with the smaller bubble gets out of the other's way.",
+            "Ultra Moon": "It can only breathe oxygen that has dissolved in water, so it wears a water bubble on its head when it walks around on land."
+        },
+        "Generation VIII": {
+            "Sword": "It forms a water bubble at the rear of its body and then covers its head with it. Meeting another Dewpider means comparing water-bubble sizes.",
+            "Shield": "Dewpider normally lives underwater. When it comes onto land in search of food, it takes water with it in the form of a bubble on its head."
+        },
+        "Generation IX": {
+            "Scarlet": "Dewpider uses sticky threads to create the water bubble that covers its head, so the bubble very rarely bursts.",
+            "Violet": "It supports the water bubble that envelops its head with three of its legs. Sometimes it secretly swaps which legs are holding up the bubble."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Brooklet Hill Day ( Surfing and walking)",
+            "Moon": "Brooklet Hill Day ( Surfing and walking)",
+            "Ultra Sun": "Brooklet Hill Day ( Surfing and walking)",
+            "Ultra Moon": "Brooklet Hill Day ( Surfing and walking)",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 5 , Motostoke Riverbank , Stony Wilderness Rolling Fields , Dappled Grove , West Lake Axewell , South Lake Miloch , Bridge Field , Lake of Outrage , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Route 5 , Motostoke Riverbank , Stony Wilderness Rolling Fields , Dappled Grove , West Lake Axewell , South Lake Miloch , Bridge Field , Lake of Outrage , Dusty Bowl ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed , Old Cemetery , Giant's Foot , Frigid Sea , Three-Point Pass , Ballimere Lake",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Savanna Biome , Coastal Biome , Torchlit Labyrinth Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Dewpider",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Dewpider",
+            "to": "Araquanid",
+            "method": [
+                "Level 22"
+            ]
+        }
+    ]
+}

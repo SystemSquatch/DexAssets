@@ -1,0 +1,152 @@
+{
+    "name": "Nidorino",
+    "pokedex_number": "#0033",
+    "types": [
+        "Poison",
+        "Unknown"
+    ],
+    "abilities": [
+        "Poison Point",
+        "Rivalry",
+        "Hustle"
+    ],
+    "stats": {
+        "HP": 61,
+        "Attack": 72,
+        "Defense": 57,
+        "Sp. Atk": 55,
+        "Sp. Def": 55,
+        "Speed": 65,
+        "Total": 365
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "An aggressive Pok é mon that is quick to attack. The horn on its head secretes a powerful venom.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "An aggressive Pok é mon that is quick to attack. The horn on its head secretes a powerful venom.",
+            "Yellow": "Its horns contain venom. If they are stabbed into an enemy, the impact makes the poison leak out.",
+            "Stadium": "Its horn is harder than diamond. If it punctures an enemy, it pumps powerful venom into the wound."
+        },
+        "Generation II": {
+            "Gold": "It raises its big ears to check its surroundings. If it senses anything, it attacks immediately.",
+            "Silver": "Quick to anger, it stabs enemies with its horn to inject a powerful poison when it becomes agitated.",
+            "Crystal": "It is easily agitated and uses its horn for offense as soon as it notices an attacker.",
+            "Stadium 2": "It raises its big ears to check its surroundings. If it senses anything, it attacks immediately. (Pokémon Red, Silver, or Crystal inserted) Quick to anger, it stabs enemies with its horn to inject a powerful poison when it becomes agitated. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
+            "Sapphire": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
+            "Emerald": "Its horn is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
+            "FireRed": "It is easily angered. By swinging its well-developed horn wildly, it can even punch through diamond.",
+            "LeafGreen": "An aggressive Pok é mon that is quick to attack. The horn on its head secretes a powerful venom."
+        },
+        "Generation IV": {
+            "Diamond": "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",
+            "Pearl": "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",
+            "Platinum": "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",
+            "HeartGold": "It raises its big ears to check its surroundings. If it senses anything, it attacks immediately.",
+            "SoulSilver": "Quick to anger, it stabs enemies with its horn to inject a powerful poison when it becomes agitated."
+        },
+        "Generation V": {
+            "Black": "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",
+            "White": "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",
+            "Black 2": "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",
+            "White 2": "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact."
+        },
+        "Generation VI": {
+            "X": "It raises its big ears to check its surroundings. If it senses anything, it attacks immediately.",
+            "Y": "An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom.",
+            "Omega Ruby": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
+            "Alpha Sapphire": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Its horn contains venom. If it stabs an enemy with the horn, the impact makes the poison leak out.",
+            "Let's Go Eevee": "Its horn contains venom. If it stabs an enemy with the horn, the impact makes the poison leak out."
+        },
+        "Generation VIII": {
+            "Sword": "With a horn that's harder than diamond, this Pokémon goes around shattering boulders as it searches for a moon stone .",
+            "Shield": "It's nervous and quick to act aggressively. The potency of its poison increases along with the level of adrenaline present in its body.",
+            "Brilliant Diamond": "It has a violent disposition and stabs foes with its horn, which oozes venom upon impact.",
+            "Shining Pearl": "It has a violent disposition and stabs foes with its horn, which oozes venom upon impact."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Safari Zone",
+            "Blue": "Safari Zone , Celadon Game Corner",
+            "Blue (Japan)": "Safari Zone",
+            "Yellow": "Routes 9 and 23 , Safari Zone"
+        },
+        "Generation II": {
+            "Gold": "Routes 13 , 14 , and 15",
+            "Silver": "Routes 13 , 14 , and 15",
+            "Crystal": "Routes 13 , 14 , and 15 Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Safari Zone",
+            "LeafGreen": "Safari Zone Trade Nidorina on Route 11",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 221 , Valor Lakefront ( Poké Radar )",
+            "Pearl": "Route 221 , Valor Lakefront ( Poké Radar )",
+            "Platinum": "Route 221 , Valor Lakefront ( Poké Radar )",
+            "HeartGold": "Routes 13 , 14 , and 15 Safari Zone Night (Savannah, default)",
+            "SoulSilver": "Routes 13 , 14 , and 15 Safari Zone Night (Savannah, default)",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Nidoran♂",
+            "Black 2": "Evolve Nidoran♂",
+            "White 2": "Evolve Nidoran♂"
+        },
+        "Generation VI": {
+            "X": "Route 11",
+            "Y": "Route 11",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Routes 9 , 10 and 23",
+            "Let's Go Eevee": "Routes 9 , 10 and 23"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Giant's Bed ( Wanderer ) Giant's Bed , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 221 , Valor Lakefront ( Poké Radar ) Grand Underground - Grassland Cave , Swampy Cave , Riverbank Cave , Dazzling Cave , Still-Water Cavern , Sunlit Cavern , Stargleam Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 221 , Valor Lakefront ( Poké Radar ) Grand Underground - Grassland Cave , Swampy Cave , Riverbank Cave , Dazzling Cave , Still-Water Cavern , Sunlit Cavern , Stargleam Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Nidoran-m",
+            "to": "Nidorino",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Nidorino",
+            "to": "Nidoking",
+            "method": [
+                "Use Moon Stone"
+            ]
+        }
+    ]
+}

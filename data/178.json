@@ -1,0 +1,134 @@
+{
+    "name": "Xatu",
+    "pokedex_number": "#0178",
+    "types": [
+        "Psychic",
+        "Flying"
+    ],
+    "abilities": [
+        "Synchronize",
+        "Early Bird",
+        "Magic Bounce"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 75,
+        "Defense": 70,
+        "Sp. Atk": 95,
+        "Sp. Def": 70,
+        "Speed": 95,
+        "Total": 470
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+            "Silver": "In South America, it is said that its right eye sees the future and its left eye views the past.",
+            "Crystal": "Once it begins to meditate at sunrise, the entire day will pass before it will move again.",
+            "Stadium 2": "They say that it stays still and quiet because it is seeing both the past and future at the same time. (Pokémon Red, Silver, or Crystal inserted) In South America, it is said that its right eye sees the future and its left eye views the past. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Xatu stands rooted and still in one spot all day long. People believe that this Pok é mon does so out of fear of the terrible things it has foreseen in the future.",
+            "Sapphire": "Xatu is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical Pok é mon out of their belief that Xatu is in possession of the power to see into the future.",
+            "Emerald": "It has the enigmatic power of foreseeing the future. Some people in different lands have long believed that Xatu are emissaries from another world.",
+            "FireRed": "In South America, it is said that its right eye sees the future and its left eye views the past.",
+            "LeafGreen": "They say that it stays still and quiet because it is seeing both the past and future at the same time."
+        },
+        "Generation IV": {
+            "Diamond": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.",
+            "Pearl": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.",
+            "Platinum": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.",
+            "HeartGold": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+            "SoulSilver": "In South America, it is said that its right eye sees the future and its left eye views the past."
+        },
+        "Generation V": {
+            "Black": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.",
+            "White": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.",
+            "Black 2": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.",
+            "White 2": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day."
+        },
+        "Generation VI": {
+            "X": "Once it begins to meditate at sunrise, the entire day will pass before it will move again.",
+            "Y": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+            "Omega Ruby": "Xatu stands rooted and still in one spot all day long. People believe that this Pokémon does so out of fear of the terrible things it has foreseen in the future.",
+            "Alpha Sapphire": "Xatu is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical Pokémon out of their belief that Xatu is in possession of the power to see into the future."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It's said that while this Pokémon has the power to predict the future, it's not powerful enough to change the future it sees.",
+            "Ultra Moon": "While it can see the future, it has no desire to change it, which is probably why it remains motionless at all times."
+        },
+        "Generation VIII": {
+            "Sword": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+            "Shield": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.",
+            "Brilliant Diamond": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.",
+            "Shining Pearl": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Natu",
+            "Silver": "Evolve Natu",
+            "Crystal": "Trade Haunter in Pewter City"
+        },
+        "Generation III": {
+            "Ruby": "Safari Zone",
+            "Sapphire": "Safari Zone",
+            "Emerald": "Safari Zone",
+            "FireRed": "Evolve Natu",
+            "LeafGreen": "Evolve Natu",
+            "Colosseum": "Trade",
+            "XD": "Evolve Natu"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Natu",
+            "Pearl": "Evolve Natu",
+            "Platinum": "Evolve Natu",
+            "HeartGold": "Trade Haunter in Pewter City",
+            "SoulSilver": "Trade Haunter in Pewter City",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Evolve Natu",
+            "White 2": "Evolve Natu"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Psychic )",
+            "Y": "Friend Safari ( Psychic )",
+            "Omega Ruby": "Safari Zone (Zone 2, tall grass ), Mirage Islands (west of Route 104 , west of Dewford Town , north of Route 124 , south of Pacifidlog Town , south of Route 134 ), and Mirage Mountain (southeast of Route 129 )",
+            "Alpha Sapphire": "Safari Zone (Zone 2, tall grass ), Mirage Islands (west of Route 104 , west of Dewford Town , north of Route 124 , south of Pacifidlog Town , south of Route 134 ), and Mirage Mountain (southeast of Route 129 )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Akala Outskirts Day ( SOS Battle )",
+            "Ultra Moon": "Akala Outskirts Day ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "East Lake Axewell , Giant's Mirror , Giant's Seat , North Lake Miloch Bridge Field , East Lake Axewell , Giant's Cap , Hammerlocke Hills , Motostoke Riverbank , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "East Lake Axewell , Giant's Mirror , Giant's Seat , North Lake Miloch Bridge Field , East Lake Axewell , Giant's Cap , Hammerlocke Hills , Motostoke Riverbank , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Natu",
+            "Shining Pearl": "Evolve Natu",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Natu",
+            "to": "Xatu",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

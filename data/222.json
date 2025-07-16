@@ -1,0 +1,147 @@
+{
+    "name": "Corsola",
+    "pokedex_number": "#0222",
+    "types": [
+        "Water",
+        "Rock"
+    ],
+    "abilities": [
+        "Hustle",
+        "Natural Cure",
+        "Weak Armor",
+        "Regenerator",
+        "Cursed Body"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 85,
+        "Sp. Atk": 65,
+        "Sp. Def": 85,
+        "Speed": 35,
+        "Total": 380
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty.",
+            "Silver": "In a south sea nation, the people live in communities that are built on groups of these Pok é mon .",
+            "Crystal": "The points on its head absorb nutrients from clean water. They cannot survive in polluted water.",
+            "Stadium 2": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty. (Pokémon Red, Silver, or Crystal inserted) In a south sea nation, the people live in communities that are built on groups of these Pok é mon . (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Corsola 's branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this Pok é mon grows it back in just one night.",
+            "Sapphire": "Clusters of Corsola congregate in warm seas where they serve as ideal hiding places for smaller Pok é mon . When the water temperature falls, this Pok é mon migrates to the southern seas.",
+            "Emerald": "Corsola live in warm southern seas. If the sea becomes polluted, the beautiful coral stalks become discolored and crumble away in tatters.",
+            "FireRed": "In a south sea nation, the people live in communities that are built on groups of these Pok é mon .",
+            "LeafGreen": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty."
+        },
+        "Generation IV": {
+            "Diamond": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
+            "Pearl": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
+            "Platinum": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
+            "HeartGold": "It continuously sheds and grows. The tip of its head is prized as a treasure because of its beauty.",
+            "SoulSilver": "In a south-sea nation, the people live in communities that are built on groups of these Pokémon."
+        },
+        "Generation V": {
+            "Black": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
+            "White": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
+            "Black 2": "They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water.",
+            "White 2": "They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water."
+        },
+        "Generation VI": {
+            "X": "It continuously sheds and grows. The tip of its head is prized as a treasure because of its beauty.",
+            "Y": "They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water.",
+            "Omega Ruby": "Corsola's branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this Pokémon grows it back in just one night.",
+            "Alpha Sapphire": "Clusters of Corsola congregate in warm seas where they serve as ideal hiding places for smaller Pokémon. When the water temperature falls, this Pokémon migrates to the southern seas."
+        },
+        "Generation VII": {
+            "Sun": "Coral branches grow from its head. They break off quite easily, but they grow back in about three days.",
+            "Moon": "Pursued by Mareanie for the branches on its head, this Pokémon will sometimes snap its own branches off as a diversion while it escapes.",
+            "Ultra Sun": "The pink of Corsola that live in Alola is deep and vibrant, thanks to seas filled with nutrition.",
+            "Ultra Moon": "In Alola, where their natural enemies Mareanie are plentiful, many Corsola have stubby branches on their heads."
+        },
+        "Generation VIII": {
+            "Sword": "Watch your step when wandering areas oceans once covered. What looks like a stone could be this Pokémon, and it will curse you if you kick it.",
+            "Shield": "Sudden climate change wiped out this ancient kind of Corsola. This Pokémon absorbs others' life-force through its branches.",
+            "Brilliant Diamond": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
+            "Shining Pearl": "Many live in the clean seas of the south. They apparently can't live in polluted waters."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 19 , 34 , 40 , Olivine City , Cianwood City , Cerulean City and Gym , Cherrygrove City , Union Cave ( Good Rod or Super Rod ) Morning Day",
+            "Silver": "Routes 19 , 34 , 40 , Olivine City , Cianwood City , Cerulean City and Gym , Cherrygrove City , Union Cave ( Good Rod or Super Rod ) Morning Day",
+            "Crystal": "Routes 19 , 34 , 40 , Olivine City , Cianwood City , Cerulean City , Cherrygrove City , Union Cave ( Good Rod or Super Rod ) Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Route 128 , Ever Grande City ( Super Rod ) Trade Bellossom in Pacifidlog Town",
+            "Sapphire": "Route 128 , Ever Grande City ( Super Rod ) Trade Bellossom in Pacifidlog Town",
+            "Emerald": "Route 128 , Ever Grande City ( Super Rod )",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 230 ( swarm )",
+            "Pearl": "Route 230 ( swarm )",
+            "Platinum": "Route 230 ( swarm )",
+            "HeartGold": "Routes 19 , 34 , 40 , Cherrygrove City , Olivine City , Cianwood City , Union Cave ( Good Rod and Super Rod ) Morning Day",
+            "SoulSilver": "Routes 19 , 34 , 40 , Cherrygrove City , Olivine City , Cianwood City , Union Cave ( Good Rod and Super Rod ) Morning Day",
+            "Pal Park": "Sea",
+            "Pokéwalker": "Beyond the Sea"
+        },
+        "Generation V": {
+            "Black": "Route 13 , Undella Town ( Surfing in rippling water )",
+            "White": "Route 13 , Undella Town ( Surfing in rippling water )",
+            "Black 2": "Humilau City ( Surfing in rippling water ) Route 18 ( fishing ) Route 18 ( Hidden Grotto )",
+            "White 2": "Humilau City ( Surfing in rippling water ) Route 18 ( fishing ) Route 18 ( Hidden Grotto )",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Route 12 ( Super Rod ) Friend Safari ( Rock )",
+            "Y": "Route 12 ( Super Rod ) Friend Safari ( Rock )",
+            "Omega Ruby": "Route 128 ( Super Rod and underwater ) Ever Grande City ( Super Rod ) Trade Bellossom in Pacifidlog Town",
+            "Alpha Sapphire": "Route 128 ( Super Rod and underwater ) Ever Grande City ( Super Rod ) Trade Bellossom in Pacifidlog Town"
+        },
+        "Generation VII": {
+            "Sun": "Route 9 , Melemele Sea ( fishing )",
+            "Moon": "Route 9 , Melemele Sea ( fishing )",
+            "Ultra Sun": "Route 9 , Melemele Sea ( fishing ) Poké Pelago",
+            "Ultra Moon": "Route 9 , Melemele Sea ( fishing ) Poké Pelago",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+ ( Johtonian Form ) Trade ( Galarian Form )",
+            "Shield": "Trade Version 1.2.0+ ( Johtonian Form ) Giant's Mirror ( Galarian Form ) Giant's Mirror , South Lake Miloch , Stony Wilderness , Watchtower Ruins ( Max Raid Battle ) ( Galarian Form )",
+            "Shield Expansion Pass": "Trade Galarian Corsola with Regina on Isle of Armor ( Johtonian Form ) Slippery Slope , Old Cemetery , Giant's Foot , Frigid Sea , Ballimere Lake ( Max Raid Battle ) ( Galarian Form )",
+            "Brilliant Diamond": "Route 230 ( Swarm ) ( Johtonian Form ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining the National Pokédex ) ( Johtonian Form ) Unobtainable ( Galarian Form )",
+            "Shining Pearl": "Route 230 ( Swarm ) ( Johtonian Form ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining the National Pokédex ) ( Johtonian Form ) Unobtainable ( Galarian Form )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Corsola",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Corsola",
+            "to": "Cursola",
+            "method": [
+                "Level 38"
+            ]
+        }
+    ]
+}

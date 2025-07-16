@@ -1,0 +1,104 @@
+{
+    "name": "Staraptor",
+    "pokedex_number": "#0398",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Reckless"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 120,
+        "Defense": 70,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 100,
+        "Total": 475
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It has a savage nature. It will courageously challenge foes that are much larger.",
+            "Pearl": "The muscles in its wings and legs are strong. It can easily fly while gripping a small Pokémon.",
+            "Platinum": "It never stops attacking even if it is injured. It fusses over the shape of its comb.",
+            "HeartGold": "When Staravia evolve into Staraptor , they leave the flock to live alone. They have sturdy wings.",
+            "SoulSilver": "When Staravia evolve into Staraptor , they leave the flock to live alone. They have sturdy wings."
+        },
+        "Generation V": {
+            "Black": "It never stops attacking even if it is injured. It fusses over the shape of its comb.",
+            "White": "It never stops attacking even if it is injured. It fusses over the shape of its comb.",
+            "Black 2": "It never stops attacking even if it is injured. It fusses over the shape of its comb.",
+            "White 2": "It never stops attacking even if it is injured. It fusses over the shape of its comb."
+        },
+        "Generation VI": {
+            "X": "The muscles in its wings and legs are strong. It can easily fly while gripping a small Pokémon.",
+            "Y": "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
+            "Omega Ruby": "The muscles in its wings and legs are strong. It can easily fly while gripping a small Pokémon.",
+            "Alpha Sapphire": "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It has a savage nature. It will courageously challenge foes that are much larger than itself.",
+            "Shining Pearl": "The muscles in its wings and legs are strong. It can easily fly while gripping a small Pokémon.",
+            "Legends: Arceus": "It has left the flock, having gained strength enough to survive on its own. The astounding force with which Staraptor flies through the air allows it to carry away large, burly targets."
+        },
+        "Generation IX": {
+            "Scarlet": "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
+            "Violet": "It never stops attacking even if it is injured. It fusses over the shape of its comb."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Staravia",
+            "Pearl": "Evolve Staravia",
+            "Platinum": "Evolve Staravia",
+            "HeartGold": "Evolve Staravia",
+            "SoulSilver": "Evolve Staravia"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Staravia",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Staravia",
+            "Y": "Evolve Staravia",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Staravia",
+            "Moon": "Evolve Staravia",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Staravia",
+            "Shining Pearl": "Evolve Staravia",
+            "Legends: Arceus": "Obsidian Fieldlands : near Nature's Pantry Flying , near Lake Verity Day (also mass outbreaks Day Night ), massive mass outbreaks Cobalt Coastlands : Deadwood Haunt Day , Tranquility Cove Day , near Castaway Shore Flying , Spring Path Day , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Three North Province: Casseroya Lake Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "South Province: Area Three North Province: Casseroya Lake Tera Raid Battles ( 5★ , 6★ )",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Oni Mountain , Kitakami Wilds"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Staravia",
+            "to": "Staraptor",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

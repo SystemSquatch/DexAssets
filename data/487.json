@@ -1,0 +1,94 @@
+{
+    "name": "Giratina",
+    "pokedex_number": "#0487",
+    "types": [
+        "Ghost",
+        "Dragon"
+    ],
+    "abilities": [
+        "Pressure",
+        "Telepathy",
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 150,
+        "Attack": 100,
+        "Defense": 120,
+        "Sp. Atk": 100,
+        "Sp. Def": 120,
+        "Speed": 90,
+        "Total": 680
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "A Pokémon that is said to live in a world on the reverse side of ours . It appears in an ancient cemetery.",
+            "Pearl": "A Pokémon that is said to live in a world on the reverse side of ours . It appears in an ancient cemetery.",
+            "Platinum": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+            "HeartGold": "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",
+            "SoulSilver": "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange."
+        },
+        "Generation V": {
+            "Black": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+            "White": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+            "Black 2": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+            "White 2": "It was banished for its violence. It silently gazed upon the old world from the Distortion World."
+        },
+        "Generation VI": {
+            "X": "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",
+            "Y": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+            "Omega Ruby": "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",
+            "Alpha Sapphire": "It was banished for its violence. It silently gazed upon the old world from the Distortion World."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "A Pokémon that is said to live in a world on the reverse side of ours. It appears in an ancient cemetery.",
+            "Shining Pearl": "A Pokémon that is said to live in a world on the reverse side of ours. It appears in an ancient cemetery.",
+            "Legends: Arceus": "Giratina loses its legs upon changing into this form. I believe this Pokémon must hail from a world where the heavens and the earth are as one, though I have no way of proving it."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Turnback Cave ( Only one ) ( Altered Forme )",
+            "Pearl": "Turnback Cave ( Only one ) ( Altered Forme )",
+            "Platinum": "Distortion World ( Only one ) ( Origin Forme ) Turnback Cave (If not caught in the Distortion World) ( Only one ) ( Altered Forme )",
+            "HeartGold": "Sinjoh Ruins (requires Event Arceus ) (Choice between it, Dialga and Palkia ) ( Origin Forme )",
+            "SoulSilver": "Sinjoh Ruins (requires Event Arceus ) (Choice between it, Dialga and Palkia ) ( Origin Forme )"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer , Event",
+            "White": "Poké Transfer , Event",
+            "Black 2": "Transfer from Dream Radar (requires Pokémon Platinum ) , Event",
+            "White 2": "Transfer from Dream Radar (requires Pokémon Platinum ) , Event"
+        },
+        "Generation VI": {
+            "X": "Trade , Event",
+            "Y": "Trade , Event",
+            "Omega Ruby": "Soaring in the sky (requires Dialga and Palkia in party ) ( Only one ) ( Altered Forme )",
+            "Alpha Sapphire": "Soaring in the sky (requires Dialga and Palkia in party ) ( Only one ) ( Altered Forme )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Cave World ) (requires Dialga and Palkia in party) ( Only one ) ( Altered Forme )",
+            "Ultra Moon": "Ultra Space Wilds ( Cave World ) (requires Dialga and Palkia in party) ( Only one ) ( Altered Forme )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one ) ( Altered Forme )",
+            "Brilliant Diamond": "Turnback Cave ( Only one ) ( Altered Forme )",
+            "Shining Pearl": "Turnback Cave ( Only one ) ( Altered Forme )",
+            "Legends: Arceus": "Cobalt Coastlands : Turnback Cave ( Only one ) ( Origin Forme )"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME",
+            "Violet": "Pokémon HOME"
+        }
+    },
+    "evolution": []
+}

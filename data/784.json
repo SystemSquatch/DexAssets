@@ -1,0 +1,72 @@
+{
+    "name": "Kommo-o",
+    "pokedex_number": "#0784",
+    "types": [
+        "Dragon",
+        "Fighting"
+    ],
+    "abilities": [
+        "Bulletproof",
+        "Soundproof",
+        "Overcoat"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 110,
+        "Defense": 125,
+        "Sp. Atk": 100,
+        "Sp. Def": 105,
+        "Speed": 85,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "When it spots enemies, it threatens them by jingling the scales on its tail. Weak opponents will crack and flee in panic.",
+            "Moon": "Its rigid scales function as offense and defense. In the past, its scales were processed and used to make weapons and other commodities.",
+            "Ultra Sun": "When it howls after finishing off its prey, the metallic sounds of its celebrating comrades can be heard from all around.",
+            "Ultra Moon": "It battles valiantly with its fists, which are armored in steel scales. Kommo-o specializes in uppercuts."
+        },
+        "Generation VIII": {
+            "Sword": "It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display.",
+            "Shield": "Certain ruins have paintings of ancient warriors wearing armor made of Kommo-o scales."
+        },
+        "Generation IX": {
+            "Scarlet": "It lets its arm hang, and then \"quick as a flash\" swings upward to land its specialty punch and send the opponent flying high into the sky.",
+            "Violet": "It bashes its scales to test its opponents' mettle. The sound of struck Kommo-o scales frightens weaker foes and sends them running."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Vast Poni Canyon ( SOS Battle )",
+            "Moon": "Vast Poni Canyon ( SOS Battle )",
+            "Ultra Sun": "Vast Poni Canyon ( SOS Battle )",
+            "Ultra Moon": "Vast Poni Canyon ( SOS Battle ) Received from Samson Oak at Heahea Beach * ( Totem -sized)",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Dusty Bowl ( Wanderer ) Axew's Eye , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Sword Expansion Pass": "Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Hakamo-o",
+            "to": "Kommo-o",
+            "method": [
+                "Level 45"
+            ]
+        }
+    ]
+}

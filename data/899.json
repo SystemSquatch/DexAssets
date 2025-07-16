@@ -1,0 +1,53 @@
+{
+    "name": "Wyrdeer",
+    "pokedex_number": "#0899",
+    "types": [
+        "Normal",
+        "Psychic"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Frisk",
+        "Sap Sipper"
+    ],
+    "stats": {
+        "HP": 103,
+        "Attack": 105,
+        "Defense": 72,
+        "Sp. Atk": 105,
+        "Sp. Def": 75,
+        "Speed": 65,
+        "Total": 525
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Legends: Arceus": "The black orbs shine with an uncanny light when the Pokémon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Obsidian Fieldlands : Massive Mass Outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Evolve Stantler in Pokémon Legends: Arceus via Pokémon HOME",
+            "Violet": "Evolve Stantler in Pokémon Legends: Arceus via Pokémon HOME",
+            "The Hidden Treasure of Area Zero": "Evolve Stantler in Pokémon Legends: Arceus via Pokémon HOME"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Stantler",
+            "to": "Wyrdeer",
+            "method": [
+                "Agile Style Move (knowing Psyshield Bash)"
+            ]
+        }
+    ]
+}

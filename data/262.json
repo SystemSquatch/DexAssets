@@ -1,0 +1,121 @@
+{
+    "name": "Mightyena",
+    "pokedex_number": "#0262",
+    "types": [
+        "Dark",
+        "Unknown"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Quick Feet",
+        "Moxie"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 70,
+        "Sp. Atk": 60,
+        "Sp. Def": 60,
+        "Speed": 70,
+        "Total": 420
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Mightyena gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This Pok é mon will bite savagely with its sharply pointed fangs.",
+            "Sapphire": "Mightyena travel and act as a pack in the wild. The memory of its life in the wild compels the Pok é mon to obey only those Trainers that it recognizes to possess superior skill.",
+            "Emerald": "In the wild, Mightyena live in a pack. They never defy their leader's orders. They defeat foes with perfectly coordinated teamwork.",
+            "FireRed": "It will always obey the commands of a skilled Trainer . Its behavior arises from its living in packs in ancient times.",
+            "LeafGreen": "It will always obey the commands of a skilled Trainer . Its behavior arises from its living in packs in ancient times."
+        },
+        "Generation IV": {
+            "Diamond": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.",
+            "Pearl": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.",
+            "Platinum": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.",
+            "HeartGold": "It chases down prey in a pack of around ten. They defeat foes with perfectly coordinated teamwork.",
+            "SoulSilver": "It chases down prey in a pack of around ten. They defeat foes with perfectly coordinated teamwork."
+        },
+        "Generation V": {
+            "Black": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.",
+            "White": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.",
+            "Black 2": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.",
+            "White 2": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer."
+        },
+        "Generation VI": {
+            "X": "It will always obey the commands of a skilled Trainer. Its behavior arises from its living in packs in ancient times.",
+            "Y": "It chases down prey in a pack of around ten. They defeat foes with perfectly coordinated teamwork.",
+            "Omega Ruby": "Mightyena gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This Pokémon will bite savagely with its sharply pointed fangs.",
+            "Alpha Sapphire": "Mightyena travel and act as a pack in the wild. The memory of its life in the wild compels the Pokémon to obey only those Trainers that it recognizes to possess superior skill."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.",
+            "Shining Pearl": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer."
+        },
+        "Generation IX": {
+            "Scarlet": "They faithfully follow the orders of their leader. Prey targeted by Mightyena is never allowed to escape the outstanding teamwork of its pursuers.",
+            "Violet": "Once it's caught the scent of faraway prey, the leader gives a signal, and the whole pack moves out."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Poochyena",
+            "Sapphire": "Evolve Poochyena",
+            "Emerald": "Routes 120 , 121 , and 123",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Evolve Poochyena"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 214 and 215 ( Poké Radar )",
+            "Pearl": "Trade",
+            "Platinum": "Evolve Poochyena",
+            "HeartGold": "Evolve Poochyena",
+            "SoulSilver": "Evolve Poochyena",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Poochyena",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Route 15 , Friend Safari ( Dark )",
+            "Y": "Friend Safari ( Dark )",
+            "Omega Ruby": "Evolve Poochyena",
+            "Alpha Sapphire": "Evolve Poochyena"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank , Event",
+            "Ultra Moon": "Pokémon Bank , Event",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 214 and 215 ( Poké Radar ) Grand Underground - Spacious Cave , Dazzling Cave , Stargleam Cavern , Icy Cave , Glacial Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Grand Underground - Spacious Cave , Dazzling Cave , Stargleam Cavern , Icy Cave , Glacial Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Poochyena",
+            "to": "Mightyena",
+            "method": [
+                "Level 18"
+            ]
+        }
+    ]
+}

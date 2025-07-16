@@ -1,0 +1,93 @@
+{
+    "name": "Munna",
+    "pokedex_number": "#0517",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Forewarn",
+        "Synchronize",
+        "Telepathy"
+    ],
+    "stats": {
+        "HP": 76,
+        "Attack": 25,
+        "Defense": 45,
+        "Sp. Atk": 67,
+        "Sp. Def": 55,
+        "Speed": 24,
+        "Total": 292
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about.",
+            "White": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
+            "Black 2": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
+            "White 2": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams."
+        },
+        "Generation VI": {
+            "X": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
+            "Y": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
+            "Omega Ruby": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
+            "Alpha Sapphire": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Late at night, it appears beside people's pillows. As it feeds on dreams, the patterns on its body give off a faint glow.",
+            "Shield": "It eats dreams and releases mist. The mist is pink when it's eating a good dream, and black when it's eating a nightmare."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Dreamyard",
+            "White": "Dreamyard",
+            "Black 2": "Dreamyard Transfer from Dream Radar",
+            "White 2": "Dreamyard Transfer from Dream Radar"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Psychic )",
+            "Y": "Friend Safari ( Psychic )",
+            "Omega Ruby": "Mirage Island (South of Route 132 ) and Mirage Mountain (Southeast of Route 129 )",
+            "Alpha Sapphire": "Mirage Island (South of Route 132 ) and Mirage Mountain (Southeast of Route 129 )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Slumbering Weald , Rolling Fields , East Lake Axewell , Axew's Eye , Giant's Seat , Giant's Cap , Bridge Field , Stony Wilderness Watchtower Ruins , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Slumbering Weald , Rolling Fields , East Lake Axewell , Axew's Eye , Giant's Seat , Giant's Cap , Bridge Field , Stony Wilderness Watchtower Ruins , Stony Wilderness ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Munna",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Munna",
+            "to": "Musharna",
+            "method": [
+                "Use Moon Stone"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "name": "Latios",
+    "pokedex_number": "#0381",
+    "types": [
+        "Dragon",
+        "Psychic"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 90,
+        "Defense": 80,
+        "Sp. Atk": 130,
+        "Sp. Def": 110,
+        "Speed": 110,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Latios has the ability to make its foe see an image of what it has seen or imagines in its head. This Pok é mon is intelligent and understands human speech.",
+            "Sapphire": "Latios will only open its heart to a Trainer with a compassionate spirit. This Pok é mon can fly faster than a jet plane by folding its forelegs to minimize air resistance.",
+            "Emerald": "Even in hiding, it can detect the locations of others and sense their emotions since it has telepathy. Its intelligence allows it to understand human languages.",
+            "FireRed": "It has a docile temperament and dislikes fighting. Tucking in its forelegs, it can fly faster than a jet plane.",
+            "LeafGreen": "It has a docile temperament and dislikes fighting. Tucking in its forelegs, it can fly faster than a jet plane."
+        },
+        "Generation IV": {
+            "Diamond": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
+            "Pearl": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
+            "Platinum": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
+            "HeartGold": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.",
+            "SoulSilver": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting."
+        },
+        "Generation V": {
+            "Black": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
+            "White": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
+            "Black 2": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
+            "White 2": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes."
+        },
+        "Generation VI": {
+            "X": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
+            "Y": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.",
+            "Omega Ruby": "Latios has the ability to make others see an image of what it has seen or imagines in its head. This Pokémon is intelligent and understands human speech.",
+            "Alpha Sapphire": "Latios will only open its heart to a Trainer with a compassionate spirit. This Pokémon can fly faster than a jet plane by folding its forelegs to minimize air resistance."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It is a highly intelligent Pokémon. By folding back its forelegs in flight, it can overtake jet planes.",
+            "Shining Pearl": "It is a highly intelligent Pokémon. By folding back its forelegs in flight, it can overtake jet planes."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Roaming Hoenn ( Only one )",
+            "Sapphire": "Southern Island (requires Eon Ticket ) ( Only one )",
+            "Emerald": "Roaming Hoenn or Southern Island (requires Eon Ticket ) ( Only one )",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Pewter City (requires Enigma Stone ) ( Only one )",
+            "SoulSilver": "Roaming Kanto ( Only one )",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Dreamyard ( Only one )",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Trade , Event",
+            "Y": "Trade , Event",
+            "Omega Ruby": "Southern Island ( Only one )",
+            "Alpha Sapphire": "Southern Island (requires Eon Ticket ) ( Only one )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Water World ) ( Only one )",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Sword Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one )",
+            "Brilliant Diamond": "Ramanas Park (requires Soul Slate ) ( Only one )",
+            "Shining Pearl": "Ramanas Park (requires Soul Slate ) ( Only one )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "North Province: Area Two after receiving the Latios Treat from Snacksworth ( Only one ) ( Solo Quest )",
+            "The Hidden Treasure of Area Zero (Violet)": "North Province: Area Two after receiving the Latios Treat from Snacksworth ( Only one ) ( Group Quest )"
+        }
+    },
+    "evolution": []
+}

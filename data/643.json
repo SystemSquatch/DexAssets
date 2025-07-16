@@ -1,0 +1,79 @@
+{
+    "name": "Reshiram",
+    "pokedex_number": "#0643",
+    "types": [
+        "Dragon",
+        "Fire"
+    ],
+    "abilities": [
+        "Turboblaze"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 120,
+        "Defense": 100,
+        "Sp. Atk": 150,
+        "Sp. Def": 120,
+        "Speed": 90,
+        "Total": 680
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "This Pokémon appears in legends. It sends flames into the air from its tail, burning up everything around it.",
+            "White": "When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather.",
+            "Black 2": "This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth.",
+            "White 2": "This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth."
+        },
+        "Generation VI": {
+            "X": "This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth.",
+            "Y": "When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather.",
+            "Omega Ruby": "This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth.",
+            "Alpha Sapphire": "When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Flames spew from its tail as it flies through the sky like a jet airplane. It's said that this Pokémon will scorch the world. *",
+            "Shield": "According to myth, if people ignore truth and let themselves become consumed by greed, Reshiram will arrive to burn their kingdoms down. *"
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "N's Castle or Dragonspiral Tower * ( Only one )",
+            "White": "Trade , Event",
+            "Black 2": "Trade",
+            "White 2": "Dragonspiral Tower ( Only one )"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Fabled Cave (requires a Level 100 Pokémon in the player's party) ( Only one )",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Rocky World ) ( Only one )",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME Trade Version 1.3.0+",
+            "Shield": "Pokémon HOME Trade Version 1.3.0+",
+            "Sword Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "East Province: Area One after receiving the Reshiram Treat from Snacksworth ( Only one ) ( Solo Quest )",
+            "The Hidden Treasure of Area Zero (Violet)": "East Province: Area One after receiving the Reshiram Treat from Snacksworth ( Only one ) ( Group Quest )"
+        }
+    },
+    "evolution": []
+}

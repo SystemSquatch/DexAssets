@@ -1,0 +1,52 @@
+{
+    "name": "Tinkatuff",
+    "pokedex_number": "#0958",
+    "types": [
+        "Fairy",
+        "Steel"
+    ],
+    "abilities": [
+        "Mold Breaker",
+        "Own Tempo",
+        "Pickpocket"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 55,
+        "Defense": 55,
+        "Sp. Atk": 45,
+        "Sp. Def": 82,
+        "Speed": 78,
+        "Total": 380
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon will attack groups of Pawniard and Bisharp , gathering metal from them in order to create a large and sturdy hammer.",
+            "Violet": "These Pokémon make their homes in piles of scrap metal. They test the strength of each other's hammers by smashing them together."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six East Province: Area Two West Province: Area Two , Asado Desert North Province: Area One , Area Three , Dalizapa Passage , Casseroya Lake West Province: Area One ( Dark Tera Type ) Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area Six East Province: Area Two West Province: Area Two , Asado Desert North Province: Area One , Area Three , Dalizapa Passage , Casseroya Lake West Province: Area One ( Dark Tera Type ) Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Tinkatink",
+            "to": "Tinkatuff",
+            "method": [
+                "Level 24"
+            ]
+        },
+        {
+            "from": "Tinkatuff",
+            "to": "Tinkaton",
+            "method": [
+                "Level 38"
+            ]
+        }
+    ]
+}

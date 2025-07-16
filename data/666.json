@@ -1,0 +1,74 @@
+{
+    "name": "Vivillon",
+    "pokedex_number": "#0666",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "abilities": [
+        "Shield Dust",
+        "Compound Eyes",
+        "Friend Guard"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 52,
+        "Defense": 50,
+        "Sp. Atk": 90,
+        "Sp. Def": 50,
+        "Speed": 89,
+        "Total": 411
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat.",
+            "Y": "The patterns on this Pokémon's wings depend on the climate and topography of its habitat. It scatters colorful scales.",
+            "Omega Ruby": "Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat.",
+            "Alpha Sapphire": "The patterns on this Pokémon's wings depend on the climate and topography of its habitat. It scatters colorful scales."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands of severe cold.",
+            "Violet": "This Pokémon was born in a land of severe cold. It scatters colorful, toxic scales from its wings during battle."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Friend Safari ( Bug )",
+            "Y": "Friend Safari ( Bug )",
+            "Omega Ruby": "Trade , Event",
+            "Alpha Sapphire": "Trade , Event"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Spewpa",
+            "Ultra Moon": "Evolve Spewpa",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Evolve Spewpa hatched in Paldea ( Fancy Pattern ) East Province: East Paldean Sea ( Fancy Pattern ) * North Province: Area One , Area Two , Area Three ( Fancy Pattern ) * Send a postcard from Pokémon GO ( All Other Patterns ) * Pokémon HOME ( Poké Ball Pattern )",
+            "Violet": "Evolve Spewpa hatched in Paldea ( Fancy Pattern ) East Province: East Paldean Sea ( Fancy Pattern ) * North Province: Area One , Area Two , Area Three ( Fancy Pattern ) * Send a postcard from Pokémon GO ( All Other Patterns ) * Pokémon HOME ( Poké Ball Pattern )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Spewpa",
+            "to": "Vivillon",
+            "method": [
+                "Level 12"
+            ]
+        }
+    ]
+}

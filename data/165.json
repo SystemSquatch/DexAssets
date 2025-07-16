@@ -1,0 +1,141 @@
+{
+    "name": "Ledyba",
+    "pokedex_number": "#0165",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "abilities": [
+        "Swarm",
+        "Early Bird",
+        "Rattled"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 20,
+        "Defense": 30,
+        "Sp. Atk": 40,
+        "Sp. Def": 80,
+        "Speed": 55,
+        "Total": 265
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group.",
+            "Silver": "When the weather turns cold, lots of Ledyba gather from everywhere to cluster and keep each other warm.",
+            "Crystal": "It is timid and clusters together with others. The fluid secreted by its feet indicates its location.",
+            "Stadium 2": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group. (Pokémon Red, Silver, or Crystal inserted) When the weather turns cold, lots of Ledyba gather from everywhere to cluster and keep each other warm. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Ledyba secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This Pok é mon conveys its feelings to others by altering the fluid's scent.",
+            "Sapphire": "Ledyba secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This Pok é mon conveys its feelings to others by altering the fluid's scent.",
+            "Emerald": "Ledyba communicate using a fluid that they secrete from where the legs join the body. They are said to convey feelings to others by altering the fluid's scent.",
+            "FireRed": "When the weather turns cold, numerous Ledyba gather from everywhere to cluster and keep each other warm.",
+            "LeafGreen": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group."
+        },
+        "Generation IV": {
+            "Diamond": "It is so timid, it can't move if it isn't with a swarm of others. It conveys its feelings with scent.",
+            "Pearl": "It is so timid, it can't move if it isn't with a swarm of others. It conveys its feelings with scent.",
+            "Platinum": "It is so timid, it can't move if it isn't with a swarm of others. It conveys its feelings with scent.",
+            "HeartGold": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group.",
+            "SoulSilver": "When the weather turns cold, lots of Ledyba gather from everywhere to cluster and keep each other warm."
+        },
+        "Generation V": {
+            "Black": "It is so timid, it can't move if it isn't with a swarm of others. It conveys its feelings with scent.",
+            "White": "It is so timid, it can't move if it isn't with a swarm of others. It conveys its feelings with scent.",
+            "Black 2": "It is so timid, it can't move if it isn't with a swarm of others. It conveys its feelings with scent.",
+            "White 2": "It is so timid, it can't move if it isn't with a swarm of others. It conveys its feelings with scent."
+        },
+        "Generation VI": {
+            "X": "When the weather turns cold, lots of Ledyba gather from everywhere to cluster and keep each other warm.",
+            "Y": "It is timid and clusters together with others. The fluid secreted by its feet indicates its location.",
+            "Omega Ruby": "Ledyba secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This Pokémon conveys its feelings to others by altering the fluid's scent.",
+            "Alpha Sapphire": "Ledyba secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This Pokémon conveys its feelings to others by altering the fluid's scent."
+        },
+        "Generation VII": {
+            "Sun": "They are timid and grow uneasy when not in a swarm with others of their kind. The pattern on their backs differs slightly from one to another.",
+            "Moon": "They communicate with one another using bodily fluids that give off odors. When they're angry, their odor smells sour.",
+            "Ultra Sun": "This Pokémon is very sensitive to cold. In the warmth of Alola, it appears quite lively.",
+            "Ultra Moon": "These very cowardly Pokémon join together and use Reflect to protect their nest."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It's so timid that it can't move unless it's with a swarm. It conveys its feelings through scent.",
+            "Shining Pearl": "It's so timid that it can't move unless it's with a swarm. It conveys its feelings through scent."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Trade",
+            "Silver": "Routes 2 , 30 , 31 , and 37 Morning",
+            "Crystal": "Routes 2 , 30 , 31 , 36 , and 37 , National Park Morning Routes 29 , 30 , 31 , 34 , 35 , 36 , 37 , 38 , and 39 ( Headbutt trees )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Safari Zone extension",
+            "FireRed": "Pattern Bush",
+            "LeafGreen": "Pattern Bush",
+            "Colosseum": "Trade",
+            "XD": "Gateon Port (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Breed Ledian",
+            "Pearl": "Breed Ledian",
+            "Platinum": "Breed Ledian",
+            "HeartGold": "Trade",
+            "SoulSilver": "Route 2 Morning Day Routes 30 , 31 , and 37 Morning Routes 1 , 2 , 12 , 13 , 14 , 15 , 18 , 21 , 22 , 26 , 27 , 29 , 30 , 31 , 34 , 35 , 36 , 37 , 38 , 39 , 47 , and 48 , New Bark Town , Cherrygrove City , National Park , Safari Zone Gate , Ecruteak City , Pallet Town , Viridian Forest , Viridian City , Fuchsia City ( Headbutt trees )",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Breed Ledian",
+            "White": "Breed Ledian",
+            "Black 2": "Trade",
+            "White 2": "Breed Ledian",
+            "Dream World": "Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Route 4 , Berry fields , Friend Safari ( Bug )",
+            "Y": "Route 4 , Berry fields , Friend Safari ( Bug )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Route 1 Day",
+            "Moon": "Route 1 Day",
+            "Ultra Sun": "Route 1 Day",
+            "Ultra Moon": "Route 1 Day",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Breed Ledian",
+            "Shining Pearl": "Breed Ledian",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Ledyba",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Ledyba",
+            "to": "Ledian",
+            "method": [
+                "Level 18"
+            ]
+        }
+    ]
+}

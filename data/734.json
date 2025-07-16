@@ -1,0 +1,74 @@
+{
+    "name": "Yungoos",
+    "pokedex_number": "#0734",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Stakeout",
+        "Strong Jaw",
+        "Adaptability"
+    ],
+    "stats": {
+        "HP": 48,
+        "Attack": 70,
+        "Defense": 30,
+        "Sp. Atk": 30,
+        "Sp. Def": 30,
+        "Speed": 45,
+        "Total": 253
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region.",
+            "Moon": "It wanders around in a never-ending search for food. At dusk, it collapses from exhaustion and falls asleep on the spot.",
+            "Ultra Sun": "Its stomach takes up most of its long torso. It's a big eater, so the amount Trainers have to spend on its food is no laughing matter.",
+            "Ultra Moon": "Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey."
+        },
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "Its stomach fills most of its torso. It wanders the same path every day, searching for fresh food.",
+            "Violet": "It spends its waking hours searching for food. When Yungoos is hungry, its ferocity gains a certain edge."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Routes 1 , 2 , 3 , 4 , 6 , 8 , Hau'oli City , Kala'e Bay Day Verdant Cavern",
+            "Moon": "Routes 1 , 2 , 3 , 4 , 6 , 8 , Hau'oli City , Kala'e Bay Day",
+            "Ultra Sun": "Routes 1 , 2 , 4 , 6 , 8 , Kala'e Bay Day Verdant Cavern",
+            "Ultra Moon": "Routes 1 , 2 , 4 , 6 , 8 , Kala'e Bay Day",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Three , Area Four , Area Five , Inlet Grotto East Province: Area One , Area Two , Area Three West Province: Area One , Area Two , Asado Desert Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Three , Area Four , Area Five , Inlet Grotto East Province: Area One , Area Two , Area Three West Province: Area One , Area Two , Asado Desert Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Yungoos",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Yungoos",
+            "to": "Gumshoos",
+            "method": [
+                "Level 20 (during the day)"
+            ]
+        }
+    ]
+}

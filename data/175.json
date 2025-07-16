@@ -1,0 +1,139 @@
+{
+    "name": "Togepi",
+    "pokedex_number": "#0175",
+    "types": [
+        "Fairy",
+        "Unknown"
+    ],
+    "abilities": [
+        "Hustle",
+        "Serene Grace",
+        "Super Luck"
+    ],
+    "stats": {
+        "HP": 35,
+        "Attack": 20,
+        "Defense": 65,
+        "Sp. Atk": 40,
+        "Sp. Def": 65,
+        "Speed": 20,
+        "Total": 245
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
+            "Silver": "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up.",
+            "Crystal": "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness.",
+            "Stadium 2": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly. (Pokémon Red, Silver, or Crystal inserted) A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pok é mon . This Pok é mon stores up feelings of happiness inside its shell, then shares them with others.",
+            "Sapphire": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pok é mon . This Pok é mon stores up feelings of happiness inside its shell, then shares them with others.",
+            "Emerald": "As its energy, it uses the feelings of compassion and pleasure exuded by people and Pok é mon . It stores up happy feelings in its shell, then shares them out.",
+            "FireRed": "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up.",
+            "LeafGreen": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly."
+        },
+        "Generation IV": {
+            "Diamond": "Its shell is said to be stuffed with happiness that it shares with kindhearted people.",
+            "Pearl": "Its shell is said to be stuffed with happiness that it shares with kindhearted people.",
+            "Platinum": "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
+            "HeartGold": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
+            "SoulSilver": "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up."
+        },
+        "Generation V": {
+            "Black": "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
+            "White": "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
+            "Black 2": "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
+            "White 2": "It transforms the kindness and joy of others into happiness, which it stores in its shell."
+        },
+        "Generation VI": {
+            "X": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
+            "Y": "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up.",
+            "Omega Ruby": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon stores up feelings of happiness inside its shell, then shares them with others.",
+            "Alpha Sapphire": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon stores up feelings of happiness inside its shell, then shares them with others."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
+            "Shield": "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness.",
+            "Brilliant Diamond": "Its shell is said to be stuffed with happiness that it shares with kindhearted people.",
+            "Shining Pearl": "Its shell is said to be stuffed with happiness that it shares with kindhearted people.",
+            "Legends: Arceus": "This ovate creature is frequently mistaken for a moving egg when encountered out in the fields or in the mountains. Its guileless smile soothes the soul."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Hatch Egg received from Professor Elm 's assistant in the Pokémon Center in Violet City",
+            "Silver": "Hatch Egg received from Professor Elm 's assistant in the Pokémon Center in Violet City",
+            "Crystal": "Hatch Egg received from Professor Elm 's assistant in the Pokémon Center in Violet City"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Hatch Egg received from a Gentleman in the Water Labyrinth",
+            "LeafGreen": "Hatch Egg received from a Gentleman in the Water Labyrinth",
+            "Colosseum": "Card e Room (Shadow) * , Trade",
+            "XD": "Received from Hordel (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Route 230 ( Poké Radar )",
+            "Pearl": "Route 230 ( Poké Radar )",
+            "Platinum": "Hatch Egg received from Cynthia in Eterna City Route 230 ( Poké Radar )",
+            "HeartGold": "Hatch Egg received from Professor Elm 's assistant in the Poké Mart in Violet City",
+            "SoulSilver": "Hatch Egg received from Professor Elm 's assistant in the Poké Mart in Violet City",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Trade with Curtis or Yancy in Nimbasa City Transfer from Dream Radar",
+            "White 2": "Trade with Curtis or Yancy in Nimbasa City Transfer from Dream Radar",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Fairy )",
+            "Y": "Friend Safari ( Fairy )",
+            "Omega Ruby": "Hatch Egg received from an old woman in Lavaridge Town after obtaining the National Pokédex",
+            "Alpha Sapphire": "Hatch Egg received from an old woman in Lavaridge Town after obtaining the National Pokédex"
+        },
+        "Generation VII": {
+            "Sun": "Breed Togekiss",
+            "Moon": "Breed Togekiss",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Toxel in Hammerlocke Bridge Field Bridge Field , Hammerlocke Hills , Lake of Outrage , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Trade Toxel in Hammerlocke Bridge Field Bridge Field , Hammerlocke Hills , Lake of Outrage , Rolling Fields ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 230 ( Poké Radar ) Grand Underground - Fountainspring Cave , Dazzling Cave , Stargleam Cavern",
+            "Shining Pearl": "Route 230 ( Poké Radar ) Grand Underground - Fountainspring Cave , Dazzling Cave , Stargleam Cavern",
+            "Legends: Arceus": "Crimson Mirelands : Cottonsedge Prairie Cobalt Coastlands : Bathers' Lagoon Day (also mass outbreaks Day Night ), Tranquility Cove Day , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Togepi",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Togepi",
+            "to": "Togetic",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        }
+    ]
+}

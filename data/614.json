@@ -1,0 +1,91 @@
+{
+    "name": "Beartic",
+    "pokedex_number": "#0614",
+    "types": [
+        "Ice",
+        "Unknown"
+    ],
+    "abilities": [
+        "Snow Cloak",
+        "Slush Rush",
+        "Swift Swim"
+    ],
+    "stats": {
+        "HP": 95,
+        "Attack": 110,
+        "Defense": 80,
+        "Sp. Atk": 70,
+        "Sp. Def": 80,
+        "Speed": 50,
+        "Total": 485
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It can make its breath freeze at will. Very able in the water, it swims around in northern seas and catches prey.",
+            "White": "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.",
+            "Black 2": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.",
+            "White 2": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath."
+        },
+        "Generation VI": {
+            "X": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.",
+            "Y": "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.",
+            "Omega Ruby": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.",
+            "Alpha Sapphire": "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It swims through frigid seas, searching for prey. From its frozen breath, it forms icy fangs that are harder than steel.",
+            "Shield": "It swims energetically through frigid seas. When it gets tired, it freezes the seawater with its breath so it can rest on the ice."
+        },
+        "Generation IX": {
+            "Scarlet": "It is a ferocious, carnivorous Pokémon. Once it captures its prey, it will breathe cold air onto the prey to freeze and preserve it.",
+            "Violet": "Feared as the Snow-White Demon in northern lands, Beartic uses its frosty claws and fangs to attack prey."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Dragonspiral Tower ( dark grass ) Winter",
+            "White": "Dragonspiral Tower ( dark grass ) Winter",
+            "Black 2": "Twist Mountain Dragonspiral Tower Winter",
+            "White 2": "Twist Mountain Dragonspiral Tower Winter"
+        },
+        "Generation VI": {
+            "X": "Frost Cavern , Friend Safari ( Ice )",
+            "Y": "Frost Cavern , Friend Safari ( Ice )",
+            "Omega Ruby": "Evolve Cubchoo",
+            "Alpha Sapphire": "Evolve Cubchoo"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 10 Bridge Field , Giant's Cap ( Wanderer ) Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 10 Bridge Field , Giant's Cap ( Wanderer ) Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Snowslide Slope , Frigid Sea Insular Sea , Giant's Bed , Frigid Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Glaseado Mountain Tera Raid Battles ( 4★ )",
+            "Violet": "North Province: Glaseado Mountain Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero": "Chargestone Cavern , Polar Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Cubchoo",
+            "to": "Beartic",
+            "method": [
+                "Level 37"
+            ]
+        }
+    ]
+}

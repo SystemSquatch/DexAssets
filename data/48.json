@@ -1,0 +1,155 @@
+{
+    "name": "Venonat",
+    "pokedex_number": "#0048",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "abilities": [
+        "Compound Eyes",
+        "Tinted Lens",
+        "Run Away"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 50,
+        "Sp. Atk": 40,
+        "Sp. Def": 55,
+        "Speed": 45,
+        "Total": 305
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
+            "Yellow": "Its large eyes act as radars. In a bright place, you can see that they are clusters of many tiny eyes.",
+            "Stadium": "Uses its large, radar-like eyes to move around in darkness. It is instinctively attracted to light."
+        },
+        "Generation II": {
+            "Gold": "Its eyes also function as radar units. It catches and eats small bugs that hide in darkness.",
+            "Silver": "Poison oozes from all over its body. It catches and eats small bugs at night that are attracted by light.",
+            "Crystal": "The small bugs it eats appear only at night, so it sleeps in a hole in a tree until night falls.",
+            "Stadium 2": "Its eyes also function as radar units. It catches and eats small bugs that hide in darkness. (Pokémon Red, Silver, or Crystal inserted) Poison oozes from all over its body. It catches and eats small bugs at night that are attracted by light. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even miniscule prey.",
+            "Sapphire": "Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even miniscule prey.",
+            "Emerald": "Its coat of thin, stiff hair that covers its entire body is said to have evolved for protection. Its large eyes never fail to spot even miniscule prey.",
+            "FireRed": "Its eyes act as radar, enabling it to be active in darkness. The eyes can also shoot powerful beams.",
+            "LeafGreen": "Lives in the shadows of tall trees where it eats bugs. It is attracted by light at night."
+        },
+        "Generation IV": {
+            "Diamond": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
+            "Pearl": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
+            "Platinum": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
+            "HeartGold": "Its eyes also function as radar units. It catches and eats small bugs that hide in darkness.",
+            "SoulSilver": "Poison oozes from all over its body. It catches and eats small bugs at night that are attracted by light."
+        },
+        "Generation V": {
+            "Black": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
+            "White": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
+            "Black 2": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
+            "White 2": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light."
+        },
+        "Generation VI": {
+            "X": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
+            "Y": "Lives in the shadows of tall trees where it eats bugs. It is attracted by light at night.",
+            "Omega Ruby": "Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even minuscule prey.",
+            "Alpha Sapphire": "Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even minuscule prey."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes.",
+            "Let's Go Eevee": "Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
+            "Shining Pearl": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light."
+        },
+        "Generation IX": {
+            "Scarlet": "Poison oozes from all over its body. It catches small bug Pokémon at night that are attracted by light.",
+            "Violet": "Its eyes act as radar, enabling it to be active in darkness. The eyes can also shoot powerful beams."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 12 , 13 , 14 , and 15 , Safari Zone",
+            "Blue": "Routes 12 , 13 , 14 , and 15 , Safari Zone",
+            "Blue (Japan)": "Routes 12 , 13 , 14 , and 15 , Safari Zone",
+            "Yellow": "Routes 14 , 15 , 24 , and 25"
+        },
+        "Generation II": {
+            "Gold": "Routes 24 , 25 , and 43 National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "Silver": "Routes 24 , 25 , and 43 National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "Crystal": "Routes 9 , 10 , 13 , 14 , 15 , 24 , 25 , and 43 , Ilex Forest , National Park Night National Park ( Bug-Catching Contest ) Tu Th Sa Route 43 , Lake of Rage ( Headbutt trees )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Routes 12 , 13 , 14 , and 15 , Berry Forest , Bond Bridge , Safari Zone",
+            "LeafGreen": "Routes 12 , 13 , 14 , and 15 , Berry Forest , Bond Bridge , Safari Zone",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 229 ( Poké Radar )",
+            "Pearl": "Route 229 ( Poké Radar )",
+            "Platinum": "Route 229 ( Poké Radar )",
+            "HeartGold": "Routes 24 , 25 , and 43 National Park ( Bug-Catching Contest ) Tu Th Sa Route 43 , Lake of Rage ( Headbutt trees )",
+            "SoulSilver": "Routes 24 , 25 , and 43 National Park ( Bug-Catching Contest ) Tu Th Sa Route 43 , Lake of Rage ( Headbutt trees )",
+            "Pal Park": "Forest",
+            "Pokéwalker": "Noisy Forest"
+        },
+        "Generation V": {
+            "Black": "Breed Venomoth",
+            "White": "Breed Venomoth",
+            "Black 2": "Route 3 ( Hidden Grotto ) *",
+            "White 2": "Route 3 ( Hidden Grotto ) *",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Breed Venomoth",
+            "Y": "Breed Venomoth",
+            "Omega Ruby": "Breed Venomoth",
+            "Alpha Sapphire": "Breed Venomoth"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Routes 14 , 15 , 24 and 25",
+            "Let's Go Eevee": "Routes 14 , 15 , 24 and 25"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 229 ( Poké Radar ) Grand Underground - Spacious Cave , Grassland Cave , Swampy Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 229 ( Poké Radar ) Grand Underground - Spacious Cave , Grassland Cave , Swampy Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Area One , Tagtree Thicket Tera Raid Battles ( 1★ )",
+            "Violet": "East Province: Area One , Tagtree Thicket Tera Raid Battles ( 1★ )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Venonat",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Venonat",
+            "to": "Venomoth",
+            "method": [
+                "Level 31"
+            ]
+        }
+    ]
+}

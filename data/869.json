@@ -1,0 +1,57 @@
+{
+    "name": "Alcremie",
+    "pokedex_number": "#0869",
+    "types": [
+        "Fairy",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sweet Veil",
+        "Aroma Veil"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 75,
+        "Sp. Atk": 110,
+        "Sp. Def": 121,
+        "Speed": 64,
+        "Total": 495
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "The moment it evolved, it took on a complex flavor. This is because of the way its cells spontaneously shifted during evolution.",
+            "Shield": "The cells that compose its cream fluctuated suddenly during evolution, giving the cream a complex flavor."
+        },
+        "Generation IX": {
+            "Scarlet": "Slight vibrations shook its cells when it evolved, giving it a complex flavor.",
+            "Violet": "When attacked, it strikes back by throwing cream accented with complex flavors."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Evolve Milcery Bridge Field , Lake of Outrage ( Max Raid Battle ) Bridge Field ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Shield": "Evolve Milcery Bridge Field , Lake of Outrage ( Max Raid Battle ) Bridge Field ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Expansion Pass": "Giant's Bed , Old Cemetery , Ballimere Lake ( Max Raid Battle ) ( Gigantamax Factor ) Max Lair ( Dynamax Adventure ) ( Gigantamax Factor )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Milcery",
+            "to": "Alcremie",
+            "method": [
+                "Spin"
+            ]
+        }
+    ]
+}

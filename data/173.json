@@ -1,0 +1,150 @@
+{
+    "name": "Cleffa",
+    "pokedex_number": "#0173",
+    "types": [
+        "Fairy",
+        "Unknown"
+    ],
+    "abilities": [
+        "Cute Charm",
+        "Magic Guard",
+        "Friend Guard"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 25,
+        "Defense": 28,
+        "Sp. Atk": 45,
+        "Sp. Def": 55,
+        "Speed": 15,
+        "Total": 218
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
+            "Silver": "When numerous meteors illuminate the night sky, sightings of Cleffa strangely increase.",
+            "Crystal": "If the impact site of a meteorite is found, this Pok é mon is certain to be within the immediate area.",
+            "Stadium 2": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor. (Pokémon Red, Silver, or Crystal inserted) When numerous meteors illuminate the night sky, sightings of Cleffa strangely increase. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pok é mon quench their thirst with the morning dew.",
+            "Sapphire": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pok é mon quench their thirst with the morning dew.",
+            "Emerald": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance until daybreak, when they quench their thirst with the morning dew.",
+            "FireRed": "When numerous meteors illuminate the night sky, sightings of Cleffa strangely increase.",
+            "LeafGreen": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor."
+        },
+        "Generation IV": {
+            "Diamond": "Its silhouette is like a star. It is believed to arrive riding on shooting stars.",
+            "Pearl": "Many appear when the night skies are filled with shooting stars. They disappear with sunrise.",
+            "Platinum": "It is often seen when shooting stars fill the night skies. It's said to arrive riding on a shooting star.",
+            "HeartGold": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
+            "SoulSilver": "When numerous meteors illuminate the night sky, sightings of Cleffa strangely increase."
+        },
+        "Generation V": {
+            "Black": "It is often seen when shooting stars fill the night skies. It's said to arrive riding on a shooting star.",
+            "White": "It is often seen when shooting stars fill the night skies. It's said to arrive riding on a shooting star.",
+            "Black 2": "According to local rumors, Cleffa are often seen in places where shooting stars have fallen.",
+            "White 2": "According to local rumors, Cleffa are often seen in places where shooting stars have fallen."
+        },
+        "Generation VI": {
+            "X": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
+            "Y": "Many appear when the night skies are filled with shooting stars. They disappear with sunrise.",
+            "Omega Ruby": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew.",
+            "Alpha Sapphire": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew."
+        },
+        "Generation VII": {
+            "Sun": "On late nights illuminated by shooting stars, it gazes intently skyward, as if thinking of its home.",
+            "Moon": "Because of its silhouette, it's believed to be a star reborn. For some reason, it loves Minior.",
+            "Ultra Sun": "On nights with many shooting stars, they gather in packs and dance in circles. If you should see them, something good will happen!",
+            "Ultra Moon": "Said to have ridden here on a shooting star, Cleffa seem to appear in places where meteorites have struck in the past."
+        },
+        "Generation VIII": {
+            "Sword": "According to local rumors, Cleffa are often seen in places where shooting stars have fallen.",
+            "Shield": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
+            "Brilliant Diamond": "Its silhouette is like a star. It is believed to arrive riding on shooting stars.",
+            "Shining Pearl": "Many appear when the night skies are filled with shooting stars. They disappear with sunrise.",
+            "Legends: Arceus": "In silhouette, they resemble twinkling starlight. When shooting stars rain from the night sky, Cleffa gather in numbers and dance as though they are indeed incarnations of the stars."
+        },
+        "Generation IX": {
+            "Scarlet": "On late nights illuminated by shooting stars, it gazes intently skyward, as if thinking of its home.",
+            "Violet": "Since it is often seen when shooting stars fill the night skies, it's said to come here by riding on a star."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Breed Clefairy or Clefable",
+            "Silver": "Breed Clefairy or Clefable",
+            "Crystal": "Breed Clefairy or Clefable Route 34 ( Odd Egg * )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Breed Clefairy or Clefable",
+            "LeafGreen": "Breed Clefairy or Clefable",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Mt. Coronet , Trophy Garden",
+            "Pearl": "Mt. Coronet , Trophy Garden",
+            "Platinum": "Mt. Coronet , Trophy Garden",
+            "HeartGold": "Breed Clefairy or Clefable",
+            "SoulSilver": "Breed Clefairy or Clefable",
+            "Pal Park": "Field",
+            "Pokéwalker": "Amity Meadow"
+        },
+        "Generation V": {
+            "Black": "Breed Clefairy or Clefable",
+            "White": "Breed Clefairy or Clefable",
+            "Black 2": "Breed Clefairy or Clefable",
+            "White 2": "Breed Clefairy or Clefable",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Breed Clefairy or Clefable",
+            "Y": "Breed Clefairy or Clefable",
+            "Omega Ruby": "Breed Clefairy or Clefable",
+            "Alpha Sapphire": "Breed Clefairy or Clefable"
+        },
+        "Generation VII": {
+            "Sun": "Mount Hokulani Night",
+            "Moon": "Mount Hokulani Night",
+            "Ultra Sun": "Mount Hokulani Night",
+            "Ultra Moon": "Mount Hokulani Night",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Hammerlocke Hills , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Hammerlocke Hills , Rolling Fields ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor , Soothing Wetlands , Forest of Focus , Insular Sea , Frostpoint Field , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Mount Coronet , Trophy Garden",
+            "Shining Pearl": "Mount Coronet , Trophy Garden",
+            "Legends: Arceus": "Cobalt Coastlands : massive mass outbreaks Coronet Highlands : Fabled Spring Night , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Reveler's Road , Kitakami Hall , Oni Mountain , Infernal Pass , Crystal Pool Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Cleffa",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Cleffa",
+            "to": "Clefairy",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        }
+    ]
+}

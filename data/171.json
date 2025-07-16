@@ -1,0 +1,140 @@
+{
+    "name": "Lanturn",
+    "pokedex_number": "#0171",
+    "types": [
+        "Water",
+        "Electric"
+    ],
+    "abilities": [
+        "Volt Absorb",
+        "Illuminate",
+        "Water Absorb"
+    ],
+    "stats": {
+        "HP": 125,
+        "Attack": 58,
+        "Defense": 58,
+        "Sp. Atk": 76,
+        "Sp. Def": 76,
+        "Speed": 67,
+        "Total": 460
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles .",
+            "Silver": "It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp.",
+            "Crystal": "This Pokémon uses the bright part of its body, which changed from a dorsal fin, to lure prey.",
+            "Stadium 2": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles. (Pokémon Red, Silver, or Crystal inserted) It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Lanturn is nicknamed “the deep-sea star” for its illuminated antenna. This Pok é mon produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna.",
+            "Sapphire": "Lanturn is known to emit light. If you peer down into the dark sea from a ship at night, you can sometimes see this Pok é mon 's light rising from the depths where it swims. It gives the sea an appearance of a starlit night.",
+            "Emerald": "The light-emitting orbs on its back are very bright. They are formed from a part of its dorsal fin. This Pok é mon illuminates the inky darkness of deep seas.",
+            "FireRed": "It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp.",
+            "LeafGreen": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles ."
+        },
+        "Generation IV": {
+            "Diamond": "Lanturn 's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
+            "Pearl": "Lanturn 's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
+            "Platinum": "Lanturn 's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
+            "HeartGold": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles .",
+            "SoulSilver": "It blinds prey with an intense burst of light. With the prey incapacitated, the Pokémon swallows it in a single gulp."
+        },
+        "Generation V": {
+            "Black": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
+            "White": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
+            "Black 2": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
+            "White 2": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\""
+        },
+        "Generation VI": {
+            "X": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
+            "Y": "It blinds prey with an intense burst of light. With the prey incapacitated, the Pokémon swallows it in a single gulp.",
+            "Omega Ruby": "Lanturn is nicknamed \"the deep-sea star\" for its illuminated antenna. This Pokémon produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna.",
+            "Alpha Sapphire": "Lanturn is known to emit light. If you peer down into the dark sea from a ship at night, you can sometimes see this Pokémon's light rising from the depths where it swims. It gives the sea an appearance of a starlit night."
+        },
+        "Generation VII": {
+            "Sun": "Should you peer into the ocean at night and see a light shining like the stars, that is Lanturn.",
+            "Moon": "This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
+            "Ultra Sun": "When the bacteria living inside its antennae absorb Lanturn's bodily fluids, a strong luminescent effect is produced.",
+            "Ultra Moon": "It lives far down in the depths of the ocean. It blinds its prey with light, using the moment they're dazzled to swallow them whole."
+        },
+        "Generation VIII": {
+            "Sword": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles.",
+            "Shield": "This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
+            "Brilliant Diamond": "Lanturn's light can shine up from great depths. It is nicknamed the Deep-Sea Star.",
+            "Shining Pearl": "Lanturn's light can shine up from great depths. It is nicknamed the Deep-Sea Star."
+        },
+        "Generation IX": {
+            "Scarlet": "Portions of its dorsal fin mutated, becoming the parts that glow brightly to lure prey.",
+            "Violet": "It blinds prey with an intense burst of light. With the prey incapacitated, the Pokémon swallows it in a single gulp."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 20 , 21 , 26 , 27 , 41 , Olivine City * , Vermilion City * , Pallet Town , New Bark Town , Cinnabar Island ( Super Rod )",
+            "Silver": "Routes 20 , 21 , 26 , 27 , 41 , Olivine City * , Vermilion City * , Pallet Town , New Bark Town , Cinnabar Island ( Super Rod )",
+            "Crystal": "Routes 20 , 21 , 26 , 27 , 41 , Olivine City * , Vermilion City * , Pallet Town , New Bark Town , Cinnabar Island ( Super Rod )"
+        },
+        "Generation III": {
+            "Ruby": "Evolve Chinchou",
+            "Sapphire": "Evolve Chinchou",
+            "Emerald": "Evolve Chinchou",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 220 ( Super Rod )",
+            "Pearl": "Route 220 ( Super Rod )",
+            "Platinum": "Evolve Chinchou",
+            "HeartGold": "Routes 20 , 21 , 26 , 27 , 41 , and 47 , New Bark Town , Pallet Town , Vermilion City , Cinnabar Island ( Super Rod )",
+            "SoulSilver": "Routes 20 , 21 , 26 , 27 , 41 , and 47 , New Bark Town , Pallet Town , Vermilion City , Cinnabar Island ( Super Rod )",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Driftveil City ( Fishing in rippling water )",
+            "White": "Driftveil City ( Fishing in rippling water )",
+            "Black 2": "Undella Bay ( Fishing in rippling water )",
+            "White 2": "Undella Bay ( Fishing in rippling water )"
+        },
+        "Generation VI": {
+            "X": "Shalour City , Azure Bay ( Super Rod )",
+            "Y": "Shalour City , Azure Bay ( Super Rod )",
+            "Omega Ruby": "Routes 107 , 124 , 126 , 128 , 129 , and 130 ( Underwater )",
+            "Alpha Sapphire": "Routes 107 , 124 , 126 , 128 , 129 , and 130 ( Underwater )"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Chinchou",
+            "Moon": "Evolve Chinchou",
+            "Ultra Sun": "Route 8 , Akala Outskirts ( SOS Battle )",
+            "Ultra Moon": "Route 8 , Akala Outskirts ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Bridge Field , Dusty Bowl , Lake of Outrage East Lake Axewell ( Wanderer ) East Lake Axewell , Giant's Cap , Giant's Mirror , Lake of Outrage , Motostoke Riverbank , North Lake Miloch , South Lake Miloch , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Bridge Field , Dusty Bowl , Lake of Outrage East Lake Axewell ( Wanderer ) East Lake Axewell , Giant's Cap , Giant's Mirror , Lake of Outrage , Motostoke Riverbank , North Lake Miloch , South Lake Miloch , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Workout Sea , Stepping-Stone Sea , Insular Sea , Honeycalm Island , Honeycalm Sea Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Route 220 ( Super Rod ) Grand Underground - Fountainspring Cave , Icy Cave , Glacial Cavern",
+            "Shining Pearl": "Route 220 ( Super Rod ) Grand Underground - Fountainspring Cave , Icy Cave , Glacial Cavern",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Canyon Biome , Chargestone Cavern Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Chinchou",
+            "to": "Lanturn",
+            "method": [
+                "Level 27"
+            ]
+        }
+    ]
+}

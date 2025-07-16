@@ -1,0 +1,139 @@
+{
+    "name": "Noctowl",
+    "pokedex_number": "#0164",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Insomnia",
+        "Keen Eye",
+        "Tinted Lens"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 50,
+        "Defense": 50,
+        "Sp. Atk": 76,
+        "Sp. Def": 96,
+        "Speed": 70,
+        "Total": 442
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
+            "Silver": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
+            "Crystal": "Its extremely soft feathers make no sound in flight. It silently sneaks up on prey without being detected.",
+            "Stadium 2": "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark. (Pokémon Red, Silver, or Crystal inserted) When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Noctowl never fails at catching prey in darkness. This Pok é mon owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight.",
+            "Sapphire": "Noctowl never fails at catching prey in darkness. This Pok é mon owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight.",
+            "Emerald": "It unfailingly catches prey in darkness. Noctowl owe their success to superior vision that allows them to see in minimal light, and to their supple and silent wings.",
+            "FireRed": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
+            "LeafGreen": "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark."
+        },
+        "Generation IV": {
+            "Diamond": "Its eyes are special. They can pick out objects as long as there is the tiniest amount of light.",
+            "Pearl": "If it flips its head upside down, it's a sign that it is engaged in very complex thinking.",
+            "Platinum": "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
+            "HeartGold": "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
+            "SoulSilver": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power."
+        },
+        "Generation V": {
+            "Black": "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
+            "White": "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
+            "Black 2": "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
+            "White 2": "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light."
+        },
+        "Generation VI": {
+            "X": "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
+            "Y": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
+            "Omega Ruby": "Noctowl never fails at catching prey in darkness. This Pokémon owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight.",
+            "Alpha Sapphire": "Noctowl never fails at catching prey in darkness. This Pokémon owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight."
+        },
+        "Generation VII": {
+            "Ultra Sun": "With eyes that can see in pitch-darkness, it never lets its prey escape. Some even call it “the emperor of dark nights.”",
+            "Ultra Moon": "When it turns its head entirely upside down, you know it's troubled by something. If you don't leave it be, it will peck you."
+        },
+        "Generation VIII": {
+            "Sword": "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
+            "Shield": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
+            "Brilliant Diamond": "Its eyes are special. They can pick out objects as long as there is the tiniest amount of light.",
+            "Shining Pearl": "If it flips its head upside down, it's a sign that it is engaged in very complex thinking."
+        },
+        "Generation IX": {
+            "Scarlet": "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
+            "Violet": "Its extremely soft wings make no sound in flight. It silently sneaks up on prey without being detected."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 2 , 8 , 13 , 14 , 15 , and 43 Night",
+            "Silver": "Routes 2 , 8 , 13 , 14 , 15 , and 43 Night",
+            "Crystal": "Routes 2 , 5 , 8 , 11 , 13 , 14 , 15 , 25 , 26 , 27 , 37 , 38 , 39 , 43 Night Ilex Forest ( Headbutt trees )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Evolve Hoothoot",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Pyrite Town (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 210 , 211 , 216 , and 217 , Acuity Lakefront , Lake Acuity , Mt. Coronet , Great Marsh , Lake Valor , Sendoff Spring Night",
+            "Pearl": "Routes 210 , 211 , 216 , and 217 , Acuity Lakefront , Lake Acuity , Mt. Coronet , Great Marsh , Lake Valor , Sendoff Spring Night",
+            "Platinum": "Routes 210 , 211 , Great Marsh , Mt. Coronet Night",
+            "HeartGold": "Routes 2 , 8 , 13 , 14 , 15 , 43 , 47 , Viridian Forest Night Ilex Forest , Viridian Forest ( Headbutt trees )",
+            "SoulSilver": "Routes 2 , 8 , 13 , 14 , 15 , 43 , 47 , Viridian Forest Night Ilex Forest , Viridian Forest ( Headbutt trees )",
+            "Pal Park": "Forest",
+            "Pokéwalker": "Quiet Cave"
+        },
+        "Generation V": {
+            "Black": "Abundant Shrine",
+            "White": "Abundant Shrine",
+            "Black 2": "Nature Preserve",
+            "White 2": "Nature Preserve"
+        },
+        "Generation VI": {
+            "X": "Route 20 , Pokémon Village",
+            "Y": "Route 20 , Pokémon Village",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Lush Jungle Night ( SOS Battle )",
+            "Ultra Moon": "Lush Jungle Night ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Bridge Field , Giant's Cap , Motostoke Outskirts , Motostoke Riverbank East Lake Axewell , Giant's Cap , Hammerlocke Hills , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Bridge Field , Giant's Cap , Motostoke Outskirts , Motostoke Riverbank East Lake Axewell , Giant's Cap , Hammerlocke Hills , Rolling Fields ( Max Raid Battle )",
+            "Expansion Pass": "Loop Lagoon ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Routes 210 , 211 , 216 , and 217 , Acuity Lakefront , Lake Acuity , Mt. Coronet , Great Marsh , Lake Valor , Sendoff Spring Night",
+            "Shining Pearl": "Routes 210 , 211 , 216 , and 217 , Acuity Lakefront , Lake Acuity , Mt. Coronet , Great Marsh , Lake Valor , Sendoff Spring Night",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Mossfell Confluence , Fellhorn Gorge , Oni Mountain , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods Tera Raid Battles ( 3★ , 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Hoothoot",
+            "to": "Noctowl",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

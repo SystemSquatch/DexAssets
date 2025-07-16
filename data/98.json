@@ -1,0 +1,154 @@
+{
+    "name": "Krabby",
+    "pokedex_number": "#0098",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Hyper Cutter",
+        "Shell Armor",
+        "Sheer Force"
+    ],
+    "stats": {
+        "HP": 30,
+        "Attack": 105,
+        "Defense": 90,
+        "Sp. Atk": 25,
+        "Sp. Def": 25,
+        "Speed": 50,
+        "Total": 325
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+            "Yellow": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.",
+            "Stadium": "Lives on beaches and seashores. If a pincer falls off, a new, stronger pincer grows back in its place."
+        },
+        "Generation II": {
+            "Gold": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+            "Silver": "The pincers break off easily. If it loses a pincer, it somehow becomes incapable of walking sideways.",
+            "Crystal": "If it is unable to find food, it will absorb nutrients by swallowing a mouthful of sand.",
+            "Stadium 2": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger. (Pokémon Red, Silver, or Crystal inserted) The pincers break off easily. If it loses a pincer, it somehow becomes incapable of walking sideways. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pok é mon can be seen squabbling with each other over territory.",
+            "Sapphire": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pok é mon can be seen squabbling with each other over territory.",
+            "Emerald": "Krabby live in holes dug into beaches. On sandy shores with little in the way of food, they can be seen squabbling with each other over territory.",
+            "FireRed": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
+            "LeafGreen": "Its pincers are not only powerful weapons, they are used for balance when walking sideways."
+        },
+        "Generation IV": {
+            "Diamond": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
+            "Pearl": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
+            "Platinum": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
+            "HeartGold": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+            "SoulSilver": "The pincers break off easily. If it loses a pincer, it somehow becomes incapable of walking sideways."
+        },
+        "Generation V": {
+            "Black": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
+            "White": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
+            "Black 2": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
+            "White 2": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle."
+        },
+        "Generation VI": {
+            "X": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+            "Y": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
+            "Omega Ruby": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
+            "Alpha Sapphire": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.",
+            "Let's Go Eevee": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast."
+        },
+        "Generation VIII": {
+            "Sword": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
+            "Shield": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+            "Brilliant Diamond": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are lost in battle.",
+            "Shining Pearl": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are lost in battle."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 6 , 11 , 12 , 13 , 17 , 18 , 24 , and 25 , Cerulean City , Vermilion City , Fuchsia City , Safari Zone ( Super Rod )",
+            "Blue": "Routes 6 , 11 , 12 , 13 , 17 , 18 , 24 , and 25 , Cerulean City , Vermilion City , Fuchsia City , Safari Zone ( Super Rod ) Seafoam Islands",
+            "Blue (Japan)": "Routes 6 , 11 , 12 , 13 , 17 , 18 , 24 , and 25 , Cerulean City , Vermilion City , Fuchsia City , Safari Zone ( Super Rod ) Seafoam Islands Trade Growlithe at the Pokémon Lab on Cinnabar Island",
+            "Yellow": "Routes 10 and 25 , Seafoam Islands ( Super Rod ) Seafoam Islands"
+        },
+        "Generation II": {
+            "Gold": "Whirl Islands (walking and fishing ) Route 40 , Cianwood City ( Rock Smash and fishing ) Routes 19 , 34 , Cherrygrove City , Olivine City , Cerulean Gym , Cerulean City , Union Cave ( fishing ) Dark Cave ( Rock Smash )",
+            "Silver": "Whirl Islands (walking and fishing ) Route 40 , Cianwood City ( Rock Smash and fishing ) Routes 19 , 34 , Cherrygrove City , Olivine City , Cerulean Gym , Cerulean City , Union Cave ( fishing ) Dark Cave ( Rock Smash )",
+            "Crystal": "Whirl Islands (walking and fishing ) Routes 19 , 34 , Cherrygrove City , Olivine City , Cerulean City , Union Cave ( fishing ) Route 40 and Cianwood City ( Rock Smash and fishing ) Dark Cave ( Rock Smash )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Routes 4 , 10 , 11 , 12 , 13 , 19 , 20 , 21 , and 24 , Cerulean City , Vermilion City , Seafoam Islands , Cinnabar Island , Pallet Town ( Good Rod )",
+            "LeafGreen": "Routes 4 , 10 , 11 , 12 , 13 , 19 , 20 , 21 , and 24 , Cerulean City , Vermilion City , Seafoam Islands , Treasure Beach , Kindle Road , Bond Bridge , Resort Gorgeous , Water Labyrinth , Water Path , Green Path , Outcast Island , Tanoby Ruins , Five Isle Meadow , Memorial Pillar , One Island , Five Island , Icefall Cave , Trainer Tower , Cinnabar Island , Pallet Town ( Good Rod and Super Rod ) Seafoam Islands ( Surfing )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 226 ( Swarm )",
+            "Pearl": "Route 226 ( Swarm )",
+            "Platinum": "Route 226 ( Swarm )",
+            "HeartGold": "Routes 34 and 40 , Cherrygrove City , Olivine City , Union Cave B2F ( fishing ) Route 19 , Cianwood City ( Rock Smash and fishing ) Whirl Islands (walking and fishing ) Seafoam Islands B4F ( Old Rod and Good Rod ) Cliff Cave (walking and Rock Smash ) Safari Zone (Mountain with 3 Waterside points; tall grass and Good Rod in Rocky Beach, default; Old Rod in Rocky Beach - default, with 2 Waterside points, and with 3 Waterside points)",
+            "SoulSilver": "Routes 34 and 40 , Cherrygrove City , Olivine City , Union Cave B2F ( fishing ) Route 19 , Cianwood City ( Rock Smash and fishing ) Whirl Islands (walking and fishing ) Seafoam Islands B4F ( Old Rod and Good Rod ) Cliff Cave (walking and Rock Smash ) Safari Zone (Mountain with 3 Waterside points; tall grass and Good Rod in Rocky Beach, default; Old Rod in Rocky Beach - default, with 2 Waterside points, and with 3 Waterside points)",
+            "Pal Park": "Sea",
+            "Pokéwalker": "Blue Lake"
+        },
+        "Generation V": {
+            "Black": "Routes 4 and 13 , Driftveil City ( fishing )",
+            "White": "Routes 4 and 13 , Driftveil City ( fishing )",
+            "Black 2": "Virbank City , Virbank Complex ( fishing )",
+            "White 2": "Virbank City , Virbank Complex ( fishing )",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Water )",
+            "Y": "Friend Safari ( Water )",
+            "Omega Ruby": "Routes 105 , 106 , 107 , 108 , and 109 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Routes 105 , 106 , 107 , 108 , and 109 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Routes 10 , 12 and 13",
+            "Let's Go Eevee": "Routes 10 , 12 and 13"
+        },
+        "Generation VIII": {
+            "Sword": "West Lake Axewell , South Lake Miloch Giant's Cap ( fishing ) Dusty Bowl , Giant's Cap , Giant's Mirror , North Lake Miloch , South Lake Miloch , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "West Lake Axewell , South Lake Miloch Giant's Cap ( fishing ) Dusty Bowl , Giant's Cap , Giant's Mirror , North Lake Miloch , South Lake Miloch , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor , Loop Lagoon Fields of Honor , Challenge Beach , Loop Lagoon , Insular Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 226 ( Swarm ) Grand Underground - Spacious Cave , Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 226 ( Swarm ) Grand Underground - Spacious Cave , Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Krabby",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Krabby",
+            "to": "Kingler",
+            "method": [
+                "Level 28"
+            ]
+        }
+    ]
+}

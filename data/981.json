@@ -1,0 +1,46 @@
+{
+    "name": "Farigiraf",
+    "pokedex_number": "#0981",
+    "types": [
+        "Normal",
+        "Psychic"
+    ],
+    "abilities": [
+        "Cud Chew",
+        "Armor Tail",
+        "Sap Sipper"
+    ],
+    "stats": {
+        "HP": 120,
+        "Attack": 90,
+        "Defense": 70,
+        "Sp. Atk": 110,
+        "Sp. Def": 70,
+        "Speed": 60,
+        "Total": 520
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Now that the brain waves from the head and tail are synced up, the psychic power of this Pokémon is 10 times stronger than Girafarig ’s.",
+            "Violet": "The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Area Zero Tera Raid Battles ( 4★ , 6★ )",
+            "Violet": "Area Zero Tera Raid Battles ( 4★ , 6★ )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Girafarig",
+            "to": "Farigiraf",
+            "method": [
+                "Level up (knowing Twin Beam)"
+            ]
+        }
+    ]
+}

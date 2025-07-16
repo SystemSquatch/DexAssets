@@ -1,0 +1,44 @@
+{
+    "name": "Dachsbun",
+    "pokedex_number": "#0927",
+    "types": [
+        "Fairy",
+        "Unknown"
+    ],
+    "abilities": [
+        "Well-Baked Body",
+        "Aroma Veil"
+    ],
+    "stats": {
+        "HP": 57,
+        "Attack": 80,
+        "Defense": 115,
+        "Sp. Atk": 50,
+        "Sp. Def": 80,
+        "Speed": 95,
+        "Total": 477
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "The pleasant aroma that emanates from this Pokémon’s body helps wheat grow, so Dachsbun has been treasured by farming villages.",
+            "Violet": "The surface of this Pokémon's skin hardens when exposed to intense heat, and its body has an appetizing aroma."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six East Province: Area Three West Province: Area Three Tera Raid Battles ( 4★ , 6★ )",
+            "Violet": "South Province: Area Six East Province: Area Three West Province: Area Three Tera Raid Battles ( 4★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Fidough",
+            "to": "Dachsbun",
+            "method": [
+                "Level 26"
+            ]
+        }
+    ]
+}

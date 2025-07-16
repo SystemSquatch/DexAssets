@@ -1,0 +1,52 @@
+{
+    "name": "Wattrel",
+    "pokedex_number": "#0940",
+    "types": [
+        "Electric",
+        "Flying"
+    ],
+    "abilities": [
+        "Wind Power",
+        "Volt Absorb",
+        "Competitive"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 35,
+        "Sp. Atk": 55,
+        "Sp. Def": 40,
+        "Speed": 70,
+        "Total": 280
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.",
+            "Violet": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they're a popular delicacy."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: South Paldean Sea East Province: Area Two , East Paldean Sea West Province: Area One , West Paldean Sea Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: South Paldean Sea East Province: Area Two , East Paldean Sea West Province: Area One , West Paldean Sea Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Wattrel",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Wattrel",
+            "to": "Kilowattrel",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

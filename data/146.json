@@ -1,0 +1,138 @@
+{
+    "name": "Moltres",
+    "pokedex_number": "#0146",
+    "types": [
+        "Fire",
+        "Flying"
+    ],
+    "abilities": [
+        "Pressure",
+        "Berserk",
+        "Flame Body"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 90,
+        "Sp. Atk": 125,
+        "Sp. Def": 85,
+        "Speed": 90,
+        "Total": 580
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
+            "Yellow": "A legendary bird Pok é mon . As it flaps its flaming wings, even the night sky will turn red.",
+            "Stadium": "A legendary bird Pokémon known as the \"fire bird.\" Every time it flaps, its wings flare and burn brightly."
+        },
+        "Generation II": {
+            "Gold": "This legendary Pok é mon scatters embers with every flap of its wings. It is a thrilling sight to behold.",
+            "Silver": "This legendary bird Pok é mon is said to bring early spring to the wintry lands it visits.",
+            "Crystal": "Legendary bird Pok é mon . It is said to migrate from the south along with the spring.",
+            "Stadium 2": "This legendary Pok é mon scatters embers with every flap of its wings. It is a thrilling sight to behold. (Pokémon Red, Silver, or Crystal inserted) This legendary bird Pok é mon is said to bring early spring to the wintry lands it visits. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Moltres is a legendary bird Pok é mon that has the ability to control fire. If this Pok é mon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
+            "Sapphire": "Moltres is a legendary bird Pok é mon that has the ability to control fire. If this Pok é mon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
+            "Emerald": "Moltres is a legendary bird Pok é mon that can control fire. If injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
+            "FireRed": "One of the legendary bird Pok é mon . Those seeing it are overwhelmed by its orange wings that seem to be on fire.",
+            "LeafGreen": "It is said to be the legendary bird Pok é mon of fire. Every flap of its wings creates a dazzling flare of flames."
+        },
+        "Generation IV": {
+            "Diamond": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.",
+            "Pearl": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.",
+            "Platinum": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.",
+            "HeartGold": "This legendary Pokémon scatters embers with every flap of its wings. It is a thrilling sight to behold.",
+            "SoulSilver": "This legendary bird Pokémon is said to bring early spring to the wintry lands it visits."
+        },
+        "Generation V": {
+            "Black": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.",
+            "White": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.",
+            "Black 2": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.",
+            "White 2": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring."
+        },
+        "Generation VI": {
+            "X": "It is said to be the legendary bird Pokémon of fire. Every flap of its wings creates a dazzling flare of flames.",
+            "Y": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.",
+            "Omega Ruby": "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
+            "Alpha Sapphire": "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "A legendary bird Pokémon. As it flaps its flaming wings, even the night sky will turn red.",
+            "Let's Go Eevee": "A legendary bird Pokémon. As it flaps its flaming wings, even the night sky will turn red."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon's sinister, flame-like aura will consume the spirit of any creature it hits. Victims become burned-out shadows of themselves.",
+            "Shield": "The sinister aura that blazes like molten fire around this Pokémon is what inspired the name Moltres.",
+            "Brilliant Diamond": "It is one of the legendary bird Pokémon. Its appearance is said to indicate the coming of spring.",
+            "Shining Pearl": "It is one of the legendary bird Pokémon. Its appearance is said to indicate the coming of spring."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Victory Road ( Only one )",
+            "Blue": "Victory Road ( Only one )",
+            "Blue (Japan)": "Victory Road ( Only one )",
+            "Yellow": "Victory Road ( Only one )"
+        },
+        "Generation II": {
+            "Gold": "Time Capsule , Event",
+            "Silver": "Time Capsule , Event",
+            "Crystal": "Time Capsule , Event"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Mt. Ember ( Only one )",
+            "LeafGreen": "Mt. Ember ( Only one )",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Roaming Sinnoh ( Only one )",
+            "HeartGold": "Mt. Silver Cave ( Only one )",
+            "SoulSilver": "Mt. Silver Cave ( Only one )",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Sea Spirit's Den * ( Only one ) (if the player chose Froakie )",
+            "Y": "Sea Spirit's Den * ( Only one ) (if the player chose Froakie )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Cliff World ) ( Only one )",
+            "Ultra Moon": "Ultra Space Wilds ( Cliff World ) ( Only one )",
+            "Let's Go Pikachu": "Victory Road ( Only one ) Routes 1 , 2 , 3 , 4 , 6 , 7 , 8 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 21 , 22 , 23 , 24 , and 25",
+            "Let's Go Eevee": "Victory Road ( Only one ) Routes 1 , 2 , 3 , 4 , 6 , 7 , 8 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 21 , 22 , 23 , 24 , and 25"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one ) ( Kantonian Form ) Roaming Isle of Armor ( Only one ) ( Galarian Form )",
+            "Brilliant Diamond": "Trade ( Kantonian Form ) Unobtainable ( Galarian Form )",
+            "Shining Pearl": "Ramanas Park ( Kanto Room ) (requires Kanto Slate ) ( Only one ) ( Kantonian Form ) Unobtainable ( Galarian Form )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade ( Kantonian Form ) Pokémon HOME ( Galarian Form )",
+            "Violet": "Trade ( Kantonian Form ) Pokémon HOME ( Galarian Form )",
+            "The Hidden Treasure of Area Zero": "Asado Desert after receiving the Moltres Treat from Snacksworth ( Only one ) ( Solo Quest ) ( Kantonian Form )"
+        }
+    },
+    "evolution": []
+}

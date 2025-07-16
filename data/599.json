@@ -1,0 +1,93 @@
+{
+    "name": "Klink",
+    "pokedex_number": "#0599",
+    "types": [
+        "Steel",
+        "Unknown"
+    ],
+    "abilities": [
+        "Plus",
+        "Minus",
+        "Clear Body"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 70,
+        "Sp. Atk": 45,
+        "Sp. Def": 60,
+        "Speed": 30,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
+            "White": "Interlocking two bodies and spinning around generates the energy they need to live.",
+            "Black 2": "Two bodies comprise a fixed pair. They spin around each other to generate energy.",
+            "White 2": "Two bodies comprise a fixed pair. They spin around each other to generate energy."
+        },
+        "Generation VI": {
+            "X": "Interlocking two bodies and spinning around generates the energy they need to live.",
+            "Y": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
+            "Omega Ruby": "Interlocking two bodies and spinning around generates the energy they need to live.",
+            "Alpha Sapphire": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "The two minigears that compose this Pokémon are closer than twins. They mesh well only with each other.",
+            "Shield": "It's suspected that Klink were the inspiration behind ancient people's invention of the first gears."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Chargestone Cave , P2 Laboratory",
+            "White": "Chargestone Cave , P2 Laboratory",
+            "Black 2": "Chargestone Cave Chargestone Cave ( N's Pokémon )",
+            "White 2": "Chargestone Cave Chargestone Cave ( N's Pokémon )"
+        },
+        "Generation VI": {
+            "X": "Breed Klang or Klinklang",
+            "Y": "Breed Klang or Klinklang",
+            "Omega Ruby": "Mirage Caves (West of Route 115 , north of Fortree City , and north of Route 124 )",
+            "Alpha Sapphire": "Mirage Caves (West of Route 115 , north of Fortree City , and north of Route 124 )"
+        },
+        "Generation VII": {
+            "Sun": "Hau'oli City ( Island Scan ) Th",
+            "Moon": "Hau'oli City ( Island Scan ) Th",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 3 , Dappled Grove , West Lake Axewell , Axew's Eye , North Lake Miloch , South Lake Miloch , Hammerlocke Hills Dusty Bowl , Giant's Seat , Hammerlocke Hills , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 3 , Dappled Grove , West Lake Axewell , Axew's Eye , North Lake Miloch , South Lake Miloch , Hammerlocke Hills Dusty Bowl , Giant's Seat , Hammerlocke Hills , Stony Wilderness ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Klink",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Klink",
+            "to": "Klang",
+            "method": [
+                "Level 38"
+            ]
+        }
+    ]
+}

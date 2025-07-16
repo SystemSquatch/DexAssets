@@ -1,0 +1,61 @@
+{
+    "name": "Wooloo",
+    "pokedex_number": "#0831",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Fluffy",
+        "Run Away",
+        "Bulletproof"
+    ],
+    "stats": {
+        "HP": 42,
+        "Attack": 40,
+        "Defense": 55,
+        "Sp. Atk": 40,
+        "Sp. Def": 45,
+        "Speed": 48,
+        "Total": 270
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom, unharmed.",
+            "Shield": "If its fleece grows too long, Wooloo won't be able to move. Cloth made with the wool of this Pokémon is surprisingly strong."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Routes 1 and 4 , Motostoke Riverbank Bridge Field , East Lake Axewell , Motostoke Riverbank , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Routes 1 and 4 , Motostoke Riverbank Bridge Field , East Lake Axewell , Motostoke Riverbank , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Slippery Slope , Frostpoint Field , Giant's Bed , Snowslide Slope , Three-Point Pass Slippery Slope , Giant's Bed , Giant's Foot , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Wooloo",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Wooloo",
+            "to": "Dubwool",
+            "method": [
+                "Level 24"
+            ]
+        }
+    ]
+}

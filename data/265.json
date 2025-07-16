@@ -1,0 +1,133 @@
+{
+    "name": "Wurmple",
+    "pokedex_number": "#0265",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Shield Dust",
+        "Run Away"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 45,
+        "Defense": 35,
+        "Sp. Atk": 20,
+        "Sp. Def": 30,
+        "Speed": 20,
+        "Total": 195
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Using the spikes on its rear end, Wurmple peels the bark off trees and feeds on the sap that oozes out. This Pok é mon 's feet are tipped with suction pads that allow it to cling to glass without slipping.",
+            "Sapphire": "Wurmple is targeted by Swellow as prey. This Pok é mon will try to resist by pointing the spikes on its rear at the attacking predator. It will weaken the foe by leaking poison from the spikes.",
+            "Emerald": "It sticks to tree branches and eats leaves. The thread it spits from its mouth, which becomes gooey when it touches air, slows the movement of its foes.",
+            "FireRed": "It lives amidst tall grass and in forests. When attacked, it resists by pointing its venomous spikes at the foe.",
+            "LeafGreen": "It lives amidst tall grass and in forests. When attacked, it resists by pointing its venomous spikes at the foe."
+        },
+        "Generation IV": {
+            "Diamond": "It loves to eat leaves. If it is attacked by a Starly , it will defend itself with its spiked rear.",
+            "Pearl": "It spits a white silk that turns sticky when it contacts air. It is used to immobilize foes.",
+            "Platinum": "Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.",
+            "HeartGold": "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.",
+            "SoulSilver": "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear."
+        },
+        "Generation V": {
+            "Black": "Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.",
+            "White": "Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.",
+            "Black 2": "Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.",
+            "White 2": "Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes."
+        },
+        "Generation VI": {
+            "X": "It loves to eat leaves. If it is attacked by a Starly, it will defend itself with its spiked rear.",
+            "Y": "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.",
+            "Omega Ruby": "Using the spikes on its rear end, Wurmple peels the bark off trees and feeds on the sap that oozes out. This Pokémon's feet are tipped with suction pads that allow it to cling to glass without slipping.",
+            "Alpha Sapphire": "Wurmple is targeted by Swellow as prey. This Pokémon will try to resist by pointing the spikes on its rear at the attacking predator. It will weaken the foe by leaking poison from the spikes."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It loves to eat leaves. If it is attacked by a Starly, it will defend itself with its spiked rear.",
+            "Shining Pearl": "It spits a white silk thread that turns sticky when coming into contact with air. The silk is used to immobilize foes.",
+            "Legends: Arceus": "Likes sap and is abundant in the wild. Why it evolves into various different forms is unknown. One cannot tell from a Wurmple's appearance which form it will take when it evolves."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Routes 101 , 102 , and 104 , Petalburg Woods",
+            "Sapphire": "Routes 101 , 102 , and 104 , Petalburg Woods",
+            "Emerald": "Routes 101 , 102 , and 104 , Petalburg Woods",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Eterna Forest Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "Pearl": "Eterna Forest Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "Platinum": "Routes 204 and 205 , Eterna Forest Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "HeartGold": "Routes 1 , 2 , 3 , 4 , 12 , 13 , 14 , 15 , 18 , 21 , and 22 , Pallet Town , Viridian City , Pewter City , Fuchsia City ( Headbutt trees ) National Park ( Bug-Catching Contest ) Th Sa",
+            "SoulSilver": "Routes 1 , 2 , 3 , 4 , 12 , 13 , 14 , 15 , 18 , 21 , and 22 , Pallet Town , Viridian City , Pewter City , Fuchsia City ( Headbutt trees ) National Park ( Bug-Catching Contest ) Th Sa",
+            "Pal Park": "Forest",
+            "Pokéwalker": "Hoenn Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Breed Cascoon , Dustox , or Beautifly",
+            "Y": "Breed Cascoon , Dustox , or Beautifly",
+            "Omega Ruby": "Routes 101 , 102 , and 104 , Petalburg Woods",
+            "Alpha Sapphire": "Routes 101 , 102 , and 104 , Petalburg Woods"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Eterna Forest Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees ) Grand Underground - Grassland Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern",
+            "Shining Pearl": "Eterna Forest Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees ) Grand Underground - Grassland Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern",
+            "Legends: Arceus": "Obsidian Fieldlands : near Aspiration Hill , Floaro Gardens , Horseshoe Plains , The Heartwood , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Wurmple",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Wurmple",
+            "to": "Silcoon",
+            "method": [
+                "Level 7"
+            ]
+        },
+        {
+            "from": "Wurmple",
+            "to": "Cascoon",
+            "method": [
+                "Level 7"
+            ]
+        }
+    ]
+}

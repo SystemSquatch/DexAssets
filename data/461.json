@@ -1,0 +1,112 @@
+{
+    "name": "Weavile",
+    "pokedex_number": "#0461",
+    "types": [
+        "Dark",
+        "Ice"
+    ],
+    "abilities": [
+        "Pressure",
+        "Pickpocket"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 120,
+        "Defense": 65,
+        "Sp. Atk": 45,
+        "Sp. Def": 85,
+        "Speed": 125,
+        "Total": 510
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
+            "Pearl": "It sends signals to others by carving odd patterns in frost-covered trees and ice.",
+            "Platinum": "Evolution made it even more devious. It communicates by clawing signs in boulders.",
+            "HeartGold": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others.",
+            "SoulSilver": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others."
+        },
+        "Generation V": {
+            "Black": "Evolution made it even more devious. It communicates by clawing signs in boulders.",
+            "White": "Evolution made it even more devious. It communicates by clawing signs in boulders.",
+            "Black 2": "They communicate by clawing signs in boulders and work together to surround enemies.",
+            "White 2": "They communicate by clawing signs in boulders and work together to surround enemies."
+        },
+        "Generation VI": {
+            "X": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others.",
+            "Y": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
+            "Omega Ruby": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others.",
+            "Alpha Sapphire": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination."
+        },
+        "Generation VII": {
+            "Sun": "They travel in groups of four or five, leaving signs for one another on trees and rocks. They bring down their prey with coordinated attacks.",
+            "Moon": "They dwell in cold places. This Pokémon's main food source in Alola is Vulpix and Sandshrew , which they carefully divide among their group.",
+            "Ultra Sun": "One Weavile will trip a Sandshrew and flip it over, and then another Weavile will deal the finishing blow with its sharp claws.",
+            "Ultra Moon": "Thanks to its increased intelligence, scrapping over food is a thing of the past. A scratch from its claws will give you a case of frostbite!"
+        },
+        "Generation VIII": {
+            "Sword": "They attack their quarry in packs. Prey as large as Mamoswine easily fall to the teamwork of a group of Weavile.",
+            "Shield": "With its claws, it leaves behind signs for its friends to find. The number of distinct signs is said to be over 500.",
+            "Brilliant Diamond": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
+            "Shining Pearl": "It sends signals to others of its kind by carving odd patterns on trees and ice.",
+            "Legends: Arceus": "This species corners prey as a pack, under the guidance of a leader. Weavile displays increased cunning, leading me to speculate that its evolution caused further brain development."
+        },
+        "Generation IX": {
+            "Scarlet": "Evolution made it even more devious. It communicates by clawing signs in boulders.",
+            "Violet": "They travel in groups of four or five, leaving signs for one another on trees and rocks. They bring down their prey with coordinated attacks."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Sneasel",
+            "Pearl": "Evolve Sneasel",
+            "Platinum": "Evolve Sneasel",
+            "HeartGold": "Evolve Sneasel",
+            "SoulSilver": "Evolve Sneasel"
+        },
+        "Generation V": {
+            "Black": "Evolve Sneasel",
+            "White": "Evolve Sneasel",
+            "Black 2": "Evolve Sneasel",
+            "White 2": "Evolve Sneasel"
+        },
+        "Generation VI": {
+            "X": "Evolve Sneasel",
+            "Y": "Evolve Sneasel",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Sneasel",
+            "Moon": "Evolve Sneasel",
+            "Ultra Sun": "Evolve Sneasel",
+            "Ultra Moon": "Evolve Sneasel",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Bridge Field ( Wanderer ) Bridge Field , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Bridge Field ( Wanderer ) Bridge Field , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Slippery Slope , Frostpoint Field , Snowslide Slope ( Wanderer ) Frostpoint Field , Giant's Bed , Snowslide Slope , Giant's Foot , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Sneasel",
+            "Shining Pearl": "Evolve Sneasel",
+            "Legends: Arceus": "Obsidian Fieldlands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Glaseado Mountain Tera Raid Battles ( 5★ )",
+            "Violet": "North Province: Glaseado Mountain Tera Raid Battles ( 5★ )",
+            "The Hidden Treasure of Area Zero": "Evolve Sneasel"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Sneasel",
+            "to": "Weavile",
+            "method": [
+                "Level up (holding Razor Claw, during the night)"
+            ]
+        }
+    ]
+}

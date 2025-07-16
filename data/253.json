@@ -1,0 +1,128 @@
+{
+    "name": "Grovyle",
+    "pokedex_number": "#0253",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Unburden"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 45,
+        "Sp. Atk": 85,
+        "Sp. Def": 65,
+        "Speed": 95,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "The leaves growing out of Grovyle 's body are convenient for camouflaging it from enemies in the forest. This Pok é mon is a master at climbing trees in jungles.",
+            "Sapphire": "This Pok é mon adeptly flies from branch to branch in trees. In a forest, no Pok é mon can ever hope to catch a fleeing Grovyle however fast they may be.",
+            "Emerald": "Leaves grow out of this Pok é mon 's body. They help obscure a Grovyle from the eyes of its enemies while it is in a thickly overgrown forest.",
+            "FireRed": "Its strongly developed thigh muscles give it astounding agility and jumping performance.",
+            "LeafGreen": "Its strongly developed thigh muscles give it astounding agility and jumping performance."
+        },
+        "Generation IV": {
+            "Diamond": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+            "Pearl": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+            "Platinum": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+            "HeartGold": "It leaps from tree branch to tree branch quite swiftly. It shows astounding agility.",
+            "SoulSilver": "It leaps from tree branch to tree branch quite swiftly. It shows astounding agility."
+        },
+        "Generation V": {
+            "Black": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+            "White": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+            "Black 2": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+            "White 2": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch."
+        },
+        "Generation VI": {
+            "X": "Its strongly developed thigh muscles give it astounding agility and jumping performance.",
+            "Y": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+            "Omega Ruby": "The leaves growing out of Grovyle's body are convenient for camouflaging it from enemies in the forest. This Pokémon is a master at climbing trees in jungles.",
+            "Alpha Sapphire": "This Pokémon adeptly flies from branch to branch in trees. In a forest, no Pokémon can ever hope to catch a fleeing Grovyle however fast they may be."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+            "Shining Pearl": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch."
+        },
+        "Generation IX": {
+            "Scarlet": "Its strongly developed thigh muscles give it astounding agility and jumping performance.",
+            "Violet": "Grovyle leaps from branch to branch in large trees, moving with ease. It propels itself with astounding speed and force."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Treecko",
+            "Sapphire": "Evolve Treecko",
+            "Emerald": "Evolve Treecko",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Treecko",
+            "SoulSilver": "Evolve Treecko",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer , Evolve event Treecko",
+            "White": "Poké Transfer , Evolve event Treecko",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Treecko",
+            "Alpha Sapphire": "Evolve Treecko"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 5 ( Island Scan ) Fr",
+            "Ultra Moon": "Route 5 ( Island Scan ) Fr",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Treecko",
+            "Shining Pearl": "Evolve Treecko",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Treecko"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Treecko",
+            "to": "Grovyle",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Grovyle",
+            "to": "Sceptile",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

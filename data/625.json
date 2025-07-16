@@ -1,0 +1,101 @@
+{
+    "name": "Bisharp",
+    "pokedex_number": "#0625",
+    "types": [
+        "Dark",
+        "Steel"
+    ],
+    "abilities": [
+        "Defiant",
+        "Inner Focus",
+        "Pressure"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 100,
+        "Sp. Atk": 60,
+        "Sp. Def": 70,
+        "Speed": 70,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It leads a group of Pawniard . It battles to become the boss, but will be driven from the group if it loses.",
+            "White": "Bisharp pursues prey in the company of a large group of Pawniard . Then Bisharp finishes off the prey.",
+            "Black 2": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+            "White 2": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off."
+        },
+        "Generation VI": {
+            "X": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+            "Y": "Bisharp pursues prey in the company of a large group of Pawniard . Then Bisharp finishes off the prey.",
+            "Omega Ruby": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+            "Alpha Sapphire": "Bisharp pursues prey in the company of a large group of Pawniard . Then Bisharp finishes off the prey."
+        },
+        "Generation VII": {
+            "Ultra Sun": "No matter how strong the Bisharp, it's said that if the blade on its head is chipped, it will retire from its position as the boss.",
+            "Ultra Moon": "It leads a group of Pawniard . Bisharp doesn't even change its expression when it deals the finishing blow to an opponent."
+        },
+        "Generation VIII": {
+            "Sword": "It's accompanied by a large retinue of Pawniard . Bisharp keeps a keen eye on its minions, ensuring none of them even think of double-crossing it.",
+            "Shield": "Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon commands a group of several Pawniard . Groups that are defeated in territorial disputes are absorbed by the winning side.",
+            "Violet": "Bisharp mercilessly cuts its opponents to pieces with the sharp blades covering its body. It will do anything to win."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 11 ( dark grass )",
+            "White": "Route 11 ( dark grass )",
+            "Black 2": "Evolve Pawniard",
+            "White 2": "Evolve Pawniard"
+        },
+        "Generation VI": {
+            "X": "Trade Jigglypuff in Snowbelle City",
+            "Y": "Trade Jigglypuff in Snowbelle City",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 17",
+            "Ultra Moon": "Route 17",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Giant's Seat , Motostoke Riverbank ( Wanderer ) West Lake Axewell , Giant's Seat , Stony Wilderness , Giant's Mirror , Dusty Bowl , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Lake of Outrage Giant's Seat , Motostoke Riverbank ( Wanderer ) West Lake Axewell , Giant's Seat , Stony Wilderness , Giant's Mirror , Dusty Bowl , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Challenge Road , Training Lowlands ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Area Two Area Zero Tera Raid Battles ( 4★ )",
+            "Violet": "North Province: Area Two Area Zero Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero": "Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Pawniard",
+            "to": "Bisharp",
+            "method": [
+                "Level 52"
+            ]
+        },
+        {
+            "from": "Bisharp",
+            "to": "Kingambit",
+            "method": [
+                "Other"
+            ]
+        }
+    ]
+}

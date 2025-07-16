@@ -1,0 +1,147 @@
+{
+    "name": "Kabutops",
+    "pokedex_number": "#0141",
+    "types": [
+        "Rock",
+        "Water"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Battle Armor",
+        "Weak Armor"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 115,
+        "Defense": 105,
+        "Sp. Atk": 65,
+        "Sp. Def": 70,
+        "Speed": 80,
+        "Total": 495
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids.",
+            "Yellow": "A slim and fast swimmer. It slices its prey with its sharp sickles and drinks the body fluids.",
+            "Stadium": "Swims very quickly. It tears at its foe with sickle-like forelegs and drains the foe's body fluids entirely."
+        },
+        "Generation II": {
+            "Gold": "In the water, it tucks in its limbs to become more compact, then it wiggles its shell to swim fast.",
+            "Silver": "With sharp claws, this ferocious, ancient Pok é mon rips apart prey and sucks their body fluids.",
+            "Crystal": "It was able to swim quickly through the water by compactly folding up its razor-sharp sickles.",
+            "Stadium 2": "In the water, it tucks in its limbs to become more compact, then it wiggles its shell to swim fast. (Pokémon Red, Silver, or Crystal inserted) With sharp claws, this ferocious, ancient Pok é mon rips apart prey and sucks their body fluids. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Kabutops swam underwater to hunt for its prey in ancient times. The Pok é mon was apparently evolving from being a water-dweller to living on land as evident from the beginnings of change in its gills and legs.",
+            "Sapphire": "Kabutops swam underwater to hunt for its prey in ancient times. The Pok é mon was apparently evolving from being a water-dweller to living on land as evident from the beginnings of change in its gills and legs.",
+            "Emerald": "Kabutops once swam underwater to hunt for prey. It was apparently evolving from being a water dweller to living on land as evident from changes in its gills and legs.",
+            "FireRed": "It swims freely through water. It catches prey with its scythe-like arms and drains the victim's fluids.",
+            "LeafGreen": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains their fluids."
+        },
+        "Generation IV": {
+            "Diamond": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
+            "Pearl": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
+            "Platinum": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
+            "HeartGold": "In the water, it tucks in its limbs to become more compact, then it wiggles its shell to swim fast.",
+            "SoulSilver": "With sharp claws, this ferocious, ancient Pokémon rips apart prey and sucks their body fluids."
+        },
+        "Generation V": {
+            "Black": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
+            "White": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
+            "Black 2": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
+            "White 2": "It is thought that this Pokémon came onto land because its prey adapted to life on land."
+        },
+        "Generation VI": {
+            "X": "In the water, it tucks in its limbs to become more compact, then it wiggles its shell to swim fast.",
+            "Y": "A slim and fast swimmer. It slices its prey with its sharp sickles and drinks the body fluids.",
+            "Omega Ruby": "Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water dweller to living on land as evident from the beginnings of change in its gills and legs.",
+            "Alpha Sapphire": "Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water dweller to living on land as evident from the beginnings of change in its gills and legs."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Its body had begun to change so it could function on land. But it didn't adapt in time and went extinct.",
+            "Ultra Moon": "It swims at speeds of roughly 29 knots, quickly closing in on its prey and slashing into them with its scythes to finish them off.",
+            "Let's Go Pikachu": "A slim and fast swimmer. It sliced its prey with its sharp sickles and drank the body fluids.",
+            "Let's Go Eevee": "A slim and fast swimmer. It sliced its prey with its sharp sickles and drank the body fluids."
+        },
+        "Generation VIII": {
+            "Sword": "Kabutops slices its prey apart and sucks out the fluids. The discarded body parts become food for other Pokémon.",
+            "Shield": "The cause behind the extinction of this species is unknown. Kabutops were aggressive Pokémon that inhabited warm seas.",
+            "Brilliant Diamond": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
+            "Shining Pearl": "It is thought that this Pokémon came onto land because its prey adapted to life on land."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Kabuto",
+            "Blue": "Evolve Kabuto",
+            "Blue (Japan)": "Evolve Kabuto",
+            "Yellow": "Evolve Kabuto"
+        },
+        "Generation II": {
+            "Gold": "Time Capsule",
+            "Silver": "Time Capsule",
+            "Crystal": "Time Capsule"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Kabuto",
+            "LeafGreen": "Evolve Kabuto",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Kabuto",
+            "Pearl": "Evolve Kabuto",
+            "Platinum": "Evolve Kabuto",
+            "HeartGold": "Trade",
+            "SoulSilver": "Evolve Kabuto",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Evolve Kabuto",
+            "White": "Evolve Kabuto",
+            "Black 2": "Evolve Kabuto",
+            "White 2": "Evolve Kabuto"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Evolve Kabuto",
+            "Omega Ruby": "Evolve Kabuto",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Kabuto",
+            "Ultra Moon": "Evolve Kabuto",
+            "Let's Go Pikachu": "Evolve Kabuto",
+            "Let's Go Eevee": "Evolve Kabuto"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Shield Expansion Pass": "Roaring-Sea Caves ( Wanderer ) Giant's Bed , Snowslide Slope , Giant's Foot , Ballimere Lake , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Kabuto",
+            "Shining Pearl": "Evolve Kabuto",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Kabuto",
+            "to": "Kabutops",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

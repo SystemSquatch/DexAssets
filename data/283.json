@@ -1,0 +1,133 @@
+{
+    "name": "Surskit",
+    "pokedex_number": "#0283",
+    "types": [
+        "Bug",
+        "Water"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Rain Dish"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 32,
+        "Sp. Atk": 50,
+        "Sp. Def": 52,
+        "Speed": 65,
+        "Total": 269
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "From the tips of its feet, Surskit secretes an oil that enables it to walk on water as if it were skating. This Pok é mon feeds on microscopic organisms in ponds and lakes.",
+            "Sapphire": "If Surskit senses danger, it secretes a thick, sugary syrup from the tip of its head. There are some Pok é mon that love eating this syrup.",
+            "Emerald": "They gather on puddles after evening downpours, gliding across the surface of water as if sliding. It secretes honey with a sweet aroma from its head.",
+            "FireRed": "They usually live on ponds, but after an evening shower, they may appear on puddles in towns.",
+            "LeafGreen": "They usually live on ponds, but after an evening shower, they may appear on puddles in towns."
+        },
+        "Generation IV": {
+            "Diamond": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
+            "Pearl": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
+            "Platinum": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
+            "HeartGold": "It secretes a thick, sweet-scented syrup from the tip of its head. It lives on weed-choked ponds.",
+            "SoulSilver": "It secretes a thick, sweet-scented syrup from the tip of its head. It lives on weed-choked ponds."
+        },
+        "Generation V": {
+            "Black": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
+            "White": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
+            "Black 2": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
+            "White 2": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head."
+        },
+        "Generation VI": {
+            "X": "They usually live on ponds, but after an evening shower, they may appear on puddles in towns.",
+            "Y": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
+            "Omega Ruby": "From the tips of its feet, Surskit secretes an oil that enables it to walk on water as if it were skating. This Pokémon feeds on microscopic organisms in ponds and lakes.",
+            "Alpha Sapphire": "If Surskit senses danger, it secretes a thick, sugary syrup from the tip of its head. There are some Pokémon that love eating this syrup."
+        },
+        "Generation VII": {
+            "Sun": "It moves as if skating on the surface of the water. It often fights with Dewpider over food.",
+            "Moon": "When this Pokémon senses danger, a sweet fluid oozes from the tip of its head. The taste of it disgusts bird Pokémon.",
+            "Ultra Sun": "If it's in a pinch, it will secrete a sweet liquid from the tip of its head. Syrup made from gathering that liquid is tasty on bread.",
+            "Ultra Moon": "It lives in ponds and marshes that feature lots of plant life. It often fights with Dewpider, whose habitat and diet are similar."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It appears as if it is skating on water. It draws prey in with a sweet scent released from the tip of its head.",
+            "Shining Pearl": "It appears as if it is skating on water. It draws prey in with a sweet scent released from the tip of its head."
+        },
+        "Generation IX": {
+            "Scarlet": "They usually live on ponds, but after an evening shower, they may appear on puddles in towns.",
+            "Violet": "It secretes a thick, sweet-scented syrup from the tip of its head. It lives on weed-choked ponds."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Routes 102 , 111 , 114 , 117 , and 120",
+            "Sapphire": "Routes 102 , 111 , 114 , 117 , and 120",
+            "Emerald": "Routes 102 , 114 , 117 , and 120 ( Swarm ; after mixing records with Ruby or Sapphire)",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Oasis Poké Spot"
+        },
+        "Generation IV": {
+            "Diamond": "Lake Verity ( Swarm )",
+            "Pearl": "Lake Verity ( Swarm )",
+            "Platinum": "Route 229 ( Surfing )",
+            "HeartGold": "Safari Zone (Plains with 28 Waterside points; Forest with 24 Waterside points; tall grass in Wetland with 6 Plains points)",
+            "SoulSilver": "Safari Zone (Plains with 28 Waterside points; Forest with 24 Waterside points; tall grass in Wetland with 6 Plains points)",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest ( Surfing )",
+            "Black 2": "Breed Masquerain",
+            "White 2": "Breed Masquerain",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Breed Masquerain",
+            "Y": "Breed Masquerain",
+            "Omega Ruby": "Routes 102 , 114 , and 117 Routes 111 , 120 , 123 , and Petalburg City ( Surfing )",
+            "Alpha Sapphire": "Routes 102 , 114 , and 117 Routes 111 , 120 , 123 , and Petalburg City ( Surfing )"
+        },
+        "Generation VII": {
+            "Sun": "Brooklet Hill Night ( Surfing and walking)",
+            "Moon": "Brooklet Hill Night ( Surfing and walking)",
+            "Ultra Sun": "Brooklet Hill Night ( Surfing and walking)",
+            "Ultra Moon": "Brooklet Hill Night ( Surfing and walking)",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Lake Verity ( Swarm ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Lake Verity ( Swarm ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Five South Province (Area Two) Version 3.0.0+ Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Five South Province (Area Two) Version 3.0.0+ Tera Raid Battles ( 1★ )",
+            "The Hidden Treasure of Area Zero": "Mossfell Confluence , Oni Mountain , Paradise Barrens , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Surskit",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Surskit",
+            "to": "Masquerain",
+            "method": [
+                "Level 22"
+            ]
+        }
+    ]
+}

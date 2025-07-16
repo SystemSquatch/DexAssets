@@ -1,0 +1,52 @@
+{
+    "name": "Tadbulb",
+    "pokedex_number": "#0938",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Own Tempo",
+        "Static",
+        "Damp"
+    ],
+    "stats": {
+        "HP": 61,
+        "Attack": 31,
+        "Defense": 41,
+        "Sp. Atk": 59,
+        "Sp. Def": 35,
+        "Speed": 45,
+        "Total": 272
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.",
+            "Violet": "It floats using the electricity stored in its body. When thunderclouds are around, Tadbulb will float higher off the ground."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five East Province: Area One , Area Two , Area Three West Province: Area Two North Province: Glaseado Mountain Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five East Province: Area One , Area Two , Area Three West Province: Area Two North Province: Glaseado Mountain Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Tadbulb",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Tadbulb",
+            "to": "Bellibolt",
+            "method": [
+                "Use Thunder Stone"
+            ]
+        }
+    ]
+}

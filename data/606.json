@@ -1,0 +1,90 @@
+{
+    "name": "Beheeyem",
+    "pokedex_number": "#0606",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Telepathy",
+        "Synchronize",
+        "Analytic"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 75,
+        "Sp. Atk": 125,
+        "Sp. Def": 95,
+        "Speed": 40,
+        "Total": 485
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It can manipulate an opponent's memory. Apparently, it communicates by flashing its three different-colored fingers.",
+            "White": "It uses psychic power to control an opponent's brain and tamper with its memories.",
+            "Black 2": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
+            "White 2": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded."
+        },
+        "Generation VI": {
+            "X": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
+            "Y": "It uses psychic power to control an opponent's brain and tamper with its memories.",
+            "Omega Ruby": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
+            "Alpha Sapphire": "It uses psychic power to control an opponent's brain and tamper with its memories."
+        },
+        "Generation VII": {
+            "Ultra Sun": "With its psychic powers, it rewrites its opponents' memories. You, too, may have already had your memories rewritten.",
+            "Ultra Moon": "It has strong psychic powers. Using its fingers that flash three different colors, it controls its opponents and rewrites their memories."
+        },
+        "Generation VIII": {
+            "Sword": "Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears.",
+            "Shield": "Sometimes found drifting above wheat fields, this Pokémon can control the memories of its opponents."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 14",
+            "White": "Route 14",
+            "Black 2": "Evolve Elgyem",
+            "White 2": "Evolve Elgyem"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Elgyem",
+            "Alpha Sapphire": "Evolve Elgyem"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Elgyem",
+            "Ultra Moon": "Evolve Elgyem",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Bridge Field ( Wanderer )",
+            "Shield": "Lake of Outrage Bridge Field ( Wanderer )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Elgyem",
+            "to": "Beheeyem",
+            "method": [
+                "Level 42"
+            ]
+        }
+    ]
+}

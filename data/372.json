@@ -1,0 +1,134 @@
+{
+    "name": "Shelgon",
+    "pokedex_number": "#0372",
+    "types": [
+        "Dragon",
+        "Unknown"
+    ],
+    "abilities": [
+        "Rock Head",
+        "Overcoat"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 100,
+        "Sp. Atk": 60,
+        "Sp. Def": 50,
+        "Speed": 50,
+        "Total": 420
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Inside Shelgon 's armor-like shell, cells are in the midst of transformation to create an entirely new body. This Pok é mon 's shell is extremely heavy, making its movements sluggish.",
+            "Sapphire": "Covering Shelgon 's body are outgrowths much like bones. The shell is very hard and bounces off enemy attacks. When awaiting evolution, this Pok é mon hides away in a cavern.",
+            "Emerald": "It hardly eats while it awaits evolution. It becomes hardier by enduring hunger. Its shell peels off the instant it begins to evolve.",
+            "FireRed": "Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish.",
+            "LeafGreen": "Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish."
+        },
+        "Generation IV": {
+            "Diamond": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+            "Pearl": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+            "Platinum": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+            "HeartGold": "It surrounds its body in an iron-hard shell to accumulate enough power to evolve.",
+            "SoulSilver": "It surrounds its body in an iron-hard shell to accumulate enough power to evolve."
+        },
+        "Generation V": {
+            "Black": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+            "White": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+            "Black 2": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+            "White 2": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves."
+        },
+        "Generation VI": {
+            "X": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+            "Y": "Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish.",
+            "Omega Ruby": "Inside Shelgon's armor-like shell, cells are in the midst of transformation to create an entirely new body. This Pokémon's shell is extremely heavy, making its movements sluggish.",
+            "Alpha Sapphire": "Covering Shelgon's body are outgrowths much like bones. The shell is very hard and bounces off enemy attacks. When awaiting evolution, this Pokémon hides away in a cavern."
+        },
+        "Generation VII": {
+            "Sun": "The cells within its shell transform with explosive speed, preparing it for evolution.",
+            "Moon": "They lurk deep within caves—motionless, neither eating nor drinking. Why they don't die is not known.",
+            "Ultra Sun": "The cells within its body are changing at a bewildering pace. Its hard shell is made from the same substance as bone.",
+            "Ultra Moon": "Shelgon lives deep within caves. It stays shut up in its hard shell, dreaming of the day it will be able to fly."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon has covered its body in a hard shell that has the same composition as bone. Shelgon stores energy for evolution.",
+            "Shield": "Shelgon ignores its hunger entirely, never eating any food. Apparently, Shelgon will evolve once all its energy stores are used up.",
+            "Brilliant Diamond": "Within its rugged shell, its cells have begun changing. The shell peels off the instant the Pokémon evolves.",
+            "Shining Pearl": "Within its rugged shell, its cells have begun changing. The shell peels off the instant the Pokémon evolves."
+        },
+        "Generation IX": {
+            "Scarlet": "The cells within its shell transform with explosive speed, preparing it for evolution.",
+            "Violet": "Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Bagon",
+            "Sapphire": "Evolve Bagon",
+            "Emerald": "Evolve Bagon",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Evolve Bagon",
+            "Platinum": "Evolve Bagon",
+            "HeartGold": "Safari Zone (tall grass in Wetland with 63 Peak points)",
+            "SoulSilver": "Safari Zone (tall grass in Wetland with 63 Peak points)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Bagon",
+            "Black 2": "Evolve Bagon",
+            "White 2": "Evolve Bagon"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Dragon )",
+            "Y": "Friend Safari ( Dragon )",
+            "Omega Ruby": "Evolve Bagon",
+            "Alpha Sapphire": "Evolve Bagon"
+        },
+        "Generation VII": {
+            "Sun": "Kala'e Bay ( SOS Battle )",
+            "Moon": "Kala'e Bay ( SOS Battle )",
+            "Ultra Sun": "Kala'e Bay ( SOS Battle )",
+            "Ultra Moon": "Kala'e Bay ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Sword Expansion Pass": "Giant's Bed , Path to the Peak , Frigid Sea , Three-Point Pass , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Grand Underground - Spacious Cave , Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Union Circle Tera Raid Battle Search ( 4★ )",
+            "Violet": "South Province: Alfornada Cavern North Province: Area Two Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Bagon",
+            "to": "Shelgon",
+            "method": [
+                "Level 30"
+            ]
+        },
+        {
+            "from": "Shelgon",
+            "to": "Salamence",
+            "method": [
+                "Level 50"
+            ]
+        }
+    ]
+}

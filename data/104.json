@@ -1,0 +1,158 @@
+{
+    "name": "Cubone",
+    "pokedex_number": "#0104",
+    "types": [
+        "Ground",
+        "Unknown"
+    ],
+    "abilities": [
+        "Rock Head",
+        "Lightning Rod",
+        "Battle Armor"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 95,
+        "Sp. Atk": 40,
+        "Sp. Def": 50,
+        "Speed": 35,
+        "Total": 320
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Because it never removes its skull helmet, no one has ever seen this Pok é mon 's real face.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Because it never removes its skull helmet, no one has ever seen this Pok é mon 's real face.",
+            "Yellow": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
+            "Stadium": "Always wears the skull of its deceased mother on its head and never shows its face. It cries mournfully in the moonlight."
+        },
+        "Generation II": {
+            "Gold": "If it is sad or lonely, the skull it wears shakes, and emits a plaintive and mournful sound.",
+            "Silver": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+            "Crystal": "It lost its mother after its birth. It wears its mother's skull, never revealing its true face.",
+            "Stadium 2": "If it is sad or lonely, the skull it wears shakes, and emits a plaintive and mournful sound. (Pokémon Red, Silver, or Crystal inserted) It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pok é mon wears are made by the tears it sheds.",
+            "Sapphire": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pok é mon wears are made by the tears it sheds.",
+            "Emerald": "It pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull it wears are from its tears.",
+            "FireRed": "It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.",
+            "LeafGreen": "Because it never removes its skull helmet, no one has ever seen this Pok é mon 's real face."
+        },
+        "Generation IV": {
+            "Diamond": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+            "Pearl": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+            "Platinum": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+            "HeartGold": "If it is sad or lonely, the skull it wears shakes and emits a plaintive and mournful sound.",
+            "SoulSilver": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like."
+        },
+        "Generation V": {
+            "Black": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+            "White": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+            "Black 2": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+            "White 2": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly."
+        },
+        "Generation VI": {
+            "X": "It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.",
+            "Y": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+            "Omega Ruby": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
+            "Alpha Sapphire": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds."
+        },
+        "Generation VII": {
+            "Sun": "When it thinks of its deceased mother, it weeps loudly. Mandibuzz that hear its cries will attack it from the air.",
+            "Moon": "The skull it wears on its head is that of its dead mother. According to some, it will evolve when it comes to terms with the pain of her death.",
+            "Ultra Sun": "At night, it weeps loudly for its dead mother, but those cries only attract its natural enemy—Mandibuzz.",
+            "Ultra Moon": "It wears its mother's skull on its head, so no one knows what its bare face looks like. However, it's clear that it's always crying.",
+            "Let's Go Pikachu": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
+            "Let's Go Eevee": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody."
+        },
+        "Generation VIII": {
+            "Sword": "When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head.",
+            "Shield": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone's dreams make it cry, but each tear Cubone sheds makes it stronger.",
+            "Brilliant Diamond": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+            "Shining Pearl": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Pokémon Tower",
+            "Blue": "Pokémon Tower",
+            "Blue (Japan)": "Pokémon Tower",
+            "Yellow": "Pokémon Tower and Safari Zone"
+        },
+        "Generation II": {
+            "Gold": "Rock Tunnel",
+            "Silver": "Rock Tunnel",
+            "Crystal": "Rock Tunnel Morning Day Goldenrod Game Corner"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Pokémon Tower and Sevault Canyon",
+            "LeafGreen": "Pokémon Tower and Sevault Canyon",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 203 ( Swarm )",
+            "Pearl": "Route 203 ( Swarm )",
+            "Platinum": "Route 203 ( Swarm )",
+            "HeartGold": "Rock Tunnel Safari Zone Morning Day (Desert, default)",
+            "SoulSilver": "Rock Tunnel Safari Zone Morning Day (Desert, default)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Breed Marowak",
+            "White": "Breed Marowak",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Glittering Cave",
+            "Y": "Glittering Cave",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Wela Volcano Park",
+            "Moon": "Wela Volcano Park",
+            "Ultra Sun": "Wela Volcano Park",
+            "Ultra Moon": "Wela Volcano Park",
+            "Let's Go Pikachu": "Rock Tunnel , Pokémon Tower",
+            "Let's Go Eevee": "Rock Tunnel , Pokémon Tower"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Warm-Up Tunnel Forest of Focus ( Wanderer ) Challenge Beach , Courageous Cavern , Potbottom Desert ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 203 ( Swarm ) Grand Underground - Rocky Cave , Dazzling Cave , Riverbank Cave , Still-Water Cavern , Big Bluff Cavern , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 203 ( Swarm ) Grand Underground - Rocky Cave , Dazzling Cave , Riverbank Cave , Still-Water Cavern , Big Bluff Cavern , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Cubone",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Cubone",
+            "to": "Marowak",
+            "method": [
+                "Level 28",
+                "Level 28 (during the night)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "name": "Magcargo",
+    "pokedex_number": "#0219",
+    "types": [
+        "Fire",
+        "Rock"
+    ],
+    "abilities": [
+        "Magma Armor",
+        "Flame Body",
+        "Weak Armor"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 120,
+        "Sp. Atk": 80,
+        "Sp. Def": 80,
+        "Speed": 30,
+        "Total": 410
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch.",
+            "Silver": "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
+            "Crystal": "Its body is as hot as lava and is always billowing. Flames will occasionally burst from its shell.",
+            "Stadium 2": "The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch. (Pokémon Red, Silver, or Crystal inserted) Its brittle shell occasionally spouts intense flames that circulate throughout its body. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Magcargo 's shell is actually its skin that hardened as a result of cooling. Its shell is very brittle and fragile - just touching it causes it to crumble apart. This Pok é mon returns to its original size by dipping itself in magma.",
+            "Sapphire": "Magcargo 's body temperature is approximately 18,000 degrees F . Water is vaporized on contact. If this Pok é mon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog.",
+            "Emerald": "The shell on its back is made of hardened magma. Tens of thousands of years spent living in volcanic craters have turned Magcargo 's bodies into magma.",
+            "FireRed": "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
+            "LeafGreen": "The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch."
+        },
+        "Generation IV": {
+            "Diamond": "Its body temperature is roughly 18,000 degrees F . Flames spout from gaps in its hardened shell.",
+            "Pearl": "Its body temperature is roughly 18,000 degrees F . Flames spout from gaps in its hardened shell.",
+            "Platinum": "Its body temperature is roughly 18,000 degrees F . Flames spout from gaps in its hardened shell.",
+            "HeartGold": "The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch.",
+            "SoulSilver": "Its brittle shell occasionally spouts intense flames that circulate throughout its body."
+        },
+        "Generation V": {
+            "Black": "Its body temperature is roughly 18,000 degrees F . Flames spout from gaps in its hardened shell.",
+            "White": "Its body temperature is roughly 18,000 degrees F . Flames spout from gaps in its hardened shell.",
+            "Black 2": "Its body temperature is roughly 18,000 degrees F . Flames spout from gaps in its hardened shell.",
+            "White 2": "Its body temperature is roughly 18,000 degrees F . Flames spout from gaps in its hardened shell."
+        },
+        "Generation VI": {
+            "X": "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
+            "Y": "Its body is as hot as lava and is always billowing. Flames will occasionally burst from its shell.",
+            "Omega Ruby": "Magcargo's shell is actually its skin that hardened as a result of cooling. Its shell is very brittle and fragile—just touching it causes it to crumble apart. This Pokémon returns to its original size by dipping itself in magma.",
+            "Alpha Sapphire": "Magcargo's body temperature is approximately 18,000 degrees Fahrenheit . Water is vaporized on contact. If this Pokémon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Its body temperature is roughly 18,000 degrees Fahrenheit . Flames burst from gaps in its shell made of hardened magma.",
+            "Shining Pearl": "Its body temperature is roughly 18,000 degrees Fahrenheit . Flames burst from gaps in its shell made of hardened magma."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon lives near the craters of volcanoes. It stores fire energy in its shell of cooled and hardened magma.",
+            "Violet": "According to folklore, a sudden increase in the wild Magcargo population heralds a volcanic eruption."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Slugma",
+            "Silver": "Evolve Slugma",
+            "Crystal": "Evolve Slugma"
+        },
+        "Generation III": {
+            "Ruby": "Evolve Slugma",
+            "Sapphire": "Evolve Slugma",
+            "Emerald": "Evolve Slugma",
+            "FireRed": "Mt. Ember",
+            "LeafGreen": "Mt. Ember",
+            "Colosseum": "Evolve Slugma",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Stark Mountain",
+            "Pearl": "Stark Mountain",
+            "Platinum": "Stark Mountain",
+            "HeartGold": "Evolve Slugma",
+            "SoulSilver": "Evolve Slugma",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Rock )",
+            "Y": "Friend Safari ( Rock )",
+            "Omega Ruby": "Evolve Slugma",
+            "Alpha Sapphire": "Evolve Slugma"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Cave World )",
+            "Ultra Moon": "Ultra Space Wilds ( Cave World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Stark Mountain Grand Underground - Volcanic Cave , Sandsear Cave , Typhlo Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Stark Mountain Grand Underground - Volcanic Cave , Sandsear Cave , Typhlo Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Slugma",
+            "to": "Magcargo",
+            "method": [
+                "Level 38"
+            ]
+        }
+    ]
+}

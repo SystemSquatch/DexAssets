@@ -1,0 +1,59 @@
+{
+    "name": "Pyukumuku",
+    "pokedex_number": "#0771",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Innards Out",
+        "Unaware"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 60,
+        "Defense": 130,
+        "Sp. Atk": 30,
+        "Sp. Def": 130,
+        "Speed": 5,
+        "Total": 410
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies.",
+            "Moon": "These Pokémon line the beaches. The sticky mucous that covers their bodies can be used to soothe sunburned skin. How convenient!",
+            "Ultra Sun": "The tradition known as Pyukumuku chucking started from the custom of throwing Pyukumuku back into the sea after they wash onshore.",
+            "Ultra Moon": "Its entire body is covered in its own slime. If you accidentally step on one, you'll slip, and it will get mad and smack you!"
+        },
+        "Generation VIII": {
+            "Sword": "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",
+            "Shield": "It's covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Route 7 , Hano Beach ( Surfing ) Poké Pelago *",
+            "Moon": "Route 7 , Hano Beach ( Surfing ) Poké Pelago *",
+            "Ultra Sun": "Route 7 , Hano Beach ( Surfing ) Poké Pelago *",
+            "Ultra Moon": "Route 7 , Hano Beach ( Surfing ) Poké Pelago *",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 9 , South Lake Miloch (Overworld) Giant's Seat ( Fishing ) Bridge Field , Dusty Bowl , East Lake Axewell , Giant's Cap , Giant's Mirror , Lake of Outrage , North Lake Miloch , South Lake Miloch , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Route 9 , South Lake Miloch (Overworld) Giant's Seat ( Fishing ) Bridge Field , Dusty Bowl , East Lake Axewell , Giant's Cap , Giant's Mirror , Lake of Outrage , North Lake Miloch , South Lake Miloch , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Loop Lagoon ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

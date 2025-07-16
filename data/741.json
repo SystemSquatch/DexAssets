@@ -1,0 +1,58 @@
+{
+    "name": "Oricorio",
+    "pokedex_number": "#0741",
+    "types": [
+        "Fire",
+        "Flying"
+    ],
+    "abilities": [
+        "Dancer"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 70,
+        "Defense": 70,
+        "Sp. Atk": 98,
+        "Sp. Def": 70,
+        "Speed": 93,
+        "Total": 476
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "This Oricorio has sipped purple nectar. Its elegant, attractive dance will send the minds and hearts of its enemies to another world.",
+            "Moon": "It summons the dead with its dreamy dancing. From their malice, it draws power with which to curse its enemies.",
+            "Ultra Sun": "It charms its opponents with its refined dancing. When they let their guard down, it places a curse on them that will bring on their demise.",
+            "Ultra Moon": "This Oricorio has sipped purple nectar. Some dancers use its graceful, elegant dancing as inspiration."
+        },
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "This form of Oricorio has sipped purple nectar. It uses ethereal dance steps to call forth the spirits of the dead.",
+            "Violet": "The elegant, attractive dance of these Oricorio is popular with adults, but the Oricorio themselves are hard to find in Paldea."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Melemele Meadow ( Pom-Pom Style ) Route 6 ( Pa'u Style ) Ula'ula Meadow ( Baile Style ) Poni Meadow ( Sensu Style )",
+            "Moon": "Melemele Meadow ( Pom-Pom Style ) Route 6 ( Pa'u Style ) Ula'ula Meadow ( Baile Style ) Poni Meadow ( Sensu Style )",
+            "Ultra Sun": "Melemele Meadow ( Pom-Pom Style ) Route 6 ( Pa'u Style ) Ula'ula Meadow ( Baile Style ) Poni Meadow ( Sensu Style )",
+            "Ultra Moon": "Melemele Meadow ( Pom-Pom Style ) Route 6 ( Pa'u Style ) Ula'ula Meadow ( Baile Style ) Poni Meadow ( Sensu Style )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One ( Pom-Pom Style ) East Province: Area One ( Baile Style ) Use Pink Nectar ( Pa'u Style ) Use Purple Nectar ( Sensu Style ) Tera Raid Battles ( 4★ ) ( Baile Style )",
+            "Violet": "South Province: Area One ( Pom-Pom Style ) East Province: Area One ( Baile Style ) Use Pink Nectar ( Pa'u Style ) Use Purple Nectar ( Sensu Style ) Tera Raid Battles ( 4★ ) ( Baile Style )",
+            "The Hidden Treasure of Area Zero": "Wistful Fields ( Sensu Style ) Coastal Biome ( Pa'u Style )"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Baxcalibur",
+    "pokedex_number": "#0998",
+    "types": [
+        "Dragon",
+        "Ice"
+    ],
+    "abilities": [
+        "Thermal Exchange",
+        "Ice Body"
+    ],
+    "stats": {
+        "HP": 115,
+        "Attack": 145,
+        "Defense": 92,
+        "Sp. Atk": 75,
+        "Sp. Def": 86,
+        "Speed": 87,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.",
+            "Violet": "It launches itself into battle by flipping upside down and spewing frigid air from its mouth. It finishes opponents off with its dorsal blade."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Arctibax",
+            "to": "Baxcalibur",
+            "method": [
+                "Level 54"
+            ]
+        }
+    ]
+}

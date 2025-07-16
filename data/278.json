@@ -1,0 +1,136 @@
+{
+    "name": "Wingull",
+    "pokedex_number": "#0278",
+    "types": [
+        "Water",
+        "Flying"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Hydration",
+        "Rain Dish"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 30,
+        "Sp. Atk": 55,
+        "Sp. Def": 30,
+        "Speed": 85,
+        "Total": 270
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Wingull has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This Pok é mon rides the winds and flies as if it were skating across the sky.",
+            "Sapphire": "Wingull rides updrafts rising from the sea by extending its long and narrow wings to glide. This Pok é mon 's long beak is useful for catching prey.",
+            "Emerald": "It makes its nest on a sheer cliff at the edge of the sea. It has trouble keeping its wings flapping in flight. Instead, it soars on updrafts.",
+            "FireRed": "It rides upon ocean winds as if it were a glider. In the winter, it hides food around its nest.",
+            "LeafGreen": "It rides upon ocean winds as if it were a glider. In the winter, it hides food around its nest."
+        },
+        "Generation IV": {
+            "Diamond": "It makes its nest on steep sea cliffs. Riding updrafts, it soars to great heights.",
+            "Pearl": "Catching sea winds with its long wings, it soars as if it were a glider. It folds its wings to rest.",
+            "Platinum": "It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.",
+            "HeartGold": "It soars on updrafts without flapping its wings. It makes a nest on sheer cliffs at the sea's edge.",
+            "SoulSilver": "It soars on updrafts without flapping its wings. It makes a nest on sheer cliffs at the sea's edge."
+        },
+        "Generation V": {
+            "Black": "It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.",
+            "White": "It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.",
+            "Black 2": "It makes its nest on sheer cliffs. Riding the sea breeze, it glides up into the expansive skies.",
+            "White 2": "It makes its nest on sheer cliffs. Riding the sea breeze, it glides up into the expansive skies."
+        },
+        "Generation VI": {
+            "X": "Catching sea winds with its long wings, it soars as if it were a glider. It folds its wings to rest.",
+            "Y": "It makes its nest on steep sea cliffs. Riding updrafts, it soars to great heights.",
+            "Omega Ruby": "Wingull has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This Pokémon rides the winds and flies as if it were skating across the sky.",
+            "Alpha Sapphire": "Wingull rides updrafts rising from the sea by extending its long and narrow wings to glide. This Pokémon's long beak is useful for catching prey."
+        },
+        "Generation VII": {
+            "Sun": "Its hollow bones enhance its lightness. It spreads its wings to the wind and soars away into the sky.",
+            "Moon": "Fishermen keep an eye out for Wingull in the sky, because wherever they're circling, the ocean is sure to be teeming with fish Pokémon.",
+            "Ultra Sun": "With its long, thin wings, it catches updrafts and flies like a glider high up into the sky.",
+            "Ultra Moon": "It builds nests in cliffs by the sea. It circles the skies above the ocean looking for its favorite food—Wishiwashi."
+        },
+        "Generation VIII": {
+            "Sword": "It makes its nest on sheer cliffs. Riding the sea breeze, it glides up into the expansive skies.",
+            "Shield": "It soars on updrafts without flapping its wings. It makes a nest on sheer cliffs at the sea's edge.",
+            "Brilliant Diamond": "It makes its nest on steep sea cliffs. Riding updrafts, it soars to great heights.",
+            "Shining Pearl": "Catching sea winds with its long wings, it soars as if it were a glider. It folds its wings to rest."
+        },
+        "Generation IX": {
+            "Scarlet": "It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.",
+            "Violet": "It rides upon ocean winds as if it were a glider. In the winter, it hides food around its nest."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Routes 103 , 104 , 110 , 115 , 118 , 121 , and 123 , outside Mt. Pyre ( Grass ) Routes 103 , 104 , 105 , 106 , 107 , 108 , 109 , 110 , 115 , 118 , 119 , 121 , 122 , 123 , 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 , and 134 , Dewford Town , Ever Grande City , Lilycove City , Mossdeep City , Pacifidlog Town , Slateport City ( Surfing )",
+            "Sapphire": "Routes 103 , 104 , 110 , 115 , 118 , 121 , and 123 , outside Mt. Pyre ( Grass ) Routes 103 , 104 , 105 , 106 , 107 , 108 , 109 , 110 , 115 , 118 , 119 , 121 , 122 , 123 , 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 , and 134 , Dewford Town , Ever Grande City , Lilycove City , Mossdeep City , Pacifidlog Town , Slateport City ( Surfing )",
+            "Emerald": "Routes 103 , 104 , 110 , 115 , 118 , 121 , and 123 , outside Mt. Pyre ( Grass ) Routes 103 , 104 , 105 , 106 , 107 , 108 , 109 , 110 , 115 , 118 , 119 , 121 , 122 , 123 , 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 , and 134 , Dewford Town , Ever Grande City , Lilycove City , Mossdeep City , Pacifidlog Town , Slateport City ( Surfing )",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 213 , 218 , 221 , and 222 , Fuego Ironworks ( Grass ) Routes 205 , 213 , 218 , 219 , 220 , 221 , 222 , and 229 , Canalave City , Fuego Ironworks , Iron Island , Pastoria City , Valley Windworks ( Surfing )",
+            "Pearl": "Routes 213 , 218 , 221 , and 222 , Fuego Ironworks ( Grass ) Routes 205 , 213 , 218 , 219 , 220 , 221 , 222 , and 229 , Canalave City , Fuego Ironworks , Iron Island , Pastoria City , Valley Windworks ( Surfing )",
+            "Platinum": "Routes 213 , 222 , 226 , and 230 ( Grass ) Routes 213 , 219 , 220 , 221 , 222 , and 226 , Pastoria City , Sunyshore City , Iron Island , Pokémon League ( Surfing )",
+            "HeartGold": "Vermilion City ( Surfing during a Swarm )",
+            "SoulSilver": "Vermilion City ( Surfing during a Swarm )",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Route 13 , Undella Town , Undella Bay ( Surfing )",
+            "White": "Route 13 , Undella Town , Undella Bay ( Surfing )",
+            "Black 2": "Breed Pelipper",
+            "White 2": "Breed Pelipper",
+            "Dream World": "Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Routes 8 and 12 , Azure Bay ( Horde Encounter )",
+            "Y": "Routes 8 and 12 , Azure Bay ( Horde Encounter )",
+            "Omega Ruby": "Routes 103 , 104 , 110 , 115 , and 118 , Mt. Pyre exterior ( Grass ) Routes 103 , 104 , 105 , 106 , 107 , 108 , 109 , 110 , 115 , 118 , 119 , 122 , and 134 , Dewford Town , Slateport City , Lilycove City , Sea Mauville ( Surfing ) Routes 103 , 121 , and 123 ( Horde Encounter ) Soaring in the sky",
+            "Alpha Sapphire": "Routes 103 , 104 , 110 , 115 , and 118 , Mt. Pyre exterior ( Grass ) Routes 103 , 104 , 105 , 106 , 107 , 108 , 109 , 110 , 115 , 118 , 119 , 122 , and 134 , Dewford Town , Slateport City , Lilycove City , Sea Mauville ( Surfing ) Routes 103 , 121 , and 123 ( Horde Encounter ) Soaring in the sky"
+        },
+        "Generation VII": {
+            "Sun": "Route 1 , Akala Outskirts , Poké Pelago Routes 7 and 8 , Melemele Sea , Hano Beach ( Surfing ) Hau'oli City , Kala'e Bay , Brooklet Hill ( Surfing and walking)",
+            "Moon": "Route 1 , Akala Outskirts , Poké Pelago Routes 7 and 8 , Melemele Sea , Hano Beach ( Surfing ) Hau'oli City , Kala'e Bay , Brooklet Hill ( Surfing and walking)",
+            "Ultra Sun": "Route 1 , Akala Outskirts , Poké Pelago Routes 7 and 8 , Melemele Sea , Hano Beach ( Surfing ) Hau'oli City , Kala'e Bay , Brooklet Hill ( Surfing and walking)",
+            "Ultra Moon": "Route 1 , Akala Outskirts , Poké Pelago Routes 7 and 8 , Melemele Sea , Hano Beach ( Surfing ) Hau'oli City , Kala'e Bay , Brooklet Hill ( Surfing and walking)",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields , West Lake Axewell , Watchtower Ruins , South Lake Miloch , East Lake Axewell , North Lake Miloch East Lake Axewell , Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Rolling Fields , West Lake Axewell , Watchtower Ruins , South Lake Miloch , East Lake Axewell , North Lake Miloch East Lake Axewell , Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor , Challenge Beach , Workout Sea , Loop Lagoon , Stepping-Stone Sea , Insular Sea , Honeycalm Island , Honeycalm Sea",
+            "Brilliant Diamond": "Routes 213 , 218 , 221 , and 222 , Fuego Ironworks ( Grass ) Routes 205 , 213 , 218 , 219 , 220 , 221 , 222 , and 229 , Canalave City , Fuego Ironworks , Iron Island , Pastoria City , Valley Windworks ( Surfing ) Grand Underground - Spacious Cave , Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining TM97 ( Defog ))",
+            "Shining Pearl": "Routes 213 , 218 , 221 , and 222 , Fuego Ironworks ( Grass ) Routes 205 , 213 , 218 , 219 , 220 , 221 , 222 , and 229 , Canalave City , Fuego Ironworks , Iron Island , Pastoria City , Valley Windworks ( Surfing ) Grand Underground - Spacious Cave , Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining TM97 ( Defog ))",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Poco Path , South Paldean Sea West Province: West Paldean Sea Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Poco Path , South Paldean Sea West Province: West Paldean Sea Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Wingull",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Wingull",
+            "to": "Pelipper",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

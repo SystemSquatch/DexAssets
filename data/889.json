@@ -1,0 +1,43 @@
+{
+    "name": "Zamazenta",
+    "pokedex_number": "#0889",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Dauntless Shield"
+    ],
+    "stats": {
+        "HP": 92,
+        "Attack": 130,
+        "Defense": 115,
+        "Sp. Atk": 80,
+        "Sp. Def": 115,
+        "Speed": 138,
+        "Total": 670
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Its ability to deflect any attack led to it being known as the Fighting Master's Shield. It was feared and respected by all.",
+            "Shield": "Now that it's equipped with its shield, it can shrug off impressive blows, including the attacks of Dynamax Pokémon."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Tower Summit ( Only one )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME",
+            "Violet": "Pokémon HOME"
+        }
+    },
+    "evolution": []
+}

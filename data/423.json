@@ -1,0 +1,112 @@
+{
+    "name": "Gastrodon",
+    "pokedex_number": "#0423",
+    "types": [
+        "Water",
+        "Ground"
+    ],
+    "abilities": [
+        "Sticky Hold",
+        "Storm Drain",
+        "Sand Force"
+    ],
+    "stats": {
+        "HP": 111,
+        "Attack": 83,
+        "Defense": 68,
+        "Sp. Atk": 92,
+        "Sp. Def": 82,
+        "Speed": 39,
+        "Total": 475
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It has a pliable body without any bones. If any part of its body is torn off, it grows right back.",
+            "Pearl": "It apparently had a huge shell for protection in ancient times. It lives in shallow tidal pools.",
+            "Platinum": "Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.",
+            "HeartGold": "When its natural enemy attacks, it oozes purple fluid and escapes.",
+            "SoulSilver": "When its natural enemy attacks, it oozes purple fluid and escapes."
+        },
+        "Generation V": {
+            "Black": "Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.",
+            "White": "Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.",
+            "Black 2": "Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.",
+            "White 2": "Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells."
+        },
+        "Generation VI": {
+            "X": "When its natural enemy attacks, it oozes purple fluid and escapes.",
+            "Y": "It apparently had a huge shell for protection in ancient times. It lives in shallow tidal pools.",
+            "Omega Ruby": "When its natural enemy attacks, it oozes purple fluid and escapes.",
+            "Alpha Sapphire": "It apparently had a huge shell for protection in ancient times. It lives in shallow tidal pools."
+        },
+        "Generation VII": {
+            "Sun": "A team of researchers is scouring the oceans of the world in search of a Gastrodon in a color never seen before.",
+            "Moon": "Experiments are being conducted to discover what happens when a Gastrodon is raised in a location other than the sea where it was born.",
+            "Ultra Sun": "When it's attacked, it gushes a purple liquid that's not poisonous but makes Gastrodon's meat bitter and inedible.",
+            "Ultra Moon": "A relative of Shellder and Cloyster, this ocean dweller sometimes comes onto land in search of food."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It has a pliable body without any bones. If any part of its body is torn off, it grows right back.",
+            "Shining Pearl": "It apparently had a huge shell for protection in ancient times. It lives in shallow tidal pools.",
+            "Sword": "It secretes a purple fluid to deter enemies. This fluid isn't poisonous—instead, it's super sticky, and once it sticks, it's very hard to unstick.",
+            "Shield": "Its body is covered in a sticky slime. It's very susceptible to dehydration, so it can't spend too much time on land.",
+            "Legends: Arceus": "Found more often on the land than in the sea. More active when it's cloudy or rainy out than when the weather is fair."
+        },
+        "Generation IX": {
+            "Scarlet": "They normally inhabit rocky seashores, but in times of continuous rain, they can sometimes be found in the mountains, far from the sea.",
+            "Violet": "Fishers say that they didn't see many of these Pokémon in the past, but this form of Gastrodon is now increasing in number."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 218 and 221 , Fuego Ironworks (tall grass) ( West Sea ) Routes 222 , 224 , and 230 (tall grass) ( East Sea )",
+            "Pearl": "Routes 218 and 221 , Fuego Ironworks (tall grass) ( West Sea ) Routes 222 , 224 , and 230 (tall grass) ( East Sea )",
+            "Platinum": "Route 218 , Fuego Ironworks (tall grass) ( West Sea ) Routes 205 and 218 , Canalave City , Valley Windworks , Fuego Ironworks ( Surfing ) ( West Sea ) Routes 212 , 213 , and 224 , Pastoria City ( Surfing ) ( East Sea )",
+            "HeartGold": "Evolve Pokéwalker Shellos ( West Sea ) Trade ( East Sea )",
+            "SoulSilver": "Evolve Pokéwalker Shellos ( West Sea ) Trade ( East Sea )"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Evolve Shellos",
+            "White 2": "Evolve Shellos"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Ground ) ( West Sea )",
+            "Y": "Friend Safari ( Ground ) ( West Sea )",
+            "Omega Ruby": "Evolve Shellos ( West Sea )",
+            "Alpha Sapphire": "Evolve Shellos ( East Sea )"
+        },
+        "Generation VII": {
+            "Sun": "Ancient Poni Path , Exeggutor Island , Poni Wilds ( East Sea ) Trade ( West Sea )",
+            "Moon": "Ancient Poni Path , Exeggutor Island , Poni Wilds ( East Sea ) Trade ( West Sea )",
+            "Ultra Sun": "Ancient Poni Path , Exeggutor Island , Poni Wilds ( East Sea ) Poni Breaker Coast ( Surfing ) ( East Sea ) Evolve Shellos ( West Sea )",
+            "Ultra Moon": "Ancient Poni Path , Exeggutor Island , Poni Wilds ( East Sea ) Poni Breaker Coast ( Surfing ) ( East Sea ) Evolve Shellos ( West Sea )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME ( West Sea ) Route 9 , Galar Mine No. 2 , Dusty Bowl , Giant's Mirror ( East Sea ) Bridge Field , Dusty Bowl , Giant's Cap , Giant's Mirror , Lake of Outrage , Rolling Fields , South Lake Miloch , West Lake Axewell ( Max Raid Battle ) ( East Sea )",
+            "Shield": "Pokémon HOME ( West Sea ) Route 9 , Galar Mine No. 2 , Dusty Bowl , Giant's Mirror ( East Sea ) Bridge Field , Dusty Bowl , Giant's Cap , Giant's Mirror , Lake of Outrage , Rolling Fields , South Lake Miloch , West Lake Axewell ( Max Raid Battle ) ( East Sea )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure ) ( East Sea )",
+            "Brilliant Diamond": "Routes 218 and 221 , Fuego Ironworks (tall grass) ( West Sea ) Routes 222 , 224 , and 230 (tall grass) ( East Sea ) Grand Underground - Fountainspring Cave",
+            "Shining Pearl": "Routes 218 and 221 , Fuego Ironworks (tall grass) ( West Sea ) Routes 222 , 224 , and 230 (tall grass) ( East Sea ) Grand Underground - Fountainspring Cave",
+            "Legends: Arceus": "Obsidian Fieldlands : Ramanas Island , Sandgem Flats , massive mass outbreaks ( West Sea ) Cobalt Coastlands : Seagrass Haven (additional ), massive mass outbreaks ( East Sea )"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Area One , Area Three ( East Sea ) North Province: Casseroya Lake ( West Sea ) Tera Raid Battles ( 4★ ) ( West V /East S Sea )",
+            "Violet": "North Province: Area One , Area Three ( East Sea ) North Province: Casseroya Lake ( West Sea ) Tera Raid Battles ( 4★ ) ( West V /East S Sea )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Shellos",
+            "to": "Gastrodon",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

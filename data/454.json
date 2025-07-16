@@ -1,0 +1,107 @@
+{
+    "name": "Toxicroak",
+    "pokedex_number": "#0454",
+    "types": [
+        "Poison",
+        "Fighting"
+    ],
+    "abilities": [
+        "Anticipation",
+        "Dry Skin",
+        "Poison Touch"
+    ],
+    "stats": {
+        "HP": 83,
+        "Attack": 106,
+        "Defense": 65,
+        "Sp. Atk": 86,
+        "Sp. Def": 65,
+        "Speed": 85,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
+            "Pearl": "The toxin made in its poison sacs is pumped to the knuckle claws through tubes down its arms.",
+            "Platinum": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.",
+            "HeartGold": "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.",
+            "SoulSilver": "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws."
+        },
+        "Generation V": {
+            "Black": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.",
+            "White": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.",
+            "Black 2": "The croaking that Toxicroak produces before a battle is for churning the poison it has stored in its poison sac.",
+            "White 2": "The croaking that Toxicroak produces before a battle is for churning the poison it has stored in its poison sac."
+        },
+        "Generation VI": {
+            "X": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.",
+            "Y": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
+            "Omega Ruby": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.",
+            "Alpha Sapphire": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It bounces toward opponents and gouges them with poisonous claws. No more than a scratch is needed to knock out its adversaries.",
+            "Shield": "It booms out a victory croak when its prey goes down in defeat. This Pokémon and Seismitoad are related species.",
+            "Brilliant Diamond": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
+            "Shining Pearl": "The toxin made in its poison sac is pumped to the knuckle claws through tubes down its arms.",
+            "Legends: Arceus": "Its crimson claws contain a virulent toxin. This toxin can be made into a tonic by diluting it, mixing it with several types of wild grass, and boiling it down over two days."
+        },
+        "Generation IX": {
+            "Scarlet": "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.",
+            "Violet": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Great Marsh (after obtaining National Pokédex )",
+            "Pearl": "Great Marsh (after obtaining National Pokédex )",
+            "Platinum": "Great Marsh (after obtaining National Pokédex )",
+            "HeartGold": "Evolve Croagunk",
+            "SoulSilver": "Evolve Croagunk"
+        },
+        "Generation V": {
+            "Black": "Evolve Croagunk",
+            "White": "Evolve Croagunk",
+            "Black 2": "Pinwheel Forest (outer)",
+            "White 2": "Pinwheel Forest (outer)"
+        },
+        "Generation VI": {
+            "X": "Evolve Croagunk , Friend Safari ( Poison )",
+            "Y": "Evolve Croagunk , Friend Safari ( Poison )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Stony Wilderness Dusty Bowl , North Lake Miloch , Rolling Fields , South Lake Miloch , Stony Wilderness ,  ( Max Raid Battle )",
+            "Shield Expansion Pass": "Challenge Road , Training Lowlands ( Wanderer )",
+            "Brilliant Diamond": "Great Marsh (after obtaining National Pokédex )",
+            "Shining Pearl": "Great Marsh (after obtaining National Pokédex )",
+            "Legends: Arceus": "Obsidian Fieldlands : Space-time distortions Crimson Mirelands : Holm of Trials (additional ), massive mass outbreaks Cobalt Coastlands : Spring Path Coronet Highlands : near Ancient Quarry"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Casseroya Lake Tera Raid Battles ( 4★ )",
+            "Violet": "North Province: Casseroya Lake Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Croagunk",
+            "to": "Toxicroak",
+            "method": [
+                "Level 37"
+            ]
+        }
+    ]
+}

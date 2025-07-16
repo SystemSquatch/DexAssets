@@ -1,0 +1,51 @@
+{
+    "name": "Sprigatito",
+    "pokedex_number": "#0906",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Protean"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 61,
+        "Defense": 54,
+        "Sp. Atk": 45,
+        "Sp. Def": 45,
+        "Speed": 65,
+        "Total": 310
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
+            "Violet": "The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "First partner Pokémon from Clavell in Cabo Poco",
+            "Violet": "First partner Pokémon from Clavell in Cabo Poco"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Sprigatito",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Sprigatito",
+            "to": "Floragato",
+            "method": [
+                "Level 16"
+            ]
+        }
+    ]
+}

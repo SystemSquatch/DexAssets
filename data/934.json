@@ -1,0 +1,45 @@
+{
+    "name": "Garganacl",
+    "pokedex_number": "#0934",
+    "types": [
+        "Rock",
+        "Unknown"
+    ],
+    "abilities": [
+        "Purifying Salt",
+        "Sturdy",
+        "Clear Body"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 130,
+        "Sp. Atk": 45,
+        "Sp. Def": 90,
+        "Speed": 35,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward.",
+            "Violet": "Many Pokémon gather around Garganacl, hoping to lick at its mineral-rich salt."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Area Zero Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "Area Zero Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Naclstack",
+            "to": "Garganacl",
+            "method": [
+                "Level 38"
+            ]
+        }
+    ]
+}

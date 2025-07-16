@@ -1,0 +1,52 @@
+{
+    "name": "Pawmo",
+    "pokedex_number": "#0922",
+    "types": [
+        "Electric",
+        "Fighting"
+    ],
+    "abilities": [
+        "Volt Absorb",
+        "Natural Cure",
+        "Iron Fist"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 75,
+        "Defense": 40,
+        "Sp. Atk": 50,
+        "Sp. Def": 40,
+        "Speed": 85,
+        "Total": 350
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
+            "Violet": "Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five , Area Six , Pokémon League East Province: Area One , Area Two , Area Three West Province: Area One , Area Two , Area Three , Asado Desert North Province: Area One , Area Three , Glaseado Mountain North Province: Area Three ( Steel Tera Type ) Area Zero Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five , Area Six , Pokémon League East Province: Area One , Area Two , Area Three West Province: Area One , Area Two , Area Three , Asado Desert North Province: Area One , Area Three , Glaseado Mountain North Province: Area Three ( Steel Tera Type ) Area Zero Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Pawmi",
+            "to": "Pawmo",
+            "method": [
+                "Level 18"
+            ]
+        },
+        {
+            "from": "Pawmo",
+            "to": "Pawmot",
+            "method": [
+                "Other"
+            ]
+        }
+    ]
+}

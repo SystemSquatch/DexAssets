@@ -1,0 +1,159 @@
+{
+    "name": "Abra",
+    "pokedex_number": "#0063",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Synchronize",
+        "Inner Focus",
+        "Magic Guard"
+    ],
+    "stats": {
+        "HP": 25,
+        "Attack": 20,
+        "Defense": 15,
+        "Sp. Atk": 105,
+        "Sp. Def": 55,
+        "Speed": 90,
+        "Total": 310
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Using its ability to read minds, it will identify impending danger and Teleport to safety.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Using its ability to read minds, it will identify impending danger and Teleport to safety.",
+            "Yellow": "Sleeps 18 hours a day. If it senses danger, it will teleport itself to safety even as it sleeps.",
+            "Stadium": "Even while asleep, it can sense enemies approaching. It Teleport s itself to a distant spot if there is any danger."
+        },
+        "Generation II": {
+            "Gold": "It senses impending attacks and Teleport s away to safety before the actual attacks can strike.",
+            "Silver": "If it decides to Teleport randomly, it creates the illusion that it has created copies of itself.",
+            "Crystal": "It hypnotizes itself so that it can teleport away when it senses danger, even if it is asleep.",
+            "Stadium 2": "It senses impending attacks and Teleport s away to safety before the actual attacks can strike. (Pokémon Red, Silver, or Crystal inserted) If it decides to Teleport randomly, it creates the illusion that it has created copies of itself. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Abra sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this Pok é mon immediately teleports to safety.",
+            "Sapphire": "Abra needs to sleep for eighteen hours a day. If it doesn't, this Pok é mon loses its ability to use telekinetic powers. If it is attacked, Abra escapes using Teleport while it is still sleeping.",
+            "Emerald": "A Pok é mon that sleeps 18 hours a day. Observation revealed that it uses Teleport to change its location once every hour.",
+            "FireRed": "It sleeps for 18 hours a day. It uses a variety of extrasensory powers even while asleep.",
+            "LeafGreen": "Using its ability to read minds, it will sense impending danger and Teleport to safety."
+        },
+        "Generation IV": {
+            "Diamond": "It sleeps for 18 hours a day. Even when awake, it teleports itself while remaining seated.",
+            "Pearl": "Even while asleep, it maintains a telepathic radar. It teleports when it is threatened.",
+            "Platinum": "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.",
+            "HeartGold": "It senses impending attacks and teleports away to safety before the actual attacks can strike.",
+            "SoulSilver": "If it decides to teleport randomly, it evokes the illusion that it has created copies of itself."
+        },
+        "Generation V": {
+            "Black": "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.",
+            "White": "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.",
+            "Black 2": "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.",
+            "White 2": "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day."
+        },
+        "Generation VI": {
+            "X": "It sleeps for 18 hours a day. It uses a variety of extrasensory powers even while asleep.",
+            "Y": "It senses impending attacks and teleports away to safety before the actual attacks can strike.",
+            "Omega Ruby": "Abra sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this Pokémon immediately teleports to safety.",
+            "Alpha Sapphire": "Abra needs to sleep for eighteen hours a day. If it doesn't, this Pokémon loses its ability to use telekinetic powers. If it is attacked, Abra escapes using Teleport while it is still sleeping."
+        },
+        "Generation VII": {
+            "Sun": "It sleeps 18 hours a day. Even while sleeping, it will teleport itself to treetops and pick and eat berries there.",
+            "Moon": "It can teleport itself to safety while it's asleep, but when it wakes, it doesn't know where it is, so it panics.",
+            "Ultra Sun": "It uses various psychic powers even while it's sleeping, so you can't tell whether or not it's awake.",
+            "Ultra Moon": "It can read others' minds and will teleport away when danger approaches. You must clear your mind if you want to catch it.",
+            "Let's Go Pikachu": "Sleeps 18 hours a day. If it senses danger, it will teleport itself to safety even as it sleeps.",
+            "Let's Go Eevee": "Sleeps 18 hours a day. If it senses danger, it will teleport itself to safety even as it sleeps."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon uses its psychic powers while it sleeps. The contents of Abra's dreams affect the powers that the Pokémon wields.",
+            "Shield": "Abra can teleport in its sleep. Apparently the more deeply Abra sleeps, the farther its teleportations go.",
+            "Brilliant Diamond": "It sleeps for 18 hours a day. Even when awake, it teleports itself while remaining seated.",
+            "Shining Pearl": "Even while asleep, it maintains a telepathic radar. It teleports when it is threatened.",
+            "Legends: Arceus": "Spends 18 hours of the day sleeping. Even while asleep, Abra can control its psychic powers—should danger approach, the Pokémon will simply teleport away."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 24 and 25 , Celadon City ( Rocket Game Corner )",
+            "Blue": "Routes 24 and 25 , Celadon City ( Rocket Game Corner )",
+            "Blue (Japan)": "Routes 24 and 25 , Celadon City ( Rocket Game Corner )",
+            "Yellow": "Routes 5 , 6 , 7 , and 8 , Celadon City ( Rocket Game Corner )"
+        },
+        "Generation II": {
+            "Gold": "Routes 5 , 6 , 8 , 24 , 25 , 34 , and 35 , Goldenrod Game Corner",
+            "Silver": "Routes 5 , 6 , 8 , 24 , 25 , 34 , and 35 , Goldenrod Game Corner",
+            "Crystal": "Routes 5 , 7 , 8 , 24 , 34 , and 35 , Goldenrod Game Corner"
+        },
+        "Generation III": {
+            "Ruby": "Granite Cave",
+            "Sapphire": "Granite Cave",
+            "Emerald": "Route 116 , Granite Cave",
+            "FireRed": "Routes 24 and 25 , Celadon City ( Rocket Game Corner )",
+            "LeafGreen": "Routes 24 and 25 , Celadon City ( Rocket Game Corner )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 203 and 215 Trade Machop in Oreburgh City",
+            "Pearl": "Routes 203 and 215 Trade Machop in Oreburgh City",
+            "Platinum": "Routes 203 and 215 Trade Machop in Oreburgh City",
+            "HeartGold": "Routes 5 , 6 , 8 , 24 , 25 , 34 , and 35 , Goldenrod Game Corner Safari Zone (Plains, default)",
+            "SoulSilver": "Routes 5 , 6 , 8 , 24 , 25 , 34 , and 35 , Goldenrod Game Corner Safari Zone (Plains, default)",
+            "Pal Park": "Field",
+            "Pokéwalker": "Town Outskirts"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Breed Alakazam",
+            "White 2": "Breed Alakazam",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Route 5 , Friend Safari ( Psychic )",
+            "Y": "Route 5 , Friend Safari ( Psychic )",
+            "Omega Ruby": "Granite Cave",
+            "Alpha Sapphire": "Granite Cave"
+        },
+        "Generation VII": {
+            "Sun": "Route 2 , Hau'oli City",
+            "Moon": "Route 2 , Hau'oli City",
+            "Ultra Sun": "Route 2 , Hau'oli City",
+            "Ultra Moon": "Route 2 , Hau'oli City",
+            "Let's Go Pikachu": "Routes 5 , 6 , 7 and 8",
+            "Let's Go Eevee": "Routes 5 , 6 , 7 and 8"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Fields of Honor Soothing Wetlands , Challenge Beach ( Max Raid Battle )",
+            "Brilliant Diamond": "Routes 203 and 215 Trade Machop in Oreburgh City",
+            "Shining Pearl": "Routes 203 and 215 Trade Machop in Oreburgh City",
+            "Legends: Arceus": "Obsidian Fieldlands : Windswept Run , Sandgem Flats , massive mass outbreaks Alabaster Icelands : Lake Acuity , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Abra",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Abra",
+            "to": "Kadabra",
+            "method": [
+                "Level 16"
+            ]
+        }
+    ]
+}

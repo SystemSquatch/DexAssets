@@ -1,0 +1,113 @@
+{
+    "name": "Zangoose",
+    "pokedex_number": "#0335",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Immunity",
+        "Toxic Boost"
+    ],
+    "stats": {
+        "HP": 73,
+        "Attack": 115,
+        "Defense": 60,
+        "Sp. Atk": 60,
+        "Sp. Def": 60,
+        "Speed": 90,
+        "Total": 458
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Memories of battling its arch-rival Seviper are etched into every cell of Zangoose 's body. This Pok é mon adroitly dodges attacks with incredible agility.",
+            "Sapphire": "Zangoose usually stays on all fours, but when angered, it gets up on its hind legs and extends its claws. This Pok é mon shares a bitter rivalry with Seviper that dates back over generations.",
+            "Emerald": "When it battles, it stands on its hind legs and attacks with its sharply clawed forelegs. Its fur bristles if it encounters any Seviper .",
+            "FireRed": "If it comes across a Seviper , its fur bristles and it assumes its battle pose. Its sharp claws are its best weapon.",
+            "LeafGreen": "If it comes across a Seviper , its fur bristles and it assumes its battle pose. Its sharp claws are its best weapon."
+        },
+        "Generation IV": {
+            "Diamond": "It has feuded with Seviper for many generations. Its sharp claws are its biggest weapons.",
+            "Pearl": "It has feuded with Seviper for many generations. Its sharp claws are its biggest weapons.",
+            "Platinum": "It has feuded with Seviper for many generations. Its sharp claws are its biggest weapons.",
+            "HeartGold": "Its fur would all stand on end if it smelled a Seviper nearby. Its sharp claws tear up its foes.",
+            "SoulSilver": "Its fur would all stand on end if it smelled a Seviper nearby. Its sharp claws tear up its foes."
+        },
+        "Generation V": {
+            "Black": "It has feuded with Seviper for many generations. Its sharp claws are its biggest weapons.",
+            "White": "It has feuded with Seviper for many generations. Its sharp claws are its biggest weapons.",
+            "Black 2": "It's Seviper 's archrival. To threaten those it encounters, it fans out the claws on its front paws.",
+            "White 2": "It's Seviper 's archrival. To threaten those it encounters, it fans out the claws on its front paws."
+        },
+        "Generation VI": {
+            "X": "It has feuded with Seviper for many generations. Its sharp claws are its biggest weapons.",
+            "Y": "Its fur would all stand on end if it smelled a Seviper nearby. Its sharp claws tear up its foes.",
+            "Omega Ruby": "Memories of battling its archrival Seviper are etched into every cell of Zangoose's body. This Pokémon adroitly dodges attacks with incredible agility.",
+            "Alpha Sapphire": "Zangoose usually stays on all fours, but when angered, it gets up on its hind legs and extends its claws. This Pokémon shares a bitter rivalry with Seviper that dates back over generations."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It has feuded with Seviper for many generations. Its sharp claws are its greatest weapons.",
+            "Shining Pearl": "It has feuded with Seviper for many generations. Its sharp claws are its greatest weapons."
+        },
+        "Generation IX": {
+            "Scarlet": "It’s Seviper ’s archrival. To threaten those it encounters, it fans out the claws on its front paws.",
+            "Violet": "If it comes across a Seviper , its fur bristles and it assumes its battle pose. Its sharp claws are its best weapon."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 114",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Cipher Key Lair (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 208 and 210 (Ruby)",
+            "Pearl": "Routes 208 and 210 (Ruby)",
+            "Platinum": "Routes 208 and 210 (Ruby)",
+            "HeartGold": "Safari Zone (Peak with 12 Plains points; Plains with 15 Peak points)",
+            "SoulSilver": "Safari Zone (Peak with 12 Plains points; Plains with 15 Peak points)",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Route 11 , Village Bridge",
+            "White": "Route 11 , Village Bridge",
+            "Black 2": "Routes 7 and 11 , Village Bridge Routes 7 and 23 ( Hidden Grotto )",
+            "White 2": "Routes 7 and 11 , Village Bridge Routes 7 and 23 ( Hidden Grotto )",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Route 8",
+            "Y": "Route 8",
+            "Omega Ruby": "Route 114",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Grand Underground - Grassland Cave , Sunlit Cavern , Swampy Cave , Bogsunk Cavern , Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Three , Area Five Tera Raid Battles ( 3★ , 4★ )",
+            "Violet": "South Province: Area Three , Area Five Tera Raid Battles ( 3★ , 4★ )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth"
+        }
+    },
+    "evolution": []
+}

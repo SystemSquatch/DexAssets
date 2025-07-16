@@ -1,0 +1,61 @@
+{
+    "name": "Hoopa",
+    "pokedex_number": "#0720",
+    "types": [
+        "Psychic",
+        "Ghost"
+    ],
+    "abilities": [
+        "Magician"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 110,
+        "Defense": 60,
+        "Sp. Atk": 150,
+        "Sp. Def": 130,
+        "Speed": 70,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "This troublemaker sends anything and everything to faraway places using its loop, which can warp space.",
+            "Y": "It gathers things it likes and passes them through its loop to teleport them to a secret place.",
+            "Omega Ruby": "In its true form, it possess a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within.",
+            "Alpha Sapphire": "It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Event",
+            "Y": "Event",
+            "Omega Ruby": "Event",
+            "Alpha Sapphire": "Event"
+        },
+        "Generation VII": {
+            "Sun": "Event",
+            "Moon": "Event",
+            "Ultra Sun": "Event",
+            "Ultra Moon": "Event",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME",
+            "Violet": "Pokémon HOME"
+        }
+    },
+    "evolution": []
+}

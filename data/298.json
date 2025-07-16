@@ -1,0 +1,131 @@
+{
+    "name": "Azurill",
+    "pokedex_number": "#0298",
+    "types": [
+        "Normal",
+        "Fairy"
+    ],
+    "abilities": [
+        "Thick Fat",
+        "Huge Power",
+        "Sap Sipper"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 20,
+        "Defense": 40,
+        "Sp. Atk": 20,
+        "Sp. Def": 40,
+        "Speed": 20,
+        "Total": 190
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Azurill spins its tail as if it were a lasso, then hurls it far. The momentum of the throw sends its body flying, too. Using this unique action, one of these Pok é mon managed to hurl itself a record 33 feet .",
+            "Sapphire": "Azurill 's tail is large and bouncy. It is packed full of the nutrients this Pok é mon needs to grow. Azurill can be seen bouncing and playing on its big, rubbery tail.",
+            "Emerald": "Its tail, which is packed with nutrition, is very bouncy like a rubber ball. On sunny days they gather at the edge of water and splash about for fun.",
+            "FireRed": "It battles by flinging around its tail, which is bigger than its body. The tail is a flotation device in water.",
+            "LeafGreen": "It battles by flinging around its tail, which is bigger than its body. The tail is a flotation device in water."
+        },
+        "Generation IV": {
+            "Diamond": "A Pokémon that lives by water. It moves quickly on land by bouncing on its big tail.",
+            "Pearl": "Its tail is filled with nutrients necessary for growth. It plays by bouncing on its tail.",
+            "Platinum": "Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.",
+            "HeartGold": "Its tail is packed full of the nutrients it needs to grow.",
+            "SoulSilver": "Its tail is packed full of the nutrients it needs to grow."
+        },
+        "Generation V": {
+            "Black": "Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.",
+            "White": "Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.",
+            "Black 2": "It swings its large, nutrient-filled tail around to fight opponents bigger than itself.",
+            "White 2": "It swings its large, nutrient-filled tail around to fight opponents bigger than itself."
+        },
+        "Generation VI": {
+            "X": "A Pokémon that lives by water. It moves quickly on land by bouncing on its big tail.",
+            "Y": "It swings its large, nutrient-filled tail around to fight opponents bigger than itself.",
+            "Omega Ruby": "Azurill spins its tail as if it were a lasso, then hurls it far. The momentum of the throw sends its body flying, too. Using this unique action, one of these Pokémon managed to hurl itself a record 33 feet.",
+            "Alpha Sapphire": "Azurill's tail is large and bouncy. It is packed full of the nutrients this Pokémon needs to grow. Azurill can be seen bouncing and playing on its big, rubbery tail."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "The ball on Azurill's tail bounces like a rubber ball, and it's full of the nutrients the Pokémon needs to grow.",
+            "Shield": "Although Azurill are normally docile, an angry one will swing around the big ball on its tail and try to smash its opponents.",
+            "Brilliant Diamond": "It's a Pokémon that lives by water. It moves quickly on land by bouncing on its big tail.",
+            "Shining Pearl": "Its tail is filled with nutrients necessary for growth. It plays by bouncing on its tail."
+        },
+        "Generation IX": {
+            "Scarlet": "Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.",
+            "Violet": "Its tail is packed full of the nutrients it needs to grow."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Breed Marill or Azumarill holding a Sea Incense",
+            "Sapphire": "Breed Marill or Azumarill holding a Sea Incense",
+            "Emerald": "Breed Marill or Azumarill holding a Sea Incense",
+            "FireRed": "Trade",
+            "LeafGreen": "Breed Marill or Azumarill holding a Sea Incense",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trophy Garden (after obtaining the National Pokédex ), Great Marsh",
+            "Pearl": "Trophy Garden (after obtaining the National Pokédex ), Great Marsh",
+            "Platinum": "Trophy Garden",
+            "HeartGold": "Safari Zone (Savannah with 5 Waterside points)",
+            "SoulSilver": "Safari Zone (Savannah with 5 Waterside points)",
+            "Pal Park": "Pond",
+            "Pokéwalker": "Warm Beach"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Route 20 ( Surfing ) Floccesy Ranch",
+            "White 2": "Route 20 ( Surfing ) Floccesy Ranch"
+        },
+        "Generation VI": {
+            "X": "Routes 3 and 22",
+            "Y": "Routes 3 and 22",
+            "Omega Ruby": "Breed Marill or Azumarill holding a Sea Incense",
+            "Alpha Sapphire": "Breed Marill or Azumarill holding a Sea Incense"
+        },
+        "Generation VII": {
+            "Sun": "Breed Marill or Azumarill holding a Sea Incense",
+            "Moon": "Breed Marill or Azumarill holding a Sea Incense",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Brawlers' Cave Fields of Honor ( Max Raid Battle )",
+            "Brilliant Diamond": "Trophy Garden (after obtaining the National Pokédex ), Great Marsh",
+            "Shining Pearl": "Trophy Garden (after obtaining the National Pokédex ), Great Marsh",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Five East Province: Area One Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two , Area Five East Province: Area One Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Azurill",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Azurill",
+            "to": "Marill",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        }
+    ]
+}

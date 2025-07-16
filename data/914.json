@@ -1,0 +1,44 @@
+{
+    "name": "Quaquaval",
+    "pokedex_number": "#0914",
+    "types": [
+        "Water",
+        "Fighting"
+    ],
+    "abilities": [
+        "Torrent",
+        "Moxie"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 120,
+        "Defense": 80,
+        "Sp. Atk": 85,
+        "Sp. Def": 75,
+        "Speed": 85,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "A single kick from a Quaquaval can send a truck rolling. This Pokémon uses its powerful legs to perform striking dances from far-off lands.",
+            "Violet": "Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Evolve Quaxwell",
+            "Violet": "Evolve Quaxwell"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Quaxwell",
+            "to": "Quaquaval",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

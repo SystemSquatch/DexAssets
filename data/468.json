@@ -1,0 +1,103 @@
+{
+    "name": "Togekiss",
+    "pokedex_number": "#0468",
+    "types": [
+        "Fairy",
+        "Flying"
+    ],
+    "abilities": [
+        "Hustle",
+        "Serene Grace",
+        "Super Luck"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 50,
+        "Defense": 95,
+        "Sp. Atk": 120,
+        "Sp. Def": 115,
+        "Speed": 80,
+        "Total": 545
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It will never appear where there is strife. Its sightings have become rare recently.",
+            "Pearl": "It will never appear where there is strife. Its sightings have become rare recently.",
+            "Platinum": "It shares many blessings with people who respect one another's rights and avoid needless strife.",
+            "HeartGold": "As everyone knows, it visits peaceful regions, bringing them gifts of kindness and sweet blessings.",
+            "SoulSilver": "As everyone knows, it visits peaceful regions, bringing them gifts of kindness and sweet blessings."
+        },
+        "Generation V": {
+            "Black": "It shares many blessings with people who respect one another's rights and avoid needless strife.",
+            "White": "It shares many blessings with people who respect one another's rights and avoid needless strife.",
+            "Black 2": "It shares many blessings with people who respect one another's rights and avoid needless strife.",
+            "White 2": "It shares many blessings with people who respect one another's rights and avoid needless strife."
+        },
+        "Generation VI": {
+            "X": "As everyone knows, it visits peaceful regions, bringing them gifts of kindness and sweet blessings.",
+            "Y": "It shares many blessings with people who respect one another's rights and avoid needless strife.",
+            "Omega Ruby": "As everyone knows, it visits peaceful regions, bringing them gifts of kindness and sweet blessings.",
+            "Alpha Sapphire": "It shares many blessings with people who respect one another's rights and avoid needless strife."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "These Pokémon are never seen anywhere near conflict or turmoil. In recent times, they've hardly been seen at all.",
+            "Shield": "Known as a bringer of blessings, it's been depicted on good-luck charms since ancient times.",
+            "Brilliant Diamond": "It will never appear where there is strife. Sightings of this Pokémon have recently become rare.",
+            "Shining Pearl": "It will never appear where there is strife. Sightings of this Pokémon have recently become rare.",
+            "Legends: Arceus": "Scant few have ever sighted this Pokémon. After studying what literature remains, I am certain Togekiss will reveal itself when peace reigns in the land."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Togetic",
+            "Pearl": "Evolve Togetic",
+            "Platinum": "Evolve Togetic",
+            "HeartGold": "Evolve Togetic",
+            "SoulSilver": "Evolve Togetic"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Togetic",
+            "Black 2": "Evolve Togetic",
+            "White 2": "Evolve Togetic"
+        },
+        "Generation VI": {
+            "X": "Evolve Togetic",
+            "Y": "Evolve Togetic",
+            "Omega Ruby": "Evolve Togetic",
+            "Alpha Sapphire": "Evolve Togetic"
+        },
+        "Generation VII": {
+            "Sun": "Poni Gauntlet ( Island Scan ) Tu",
+            "Moon": "Poni Gauntlet ( Island Scan ) Tu",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Dusty Bowl Bridge Field , Hammerlocke Hills , Lake of Outrage , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Dusty Bowl Bridge Field , Hammerlocke Hills , Lake of Outrage , Rolling Fields ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Togetic",
+            "Shining Pearl": "Evolve Togetic",
+            "Legends: Arceus": "Obsidian Fieldlands : Lake Verity Flying Cobalt Coastlands : massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Togetic",
+            "to": "Togekiss",
+            "method": [
+                "Use Shiny Stone"
+            ]
+        }
+    ]
+}

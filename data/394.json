@@ -1,0 +1,112 @@
+{
+    "name": "Prinplup",
+    "pokedex_number": "#0394",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Competitive",
+        "Defiant"
+    ],
+    "stats": {
+        "HP": 64,
+        "Attack": 66,
+        "Defense": 68,
+        "Sp. Atk": 81,
+        "Sp. Def": 76,
+        "Speed": 50,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
+            "Pearl": "Its wings deliver wicked blows that snap even the thickest of trees. It searches for prey in icy seas.",
+            "Platinum": "Because every Prinplup considers itself to be the most important, they can never form a group.",
+            "HeartGold": "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.",
+            "SoulSilver": "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees."
+        },
+        "Generation V": {
+            "Black": "Because every Prinplup considers itself to be the most important, they can never form a group.",
+            "White": "Because every Prinplup considers itself to be the most important, they can never form a group.",
+            "Black 2": "Because every Prinplup considers itself to be the most important, they can never form a group.",
+            "White 2": "Because every Prinplup considers itself to be the most important, they can never form a group."
+        },
+        "Generation VI": {
+            "X": "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
+            "Y": "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.",
+            "Omega Ruby": "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
+            "Alpha Sapphire": "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
+            "Shining Pearl": "Its wings deliver wicked blows that snap even the thickest of trees. It searches for prey in icy seas.",
+            "Legends: Arceus": "It swims gracefully through the frigid sea and sings with a voice like the roaring tide. It has powerful, sturdy wings and dignity to match."
+        },
+        "Generation IX": {
+            "Scarlet": "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees in half with a single hit.",
+            "Violet": "Because every Prinplup considers itself to be the most important, they can never form a group."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Piplup",
+            "Pearl": "Evolve Piplup",
+            "Platinum": "Evolve Piplup",
+            "HeartGold": "Trade",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Evolve Global Link event Piplup",
+            "White": "Evolve Global Link event Piplup",
+            "Black 2": "Evolve Global Link event Piplup",
+            "White 2": "Evolve Global Link event Piplup"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Piplup",
+            "Alpha Sapphire": "Evolve Piplup"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 16 ( Island Scan ) Tu",
+            "Ultra Moon": "Route 16 ( Island Scan ) Tu",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Piplup",
+            "Shining Pearl": "Evolve Piplup",
+            "Legends: Arceus": "Cobalt Coastlands : near Spring Path , near Islespy Shore ( mass outbreaks ), massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Evolve Piplup"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Piplup",
+            "to": "Prinplup",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Prinplup",
+            "to": "Empoleon",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

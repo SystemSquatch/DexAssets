@@ -1,0 +1,135 @@
+{
+    "name": "Quagsire",
+    "pokedex_number": "#0195",
+    "types": [
+        "Water",
+        "Ground"
+    ],
+    "abilities": [
+        "Damp",
+        "Water Absorb",
+        "Unaware"
+    ],
+    "stats": {
+        "HP": 95,
+        "Attack": 85,
+        "Defense": 85,
+        "Sp. Atk": 65,
+        "Sp. Def": 65,
+        "Speed": 35,
+        "Total": 430
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "This carefree Pok é mon has an easy-going nature. While swimming, it always bumps into boat hulls.",
+            "Silver": "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.",
+            "Crystal": "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care.",
+            "Stadium 2": "This carefree Pok é mon has an easy-going nature. While swimming, it always bumps into boat hulls. (Pokémon Red, Silver, or Crystal inserted) Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pok é mon does not move, it does not get very hungry.",
+            "Sapphire": "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pok é mon does not move, it does not get very hungry.",
+            "Emerald": "A Quagsire hunts by leaving its mouth wide open in water and waiting for its prey to blunder in. Because it doesn't move, it does not get very hungry.",
+            "FireRed": "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.",
+            "LeafGreen": "This carefree Pok é mon has an easygoing nature. While swimming, it always bumps into boat hulls."
+        },
+        "Generation IV": {
+            "Diamond": "It has a sluggish nature. It lies at the river's bottom, waiting for prey to stray into its mouth.",
+            "Pearl": "A dim-witted Pokémon. It doesn't care if it bumps its head into boats or rocks while swimming.",
+            "Platinum": "It has an easygoing nature. It doesn't care if it bumps its head on boats and boulders while swimming.",
+            "HeartGold": "This carefree Pokémon has an easy-going nature. While swimming, it always bumps into boat hulls.",
+            "SoulSilver": "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims."
+        },
+        "Generation V": {
+            "Black": "It has an easygoing nature. It doesn't care if it bumps its head on boats and boulders while swimming.",
+            "White": "It has an easygoing nature. It doesn't care if it bumps its head on boats and boulders while swimming.",
+            "Black 2": "It has an easygoing nature. It doesn't care if it bumps its head on boats and boulders while swimming.",
+            "White 2": "It has an easygoing nature. It doesn't care if it bumps its head on boats and boulders while swimming."
+        },
+        "Generation VI": {
+            "X": "It has a sluggish nature. It lies at the river's bottom, waiting for prey to stray into its mouth.",
+            "Y": "This carefree Pokémon has an easygoing nature. While swimming, it always bumps into boat hulls.",
+            "Omega Ruby": "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry.",
+            "Alpha Sapphire": "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It has an easygoing nature. It doesn't care if it bumps its head on boats and boulders while swimming.",
+            "Shield": "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care.",
+            "Brilliant Diamond": "It has a sluggish nature. It lies at the river's bottom, waiting for prey to stray into its mouth.",
+            "Shining Pearl": "A dim-witted Pokémon. It doesn't care if it bumps its head into boats or rocks while swimming."
+        },
+        "Generation IX": {
+            "Scarlet": "This carefree Pokémon has an easygoing nature. While swimming, it always bumps into boat hulls.",
+            "Violet": "Due to its relaxed and carefree attitude, it often bumps its head on riverbed boulders and boat hulls as it swims."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 10 , 13 , 14 , 15 , 26 , and 27 (tall grass) Day Night Mt. Silver Cave (2F and chambers) Routes 12 , 13 , and 32 , Ruins of Alph , Union Cave ( Surfing )",
+            "Silver": "Routes 10 , 13 , 14 , and 15 (tall grass) Day Night Routes 26 and 27 (tall grass) Day Mt. Silver Cave (2F and chambers) Routes 12 , 13 , and 32 , Ruins of Alph , Union Cave ( Surfing )",
+            "Crystal": "Routes 13 , 14 , 15 , 26 , and 27 , Ruins of Alph , Union Cave Night Routes 12 , 13 , and 32 , Ruins of Alph , Union Cave ( Surfing )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Safari Zone extension ( Surfing )",
+            "FireRed": "Evolve Wooper",
+            "LeafGreen": "Trade",
+            "Colosseum": "Pyrite Town (Shadow)",
+            "XD": "Evolve Wooper"
+        },
+        "Generation IV": {
+            "Diamond": "Route 212 and Great Marsh ( Surfing ) Great Marsh (tall grass)",
+            "Pearl": "Route 212 and Great Marsh ( Surfing ) Great Marsh (tall grass)",
+            "Platinum": "Great Marsh ( Surfing ) Great Marsh and Route 212 (tall grass)",
+            "HeartGold": "Cliff Cave Morning Day Routes 10 , 13 , 14 , 15 , 26 , and 27 Night Routes 12 , 13 , and 32 , Ruins of Alph , Union Cave , Cliff Edge Gate ( Surfing ) Safari Zone (tall grass in Wetland, default Night ; Surfing in Marshland with 13 Waterside blocks; Surfing in Wetland, default, and with 3 Waterside blocks) Mt. Silver Cave",
+            "SoulSilver": "Cliff Cave Morning Day Routes 10 , 13 , 14 , 15 , 26 , and 27 Night Routes 12 , 13 , and 32 , Ruins of Alph , Union Cave , Cliff Edge Gate ( Surfing ) Safari Zone (tall grass in Wetland, default Night ; Surfing in Marshland with 13 Waterside blocks; Surfing in Wetland, default, and with 3 Waterside blocks) Mt. Silver Cave",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Wooper",
+            "Black 2": "Route 8 ( Swarm ) Spring Summer Autumn",
+            "White 2": "Route 8 ( Swarm ) Spring Summer Autumn"
+        },
+        "Generation VI": {
+            "X": "Routes 14 and 19 , Friend Safari ( Water )",
+            "Y": "Routes 14 and 19 , Friend Safari ( Water )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Water World )",
+            "Ultra Moon": "Ultra Space Wilds ( Water World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Giant's Seat , Giant's Cap , Lake of Outrage West Lake Axewell ( Wanderer ) Dusty Bowl , Rolling Fields , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Giant's Seat , Giant's Cap , Lake of Outrage West Lake Axewell ( Wanderer ) Dusty Bowl , Rolling Fields , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Soothing Wetlands ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Route 212 and Great Marsh ( Surfing ) Great Marsh (tall grass) Grand Underground - Fountainspring Cave , Swampy Cave , Bogsunk Cavern (After obtaining the TM97 ( Defog ))",
+            "Shining Pearl": "Route 212 and Great Marsh ( Surfing ) Great Marsh (tall grass) Grand Underground - Fountainspring Cave , Swampy Cave , Bogsunk Cavern (After obtaining the TM97 ( Defog ))",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Evolve Wooper ( Johtonian Form )",
+            "Violet": "Evolve Wooper ( Johtonian Form )",
+            "The Hidden Treasure of Area Zero": "Mossfell Confluence , Fellhorn Gorge , Oni Mountain , Infernal Pass , Chilling Waterhead , Kitakami Wilds , Timeless Woods Tera Raid Battles ( 4★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Wooper",
+            "to": "Quagsire",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

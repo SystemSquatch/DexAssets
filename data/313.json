@@ -1,0 +1,115 @@
+{
+    "name": "Volbeat",
+    "pokedex_number": "#0313",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Illuminate",
+        "Swarm",
+        "Prankster"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 73,
+        "Defense": 55,
+        "Sp. Atk": 47,
+        "Sp. Def": 75,
+        "Speed": 85,
+        "Total": 400
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "With the arrival of night, Volbeat emits light from its tail. It communicates with others by adjusting the intensity and flashing of its light. This Pok é mon is attracted by the sweet aroma of Illumise .",
+            "Sapphire": "Volbeat 's tail glows like a lightbulb. With other Volbeat , it uses its tail to draw geometric shapes in the night sky. This Pok é mon loves the sweet aroma given off by Illumise .",
+            "Emerald": "With their taillights lit, Volbeat fly in a swarm, drawing geometric designs in the night sky. They move their nests if their pond water becomes dirty.",
+            "FireRed": "It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light.",
+            "LeafGreen": "It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light."
+        },
+        "Generation IV": {
+            "Diamond": "It communicates with others by lighting up its rear at night. It loves Illumise 's sweet aroma.",
+            "Pearl": "It communicates with others by lighting up its rear at night. It loves Illumise 's sweet aroma.",
+            "Platinum": "It communicates with others by lighting up its rear at night. It loves Illumise 's sweet aroma.",
+            "HeartGold": "It emits light from its tail to communicate. It loves the sweet aroma given off by Illumise .",
+            "SoulSilver": "It emits light from its tail to communicate. It loves the sweet aroma given off by Illumise ."
+        },
+        "Generation V": {
+            "Black": "It communicates with others by lighting up its rear at night. It loves Illumise 's sweet aroma.",
+            "White": "It communicates with others by lighting up its rear at night. It loves Illumise 's sweet aroma.",
+            "Black 2": "It communicates with others by lighting up its rear at night. It loves Illumise 's sweet aroma.",
+            "White 2": "It communicates with others by lighting up its rear at night. It loves Illumise 's sweet aroma."
+        },
+        "Generation VI": {
+            "X": "It communicates with others by lighting up its rear at night. It loves Illumise 's sweet aroma.",
+            "Y": "It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light.",
+            "Omega Ruby": "With the arrival of night, Volbeat emits light from its tail. It communicates with others by adjusting the intensity and flashing of its light. This Pokémon is attracted by the sweet aroma of Illumise .",
+            "Alpha Sapphire": "Volbeat's tail glows like a lightbulb. With other Volbeat, it uses its tail to draw geometric shapes in the night sky. This Pokémon loves the sweet aroma given off by Illumise ."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It communicates with others by lighting up its rear at night. It loves Illumise 's sweet aroma.",
+            "Shining Pearl": "It communicates with others by lighting up its rear at night. It loves Illumise 's sweet aroma."
+        },
+        "Generation IX": {
+            "Scarlet": "It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light.",
+            "Violet": "It flashes the light on its rear to communicate with other Volbeat. It loves the sweet aroma given off by Illumise ."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 117",
+            "Sapphire": "Route 117",
+            "Emerald": "Route 117",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 229",
+            "Pearl": "Route 229",
+            "Platinum": "Route 229",
+            "HeartGold": "National Park ( Bug-Catching Contest ) Th Safari Zone (Mountain with 10 Plains points)",
+            "SoulSilver": "National Park ( Bug-Catching Contest ) Th Safari Zone (Mountain with 10 Plains points)",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Hoenn Field"
+        },
+        "Generation V": {
+            "Black": "Route 3 ( Swarm )",
+            "White": "Breed Illumise",
+            "Black 2": "Route 3 ( Swarm )",
+            "White 2": "Breed Illumise",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Route 7 , Berry fields , Friend Safari ( Bug )",
+            "Y": "Route 7 , Berry fields , Friend Safari ( Bug )",
+            "Omega Ruby": "Route 117",
+            "Alpha Sapphire": "Route 117"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 229 Grand Underground - Grassland Cave , Sunlit Cavern , Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 229 Grand Underground - Grassland Cave , Sunlit Cavern , Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Apple Hills , Loyalty Plaza , Reveler's Road , Mossfell Confluence , Fellhorn Gorge , Wistful Fields , Kitakami Wilds , Timeless Woods Tera Raid Battles ( 2★ , 4★ )"
+        }
+    },
+    "evolution": []
+}

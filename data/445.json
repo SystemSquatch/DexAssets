@@ -1,0 +1,113 @@
+{
+    "name": "Garchomp",
+    "pokedex_number": "#0445",
+    "types": [
+        "Dragon",
+        "Ground"
+    ],
+    "abilities": [
+        "Sand Veil",
+        "Rough Skin",
+        "Sand Force"
+    ],
+    "stats": {
+        "HP": 108,
+        "Attack": 130,
+        "Defense": 95,
+        "Sp. Atk": 80,
+        "Sp. Def": 85,
+        "Speed": 102,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
+            "Pearl": "It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.",
+            "Platinum": "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.",
+            "HeartGold": "Its body is covered in fine scales that reduce drag, enabling it to fly at high speeds.",
+            "SoulSilver": "Its body is covered in fine scales that reduce drag, enabling it to fly at high speeds."
+        },
+        "Generation V": {
+            "Black": "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.",
+            "White": "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.",
+            "Black 2": "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.",
+            "White 2": "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees."
+        },
+        "Generation VI": {
+            "X": "When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
+            "Y": "It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.",
+            "Omega Ruby": "When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
+            "Alpha Sapphire": "It flies at speeds equal to a jet fighter plane. It never allows its prey to escape."
+        },
+        "Generation VII": {
+            "Sun": "Excess energy melted its arms and wings, transforming them into giant scythes.",
+            "Moon": "Its vaunted wings become scythes, sending it mad with rage. It swings its scythes wildly and slices the ground to pieces.",
+            "Ultra Sun": "Its arms and wings melted into something like scythes. Mad with rage, it rampages on and on.",
+            "Ultra Moon": "Its disposition is more vicious than before its Mega Evolution. Garchomp carves its opponents up with the scythes on both arms."
+        },
+        "Generation VIII": {
+            "Sword": "Garchomp makes its home in volcanic mountains. It flies through the sky as fast as a jet airplane, hunting down as much prey as it can.",
+            "Shield": "Garchomp is fast both underground and above. It can bring down prey and return to its den before its body has chilled from being outside.",
+            "Brilliant Diamond": "When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
+            "Shining Pearl": "It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.",
+            "Legends: Arceus": "Soars across the heavens at blinding speed—a magnificent sight! It has a feral disposition. Utmost caution is required if one meets a Garchomp out in the wilds."
+        },
+        "Generation IX": {
+            "Scarlet": "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.",
+            "Violet": "The protuberances on its head serve as sensors. It can even detect distant prey."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Gabite",
+            "Pearl": "Evolve Gabite",
+            "Platinum": "Evolve Gabite",
+            "HeartGold": "Evolve Gabite",
+            "SoulSilver": "Evolve Gabite"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Evolve Gabite",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Gabite",
+            "Y": "Evolve Gabite",
+            "Omega Ruby": "Evolve Gabite",
+            "Alpha Sapphire": "Evolve Gabite"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Gabite",
+            "Moon": "Evolve Gabite",
+            "Ultra Sun": "Evolve Gabite",
+            "Ultra Moon": "Evolve Gabite",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Shield Expansion Pass": "Tunnel to the Top , Path to the Peak ( Wanderer ) Giant's Bed , Path to the Peak , Ballimere Lake , Three-Point Pass , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Gabite",
+            "Shining Pearl": "Evolve Gabite",
+            "Legends: Arceus": "Coronet Highlands : massive mass outbreak Alabaster Icelands : Avalanche Slopes"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area Two ( Water Tera Type ) Great Crater of Paldea , Area Zero Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "West Province: Area Two ( Water Tera Type ) Great Crater of Paldea , Area Zero Tera Raid Battles ( 5★ , 6★ )",
+            "The Hidden Treasure of Area Zero": "Evolve Gabite"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Gabite",
+            "to": "Garchomp",
+            "method": [
+                "Level 48"
+            ]
+        }
+    ]
+}

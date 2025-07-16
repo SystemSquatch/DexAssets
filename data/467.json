@@ -1,0 +1,112 @@
+{
+    "name": "Magmortar",
+    "pokedex_number": "#0467",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Flame Body",
+        "Vital Spirit"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 95,
+        "Defense": 67,
+        "Sp. Atk": 125,
+        "Sp. Def": 95,
+        "Speed": 83,
+        "Total": 540
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It blasts fireballs of over 3,600 degrees F from the ends of its arms. It lives in volcanic craters.",
+            "Pearl": "It blasts fireballs of over 3,600 degrees F from the ends of its arms. It lives in volcanic craters.",
+            "Platinum": "When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.",
+            "HeartGold": "It blasts fireballs of over 3,600 degrees Fahrenheit out of its arms. Its breath also sears and sizzles.",
+            "SoulSilver": "It blasts fireballs of over 3,600 degrees Fahrenheit out of its arms. Its breath also sears and sizzles."
+        },
+        "Generation V": {
+            "Black": "When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.",
+            "White": "When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.",
+            "Black 2": "When shooting 3,600 degrees F fireballs from its arms, its body takes on a whitish hue from the intense heat.",
+            "White 2": "When shooting 3,600 degrees F fireballs from its arms, its body takes on a whitish hue from the intense heat."
+        },
+        "Generation VI": {
+            "X": "It blasts fireballs of over 3,600 degrees Fahrenheit from the ends of its arms. It lives in volcanic craters.",
+            "Y": "It blasts fireballs of over 3,600 degrees Fahrenheit out of its arms. Its breath also sears and sizzles.",
+            "Omega Ruby": "It blasts fireballs of over 3,600 degrees Fahrenheit from the ends of its arms. It lives in volcanic craters.",
+            "Alpha Sapphire": "It blasts fireballs of over 3,600 degrees Fahrenheit out of its arms. Its breath also sears and sizzles."
+        },
+        "Generation VII": {
+            "Sun": "They dwell in volcanic craters. According to what is known, a single pair of male and female Magmortar lives in one volcano.",
+            "Moon": "From its arm, it launches fireballs hotter than 3,500 degrees Fahrenheit . Its arm starts to melt when it fires a whole barrage.",
+            "Ultra Sun": "There are still quite a few factories that rely on the flames provided by Magmortar to process metals.",
+            "Ultra Moon": "Magmortar takes down its enemies by shooting fireballs, which burn them to a blackened crisp. It avoids this method when hunting prey."
+        },
+        "Generation VIII": {
+            "Sword": "When Magmortar inhales deeply, the fire burning in its belly intensifies, rising in temperature to over 3,600 degrees Fahrenheit .",
+            "Shield": "Living in the crater of a volcano has caused this Pokémon's body to resemble its environment—it has an organ similar to a magma chamber.",
+            "Brilliant Diamond": "It blasts fireballs of over 3,600 degrees Fahrenheit from the ends of its arms. It lives in volcanic craters.",
+            "Shining Pearl": "It blasts fireballs of over 3,600 degrees Fahrenheit from the ends of its arms. It lives in volcanic craters.",
+            "Legends: Arceus": "Use of a strange item caused this Pokémon to evolve. Fireballs launched from the ends of its tubelike arms are hot enough to melt an iron pot in an instant."
+        },
+        "Generation IX": {
+            "Scarlet": "When shooting 3,600 degree Fahrenheit fireballs from its arms, its body takes on a whitish hue from the intense heat.",
+            "Violet": "They dwell in volcanic craters. It’s said that only a single pair of Magmortar will inhabit any given volcano."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Magmar",
+            "Pearl": "Evolve Magmar",
+            "Platinum": "Evolve Magmar",
+            "HeartGold": "Evolve Magmar",
+            "SoulSilver": "Evolve Magmar"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Magmar",
+            "Black 2": "Evolve Magmar",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Magmar",
+            "Y": "Evolve Magmar",
+            "Omega Ruby": "Evolve Magmar",
+            "Alpha Sapphire": "Evolve Magmar"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Magmar",
+            "Moon": "Evolve Magmar",
+            "Ultra Sun": "Evolve Magmar",
+            "Ultra Moon": "Evolve Magmar",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Slippery Slope , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Wanderer ) Giant's Bed , Snowslide Slope , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Evolve Magmar",
+            "Legends: Arceus": "Cobalt Coastlands : massive mass outbreaks Coronet Highlands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Magmar",
+            "to": "Magmortar",
+            "method": [
+                "Trade (holding Magmarizer)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "name": "Woobat",
+    "pokedex_number": "#0527",
+    "types": [
+        "Psychic",
+        "Flying"
+    ],
+    "abilities": [
+        "Unaware",
+        "Klutz",
+        "Simple"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 45,
+        "Defense": 43,
+        "Sp. Atk": 55,
+        "Sp. Def": 43,
+        "Speed": 72,
+        "Total": 313
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
+            "White": "Suction from its nostrils enables it to stick to cave walls during sleep. It leaves a heart-shaped mark behind.",
+            "Black 2": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.",
+            "White 2": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune."
+        },
+        "Generation VI": {
+            "X": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
+            "Y": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.",
+            "Omega Ruby": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
+            "Alpha Sapphire": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "While inside a cave, if you look up and see lots of heart-shaped marks lining the walls, it's evidence that Woobat live there.",
+            "Shield": "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Wellspring Cave , Mistralton Cave , Twist Mountain , Challenger's Cave , Victory Road",
+            "White": "Wellspring Cave , Mistralton Cave , Twist Mountain , Challenger's Cave , Victory Road",
+            "Black 2": "Wellspring Cave , Mistralton Cave , Twist Mountain , Reversal Mountain , Clay Tunnel , Relic Passage , Underground Ruins , Seaside Cave Route 6 ( Hidden Grotto ) Wellspring Cave ( N's Pokémon )",
+            "White 2": "Wellspring Cave , Mistralton Cave , Twist Mountain , Reversal Mountain , Clay Tunnel , Relic Passage , Underground Ruins , Seaside Cave Route 6 ( Hidden Grotto ) Wellspring Cave ( N's Pokémon )"
+        },
+        "Generation VI": {
+            "X": "Reflection Cave , Glittering Cave , Friend Safari ( Flying )",
+            "Y": "Reflection Cave , Glittering Cave , Friend Safari ( Flying )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Galar Mine , Watchtower Ruins , Bridge Field , Giant's Mirror Rolling Fields , Watchtower Ruins , East Lake Axewell , Motostoke Riverbank , Stony Wilderness , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Galar Mine , Watchtower Ruins , Bridge Field , Giant's Mirror Rolling Fields , Watchtower Ruins , East Lake Axewell , Motostoke Riverbank , Stony Wilderness , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Courageous Cavern , Brawlers' Cave Loop Lagoon , Frostpoint Field , Giant's Bed , Frigid Sea , Ballimere Lake , Dyna Tree Hill ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Woobat",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Woobat",
+            "to": "Swoobat",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        }
+    ]
+}

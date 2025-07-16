@@ -1,0 +1,143 @@
+{
+    "name": "Piloswine",
+    "pokedex_number": "#0221",
+    "types": [
+        "Ice",
+        "Ground"
+    ],
+    "abilities": [
+        "Oblivious",
+        "Snow Cloak",
+        "Thick Fat"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 80,
+        "Sp. Atk": 60,
+        "Sp. Def": 60,
+        "Speed": 50,
+        "Total": 450
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
+            "Silver": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
+            "Crystal": "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.",
+            "Stadium 2": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly. (Pokémon Red, Silver, or Crystal inserted) If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pok é mon uses its tusks to dig up food that has been buried under ice.",
+            "Sapphire": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pok é mon uses its tusks to dig up food that has been buried under ice.",
+            "Emerald": "A Piloswine is covered by a thick coat of long hair for enduring freezing cold. It uses its tusks to dig up food that has been buried under ice.",
+            "FireRed": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
+            "LeafGreen": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly."
+        },
+        "Generation IV": {
+            "Diamond": "Its shaggy coat makes it unable to see. It checks surroundings with its sensitive nose instead.",
+            "Pearl": "Its shaggy coat makes it unable to see. It checks surroundings with its sensitive nose instead.",
+            "Platinum": "Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.",
+            "HeartGold": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
+            "SoulSilver": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound."
+        },
+        "Generation V": {
+            "Black": "Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.",
+            "White": "Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.",
+            "Black 2": "With its excellent sense of smell, it's even able to find mushrooms that are buried under frozen ground.",
+            "White 2": "With its excellent sense of smell, it's even able to find mushrooms that are buried under frozen ground."
+        },
+        "Generation VI": {
+            "X": "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.",
+            "Y": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
+            "Omega Ruby": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice.",
+            "Alpha Sapphire": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
+            "Shield": "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.",
+            "Brilliant Diamond": "Its shaggy coat makes it unable to see. It checks surroundings with its sensitive nose instead.",
+            "Shining Pearl": "Its shaggy coat makes it unable to see. It checks surroundings with its sensitive nose instead.",
+            "Legends: Arceus": "The long fur of this Pokémon covers its eyes, ears, and even limbs, allowing Piloswine to resist harshly frigid conditions. The Pokémon's white tusks can be used to defeat its enemies."
+        },
+        "Generation IX": {
+            "Scarlet": "Covered by a shaggy coat, it is resistant to the cold. Its tusks of ice thicken when it snows.",
+            "Violet": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Swinub",
+            "Silver": "Evolve Swinub",
+            "Crystal": "Evolve Swinub"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Swinub",
+            "LeafGreen": "Evolve Swinub",
+            "Colosseum": "The Under Subway (Shadow)",
+            "XD": "Evolve Swinub"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Swinub",
+            "Pearl": "Evolve Swinub",
+            "Platinum": "Route 217 ( Poké Radar )",
+            "HeartGold": "Evolve Swinub",
+            "SoulSilver": "Evolve Swinub",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Giant Chasm",
+            "White": "Giant Chasm",
+            "Black 2": "Giant Chasm",
+            "White 2": "Giant Chasm"
+        },
+        "Generation VI": {
+            "X": "Frost Cavern , Friend Safari ( Ice )",
+            "Y": "Frost Cavern , Friend Safari ( Ice )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Swinub",
+            "Moon": "Evolve Swinub",
+            "Ultra Sun": "Evolve Swinub",
+            "Ultra Moon": "Evolve Swinub",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Dusty Bowl , Lake of Outrage Dusty Bowl , East Lake Axewell , Rolling Fields ( Wanderer ) Dusty Bowl , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Dusty Bowl , Lake of Outrage Dusty Bowl , East Lake Axewell , Rolling Fields ( Wanderer ) Dusty Bowl , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Slippery Slope , Roaring-Sea Caves Max Lair ( Dynamax Adventure ) Slippery Slope , Giant's Bed , Snowslide Slope , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Swinub",
+            "Shining Pearl": "Evolve Swinub",
+            "Legends: Arceus": "Crimson Mirelands : massive mass outbreaks Alabaster Icelands : Avalanche Slopes , Bonechill Wastes , Arena's Approach and nearby (additional ), Avalugg's Legacy , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Chilling Waterhead Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Swinub",
+            "to": "Piloswine",
+            "method": [
+                "Level 33"
+            ]
+        },
+        {
+            "from": "Piloswine",
+            "to": "Mamoswine",
+            "method": [
+                "Level up (knowing Ancient Power)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "name": "Bayleef",
+    "pokedex_number": "#0153",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Leaf Guard"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 80,
+        "Sp. Atk": 63,
+        "Sp. Def": 80,
+        "Speed": 60,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight.",
+            "Silver": "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.",
+            "Crystal": "The scent that wafts from the leaves on its neck causes anyone who smells it to become energetic.",
+            "Stadium 2": "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight. (Pokémon Red, Silver, or Crystal inserted) A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Bayleef 's neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
+            "Sapphire": "Bayleef 's neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
+            "Emerald": "A Bayleef 's neck is ringed by curled-up leaves. Inside each leaf is a small tree shoot. The fragrance of this shoot makes people peppy.",
+            "FireRed": "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.",
+            "LeafGreen": "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight."
+        },
+        "Generation IV": {
+            "Diamond": "The buds that ring its neck give off a spicy aroma that perks people up.",
+            "Pearl": "The buds that ring its neck give off a spicy aroma that perks people up.",
+            "Platinum": "The buds that ring its neck give off a spicy aroma that perks people up.",
+            "HeartGold": "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight.",
+            "SoulSilver": "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health."
+        },
+        "Generation V": {
+            "Black": "The buds that ring its neck give off a spicy aroma that perks people up.",
+            "White": "The buds that ring its neck give off a spicy aroma that perks people up.",
+            "Black 2": "The buds that ring its neck give off a spicy aroma that perks people up.",
+            "White 2": "The buds that ring its neck give off a spicy aroma that perks people up."
+        },
+        "Generation VI": {
+            "X": "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.",
+            "Y": "The buds that ring its neck give off a spicy aroma that perks people up.",
+            "Omega Ruby": "Bayleef's neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
+            "Alpha Sapphire": "Bayleef's neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "The buds that ring its neck give off a spicy aroma that perks people up.",
+            "Shining Pearl": "The buds that ring its neck give off a spicy aroma that perks people up."
+        },
+        "Generation IX": {
+            "Scarlet": "The spicy scent that wafts from around Bayleef’s neck somehow makes those who smell it want to fight.",
+            "Violet": "The scent that wafts from the leaves on its neck causes anyone who smells it to become energetic."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Chikorita",
+            "Silver": "Evolve Chikorita",
+            "Crystal": "Evolve Chikorita"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Evolve Chikorita",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Phenac City (Shadow) Realgam Tower (if not snagged in Phenac City) Snagem Hideout (if Bluno was battled in Phenac City) Shadow PKMN Lab (if Rosso was battled in Phenac City)",
+            "XD": "Evolve Chikorita"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Chikorita",
+            "SoulSilver": "Evolve Chikorita",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Chikorita",
+            "Alpha Sapphire": "Evolve Chikorita"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Chikorita",
+            "Moon": "Evolve Chikorita",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Chikorita",
+            "Shining Pearl": "Evolve Chikorita",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Chikorita"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Chikorita",
+            "to": "Bayleef",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Bayleef",
+            "to": "Meganium",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

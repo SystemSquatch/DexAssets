@@ -1,0 +1,162 @@
+{
+    "name": "Clefairy",
+    "pokedex_number": "#0035",
+    "types": [
+        "Fairy",
+        "Unknown"
+    ],
+    "abilities": [
+        "Cute Charm",
+        "Magic Guard",
+        "Friend Guard"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 45,
+        "Defense": 48,
+        "Sp. Atk": 60,
+        "Sp. Def": 65,
+        "Speed": 35,
+        "Total": 323
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+            "Yellow": "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.",
+            "Stadium": "Because of its adorable nature, it is in high demand as a pet. However, it is rare and found only in limited areas."
+        },
+        "Generation II": {
+            "Gold": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
+            "Silver": "Its adorable behavior and cry make it highly popular. However, this cute Pok é mon is rarely found.",
+            "Crystal": "Though rarely seen, it becomes easier to spot, for some reason, on the night of a full moon.",
+            "Stadium 2": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair. (Pokémon Red, Silver, or Crystal inserted) Its adorable behavior and cry make it highly popular. However, this cute Pok é mon is rarely found. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "On every night of a full moon, groups of this Pok é mon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
+            "Sapphire": "On every night of a full moon, groups of this Pok é mon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
+            "Emerald": "On every night of a full moon, they come out to play. When dawn arrives, the tired Clefairy go to sleep nestled up against each other in deep and quiet mountains.",
+            "FireRed": "Its adorable appearance makes it popular as a pet. However, it is rare and difficult to find.",
+            "LeafGreen": "With its magical and cute appeal, it has many admirers. It is rare and found only in certain areas."
+        },
+        "Generation IV": {
+            "Diamond": "Thought to live with others on quiet mountains, it is popular for its adorable nature.",
+            "Pearl": "It flies using the wings on its back to collect moonlight. This Pokémon is difficult to find.",
+            "Platinum": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+            "HeartGold": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
+            "SoulSilver": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found."
+        },
+        "Generation V": {
+            "Black": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+            "White": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+            "Black 2": "On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float.",
+            "White 2": "On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float."
+        },
+        "Generation VI": {
+            "X": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+            "Y": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
+            "Omega Ruby": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
+            "Alpha Sapphire": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other."
+        },
+        "Generation VII": {
+            "Sun": "Its adorable behavior and appearance make it popular with men and women, young and old. Its numbers are few, however.",
+            "Moon": "On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field.",
+            "Ultra Sun": "They're popular, but they're rare. Trainers who show them off recklessly may be targeted by thieves.",
+            "Ultra Moon": "Bathed in moonlight, its wings glow faintly. Without even flapping, Clefairy rises into the air, where it dances around.",
+            "Let's Go Pikachu": "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.",
+            "Let's Go Eevee": "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often."
+        },
+        "Generation VIII": {
+            "Sword": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+            "Shield": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
+            "Brilliant Diamond": "Thought to live with others on quiet mountains, it is popular for its adorable nature.",
+            "Shining Pearl": "Moonlight gathers on the wings on Clefairy's back, allowing Clefairy to fly. This Pokémon is difficult to find.",
+            "Legends: Arceus": "It can be found in quiet mountain areas on a full moon's night. Its dancing and its tiny, faintly glowing wings confer upon it a lovely fairylike quality."
+        },
+        "Generation IX": {
+            "Scarlet": "On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float.",
+            "Violet": "On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Mt. Moon , Celadon City ( Rocket Game Corner )",
+            "Blue": "Mt. Moon , Celadon City ( Rocket Game Corner )",
+            "Blue (Japan)": "Mt. Moon , Cerulean Cave",
+            "Yellow": "Mt. Moon"
+        },
+        "Generation II": {
+            "Gold": "Mt. Moon",
+            "Silver": "Mt. Moon",
+            "Crystal": "Mt. Moon Routes 3 and 4 Night"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Mt. Moon , Celadon City ( Rocket Game Corner )",
+            "LeafGreen": "Mt. Moon , Celadon City ( Rocket Game Corner )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Mt. Coronet , Trophy Garden",
+            "Pearl": "Mt. Coronet , Trophy Garden",
+            "Platinum": "Mt. Coronet , Trophy Garden",
+            "HeartGold": "Mt. Moon Safari Zone Night (tall grass in Meadow - default and with 3 Peak points)",
+            "SoulSilver": "Mt. Moon Safari Zone Night (tall grass in Meadow - default and with 3 Peak points)",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Resort , Night Sky's Edge"
+        },
+        "Generation V": {
+            "Black": "Giant Chasm",
+            "White": "Giant Chasm",
+            "Black 2": "Giant Chasm Giant Chasm ( Hidden Grotto )",
+            "White 2": "Giant Chasm Giant Chasm ( Hidden Grotto )"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Fairy )",
+            "Y": "Friend Safari ( Fairy )",
+            "Omega Ruby": "Route 115 , Meteor Falls ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 115 , Meteor Falls ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Mount Hokulani Night ( SOS Battle )",
+            "Moon": "Mount Hokulani Night ( SOS Battle )",
+            "Ultra Sun": "Mount Hokulani Night ( SOS Battle )",
+            "Ultra Moon": "Mount Hokulani Night ( SOS Battle )",
+            "Let's Go Pikachu": "Mt. Moon",
+            "Let's Go Eevee": "Mt. Moon"
+        },
+        "Generation VIII": {
+            "Sword": "Giant's Cap , Motostoke Riverbank Bridge Field , Hammerlocke Hills , Lake of Outrage , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Giant's Cap , Motostoke Riverbank Bridge Field , Hammerlocke Hills , Lake of Outrage , Rolling Fields ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed , Snowslide Slope , Tunnel to the Top Fields of Honor , Soothing Wetlands , Forest of Focus , Insular Sea , Frostpoint Field , Snowslide Slope , Giant's Bed , Frigid Sea , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Mt. Coronet , Trophy Garden",
+            "Shining Pearl": "Mt. Coronet , Trophy Garden",
+            "Legends: Arceus": "Cobalt Coastlands : massive mass outbreaks Coronet Highlands : Fabled Spring Night , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Reveler's Road , Kitakami Hall , Infernal Pass , Oni's Maw , Crystal Pool Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Cleffa",
+            "to": "Clefairy",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        },
+        {
+            "from": "Clefairy",
+            "to": "Clefable",
+            "method": [
+                "Use Moon Stone"
+            ]
+        }
+    ]
+}

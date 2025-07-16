@@ -1,0 +1,163 @@
+{
+    "name": "Gloom",
+    "pokedex_number": "#0044",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Stench"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 70,
+        "Sp. Atk": 85,
+        "Sp. Def": 75,
+        "Speed": 40,
+        "Total": 395
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.",
+            "Yellow": "Smells incredibly foul! However, around 1 out of 1,000 people enjoy sniffing its nose-bending stink.",
+            "Stadium": "The horrible-smelling pistil of this flower stinks over a mile away. Unwittingly inhaled, it can cause fainting."
+        },
+        "Generation II": {
+            "Gold": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
+            "Silver": "It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close.",
+            "Crystal": "The smell from its drool-like syrup and the pollen on its petals is so bad, it may make opponents faint.",
+            "Stadium 2": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched. (Pokémon Red, Silver, or Crystal inserted) It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Gloom releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this Pok é mon is feeling calm and secure, it does not release its usual stinky aroma.",
+            "Sapphire": "From its mouth Gloom drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drools even more of its honey.",
+            "Emerald": "A horribly noxious honey drools from its mouth. One whiff of the honey can result in memory loss. Some fans are said to enjoy this overwhelming stink, however.",
+            "FireRed": "Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles .",
+            "LeafGreen": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey."
+        },
+        "Generation IV": {
+            "Diamond": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
+            "Pearl": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
+            "Platinum": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
+            "HeartGold": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
+            "SoulSilver": "It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close."
+        },
+        "Generation V": {
+            "Black": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
+            "White": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
+            "Black 2": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
+            "White 2": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away."
+        },
+        "Generation VI": {
+            "X": "Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink.",
+            "Y": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
+            "Omega Ruby": "Gloom releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this Pokémon is feeling calm and secure, it does not release its usual stinky aroma.",
+            "Alpha Sapphire": "From its mouth Gloom drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drools even more of its honey."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink.",
+            "Let's Go Eevee": "Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink."
+        },
+        "Generation VIII": {
+            "Sword": "Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles .",
+            "Shield": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
+            "Brilliant Diamond": "The nectar it drools from its mouth smells so atrocious that it can make noses curl from more than a mile away.",
+            "Shining Pearl": "The nectar it drools from its mouth smells so atrocious that it can make noses curl from more than a mile away."
+        },
+        "Generation IX": {
+            "Scarlet": "The fluid that oozes from its mouth isn’t drool. It is a nectar that is used to attract prey.",
+            "Violet": "It secretes a sticky, drool-like nectar. Though sweet, it smells too repulsive to get very close."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 12 , 13 , 14 , and 15",
+            "Blue": "Trade",
+            "Blue (Japan)": "Routes 12 , 13 , 14 , and 15",
+            "Yellow": "Routes 12 , 13 , 14 , and 15 , Cerulean Cave"
+        },
+        "Generation II": {
+            "Gold": "Route 5 Night",
+            "Silver": "Route 5 Night",
+            "Crystal": "Route 24 Night"
+        },
+        "Generation III": {
+            "Ruby": "Routes 121 and 123 , Safari Zone",
+            "Sapphire": "Routes 121 and 123 , Safari Zone",
+            "Emerald": "Routes 121 and 123 , Safari Zone",
+            "FireRed": "Routes 12 , 13 , 14 , and 15 , Berry Forest , Bond Bridge , Cape Brink , Water Path",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 224 , 229 , and 230",
+            "Pearl": "Routes 224 , 229 , and 230",
+            "Platinum": "Routes 224 and 230",
+            "HeartGold": "Route 5 Night Routes 47 and 48 Safari Zone (tall grass in Marshland, default Night and with 2 Plains points)",
+            "SoulSilver": "Route 5 Night Routes 47 and 48 Safari Zone (tall grass in Marshland, default Night and with 2 Plains points)",
+            "Pal Park": "Forest",
+            "Pokéwalker": "Treehouse"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Oddish",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Poison )",
+            "Y": "Friend Safari ( Poison )",
+            "Omega Ruby": "Routes 119 , 120 , 121 , and 123 , Safari Zone",
+            "Alpha Sapphire": "Routes 119 , 120 , 121 , and 123 , Safari Zone"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Routes 12 , 13 , 14 , 15 and 21",
+            "Let's Go Eevee": "Trade"
+        },
+        "Generation VIII": {
+            "Sword": "Axew's Eye , North Lake Miloch , Giant's Mirror , Giant's Cap Dappled Grove , East Lake Axewell , Giant's Cap , Hammerlocke Hills , Motostoke Riverbank ( Max Raid Battle )",
+            "Shield": "Axew's Eye , North Lake Miloch , Giant's Mirror , Giant's Cap Dappled Grove , East Lake Axewell , Giant's Cap , Hammerlocke Hills , Motostoke Riverbank ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Routes 224 , 229 , and 230 , Grand Underground - Grassland Cave , Swampy Cave , Spacious Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Routes 224 , 229 , and 230 , Grand Underground - Grassland Cave , Swampy Cave , Spacious Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Coastal Biome Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Oddish",
+            "to": "Gloom",
+            "method": [
+                "Level 21"
+            ]
+        },
+        {
+            "from": "Gloom",
+            "to": "Vileplume",
+            "method": [
+                "Use Leaf Stone"
+            ]
+        },
+        {
+            "from": "Gloom",
+            "to": "Bellossom",
+            "method": [
+                "Use Sun Stone"
+            ]
+        }
+    ]
+}

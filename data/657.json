@@ -1,0 +1,81 @@
+{
+    "name": "Frogadier",
+    "pokedex_number": "#0657",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Protean"
+    ],
+    "stats": {
+        "HP": 54,
+        "Attack": 63,
+        "Defense": 52,
+        "Sp. Atk": 83,
+        "Sp. Def": 56,
+        "Speed": 97,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
+            "Y": "Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute's time.",
+            "Omega Ruby": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
+            "Alpha Sapphire": "Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute's time."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "It excels at devising battle strategies that make use of the terrain, and it never misses its mark when throwing bubble-covered pebbles.",
+            "Violet": "The tips of its fingers and toes stick firmly to vertical surfaces. Frogadier can scale skyscrapers with ease."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Friend Safari ( Water )",
+            "Y": "Friend Safari ( Water )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Froakie",
+            "Ultra Moon": "Evolve Froakie",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Evolve Froakie"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Froakie",
+            "to": "Frogadier",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Frogadier",
+            "to": "Greninja",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

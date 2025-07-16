@@ -1,0 +1,81 @@
+{
+    "name": "Fennekin",
+    "pokedex_number": "#0653",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Blaze",
+        "Magician"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 40,
+        "Sp. Atk": 62,
+        "Sp. Def": 60,
+        "Speed": 60,
+        "Total": 307
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit .",
+            "Y": "As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears.",
+            "Omega Ruby": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit .",
+            "Alpha Sapphire": "As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon gets worked up easily. Its body can also overheat, so it uses its ears to dissipate the heat and calm down.",
+            "Violet": "Twigs make for Fennekin’s snacks. When it nibbles on twigs, it finds the courage to face strong foes."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "First partner Pokémon from Tierno in Aquacorde Town Traded from Shauna in Vaniville Town after becoming Champion if the player chose Froakie",
+            "Y": "First partner Pokémon from Tierno in Aquacorde Town Traded from Shauna in Vaniville Town after becoming Champion if the player chose Froakie",
+            "Omega Ruby": "Trade , Event",
+            "Alpha Sapphire": "Trade , Event"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Delphox",
+            "Ultra Moon": "Breed Delphox",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Savanna Biome (after boosting biodiversity in the Savanna Biome)"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Fennekin",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Fennekin",
+            "to": "Braixen",
+            "method": [
+                "Level 16"
+            ]
+        }
+    ]
+}

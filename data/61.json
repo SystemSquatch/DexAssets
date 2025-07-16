@@ -1,0 +1,168 @@
+{
+    "name": "Poliwhirl",
+    "pokedex_number": "#0061",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Water Absorb",
+        "Damp",
+        "Swift Swim"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 90,
+        "Total": 385
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
+            "Yellow": "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.",
+            "Stadium": "Capable of living on land, but prefers to stay in water. If it is out of water, it sweats to keep its skin moist."
+        },
+        "Generation II": {
+            "Gold": "The swirl on its belly subtly undulates. Staring at it may gradually cause drowsiness.",
+            "Silver": "The skin on most of its body is moist. However, the skin on its belly spiral feels smooth.",
+            "Crystal": "Though it is skilled at walking, it prefers to live underwater where there is less danger.",
+            "Stadium 2": "The swirl on its belly subtly undulates. Staring at it may gradually cause drowsiness. (Pokémon Red, Silver, or Crystal inserted) The skin on most of its body is moist. However, the skin on its belly spiral feels smooth. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "The surface of Poliwhirl 's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+            "Sapphire": "The surface of Poliwhirl 's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+            "Emerald": "Its body surface is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+            "FireRed": "Its two legs are well developed. Even though it can live on the ground, it prefers living in water.",
+            "LeafGreen": "It can live in or out of water. When out of water, it constantly sweats to keep its body slimy."
+        },
+        "Generation IV": {
+            "Diamond": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+            "Pearl": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+            "Platinum": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+            "HeartGold": "The swirl on its belly subtly undulates. Staring at it may gradually cause drowsiness.",
+            "SoulSilver": "The skin on most of its body is moist. However, the skin on its belly spiral feels smooth."
+        },
+        "Generation V": {
+            "Black": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+            "White": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+            "Black 2": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+            "White 2": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness."
+        },
+        "Generation VI": {
+            "X": "It can live in or out of water. When out of water, it constantly sweats to keep its body slimy.",
+            "Y": "Its two legs are well developed. Even though it can live on the ground, it prefers living in water.",
+            "Omega Ruby": "The surface of Poliwhirl's body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+            "Alpha Sapphire": "The surface of Poliwhirl's body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle."
+        },
+        "Generation VII": {
+            "Sun": "Although it can live on land, it prefers to stay in the water, where it has fewer natural enemies.",
+            "Moon": "It marches over the land in search of bug Pokémon to eat. Then it takes them underwater so it can dine on them where it's safe.",
+            "Ultra Sun": "Although it has become capable of living on land, it spends its time in the water, where its prey, fish Pokémon, are plentiful.",
+            "Ultra Moon": "Its health suffers when its skin dries out, so be sure to moisturize it diligently.",
+            "Let's Go Pikachu": "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.",
+            "Let's Go Eevee": "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape."
+        },
+        "Generation VIII": {
+            "Sword": "Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl's has been used in place of lullabies to get children to go to sleep.",
+            "Shield": "This Pokémon's sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies' grasp and escape.",
+            "Brilliant Diamond": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+            "Shining Pearl": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness."
+        },
+        "Generation IX": {
+            "Scarlet": "Its two legs are well developed. Even though it can live on the ground, it prefers living in water.",
+            "Violet": "Its skin is moist all over its body. The skin on its belly spiral also feels smooth."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Route 10 and Celadon City ( Super Rod )",
+            "Blue": "Route 10 and Celadon City ( Super Rod )",
+            "Blue (Japan)": "Route 10 and Celadon City ( Super Rod )",
+            "Yellow": "Routes 22 and 23 ( Super Rod )"
+        },
+        "Generation II": {
+            "Gold": "Routes 22 , 28 , 30 , 31 , and 44 , Violet City , Ecruteak City , Viridian City , Mt. Silver ( Surfing )",
+            "Silver": "Routes 22 , 28 , 30 , 31 , and 44 , Violet City , Ecruteak City , Viridian City , Mt. Silver ( Surfing )",
+            "Crystal": "Routes 22 , 28 , 30 , 31 , and 44 , Violet City , Ecruteak City , Viridian City , Mt. Silver ( Surfing ) Routes 28 and 44 , Mt. Silver ( tall grass ) Night"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Routes 6 , 22 , 23 , and 25 , Four Island , Viridian City , Cape Brink , Cerulean Cave , Icefall Cave , Ruin Valley ( Super Rod )",
+            "LeafGreen": "Routes 6 , 22 , 23 , and 25 , Four Island , Viridian City , Cape Brink , Cerulean Cave , Icefall Cave , Ruin Valley ( Super Rod )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 225 ( Super Rod ) Routes 227 and 228 ( Surfing )",
+            "Pearl": "Route 225 ( Super Rod ) Routes 227 and 228 ( Surfing )",
+            "Platinum": "Routes 227 and 228 ( Surfing )",
+            "HeartGold": "Routes 22 , 28 , 30 , 31 , and 44 , Ecruteak City , Mt. Silver , Violet City , Viridian City ( Surfing ) Cerulean Cave ( Super Rod ) Morning Day Safari Zone (Old Rod in Meadow and Wetland - default, with 2 Waterside points, and with 3 Waterside points; Good Rod in Meadow, default, and with 5 Waterside points; Good Rod in Wetland and Marshland, default; Super Rod in Meadow, Marshland and Wetland, default; Surfing in Rocky Beach, default)",
+            "SoulSilver": "Routes 22 , 28 , 30 , 31 , and 44 , Ecruteak City , Mt. Silver , Violet City , Viridian City ( Surfing ) Cerulean Cave ( Super Rod ) Morning Day Safari Zone (Old Rod in Meadow and Wetland - default, with 2 Waterside points, and with 3 Waterside points; Good Rod in Meadow, default, and with 5 Waterside points; Good Rod in Wetland and Marshland, default; Super Rod in Meadow, Marshland and Wetland, default; Surfing in Rocky Beach, default)",
+            "Pal Park": "Pond",
+            "Pokéwalker": "Sightseeing"
+        },
+        "Generation V": {
+            "Black": "Route 6 , Wellspring Cave , Challenger's Cave , Victory Road , Giant Chasm ( Fishing )",
+            "White": "Route 6 , Wellspring Cave , Challenger's Cave , Victory Road , Giant Chasm ( Fishing )",
+            "Black 2": "Routes 6 , 19 , 20 , and 23 , Floccesy Ranch , Relic Passage , Wellspring Cave , Clay Tunnel , Lostlorn Forest , Giant Chasm , Victory Road ( Fishing ) Pinwheel Forest ( Hidden Grotto ) *",
+            "White 2": "Routes 6 , 19 , 20 , and 23 , Floccesy Ranch , Relic Passage , Wellspring Cave , Clay Tunnel , Lostlorn Forest , Giant Chasm , Victory Road ( Fishing ) Pinwheel Forest ( Hidden Grotto ) *"
+        },
+        "Generation VI": {
+            "X": "Routes 14 , 15 , 16 , 19 , and 21 , Laverre City , Frost Cavern , Couriway Town , Pokémon Village , Victory Road ( Good Rod or Super Rod ) Pokémon Village , Frost Cavern , Victory Road ( Surfing ) Friend Safari ( Water )",
+            "Y": "Routes 14 , 15 , 16 , 19 , and 21 , Laverre City , Frost Cavern , Couriway Town , Pokémon Village , Victory Road ( Good Rod or Super Rod ) Pokémon Village , Frost Cavern , Victory Road ( Surfing ) Friend Safari ( Water )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade Zubat in Konikoni City Malie Garden ( SOS Battle in rain )",
+            "Moon": "Trade Zubat in Konikoni City Malie Garden ( SOS Battle in rain )",
+            "Ultra Sun": "Malie Garden",
+            "Ultra Moon": "Malie Garden",
+            "Let's Go Pikachu": "Routes 22 , 23 and 25 , Cerulean Cave ( Sea Skim )",
+            "Let's Go Eevee": "Routes 22 , 23 and 25 , Cerulean Cave ( Sea Skim )"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Soothing Wetlands ( Wanderer ) Fields of Honor , Soothing Wetlands , Courages Cavern ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 225 ( Super Rod ) Routes 225 , 227 , 228 ( Surfing ) Grand Underground - Grassland Cave , Sunlit Cavern , Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 225 ( Super Rod ) Routes 225 , 227 , 228 ( Surfing ) Grand Underground - Grassland Cave , Sunlit Cavern , Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Mossfell Confluence , Fellhorn Gorge Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Poliwag",
+            "to": "Poliwhirl",
+            "method": [
+                "Level 25"
+            ]
+        },
+        {
+            "from": "Poliwhirl",
+            "to": "Poliwrath",
+            "method": [
+                "Use Water Stone"
+            ]
+        },
+        {
+            "from": "Poliwhirl",
+            "to": "Politoed",
+            "method": [
+                "Trade (holding Kings Rock)"
+            ]
+        }
+    ]
+}

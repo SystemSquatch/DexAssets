@@ -1,0 +1,157 @@
+{
+    "name": "Drowzee",
+    "pokedex_number": "#0096",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Insomnia",
+        "Forewarn",
+        "Inner Focus"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 48,
+        "Defense": 45,
+        "Sp. Atk": 43,
+        "Sp. Def": 90,
+        "Speed": 42,
+        "Total": 328
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.",
+            "Yellow": "If you sleep by it all the time, it will sometimes show you dreams it has eaten in the past.",
+            "Stadium": "It puts its enemy to sleep and eats the victim's dreams. Said to have descended from the legendary beast, Baku ."
+        },
+        "Generation II": {
+            "Gold": "If you think that you had a good dream, but you can't remember it, a Drowzee has probably eaten it.",
+            "Silver": "It remembers every dream it eats. It rarely eats the dreams of adults because children's are much tastier.",
+            "Crystal": "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about.",
+            "Stadium 2": "If you think that you had a good dream, but you can't remember it, a Drowzee has probably eaten it. (Pokémon Red, Silver, or Crystal inserted) It remembers every dream it eats. It rarely eats the dreams of adults because children's are much tastier. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "If your nose becomes itchy while you are sleeping, it's a sure sign that one of these Pok é mon is standing above your pillow and trying to eat your dream through your nostrils.",
+            "Sapphire": "If your nose becomes itchy while you are sleeping, it's a sure sign that one of these Pok é mon is standing above your pillow and trying to eat your dream through your nostrils.",
+            "Emerald": "If your nose becomes itchy while you are sleeping, it's a sure sign that a Drowzee is standing above your pillow and trying to eat your dream through your nostrils.",
+            "FireRed": "A descendent of the legendary animal baku, which is said to eat dreams. It is skilled at hypnotism.",
+            "LeafGreen": "Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating only bad dreams."
+        },
+        "Generation IV": {
+            "Diamond": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
+            "Pearl": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
+            "Platinum": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
+            "HeartGold": "If you think that you had a good dream but you can't remember it, a Drowzee has probably eaten it.",
+            "SoulSilver": "It remembers every dream it eats. It rarely eats the dreams of adults because children's are much tastier."
+        },
+        "Generation V": {
+            "Black": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
+            "White": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
+            "Black 2": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
+            "White 2": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams."
+        },
+        "Generation VI": {
+            "X": "Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating only bad dreams.",
+            "Y": "If you think that you had a good dream but you can't remember it, a Drowzee has probably eaten it.",
+            "Omega Ruby": "If your nose becomes itchy while you are sleeping, it's a sure sign that one of these Pokémon is standing above your pillow and trying to eat your dream through your nostrils.",
+            "Alpha Sapphire": "If your nose becomes itchy while you are sleeping, it's a sure sign that one of these Pokémon is standing above your pillow and trying to eat your dream through your nostrils."
+        },
+        "Generation VII": {
+            "Sun": "A Pokémon that nourishes itself by eating dreams, it is thought to share common ancestry with Munna and Musharna .",
+            "Moon": "It finds really fun dreams tasty. When it makes friends with people, it may show them the most delicious dreams it's ever eaten.",
+            "Ultra Sun": "It can be spotted near recreational facilities, intending to eat the pleasant dreams of children who enjoyed themselves there that day.",
+            "Ultra Moon": "It puts its prey to sleep and devours their dreams. It seems that bad dreams taste sour, so Drowzee doesn't particularly like eating them.",
+            "Let's Go Pikachu": "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past.",
+            "Let's Go Eevee": "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
+            "Shining Pearl": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams."
+        },
+        "Generation IX": {
+            "Scarlet": "It remembers every dream it eats. It rarely eats the dreams of adults because children’s are much tastier.",
+            "Violet": "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Route 11",
+            "Blue": "Route 11",
+            "Blue (Japan)": "Route 11",
+            "Yellow": "Route 11"
+        },
+        "Generation II": {
+            "Gold": "Routes 11 , 34 , and 35",
+            "Silver": "Routes 11 , 34 , and 35",
+            "Crystal": "Routes 6 , 11 , 34 , and 35 Night"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Route 11 , Berry Forest",
+            "LeafGreen": "Route 11 , Berry Forest",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 215 ( Swarm )",
+            "Pearl": "Route 215 ( Swarm )",
+            "Platinum": "Route 215 ( Swarm )",
+            "HeartGold": "Routes 11 , 34 , and 35 Safari Zone Night (tall grass in Swamp, default)",
+            "SoulSilver": "Routes 11 , 34 , and 35 Safari Zone Night (tall grass in Swamp, default)",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Breed Hypno",
+            "White 2": "Breed Hypno",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Psychic )",
+            "Y": "Friend Safari ( Psychic )",
+            "Omega Ruby": "Breed Hypno",
+            "Alpha Sapphire": "Breed Hypno"
+        },
+        "Generation VII": {
+            "Sun": "Route 2",
+            "Moon": "Route 2",
+            "Ultra Sun": "Route 2",
+            "Ultra Moon": "Route 2",
+            "Let's Go Pikachu": "Route 11",
+            "Let's Go Eevee": "Route 11"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 215 ( Swarm ) Grand Underground - Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 215 ( Swarm ) Grand Underground - Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Three , Area Five Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two , Area Three , Area Five Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Drowzee",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Drowzee",
+            "to": "Hypno",
+            "method": [
+                "Level 26"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Glimmet",
+    "pokedex_number": "#0969",
+    "types": [
+        "Rock",
+        "Poison"
+    ],
+    "abilities": [
+        "Toxic Debris",
+        "Corrosion"
+    ],
+    "stats": {
+        "HP": 48,
+        "Attack": 35,
+        "Defense": 42,
+        "Sp. Atk": 105,
+        "Sp. Def": 60,
+        "Speed": 60,
+        "Total": 350
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
+            "Violet": "Glimmet's toxic mineral crystals look just like flower petals. This Pokémon scatters poisonous powder like pollen to protect itself."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Alfornada Cavern East Province: Area Three West Province: Area Two North Province: Area One , Area Two , Glaseado Mountain Area Zero Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Alfornada Cavern East Province: Area Three West Province: Area Two North Province: Area One , Area Two , Glaseado Mountain Area Zero Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Infernal Pass , Crystal Pool"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Glimmet",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Glimmet",
+            "to": "Glimmora",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

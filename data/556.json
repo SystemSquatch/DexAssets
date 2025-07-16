@@ -1,0 +1,80 @@
+{
+    "name": "Maractus",
+    "pokedex_number": "#0556",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Water Absorb",
+        "Chlorophyll",
+        "Storm Drain"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 86,
+        "Defense": 67,
+        "Sp. Atk": 106,
+        "Sp. Def": 67,
+        "Speed": 60,
+        "Total": 461
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
+            "White": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
+            "Black 2": "When it moves rhythmically, it makes a sound similar to maracas, making the surprised Pokémon flee.",
+            "White 2": "When it moves rhythmically, it makes a sound similar to maracas, making the surprised Pokémon flee."
+        },
+        "Generation VI": {
+            "X": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
+            "Y": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
+            "Omega Ruby": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
+            "Alpha Sapphire": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "With noises that could be mistaken for the rattles of maracas, it creates an upbeat rhythm, startling bird Pokémon and making them fly off in a hurry.",
+            "Shield": "Once each year, this Pokémon scatters its seeds. They're jam-packed with nutrients, making them a precious food source out in the desert."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Desert Resort",
+            "White": "Desert Resort",
+            "Black 2": "Desert Resort",
+            "White 2": "Desert Resort",
+            "Dream World": "Rugged Mountain *"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Grass )",
+            "Y": "Friend Safari ( Grass )",
+            "Omega Ruby": "Mirage Island (South of Route 134 )",
+            "Alpha Sapphire": "Mirage Island (South of Route 134 )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 6 , Bridge Field , Stony Wilderness , Hammerlocke Hills Dappled Grove , Giant's Mirror ( Max Raid Battle )",
+            "Shield": "Route 6 , Bridge Field , Stony Wilderness , Hammerlocke Hills Dappled Grove , Giant's Mirror ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

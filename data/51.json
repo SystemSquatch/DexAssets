@@ -1,0 +1,155 @@
+{
+    "name": "Dugtrio",
+    "pokedex_number": "#0051",
+    "types": [
+        "Ground",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sand Veil",
+        "Arena Trap",
+        "Sand Veil",
+        "Tangling Hair",
+        "Sand Force"
+    ],
+    "stats": {
+        "HP": 35,
+        "Attack": 80,
+        "Defense": 50,
+        "Sp. Atk": 50,
+        "Sp. Def": 70,
+        "Speed": 120,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
+            "Yellow": "A team of triplets that can burrow over 60 MPH . Due to this, some people think it's an earthquake.",
+            "Stadium": "Diglett triplets that always travel together. Known to burrow more than 60 miles underground and trigger quakes."
+        },
+        "Generation II": {
+            "Gold": "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
+            "Silver": "Extremely powerful, they can Dig through even the hardest ground to a depth of over 60 miles .",
+            "Crystal": "These Diglett triplets dig over 60 miles below sea level. No one knows what it's like underground.",
+            "Stadium 2": "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow. (Pokémon Red, Silver, or Crystal inserted) Extremely powerful, they can Dig through even the hardest ground to a depth of over 60 miles. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
+            "Sapphire": "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
+            "Emerald": "Because the triplets originally split from one body, they think exactly alike. They work cooperatively to burrow endlessly through the ground.",
+            "FireRed": "In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.",
+            "LeafGreen": "A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground."
+        },
+        "Generation IV": {
+            "Diamond": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles .",
+            "Pearl": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles .",
+            "Platinum": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles .",
+            "HeartGold": "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
+            "SoulSilver": "Extremely powerful, they can dig through even the hardest ground to a depth of over 60 miles ."
+        },
+        "Generation V": {
+            "Black": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles .",
+            "White": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles .",
+            "Black 2": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles .",
+            "White 2": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles ."
+        },
+        "Generation VI": {
+            "X": "In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.",
+            "Y": "Extremely powerful, they can dig through even the hardest ground to a depth of over 60 miles .",
+            "Omega Ruby": "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
+            "Alpha Sapphire": "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly."
+        },
+        "Generation VII": {
+            "Sun": "Its shining gold hair provides it with protection. It's reputed that keeping any of its fallen hairs will bring bad luck.",
+            "Moon": "These Pokémon are cherished in the Alola region, where they are thought to be feminine deities of the land incarnate.",
+            "Ultra Sun": "Its metallic whiskers are heavy, so it's not very fast, but it has the power to dig through bedrock.",
+            "Ultra Moon": "Its shining gold whiskers are advanced sensors that can detect vibrations from sounds several miles away.",
+            "Let's Go Pikachu": "They're referred to as triplets, but they're not identical—the metallic elements in their bodies differ slightly. The proof shows in their whiskers!",
+            "Let's Go Eevee": "They're referred to as triplets, but they're not identical—the metallic elements in their bodies differ slightly. The proof shows in their whiskers!"
+        },
+        "Generation VIII": {
+            "Sword": "Their beautiful, metallic whiskers create a sort of protective helmet on their heads, and they also function as highly precise sensors.",
+            "Shield": "The three of them get along very well. Through their formidable teamwork, they defeat powerful opponents.",
+            "Brilliant Diamond": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles .",
+            "Shining Pearl": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles ."
+        },
+        "Generation IX": {
+            "Scarlet": "Its shining gold whiskers are advanced sensors that can detect vibrations from sounds several miles away.",
+            "Violet": "Its metallic whiskers are heavy, so it’s not very fast, but it has the power to dig through even the hardest bedrock."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Diglett's Cave",
+            "Blue": "Diglett's Cave",
+            "Blue (Japan)": "Diglett's Cave",
+            "Yellow": "Diglett's Cave Trade Lickitung on Route 11"
+        },
+        "Generation II": {
+            "Gold": "Diglett's Cave",
+            "Silver": "Diglett's Cave",
+            "Crystal": "Diglett's Cave"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Diglett's Cave",
+            "LeafGreen": "Diglett's Cave",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Route 228",
+            "Pearl": "Route 228",
+            "Platinum": "Route 228",
+            "HeartGold": "Diglett's Cave",
+            "SoulSilver": "Diglett's Cave",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Route 13 , Friend Safari ( Ground )",
+            "Y": "Route 13 , Friend Safari ( Ground )",
+            "Omega Ruby": "Evolve Diglett",
+            "Alpha Sapphire": "Evolve Diglett"
+        },
+        "Generation VII": {
+            "Sun": "Haina Desert , Poni Coast , Resolution Cave , Vast Poni Canyon ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Moon": "Haina Desert , Poni Coast , Resolution Cave , Vast Poni Canyon ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Sun": "Haina Desert , Poni Coast , Resolution Cave , Vast Poni Canyon , Lush Jungle (Cave) ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Moon": "Haina Desert , Poni Coast , Resolution Cave , Vast Poni Canyon , Lush Jungle (Cave) ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Let's Go Pikachu": "Diglett's Cave ( Kantonian Form ) Evolve Diglett ( Alolan Form )",
+            "Let's Go Eevee": "Diglett's Cave ( Kantonian Form ) Evolve Diglett ( Alolan Form )"
+        },
+        "Generation VIII": {
+            "Sword": "Route 6 , Giant's Mirror , Giant's Cap , Dusty Bowl , Lake of Outrage , Hammerlocke Hills ( Kantonian Form ) Bridge Field , Rolling Fields ( Max Raid Battle ) ( Kantonian From ) Trade ( Alolan Form )",
+            "Shield": "Route 6 , Giant's Mirror , Giant's Cap , Dusty Bowl , Lake of Outrage , Hammerlocke Hills ( Kantonian Form ) Bridge Field , Rolling Fields ( Max Raid Battle ) ( Kantonian From ) Trade ( Alolan Form )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Kantonian/Alolan Forms )",
+            "Brilliant Diamond": "Route 228 ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Shining Pearl": "Route 228 ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Two , Area Six , Alfornada Cavern ( Kantonian Form ) East Province: Area Three ( Kantonian Form ) West Province: Asado Desert ( Kantonian Form ) North Province: Area Two , Area Three , Dalizapa Passage ( Kantonian Form ) Area Zero ( Kantonian Form ) Tera Raid Battles ( 4★ ) ( Kantonian Form ) Trade ( Alolan Form )",
+            "Violet": "South Province: Area Two , Area Six , Alfornada Cavern ( Kantonian Form ) East Province: Area Three ( Kantonian Form ) West Province: Asado Desert ( Kantonian Form ) North Province: Area Two , Area Three , Dalizapa Passage ( Kantonian Form ) Area Zero ( Kantonian Form ) Tera Raid Battles ( 4★ ) ( Kantonian Form ) Trade ( Alolan Form )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth ( Alolan Form ) Tera Raid Battles ( 6★ ) ( Alolan Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Diglett",
+            "to": "Dugtrio",
+            "method": [
+                "Level 26"
+            ]
+        }
+    ]
+}

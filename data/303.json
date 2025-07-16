@@ -1,0 +1,117 @@
+{
+    "name": "Mawile",
+    "pokedex_number": "#0303",
+    "types": [
+        "Steel",
+        "Fairy"
+    ],
+    "abilities": [
+        "Hyper Cutter",
+        "Intimidate",
+        "Sheer Force",
+        "Huge Power"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 85,
+        "Sp. Atk": 55,
+        "Sp. Def": 55,
+        "Speed": 50,
+        "Total": 380
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Mawhile 's huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down its guard. When the foe least expects it, Mawhile chomps it with its gaping jaws. (Version 1.0) Mawile 's huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down its guard. When the foe least expects it, Mawile chomps it with its gaping jaws. (Versions 1.1 and 1.2)",
+            "Sapphire": "Don't be taken by this Pok é mon 's cute face - it's very dangerous. Mawile fools the foe into letting down its guard then chomps down with its massive jaws. The steel jaws are really horns that have been transformed.",
+            "Emerald": "Its giant jaws are actually steel horns that transformed. It fools foes into complacency with its adorable gestures, then chomps them with its huge jaws.",
+            "FireRed": "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.",
+            "LeafGreen": "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws."
+        },
+        "Generation IV": {
+            "Diamond": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+            "Pearl": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+            "Platinum": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+            "HeartGold": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+            "SoulSilver": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed."
+        },
+        "Generation V": {
+            "Black": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+            "White": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+            "Black 2": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+            "White 2": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams."
+        },
+        "Generation VI": {
+            "X": "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.",
+            "Y": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+            "Omega Ruby": "Mawile's huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down its guard. When the foe least expects it, Mawile chomps it with its gaping jaws.",
+            "Alpha Sapphire": "Don't be taken in by this Pokémon's cute face—it's very dangerous. Mawile fools the foe into letting down its guard, then chomps down with its massive jaws. The steel jaws are really horns that have been transformed."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It has an extremely vicious disposition. It grips prey in its two sets of jaws and tears them apart with raw power.",
+            "Ultra Moon": "Its two sets of jaws thrash about violently as if they each had a will of their own. One gnash from them can turn a boulder to dust."
+        },
+        "Generation VIII": {
+            "Sword": "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.",
+            "Shield": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+            "Brilliant Diamond": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+            "Shining Pearl": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Granite Cave , Cave of Origin , Victory Road , Sky Pillar",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Victory Road",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "ONBS (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Iron Island (Ruby)",
+            "Pearl": "Iron Island (Ruby)",
+            "Platinum": "Iron Island (Ruby)",
+            "HeartGold": "Trade",
+            "SoulSilver": "Route 9 ( Swarm )",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Challenger's Cave",
+            "White": "Challenger's Cave",
+            "Black 2": "Trade with Yancy in Nimbasa City (male player character only)",
+            "White 2": "Trade with Yancy in Nimbasa City (male player character only)",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Glittering Cave , Friend Safari ( Steel and Fairy )",
+            "Y": "Glittering Cave , Friend Safari ( Steel and Fairy )",
+            "Omega Ruby": "Granite Cave , Cave of Origin , Victory Road , Sky Pillar",
+            "Alpha Sapphire": "Trade , Event"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ten Carat Hill",
+            "Ultra Moon": "Ten Carat Hill",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Dusty Bowl , Bridge Field Bridge Field , Giant's Seat , Hammerlocke Hills , Lake of Outrage , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Sword Expansion Pass": "Lakeside Cave Slippery Slope , Giant's Bed , Old Cemetery , Snowslide Slope , Giant's Foot , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Grand Underground - Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

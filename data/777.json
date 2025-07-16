@@ -1,0 +1,60 @@
+{
+    "name": "Togedemaru",
+    "pokedex_number": "#0777",
+    "types": [
+        "Electric",
+        "Steel"
+    ],
+    "abilities": [
+        "Iron Barbs",
+        "Lightning Rod",
+        "Sturdy"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 98,
+        "Defense": 63,
+        "Sp. Atk": 40,
+        "Sp. Def": 73,
+        "Speed": 96,
+        "Total": 435
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "The spiny fur on its back is normally at rest. When this Pokémon becomes agitated, its fur stands on end and stabs into its attackers.",
+            "Moon": "The long hairs on its back act as lightning rods. The bolts of lightning it attracts are stored as energy in its electric sac.",
+            "Ultra Sun": "When it's surprised or agitated, the 14 fur spikes on its back will stand up involuntarily.",
+            "Ultra Moon": "Its capacity to produce electricity is somewhat limited, so it gets charged up by letting lightning strike it!"
+        },
+        "Generation VIII": {
+            "Sword": "With the long hairs on its back, this Pokémon takes in electricity from other electric Pokémon. It stores what it absorbs in an electric sac.",
+            "Shield": "When it's in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Blush Mountain",
+            "Moon": "Blush Mountain",
+            "Ultra Sun": "Blush Mountain",
+            "Ultra Moon": "Blush Mountain Received from Samson Oak at Heahea Beach * ( Totem -sized)",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 8 , Lake of Outrage Giant's Seat , Motostoke Riverbank , Stony Wilderness , Lake of Outrage , Giant's Mirror , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Route 8 , Lake of Outrage Giant's Seat , Motostoke Riverbank , Stony Wilderness , Lake of Outrage , Giant's Mirror , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

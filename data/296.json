@@ -1,0 +1,133 @@
+{
+    "name": "Makuhita",
+    "pokedex_number": "#0296",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Thick Fat",
+        "Guts",
+        "Sheer Force"
+    ],
+    "stats": {
+        "HP": 72,
+        "Attack": 60,
+        "Defense": 30,
+        "Sp. Atk": 20,
+        "Sp. Def": 30,
+        "Speed": 25,
+        "Total": 237
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Makuhita is tenacious - it will keep getting up and attacking its foe however many times it is knocked down. Every time it gets back up, this Pok é mon stores more energy in its body for evolving.",
+            "Sapphire": "Makuhita has a tireless spirit - it will never give up hope. It eats a lot of food, gets plenty of sleep, and it trains very rigorously. By living that way, this Pok é mon packs its body with energy.",
+            "Emerald": "It loves to toughen up its body above all else. If you hear quaking rumbles in a cave, it is the sound of Makuhita undertaking strenuous training.",
+            "FireRed": "It grows stronger by enduring harsh training. It is a gutsy Pok é mon that can withstand any attack.",
+            "LeafGreen": "It grows stronger by enduring harsh training. It is a gutsy Pok é mon that can withstand any attack."
+        },
+        "Generation IV": {
+            "Diamond": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
+            "Pearl": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
+            "Platinum": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
+            "HeartGold": "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit.",
+            "SoulSilver": "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit."
+        },
+        "Generation V": {
+            "Black": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
+            "White": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
+            "Black 2": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
+            "White 2": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest."
+        },
+        "Generation VI": {
+            "X": "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit.",
+            "Y": "It grows stronger by enduring harsh training. It is a gutsy Pokémon that can withstand any attack.",
+            "Omega Ruby": "Makuhita is tenacious—it will keep getting up and attacking its foe however many times it is knocked down. Every time it gets back up, this Pokémon stores more energy in its body for evolving.",
+            "Alpha Sapphire": "Makuhita has a tireless spirit—it will never give up hope. It eats a lot of food, gets plenty of sleep, and it trains very rigorously. By living that way, this Pokémon packs its body with energy."
+        },
+        "Generation VII": {
+            "Sun": "It was originally brought in from another region, but now Makuhita from Alola are more famous.",
+            "Moon": "Their daily routine consists of training together first thing in the morning, eating and napping in the afternoon, and then more training afterward.",
+            "Ultra Sun": "It practices its slaps by repeatedly slapping tree trunks. It has been known to slap an Exeggutor and get flung away.",
+            "Ultra Moon": "There's a rumor of a traditional recipe for stew that Trainers can use to raise strong Makuhita."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
+            "Shining Pearl": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest."
+        },
+        "Generation IX": {
+            "Scarlet": "It grows stronger by enduring harsh training. It is a gutsy Pokémon that can withstand any attack.",
+            "Violet": "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Granite Cave , Victory Road Trade Slakoth in Rustboro City",
+            "Sapphire": "Granite Cave , Victory Road Trade Slakoth in Rustboro City",
+            "Emerald": "Granite Cave , Victory Road",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Mayor's House (Shadow)",
+            "XD": "ONBS (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Route 225 ( Swarm )",
+            "Pearl": "Route 225 ( Swarm )",
+            "Platinum": "Route 225 ( Swarm )",
+            "HeartGold": "Slowpoke Well , Union Cave , Mt. Mortar , Dark Cave , Whirl Islands , Mt. Silver Cave , Ice Path , Cliff Cave , Diglett's Cave , Mt. Moon , Cerulean Cave , Rock Tunnel , Seafoam Islands , Victory Road , Tohjo Falls (Hoenn Sound)",
+            "SoulSilver": "Slowpoke Well , Union Cave , Mt. Mortar , Dark Cave , Whirl Islands , Mt. Silver Cave , Ice Path , Cliff Cave , Diglett's Cave , Mt. Moon , Cerulean Cave , Rock Tunnel , Seafoam Islands , Victory Road , Tohjo Falls (Hoenn Sound)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Breed Hariyama",
+            "White 2": "Breed Hariyama",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Breed Hariyama",
+            "Y": "Breed Hariyama",
+            "Omega Ruby": "Granite Cave Trade Slakoth in Rustboro City",
+            "Alpha Sapphire": "Granite Cave Trade Slakoth in Rustboro City"
+        },
+        "Generation VII": {
+            "Sun": "Route 2",
+            "Moon": "Route 2",
+            "Ultra Sun": "Route 2",
+            "Ultra Moon": "Route 2",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 225 ( Swarm )",
+            "Shining Pearl": "Route 225 ( Swarm )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Three , Area Five East Province: Area One , Area Two , Area Three West Province: Area One , Asado Desert Tera Raid Battles ( 1★ , 3★ )",
+            "Violet": "South Province: Area One , Area Three , Area Five East Province: Area One , Area Two , Area Three West Province: Area One , Asado Desert Tera Raid Battles ( 1★ , 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Makuhita",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Makuhita",
+            "to": "Hariyama",
+            "method": [
+                "Level 24"
+            ]
+        }
+    ]
+}

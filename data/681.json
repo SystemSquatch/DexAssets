@@ -1,0 +1,72 @@
+{
+    "name": "Aegislash",
+    "pokedex_number": "#0681",
+    "types": [
+        "Steel",
+        "Ghost"
+    ],
+    "abilities": [
+        "Stance Change"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 150,
+        "Sp. Atk": 50,
+        "Sp. Def": 150,
+        "Speed": 60,
+        "Total": 520
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Generations of kings were attended by these Pokémon, which used their spectral power to manipulate and control people and Pokémon.",
+            "Y": "Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king.",
+            "Omega Ruby": "Generations of kings were attended by these Pokémon, which used their spectral power to manipulate and control people and Pokémon.",
+            "Alpha Sapphire": "Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "This stance is dedicated to offense. It can cleave any opponent with the strength and weight of its steel blade.",
+            "Shield": "Once upon a time, a king with an Aegislash reigned over the land. His Pokémon eventually drained him of life, and his kingdom fell with him."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Evolve Doublade",
+            "Y": "Evolve Doublade",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Doublade",
+            "Moon": "Evolve Doublade",
+            "Ultra Sun": "Evolve Doublade",
+            "Ultra Moon": "Evolve Doublade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Watchtower Ruins ( Max Raid Battle )",
+            "Shield": "Watchtower Ruins ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Doublade",
+            "to": "Aegislash",
+            "method": [
+                "Use Dusk Stone"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "name": "Tentacool",
+    "pokedex_number": "#0072",
+    "types": [
+        "Water",
+        "Poison"
+    ],
+    "abilities": [
+        "Clear Body",
+        "Liquid Ooze",
+        "Rain Dish"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 35,
+        "Sp. Atk": 50,
+        "Sp. Def": 100,
+        "Speed": 70,
+        "Total": 335
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid .",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid .",
+            "Yellow": "It can sometimes be found all dry and shriveled up on a beach. Toss it back into the sea to revive it.",
+            "Stadium": "Fires beams of light from its clear eyes. Floats around in shallow waters and may sting unwary anglers."
+        },
+        "Generation II": {
+            "Gold": "When the tide goes out, dehydrated Tentacool remains can be found washed up on the shore.",
+            "Silver": "It drifts aimlessly in waves. Very difficult to see in water, it may not be noticed until it stings.",
+            "Crystal": "As it floats along on the waves, it uses its toxic feelers to stab anything it touches.",
+            "Stadium 2": "When the tide goes out, dehydrated Tentacool remains can be found washed up on the shore. (Pokémon Red, Silver, or Crystal inserted) It drifts aimlessly in waves. Very difficult to see in water, it may not be noticed until it stings. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Tentacool 's body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this Pok é mon happens to become dehydrated, put it back into the sea.",
+            "Sapphire": "Tentacool absorbs sunlight and refracts it using water inside its body to convert it into beam energy. This Pok é mon shoots beams from its crystal-like eyes.",
+            "Emerald": "Its body is almost entirely composed of water. It ensnares its foe with its two long tentacles, then stabs with the poison stingers at their tips.",
+            "FireRed": "Its eyes are as transparent as crystals. From them, it shoots mysterious beams of light.",
+            "LeafGreen": "Drifts in shallow seas. Anglers who hook them by accident are often punished by their stingers."
+        },
+        "Generation IV": {
+            "Diamond": "Its body is virtually composed of water. It shoots strange beams from its crystal-like eyes.",
+            "Pearl": "It drifts in sea currents. Countless fishermen are hurt by its poison stingers.",
+            "Platinum": "Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.",
+            "HeartGold": "When the tide goes out, dehydrated Tentacool remains can be found washed up on the shore.",
+            "SoulSilver": "It drifts aimlessly in waves. Very difficult to see in water, it may not be noticed until it stings."
+        },
+        "Generation V": {
+            "Black": "Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.",
+            "White": "Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.",
+            "Black 2": "Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.",
+            "White 2": "Because its body is almost entirely composed of water, it shrivels up if it is washed ashore."
+        },
+        "Generation VI": {
+            "X": "Its body is virtually composed of water. It shoots strange beams from its crystal-like eyes.",
+            "Y": "Drifts in shallow seas. Anglers who hook them by accident are often punished by their stingers.",
+            "Omega Ruby": "Tentacool's body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this Pokémon happens to become dehydrated, put it back into the sea.",
+            "Alpha Sapphire": "Tentacool absorbs sunlight and refracts it using water inside its body to convert it into beam energy. This Pokémon shoots beams from the small round organ above its eyes."
+        },
+        "Generation VII": {
+            "Sun": "They can be found lying dehydrated on beaches, but they are often still alive. When soaked in water, they will revive.",
+            "Moon": "It drifts in shallow seas, such as the areas near beaches. If you get bitten or stabbed by its toxic tentacles, rush to the hospital.",
+            "Ultra Sun": "It drifts through the sea searching for prey. Its poisonous tentacles break off sometimes, but after a while, they grow back.",
+            "Ultra Moon": "Its body is 99% water. The remaining 1% contains the organ that makes its poison.",
+            "Let's Go Pikachu": "It can sometimes be found all dry and shriveled up on a beach. Toss it back into the sea to revive it.",
+            "Let's Go Eevee": "It can sometimes be found all dry and shriveled up on a beach. Toss it back into the sea to revive it."
+        },
+        "Generation VIII": {
+            "Sword": "Tentacool is not a particularly strong swimmer. It drifts across the surface of shallow seas as it searches for prey.",
+            "Shield": "This Pokémon is mostly made of water. A Tentacool out in the ocean is very hard to spot, because its body blends in with the sea.",
+            "Brilliant Diamond": "Its body is mostly composed of water. It shoots strange beams from its crystal-like eyes.",
+            "Shining Pearl": "It drifts in sea currents. Countless fishers are hurt by its poison stingers.",
+            "Legends: Arceus": "They fire beams from the glassy, magenta orbs that resemble eyes atop their heads, and they drift in shallow seas. During low tide, they can sometimes be found on beaches, desiccated."
+        },
+        "Generation IX": {
+            "Scarlet": "When the tide goes out, dehydrated Tentacool can be found left behind on the shore.",
+            "Violet": "Its eyes are as transparent as crystals. From them, it shoots mysterious beams of light."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 19 , 20 , and 21 ( Surfing ) Routes 12 , 13 , 17 , and 18 , Pallet Town , Viridian City ( Super Rod )",
+            "Blue": "Routes 19 , 20 , and 21 ( Surfing ) Routes 12 , 13 , 17 , and 18 , Pallet Town , Viridian City ( Super Rod )",
+            "Blue (Japan)": "Routes 19 , 20 , and 21 ( Surfing ) Routes 12 , 13 , 17 , and 18 , Pallet Town , Viridian City ( Super Rod )",
+            "Yellow": "Routes 19 , 20 , and 21 , Seafoam Islands ( Surfing ) Routes 11 , 13 , 17 , 18 , 19 , 20 , and 21 , Pallet Town , Vermilion City , Cinnabar Island ( Super Rod )"
+        },
+        "Generation II": {
+            "Gold": "Routes 20 , 21 , 26 , 27 and 41 , New Bark Town , Pallet Town , Vermilion City , Olivine City * , Cinnabar Island ( Surfing , Old/Good Rod ) Routes 19 , 34 and 40 , Olivine City * , Cherrygrove City , Cianwood City , Whirl Islands * , Union Cave * ( Surfing ) Routes 12 , 13 and 32 ( Surfing or Fishing )",
+            "Silver": "Routes 20 , 21 , 26 , 27 and 41 , New Bark Town , Pallet Town , Vermilion City , Olivine City * , Cinnabar Island ( Surfing , Old/Good Rod ) Routes 19 , 34 and 40 , Olivine City * , Cherrygrove City , Cianwood City , Whirl Islands * , Union Cave * ( Surfing ) Routes 12 , 13 and 32 ( Surfing or Fishing )",
+            "Crystal": "Routes 20 , 21 , 26 , 27 and 41 , New Bark Town , Pallet Town , Vermilion City , Olivine City * , Cinnabar Island ( Surfing , Old/Good Rod ) Routes 19 , 34 and 40 , Olivine City * , Cherrygrove City , Cianwood City , Whirl Islands * , Union Cave * ( Surfing ) Routes 12 , 13 and 32 ( Surfing or Fishing )"
+        },
+        "Generation III": {
+            "Ruby": "Route 128 , Ever Grande City ( Surfing , Old Rod ) Sootopolis City ( Old Rod ) Abandoned Ship ( Surfing or Fishing ) Routes 103 , 105 , 106 , 107 , 108 , 109 , 110 , 115 , 118 , 119 , 121 , 122 , 123 , 124 , 125 , 126 , 127 , 129 , 130 , 131 , 132 , 133 , and 134 , Slateport City , Pacifidlog Town , Mossdeep City , Lilycove City , Dewford Town , Shoal Cave , Seafloor Cavern ( Surfing , Old/Good Rod )",
+            "Sapphire": "Route 128 , Ever Grande City ( Surfing , Old Rod ) Sootopolis City ( Old Rod ) Abandoned Ship ( Surfing or Fishing ) Routes 103 , 105 , 106 , 107 , 108 , 109 , 110 , 115 , 118 , 119 , 121 , 122 , 123 , 124 , 125 , 126 , 127 , 129 , 130 , 131 , 132 , 133 , and 134 , Slateport City , Pacifidlog Town , Mossdeep City , Lilycove City , Dewford Town , Shoal Cave , Seafloor Cavern ( Surfing , Old/Good Rod )",
+            "Emerald": "Route 128 , Ever Grande City ( Surfing , Old Rod ) Sootopolis City ( Old Rod ) Abandoned Ship ( Surfing or Fishing ) Routes 103 , 105 , 106 , 107 , 108 , 109 , 110 , 115 , 118 , 119 , 121 , 122 , 123 , 124 , 125 , 126 , 127 , 129 , 130 , 131 , 132 , 133 , and 134 , Slateport City , Pacifidlog Town , Mossdeep City , Lilycove City , Dewford Town , Shoal Cave , Seafloor Cavern ( Surfing , Old/Good Rod )",
+            "FireRed": "Routes 4 , 10 , 11 , 12 , 13 , 19 , 20 , 21 , and 24 , Treasure Beach , Kindle Road , Bond Bridge , Five Isle Meadow , Memorial Pillar , Water Labyrinth , Resort Gorgeous , Water Path , Green Path , Outcast Island , Tanoby Ruins , Pallet Town , Cerulean City , Vermilion City , One Island , Five Island , Icefall Cave , Trainer Tower , Cinnabar Island ( Surfing )",
+            "LeafGreen": "Routes 4 , 10 , 11 , 12 , 13 , 19 , 20 , 21 , and 24 , Treasure Beach , Kindle Road , Bond Bridge , Five Isle Meadow , Memorial Pillar , Water Labyrinth , Resort Gorgeous , Water Path , Green Path , Outcast Island , Tanoby Ruins , Pallet Town , Cerulean City , Vermilion City , One Island , Five Island , Icefall Cave , Trainer Tower , Cinnabar Island ( Surfing )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 205 , 213 , 218 , 219 , 220 , 221 , and 222 , Canalave City , Pastoria City , Fuego Ironworks , Valley Windworks , Iron Island ( Surfing )",
+            "Pearl": "Routes 205 , 213 , 218 , 219 , 220 , 221 , and 222 , Canalave City , Pastoria City , Fuego Ironworks , Valley Windworks , Iron Island ( Surfing )",
+            "Platinum": "Routes 205 , 212 , 213 , 218 , 219 , 220 , 221 , and 222 , Canalave City , Pastoria City , Sunyshore City , Fuego Ironworks , Valley Windworks , Iron Island ( Surfing )",
+            "HeartGold": "Routes 20 , 21 , 26 , 27 , 41 , and 47 , New Bark Town , Vermilion City , Cinnabar Island , Pallet Town ( Surfing , Old/Good Rod ) Routes 19 , 34 , and 40 , Cherrygrove City , Olivine City , Cianwood City , Union Cave * , Whirl Islands * ( Surfing ) Routes 13 and 32 ( Surfing or Fishing ) Route 12 ( Fishing ) Cianwood City ( Gift for players who have only one party Pokémon and an empty PC)",
+            "SoulSilver": "Routes 20 , 21 , 26 , 27 , 41 , and 47 , New Bark Town , Vermilion City , Cinnabar Island , Pallet Town ( Surfing , Old/Good Rod ) Routes 19 , 34 , and 40 , Cherrygrove City , Olivine City , Cianwood City , Union Cave * , Whirl Islands * ( Surfing ) Routes 13 and 32 ( Surfing or Fishing ) Route 12 ( Fishing ) Cianwood City ( Gift for players who have only one party Pokémon and an empty PC)",
+            "Pal Park": "Sea",
+            "Pokéwalker": "Blue Lake"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Routes 8 and 12 , Ambrette Town , Cyllage City , Shalour City , Azure Bay ( Surfing )",
+            "Y": "Routes 8 and 12 , Ambrette Town , Cyllage City , Shalour City , Azure Bay ( Surfing )",
+            "Omega Ruby": "Route 120 , Seafloor Cavern , Battle Resort ( Old Rod or Good Rod ) Routes 119 and 128 , Victory Road , Ever Grande City ( Old Rod or Surfing ) Routes 103 , 105 , 106 , 107 , 108 , 109 , 110 , 115 , 118 , 122 , 124 , 125 , 126 , 127 , 129 , 130 , 131 , 132 , 133 , and 134 , Sea Mauville , Dewford Town , Slateport City , Lilycove City , Mossdeep City , Shoal Cave , Pacifidlog Town , Sealed Chamber , Team Magma Hideout ( Old Rod , Good Rod , or Surfing )",
+            "Alpha Sapphire": "Route 120 , Seafloor Cavern , Battle Resort ( Old Rod or Good Rod ) Routes 119 and 128 , Victory Road , Ever Grande City ( Old Rod or Surfing ) Routes 103 , 105 , 106 , 107 , 108 , 109 , 110 , 115 , 118 , 122 , 124 , 125 , 126 , 127 , 129 , 130 , 131 , 132 , 133 , and 134 , Sea Mauville , Dewford Town , Slateport City , Lilycove City , Mossdeep City , Shoal Cave , Pacifidlog Town , Sealed Chamber , Team Aqua Hideout ( Old Rod , Good Rod , or Surfing )"
+        },
+        "Generation VII": {
+            "Sun": "Routes 1 , 7 , 8 , 14 , 15 , Hau'oli City , Melemele Sea , Kala'e Bay , Brooklet Hill , Hano Beach , Secluded Shore ( Surfing )",
+            "Moon": "Routes 1 , 7 , 8 , 14 , 15 , Hau'oli City , Melemele Sea , Kala'e Bay , Brooklet Hill , Hano Beach , Secluded Shore ( Surfing )",
+            "Ultra Sun": "Routes 1 , 7 , 8 , Hau'oli City , Melemele Sea , Kala'e Bay , Brooklet Hill , Hano Beach ( Surfing )",
+            "Ultra Moon": "Routes 1 , 7 , 8 , Hau'oli City , Melemele Sea , Kala'e Bay , Brooklet Hill , Hano Beach ( Surfing )",
+            "Let's Go Pikachu": "Routes 4 , 10 , 12 , 13 , 18 , 19 , 20 , 21 and 24 , Seafoam Islands ( Sea Skim )",
+            "Let's Go Eevee": "Routes 4 , 10 , 12 , 13 , 18 , 19 , 20 , 21 and 24 , Seafoam Islands ( Sea Skim )"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Challenge Beach , Courageous Cavern , Fields of Honor , Honeycalm Sea , Honeycalm Island , Insular Sea , Loop Lagoon , Stepping-Stone Sea , Workout Sea ( Surfing ) Fields of Honor , Soothing Wetlands , Forest of Focus , Challenge Beach , Loop Lagoon , Insular Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Routes 205 , 213 , 218 , 219 , 220 , 221 , and 222 , Canalave City , Pastoria City , Fuego Ironworks , Valley Windworks , Iron Island ( Surfing ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern , Swampy Cave , Bogsunk Cavern (After defeating Candice )",
+            "Shining Pearl": "Routes 205 , 213 , 218 , 219 , 220 , 221 , and 222 , Canalave City , Pastoria City , Fuego Ironworks , Valley Windworks , Iron Island ( Surfing ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern , Swampy Cave , Bogsunk Cavern (After defeating Candice )",
+            "Legends: Arceus": "Cobalt Coastlands : near Islespy Shore , Lunker's Lair , Seagrass Haven , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Coastal Biome Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Tentacool",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Tentacool",
+            "to": "Tentacruel",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

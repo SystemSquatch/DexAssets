@@ -1,0 +1,115 @@
+{
+    "name": "Luxio",
+    "pokedex_number": "#0404",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Rivalry",
+        "Intimidate",
+        "Guts"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 49,
+        "Sp. Atk": 60,
+        "Sp. Def": 49,
+        "Speed": 60,
+        "Total": 363
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Its claws loose electricity with enough amperage to cause fainting. They live in small groups.",
+            "Pearl": "It rests its forelegs on others to communicate with rhythmic electric pulses from its claws.",
+            "Platinum": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
+            "HeartGold": "By gathering their tails together, they collectively generate powerful electricity from their claws.",
+            "SoulSilver": "By gathering their tails together, they collectively generate powerful electricity from their claws."
+        },
+        "Generation V": {
+            "Black": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
+            "White": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
+            "Black 2": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
+            "White 2": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes."
+        },
+        "Generation VI": {
+            "X": "Its claws loose electricity with enough amperage to cause fainting. They live in small groups.",
+            "Y": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
+            "Omega Ruby": "Its claws loose electricity with enough amperage to cause fainting. They live in small groups.",
+            "Alpha Sapphire": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "By joining its tail with that of another Luxio, this Pokémon can receive some of the other Luxio's electricity and power up its own electric blasts.",
+            "Shield": "Upon encountering an opponent, this Pokémon prepares for battle by extending its claws, which can put out 1,000,000 volts of electricity.",
+            "Brilliant Diamond": "Its claws loose electricity with enough amperage to cause opponents to faint. It lives in small groups.",
+            "Shining Pearl": "It rests its forelegs on others to communicate with rhythmic electric pulses from its claws.",
+            "Legends: Arceus": "Proudly uses its electrified claws as weapons. It seems to be a gracious Pokémon, evenly sharing the spoils of the hunt with others of its kind."
+        },
+        "Generation IX": {
+            "Scarlet": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
+            "Violet": "By gathering their tails together, they collectively generate powerful electricity from their claws."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Fuego Ironworks",
+            "Pearl": "Fuego Ironworks",
+            "Platinum": "Route 222",
+            "HeartGold": "Safari Zone (Savannah with 24 Plains points)",
+            "SoulSilver": "Safari Zone (Savannah with 24 Plains points)"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Shinx",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Electric )",
+            "Y": "Friend Safari ( Electric )",
+            "Omega Ruby": "Route 118 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 118 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Route 8 ( Island Scan ) Tu",
+            "Moon": "Route 8 ( Island Scan ) Tu",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Fields of Honor , Soothing Wetlands , Loop Lagoon , Training Lowlands",
+            "Brilliant Diamond": "Fuego Ironworks Grand Underground - Spacious Cave , Grassland Cave , Sunlit Cavern , Whiteout Cave (After defeating Candice )",
+            "Shining Pearl": "Fuego Ironworks Grand Underground - Spacious Cave , Grassland Cave , Sunlit Cavern , Whiteout Cave (After defeating Candice )",
+            "Legends: Arceus": "Obsidian Fieldlands : Floaro Gardens , near Oreburrow Tunnel , Sandgem Flats , Lake Verity , massive mass outbreaks Crimson Mirelands : Space-time distortions Coronet Highlands : Heavenward Lookout , Sonorous Path , Sacred Plaza , Cloudcap Pass , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Three , Area Five Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area Three , Area Five Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Oni Mountain , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Shinx",
+            "to": "Luxio",
+            "method": [
+                "Level 15"
+            ]
+        },
+        {
+            "from": "Luxio",
+            "to": "Luxray",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

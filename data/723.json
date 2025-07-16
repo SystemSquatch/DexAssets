@@ -1,0 +1,79 @@
+{
+    "name": "Dartrix",
+    "pokedex_number": "#0723",
+    "types": [
+        "Grass",
+        "Flying"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Long Reach"
+    ],
+    "stats": {
+        "HP": 78,
+        "Attack": 75,
+        "Defense": 75,
+        "Sp. Atk": 70,
+        "Sp. Def": 70,
+        "Speed": 52,
+        "Total": 420
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "A bit of a dandy, it spends its free time preening its wings. Its preoccupation with any dirt on its plumage can leave it unable to battle.",
+            "Moon": "It throws sharp feathers called blade quills at enemies or prey. It seldom misses.",
+            "Ultra Sun": "This narcissistic Pokémon is a clean freak. If you don't groom it diligently, it will stop listening to you.",
+            "Ultra Moon": "Supremely sensitive to the presence of others, it can detect opponents standing behind it, flinging its sharp feathers to take them out."
+        },
+        "Generation VIII": {
+            "Sword": "It throws one knifelike feather after another at its enemies, and each one precisely strikes a weak point. These feathers are known as blade quills. *",
+            "Shield": "It never slacks when it comes to the task of cleaning its feathers. Thorough preening keeps it looking spiffy and its blade quills nice and sharp. *",
+            "Legends: Arceus": "Regularly basks in sunlight to gather power—presumably due to the frigid climate. Nonetheless, the edges of the blade quills set into its wings are keen as ever."
+        },
+        "Generation IX": {
+            "Scarlet": "This narcissistic Pokémon is a clean freak. If you don’t groom it diligently, it may stop listening to you.",
+            "Violet": "It throws sharp feathers called blade quills at enemies or prey. It seldom misses."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Evolve Rowlet",
+            "Moon": "Evolve Rowlet",
+            "Ultra Sun": "Evolve Rowlet",
+            "Ultra Moon": "Evolve Rowlet",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME Trade Version 1.2.0+",
+            "Shield": "Pokémon HOME Trade Version 1.2.0+",
+            "Expansion Pass": "Evolve Rowlet",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Coronet Highlands : Space-time distortions (after completing Mission 18), massive mass outbreaks (after completing Request 102)"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Evolve Rowlet"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Rowlet",
+            "to": "Dartrix",
+            "method": [
+                "Level 17"
+            ]
+        },
+        {
+            "from": "Dartrix",
+            "to": "Decidueye",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "name": "Shelmet",
+    "pokedex_number": "#0616",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Hydration",
+        "Shell Armor",
+        "Overcoat"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 40,
+        "Defense": 85,
+        "Sp. Atk": 40,
+        "Sp. Def": 65,
+        "Speed": 25,
+        "Total": 305
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.",
+            "White": "It evolves when bathed in an electric-like energy along with Karrablast . The reason is still unknown.",
+            "Black 2": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
+            "White 2": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve."
+        },
+        "Generation VI": {
+            "X": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
+            "Y": "It evolves when bathed in an electric-like energy along with Karrablast . The reason is still unknown.",
+            "Omega Ruby": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
+            "Alpha Sapphire": "It evolves when bathed in an electric-like energy along with Karrablast . The reason is still unknown."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "When attacked, it tightly shuts the lid of its shell. This reaction fails to protect it from Karrablast , however, because they can still get into the shell.",
+            "Shield": "It has a strange physiology that responds to electricity. When together with Karrablast , Shelmet evolves for some reason."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 8 , Icirrus City , Moor of Icirrus Spring Summer Autumn",
+            "White": "Route 8 , Icirrus City , Moor of Icirrus Spring Summer Autumn",
+            "Black 2": "Routes 6 and 11 Route 8 , Icirrus City , Moor of Icirrus Spring Summer Autumn",
+            "White 2": "Routes 6 and 11 Route 8 , Icirrus City , Moor of Icirrus Spring Summer Autumn",
+            "Dream World": "Pleasant Forest *"
+        },
+        "Generation VI": {
+            "X": "Routes 14 and 19",
+            "Y": "Routes 14 and 19",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 7 , Bridge Field , Hammerlocke Hills , Motostoke Riverbank Rolling Fields , Dappled Grove , South Lake Miloch , Bridge Field ( Max Raid Battle )",
+            "Shield": "Route 7 , Bridge Field , Hammerlocke Hills , Motostoke Riverbank , Giant's Cap Rolling Fields , Dappled Grove , South Lake Miloch , Bridge Field ( Max Raid Battle )",
+            "Sword Expansion Pass": "Soothing Wetlands , Giant's Bed Forest of Focus , Training Lowlands ( Wanderer )",
+            "Shield Expansion Pass": "Soothing Wetlands , Giant's Bed Training Lowlands ( Wanderer )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Shelmet",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Shelmet",
+            "to": "Accelgor",
+            "method": [
+                "Trade"
+            ]
+        }
+    ]
+}

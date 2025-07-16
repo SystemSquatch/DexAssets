@@ -1,0 +1,138 @@
+{
+    "name": "Mewtwo",
+    "pokedex_number": "#0150",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Pressure",
+        "Unnerve",
+        "Steadfast",
+        "Insomnia"
+    ],
+    "stats": {
+        "HP": 106,
+        "Attack": 110,
+        "Defense": 90,
+        "Sp. Atk": 154,
+        "Sp. Def": 90,
+        "Speed": 130,
+        "Total": 680
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+            "Yellow": "Its DNA is almost the same as Mew 's. However, its size and disposition are vastly different.",
+            "Stadium": "A vicious psychic Pokémon created by genetic engineering. Its cold, glowing eyes strike fear into its enemy."
+        },
+        "Generation II": {
+            "Gold": "Because its battle abilities were raised to the ultimate level, it thinks only of defeating its foes.",
+            "Silver": "It usually remains motionless to conserve energy, so that it may unleash its full power in battle.",
+            "Crystal": "Said to rest quietly in an undiscovered cave, this Pok é mon was created solely for battling.",
+            "Stadium 2": "Because its battle abilities were raised to the ultimate level, it thinks only of defeating its foes. (Pokémon Red, Silver, or Crystal inserted) It usually remains motionless to conserve energy, so that it may unleash its full power in battle. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Mewtwo is a Pok é mon that was created by genetic manipulation. However, even though the scientific power of humans created this Pok é mon 's body, they failed to endow Mewtwo with a compassionate heart.",
+            "Sapphire": "Mewtwo is a Pok é mon that was created by genetic manipulation. However, even though the scientific power of humans created this Pok é mon 's body, they failed to endow Mewtwo with a compassionate heart.",
+            "Emerald": "A Pok é mon that was created by genetic manipulation. However, even though the scientific power of humans made its body, they failed to give it a warm heart.",
+            "FireRed": "A Pok é mon whose genetic code was repeatedly recombined for research. It turned vicious as a result.",
+            "LeafGreen": "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments."
+        },
+        "Generation IV": {
+            "Diamond": "A Pokémon created by recombining Mew 's genes. It's said to have the most savage heart among Pokémon.",
+            "Pearl": "A Pokémon created by recombining Mew 's genes. It's said to have the most savage heart among Pokémon.",
+            "Platinum": "A Pokémon created by recombining Mew 's genes. It's said to have the most savage heart among Pokémon.",
+            "HeartGold": "Because its battle abilities were raised to the ultimate level, it thinks only of defeating its foes.",
+            "SoulSilver": "It usually remains motionless to conserve energy, so that it may unleash its full power in battle."
+        },
+        "Generation V": {
+            "Black": "A Pokémon created by recombining Mew 's genes. It's said to have the most savage heart among Pokémon.",
+            "White": "A Pokémon created by recombining Mew 's genes. It's said to have the most savage heart among Pokémon.",
+            "Black 2": "A Pokémon created by recombining Mew 's genes. It's said to have the most savage heart among Pokémon.",
+            "White 2": "A Pokémon created by recombining Mew 's genes. It's said to have the most savage heart among Pokémon."
+        },
+        "Generation VI": {
+            "X": "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.",
+            "Y": "A Pokémon created by recombining Mew 's genes. It's said to have the most savage heart among Pokémon.",
+            "Omega Ruby": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
+            "Alpha Sapphire": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Despite its diminished size, its mental power has grown phenomenally. With a mere thought, it can smash a skyscraper to smithereens.",
+            "Let's Go Eevee": "Despite its diminished size, its mental power has grown phenomenally. With a mere thought, it can smash a skyscraper to smithereens."
+        },
+        "Generation VIII": {
+            "Sword": "Created from the DNA of Mew , this Pokémon is a dangerous combination of overwhelming power and a savage heart. *",
+            "Shield": "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling. *",
+            "Brilliant Diamond": "Mewtwo was created by recombining Mew 's genes. It's said to have the most savage heart among Pokémon.",
+            "Shining Pearl": "Mewtwo was created by recombining Mew 's genes. It's said to have the most savage heart among Pokémon."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Cerulean Cave ( Only one )",
+            "Blue": "Cerulean Cave ( Only one )",
+            "Blue (Japan)": "Cerulean Cave ( Only one )",
+            "Yellow": "Cerulean Cave ( Only one )"
+        },
+        "Generation II": {
+            "Gold": "Time Capsule , Event",
+            "Silver": "Time Capsule , Event",
+            "Crystal": "Time Capsule , Event"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Cerulean Cave ( Only one )",
+            "LeafGreen": "Cerulean Cave ( Only one )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Cerulean Cave ( Only one )",
+            "SoulSilver": "Cerulean Cave ( Only one )",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer , Event",
+            "White": "Poké Transfer , Event",
+            "Black 2": "Poké Transfer , Event",
+            "White 2": "Poké Transfer , Event"
+        },
+        "Generation VI": {
+            "X": "Unknown Dungeon ( Only one ) *",
+            "Y": "Unknown Dungeon ( Only one ) *",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Rocky World ) ( Only one )",
+            "Ultra Moon": "Ultra Space Wilds ( Rocky World ) ( Only one )",
+            "Let's Go Pikachu": "Cerulean Cave ( Only one )",
+            "Let's Go Eevee": "Cerulean Cave ( Only one )"
+        },
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Trade",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one )",
+            "Brilliant Diamond": "Ramanas Park (requires Genome Slate ) ( Only one )",
+            "Shining Pearl": "Ramanas Park (requires Genome Slate ) ( Only one )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME , Poké Portal News",
+            "Violet": "Pokémon HOME , Poké Portal News"
+        }
+    },
+    "evolution": []
+}

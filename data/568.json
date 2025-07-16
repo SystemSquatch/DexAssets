@@ -1,0 +1,99 @@
+{
+    "name": "Trubbish",
+    "pokedex_number": "#0568",
+    "types": [
+        "Poison",
+        "Unknown"
+    ],
+    "abilities": [
+        "Stench",
+        "Sticky Hold",
+        "Aftermath"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 62,
+        "Sp. Atk": 40,
+        "Sp. Def": 62,
+        "Speed": 65,
+        "Total": 329
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
+            "White": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
+            "Black 2": "Wanting more garbage, they follow people who litter. They always belch poison gas.",
+            "White 2": "Wanting more garbage, they follow people who litter. They always belch poison gas."
+        },
+        "Generation VI": {
+            "X": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
+            "Y": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
+            "Omega Ruby": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
+            "Alpha Sapphire": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places."
+        },
+        "Generation VII": {
+            "Sun": "Unsanitary places are what they like best. They can be spotted in Alola, often with Grimer in hot pursuit.",
+            "Moon": "It gorges on trash until its stomach is full. Then it belches toxic gas. An unlucky whiff of gas will put a person in the hospital.",
+            "Ultra Sun": "Poisonous gas leaks out of it when it breathes. Muk that catch a whiff of that stench will come drooling.",
+            "Ultra Moon": "If a young Pokémon or child breathes in the toxic gas that Trubbish belches out, it could be a life-threatening situation."
+        },
+        "Generation VIII": {
+            "Sword": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",
+            "Shield": "This Pokémon was born from a bag stuffed with trash. Galarian Weezing relish the fumes belched by Trubbish."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 5 and 16",
+            "White": "Routes 5 and 16",
+            "Black 2": "Routes 4 , 5 , and 16",
+            "White 2": "Routes 5 and 16"
+        },
+        "Generation VI": {
+            "X": "Lost Hotel (trash cans)",
+            "Y": "Lost Hotel (trash cans)",
+            "Omega Ruby": "Route 110 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 110 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Malie City",
+            "Moon": "Malie City",
+            "Ultra Sun": "Malie City",
+            "Ultra Moon": "Malie City",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 3 East Lake Axewell , North Lake Miloch , Motostoke Riverbank , Giant's Cap ( Max Raid Battle )",
+            "Shield": "Route 3 East Lake Axewell , North Lake Miloch , Motostoke Riverbank , Giant's Cap ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed , Snowslide Slope , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Trubbish",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Trubbish",
+            "to": "Garbodor",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

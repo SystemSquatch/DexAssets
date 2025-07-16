@@ -1,0 +1,142 @@
+{
+    "name": "Gligar",
+    "pokedex_number": "#0207",
+    "types": [
+        "Ground",
+        "Flying"
+    ],
+    "abilities": [
+        "Hyper Cutter",
+        "Sand Veil",
+        "Immunity"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 75,
+        "Defense": 105,
+        "Sp. Atk": 35,
+        "Sp. Def": 65,
+        "Speed": 85,
+        "Total": 430
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It flies straight at its target's face then clamps down on the startled victim to inject poison.",
+            "Silver": "It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack.",
+            "Crystal": "It builds its nest on a steep cliff. When it is done gliding, it hops along the ground back to its nest.",
+            "Stadium 2": "It flies straight at its target's face then clamps down on the startled victim to inject poison. (Pokémon Red, Silver, or Crystal inserted) It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Gligar glides through the air without a sound as if it were sliding. This Pok é mon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
+            "Sapphire": "Gligar glides through the air without a sound as if it were sliding. This Pok é mon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
+            "Emerald": "It glides without making a single sound. It grasps the face of its foe using its hind and large front claws, then stabs with its poison barb.",
+            "FireRed": "It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack.",
+            "LeafGreen": "It flies straight at its target's face, then clamps down on the startled victim to inject poison."
+        },
+        "Generation IV": {
+            "Diamond": "It sails on the winds with its limbs extended to strike from the sky. It aims for the prey's face.",
+            "Pearl": "It sails on the winds with its limbs extended to strike from the sky. It aims for the prey's face.",
+            "Platinum": "It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.",
+            "HeartGold": "It flies straight at its target's face, then clamps down on the startled victim to inject poison.",
+            "SoulSilver": "It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack."
+        },
+        "Generation V": {
+            "Black": "It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.",
+            "White": "It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.",
+            "Black 2": "It clamps on to its chosen prey then jabs the stinger on its tail into the prey while it's stunned with surprise.",
+            "White 2": "It clamps on to its chosen prey then jabs the stinger on its tail into the prey while it's stunned with surprise."
+        },
+        "Generation VI": {
+            "X": "It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack.",
+            "Y": "It flies straight at its target's face, then clamps down on the startled victim to inject poison.",
+            "Omega Ruby": "Gligar glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
+            "Alpha Sapphire": "Gligar glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It sails on the winds with its limbs extended to strike from the sky. It aims for the prey's face.",
+            "Shining Pearl": "It sails on the winds with its limbs extended to strike from the sky. It aims for the prey's face.",
+            "Legends: Arceus": "Its tail is tipped by a thick, horrible stinger. To bring down prey, it will first obscure their vision by covering their faces with its body, and then it will use the stinger to inject them with venom."
+        },
+        "Generation IX": {
+            "Scarlet": "It builds its nest on a steep cliff. When it is done gliding, it hops along the ground back to its nest.",
+            "Violet": "It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Route 45",
+            "Silver": "Trade",
+            "Crystal": "Route 45"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Safari Zone extension",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "The Under Subway (Shadow)",
+            "XD": "Rock Poké Spot"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 206 , 207 , 214 , 215 , and 227 , Stark Mountain (Emerald)",
+            "Pearl": "Routes 206 , 207 , 214 , 215 , and 227 , Stark Mountain (Emerald)",
+            "Platinum": "Route 206",
+            "HeartGold": "Route 45",
+            "SoulSilver": "Trade",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Routes 11 and 15",
+            "White": "Routes 11 and 15",
+            "Black 2": "Routes 11 , 15 , and 23 Route 23 ( Hidden Grotto )",
+            "White 2": "Routes 11 , 15 , and 23 Route 23 ( Hidden Grotto )",
+            "Dream World": "Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Route 19 ( Horde Encounter )",
+            "Y": "Route 19 ( Horde Encounter )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Grand Underground - Rocky Cave , Swampy Cave , Big Bluff Cavern , Sunlit Cavern , Big Bluff Cavern , Bogsunk Cavern",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Coronet Highlands : Clamberclaw Cliffs , Celestica Ruins and nearby (additional ), near Primeval Grotto , near Cloudcap Pass , massive mass outbreaks Alabaster Icelands : Arena's Approach , Glacier Terrace Day , Glacier Terrace ( mass outbreaks )"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Fellhorn Gorge , Oni Mountain , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero (Violet)": "Union Circle Tera Raid Battle Search ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Gligar",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Gligar",
+            "to": "Gliscor",
+            "method": [
+                "Level up (holding Razor Fang, during the night)"
+            ]
+        }
+    ]
+}

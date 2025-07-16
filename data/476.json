@@ -1,0 +1,113 @@
+{
+    "name": "Probopass",
+    "pokedex_number": "#0476",
+    "types": [
+        "Rock",
+        "Steel"
+    ],
+    "abilities": [
+        "Sturdy",
+        "Magnet Pull",
+        "Sand Force"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 145,
+        "Sp. Atk": 75,
+        "Sp. Def": 150,
+        "Speed": 40,
+        "Total": 525
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It exudes strong magnetism from all over. It controls three small units called Mini-Noses.",
+            "Pearl": "It exudes strong magnetism from all over. It controls three small units called Mini-Noses.",
+            "Platinum": "It freely controls three small units called Mini-Noses using magnetic force.",
+            "HeartGold": "It controls three units called Mini-Noses using magnetic force. With them, it can attack the foe from three directions.",
+            "SoulSilver": "It controls three units called Mini-Noses using magnetic force. With them, it can attack the foe from three directions."
+        },
+        "Generation V": {
+            "Black": "It freely controls three small units called Mini-Noses using magnetic force.",
+            "White": "It freely controls three small units called Mini-Noses using magnetic force.",
+            "Black 2": "It freely controls three units called Mini-Noses using magnetic force.",
+            "White 2": "It freely controls three units called Mini-Noses using magnetic force."
+        },
+        "Generation VI": {
+            "X": "It exudes strong magnetism from all over. It controls three small units called Mini-Noses.",
+            "Y": "It freely controls three small units called Mini-Noses using magnetic force.",
+            "Omega Ruby": "It exudes strong magnetism from all over. It controls three small units called Mini-Noses.",
+            "Alpha Sapphire": "It freely controls three small units called Mini-Noses using magnetic force."
+        },
+        "Generation VII": {
+            "Sun": "It radiates such a powerful magnetic field that nearby electrical appliances become unusable.",
+            "Moon": "The main body controls three mobile units called Mini-Noses, which it maneuvers to catch prey.",
+            "Ultra Sun": "Although it can control its units known as Mini-Noses, they sometimes get lost and don't come back.",
+            "Ultra Moon": "It uses three small units to catch prey and battle enemies. The main body mostly just gives orders."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Its entire body exudes strong magnetism. Probopass controls three small units called Mini-Noses.",
+            "Shining Pearl": "Its entire body exudes strong magnetism. Probopass controls three small units called Mini-Noses.",
+            "Legends: Arceus": "It is able to emit powerful magnetism, allowing it control over the iron sand that forms its luscious mustache. Using this iron sand, Probopass forms hard stones with which it smites its prey."
+        },
+        "Generation IX": {
+            "Scarlet": "It controls three units called Mini-Noses using magnetic force. With them, it can attack a foe from three directions.",
+            "Violet": "Probopass radiates such a powerful magnetic field that nearby electrical appliances are rendered useless while it's around."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Nosepass",
+            "Pearl": "Evolve Nosepass",
+            "Platinum": "Evolve Nosepass",
+            "HeartGold": "Trade , Evolve Nosepass in Pokémon Diamond, Pearl or Platinum",
+            "SoulSilver": "Trade , Evolve Nosepass in Pokémon Diamond, Pearl or Platinum"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Evolve Nosepass",
+            "White 2": "Evolve Nosepass"
+        },
+        "Generation VI": {
+            "X": "Evolve Nosepass",
+            "Y": "Evolve Nosepass",
+            "Omega Ruby": "Evolve Nosepass",
+            "Alpha Sapphire": "Evolve Nosepass"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Nosepass",
+            "Moon": "Evolve Nosepass",
+            "Ultra Sun": "Evolve Nosepass",
+            "Ultra Moon": "Evolve Nosepass",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Nosepass",
+            "Shining Pearl": "Evolve Nosepass",
+            "Legends: Arceus": "Coronet Highlands : near Primeval Grotto , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Nosepass",
+            "to": "Probopass",
+            "method": [
+                "Level up (near a Mt Coronet)",
+                "Level up (near a Chargestone Cave)",
+                "Level up (near a Kalos Route 13)",
+                "Level up"
+            ]
+        }
+    ]
+}

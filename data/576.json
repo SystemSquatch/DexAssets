@@ -1,0 +1,91 @@
+{
+    "name": "Gothitelle",
+    "pokedex_number": "#0576",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Frisk",
+        "Competitive",
+        "Shadow Tag"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 95,
+        "Sp. Atk": 95,
+        "Sp. Def": 110,
+        "Speed": 65,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.",
+            "White": "They can predict the future from the placement and movement of the stars. They can see Trainers' life spans.",
+            "Black 2": "It can see the future from the movement of the stars. When it learns its Trainer's life span, it cries in sadness.",
+            "White 2": "It can see the future from the movement of the stars. When it learns its Trainer's life span, it cries in sadness."
+        },
+        "Generation VI": {
+            "X": "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.",
+            "Y": "They can predict the future from the placement and movement of the stars. They can see Trainers' life spans.",
+            "Omega Ruby": "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.",
+            "Alpha Sapphire": "They can predict the future from the placement and movement of the stars. They can see Trainers' life spans."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It has tremendous psychic power, but it dislikes conflict. It's also able to predict the future based on the movement of the stars.",
+            "Shield": "A criminal who was shown his fate by a Gothitelle went missing that same day and was never seen again."
+        },
+        "Generation IX": {
+            "Scarlet": "Gothitelle unleashes psychic energy and shows opponents dreams of the universe’s end. These dreams are apparently ethereal and beautiful.",
+            "Violet": "It gazes at the stars to predict the future. It acts somewhat detached because it has seen the end of all existence."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 9 ( Rustling grass )",
+            "White": "Trade",
+            "Black 2": "Route 9 ( Rustling grass )",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Gothorita",
+            "Y": "Evolve Gothorita",
+            "Omega Ruby": "Evolve Gothorita",
+            "Alpha Sapphire": "Evolve Gothorita"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Gothorita",
+            "Moon": "Evolve Gothorita",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Sword Expansion Pass": "Slippery Slope , Frostpoint Field ( Wanderer ) Giant's Bed , Snowslide Slope , Path to the Peak , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six Tera Raid Battles ( 5★ )",
+            "Violet": "South Province: Area Six Tera Raid Battles ( 5★ )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Gothorita",
+            "to": "Gothitelle",
+            "method": [
+                "Level 41"
+            ]
+        }
+    ]
+}

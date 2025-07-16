@@ -1,0 +1,140 @@
+{
+    "name": "Hoppip",
+    "pokedex_number": "#0187",
+    "types": [
+        "Grass",
+        "Flying"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Leaf Guard",
+        "Infiltrator"
+    ],
+    "stats": {
+        "HP": 35,
+        "Attack": 35,
+        "Defense": 40,
+        "Sp. Atk": 35,
+        "Sp. Def": 55,
+        "Speed": 50,
+        "Total": 250
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
+            "Silver": "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.",
+            "Crystal": "It can be carried away on even the gentlest breeze. It may even float all the way to the next town.",
+            "Stadium 2": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though. (Pokémon Red, Silver, or Crystal inserted) Its body is so light, it must grip the ground firmly with its feet to keep from being blown away. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "This Pok é mon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",
+            "Sapphire": "This Pok é mon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",
+            "Emerald": "This Pok é mon drifts and floats with the wind. If it senses the approach of strong winds, a Hoppip links leaves with others to prepare against being blown away.",
+            "FireRed": "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.",
+            "LeafGreen": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though."
+        },
+        "Generation IV": {
+            "Diamond": "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
+            "Pearl": "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
+            "Platinum": "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
+            "HeartGold": "To keep from being blown away by the wind, they gather in clusters. But they do enjoy gentle breezes.",
+            "SoulSilver": "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away."
+        },
+        "Generation V": {
+            "Black": "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
+            "White": "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
+            "Black 2": "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
+            "White 2": "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way."
+        },
+        "Generation VI": {
+            "X": "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.",
+            "Y": "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
+            "Omega Ruby": "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",
+            "Alpha Sapphire": "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "They are blown adrift by winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
+            "Shining Pearl": "They are blown adrift by winds. It is said that when Hoppip gather in fields and mountains, spring is on the way."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon is blown across vast distances by the wind. It is unclear where the Hoppip of Paldea originally came from.",
+            "Violet": "Outside of cold regions, Hoppip can be found practically everywhere. This is because the wind carries this species all over the world."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 13 , 14 , 15 , 32 , and 33 Morning Day",
+            "Silver": "Routes 13 , 14 , 15 , 32 , and 33 Morning Day",
+            "Crystal": "Routes 11 , 13 , 14 , 15 , 29 , 30 , 31 , 32 , and 33 Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Five Island , Resort Gorgeous , Water Labyrinth ( Surfing ) Five Isle Meadow , Memorial Pillar ( Tall grass and surfing )",
+            "LeafGreen": "Five Island , Resort Gorgeous , Water Labyrinth ( Surfing ) Five Isle Meadow , Memorial Pillar ( Tall grass and surfing )",
+            "Colosseum": "Trade",
+            "XD": "Oasis Poké Spot"
+        },
+        "Generation IV": {
+            "Diamond": "Route 205 (North and South) ( Poké Radar )",
+            "Pearl": "Route 205 (South), Fuego Ironworks ( Poké Radar )",
+            "Platinum": "Route 205 (South) ( Poké Radar )",
+            "HeartGold": "Routes 13 , 14 , 15 , 32 , and 33 Morning Day Route 48 Safari Zone Morning Day (tall grass in Meadow, default)",
+            "SoulSilver": "Routes 13 , 14 , 15 , 32 , and 33 Morning Day Route 48 Safari Zone Morning Day (tall grass in Meadow, default)",
+            "Pal Park": "Field",
+            "Pokéwalker": "Resort"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Route 18 ( Swarm )",
+            "White 2": "Route 18 ( Swarm )",
+            "Dream World": "Pleasant Forest , Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Route 7 ( Horde Encounter )",
+            "Y": "Route 7 ( Horde Encounter )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 205 (North and South) ( Poké Radar ) Grand Underground - Grassland Cave , Sunlit Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 205 (South), Fuego Ironworks ( Poké Radar ) Grand Underground - Grassland Cave , Sunlit Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Poco Path Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two , Poco Path Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Hoppip",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Hoppip",
+            "to": "Skiploom",
+            "method": [
+                "Level 18"
+            ]
+        }
+    ]
+}

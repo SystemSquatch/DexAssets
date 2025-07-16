@@ -1,0 +1,144 @@
+{
+    "name": "Misdreavus",
+    "pokedex_number": "#0200",
+    "types": [
+        "Ghost",
+        "Unknown"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 60,
+        "Sp. Atk": 85,
+        "Sp. Def": 85,
+        "Speed": 85,
+        "Total": 435
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It likes playing mischievous tricks such as screaming and wailing to startle people at night.",
+            "Silver": "It loves to bite and yank people's hair from behind without warning, just to see their shocked reactions.",
+            "Crystal": "It loves to watch people it's scared. It frightens them by screaming loudly or appearing suddenly.",
+            "Stadium 2": "It likes playing mischievous tricks such as screaming and wailing to startle people at night. (Pokémon Red, Silver, or Crystal inserted) It loves to bite and yank people's hair from behind without warning, just to see their shocked reactions. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Misdreavus frightens people with a creepy, sobbing cry. The Pok é mon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
+            "Sapphire": "Misdreavus frightens people with a creepy, sobbing cry. The Pok é mon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
+            "Emerald": "A Misdreavus frightens people with a creepy, sobbing cry. It apparently uses its red spheres to absorb the fear of foes as its nutrition.",
+            "FireRed": "It loves to bite and yank people's hair from behind without warning, just to see their shocked reactions.",
+            "LeafGreen": "It likes playing mischievous tricks such as screaming and wailing to startle people at night."
+        },
+        "Generation IV": {
+            "Diamond": "It loves to sneak up on people late at night, then startle them with its shrieklike cry.",
+            "Pearl": "It gets nourishment from fear that it absorbs into its red orbs. In daytime, it sleeps in darkness.",
+            "Platinum": "A Pokémon that startles people in the middle of the night. It gathers fear as its energy.",
+            "HeartGold": "It likes playing mischievous tricks, such as screaming and wailing to startle people at night.",
+            "SoulSilver": "It loves to bite and yank people's hair from behind without warning, just to see their shocked reactions."
+        },
+        "Generation V": {
+            "Black": "A Pokémon that startles people in the middle of the night. It gathers fear as its energy.",
+            "White": "A Pokémon that startles people in the middle of the night. It gathers fear as its energy.",
+            "Black 2": "A Pokémon that startles people in the middle of the night. It gathers fear as its energy.",
+            "White 2": "A Pokémon that startles people in the middle of the night. It gathers fear as its energy."
+        },
+        "Generation VI": {
+            "X": "It gets nourishment from fear that it absorbs into its red orbs. In daytime, it sleeps in darkness.",
+            "Y": "It likes playing mischievous tricks, such as screaming and wailing to startle people at night.",
+            "Omega Ruby": "Misdreavus frightens people with a creepy, sobbing cry. The Pokémon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
+            "Alpha Sapphire": "Misdreavus frightens people with a creepy, sobbing cry. The Pokémon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition."
+        },
+        "Generation VII": {
+            "Sun": "It will use any means necessary to frighten people and absorb their life energy. It practices constantly to hone its skill in causing fear.",
+            "Moon": "If you hear a sobbing sound emanating from a vacant room, it's undoubtedly a bit of mischief from Misdreavus.",
+            "Ultra Sun": "What gives meaning to its life is surprising others. If you set your ear against the red orbs around its neck, you can hear shrieking.",
+            "Ultra Moon": "What makes it happy is imitating the voices of weeping people and scaring everyone. It doesn't deal well with folks who aren't easily frightened."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It loves to sneak up on people late at night and startle them with its shrieking cry.",
+            "Shining Pearl": "It gets nourishment from fear that it absorbs into its red orbs. During the daytime, it sleeps in the shadows.",
+            "Legends: Arceus": "It conceals itself in darkness, sending chills up travelers' spines with its childlike weeping. As it observes the frightened travelers with glee, the red orbs upon its chest let off an eerie light."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon startles people in the middle of the night. It gathers fear as its energy.",
+            "Violet": "It loves to bite and yank people's hair from behind without warning, just to see their shocked reactions."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Mt. Silver Cave Night",
+            "Silver": "Mt. Silver Cave Night",
+            "Crystal": "Mt. Silver Cave Night"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Lost Cave",
+            "Colosseum": "Pyrite Town (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Eterna Forest , Lost Tower Night",
+            "Platinum": "Trade",
+            "HeartGold": "Safari Zone (Forest, default, and with 4 Forest points) Cliff Cave , Mt. Silver Cave Night",
+            "SoulSilver": "Safari Zone (Forest, default, and with 4 Forest points) Cliff Cave , Mt. Silver Cave Night",
+            "Pal Park": "Forest",
+            "Pokéwalker": "White Lake"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Abundant Shrine",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Routes 114 and 115 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Routes 114 and 115 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Hau'oli Cemetery Night",
+            "Moon": "Hau'oli Cemetery Night",
+            "Ultra Sun": "Poni Meadow Night Poké Pelago *",
+            "Ultra Moon": "Poni Meadow Night Poké Pelago *",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Eterna Forest , Lost Tower Night Grand Underground - Dazzling Cave , Stargleam Cavern",
+            "Legends: Arceus": "Coronet Highlands : near Celestica Ruins Night , Sacred Plaza Night (also mass outbreaks nearby Day Night ), Stonetooth Rows Night , massive mass outbreaks Alabaster Icelands : Avalanche Slopes Night and nearby (also mass outbreaks Day Night ), near Glacier Terrace , Icepeak Cavern , Ice Column Chamber , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Union Circle Tera Raid Battle Search ( 2★ )",
+            "Violet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five , Area Six East Province: Area Two , Tagtree Thicket West Province: Area One North Province: Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Misdreavus",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Misdreavus",
+            "to": "Mismagius",
+            "method": [
+                "Use Dusk Stone"
+            ]
+        }
+    ]
+}

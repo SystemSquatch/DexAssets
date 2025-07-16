@@ -1,0 +1,129 @@
+{
+    "name": "Poochyena",
+    "pokedex_number": "#0261",
+    "types": [
+        "Dark",
+        "Unknown"
+    ],
+    "abilities": [
+        "Run Away",
+        "Quick Feet",
+        "Rattled"
+    ],
+    "stats": {
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 35,
+        "Sp. Atk": 30,
+        "Sp. Def": 30,
+        "Speed": 35,
+        "Total": 220
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "At first sight, Poochyena takes a bite at anything that moves. This Pok é mon chases after prey until the victim becomes exhausted. However, it may turn tail if the prey strikes back.",
+            "Sapphire": "Poochyena is an omnivore - it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This Pok é mon tries to intimidate its foes by making the hair on its tail bristle out.",
+            "Emerald": "It savagely threatens foes with bared fangs. It chases after fleeing targets tenaciously. It turns tail and runs, however, if the foe strikes back.",
+            "FireRed": "It has a very tenacious nature. Its acute sense of smell lets it chase a chosen prey without ever losing track.",
+            "LeafGreen": "It has a very tenacious nature. Its acute sense of smell lets it chase a chosen prey without ever losing track."
+        },
+        "Generation IV": {
+            "Diamond": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+            "Pearl": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+            "Platinum": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+            "HeartGold": "It chases its prey until the victim becomes exhausted. However, it turns tail if the prey strikes back.",
+            "SoulSilver": "It chases its prey until the victim becomes exhausted. However, it turns tail if the prey strikes back."
+        },
+        "Generation V": {
+            "Black": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+            "White": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+            "Black 2": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+            "White 2": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted."
+        },
+        "Generation VI": {
+            "X": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+            "Y": "It has a very tenacious nature. Its acute sense of smell lets it chase a chosen prey without ever losing track.",
+            "Omega Ruby": "At first sight, Poochyena takes a bite at anything that moves. This Pokémon chases after prey until the victim becomes exhausted. However, it may turn tail if the prey strikes back.",
+            "Alpha Sapphire": "Poochyena is an omnivore—it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This Pokémon tries to intimidate its foes by making the hair on its tail bristle out."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+            "Shining Pearl": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted."
+        },
+        "Generation IX": {
+            "Scarlet": "It bares its large fangs and barks vigorously to try to intimidate opponents, but this is actually a manifestation of its cowardly nature.",
+            "Violet": "Poochyena pursue their prey in packs. Once the prey is exhausted, the pack finishes it off. But sometimes the prey retaliates, and the pack flees."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Routes 101 , 102 , and 103",
+            "Sapphire": "Routes 101 , 102 , and 103",
+            "Emerald": "Routes 101 , 102 , 103 , 104 , 110 , 116 , 117 , 120 , 121 , and 123 , Petalburg Woods",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Gateon Port (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Breed Mightyena",
+            "Pearl": "Trade",
+            "Platinum": "Route 214 ( Poké Radar )",
+            "HeartGold": "Route 1 ( Swarm )",
+            "SoulSilver": "Route 1 ( Swarm )",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Route 9 ( Swarm )",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Breed Mightyena",
+            "Y": "Breed Mightyena",
+            "Omega Ruby": "Routes 101 , 102 , and 103",
+            "Alpha Sapphire": "Routes 101 , 102 , and 103"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank , Breed event Mightyena",
+            "Ultra Moon": "Pokémon Bank , Breed event Mightyena",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Grand Underground - Spacious Cave , Dazzling Cave , Stargleam Cavern , Icy Cave , Glacial Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Grand Underground - Spacious Cave , Dazzling Cave , Stargleam Cavern , Icy Cave , Glacial Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Apple Hills , Loyalty Plaza , Oni Mountain , Paradise Barrens , Kitakami Wilds , Timeless Woods Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Poochyena",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Poochyena",
+            "to": "Mightyena",
+            "method": [
+                "Level 18"
+            ]
+        }
+    ]
+}

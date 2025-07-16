@@ -1,0 +1,95 @@
+{
+    "name": "Klang",
+    "pokedex_number": "#0600",
+    "types": [
+        "Steel",
+        "Unknown"
+    ],
+    "abilities": [
+        "Plus",
+        "Minus",
+        "Clear Body"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 95,
+        "Sp. Atk": 70,
+        "Sp. Def": 85,
+        "Speed": 50,
+        "Total": 440
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
+            "White": "Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don't return.",
+            "Black 2": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
+            "White 2": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die."
+        },
+        "Generation VI": {
+            "X": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
+            "Y": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
+            "Omega Ruby": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
+            "Alpha Sapphire": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokémon's rotation speed increases sharply.",
+            "Shield": "Many companies in the Galar region choose Klang as their logo. This Pokémon is considered the symbol of industrial technology."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Klink",
+            "White": "Evolve Klink",
+            "Black 2": "P2 Laboratory",
+            "White 2": "P2 Laboratory",
+            "Dream World": "Icy Cave *"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Steel )",
+            "Y": "Friend Safari ( Steel )",
+            "Omega Ruby": "Evolve Klink",
+            "Alpha Sapphire": "Evolve Klink"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Klink",
+            "Moon": "Evolve Klink",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 10 , Dusty Bowl , Hammerlocke Hills Dusty Bowl , Giant's Seat , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Route 10 , Dusty Bowl , Hammerlocke Hills Dusty Bowl , Giant's Seat , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Klink",
+            "to": "Klang",
+            "method": [
+                "Level 38"
+            ]
+        },
+        {
+            "from": "Klang",
+            "to": "Klinklang",
+            "method": [
+                "Level 49"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Silicobra",
+    "pokedex_number": "#0843",
+    "types": [
+        "Ground",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sand Spit",
+        "Shed Skin",
+        "Sand Veil"
+    ],
+    "stats": {
+        "HP": 52,
+        "Attack": 57,
+        "Defense": 75,
+        "Sp. Atk": 35,
+        "Sp. Def": 50,
+        "Speed": 46,
+        "Total": 315
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand.",
+            "Shield": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide."
+        },
+        "Generation IX": {
+            "Scarlet": "Silicobra’s neck pouch, which can inflate and deflate like a balloon, gets more elastic each time Silicobra sheds its skin.",
+            "Violet": "Silicobra's large nostrils are specialized for spraying sand, so this Pokémon is not very good at telling apart different smells."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Route 6 Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Route 6 Dusty Bowl ( Max Raid Battle )",
+            "Expansion Pass": "Forest of Focus , Training Lowlands , Challenge Road , Potbottom Desert",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Area Three West Province: Asado Desert Tera Raid Battles ( 1★ )",
+            "Violet": "East Province: Area Three West Province: Asado Desert Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Silicobra",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Silicobra",
+            "to": "Sandaconda",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "name": "Galvantula",
+    "pokedex_number": "#0596",
+    "types": [
+        "Bug",
+        "Electric"
+    ],
+    "abilities": [
+        "Compound Eyes",
+        "Unnerve",
+        "Swarm"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 77,
+        "Defense": 60,
+        "Sp. Atk": 97,
+        "Sp. Def": 60,
+        "Speed": 108,
+        "Total": 472
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
+            "White": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
+            "Black 2": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense.",
+            "White 2": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense."
+        },
+        "Generation VI": {
+            "X": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
+            "Y": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
+            "Omega Ruby": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
+            "Alpha Sapphire": "When attacked, they create an electric barrier by spitting out many electrically charged threads."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis.",
+            "Shield": "It lays traps of electrified threads near the nests of bird Pokémon, aiming to snare chicks that are not yet good at flying."
+        },
+        "Generation IX": {
+            "Scarlet": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
+            "Violet": "When attacked, they create an electric barrier by spitting out many electrically charged threads."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Joltik",
+            "White": "Evolve Joltik",
+            "Black 2": "Evolve Joltik",
+            "White 2": "Evolve Joltik",
+            "Dream World": "Spooky Manor *"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Electric )",
+            "Y": "Friend Safari ( Electric )",
+            "Omega Ruby": "Evolve Joltik",
+            "Alpha Sapphire": "Evolve Joltik"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 7 , Lake of Outrage Giant's Seat , Giant's Cap , South Lake Miloch ( Wanderer ) Rolling Fields , Dappled Grove , South Lake Miloch , Motostoke Riverbank , Bridge Field , Giant's Cap , Lake of Outrage ( Max Raid Battle )",
+            "Shield": "Route 7 , Lake of Outrage Giant's Seat , Giant's Cap , South Lake Miloch ( Wanderer ) Rolling Fields , Dappled Grove , South Lake Miloch , Motostoke Riverbank , Bridge Field , Giant's Cap , Lake of Outrage ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed , Old Cemetery , Giant's Foot , Three-Point Pass , Ballimere Lake Training Lowlands , Frostpoint Field , Giant's Bed , Three-Point Pass , Frigid Sea , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Canyon Biome , Chargestone Cavern , Polar Biome Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Joltik",
+            "to": "Galvantula",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

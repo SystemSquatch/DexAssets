@@ -1,0 +1,79 @@
+{
+    "name": "Bouffalant",
+    "pokedex_number": "#0626",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Reckless",
+        "Sap Sipper",
+        "Soundproof"
+    ],
+    "stats": {
+        "HP": 95,
+        "Attack": 110,
+        "Defense": 95,
+        "Sp. Atk": 40,
+        "Sp. Def": 95,
+        "Speed": 55,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
+            "White": "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.",
+            "Black 2": "They are known to charge so wildly that if a train were to enter their territory, they would send it flying.",
+            "White 2": "They are known to charge so wildly that if a train were to enter their territory, they would send it flying."
+        },
+        "Generation VI": {
+            "X": "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.",
+            "Y": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
+            "Omega Ruby": "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.",
+            "Alpha Sapphire": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "These Pokémon can crush a car with no more than a headbutt. Bouffalant with more hair on their heads hold higher positions within the herd.",
+            "Shield": "These Pokémon live in herds of about 20 individuals. Bouffalant that betray the herd will lose the hair on their heads for some reason."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 10",
+            "White": "Route 10",
+            "Black 2": "Route 23 Route 9 ( Hidden Grotto )",
+            "White 2": "Route 23 Route 9 ( Hidden Grotto )"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Route 113 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 113 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Soothing Wetlands Soothing Wetlands ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

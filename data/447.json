@@ -1,0 +1,120 @@
+{
+    "name": "Riolu",
+    "pokedex_number": "#0447",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Steadfast",
+        "Inner Focus",
+        "Prankster"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 70,
+        "Defense": 40,
+        "Sp. Atk": 35,
+        "Sp. Def": 40,
+        "Speed": 60,
+        "Total": 285
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
+            "Pearl": "Its body is lithe yet powerful. It can crest three mountains and cross two canyons in one night.",
+            "Platinum": "It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.",
+            "HeartGold": "They communicate with one another using their auras. They are able to run all through the night.",
+            "SoulSilver": "They communicate with one another using their auras. They are able to run all through the night."
+        },
+        "Generation V": {
+            "Black": "It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.",
+            "White": "It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.",
+            "Black 2": "It uses the shapes of auras, which change according to emotion, to communicate with others.",
+            "White 2": "It uses the shapes of auras, which change according to emotion, to communicate with others."
+        },
+        "Generation VI": {
+            "X": "It uses the shapes of auras, which change according to emotion, to communicate with others.",
+            "Y": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
+            "Omega Ruby": "It uses the shapes of auras, which change according to emotion, to communicate with others.",
+            "Alpha Sapphire": "The aura that emanates from its body intensifies to alert others if it is afraid or sad."
+        },
+        "Generation VII": {
+            "Sun": "It can discern the physical and emotional states of people, Pokémon, and other natural things from the shape of their aura waves.",
+            "Moon": "It's tough enough to run right through the night, and it's also a hard worker, but it's still just a youngster.",
+            "Ultra Sun": "It knows how people and Pokémon feel by looking at their auras. It doesn't approach dangerous opponents.",
+            "Ultra Moon": "It uses waves called auras to communicate with others of its kind. It doesn't make any noise during this time, so its enemies can't detect it."
+        },
+        "Generation VIII": {
+            "Sword": "It's exceedingly energetic, with enough stamina to keep running all through the night. Taking it for walks can be a challenging experience.",
+            "Shield": "It can use waves called auras to gauge how others are feeling. These same waves can also tell this Pokémon about the state of the environment.",
+            "Brilliant Diamond": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
+            "Shining Pearl": "Its body is lithe yet powerful. It can crest three mountains and cross two canyons in one night.",
+            "Legends: Arceus": "Though infantile in appearance, it has the mysterious ability to read the minds of humans. The pure of heart are met with Riolu's approval, while those of ill nature earn only its loathing."
+        },
+        "Generation IX": {
+            "Scarlet": "They communicate with one another using their auras. They are able to run all through the night.",
+            "Violet": "It has the peculiar power of being able to see emotions, such as joy and rage, in the form of waves."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Hatch Egg received from Riley in Iron Island",
+            "Pearl": "Hatch Egg received from Riley in Iron Island",
+            "Platinum": "Hatch Egg received from Riley in Iron Island",
+            "HeartGold": "Safari Zone (tall grass in Meadow with 42 Peak points and 28 Forest points)",
+            "SoulSilver": "Safari Zone (tall grass in Meadow with 42 Peak points and 28 Forest points)"
+        },
+        "Generation V": {
+            "Black": "Challenger's Cave",
+            "White": "Challenger's Cave",
+            "Black 2": "Floccesy Ranch Transfer from Dream Radar",
+            "White 2": "Floccesy Ranch Transfer from Dream Radar",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Route 22 , Friend Safari ( Fighting )",
+            "Y": "Route 22 , Friend Safari ( Fighting )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Poni Grove",
+            "Moon": "Poni Grove",
+            "Ultra Sun": "Poni Grove Day",
+            "Ultra Moon": "Poni Grove Day",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Giant's Cap Dusty Bowl , Giant's Seat , Hammerlocke Hills , North Lake Miloch , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Giant's Cap Dusty Bowl , Giant's Seat , Hammerlocke Hills , North Lake Miloch , Rolling Fields ( Max Raid Battle )",
+            "Expansion Pass": "Roaring-Sea Caves",
+            "Brilliant Diamond": "Hatch Egg received from Riley in Iron Island",
+            "Shining Pearl": "Hatch Egg received from Riley in Iron Island",
+            "Legends: Arceus": "Cobalt Coastlands : massive mass outbreaks Alabaster Icelands : Icebound Falls , Snowfall Hot Spring , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Two , Area Four North Province: Area One Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area Two , Area Four North Province: Area One Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Riolu",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Riolu",
+            "to": "Lucario",
+            "method": [
+                "Level up (during the day, with high friendship)"
+            ]
+        }
+    ]
+}

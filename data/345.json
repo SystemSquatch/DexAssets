@@ -1,0 +1,130 @@
+{
+    "name": "Lileep",
+    "pokedex_number": "#0345",
+    "types": [
+        "Rock",
+        "Grass"
+    ],
+    "abilities": [
+        "Suction Cups",
+        "Storm Drain"
+    ],
+    "stats": {
+        "HP": 66,
+        "Attack": 41,
+        "Defense": 77,
+        "Sp. Atk": 61,
+        "Sp. Def": 87,
+        "Speed": 23,
+        "Total": 355
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Lileep became extinct approximately a hundred million years ago. This ancient Pok é mon attaches itself to a rock on the seafloor and catches approaching prey using tentacles shaped like flower petals.",
+            "Sapphire": "Lileep is an ancient Pok é mon that was regenerated from a fossil. It remains permanently anchored to a rock. From its immobile perch, this Pok é mon intently scans for prey with its two eyes.",
+            "Emerald": "It disguises itself as seaweed by making its tentacles sway. Unsuspecting prey that come too close are swallowed whole. It became extinct 100 million years ago.",
+            "FireRed": "It became extinct roughly 100 million years ago. It was regenerated from a fossil using advanced techniques.",
+            "LeafGreen": "It became extinct roughly 100 million years ago. It was regenerated from a fossil using advanced techniques."
+        },
+        "Generation IV": {
+            "Diamond": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
+            "Pearl": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
+            "Platinum": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
+            "HeartGold": "It disguises its tentacles as flowers to attract and catch prey. It became extinct in ancient times.",
+            "SoulSilver": "It disguises its tentacles as flowers to attract and catch prey. It became extinct in ancient times."
+        },
+        "Generation V": {
+            "Black": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
+            "White": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
+            "Black 2": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
+            "White 2": "It lived on the seafloor 100 million years ago and was reanimated scientifically."
+        },
+        "Generation VI": {
+            "X": "It disguises its tentacles as flowers to attract and catch prey. It became extinct in ancient times.",
+            "Y": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
+            "Omega Ruby": "Lileep became extinct approximately a hundred million years ago. This ancient Pokémon attaches itself to a rock on the seafloor and catches approaching prey using tentacles shaped like flower petals.",
+            "Alpha Sapphire": "Lileep is an ancient Pokémon that was regenerated from a fossil. It remains permanently anchored to a rock. From its immobile perch, this Pokémon intently scans for prey with its two eyes."
+        },
+        "Generation VII": {
+            "Ultra Sun": "In ancient times, it lived in warm seas. It disguised itself as seaweed to ambush its prey and devoured them whole when they got close.",
+            "Ultra Moon": "It sticks to rocks with its powerful suckers and can't be washed away no matter how rough the surf gets."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon was restored from a fossil. Lileep once lived in warm seas that existed approximately 100,000,000 years ago.",
+            "Shield": "Lileep clings to rocks on the seabed. When prey comes close, this Pokémon entangles it with petallike tentacles.",
+            "Brilliant Diamond": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
+            "Shining Pearl": "It lived on the seafloor 100 million years ago and was reanimated scientifically."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Revive from Root Fossil at the Devon Corporation in Rustboro City",
+            "Sapphire": "Revive from Root Fossil at the Devon Corporation in Rustboro City",
+            "Emerald": "Revive from Root Fossil at the Devon Corporation in Rustboro City",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Revive from Root Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "Pearl": "Revive from Root Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "Platinum": "Revive from Root Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "HeartGold": "Trade Receive Root Fossil held by a traded Pokémon and revive it",
+            "SoulSilver": "Revive from Root Fossil at the Pewter Museum of Science in Pewter City",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Revive from Root Fossil at the Nacrene Museum",
+            "White": "Revive from Root Fossil at the Nacrene Museum",
+            "Black 2": "Revive from Root Fossil at the Nacrene Museum",
+            "White 2": "Revive from Root Fossil at the Nacrene Museum",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Revive from Root Fossil at the Ambrette Town Fossil Lab",
+            "Y": "Trade Receive Root Fossil held by a traded Pokémon and revive it",
+            "Omega Ruby": "Revive from Root Fossil at the Devon Corporation in Rustboro City",
+            "Alpha Sapphire": "Revive from Root Fossil at the Devon Corporation in Rustboro City"
+        },
+        "Generation VII": {
+            "Sun": "Trade Receive Root Fossil held by a traded Pokémon and revive it",
+            "Moon": "Trade Receive Root Fossil held by a traded Pokémon and revive it",
+            "Ultra Sun": "Revive from Root Fossil at the Fossil Restoration Center on Route 8",
+            "Ultra Moon": "Revive from Root Fossil at the Fossil Restoration Center on Route 8",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Giant's Bed , Giant's Foot ( Fishing ) Slippery Slope , Snowslide Slope Sh , Crown Shrine , Giant's Foot , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Revive from Root Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "Shining Pearl": "Revive from Root Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Lileep",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Lileep",
+            "to": "Cradily",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

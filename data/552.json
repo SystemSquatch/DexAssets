@@ -1,0 +1,103 @@
+{
+    "name": "Krokorok",
+    "pokedex_number": "#0552",
+    "types": [
+        "Ground",
+        "Dark"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Moxie",
+        "Anger Point"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 82,
+        "Defense": 45,
+        "Sp. Atk": 45,
+        "Sp. Def": 45,
+        "Speed": 74,
+        "Total": 351
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
+            "White": "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings even in darkness.",
+            "Black 2": "Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals.",
+            "White 2": "Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals."
+        },
+        "Generation VI": {
+            "X": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
+            "Y": "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings even in darkness.",
+            "Omega Ruby": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
+            "Alpha Sapphire": "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings even in darkness."
+        },
+        "Generation VII": {
+            "Sun": "They move in groups of a few individuals. A female is often the leader of the group, and the males will gather food.",
+            "Moon": "Thanks to the special membrane covering its eyes, it can see its surroundings clearly, even in the middle of the night.",
+            "Ultra Sun": "Krokorok really hates it when its body gets cold. On nights when the temperature drops, it digs deep into the desert sands.",
+            "Ultra Moon": "It buries some of its prey in the sand to use as emergency meals when its hunts are unsuccessful."
+        },
+        "Generation VIII": {
+            "Sword": "Krokorok has specialized eyes that enable it to see in the dark. This ability lets Krokorok hunt in the dead of night without getting lost.",
+            "Shield": "Although this Pokémon has specialized eyes that allow it to see in the dark, Krokorok won't move much at night—the desert gets cold after sunset."
+        },
+        "Generation IX": {
+            "Scarlet": "Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals.",
+            "Violet": "Thanks to the special membrane covering its eyes, it can see its surroundings clearly, even in the middle of the night."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Relic Castle",
+            "White": "Relic Castle",
+            "Black 2": "Relic Castle",
+            "White 2": "Relic Castle"
+        },
+        "Generation VI": {
+            "X": "Evolve Sandile",
+            "Y": "Evolve Sandile",
+            "Omega Ruby": "Evolve Sandile",
+            "Alpha Sapphire": "Evolve Sandile"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Sandile",
+            "Moon": "Evolve Sandile",
+            "Ultra Sun": "Haina Desert",
+            "Ultra Moon": "Haina Desert",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Potbottom Desert ( Wanderer )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 4★ )",
+            "Violet": "Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Sandile",
+            "to": "Krokorok",
+            "method": [
+                "Level 29"
+            ]
+        },
+        {
+            "from": "Krokorok",
+            "to": "Krookodile",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

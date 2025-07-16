@@ -1,0 +1,79 @@
+{
+    "name": "Meowstic",
+    "pokedex_number": "#0678",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Infiltrator",
+        "Prankster",
+        "Competitive"
+    ],
+    "stats": {
+        "HP": 74,
+        "Attack": 48,
+        "Defense": 76,
+        "Sp. Atk": 83,
+        "Sp. Def": 81,
+        "Speed": 104,
+        "Total": 466
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck into dust.",
+            "Y": "The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.",
+            "Omega Ruby": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck into dust.",
+            "Alpha Sapphire": "The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Females are a bit more selfish and aggressive than males. If they don't get what they want, they will torment you with their psychic abilities.",
+            "Shield": "If it doesn't hold back when it unleashes its psychic power, it can tear apart a tanker. Its unfriendliness is part of its charm."
+        },
+        "Generation IX": {
+            "Scarlet": "Female Meowstic are more aggressive than males. Their expression remains blank even while they're wielding immense psychic power.",
+            "Violet": "When they sense danger, they exert their psychic power at its maximum output. They have no regard for their opponents."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Evolve Espurr",
+            "Y": "Evolve Espurr",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 7 , Dusty Bowl ( Male ) Watchtower Ruins , Stony Wilderness ( Max Raid Battle ) ( Male ) Evolve Espurr ♀ ( Female )",
+            "Shield": "Route 7 , Dusty Bowl ( Female ) Watchtower Ruins , Stony Wilderness ( Max Raid Battle ) ( Female ) Evolve Espurr ♂ ( Male )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Canyon Biome Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Espurr",
+            "to": "Meowstic",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

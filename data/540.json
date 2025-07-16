@@ -1,0 +1,94 @@
+{
+    "name": "Sewaddle",
+    "pokedex_number": "#0540",
+    "types": [
+        "Bug",
+        "Grass"
+    ],
+    "abilities": [
+        "Swarm",
+        "Chlorophyll",
+        "Overcoat"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 53,
+        "Defense": 70,
+        "Sp. Atk": 40,
+        "Sp. Def": 60,
+        "Speed": 42,
+        "Total": 310
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Leavanny dress it in clothes they made for it when it hatched. It hides its head in its hood while it is sleeping.",
+            "White": "This Pokémon makes clothes for itself. It chews up leaves and sews them with sticky thread extruded from its mouth.",
+            "Black 2": "Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers.",
+            "White 2": "Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers."
+        },
+        "Generation VI": {
+            "X": "This Pokémon makes clothes for itself. It chews up leaves and sews them with sticky thread extruded from its mouth.",
+            "Y": "Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers.",
+            "Omega Ruby": "This Pokémon makes clothes for itself. It chews up leaves and sews them with sticky thread extruded from its mouth.",
+            "Alpha Sapphire": "Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "Sewaddle chews on leaves to make its clothing. It's trying to mimic the leafy garment Leavanny first dressed it in.",
+            "Violet": "The bumps on their heads are sensory organs. When Sewaddle meet, they greet each other by rubbing these bumps together."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Pinwheel Forest (inner)",
+            "White": "Pinwheel Forest (inner)",
+            "Black 2": "Routes 12 and 20",
+            "White 2": "Routes 12 and 20"
+        },
+        "Generation VI": {
+            "X": "Breed Swadloon or Leavanny",
+            "Y": "Breed Swadloon or Leavanny",
+            "Omega Ruby": "Routes 101 and 104 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Routes 101 and 104 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Breed Leavanny",
+            "Moon": "Breed Leavanny",
+            "Ultra Sun": "Breed Leavanny",
+            "Ultra Moon": "Breed Leavanny",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Apple Hills , Loyalty Plaza , Mossfell Confluence , Wistful Fields Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Sewaddle",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Sewaddle",
+            "to": "Swadloon",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

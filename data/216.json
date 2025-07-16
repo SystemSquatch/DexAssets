@@ -1,0 +1,140 @@
+{
+    "name": "Teddiursa",
+    "pokedex_number": "#0216",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Pickup",
+        "Quick Feet",
+        "Honey Gather"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 50,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 40,
+        "Total": 330
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey.",
+            "Silver": "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations.",
+            "Crystal": "It always licks honey. Its palm tastes sweet because of all the honey it has absorbed.",
+            "Stadium 2": "If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey. (Pokémon Red, Silver, or Crystal inserted) Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "This Pok é mon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill .",
+            "Sapphire": "This Pok é mon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill .",
+            "Emerald": "It licks its palms that are sweetened by being soaked in honey. A Teddiursa makes its own honey by blending fruits and pollen collected by Beedrill .",
+            "FireRed": "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations.",
+            "LeafGreen": "If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey."
+        },
+        "Generation IV": {
+            "Diamond": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
+            "Pearl": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
+            "Platinum": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
+            "HeartGold": "If it finds honey, its crescent mark glows. It always licks its paws because they're soaked with honey.",
+            "SoulSilver": "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations."
+        },
+        "Generation V": {
+            "Black": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
+            "White": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
+            "Black 2": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
+            "White 2": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique."
+        },
+        "Generation VI": {
+            "X": "If it finds honey, its crescent mark glows. It always licks its paws because they're soaked with honey.",
+            "Y": "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations.",
+            "Omega Ruby": "This Pokémon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill .",
+            "Alpha Sapphire": "This Pokémon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill ."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
+            "Shining Pearl": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
+            "Legends: Arceus": "It licks its paws because of the sweet honey that has soaked into them. It is cunning, stealing into the nests of Combee and taking for itself the honey that the Combee have amassed."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon discreetly follows Combee to find their hive. It scoops up big dollops of honey in its palms to eat.",
+            "Violet": "Its paws are soaked in oodles of honey. When nervous, Teddiursa will lick its paws and soon have a smile back on its face."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Route 45 *",
+            "Silver": "Trade , Event",
+            "Crystal": "Dark Cave Morning"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Safari Zone extension",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Pokémon HQ Lab (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Route 211 , Acuity Lakefront (Emerald)",
+            "Pearl": "Route 211 , Acuity Lakefront (Emerald)",
+            "Platinum": "Lake Acuity (Emerald)",
+            "HeartGold": "Trade",
+            "SoulSilver": "Route 45 , Mt. Silver Cave",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Trade with Yancy in Nimbasa City (male player character only)",
+            "White 2": "Trade with Yancy in Nimbasa City (male player character only)",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Normal ), Breed Ursaring",
+            "Y": "Friend Safari ( Normal ), Breed Ursaring",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Grand Underground - Grassland Cave * , Spacious Cave * , Rocky Cave , Sunlit Cavern , Whiteout Cave , Glacial Cavern , Icy Cave *",
+            "Legends: Arceus": "Crimson Mirelands : near Golden Lowlands ( mass outbreaks ), Ursa's Ring , near Droning Meadow , massive mass outbreaks Coronet Highlands : Sonorous Path"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Area One North Province: Area One , Area Two , Glaseado Mountain Tera Raid Battles ( 2★ )",
+            "Violet": "East Province: Area One North Province: Area One , Area Two , Glaseado Mountain Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Teddiursa",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Teddiursa",
+            "to": "Ursaring",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "name": "Ninetales",
+    "pokedex_number": "#0038",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Flash Fire",
+        "Snow Cloak",
+        "Drought",
+        "Snow Warning"
+    ],
+    "stats": {
+        "HP": 73,
+        "Attack": 76,
+        "Defense": 75,
+        "Sp. Atk": 81,
+        "Sp. Def": 100,
+        "Speed": 100,
+        "Total": 505
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
+            "Yellow": "According to an enduring legend, 9 noble saints were united and reincarnated as this Pok é mon .",
+            "Stadium": "It is extremely vindictive. It is said to lay a 1,000-year long curse if its tail is pulled as a joke."
+        },
+        "Generation II": {
+            "Gold": "Some legends claim that each of its nine tails has its own unique type of special mystical power.",
+            "Silver": "Its nine beautiful tails are filled with a wondrous energy that could keep it alive for 1,000 years.",
+            "Crystal": "It is said to live a thousand years, and each of its tails is loaded with supernatural powers.",
+            "Stadium 2": "Some legends claim that each of its nine tails has its own unique type of special mystical power. (Pokémon Red, Silver, or Crystal inserted) Its nine beautiful tails are filled with a wondrous energy that could keep it alive for 1,000 years. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Ninetales casts a sinister light from its bright red eyes to gain total control over its foe's mind. This Pok é mon is said to live for a thousand years.",
+            "Sapphire": "Legend has it that Ninetales came into being when nine wizards possessing sacred powers merged into one. This Pok é mon is highly intelligent -it can understand human speech.",
+            "Emerald": "It has long been said that each of the nine tails embody an enchanted power. A long-lived Ninetales will have fur that shines like gold.",
+            "FireRed": "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
+            "LeafGreen": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse."
+        },
+        "Generation IV": {
+            "Diamond": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
+            "Pearl": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
+            "Platinum": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
+            "HeartGold": "Some legends claim that each of its nine tails has its own unique type of special mystical power.",
+            "SoulSilver": "Its nine beautiful tails are filled with a wondrous energy that could keep it alive for 1,000 years."
+        },
+        "Generation V": {
+            "Black": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
+            "White": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
+            "Black 2": "Each of its nine tails is imbued with supernatural power, and it can live for a thousand years.",
+            "White 2": "Each of its nine tails is imbued with supernatural power, and it can live for a thousand years."
+        },
+        "Generation VI": {
+            "X": "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
+            "Y": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
+            "Omega Ruby": "Ninetales casts a sinister light from its bright red eyes to gain total control over its foe's mind. This Pokémon is said to live for a thousand years.",
+            "Alpha Sapphire": "Legend has it that Ninetales came into being when nine wizards possessing sacred powers merged into one. This Pokémon is highly intelligent—it can understand human speech."
+        },
+        "Generation VII": {
+            "Sun": "It creates drops of ice in its coat and showers them over its enemies. Anyone who angers it will be frozen stiff in an instant.",
+            "Moon": "Possessing a calm demeanor, this Pokémon was revered as a deity incarnate before it was identified as a regional variant of Ninetales.",
+            "Ultra Sun": "The reason it guides people all the way down to the mountain's base is that it wants them to hurry up and leave.",
+            "Ultra Moon": "Some said that deities visited mountains where Ninetales live, so in times long past, no one was allowed to go into those mountains.",
+            "Let's Go Pikachu": "It lives on mountains perpetually covered in snow and is revered as a deity incarnate. It appears draped in a blizzard.",
+            "Let's Go Eevee": "It lives on mountains perpetually covered in snow and is revered as a deity incarnate. It appears draped in a blizzard."
+        },
+        "Generation VIII": {
+            "Sword": "A deity resides in the snowy mountains where this Pokémon lives. In ancient times, it was worshiped as that deity's incarnation.",
+            "Shield": "While it will guide travelers who get lost on a snowy mountain down to the mountain's base, it won't forgive anyone who harms nature.",
+            "Brilliant Diamond": "Its nine tails are said to be imbued with a mystic power. The Pokémon is said to live for 1,000 years.",
+            "Shining Pearl": "Its nine tails are said to be imbued with a mystic power. The Pokémon is said to live for 1,000 years.",
+            "Legends: Arceus": "Dwells on sacred peaks perpetually covered in snow. Said to appear to virtuous people who have lost their way on mountain paths—it then guides them back down to the mountain's base."
+        },
+        "Generation IX": {
+            "Scarlet": "Possessing a calm demeanor, this Pokémon was revered as a deity incarnate before it was identified as a regional variant of Ninetales.",
+            "Violet": "It creates drops of ice in its coat and showers them over its enemies. Anyone who angers it will be frozen stiff in an instant."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Trade",
+            "Blue": "Evolve Vulpix",
+            "Blue (Japan)": "Trade",
+            "Yellow": "Evolve Vulpix"
+        },
+        "Generation II": {
+            "Gold": "Trade",
+            "Silver": "Evolve Vulpix",
+            "Crystal": "Trade"
+        },
+        "Generation III": {
+            "Ruby": "Evolve Vulpix",
+            "Sapphire": "Evolve Vulpix",
+            "Emerald": "Evolve Vulpix",
+            "FireRed": "Trade",
+            "LeafGreen": "Evolve Vulpix",
+            "Colosseum": "Trade",
+            "XD": "Evolve Vulpix"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Vulpix",
+            "Pearl": "Evolve Vulpix",
+            "Platinum": "Evolve Vulpix",
+            "HeartGold": "Trade",
+            "SoulSilver": "Evolve Vulpix",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Abundant Shrine ( rustling grass )",
+            "White": "Abundant Shrine ( rustling grass )",
+            "Black 2": "Abundant Shrine ( rustling grass )",
+            "White 2": "Abundant Shrine ( rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Fire )",
+            "Y": "Friend Safari ( Fire )",
+            "Omega Ruby": "Evolve Vulpix",
+            "Alpha Sapphire": "Evolve Vulpix"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Vulpix ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Moon": "Trade , Pokémon Bank",
+            "Ultra Sun": "Evolve Vulpix ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Moon": "Trade , Pokémon Bank",
+            "Let's Go Pikachu": "Trade",
+            "Let's Go Eevee": "Routes 7 and 8 ( Kantonian Form ) Evolve Vulpix ( Alolan Form )"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage ( Kantonian Form ) Dusty Bowl , Giant's Cap , Hammerlocke Hills , Lake of Outrage , Stony Wilderness ( Max Raid Battle ) ( Kantonian Form ) Trade ( Alolan Form )",
+            "Shield": "Giant's Cap ( Max Raid Battle ) ( Kantonian Form ) Trade ( Alolan Form )",
+            "Sword Expansion Pass": "Fields of Honor , Challenge Beach , Loop Lagoon , Potbottom Desert , Snowslide Slope , Giant's Bed , Ballimere Lake ( Max Raid Battle ) ( Kantonian Form ) Evolve Vulpix ( Alolan Form )",
+            "Brilliant Diamond": "Trade ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Shining Pearl": "Evolve Vulpix ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Legends: Arceus": "Cobalt Coastlands : Firespit Island , massive mass outbreaks ( Kantonian Form ) Alabaster Icelands : massive mass outbreaks ( Kantonian Form ) Evolve Alolan Vulpix ( Alolan Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Tera Raid Battles ( 5★ , 6★ ) ( Kantonian Form ) Tera Raid Battles ( 6★ ) ( Alolan Form )",
+            "The Hidden Treasure of Area Zero (Violet)": "Tera Raid Battles ( 5★ , 6★ ) ( Kantonian Form ) Tera Raid Battle Search ( 6★ ) ( Alolan Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Vulpix",
+            "to": "Ninetales",
+            "method": [
+                "Use Fire Stone",
+                "Use Ice Stone"
+            ]
+        }
+    ]
+}

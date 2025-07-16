@@ -1,0 +1,130 @@
+{
+    "name": "Nuzleaf",
+    "pokedex_number": "#0274",
+    "types": [
+        "Grass",
+        "Dark"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Early Bird",
+        "Pickpocket"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 70,
+        "Defense": 40,
+        "Sp. Atk": 60,
+        "Sp. Def": 40,
+        "Speed": 60,
+        "Total": 340
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Nuzleaf live in densely overgrown forests. They occasionally venture out of the forest to startle people. This Pok é mon dislikes having its long nose pinched.",
+            "Sapphire": "This Pok é mon pulls out the leaf on its head and makes a flute with it. The sound of Nuzleaf 's flute strikes fear and uncertainty in the hearts of people lost in a forest.",
+            "Emerald": "A forest-dwelling Pok é mon that is skilled at climbing trees. Its long and pointed nose is its weak point. It loses power if the nose is gripped.",
+            "FireRed": "They live in holes bored in large trees. The sound of Nuzleaf 's grass flute fills listeners with dread.",
+            "LeafGreen": "They live in holes bored in large trees. The sound of Nuzleaf 's grass flute fills listeners with dread."
+        },
+        "Generation IV": {
+            "Diamond": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
+            "Pearl": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
+            "Platinum": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
+            "HeartGold": "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.",
+            "SoulSilver": "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy."
+        },
+        "Generation V": {
+            "Black": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
+            "White": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
+            "Black 2": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
+            "White 2": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests."
+        },
+        "Generation VI": {
+            "X": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
+            "Y": "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.",
+            "Omega Ruby": "Nuzleaf live in densely overgrown forests. They occasionally venture out of the forest to startle people. This Pokémon dislikes having its long nose pinched.",
+            "Alpha Sapphire": "This Pokémon pulls out the leaf on its head and makes a flute with it. The sound of Nuzleaf's flute strikes fear and uncertainty in the hearts of people lost in a forest."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.",
+            "Shield": "They live in holes bored in large trees. The sound of Nuzleaf's grass flute fills listeners with dread.",
+            "Brilliant Diamond": "The sound of its grass flute makes its listeners uneasy. It lives deep in the forest.",
+            "Shining Pearl": "The sound of its grass flute makes its listeners uneasy. It lives deep in the forest."
+        },
+        "Generation IX": {
+            "Scarlet": "It leads a quiet life deep in the forest. If anything wanders into its territory, Nuzleaf will warn the intruder by sounding its grass flute.",
+            "Violet": "Its sensory functions are concentrated in its pointed nose, which it uses to sense its surroundings. The nose is also its weak point."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 114",
+            "Sapphire": "Route 114 ( Swarm ; after mixing records with Emerald)",
+            "Emerald": "Route 114",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Evolve Seedot"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 210 , 229 (Ruby)",
+            "Pearl": "Routes 210 , 229 (Ruby)",
+            "Platinum": "Routes 210 , 229 (Ruby)",
+            "HeartGold": "Safari Zone (tall grass in Meadow with 28 Forest points, and with 35 Forest points)",
+            "SoulSilver": "Safari Zone (tall grass in Meadow with 28 Forest points, and with 35 Forest points)",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Seedot",
+            "Black 2": "Nature Preserve",
+            "White 2": "Nature Preserve"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Dark )",
+            "Y": "Friend Safari ( Dark )",
+            "Omega Ruby": "Route 114",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Rocky World )",
+            "Ultra Moon": "Ultra Space Wilds ( Rocky World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 5 , South Lake Miloch , Dappled Grove , Giant's Cap , Giant's Seat , Rolling Fields Bridge Field , Dappled Grove , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Brilliant Diamond": "Grand Underground - Grassland Cave , Riverbank Cave , Sunlit Cavern , Still-Water Cavern",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Reveler's Road , Mossfell Confluence , Fellhorn Gorge , Oni Mountain , Paradise Barrens , Kitakami Wilds , Timeless Woods Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Seedot",
+            "to": "Nuzleaf",
+            "method": [
+                "Level 14"
+            ]
+        },
+        {
+            "from": "Nuzleaf",
+            "to": "Shiftry",
+            "method": [
+                "Use Leaf Stone"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "name": "Chespin",
+    "pokedex_number": "#0650",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Bulletproof"
+    ],
+    "stats": {
+        "HP": 56,
+        "Attack": 61,
+        "Defense": 65,
+        "Sp. Atk": 48,
+        "Sp. Def": 45,
+        "Speed": 38,
+        "Total": 313
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
+            "Y": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn't faze it.",
+            "Omega Ruby": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
+            "Alpha Sapphire": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn't faze it."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "When Chespin tenses up just before landing a headbutt, the spikes on its head sharpen to points, piercing the enemy’s body on contact.",
+            "Violet": "Eating lots of berries makes the bark shell that covers Chespin’s head and body grow sturdier."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "First partner Pokémon from Tierno in Aquacorde Town Traded from Shauna in Vaniville Town after becoming Champion if the player chose Fennekin",
+            "Y": "First partner Pokémon from Tierno in Aquacorde Town Traded from Shauna in Vaniville Town after becoming Champion if the player chose Fennekin",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Chesnaught",
+            "Ultra Moon": "Breed Chesnaught",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Chargestone Cavern (after boosting biodiversity in the Canyon Biome)"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Chespin",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Chespin",
+            "to": "Quilladin",
+            "method": [
+                "Level 16"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "name": "Braviary",
+    "pokedex_number": "#0628",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Sheer Force",
+        "Defiant",
+        "Tinted Lens"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 123,
+        "Defense": 75,
+        "Sp. Atk": 57,
+        "Sp. Def": 75,
+        "Speed": 80,
+        "Total": 510
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
+            "White": "The more scars they have, the more respect these brave soldiers of the sky get from their peers.",
+            "Black 2": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
+            "White 2": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured."
+        },
+        "Generation VI": {
+            "X": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
+            "Y": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
+            "Omega Ruby": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
+            "Alpha Sapphire": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying."
+        },
+        "Generation VII": {
+            "Sun": "With its brave disposition, it fears nothing—not even death. Ancient Alolan people respected it, referring to it as \"the hero of the sky.\"",
+            "Moon": "It's thought that people disturbed their habitats in the past, so Braviary banded together to fight back.",
+            "Ultra Sun": "The more scars it has on its front, the more heroic it's considered to be. Those with many scars on their back are mocked by the flock.",
+            "Ultra Moon": "Known as “the hero of the skies,” this Pokémon is so proud and so brave that it will never retreat, even when it's injured."
+        },
+        "Generation VIII": {
+            "Sword": "Known for its bravery and pride, this majestic Pokémon is often seen as a motif for various kinds of emblems.",
+            "Shield": "Because this Pokémon is hotheaded and belligerent, it's Corviknight that's taken the role of transportation in Galar.",
+            "Legends: Arceus": "Screaming a bloodcurdling battle cry, this huge and ferocious bird Pokémon goes out on the hunt. It blasts lakes with shock waves, then scoops up any prey that float to the water's surface."
+        },
+        "Generation IX": {
+            "Scarlet": "The more scars they have, the more respect these brave soldiers of the sky get from their peers.",
+            "Violet": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Route 11 , Village Bridge ( dark grass )",
+            "Black 2": "Trade",
+            "White 2": "Route 4 * Mo"
+        },
+        "Generation VI": {
+            "X": "Evolve Rufflet",
+            "Y": "Evolve Rufflet",
+            "Omega Ruby": "Soaring in the sky",
+            "Alpha Sapphire": "Soaring in the sky"
+        },
+        "Generation VII": {
+            "Sun": "Poni Plains",
+            "Moon": "Trade",
+            "Ultra Sun": "Poni Plains",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Dusty Bowl , Lake of Outrage Bridge Field , East Lake Axewell , Motostoke Riverbank , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Sword Expansion Pass": "Challenge Road ( Wanderer ) Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Alabaster Icelands : near Lake Acuity Flying (also mass outbreaks ), massive mass outbreaks ( Hisuian Form ) Unobtainable ( Unovan Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Asado Desert ( Unovan Form ) North Province: Area One ( Unovan Form ) Tera Raid Battles ( 5★ ) ( Unovan Form ) Evolve Rufflet in Pokémon Legends: Arceus via Pokémon HOME ( Hisuian Form )",
+            "Violet": "West Province: Asado Desert ( Unovan Form ) North Province: Area One ( Unovan Form ) Tera Raid Battles ( 5★ ) ( Unovan Form ) Evolve Rufflet in Pokémon Legends: Arceus via Pokémon HOME ( Hisuian Form )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome ( Unovan Form ) Evolve Rufflet in Pokémon Legends: Arceus via Pokémon HOME ( Hisuian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Rufflet",
+            "to": "Braviary",
+            "method": [
+                "Level 54"
+            ]
+        }
+    ]
+}

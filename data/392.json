@@ -1,0 +1,104 @@
+{
+    "name": "Infernape",
+    "pokedex_number": "#0392",
+    "types": [
+        "Fire",
+        "Fighting"
+    ],
+    "abilities": [
+        "Blaze",
+        "Iron Fist"
+    ],
+    "stats": {
+        "HP": 76,
+        "Attack": 104,
+        "Defense": 71,
+        "Sp. Atk": 104,
+        "Sp. Def": 71,
+        "Speed": 108,
+        "Total": 534
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It uses a special kind of martial arts involving all its limbs. Its fire never goes out.",
+            "Pearl": "Its crown of fire is indicative of its fiery nature. It is beaten by none in terms of quickness.",
+            "Platinum": "It uses unique fighting moves with fire on its hands and feet. It will take on any opponent.",
+            "HeartGold": "It tosses its enemies around with agility. It uses all its limbs to fight in its own unique style.",
+            "SoulSilver": "It tosses its enemies around with agility. It uses all its limbs to fight in its own unique style."
+        },
+        "Generation V": {
+            "Black": "It uses unique fighting moves with fire on its hands and feet. It will take on any opponent.",
+            "White": "It uses unique fighting moves with fire on its hands and feet. It will take on any opponent.",
+            "Black 2": "It uses unique fighting moves with fire on its hands and feet. It will take on any opponent.",
+            "White 2": "It uses unique fighting moves with fire on its hands and feet. It will take on any opponent."
+        },
+        "Generation VI": {
+            "X": "Its crown of fire is indicative of its fiery nature. It is beaten by none in terms of quickness.",
+            "Y": "It tosses its enemies around with agility. It uses all its limbs to fight in its own unique style.",
+            "Omega Ruby": "Its crown of fire is indicative of its fiery nature. It is beaten by none in terms of quickness.",
+            "Alpha Sapphire": "It tosses its enemies around with agility. It uses all its limbs to fight in its own unique style."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It uses a special kind of martial arts involving all its limbs. Its fire never goes out.",
+            "Shining Pearl": "Its crown of fire is indicative of its fiery nature. It is beaten by none in terms of quickness.",
+            "Legends: Arceus": "A tall, hardy Pokémon with a dazzling appearance. It shrouds itself in flame and battles as if engaged in dance—truly a sight to behold."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon confounds opponents with its speed. It uses all its limbs to fight in its own unique style.",
+            "Violet": "It uses unique fighting moves with fire on its hands and feet. It will take on any opponent."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Monferno",
+            "Pearl": "Evolve Monferno",
+            "Platinum": "Evolve Monferno",
+            "HeartGold": "Trade",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Evolve from the Global Link event Chimchar",
+            "White": "Evolve from the Global Link event Chimchar",
+            "Black 2": "Evolve from the Global Link event Chimchar",
+            "White 2": "Evolve from the Global Link event Chimchar"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Monferno",
+            "Alpha Sapphire": "Evolve Monferno"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Monferno",
+            "Ultra Moon": "Evolve Monferno",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Monferno",
+            "Shining Pearl": "Evolve Monferno",
+            "Legends: Arceus": "Obsidian Fieldlands : Ramanas Island , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Evolve Monferno"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Monferno",
+            "to": "Infernape",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

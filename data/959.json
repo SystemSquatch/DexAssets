@@ -1,0 +1,45 @@
+{
+    "name": "Tinkaton",
+    "pokedex_number": "#0959",
+    "types": [
+        "Fairy",
+        "Steel"
+    ],
+    "abilities": [
+        "Mold Breaker",
+        "Own Tempo",
+        "Pickpocket"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 75,
+        "Defense": 77,
+        "Sp. Atk": 70,
+        "Sp. Def": 105,
+        "Speed": 94,
+        "Total": 506
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying Corviknight .",
+            "Violet": "The hammer tops 220 pounds , yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Tinkatuff",
+            "to": "Tinkaton",
+            "method": [
+                "Level 38"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "name": "Rampardos",
+    "pokedex_number": "#0409",
+    "types": [
+        "Rock",
+        "Unknown"
+    ],
+    "abilities": [
+        "Mold Breaker",
+        "Sheer Force"
+    ],
+    "stats": {
+        "HP": 97,
+        "Attack": 165,
+        "Defense": 60,
+        "Sp. Atk": 65,
+        "Sp. Def": 50,
+        "Speed": 58,
+        "Total": 495
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Its powerful head butt has enough power to shatter even the most durable things upon impact.",
+            "Pearl": "Its skull is as hard as iron. It is a brute that tears down jungle trees while catching prey.",
+            "Platinum": "If two were to smash their heads together, their foot-thick skulls would keep them from fainting.",
+            "HeartGold": "Its skull withstands impacts of any magnitude. As a result, its brain never gets the chance to grow.",
+            "SoulSilver": "Its skull withstands impacts of any magnitude. As a result, its brain never gets the chance to grow."
+        },
+        "Generation V": {
+            "Black": "If two were to smash their heads together, their foot-thick skulls would keep them from fainting.",
+            "White": "If two were to smash their heads together, their foot-thick skulls would keep them from fainting.",
+            "Black 2": "If two were to smash their heads together, their foot-thick skulls would keep them from fainting.",
+            "White 2": "If two were to smash their heads together, their foot-thick skulls would keep them from fainting."
+        },
+        "Generation VI": {
+            "X": "Its skull withstands impacts of any magnitude. As a result, its brain never gets the chance to grow.",
+            "Y": "Its skull is as hard as iron. It is a brute that tears down jungle trees while catching prey.",
+            "Omega Ruby": "Its skull withstands impacts of any magnitude. As a result, its brain never gets the chance to grow.",
+            "Alpha Sapphire": "Its skull is as hard as iron. It is a brute that tears down jungle trees while catching prey."
+        },
+        "Generation VII": {
+            "Sun": "The result of repeated headbutts is a skull grown thick and hard. However, its brain has shrunk in size compared with Cranidos's.",
+            "Moon": "Records exist of a revived fossil that evolved into Rampardos. It proceeded to escape and then destroy a skyscraper with a headbutt.",
+            "Ultra Sun": "In ancient times, people would dig up fossils of this Pokémon and use its skull, which is harder than steel, to make helmets.",
+            "Ultra Moon": "This ancient Pokémon used headbutts skillfully. Its brain was really small, so some theories suggest that its stupidity led to its extinction."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Its powerful headbutt has enough force to shatter even the most durable things upon impact.",
+            "Shining Pearl": "Its skull is as hard as iron. It is a brute that tears down jungle trees while catching prey.",
+            "Legends: Arceus": "Very little is known about its biology. Can knock down massive trees by smashing its beautiful, pearl-like crown against them."
+        },
+        "Generation IX": {
+            "Scarlet": "Stifled by a thick skull that can withstand any impact, this Pokémon’s brain never got very big.",
+            "Violet": "If two were to smash their heads together, their foot-thick skulls would keep them from fainting."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Cranidos",
+            "Pearl": "Trade",
+            "Platinum": "Trade Evolve Cranidos *",
+            "HeartGold": "Trade",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Evolve Cranidos",
+            "White": "Evolve Cranidos",
+            "Black 2": "Evolve Cranidos",
+            "White 2": "Evolve Cranidos"
+        },
+        "Generation VI": {
+            "X": "Evolve Cranidos",
+            "Y": "Evolve Cranidos",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Evolve Cranidos"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Cranidos",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Cranidos",
+            "Ultra Moon": "Evolve Cranidos",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Cranidos",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Coronet Highlands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero (Violet)": "Tera Raid Battle Search ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Cranidos",
+            "to": "Rampardos",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

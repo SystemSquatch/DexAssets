@@ -1,0 +1,149 @@
+{
+    "name": "Elekid",
+    "pokedex_number": "#0239",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Static",
+        "Vital Spirit"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 63,
+        "Defense": 37,
+        "Sp. Atk": 65,
+        "Sp. Def": 55,
+        "Speed": 95,
+        "Total": 360
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.",
+            "Silver": "Even in the most vicious storm, this Pok é mon plays happily if thunder rumbles in the sky.",
+            "Crystal": "It loves violent thunder. The space between its horns flickers bluish-white when it is charging energy.",
+            "Stadium 2": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit. (Pokémon Red, Silver, or Crystal inserted) Even in the most vicious storm, this Pok é mon plays happily if thunder rumbles in the sky. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pok é mon begins swinging its arms in circles to recharge itself.",
+            "Sapphire": "Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pok é mon begins swinging its arms in circles to recharge itself.",
+            "Emerald": "If it touches metal and discharges the electricity it has stored in its body, an Elekid begins swinging its arms in circles to recharge itself.",
+            "FireRed": "Even in the most vicious storm, this Pok é mon plays happily if thunder rumbles in the sky.",
+            "LeafGreen": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit."
+        },
+        "Generation IV": {
+            "Diamond": "It generates electricity by whirling its arms. However, it can't store the energy it makes.",
+            "Pearl": "It generates electricity by whirling its arms. However, it can't store the energy it makes.",
+            "Platinum": "A weak electric current flows between its horns. Sticking a hand there shocks the unwary.",
+            "HeartGold": "It rotates its arms to generate electricity, but it tires easily, so it only charges up a little bit.",
+            "SoulSilver": "Even in the most vicious storm, this Pokémon plays happily if thunder rumbles in the sky."
+        },
+        "Generation V": {
+            "Black": "A weak electric current flows between its horns. Sticking a hand there shocks the unwary.",
+            "White": "A weak electric current flows between its horns. Sticking a hand there shocks the unwary.",
+            "Black 2": "Spinning its arms around to generate electricity makes the area between its horns shine light blue.",
+            "White 2": "Spinning its arms around to generate electricity makes the area between its horns shine light blue."
+        },
+        "Generation VI": {
+            "X": "It generates electricity by whirling its arms. However, it can't store the energy it makes.",
+            "Y": "Spinning its arms around to generate electricity makes the area between its horns shine light blue.",
+            "Omega Ruby": "Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pokémon begins swinging its arms in circles to recharge itself.",
+            "Alpha Sapphire": "Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pokémon begins swinging its arms in circles to recharge itself."
+        },
+        "Generation VII": {
+            "Sun": "When it's in a house, electrical outlets serve as its baby bottles. It sucks down electricity.",
+            "Moon": "This Pokémon is constantly fighting with Togedemaru that try to steal its electricity. It's a pretty even match.",
+            "Ultra Sun": "When it hears the crash of thunder, Elekid's mood improves. It can be useful to record that sound and play it when Elekid's feeling down.",
+            "Ultra Moon": "When its horns shine a bluish white, that's the sign it's fully charged. You'll get a shocking jolt if you touch it!"
+        },
+        "Generation VIII": {
+            "Sword": "When a storm approaches, this Pokémon gets restless. Once Elekid hears the sound of thunder, it gets full-on rowdy.",
+            "Shield": "It's not good at storing electricity yet. This Pokémon sneaks into people's homes, looking for electrical outlets to eat electricity from.",
+            "Brilliant Diamond": "It generates electricity by whirling its arms. However, it can't store the energy it makes.",
+            "Shining Pearl": "It generates electricity by whirling its arms. However, it can't store the energy it makes.",
+            "Legends: Arceus": "They generate electricity by spinning their arms. During a thunderstorm, if one hears the lively voices of children out in the wilderness, what one is actually hearing are the voices of Elekid."
+        },
+        "Generation IX": {
+            "Scarlet": "It loves violent thunder. The space between its horns flickers bluish white when it is charging energy.",
+            "Violet": "It rotates its arms to generate electricity, but it tires easily, so it only charges up a little bit."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Breed Electabuzz",
+            "Silver": "Breed Electabuzz",
+            "Crystal": "Breed Electabuzz Route 34 ( Odd Egg * )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Breed Electabuzz",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "In-game trade for purified Togepi or Togetic"
+        },
+        "Generation IV": {
+            "Diamond": "Route 205 , Valley Windworks (FireRed)",
+            "Pearl": "Route 205 , Valley Windworks (FireRed)",
+            "Platinum": "Breed Electabuzz or Electivire",
+            "HeartGold": "Breed Electabuzz or Electivire",
+            "SoulSilver": "Breed Electabuzz or Electivire",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Suburban Area , Amity Meadow"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Trade",
+            "White 2": "Virbank Complex",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Breed Electabuzz or Electivire",
+            "Y": "Breed Electabuzz or Electivire",
+            "Omega Ruby": "Mirage Mountain (South of Route 129 )",
+            "Alpha Sapphire": "Mirage Mountain (South of Route 129 )"
+        },
+        "Generation VII": {
+            "Sun": "Route 12 , Blush Mountain",
+            "Moon": "Route 12 , Blush Mountain",
+            "Ultra Sun": "Blush Mountain , Mount Hokulani",
+            "Ultra Moon": "Blush Mountain , Mount Hokulani",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Giant's Bed , Old Cemetery , Giant's Foot , Frigid Sea , Three-Point Pass , Ballimere Lake Frostpoint Field , Giant's Bed , Three-Point Pass , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Grand Underground - Dazzling Cave , Whiteout Cave , Stargleam Cavern , Glacial Cavern",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Coronet Highlands : Cloudcap Pass , massive mass outbreaks Alabaster Icelands : Icebound Falls , Arena's Approach"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Savanna Biome , Canyon Biome , Polar Biome , Chargestone Cavern Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Elekid",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Elekid",
+            "to": "Electabuzz",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

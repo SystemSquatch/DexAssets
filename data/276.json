@@ -1,0 +1,124 @@
+{
+    "name": "Taillow",
+    "pokedex_number": "#0276",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Guts",
+        "Scrappy"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 30,
+        "Sp. Atk": 30,
+        "Sp. Def": 30,
+        "Speed": 85,
+        "Total": 270
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Taillow courageously stands its ground against foes, however strong they may be. This gutsy Pok é mon will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",
+            "Sapphire": "Taillow is young - it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This Pok é mon feeds on Wurmple that live in forests.",
+            "Emerald": "Although it is small, it is very courageous. It will take on a larger Skarmory on an equal footing. However, its will weakens if it becomes hungry.",
+            "FireRed": "It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day.",
+            "LeafGreen": "It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day."
+        },
+        "Generation IV": {
+            "Diamond": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
+            "Pearl": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
+            "Platinum": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
+            "HeartGold": "When it gets cold, they migrate, flying over 180 miles a day. It hunts for tasty prey.",
+            "SoulSilver": "When it gets cold, they migrate, flying over 180 miles a day. It hunts for tasty prey."
+        },
+        "Generation V": {
+            "Black": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
+            "White": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
+            "Black 2": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
+            "White 2": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates."
+        },
+        "Generation VI": {
+            "X": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
+            "Y": "It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day.",
+            "Omega Ruby": "Taillow courageously stands its ground against foes, however strong they may be. This gutsy Pokémon will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",
+            "Alpha Sapphire": "Taillow is young—it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This Pokémon feeds on Wurmple that live in forests."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
+            "Shining Pearl": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Routes 104 , 115 , and 116 , Petalburg Woods",
+            "Sapphire": "Routes 104 , 115 , and 116 , Petalburg Woods",
+            "Emerald": "Routes 104 , 115 , and 116 , Petalburg Woods",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Breed Swellow",
+            "Pearl": "Breed Swellow",
+            "Platinum": "Breed Swellow",
+            "HeartGold": "Cherrygrove City ( Headbutt trees * ; post-National Dex)",
+            "SoulSilver": "Cherrygrove City ( Headbutt trees * ; post-National Dex)",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Breed Swellow",
+            "White": "Breed Swellow",
+            "Black 2": "Breed Swellow",
+            "White 2": "Breed Swellow",
+            "Dream World": "Pleasant Forest , Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Route 8 ( Horde Encounter )",
+            "Y": "Route 8 ( Horde Encounter )",
+            "Omega Ruby": "Routes 104 , 115 , and 116 , Petalburg Woods , Soaring in the sky",
+            "Alpha Sapphire": "Routes 104 , 115 , and 116 , Petalburg Woods , Soaring in the sky"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Swellow",
+            "Ultra Moon": "Breed Swellow",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Breed Swellow",
+            "Shining Pearl": "Breed Swellow",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Taillow",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Taillow",
+            "to": "Swellow",
+            "method": [
+                "Level 22"
+            ]
+        }
+    ]
+}

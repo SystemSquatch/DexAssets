@@ -1,0 +1,46 @@
+{
+    "name": "Maushold",
+    "pokedex_number": "#0925",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Friend Guard",
+        "Cheek Pouch",
+        "Technician"
+    ],
+    "stats": {
+        "HP": 74,
+        "Attack": 75,
+        "Defense": 70,
+        "Sp. Atk": 65,
+        "Sp. Def": 75,
+        "Speed": 111,
+        "Total": 470
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "They build huge nests with many rooms that are used for different purposes, such as eating and sleeping.",
+            "Violet": "The little one just appeared one day. They all live together like a family, but the relationship between the three is still unclear."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 4★ ) ( Family of Three Form ) Tera Raid Battles ( 6★ ) ( Family of Four Form )",
+            "Violet": "Tera Raid Battles ( 4★ ) ( Family of Three Form ) Tera Raid Battles ( 6★ ) ( Family of Four Form )",
+            "The Hidden Treasure of Area Zero": "Evolve Tandemaus"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Tandemaus",
+            "to": "Maushold",
+            "method": [
+                "Other"
+            ]
+        }
+    ]
+}

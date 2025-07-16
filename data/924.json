@@ -1,0 +1,53 @@
+{
+    "name": "Tandemaus",
+    "pokedex_number": "#0924",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Run Away",
+        "Pickup",
+        "Own Tempo"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 45,
+        "Sp. Atk": 40,
+        "Sp. Def": 45,
+        "Speed": 75,
+        "Total": 305
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
+            "Violet": "The pair sticks together no matter what. They split any food they find exactly in half and then eat it together."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Pokémon League East Province: Area One , Area Two , Area Three West Province: Area Two , Area Three Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Pokémon League East Province: Area One , Area Two , Area Three West Province: Area Two , Area Three Tera Raid Battles ( 2★ )",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Apple Hills , Reveler's Road , Oni Mountain , Oni's Maw , Wistful Fields , Paradise Barrens , Kitakami Wilds"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Tandemaus",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Tandemaus",
+            "to": "Maushold",
+            "method": [
+                "Other"
+            ]
+        }
+    ]
+}

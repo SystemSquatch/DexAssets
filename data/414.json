@@ -1,0 +1,100 @@
+{
+    "name": "Mothim",
+    "pokedex_number": "#0414",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "abilities": [
+        "Swarm",
+        "Tinted Lens"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 94,
+        "Defense": 50,
+        "Sp. Atk": 94,
+        "Sp. Def": 50,
+        "Speed": 66,
+        "Total": 424
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It loves the honey of flowers and steals honey collected by Combee .",
+            "Pearl": "It does not keep a nest. It flies over fields and mountains in constant search of floral honey.",
+            "Platinum": "While it loves floral honey, it won't gather any itself. Instead, it plots to steal some from Combee .",
+            "HeartGold": "It flutters around at night and steals honey from the Combee hive.",
+            "SoulSilver": "It flutters around at night and steals honey from the Combee hive."
+        },
+        "Generation V": {
+            "Black": "While it loves floral honey, it won't gather any itself. Instead, it plots to steal some from Combee.",
+            "White": "While it loves floral honey, it won't gather any itself. Instead, it plots to steal some from Combee.",
+            "Black 2": "While it loves floral honey, it won't gather any itself. Instead, it plots to steal some from Combee.",
+            "White 2": "While it loves floral honey, it won't gather any itself. Instead, it plots to steal some from Combee."
+        },
+        "Generation VI": {
+            "X": "It loves the honey of flowers and steals honey collected by Combee.",
+            "Y": "It flutters around at night and steals honey from the Combee hive.",
+            "Omega Ruby": "It loves the honey of flowers and steals honey collected by Combee.",
+            "Alpha Sapphire": "It flutters around at night and steals honey from the Combee hive."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It loves the nectar of flowers and steals nectar collected by Combee.",
+            "Shining Pearl": "It does not keep a nest. It flies over fields and mountains in constant search of its much-beloved nectar.",
+            "Legends: Arceus": "Scatters steel-colored scales as it flaps its wings. Despite being observed feeding primarily on the nectar of flowers, Mothim is not often seen around flower gardens."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Burmy ♂",
+            "Pearl": "Evolve Burmy ♂",
+            "Platinum": "Evolve Burmy ♂",
+            "HeartGold": "Evolve Burmy ♂",
+            "SoulSilver": "Evolve Burmy ♂"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Evolve Burmy ♂",
+            "Y": "Evolve Burmy ♂",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Burmy ♂",
+            "Shining Pearl": "Evolve Burmy ♂",
+            "Legends: Arceus": "Obsidian Fieldlands : Grueling Grove Cobalt Coastlands : near Crossing Slope , Aipom Hill , Spring Path (additional ), Veilstone Cape , near Firespit Island Coronet Highlands : Wayward Wood (additional ), near Ancient Quarry"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Burmy",
+            "to": "Mothim",
+            "method": [
+                "Level 20 ((Male only))"
+            ]
+        }
+    ]
+}

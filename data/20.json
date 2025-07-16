@@ -1,0 +1,150 @@
+{
+    "name": "Raticate",
+    "pokedex_number": "#0020",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Run Away",
+        "Guts",
+        "Gluttony",
+        "Hustle",
+        "Hustle",
+        "Thick Fat"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 81,
+        "Defense": 60,
+        "Sp. Atk": 50,
+        "Sp. Def": 70,
+        "Speed": 97,
+        "Total": 413
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off.",
+            "Yellow": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",
+            "Stadium": "If attacked, it stands up on its hind legs, bares its fangs and shrieks in an intimidating manner at its enemy."
+        },
+        "Generation II": {
+            "Gold": "Gnaws on anything with its tough fangs. It can even topple concrete buildings by gnawing on them.",
+            "Silver": "Its whiskers help it to maintain balance. Its fangs never stop growing, so it gnaws to pare them down.",
+            "Crystal": "The webs on its hind legs enable it to cross rivers. It searches wide areas for food.",
+            "Stadium 2": "Gnaws on anything with its tough fangs. It can even topple concrete buildings by gnawing on them. (Pokémon Red, Silver, or Crystal inserted) Its whiskers help it to maintain balance. Its fangs never stop growing, so it gnaws to pare them down. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Raticate 's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+            "Sapphire": "Raticate 's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+            "Emerald": "A Raticate 's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+            "FireRed": "Its rear feet have three toes each. They are webbed, enabling it to swim across rivers.",
+            "LeafGreen": "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off."
+        },
+        "Generation IV": {
+            "Diamond": "It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.",
+            "Pearl": "It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.",
+            "Platinum": "It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.",
+            "HeartGold": "Gnaws on anything with its tough fangs. It can even topple concrete buildings by gnawing on them.",
+            "SoulSilver": "Its whiskers help it to maintain balance. Its fangs never stop growing, so it gnaws to pare them down."
+        },
+        "Generation V": {
+            "Black": "It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.",
+            "White": "It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.",
+            "Black 2": "With its long fangs, this surprisingly violent Pokémon can gnaw away even thick concrete with ease.",
+            "White 2": "With its long fangs, this surprisingly violent Pokémon can gnaw away even thick concrete with ease."
+        },
+        "Generation VI": {
+            "X": "It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.",
+            "Y": "The webs on its hind legs enable it to cross rivers. It searches wide areas for food.",
+            "Omega Ruby": "Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+            "Alpha Sapphire": "Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses."
+        },
+        "Generation VII": {
+            "Sun": "It forms a group of Rattata, which it assumes command of. Each group has its own territory, and disputes over food happen often.",
+            "Moon": "This gourmet Pokémon is particular about the taste and freshness of its food. Restaurants where Raticate live have a good reputation.",
+            "Ultra Sun": "It has an incredibly greedy personality. Its nest is filled with so much food gathered by Rattata at its direction, it can't possibly eat it all.",
+            "Ultra Moon": "It commands a nest of Rattata. Different nests don't get along, whipping up severe fights over feeding grounds.",
+            "Let's Go Pikachu": "It makes its Rattata underlings gather food for it, dining solely on the most nutritious and delicious fare.",
+            "Let's Go Eevee": "It makes its Rattata underlings gather food for it, dining solely on the most nutritious and delicious fare."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It whittles down its constantly growing fangs by gnawing on hard things. It can chew apart cinder block walls.",
+            "Shining Pearl": "It whittles down its constantly growing fangs by gnawing on hard things. It can chew apart cinder block walls."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 16 , 17 , 18 , and 21",
+            "Blue": "Routes 16 , 17 , 18 , and 21",
+            "Blue (Japan)": "Routes 16 , 17 , 18 , and 21 , Cerulean Cave",
+            "Yellow": "Routes 9 , 10 , 11 , 16 , 18 , and 21 , Pokémon Mansion"
+        },
+        "Generation II": {
+            "Gold": "Routes 9 , 10 , 26 , 27 , 38 , and 39 , Mt. Mortar , Union Cave , Tohjo Falls , Burned Tower",
+            "Silver": "Routes 9 , 10 , 26 , 27 , 38 , and 39 , Mt. Mortar , Union Cave , Tohjo Falls , Burned Tower",
+            "Crystal": "Routes 3 , 4 , 6 , 7 , 9 , 10 , 11 , 21 , 26 , 27 , 38 , 39 , 42 , and 43 , Mt. Mortar , Union Cave , Tohjo Falls , Burned Tower Route 1 Night Route 7 Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Routes 16 , 17 , and 18 , Pokémon Mansion",
+            "LeafGreen": "Routes 16 , 17 , and 18 , Pokémon Mansion",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 225 and 226",
+            "Pearl": "Routes 225 and 226",
+            "Platinum": "Routes 225 and 226",
+            "HeartGold": "Routes 7 , 9 , 10 , 26 , 27 , 38 , 39 , and 47 , Mt. Mortar , Union Cave , Burned Tower , Tohjo Falls Safari Zone (Plains, default Night ; tall grass in Meadow with 5 Plains points; Mountain, default Morning Day )",
+            "SoulSilver": "Routes 7 , 9 , 10 , 26 , 27 , 38 , 39 , and 47 , Mt. Mortar , Union Cave , Burned Tower , Tohjo Falls Safari Zone (Plains, default Night ; tall grass in Meadow with 5 Plains points; Mountain, default Morning Day )",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Dreamyard ( dark grass )",
+            "White": "Dreamyard ( dark grass )",
+            "Black 2": "Dreamyard , Strange House , Relic Passage",
+            "White 2": "Dreamyard , Strange House , Relic Passage"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Route 118 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 118 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Routes 10 , 11 , 15 , 16 , 17 , Akala Outskirts , Ancient Poni Path , Malie City , Poni Gauntlet , Poni Grove , Poni Plains , Poni Wilds , Tapu Village Night ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Moon": "Routes 10 , 11 , 15 , 16 , 17 , Akala Outskirts , Ancient Poni Path , Malie City , Poni Gauntlet , Poni Grove , Poni Plains , Poni Wilds , Tapu Village Night ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Sun": "Routes 10 , 15 , 16 , 17 , Akala Outskirts , Tapu Village , Mount Lanakila , Poni Plains Night ( Alolan Form ) Route 8 Night ( SOS Battle ) ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Moon": "Routes 10 , 15 , 16 , 17 , Akala Outskirts , Tapu Village , Mount Lanakila , Poni Plains Night ( Alolan Form ) Route 8 Night ( SOS Battle ) ( Alolan Form ) Received from Samson Oak at Heahea Beach * ( Totem -sized; Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Let's Go Pikachu": "Routes 7 , 8 , 9 , 10 , 11 , 16 , 17 , 18 and 21 , Pokémon Mansion ( Kantonian Form ) Evolve Rattata ( Alolan Form )",
+            "Let's Go Eevee": "Routes 7 , 8 , 9 , 10 , 11 , 16 , 17 , 18 and 21 , Pokémon Mansion ( Kantonian Form ) Evolve Rattata ( Alolan Form )"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 225 and 226 ( Kantonian Form ) Grand Underground - Spacious Cave , Grassland Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern (After obtaining the National Pokédex ) ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Shining Pearl": "Routes 225 and 226 ( Kantonian Form ) Grand Underground - Spacious Cave , Grassland Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern (After obtaining the National Pokédex ) ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Rattata",
+            "to": "Raticate",
+            "method": [
+                "Level 20",
+                "Level 20 (during the night)"
+            ]
+        }
+    ]
+}

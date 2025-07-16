@@ -1,0 +1,162 @@
+{
+    "name": "Poliwag",
+    "pokedex_number": "#0060",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Water Absorb",
+        "Damp",
+        "Swift Swim"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 40,
+        "Sp. Atk": 40,
+        "Sp. Def": 40,
+        "Speed": 90,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
+            "Yellow": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
+            "Stadium": "The spiral on its belly is its internal organs seen through its thin skin. It is better at swimming than walking."
+        },
+        "Generation II": {
+            "Gold": "Because it is inept at walking on its newly grown legs, it always swims around in water.",
+            "Silver": "The direction of its belly spiral differs by area. The equator is thought to have an effect on this.",
+            "Crystal": "The swirl on its belly is its insides showing through the skin. It looks clearer after it eats.",
+            "Stadium 2": "Because it is inept at walking on its newly grown legs, it always swims around in water. (Pokémon Red, Silver, or Crystal inserted) The direction of its belly spiral differs by area. The equator is thought to have an effect on this. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Poliwag has a very thin skin. It is possible to see the Pok é mon 's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+            "Sapphire": "Poliwag has a very thin skin. It is possible to see the Pok é mon 's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+            "Emerald": "It is possible to see this Pok é mon 's spiral innards right through its thin skin. However, the skin is also very flexible. Even sharp fangs bounce right off it.",
+            "FireRed": "Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.",
+            "LeafGreen": "Its newly grown legs prevent it from walking well. It appears to prefer swimming over walking."
+        },
+        "Generation IV": {
+            "Diamond": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+            "Pearl": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+            "Platinum": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+            "HeartGold": "Because it is inept at walking on its newly grown legs, it always swims around in water.",
+            "SoulSilver": "The direction of its belly spiral differs by area. The equator is thought to have an effect on this."
+        },
+        "Generation V": {
+            "Black": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+            "White": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+            "Black 2": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+            "White 2": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet."
+        },
+        "Generation VI": {
+            "X": "Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.",
+            "Y": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
+            "Omega Ruby": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+            "Alpha Sapphire": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it."
+        },
+        "Generation VII": {
+            "Sun": "The swirl on its belly is its internal organs showing through. If the swirl is tinged white, that means it's affected by some disease.",
+            "Moon": "It's still not very good at walking. Its Trainers should train this Pokémon to walk every day.",
+            "Ultra Sun": "Despite the danger, it wants to come up on land. So it does its best to waddle along, but when an enemy finds it, it rushes back to the water.",
+            "Ultra Moon": "The direction of the swirl on their stomachs differs depending on where they live. Poliwag aficionados can tell them apart at a glance.",
+            "Let's Go Pikachu": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
+            "Let's Go Eevee": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking."
+        },
+        "Generation VIII": {
+            "Sword": "For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon's innards showing through the skin.",
+            "Shield": "In rivers with fast-flowing water, this Pokémon will cling to a rock by using its thick lips, which act like a suction cup.",
+            "Brilliant Diamond": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+            "Shining Pearl": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet."
+        },
+        "Generation IX": {
+            "Scarlet": "The swirl on its belly is its insides showing through the skin. It appears more clearly after Poliwag eats.",
+            "Violet": "Its legs are newly grown, and it can't walk very well. It seems to prefer swimming through the water instead."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 6 , 10 , 11 , 12 , 13 , 17 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , and 25 , Pallet Town , Viridian City , Cerulean City , Cerulean Gym , Cerulean Cave , Vermilion City , Celadon City , Fuchsia City , Safari Zone , Seafoam Islands , Cinnabar Island , Indigo Plateau ( Good Rod ) Pallet Town , Viridian City , Route 22 ( Super Rod )",
+            "Blue": "Routes 6 , 10 , 11 , 12 , 13 , 17 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , and 25 , Pallet Town , Viridian City , Cerulean City , Cerulean Gym , Cerulean Cave , Vermilion City , Celadon City , Fuchsia City , Safari Zone , Seafoam Islands , Cinnabar Island , Indigo Plateau ( Good Rod ) Pallet Town , Viridian City , Route 22 ( Super Rod )",
+            "Blue (Japan)": "Routes 6 , 10 , 11 , 12 , 13 , 17 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , and 25 , Pallet Town , Viridian City , Cerulean City , Cerulean Gym , Cerulean Cave , Vermilion City , Celadon City , Fuchsia City , Safari Zone , Seafoam Islands , Cinnabar Island , Indigo Plateau ( Good Rod ) Route 22 , Pallet Town , Viridian City ( Super Rod ) Trade for Rattata on Route 5",
+            "Yellow": "Routes 6 , 10 , 11 , 12 , 13 , 17 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , and 25 , Pallet Town , Viridian City , Cerulean City , Cerulean Gym , Cerulean Cave , Vermilion City , Celadon City , Fuchsia City , Safari Zone , Seafoam Islands , Cinnabar Island , Indigo Plateau ( Good Rod ) Routes 22 and 23 , Viridian City ( Super Rod )"
+        },
+        "Generation II": {
+            "Gold": "Routes 22 , 28 , 30 , 31 , and 44 , Violet City , Ecruteak City , Viridian City , Mt. Silver ( Surfing and fishing ) Routes 6 , 35 , and 43 , Ruins of Alph , Ilex Forest , Blackthorn City ( fishing )",
+            "Silver": "Routes 22 , 28 , 30 , 31 , and 44 , Violet City , Ecruteak City , Viridian City , Mt. Silver ( Surfing and fishing ) Routes 6 , 35 , and 43 , Ruins of Alph , Ilex Forest , Blackthorn City ( fishing )",
+            "Crystal": "Routes 22 , 28 , 30 , 31 , and 44 , Violet City , Ecruteak City , Viridian City , Mt. Silver ( Surfing and fishing ) Routes 6 , 35 , and 43 , Ruins of Alph , Ilex Forest , Blackthorn City ( fishing ) Routes 22 , 30 , 31 , and 44 Night"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Fuchsia City , Berry Forest , Safari Zone ( Good Rod ) Routes 6 , 22 , 23 , and 25 , Four Island , Viridian City , Cape Brink , Cerulean Cave , Icefall Cave , Ruin Valley ( Good Rod and Super Rod )",
+            "LeafGreen": "Fuchsia City , Berry Forest , Safari Zone ( Good Rod ) Routes 6 , 22 , 23 , and 25 , Four Island , Viridian City , Cape Brink , Cerulean Cave , Icefall Cave , Ruin Valley ( Good Rod and Super Rod )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 225 ( Good Rod ) Routes 227 and 228 ( Surfing )",
+            "Pearl": "Route 225 ( Good Rod ) Routes 227 and 228 ( Surfing )",
+            "Platinum": "Routes 227 and 228 ( Surfing )",
+            "HeartGold": "Routes 22 , 28 , 30 , 31 , and 44 , Violet City , Ecruteak City , Viridian City , Mt. Silver ( Surfing and fishing ) Routes 6 , 35 , 43 , and 45 , Ruins of Alph , Ilex Forest , Blackthorn City ( fishing ) Cliff Edge Gate ( Good Rod and Super Rod ) Cerulean Cave ( Old Rod and Good Rod ) Mt. Moon Square ( Surfing and fishing ) Safari Zone (fishing in Meadow, default; Surfing in Marshland, default; Old Rod in Marshland - default, with 2 Waterside points, and with 3 Waterside points; Surfing in Rocky Beach, default; fishing and Surfing in Wetland, default)",
+            "SoulSilver": "Routes 22 , 28 , 30 , 31 , and 44 , Violet City , Ecruteak City , Viridian City , Mt. Silver ( Surfing and fishing ) Routes 6 , 35 , 43 , and 45 , Ruins of Alph , Ilex Forest , Blackthorn City ( fishing ) Cliff Edge Gate ( Good Rod and Super Rod ) Cerulean Cave ( Old Rod and Good Rod ) Mt. Moon Square ( Surfing and fishing ) Safari Zone (fishing in Meadow, default; Surfing in Marshland, default; Old Rod in Marshland - default, with 2 Waterside points, and with 3 Waterside points; Surfing in Rocky Beach, default; fishing and Surfing in Wetland, default)",
+            "Pal Park": "Pond",
+            "Pokéwalker": "Beautiful Beach , Blue Lake"
+        },
+        "Generation V": {
+            "Black": "Route 6 , Wellspring Cave , Challenger's Cave , Victory Road , Giant Chasm ( Super Rod )",
+            "White": "Route 6 , Wellspring Cave , Challenger's Cave , Victory Road , Giant Chasm ( Super Rod )",
+            "Black 2": "Routes 6 , 19 , 20 , and 23 , Floccesy Ranch , Relic Passage , Lostlorn Forest , Giant Chasm , Victory Road , Clay Tunnel , Wellspring Cave ( Super Rod )",
+            "White 2": "Routes 6 , 19 , 20 , and 23 , Floccesy Ranch , Relic Passage , Lostlorn Forest , Giant Chasm , Victory Road , Clay Tunnel , Wellspring Cave ( Super Rod )",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Routes 14 , 15 , 16 , 19 , and 21 , Laverre City , Frost Cavern , Couriway Town , Pokémon Village , Victory Road ( Old Rod ) Pokémon Village ( Horde Encounter )",
+            "Y": "Routes 14 , 15 , 16 , 19 , and 21 , Laverre City , Frost Cavern , Couriway Town , Pokémon Village , Victory Road ( Old Rod ) Pokémon Village ( Horde Encounter )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Brooklet Hill (walking and Surfing ) Malie Garden , Poké Pelago *",
+            "Moon": "Brooklet Hill (walking and Surfing ) Malie Garden , Poké Pelago *",
+            "Ultra Sun": "Brooklet Hill (walking and Surfing )",
+            "Ultra Moon": "Brooklet Hill (walking and Surfing )",
+            "Let's Go Pikachu": "Routes 22 , 23 and 25 , Cerulean Cave ( Sea Skim )",
+            "Let's Go Eevee": "Routes 22 , 23 and 25 , Cerulean Cave ( Sea Skim )"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Brawlers' Cave (walking and Surfing ) Fields of Honor , Soothing Wetlands , Courageous Cavern ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 225 ( Good Rod ) Routes 227 and 228 ( Surfing ) Grand Underground - Grassland Cave , Sunlit Cavern , Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 225 ( Good Rod ) Routes 227 and 228 ( Surfing ) Grand Underground - Grassland Cave , Sunlit Cavern , Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Reveler's Road , Mossfell Confluence , Fellhorn Gorge Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Poliwag",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Poliwag",
+            "to": "Poliwhirl",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "name": "Sandslash",
+    "pokedex_number": "#0028",
+    "types": [
+        "Ground",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sand Veil",
+        "Snow Cloak",
+        "Sand Rush",
+        "Slush Rush"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 110,
+        "Sp. Atk": 45,
+        "Sp. Def": 55,
+        "Speed": 65,
+        "Total": 450
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
+            "Yellow": "It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day.",
+            "Stadium": "Curls into a ball of sharp spikes and rolls into enemies. It is also adept at slashing with its sharp claws."
+        },
+        "Generation II": {
+            "Gold": "In an attempt to hide itself, it will run around at top speed to kick up a blinding dust storm.",
+            "Silver": "If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.",
+            "Crystal": "Adept at climbing trees, it rolls into a spiny ball, then attacks its enemies from above.",
+            "Stadium 2": "In an attempt to hide itself, it will run around at top speed to kick up a blinding dust storm. (Pokémon Red, Silver, or Crystal inserted) If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Sandslash 's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",
+            "Sapphire": "Sandslash can roll up its body as if it were a ball covered with large spikes. In battle, this Pok é mon will try to make the foe flinch by jabbing it with its spines. It then leaps at the stunned foe to tear wildly with its sharp claws.",
+            "Emerald": "It curls up in a ball to protect itself from enemy attacks. It also curls up to prevent heatstroke during the daytime when temperatures rise sharply.",
+            "FireRed": "It is adept at attacking with the spines on its back and its sharp claws while quickly scurrying about.",
+            "LeafGreen": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape."
+        },
+        "Generation IV": {
+            "Diamond": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
+            "Pearl": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
+            "Platinum": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
+            "HeartGold": "In an attempt to hide itself, it will run around at top speed to kick up a blinding dust storm.",
+            "SoulSilver": "If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day."
+        },
+        "Generation V": {
+            "Black": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
+            "White": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
+            "Black 2": "The spikes on its body are made up of its hardened hide. It rolls up and attacks foes with its spikes.",
+            "White 2": "The spikes on its body are made up of its hardened hide. It rolls up and attacks foes with its spikes."
+        },
+        "Generation VI": {
+            "X": "If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.",
+            "Y": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
+            "Omega Ruby": "Sandslash's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",
+            "Alpha Sapphire": "Sandslash can roll up its body as if it were a ball covered with large spikes. In battle, this Pokémon will try to make the foe flinch by jabbing it with its spines. It then leaps at the stunned foe to tear wildly with its sharp claws."
+        },
+        "Generation VII": {
+            "Sun": "Fleeing a volcanic eruption, it settled on a snowy mountain. As it races through the snowfields, it sends up a spray of snow.",
+            "Moon": "This Pokémon's steel spikes are sheathed in ice. Stabs from these spikes cause deep wounds and severe frostbite as well.",
+            "Ultra Sun": "It runs across snow-covered plains at high speeds. It developed thick, sharp claws to plow through the snow.",
+            "Ultra Moon": "A long, long time ago, it lived in the desert. With its sharp claws fully extended, it can climb right up an iceberg without slipping.",
+            "Let's Go Pikachu": "This is Sandslash's form after adaptation to a frigid environment. The cold air emitted by its body sharpens its icy spikes.",
+            "Let's Go Eevee": "This is Sandslash's form after adaptation to a frigid environment. The cold air emitted by its body sharpens its icy spikes."
+        },
+        "Generation VIII": {
+            "Sword": "It uses large, hooked claws to cut a path through deep snow as it runs. On snowy mountains, this Sandslash is faster than any other Pokémon.",
+            "Shield": "Many people climb snowy mountains, hoping to see the icy spikes of these Pokémon glistening in the light of dawn.",
+            "Brilliant Diamond": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
+            "Shining Pearl": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon’s steel spikes are sheathed in ice. Stabs from these spikes cause deep wounds and severe frostbite as well.",
+            "Violet": "A long, long time ago, it lived in the desert. With its sharp claws fully extended, it can run right up an iceberg without slipping."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Trade",
+            "Blue": "Route 23 , Cerulean Cave",
+            "Blue (Japan)": "Route 23 , Cerulean Cave",
+            "Yellow": "Cerulean Cave"
+        },
+        "Generation II": {
+            "Gold": "Routes 26 and 27 , Mt. Moon",
+            "Silver": "Evolve Sandshrew",
+            "Crystal": "Route 26 and Victory Road Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Evolve Sandshrew",
+            "Sapphire": "Evolve Sandshrew",
+            "Emerald": "Evolve Sandshrew",
+            "FireRed": "Trade",
+            "LeafGreen": "Route 23 and Victory Road",
+            "Colosseum": "Trade",
+            "XD": "Evolve Sandshrew"
+        },
+        "Generation IV": {
+            "Diamond": "Route 228 (LeafGreen)",
+            "Pearl": "Route 228 (LeafGreen)",
+            "Platinum": "Route 228 (LeafGreen)",
+            "HeartGold": "Routes 26 and 27 , Mt. Moon Safari Zone (Desert, default)",
+            "SoulSilver": "Safari Zone (Desert, default)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Relic Castle",
+            "White": "Relic Castle",
+            "Black 2": "Route 15 , Relic Castle",
+            "White 2": "Route 15 , Relic Castle"
+        },
+        "Generation VI": {
+            "X": "Route 18 , Terminus Cave",
+            "Y": "Route 18 , Terminus Cave",
+            "Omega Ruby": "Evolve Sandshrew",
+            "Alpha Sapphire": "Evolve Sandshrew"
+        },
+        "Generation VII": {
+            "Sun": "Trade , Pokémon Bank",
+            "Moon": "Evolve Sandshrew ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Sun": "Trade , Pokémon Bank",
+            "Ultra Moon": "Evolve Sandshrew ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Let's Go Pikachu": "Evolve Sandshrew ( Kantonian/Alolan Forms )",
+            "Let's Go Eevee": "Trade"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Forest of Focus , Potbottom Desert ( Wanderer ) ( Kantonian Form ) Challenge Beach , Courageous Cavern , Potbottom Desert ( Max Raid Battle ) ( Kantonian Form ) Max Lair ( Dynamax Adventure ) ( Kantonian/Alolan Forms )",
+            "Brilliant Diamond": "Trade ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Shining Pearl": "Grand Underground - Spacious Cave , Rocky Cave , Sandsear Cave , Big Bluff Cavern (After obtaining the National Pokédex ) ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Oni Mountain , Paradise Barrens , Kitakami Wilds ( Kantonian Form ) Tera Raid Battle Search ( 6★ ) ( Alolan Form )",
+            "The Hidden Treasure of Area Zero (Violet)": "Oni Mountain , Paradise Barrens , Kitakami Wilds ( Kantonian Form ) Tera Raid Battles ( 6★ ) ( Alolan Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Sandshrew",
+            "to": "Sandslash",
+            "method": [
+                "Level 22",
+                "Use Ice Stone"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "name": "Lickitung",
+    "pokedex_number": "#0108",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Own Tempo",
+        "Oblivious",
+        "Cloud Nine"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 55,
+        "Defense": 75,
+        "Sp. Atk": 60,
+        "Sp. Def": 75,
+        "Speed": 30,
+        "Total": 385
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.",
+            "Yellow": "Its tongue spans almost 7 feet and moves more freely than its forelegs. Its licks can cause paralysis.",
+            "Stadium": "Its tongue, twice its body's length, moves around freely to catch prey. Its licks cause a tingling sensation."
+        },
+        "Generation II": {
+            "Gold": "Its tongue has well-developed nerves that run to the very tip, so it can be deftly manipulated.",
+            "Silver": "Its long tongue, slathered with a gooey saliva, sticks to anything, so it is very useful.",
+            "Crystal": "It has a tongue that is over 6'6\" long. It uses this long tongue to lick its body clean.",
+            "Stadium 2": "Its tongue has well-developed nerves that run to the very tip, so it can be deftly manipulated. (Pokémon Red, Silver, or Crystal inserted) Its long tongue, slathered with a gooey saliva, sticks to anything, so it is very useful. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
+            "Sapphire": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
+            "Emerald": "Whenever it sees something unfamiliar, it always licks the object because it memorizes things by texture and taste. It is somewhat put off by sour things.",
+            "FireRed": "Its tongue is twice the length of its body. It can be moved like an arm for grabbing food and attacking.",
+            "LeafGreen": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies."
+        },
+        "Generation IV": {
+            "Diamond": "Instead of hands, it uses its tongue, which is twice its height. Its sticky saliva grips anything.",
+            "Pearl": "Instead of hands, it uses its tongue, which is twice its height. Its sticky saliva grips anything.",
+            "Platinum": "When it extends its over-six-foot-long tongue, its tail quivers. There is a possibility they are connected.",
+            "HeartGold": "Its tongue has well-developed nerves that run to the very tip, so it can be deftly manipulated.",
+            "SoulSilver": "Its long tongue, slathered with a gooey saliva, sticks to anything, so it is very useful."
+        },
+        "Generation V": {
+            "Black": "When it extends its over-six-foot-long tongue, its tail quivers. There is a possibility they are connected.",
+            "White": "When it extends its over-six-foot-long tongue, its tail quivers. There is a possibility they are connected.",
+            "Black 2": "Being licked by its long, saliva-covered tongue leaves a tingling sensation. Extending its tongue retracts its tail.",
+            "White 2": "Being licked by its long, saliva-covered tongue leaves a tingling sensation. Extending its tongue retracts its tail."
+        },
+        "Generation VI": {
+            "X": "Its long tongue, slathered with a gooey saliva, sticks to anything, so it is very useful.",
+            "Y": "Its tongue is twice the length of its body. It can be moved like an arm for grabbing food and attacking.",
+            "Omega Ruby": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
+            "Alpha Sapphire": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It checks out whatever's around it by licking everything. If you don't clean off a spot where it's licked you, you'll break out in a rash!",
+            "Ultra Moon": "It licks filth clean with its tongue. Whatever it licks always stinks afterward, so whether it's really clean is...questionable.",
+            "Let's Go Pikachu": "Its tongue spans almost seven feet and moves more freely than its forelegs. Its licks can cause paralysis.",
+            "Let's Go Eevee": "Its tongue spans almost seven feet and moves more freely than its forelegs. Its licks can cause paralysis."
+        },
+        "Generation VIII": {
+            "Sword": "If this Pokémon's sticky saliva gets on you and you don't clean it off, an intense itch will set in. The itch won't go away, either.",
+            "Shield": "Bug Pokémon are Lickitung's main food source. This Pokémon paralyzes its prey with a lick from its long tongue, then swallows the prey whole.",
+            "Brilliant Diamond": "Instead of its hands, it uses its tongue, which can stretch to twice this Pokémon's height. Lickitung's sticky saliva grips anything.",
+            "Shining Pearl": "Instead of its hands, it uses its tongue, which can stretch to twice this Pokémon's height. Lickitung's sticky saliva grips anything.",
+            "Legends: Arceus": "Wields its long tongue deftly, as though it were an arm. The Pokémon's viscous saliva, once it has been collected and boiled down, yields a strong and highly useful adhesive."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Trade Slowbro on Route 18",
+            "Blue": "Trade Slowbro on Route 18",
+            "Blue (Japan)": "Safari Zone",
+            "Yellow": "Cerulean Cave"
+        },
+        "Generation II": {
+            "Gold": "Route 44",
+            "Silver": "Route 44",
+            "Crystal": "Route 44 Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Trade Golduck on Route 18",
+            "LeafGreen": "Trade Slowbro on Route 18",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Lake Valor ( Swarm )",
+            "Pearl": "Lake Valor ( Swarm )",
+            "Platinum": "Route 215",
+            "HeartGold": "Route 44 Safari Zone (Forest with 3 Waterside points; Mountain, default Morning Day )",
+            "SoulSilver": "Route 44 Safari Zone (Forest with 3 Waterside points; Mountain, default Morning Day )",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Challenger's Cave",
+            "White": "Challenger's Cave",
+            "Black 2": "Route 2",
+            "White 2": "Route 2",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Victory Road (Cave, Horde Encounter )",
+            "Y": "Victory Road (Cave, Horde Encounter )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Poni Gauntlet",
+            "Ultra Moon": "Poni Gauntlet",
+            "Let's Go Pikachu": "Cerulean Cave",
+            "Let's Go Eevee": "Cerulean Cave"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Soothing Wetlands , Brawlers' Cave Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Lake Valor ( Swarm ) Grand Underground - Spacious Cave , Riverbank Cave , Fountainspring Cave , Still-Water Cavern , Swampy Cave , Bogsunk Cavern",
+            "Shining Pearl": "Lake Valor ( Swarm ) Grand Underground - Spacious Cave , Riverbank Cave , Fountainspring Cave , Still-Water Cavern , Swampy Cave , Bogsunk Cavern",
+            "Legends: Arceus": "Obsidian Fieldlands : Space-time distortions Crimson Mirelands : Shrouded Ruins , near Diamond Settlement , massive mass outbreaks Alabaster Icelands : Avalanche Slopes , Snowfall Hot Spring , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Lickitung",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Lickitung",
+            "to": "Lickilicky",
+            "method": [
+                "Level up (knowing Rollout)"
+            ]
+        }
+    ]
+}

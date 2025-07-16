@@ -1,0 +1,83 @@
+{
+    "name": "Floette",
+    "pokedex_number": "#0670",
+    "types": [
+        "Fairy",
+        "Unknown"
+    ],
+    "abilities": [
+        "Flower Veil",
+        "Symbiosis"
+    ],
+    "stats": {
+        "HP": 54,
+        "Attack": 45,
+        "Defense": 47,
+        "Sp. Atk": 75,
+        "Sp. Def": 98,
+        "Speed": 52,
+        "Total": 371
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "It flutters around fields of flowers and cares for flowers that are starting to wilt. It draws out the hidden power of flowers to battle.",
+            "Y": "When the flowers of a well-tended flower bed bloom, it appears and celebrates with an elegant dance.",
+            "Omega Ruby": "It flutters around fields of flowers and cares for flowers that are starting to wilt. It draws out the hidden power of flowers to battle.",
+            "Alpha Sapphire": "When the flowers of a well-tended flower bed bloom, it appears and celebrates with an elegant dance."
+        },
+        "Generation VII": {
+            "Ultra Sun": "The flower it's holding can no longer be found blooming anywhere. It's also thought to contain terrifying power.",
+            "Ultra Moon": "Terrifying energy is concealed within its ominous flower, but Floette still swings it about innocently."
+        },
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "Floette that are fond of white flowers can also easily sync with flowers of other colors.",
+            "Violet": "If it finds someone messing up a flower bed, it will attack them without mercy. This Floette takes particularly good care of white flowers."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Friend Safari ( Fairy ) ( Blue/Red/Yellow Flowers ) Evolve Flabébé ( Orange/White Flowers ) Unreleased ( Eternal Flower )",
+            "Y": "Friend Safari ( Fairy ) ( Blue/Red/Yellow Flowers ) Evolve Flabébé ( Orange/White Flowers ) Unreleased ( Eternal Flower )",
+            "Omega Ruby": "Trade ( Colored Flowers ) Unreleased ( Eternal Flower )",
+            "Alpha Sapphire": "Trade ( Colored Flowers ) Unreleased ( Eternal Flower )"
+        },
+        "Generation VII": {
+            "Sun": "Trade ( Colored Flowers ) Unreleased ( Eternal Flower )",
+            "Moon": "Trade ( Colored Flowers ) Unreleased ( Eternal Flower )",
+            "Ultra Sun": "Ula'ula Meadow ( Red Flower ) Ula'ula Meadow ( SOS Battle ) ( Red/White/Orange Flowers ) Poni Meadow ( Blue Flower ) Evolve Flabébé ( Yellow Flower ) Unreleased ( Eternal Flower )",
+            "Ultra Moon": "Ula'ula Meadow ( Red Flower ) Ula'ula Meadow ( SOS Battle ) ( Red/White/Orange Flowers ) Poni Meadow ( Blue Flower ) Evolve Flabébé ( Yellow Flower ) Unreleased ( Eternal Flower )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Four , Area Six ( All Flowers ) East Province: East Paldean Sea ( All Flowers ) East Province: Area One ( Grass Tera Type ) ( Red Flower ) West Province: Area One ( All Flowers ) North Province: Area One , Area Two , Area Three ( All Flowers ) Area Zero ( White Flower )",
+            "Violet": "South Province: Area One , Area Four , Area Six ( All Flowers ) East Province: East Paldean Sea ( All Flowers ) East Province: Area One ( Grass Tera Type ) ( Red Flower ) West Province: Area One ( All Flowers ) North Province: Area One , Area Two , Area Three ( All Flowers ) Area Zero ( White Flower )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Flabebe",
+            "to": "Floette",
+            "method": [
+                "Level 19"
+            ]
+        },
+        {
+            "from": "Floette",
+            "to": "Florges",
+            "method": [
+                "Use Shiny Stone"
+            ]
+        }
+    ]
+}

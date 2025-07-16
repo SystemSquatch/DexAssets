@@ -1,0 +1,61 @@
+{
+    "name": "Kubfu",
+    "pokedex_number": "#0891",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Inner Focus"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 60,
+        "Sp. Atk": 53,
+        "Sp. Def": 50,
+        "Speed": 72,
+        "Total": 385
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Kubfu trains hard to perfect its moves. The moves it masters will determine which form it takes when it evolves.",
+            "Shield": "If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Received from Mustard at the Master Dojo after completing his trials",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "North Province: Area Two after receiving the Kubfu Treat from Snacksworth ( Only one ) ( Solo Quest )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Kubfu",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Kubfu",
+            "to": "Urshifu",
+            "method": [
+                "Tower Of Darkness",
+                "Tower Of Waters"
+            ]
+        }
+    ]
+}

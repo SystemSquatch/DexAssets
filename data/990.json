@@ -1,0 +1,34 @@
+{
+    "name": "Iron Treads",
+    "pokedex_number": "#0990",
+    "types": [
+        "Ground",
+        "Steel"
+    ],
+    "abilities": [
+        "Quark Drive"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 112,
+        "Defense": 120,
+        "Sp. Atk": 72,
+        "Sp. Def": 70,
+        "Speed": 106,
+        "Total": 570
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens.",
+            "Violet": "Sightings of this Pokémon have occurred in recent years. It resembles a mysterious object described in an old expedition journal."
+        }
+    },
+    "game_locations": {
+        "Generation IX": {
+            "Scarlet": "Union Circle",
+            "Violet": "West Province: Asado Desert Former Titan ( Only one ) Area Zero"
+        }
+    },
+    "evolution": []
+}

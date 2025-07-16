@@ -1,0 +1,149 @@
+{
+    "name": "Pidgeotto",
+    "pokedex_number": "#0017",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Tangled Feet",
+        "Big Pecks"
+    ],
+    "stats": {
+        "HP": 63,
+        "Attack": 60,
+        "Defense": 55,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 71,
+        "Total": 349
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Very protective of its sprawling territorial area, this Pok é mon will fiercely peck at any intruder.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Very protective of its sprawling territorial area, this Pok é mon will fiercely peck at any intruder.",
+            "Yellow": "This Pok é mon is full of vitality. It constantly flies around its large territory in search of prey.",
+            "Stadium": "It builds its nest in the center of its large territory. It uses its powerfully-developed talons to swiftly snatch prey."
+        },
+        "Generation II": {
+            "Gold": "It has outstanding vision. However high it flies, it is able to distinguish the movements of its prey.",
+            "Silver": "It immobilizes its prey using well-developed claws, then carries the prey more than 60 miles to its nest.",
+            "Crystal": "It slowly flies in a circular pattern, all the while keeping a sharp lookout for prey.",
+            "Stadium 2": "It has outstanding vision. However high it flies, it is able to distinguish the movements of its prey. (Pokémon Red, Silver, or Crystal inserted) It immobilizes its prey using well-developed claws, then it carries the prey more than 60 miles to its nest. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Pidgeotto claims a large area as its own territory. This Pok é mon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+            "Sapphire": "Pidgeotto claims a large area as its own territory. This Pok é mon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+            "Emerald": "This Pok é mon flies around, patrolling its large territory. If its living space is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+            "FireRed": "The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away.",
+            "LeafGreen": "Very protective of its sprawling territorial area, this Pok é mon will fiercely peck at any intruder."
+        },
+        "Generation IV": {
+            "Diamond": "It flies over its wide territory in search of prey, downing it with its highly developed claws.",
+            "Pearl": "It flies over its wide territory in search of prey, downing it with its highly developed claws.",
+            "Platinum": "It flies over its wide territory in search of prey, downing it with its highly developed claws.",
+            "HeartGold": "It has outstanding vision. However high it flies, it is able to distinguish the movements of its prey.",
+            "SoulSilver": "It renders its prey immobile using well-developed claws, then carries the prey more than 60 miles to its nest."
+        },
+        "Generation V": {
+            "Black": "It flies over its wide territory in search of prey, downing it with its highly developed claws.",
+            "White": "It flies over its wide territory in search of prey, downing it with its highly developed claws.",
+            "Black 2": "It flies over its wide territory in search of prey, downing it with its highly developed claws.",
+            "White 2": "It flies over its wide territory in search of prey, downing it with its highly developed claws."
+        },
+        "Generation VI": {
+            "X": "The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away.",
+            "Y": "Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder.",
+            "Omega Ruby": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+            "Alpha Sapphire": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.",
+            "Let's Go Eevee": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It flies over its wide territory in search of prey, downing it with its highly developed claws.",
+            "Shining Pearl": "It flies over its wide territory in search of prey, downing it with its highly developed claws."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 14 , 15 , and 21",
+            "Blue": "Routes 14 , 15 , and 21",
+            "Blue (Japan)": "Routes 14 , 15 , and 21",
+            "Yellow": "Routes 5 , 6 , 7 , 8 , 11 , 12 , 13 , 14 , 15 , 21 , 24 , and 25 , Viridian Forest"
+        },
+        "Generation II": {
+            "Gold": "Routes 2 , 8 , 13 , 14 , 15 , 25 , 37 , and 43 Morning Day",
+            "Silver": "Routes 2 , 8 , 13 , 14 , 15 , 25 , 37 , and 43 Morning Day",
+            "Crystal": "Route 2 Day Routes 5 , 8 , 11 , 13 , 14 , 15 , 25 , 37 , 38 , 39 , and 43 Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Routes 13 , 14 , and 15 , Bond Bridge , Berry Forest , Five Isle Meadow",
+            "LeafGreen": "Routes 13 , 14 , and 15 , Bond Bridge , Berry Forest , Five Isle Meadow",
+            "Colosseum": "Trade",
+            "XD": "Cipher Key Lair (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Pidgey",
+            "Pearl": "Evolve Pidgey",
+            "Platinum": "Evolve Pidgey",
+            "HeartGold": "Routes 2 , 8 , 13 , 14 , 15 , 25 , 37 , and 43 , Viridian Forest",
+            "SoulSilver": "Routes 2 , 8 , 13 , 14 , 15 , 25 , 37 , and 43 , Viridian Forest",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Pidgey",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Pidgey",
+            "Y": "Evolve Pidgey",
+            "Omega Ruby": "Safari Zone ( hidden Pokémon * )",
+            "Alpha Sapphire": "Safari Zone ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Pidgey",
+            "Ultra Moon": "Evolve Pidgey",
+            "Let's Go Pikachu": "Routes 1 , 2 , 5 , 6 , 7 , 8 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 20 , 21 , 24 , and 25",
+            "Let's Go Eevee": "Routes 1 , 2 , 5 , 6 , 7 , 8 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 20 , 21 , 24 , and 25"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Pidgey",
+            "Shining Pearl": "Evolve Pidgey",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Pidgey",
+            "to": "Pidgeotto",
+            "method": [
+                "Level 18"
+            ]
+        },
+        {
+            "from": "Pidgeotto",
+            "to": "Pidgeot",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

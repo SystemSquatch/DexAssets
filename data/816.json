@@ -1,0 +1,63 @@
+{
+    "name": "Sobble",
+    "pokedex_number": "#0816",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Sniper"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 40,
+        "Defense": 40,
+        "Sp. Atk": 70,
+        "Sp. Def": 40,
+        "Speed": 70,
+        "Total": 310
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won't be able to resist weeping.",
+            "Shield": "When it gets wet, its skin changes color, and this Pokémon becomes invisible as if it were camouflaged."
+        },
+        "Generation IX": {
+            "Scarlet": "It gets berries to eat by shooting them down with bullets of water it spurts from its mouth. Its aim is perfect.",
+            "Violet": "It’s a very cautious Pokémon. When it has no choice but to battle, it hides itself before attacking."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "First partner Pokémon from Leon in Postwick",
+            "Shield": "First partner Pokémon from Leon in Postwick",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Savanna Biome (after boosting biodiversity in the Savanna Biome)"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Sobble",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Sobble",
+            "to": "Drizzile",
+            "method": [
+                "Level 16"
+            ]
+        }
+    ]
+}

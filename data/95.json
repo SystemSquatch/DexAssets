@@ -1,0 +1,154 @@
+{
+    "name": "Onix",
+    "pokedex_number": "#0095",
+    "types": [
+        "Rock",
+        "Ground"
+    ],
+    "abilities": [
+        "Rock Head",
+        "Sturdy",
+        "Weak Armor"
+    ],
+    "stats": {
+        "HP": 35,
+        "Attack": 45,
+        "Defense": 160,
+        "Sp. Atk": 30,
+        "Sp. Def": 45,
+        "Speed": 70,
+        "Total": 385
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
+            "Yellow": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by DIGLETTs.",
+            "Stadium": "Its large body is over 26 feet long. Despite its size, it can squirm its way through the ground at 50 mph ."
+        },
+        "Generation II": {
+            "Gold": "It twists and squirms through the ground. The thunderous roar of its tunneling echoes a long way.",
+            "Silver": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
+            "Crystal": "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.",
+            "Stadium 2": "It twists and squirms through the ground. The thunderous roar of its tunneling echoes a long way. (Pokémon Red, Silver, or Crystal inserted) It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Onix has a magnet in its brain. It acts as a compass so that this Pok é mon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
+            "Sapphire": "Onix has a magnet in its brain. It acts as a compass so that this Pok é mon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
+            "Emerald": "There is a magnet in its brain that prevents an Onix from losing direction while tunneling. As it grows older, its body becomes steadily rounder and smoother.",
+            "FireRed": "It usually lives underground. It searches for food while boring its way through the ground at 50 miles per hour .",
+            "LeafGreen": "As it grows, the stone portions of its body harden to become similar to black-colored diamonds."
+        },
+        "Generation IV": {
+            "Diamond": "When it travels underground, it causes rumbling and tremors. It can move at 50 mph .",
+            "Pearl": "It squirms through the ground using its long and rugged body. It always eats while burrowing.",
+            "Platinum": "It burrows through the ground at a speed of 50 mph while feeding on large boulders.",
+            "HeartGold": "It twists and squirms through the ground. The thunderous roar of its tunneling echoes a long way.",
+            "SoulSilver": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body."
+        },
+        "Generation V": {
+            "Black": "It burrows through the ground at a speed of 50 mph while feeding on large boulders.",
+            "White": "It burrows through the ground at a speed of 50 mph while feeding on large boulders.",
+            "Black 2": "Opening its large mouth, it ingests massive amounts of soil and creates long tunnels.",
+            "White 2": "Opening its large mouth, it ingests massive amounts of soil and creates long tunnels."
+        },
+        "Generation VI": {
+            "X": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by Diglett.",
+            "Y": "It usually lives underground. It searches for food while boring its way through the ground at 50 miles per hour .",
+            "Omega Ruby": "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
+            "Alpha Sapphire": "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by Diglett.",
+            "Let's Go Eevee": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by Diglett."
+        },
+        "Generation VIII": {
+            "Sword": "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.",
+            "Shield": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
+            "Brilliant Diamond": "When it travels underground, it causes rumbling and tremors. It can move at 50 mph .",
+            "Shining Pearl": "It squirms through the ground using its long and rugged body. It always eats while burrowing.",
+            "Legends: Arceus": "This chain of immense stones resembles a giant serpent. Tremors shake the earth above as it burrows deep beneath the ground, feeding on boulders as it goes."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Rock Tunnel , Victory Road",
+            "Blue": "Rock Tunnel , Victory Road",
+            "Blue (Japan)": "Rock Tunnel , Victory Road",
+            "Yellow": "Rock Tunnel , Victory Road"
+        },
+        "Generation II": {
+            "Gold": "Rock Tunnel , Mt. Silver Cave , Victory Road , Union Cave Trade Bellsprout in Violet City",
+            "Silver": "Rock Tunnel , Mt. Silver Cave , Victory Road , Union Cave Trade Bellsprout in Violet City",
+            "Crystal": "Rock Tunnel , Mt. Silver Cave , Victory Road , Union Cave Trade Bellsprout in Violet City"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Rock Tunnel , Victory Road , Sevault Canyon",
+            "LeafGreen": "Rock Tunnel , Victory Road , Sevault Canyon",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Iron Island , Snowpoint Temple , Oreburgh Mine , Victory Road , Stark Mountain",
+            "Pearl": "Iron Island , Snowpoint Temple , Oreburgh Mine , Victory Road , Stark Mountain",
+            "Platinum": "Iron Island , Oreburgh Mine , Victory Road , Wayward Cave",
+            "HeartGold": "Union Cave , Mt. Silver Cave , Cliff Cave , Victory Road , Rock Tunnel Safari Zone (Wasteland, default) Trade Bellsprout in Violet City",
+            "SoulSilver": "Union Cave , Mt. Silver Cave , Cliff Cave , Victory Road , Rock Tunnel Safari Zone (Wasteland, default) Trade Bellsprout in Violet City",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Rugged Road , Dim Cave , and Night Sky's Edge"
+        },
+        "Generation V": {
+            "Black": "Relic Castle",
+            "White": "Relic Castle",
+            "Black 2": "Relic Passage , Twist Mountain , Clay Tunnel , Underground Ruins , Victory Road",
+            "White 2": "Relic Passage , Twist Mountain , Clay Tunnel , Underground Ruins , Victory Road",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Cyllage City ( Rock Smash ) Glittering Cave Friend Safari ( Rock )",
+            "Y": "Glittering Cave Friend Safari ( Rock )",
+            "Omega Ruby": "Granite Cave ( hidden Pokémon * ) Mirage Caves (north of Fortree City and southeast of Route 129 )",
+            "Alpha Sapphire": "Granite Cave ( hidden Pokémon * ) Mirage Caves (north of Fortree City and southeast of Route 129 )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ten Carat Hill ( Island Scan ) Tu",
+            "Ultra Moon": "Ten Carat Hill ( Island Scan ) Tu",
+            "Let's Go Pikachu": "Mt. Moon , Rock Tunnel , Victory Road",
+            "Let's Go Eevee": "Mt. Moon , Rock Tunnel , Victory Road"
+        },
+        "Generation VIII": {
+            "Sword": "East Lake Axewell , Giant's Seat , Motostoke Riverbank Rolling Fields ( Wanderer ) Bridge Field , Dusty Bowl , Giant's Seat , Hammerlocke Hills , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "East Lake Axewell , Giant's Seat , Motostoke Riverbank Rolling Fields ( Wanderer ) Bridge Field , Dusty Bowl , Giant's Seat , Hammerlocke Hills , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Brilliant Diamond": "Iron Island , Snowpoint Temple , Oreburgh Mine , Victory Road , Stark Mountain Grand Underground - Rocky Cave , Volcanic Cave , Sandsear Cave , Big Bluff Cavern , Typhlo Cavern",
+            "Shining Pearl": "Iron Island , Snowpoint Temple , Oreburgh Mine , Victory Road , Stark Mountain Grand Underground - Rocky Cave , Volcanic Cave , Sandsear Cave , Big Bluff Cavern , Typhlo Cavern",
+            "Legends: Arceus": "Obsidian Fieldlands : Space-time distortions Crimson Mirelands : near Scarlet Bog , near Diamond Settlement , near Lake Valor , massive mass outbreaks Cobalt Coastlands : massive mass outbreaks Coronet Highlands : Celestica Trail"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Onix",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Onix",
+            "to": "Steelix",
+            "method": [
+                "Trade (holding Metal Coat)"
+            ]
+        }
+    ]
+}

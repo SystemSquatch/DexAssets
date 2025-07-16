@@ -1,0 +1,90 @@
+{
+    "name": "Archeops",
+    "pokedex_number": "#0567",
+    "types": [
+        "Rock",
+        "Flying"
+    ],
+    "abilities": [
+        "Defeatist"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 140,
+        "Defense": 65,
+        "Sp. Atk": 112,
+        "Sp. Def": 65,
+        "Speed": 110,
+        "Total": 567
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
+            "White": "It runs better than it flies. It catches prey by running at speeds comparable to those of an automobile.",
+            "Black 2": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph .",
+            "White 2": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph ."
+        },
+        "Generation VI": {
+            "X": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
+            "Y": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph .",
+            "Omega Ruby": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
+            "Alpha Sapphire": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph ."
+        },
+        "Generation VII": {
+            "Sun": "Although apparently able to fly, they tended to run along the ground, averaging speeds of roughly 25 mph .",
+            "Moon": "They hunted in flocks. When one Archeops had the prey cornered, another would swoop on it.",
+            "Ultra Sun": "This ancient Pokémon's plumage is delicate, so if anyone other than an experienced professional tries to restore it, they will fail.",
+            "Ultra Moon": "Said to be an ancestor of bird Pokémon, the muscles it uses to flap its wings are still weak, so it needs a long runway in order to take off."
+        },
+        "Generation VIII": {
+            "Sword": "It needs a running start to take off. If Archeops wants to fly, it first needs to run nearly 25 mph , building speed over a course of about 2.5 miles .",
+            "Shield": "Though capable of flight, Archeops was apparently better at hunting on the ground."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Archen",
+            "White": "Evolve Archen",
+            "Black 2": "Evolve Archen",
+            "White 2": "Evolve Archen"
+        },
+        "Generation VI": {
+            "X": "Evolve Archen",
+            "Y": "Evolve Archen",
+            "Omega Ruby": "Evolve Archen",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Evolve Archen",
+            "Ultra Sun": "Evolve Archen",
+            "Ultra Moon": "Evolve Archen",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Evolve Archen",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Archen",
+            "to": "Archeops",
+            "method": [
+                "Level 37"
+            ]
+        }
+    ]
+}

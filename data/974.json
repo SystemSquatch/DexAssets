@@ -1,0 +1,52 @@
+{
+    "name": "Cetoddle",
+    "pokedex_number": "#0974",
+    "types": [
+        "Ice",
+        "Unknown"
+    ],
+    "abilities": [
+        "Thick Fat",
+        "Snow Cloak",
+        "Sheer Force"
+    ],
+    "stats": {
+        "HP": 108,
+        "Attack": 68,
+        "Defense": 45,
+        "Sp. Atk": 30,
+        "Sp. Def": 40,
+        "Speed": 43,
+        "Total": 334
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer .",
+            "Violet": "It lives in frigid regions in pods of five or so individuals. It loves the minerals found in snow and ice."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "West Province: Area Three North Province: Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 3★ )",
+            "Violet": "West Province: Area Three North Province: Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Cetoddle",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Cetoddle",
+            "to": "Cetitan",
+            "method": [
+                "Use Ice Stone"
+            ]
+        }
+    ]
+}

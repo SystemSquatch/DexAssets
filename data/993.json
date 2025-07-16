@@ -1,0 +1,35 @@
+{
+    "name": "Iron Jugulis",
+    "pokedex_number": "#0993",
+    "types": [
+        "Dark",
+        "Flying"
+    ],
+    "abilities": [
+        "Quark Drive"
+    ],
+    "stats": {
+        "HP": 94,
+        "Attack": 80,
+        "Defense": 86,
+        "Sp. Atk": 122,
+        "Sp. Def": 80,
+        "Speed": 108,
+        "Total": 570
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It resembles a certain Pokémon introduced in a paranormal magazine, described as the offspring of a Hydreigon that fell in love with a robot.",
+            "Violet": "It's possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Union Circle",
+            "Violet": "Area Zero"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Ribombee",
+    "pokedex_number": "#0743",
+    "types": [
+        "Bug",
+        "Fairy"
+    ],
+    "abilities": [
+        "Honey Gather",
+        "Shield Dust",
+        "Sweet Veil"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 60,
+        "Sp. Atk": 95,
+        "Sp. Def": 70,
+        "Speed": 124,
+        "Total": 464
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It rolls up pollen into puffs. It makes many different varieties, some used as food and others used in battle.",
+            "Moon": "Some of Ribombee's pollen puffs are highly nutritious. They are sometimes sold as supplements.",
+            "Ultra Sun": "Rain makes pollen damp, so Ribombee hates rain. When it sees ominous clouds, it finds a hollow in a tree, where it waits stock-still.",
+            "Ultra Moon": "It can predict the weather from moisture levels and wind direction. Ribombee only reveals itself when there are a few clear days in a row."
+        },
+        "Generation VIII": {
+            "Sword": "It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.",
+            "Shield": "Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen."
+        },
+        "Generation IX": {
+            "Scarlet": "Ribombee can sense when people or Pokémon are feeling down, and it will cheer them up with handmade pollen puffs.",
+            "Violet": "Pollen puffs created by skilled Ribombee can relieve fatigue, making the puffs a popular commodity."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Ula'ula Meadow , Poni Meadow",
+            "Moon": "Ula'ula Meadow , Poni Meadow",
+            "Ultra Sun": "Ula'ula Meadow , Poni Meadow Received from Samson Oak at Heahea Beach * ( Totem -sized)",
+            "Ultra Moon": "Ula'ula Meadow , Poni Meadow",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Bridge Field , Stony Wilderness Rolling Fields , Bridge Field , South Lake Miloch , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Bridge Field , Stony Wilderness Rolling Fields , Bridge Field , South Lake Miloch , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Mossfell Confluence , Wistful Fields Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Cutiefly",
+            "to": "Ribombee",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

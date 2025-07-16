@@ -1,0 +1,161 @@
+{
+    "name": "Pikachu",
+    "pokedex_number": "#0025",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Static",
+        "Lightning Rod"
+    ],
+    "stats": {
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 30,
+        "Sp. Atk": 50,
+        "Sp. Def": 40,
+        "Speed": 90,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "When several of these Pok é mon gather, their electricity could build and cause lightning storms.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "When several of these Pok é mon gather, their electricity could build and cause lightning storms.",
+            "Yellow": "It keeps its tail raised to monitor its surroundings. If you yank its tail, it will try to bite you.",
+            "Stadium": "Lives in forests away from people. It stores electricity in its cheeks for zapping an enemy if it is attacked."
+        },
+        "Generation II": {
+            "Gold": "This intelligent Pok é mon roasts hard Berries with electricity to make them tender enough to eat.",
+            "Silver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
+            "Crystal": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+            "Stadium 2": "This intelligent Pok é mon roasts hard Berries with electricity to make them tender enough to eat. (Pokémon Red, Silver, or Crystal inserted) It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pok é mon mistook the intensity of its charge.",
+            "Sapphire": "This Pok é mon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.",
+            "Emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
+            "FireRed": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
+            "LeafGreen": "When several of these Pok é mon gather, their electricity can build and cause lightning storms."
+        },
+        "Generation IV": {
+            "Diamond": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
+            "Pearl": "If it looses crackling power from the electric pouches on its cheeks, it is being wary.",
+            "Platinum": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
+            "HeartGold": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
+            "SoulSilver": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose."
+        },
+        "Generation V": {
+            "Black": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
+            "White": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
+            "Black 2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
+            "White 2": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state."
+        },
+        "Generation VI": {
+            "X": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
+            "Y": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
+            "Omega Ruby": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
+            "Alpha Sapphire": "This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up."
+        },
+        "Generation VII": {
+            "Sun": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
+            "Moon": "This Pikachu is wearing its Trainer's cap. Since the cap's not the right size, the fit is a bit loose.",
+            "Ultra Sun": "This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.",
+            "Ultra Moon": "This Pikachu is wearing its Trainer's cap. Since the cap's not the right size, the fit is a bit loose.",
+            "Let's Go Pikachu": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.",
+            "Let's Go Eevee": "This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it."
+        },
+        "Generation VIII": {
+            "Sword": "This Pikachu wears its partner's cap, which is brimming with memories of traveling through different regions.",
+            "Shield": "This Pikachu is wearing its Trainer's cap. The cap is a precious symbol that travels across different regions with Pikachu.",
+            "Brilliant Diamond": "It lives in forests with others. It stores electricity in the electric sacs on its cheeks.",
+            "Shining Pearl": "If it looses crackling power from the electric sacs on its cheeks, it is being wary.",
+            "Legends: Arceus": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
+        },
+        "Generation IX": {
+            "Scarlet": "The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the world together.",
+            "Violet": "This Pikachu wears its partner's cap—proof of the strong bond Pikachu and its partner formed during adventures across the world."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Viridian Forest , Power Plant",
+            "Blue": "Viridian Forest , Power Plant",
+            "Blue (Japan)": "Viridian Forest , Power Plant , Rocket Game Corner",
+            "Yellow": "First Pokémon from Professor Oak in Pallet Town"
+        },
+        "Generation II": {
+            "Gold": "Route 2",
+            "Silver": "Route 2",
+            "Crystal": "Route 2 Morning Day , Celadon Game Corner"
+        },
+        "Generation III": {
+            "Ruby": "Safari Zone",
+            "Sapphire": "Safari Zone",
+            "Emerald": "Safari Zone",
+            "FireRed": "Viridian Forest , Power Plant",
+            "LeafGreen": "Viridian Forest , Power Plant",
+            "Colosseum": "Pokémon Colosseum Bonus Disc (JP)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trophy Garden",
+            "Pearl": "Trophy Garden",
+            "Platinum": "Trophy Garden",
+            "HeartGold": "Viridian Forest Trade Pikachu in Saffron City",
+            "SoulSilver": "Viridian Forest Trade Pikachu in Saffron City",
+            "Pal Park": "Forest",
+            "Pokéwalker": "Resort , Yellow Forest , Rally , and Sightseeing"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer , Event",
+            "White": "Poké Transfer , Event",
+            "Black 2": "Poké Transfer , Event",
+            "White 2": "Poké Transfer , Event"
+        },
+        "Generation VI": {
+            "X": "Santalune Forest , Route 3 , Friend Safari ( Electric )",
+            "Y": "Santalune Forest , Route 3 , Friend Safari ( Electric )",
+            "Omega Ruby": "Safari Zone (Zone 1, long grass ) Received at the Contest Hall in Verdanturf Town , Fallarbor Town , Slateport City , or Lilycove City after first Pokémon Contest ( Cosplay Pikachu )",
+            "Alpha Sapphire": "Safari Zone (Zone 1, long grass ) Received at the Contest Hall in Verdanturf Town , Fallarbor Town , Slateport City , or Lilycove City after first Pokémon Contest ( Cosplay Pikachu )"
+        },
+        "Generation VII": {
+            "Sun": "Route 1 , Hau'oli City ( SOS Battle )",
+            "Moon": "Route 1 , Hau'oli City ( SOS Battle )",
+            "Ultra Sun": "Route 1 ( SOS Battle ) Heahea City ( Surf Association , Only one ) Pikachu Valley ( QR Scanner ) ( Partner Cap Pikachu )",
+            "Ultra Moon": "Route 1 ( SOS Battle ) Heahea City ( Surf Association , Only one ) Pikachu Valley ( QR Scanner ) ( Partner Cap Pikachu )",
+            "Let's Go Pikachu": "Viridian Forest ( Pikachu ) First Pokémon from Professor Oak in Pallet Town ( Partner Pikachu )",
+            "Let's Go Eevee": "Viridian Forest"
+        },
+        "Generation VIII": {
+            "Sword": "Route 4 , Stony Wilderness Rolling Fields ( Wanderer ) Giant's Cap , Giant's Mirror , Hammerlocke Hills , Lake of Outrage , Motostoke Riverbank ( Max Raid Battle ) Meetup Spot ( Only one ) * ( Gigantamax Factor )",
+            "Shield": "Route 4 , Stony Wilderness Rolling Fields ( Wanderer ) Giant's Cap , Giant's Mirror , Hammerlocke Hills , Lake of Outrage , Motostoke Riverbank ( Max Raid Battle ) Meetup Spot ( Only one ) * ( Gigantamax Factor )",
+            "Expansion Pass": "Forest of Focus Fields of Honor , Soothing Wetlands ( Wanderer ) Challenge Beach , Fields of Honor , Forest of Focus ( Max Raid Battle )",
+            "Brilliant Diamond": "Trophy Garden",
+            "Shining Pearl": "Trophy Garden",
+            "Legends: Arceus": "Obsidian Fieldlands : Nature's Pantry , massive mass outbreaks Crimson Mirelands : near Golden Lowlands Cobalt Coastlands : Windbreak Stand Alabaster Icelands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Two , Area Four , Artazon East Province: Area One West Province: Area Three Tera Raid Battles ( 2★ , 3★ )",
+            "Violet": "South Province: Area Two , Area Four , Artazon East Province: Area One West Province: Area Three Tera Raid Battles ( 2★ , 3★ )",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Apple Hills , Oni Mountain , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Pichu",
+            "to": "Pikachu",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        },
+        {
+            "from": "Pikachu",
+            "to": "Raichu",
+            "method": [
+                "Use Thunder Stone"
+            ]
+        }
+    ]
+}

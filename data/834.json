@@ -1,0 +1,58 @@
+{
+    "name": "Drednaw",
+    "pokedex_number": "#0834",
+    "types": [
+        "Water",
+        "Rock"
+    ],
+    "abilities": [
+        "Strong Jaw",
+        "Shell Armor",
+        "Swift Swim"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 115,
+        "Defense": 90,
+        "Sp. Atk": 48,
+        "Sp. Def": 68,
+        "Speed": 74,
+        "Total": 485
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "With jaws that can shear through steel rods, this highly aggressive Pokémon chomps down on its unfortunate prey.",
+            "Shield": "This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down."
+        },
+        "Generation IX": {
+            "Scarlet": "Its massive, jagged teeth can crush a boulder in a single bite. This Pokémon has an extremely vicious disposition.",
+            "Violet": "Drednaw lurks along the shoreline. When prey come to drink water, Drednaw stretches its neck out and chomps down on them."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Route 6 , Bridge Field , Dusty Bowl , Giant's Cap , Giant's Mirror , Lake of Outrage Route 2 , Galar Mine No. 2 ( Wanderer ) West Lake Axewell , South Lake Miloch , Bridge Field , Giant's Cap , Lake of Outrage , Giant's Mirror , Dusty Bowl ( Max Raid Battle ) Giant's Cap ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Shield": "Route 6 , Bridge Field , Dusty Bowl , Giant's Cap , Giant's Mirror , Lake of Outrage Route 2 , Galar Mine No. 2 ( Wanderer ) West Lake Axewell , South Lake Miloch , Bridge Field , Giant's Cap , Lake of Outrage , Giant's Mirror , Dusty Bowl ( Max Raid Battle ) Giant's Cap ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Expansion Pass": "Fields of Honor , Soothing Wetlands , Loop Lagoon ( Wanderer ) Max Lair , Courageous Cavern ( Dynamax Adventure ) ( Gigantamax Factor )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Four , Area Five , Area Six East Province: Area Two , Area Three West Province: Area Two , Area Three North Province: Area Two , Casseroya Lake , Glaseado Mountain North Province: Casseroya Lake ( Ice Tera Type ) Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Area One , Area Four , Area Five , Area Six East Province: Area Two , Area Three West Province: Area Two , Area Three North Province: Area Two , Casseroya Lake , Glaseado Mountain North Province: Casseroya Lake ( Ice Tera Type ) Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Chewtle",
+            "to": "Drednaw",
+            "method": [
+                "Level 22"
+            ]
+        }
+    ]
+}

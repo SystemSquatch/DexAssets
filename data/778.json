@@ -1,0 +1,62 @@
+{
+    "name": "Mimikyu",
+    "pokedex_number": "#0778",
+    "types": [
+        "Ghost",
+        "Fairy"
+    ],
+    "abilities": [
+        "Disguise"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 90,
+        "Defense": 80,
+        "Sp. Atk": 50,
+        "Sp. Def": 105,
+        "Speed": 96,
+        "Total": 476
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "After going to all the effort of disguising itself, its neck was broken. Whatever is inside is probably unharmed, but it's still feeling sad.",
+            "Moon": "If its neck is broken or its rag torn during an attack, it works through the night to patch it.",
+            "Ultra Sun": "It stands in front of a mirror, trying to fix its broken neck as if its life depended on it. It has a hard time getting it right, so it's crying inside.",
+            "Ultra Moon": "Sad that its true identity may be exposed, Mimikyu will mercilessly seek revenge on any opponent that breaks its neck."
+        },
+        "Generation VIII": {
+            "Sword": "There will be no forgiveness for any who reveal that it was pretending to be Pikachu. It will bring the culprit down, even at the cost of its own life.",
+            "Shield": "Its disguise made from an old rag allowed it to avoid an attack, but the impact broke the neck of the disguise. Now everyone knows it's a Mimikyu."
+        },
+        "Generation IX": {
+            "Scarlet": "Even as it struggles beneath the cloth to repair the broken neck of its disguise, Mimikyu keeps up its impersonation of Pikachu.",
+            "Violet": "It has taken damage and can no longer hold the head of its cloth disguise upright. For as long as it lives, Mimikyu will never forget its attacker."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Thrifty Megamart (Abandoned Site)",
+            "Moon": "Thrifty Megamart (Abandoned Site)",
+            "Ultra Sun": "Thrifty Megamart (Abandoned Site) Received from Samson Oak at Heahea Beach * ( Totem -sized)",
+            "Ultra Moon": "Thrifty Megamart (Abandoned Site) Received from Samson Oak at Heahea Beach * ( Totem -sized)",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Giant's Mirror Bridge Field ( Wanderer ) Hammerlocke Hills , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Giant's Mirror Bridge Field ( Wanderer ) Hammerlocke Hills , Rolling Fields ( Max Raid Battle )",
+            "Expansion Pass": "Slippery Slope , Frostpoint Field , Giant's Bed , Old Cemetery , Snowslide Slope , Giant's Foot , Frigid Sea , Three-Point Pass , Ballimere Lake Slippery Slope , Frostpoint Field , Giant's Bed , Old Cemetery , Snowslide Slope , Giant's Foot , Ballimere Lake ( Wanderer ) Slippery Slope , Frostpoint Field , Old Cemetery , Giant's Foot , Frigid Sea , Three-Point Pass , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Area Two , Tagtree Thicket West Province: Area Three North Province: Area Two ( Fairy Tera Type ) Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "East Province: Area Two , Tagtree Thicket West Province: Area Three North Province: Area Two ( Fairy Tera Type ) Tera Raid Battles ( 5★ , 6★ )",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Infernal Pass , Chilling Waterhead , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,151 @@
+{
+    "name": "Alakazam",
+    "pokedex_number": "#0065",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Synchronize",
+        "Inner Focus",
+        "Magic Guard",
+        "Trace"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 50,
+        "Defense": 45,
+        "Sp. Atk": 135,
+        "Sp. Def": 85,
+        "Speed": 120,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5,000.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5,000.",
+            "Yellow": "A Pok é mon that can memorize anything. It never forgets what it learns--that's why this Pok é mon is smart.",
+            "Stadium": "A Pokémon that uses psychic power. It is highly intelligent and capable of instantly identifying its foe's weakness."
+        },
+        "Generation II": {
+            "Gold": "Closing both its eyes heightens all its other senses. This enables it to use its abilities to their extremes.",
+            "Silver": "Its brain cells multiply continually until it dies. As a result, it remembers everything.",
+            "Crystal": "It has an IQ of 5000. It calculates many things in order to gain the edge in every battle.",
+            "Stadium 2": "Closing both its eyes heightens all its other senses. This enables it to use its abilities to their extremes. (Pokémon Red, Silver, or Crystal inserted) Its brain cells multiply continually until it dies. As a result, it remembers everything. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Alakazam 's brain continually grows, making its head far too heavy to support with its neck. This Pok é mon holds its head up using its psychokinetic power instead.",
+            "Sapphire": "Alakazam 's brain continually grows, infinitely multiplying brain cells. This amazing brain gives this Pok é mon an astoundingly high IQ of 5,000. It has a thorough memory of everything that has occurred in the world.",
+            "Emerald": "While it has strong psychic abilities and high intelligence, an Alakazam 's muscles are very weak. It uses psychic power to move its body.",
+            "FireRed": "It does not like physical attacks very much. Instead, it freely uses extra-sensory powers to defeat foes.",
+            "LeafGreen": "Its brain can outperform a supercomputer. Its IQ (intelligence quotient) is said to be around 5,000."
+        },
+        "Generation IV": {
+            "Diamond": "Its superb memory lets it recall everything it has experienced from birth. Its IQ exceeds 5,000.",
+            "Pearl": "Its highly developed brain is on par with a supercomputer. It can use all forms of psychic abilities.",
+            "Platinum": "The spoons clutched in its hands are said to have been created by its psychic powers.",
+            "HeartGold": "Closing both its eyes heightens all its other senses. This enables it to use its abilities to their extremes.",
+            "SoulSilver": "Its brain cells multiply continually until it dies. As a result, it remembers everything."
+        },
+        "Generation V": {
+            "Black": "The spoons clutched in its hands are said to have been created by its psychic powers.",
+            "White": "The spoons clutched in its hands are said to have been created by its psychic powers.",
+            "Black 2": "The spoons clutched in its hands are said to have been created by its psychic powers.",
+            "White 2": "The spoons clutched in its hands are said to have been created by its psychic powers."
+        },
+        "Generation VI": {
+            "X": "Its brain cells multiply continually until it dies. As a result, it remembers everything.",
+            "Y": "Its brain can outperform a supercomputer. Its IQ (intelligence quotient) is said to be around 5,000.",
+            "Omega Ruby": "Alakazam's brain continually grows, making its head far too heavy to support with its neck. This Pokémon holds its head up using its psychokinetic power instead.",
+            "Alpha Sapphire": "Alakazam's brain continually grows, infinitely multiplying brain cells. This amazing brain gives this Pokémon an astoundingly high IQ of 5,000. It has a thorough memory of everything that has occurred in the world."
+        },
+        "Generation VII": {
+            "Sun": "As a result of Mega Evolution, its power has been entirely converted into psychic energy, and it has lost all strength in its muscles.",
+            "Moon": "Its hidden psychic power has been unleashed. A glance at someone gives it knowledge of the course of that person's life, from birth to death.",
+            "Ultra Sun": "It sends out psychic power from the red organ on its forehead to foresee its opponents' every move.",
+            "Ultra Moon": "Having traded away its muscles, Alakazam's true power has been unleashed. With its psychic powers, it can foresee all things.",
+            "Let's Go Pikachu": "It's adept at precognition. When attacks completely miss Alakazam, that's because it's seeing the future.",
+            "Let's Go Eevee": "It's adept at precognition. When attacks completely miss Alakazam, that's because it's seeing the future."
+        },
+        "Generation VIII": {
+            "Sword": "It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.",
+            "Shield": "Alakazam wields potent psychic powers. It's said that this Pokémon used these powers to create the spoons it holds.",
+            "Brilliant Diamond": "Its superb memory lets it recall everything it has experienced from birth. Its IQ exceeds 5,000.",
+            "Shining Pearl": "Its highly developed brain is on par with a supercomputer. It can use all forms of psychic abilities.",
+            "Legends: Arceus": "The longer Alakazam lives, the larger and heavier its head becomes. Our tests have shown that the strength of its psychic powers correlates positively to the weight of its head."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Kadabra",
+            "Blue": "Evolve Kadabra",
+            "Blue (Japan)": "Evolve Kadabra",
+            "Yellow": "Evolve Kadabra"
+        },
+        "Generation II": {
+            "Gold": "Evolve Kadabra",
+            "Silver": "Evolve Kadabra",
+            "Crystal": "Evolve Kadabra"
+        },
+        "Generation III": {
+            "Ruby": "Evolve Kadabra",
+            "Sapphire": "Evolve Kadabra",
+            "Emerald": "Evolve Kadabra",
+            "FireRed": "Evolve Kadabra",
+            "LeafGreen": "Evolve Kadabra",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Kadabra",
+            "Pearl": "Evolve Kadabra",
+            "Platinum": "Evolve Kadabra",
+            "HeartGold": "Evolve Kadabra",
+            "SoulSilver": "Evolve Kadabra",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Kadabra",
+            "Black 2": "Trade Hippowdon in Accumula Town",
+            "White 2": "Trade Hippowdon in Accumula Town"
+        },
+        "Generation VI": {
+            "X": "Evolve Kadabra",
+            "Y": "Evolve Kadabra",
+            "Omega Ruby": "Evolve Kadabra",
+            "Alpha Sapphire": "Evolve Kadabra"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Kadabra",
+            "Moon": "Evolve Kadabra",
+            "Ultra Sun": "Evolve Kadabra",
+            "Ultra Moon": "Evolve Kadabra",
+            "Let's Go Pikachu": "Evolve Kadabra",
+            "Let's Go Eevee": "Evolve Kadabra"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Loop Lagoon , Insular Sea ( Wanderer ) Soothing Wetlands , Challenge Beach ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Kadabra",
+            "Shining Pearl": "Evolve Kadabra",
+            "Legends: Arceus": "Obsidian Fieldlands : Sandgem Flats , massive mass outbreaks Cobalt Coastlands : Space-time distortions Alabaster Icelands : Lake Acuity , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Kadabra",
+            "to": "Alakazam",
+            "method": [
+                "Trade"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "name": "Groudon",
+    "pokedex_number": "#0383",
+    "types": [
+        "Ground",
+        "Unknown"
+    ],
+    "abilities": [
+        "Drought",
+        "Desolate Land"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 150,
+        "Defense": 140,
+        "Sp. Atk": 100,
+        "Sp. Def": 90,
+        "Speed": 90,
+        "Total": 670
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Groudon has long been described in mythology as the Pok é mon that raised lands and expanded continents. This Pok é mon took to sleep after a cataclysmic battle with Kyogre .",
+            "Sapphire": "Groudon has the power to scatter rain clouds and make water evaporate with light and heat. It came as a savior to people who had been suffering from terrible floods.",
+            "Emerald": "Groudon has appeared in mythology as the creator of the land. It sleeps in magma underground and is said to make volcanoes erupt on awakening.",
+            "FireRed": "This legendary Pok é mon is said to represent the land. It went to sleep after dueling Kyogre .",
+            "LeafGreen": "This legendary Pok é mon is said to represent the land. It went to sleep after dueling Kyogre ."
+        },
+        "Generation IV": {
+            "Diamond": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
+            "Pearl": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
+            "Platinum": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
+            "HeartGold": "Said to have expanded the lands by evaporating water with raging heat. It battled titanically with Kyogre .",
+            "SoulSilver": "Said to have expanded the lands by evaporating water with raging heat. It battled titanically with Kyogre ."
+        },
+        "Generation V": {
+            "Black": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
+            "White": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
+            "Black 2": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
+            "White 2": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago."
+        },
+        "Generation VI": {
+            "X": "Said to have expanded the lands by evaporating water with raging heat. It battled titanically with Kyogre.",
+            "Y": "This legendary Pokémon is said to represent the land. It went to sleep after dueling Kyogre.",
+            "Omega Ruby": "Groudon is said to be the personification of the land itself. Legends tell of its many clashes against Kyogre, as each sought to gain the power of nature.",
+            "Alpha Sapphire": "Through Primal Reversion and with nature's full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
+            "Shining Pearl": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Cave of Origin ( Only one )",
+            "Sapphire": "Trade",
+            "Emerald": "Terra Cave ( Only one )",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Trade",
+            "SoulSilver": "Embedded Tower (requires Red Orb ) ( Only one )",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade , Event",
+            "Y": "Trade , Event",
+            "Omega Ruby": "Cave of Origin ( Only one )",
+            "Alpha Sapphire": "Trade , Event"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Cave World ) ( Only one )",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Sword Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one )",
+            "Brilliant Diamond": "Ramanas Park (requires Tectonic Slate ) ( Only one )",
+            "Shining Pearl": "Ramanas Park (requires Tectonic Slate ) ( Only one )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Alfornada Cavern after receiving the Groudon Treat from Snacksworth ( Only one )"
+        }
+    },
+    "evolution": []
+}

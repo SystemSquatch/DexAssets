@@ -1,0 +1,52 @@
+{
+    "name": "Shroodle",
+    "pokedex_number": "#0944",
+    "types": [
+        "Poison",
+        "Normal"
+    ],
+    "abilities": [
+        "Unburden",
+        "Pickpocket",
+        "Prankster"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 65,
+        "Defense": 35,
+        "Sp. Atk": 40,
+        "Sp. Def": 35,
+        "Speed": 75,
+        "Total": 290
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.",
+            "Violet": "To keep enemies away from its territory, it paints markings around its nest using a poisonous liquid that has an acrid odor."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two East Province: Area One , Area Two , Tagtree Thicket West Province: Area Three Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two East Province: Area One , Area Two , Tagtree Thicket West Province: Area Three Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Shroodle",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Shroodle",
+            "to": "Grafaiai",
+            "method": [
+                "Level 28"
+            ]
+        }
+    ]
+}

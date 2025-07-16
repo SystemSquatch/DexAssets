@@ -1,0 +1,136 @@
+{
+    "name": "Octillery",
+    "pokedex_number": "#0224",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Suction Cups",
+        "Sniper",
+        "Moody"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 105,
+        "Defense": 75,
+        "Sp. Atk": 105,
+        "Sp. Def": 75,
+        "Speed": 45,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It traps enemies with its suction-cupped tentacles then smashes them with its rock-hard head.",
+            "Silver": "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow Octillery .",
+            "Crystal": "Its instinct is to bury itself in holes. It often steals the nesting holes of others to sleep in them.",
+            "Stadium 2": "It traps enemies with its suction cupped tentacles then smashes them with its rock-hard head. (Pokémon Red, Silver, or Crystal inserted) It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow Octillery . (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Octillery grabs onto its foe using its tentacles. This Pok é mon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.",
+            "Sapphire": "Octillery grabs onto its foe using its tentacles. This Pok é mon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.",
+            "Emerald": "It ensnares its foe with its suction-cupped tentacles before delivering the finishing blow. If the foe turns out to be too strong, it spews ink to escape.",
+            "FireRed": "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow Octillery .",
+            "LeafGreen": "It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head."
+        },
+        "Generation IV": {
+            "Diamond": "It lives in the gaps of boulders and in holes on the seafloor. Its suction cups grip prey tightly.",
+            "Pearl": "It obscures its foe's vision by spitting a cloud of murky ink. It makes its nest among boulders.",
+            "Platinum": "It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.",
+            "HeartGold": "It traps foes with the suction cups on its tentacles, then smashes them with its rock-hard head.",
+            "SoulSilver": "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow Octillery ."
+        },
+        "Generation V": {
+            "Black": "It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.",
+            "White": "It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.",
+            "Black 2": "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.",
+            "White 2": "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking."
+        },
+        "Generation VI": {
+            "X": "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.",
+            "Y": "It traps foes with the suction cups on its tentacles, then smashes them with its rock-hard head.",
+            "Omega Ruby": "Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.",
+            "Alpha Sapphire": "Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape."
+        },
+        "Generation VII": {
+            "Ultra Sun": "The ink it spits when escaping is special. It contains a substance that dulls the sense of smell, so Pokémon with keen noses get lost.",
+            "Ultra Moon": "It usually sleeps in caves. The pitch-black ink that Octillery spits is also used for cooking."
+        },
+        "Generation VIII": {
+            "Sword": "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.",
+            "Shield": "It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head.",
+            "Brilliant Diamond": "It lives in the gaps of boulders and in holes on the seafloor. Its suction cups grip prey tightly.",
+            "Shining Pearl": "It obscures its foe's vision by spitting a cloud of black ink. It makes its nest among boulders.",
+            "Legends: Arceus": "While Octillery still shoots water from its mouth, the drastic anatomical difference between it and Remoraid meant that for a long time, no one believed the former evolved from the latter."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Remoraid",
+            "Silver": "Evolve Remoraid",
+            "Crystal": "Trade"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Safari Zone extension ( Super Rod )",
+            "FireRed": "Trade",
+            "LeafGreen": "Evolve Remoraid",
+            "Colosseum": "Evolve Remoraid",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 213 , 222 , 223 , 224 , and 230 , Pastoria City , Sunyshore City , Pokémon League ( Super Rod )",
+            "Pearl": "Routes 213 , 222 , 223 , 224 , and 230 , Pastoria City , Sunyshore City , Pokémon League ( Super Rod )",
+            "Platinum": "Routes 212 , 213 , 222 , 223 , 224 , and 230 , Pastoria City , Sunyshore City , Pokémon League ( Super Rod ) Route 223 ( Good Rod )",
+            "HeartGold": "Evolve Remoraid",
+            "SoulSilver": "Evolve Remoraid",
+            "Pal Park": "Sea",
+            "Pokéwalker": "Beyond the Sea"
+        },
+        "Generation V": {
+            "Black": "Undella Town and Undella Bay ( Fishing in rippling water )",
+            "White": "Undella Town and Undella Bay ( Fishing in rippling water )",
+            "Black 2": "Route 21 and Undella Bay ( Fishing in rippling water )",
+            "White 2": "Route 21 and Undella Bay ( Fishing in rippling water )"
+        },
+        "Generation VI": {
+            "X": "Route 12 , Shalour City , Azure Bay ( Super Rod ) Friend Safari ( Water )",
+            "Y": "Route 12 , Shalour City , Azure Bay ( Super Rod ) Friend Safari ( Water )",
+            "Omega Ruby": "Battle Resort ( Super Rod )",
+            "Alpha Sapphire": "Battle Resort ( Super Rod )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 8 , Kala'e Bay , Melemele Sea ( SOS Battle , fishing )",
+            "Ultra Moon": "Route 8 , Kala'e Bay , Melemele Sea ( SOS Battle , fishing )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 9 Route 9 , Axew's Eye ( Fishing ) South Lake Miloch ( Wanderer ) East Lake Axewell , North Lake Miloch , South Lake Miloch , West Lake Axewell , North Lake Miloch ( Max Raid Battle )",
+            "Shield": "Route 9 Route 9 , Axew's Eye ( Fishing ) South Lake Miloch ( Wanderer ) East Lake Axewell , North Lake Miloch , South Lake Miloch , West Lake Axewell , North Lake Miloch ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor , Workout Sea ( Fishing ) Challenge Beach , Loop Lagoon ( Wanderer ) Fields of Honor , Loop Lagoon ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Routes 213 , 222 , 223 , 224 , and 230 , Pastoria City , Sunyshore City , Pokémon League ( Super Rod ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining TM99 ( Waterfall ))",
+            "Shining Pearl": "Routes 213 , 222 , 223 , 224 , and 230 , Pastoria City , Sunyshore City , Pokémon League ( Super Rod ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining TM99 ( Waterfall ))",
+            "Legends: Arceus": "Cobalt Coastlands : Castaway Shore (also mass outbreaks ), near Islespy Shore , Seaside Hollow (after catching Manaphy during Request 66) Coronet Highlands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Remoraid",
+            "to": "Octillery",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

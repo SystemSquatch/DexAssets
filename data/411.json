@@ -1,0 +1,110 @@
+{
+    "name": "Bastiodon",
+    "pokedex_number": "#0411",
+    "types": [
+        "Rock",
+        "Steel"
+    ],
+    "abilities": [
+        "Sturdy",
+        "Soundproof"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 52,
+        "Defense": 168,
+        "Sp. Atk": 47,
+        "Sp. Def": 138,
+        "Speed": 30,
+        "Total": 495
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.",
+            "Pearl": "When attacked, they form a wall with their shieldlike faces to protect their young.",
+            "Platinum": "When they lined up side by side, no foe could break through. They shielded their young in that way.",
+            "HeartGold": "When attacked, they form a wall. Their rock-hard faces serve to protect them from the attacks.",
+            "SoulSilver": "When attacked, they form a wall. Their rock-hard faces serve to protect them from the attacks."
+        },
+        "Generation V": {
+            "Black": "When they lined up side by side, no foe could break through. They shielded their young in that way.",
+            "White": "When they lined up side by side, no foe could break through. They shielded their young in that way.",
+            "Black 2": "When they lined up side by side, no foe could break through. They shielded their young in that way.",
+            "White 2": "When they lined up side by side, no foe could break through. They shielded their young in that way."
+        },
+        "Generation VI": {
+            "X": "When they lined up side by side, no foe could break through. They shielded their young in that way.",
+            "Y": "Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.",
+            "Omega Ruby": "When they lined up side by side, no foe could break through. They shielded their young in that way.",
+            "Alpha Sapphire": "Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries."
+        },
+        "Generation VII": {
+            "Sun": "While it can guard against any sort of attack from the front, it is left without recourse when attacked from behind.",
+            "Moon": "It lived in the same environments as Rampardos . Their fossils have been found together—seemingly from after they'd fought to the finish.",
+            "Ultra Sun": "The bones of its face are huge and hard, so they were mistaken for its spine until after this Pokémon was successfully restored.",
+            "Ultra Moon": "This Pokémon is from roughly 100 million years ago. Its terrifyingly tough face is harder than steel."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.",
+            "Shining Pearl": "When attacked, they form a wall with their shield-like faces to protect their young.",
+            "Legends: Arceus": "Its face is sturdy—as strong as diamond—and this hardness offers a very stable defense. Much about this species is still unknown, such as its natural habitat."
+        },
+        "Generation IX": {
+            "Scarlet": "While it can guard against any sort of attack from the front, it is left without recourse when attacked from behind.",
+            "Violet": "Bastiodon live in herds. When assaulted by enemies, they line up side by side and use their hard faces to block attacks."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Evolve Shieldon",
+            "Platinum": "Trade Evolve Shieldon *",
+            "HeartGold": "Trade",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Evolve Shieldon",
+            "White": "Evolve Shieldon",
+            "Black 2": "Evolve Shieldon",
+            "White 2": "Evolve Shieldon"
+        },
+        "Generation VI": {
+            "X": "Evolve Shieldon",
+            "Y": "Evolve Shieldon",
+            "Omega Ruby": "Evolve Shieldon",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Evolve Shieldon",
+            "Ultra Sun": "Evolve Shieldon",
+            "Ultra Moon": "Evolve Shieldon",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Evolve Shieldon",
+            "Legends: Arceus": "Coronet Highlands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Tera Raid Battle Search ( 4★ )",
+            "The Hidden Treasure of Area Zero (Violet)": "Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Shieldon",
+            "to": "Bastiodon",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

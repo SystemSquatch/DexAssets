@@ -1,0 +1,149 @@
+{
+    "name": "Venusaur",
+    "pokedex_number": "#0003",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Chlorophyll",
+        "Thick Fat"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 83,
+        "Sp. Atk": 100,
+        "Sp. Def": 100,
+        "Speed": 80,
+        "Total": 525
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+            "Yellow": "The flower on its back catches the sun's rays. The sunlight is then absorbed and used for energy.",
+            "Stadium": "Absorbs solar energy as nutrition. When it is catching the sun's rays, it often remains quiet and still."
+        },
+        "Generation II": {
+            "Gold": "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power.",
+            "Silver": "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime.",
+            "Crystal": "As it warms itself and absorbs the sunlight, its flower petals release a pleasant fragrance.",
+            "Stadium 2": "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power. (Pokémon Red, Silver, or Crystal inserted) It is able to convert sunlight into energy. As a result, it is more powerful in the summertime. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "There is a large flower on Venusaur 's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+            "Sapphire": "There is a large flower on Venusaur 's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+            "Emerald": "Venusaur 's flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+            "FireRed": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
+            "LeafGreen": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
+        },
+        "Generation IV": {
+            "Diamond": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+            "Pearl": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+            "Platinum": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+            "HeartGold": "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power.",
+            "SoulSilver": "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime."
+        },
+        "Generation V": {
+            "Black": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+            "White": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+            "Black 2": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+            "White 2": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon."
+        },
+        "Generation VI": {
+            "X": "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power.",
+            "Y": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+            "Omega Ruby": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+            "Alpha Sapphire": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "In order to support its flower, which has grown larger due to Mega Evolution, its back and legs have become stronger.",
+            "Let's Go Eevee": "In order to support its flower, which has grown larger due to Mega Evolution, its back and legs have become stronger."
+        },
+        "Generation VIII": {
+            "Sword": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+            "Shield": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
+            "Brilliant Diamond": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+            "Shining Pearl": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon."
+        },
+        "Generation IX": {
+            "Scarlet": "While it basks in the sun, it can convert the light into energy. As a result, it is more powerful in the summertime.",
+            "Violet": "By spreading the broad petals of its flower and catching the sun’s rays, it fills its body with power."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Ivysaur",
+            "Blue": "Evolve Ivysaur",
+            "Blue (Japan)": "Evolve Ivysaur",
+            "Yellow": "Evolve Ivysaur"
+        },
+        "Generation II": {
+            "Gold": "Time Capsule , Event",
+            "Silver": "Time Capsule , Event",
+            "Crystal": "Time Capsule , Event"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Ivysaur",
+            "LeafGreen": "Evolve Ivysaur",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Ivysaur",
+            "SoulSilver": "Evolve Ivysaur",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Evolve Ivysaur",
+            "Y": "Evolve Ivysaur",
+            "Omega Ruby": "Trade , Event",
+            "Alpha Sapphire": "Trade , Event"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Ivysaur",
+            "Ultra Moon": "Evolve Ivysaur",
+            "Let's Go Pikachu": "Evolve Ivysaur",
+            "Let's Go Eevee": "Evolve Ivysaur"
+        },
+        "Generation VIII": {
+            "Sword": "Evolve Wild Area News Ivysaur Trade Version 1.2.0+",
+            "Shield": "Evolve Wild Area News Ivysaur Trade Version 1.2.0+",
+            "Expansion Pass": "Evolve Ivysaur Forest of Focus , Training Lowlands ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Ivysaur",
+            "Shining Pearl": "Evolve Ivysaur",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Ivysaur"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Ivysaur",
+            "to": "Venusaur",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "name": "Flareon",
+    "pokedex_number": "#0136",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Flash Fire",
+        "Guts"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 130,
+        "Defense": 60,
+        "Sp. Atk": 95,
+        "Sp. Def": 110,
+        "Speed": 65,
+        "Total": 525
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees .",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees .",
+            "Yellow": "It has a flame chamber inside its body. It inhales, then blows out fire that is over 3,000F degrees .",
+            "Stadium": "Its fiery breath reaches close to 3,000 degrees . Its body temperature exceeds 1,650 degrees when storing fire inside."
+        },
+        "Generation II": {
+            "Gold": "It stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees .",
+            "Silver": "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees .",
+            "Crystal": "Once it has stored up enough heat, this Pok é mon 's body temperature can reach up to 1700 degrees .",
+            "Stadium 2": "It stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees. (Pokémon Red, Silver, or Crystal inserted) It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Flareon's fluffy fur has a functional purpose - it releases heat into the air so that its body does not get excessively hot. This Pokémon's body temperature can rise to a maximum of 1,650 degrees F .",
+            "Sapphire": "Flareon's fluffy fur has a functional purpose - it releases heat into the air so that its body does not get excessively hot. This Pokémon's body temperature can rise to a maximum of 1,650 degrees F .",
+            "Emerald": "Flareon's fluffy fur releases heat into the air so that its body does not get excessively hot. Its body temperature can rise to a maximum of 1,650 degrees F .",
+            "FireRed": "It has a flame bag inside its body. After inhaling deeply, it blows out flames of nearly 3,100 degrees Fahrenheit .",
+            "LeafGreen": "When storing thermal energy in its body, its temperature can soar to over 1,600 degrees Fahrenheit ."
+        },
+        "Generation IV": {
+            "Diamond": "It has a flame sac in its body. Its body temperature tops 1,650 degrees Fahrenheit before battle.",
+            "Pearl": "It has a flame sac in its body. Its body temperature tops 1,650 degrees Fahrenheit before battle.",
+            "Platinum": "Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit .",
+            "HeartGold": "It stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees Fahrenheit .",
+            "SoulSilver": "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit ."
+        },
+        "Generation V": {
+            "Black": "Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit .",
+            "White": "Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit .",
+            "Black 2": "Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees F .",
+            "White 2": "Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees F ."
+        },
+        "Generation VI": {
+            "X": "It has a flame sac in its body. Its body temperature tops 1,650 degrees Fahrenheit before battle.",
+            "Y": "It has a flame bag inside its body. After inhaling deeply, it blows out flames of nearly 3,000 degrees Fahrenheit .",
+            "Omega Ruby": "Flareon's fluffy fur has a functional purpose—it releases heat into the air so that its body does not get excessively hot. This Pokémon's body temperature can rise to a maximum of 1,650 degrees Fahrenheit .",
+            "Alpha Sapphire": "Flareon's fluffy fur has a functional purpose—it releases heat into the air so that its body does not get excessively hot. This Pokémon's body temperature can rise to a maximum of 1,650 degrees Fahrenheit ."
+        },
+        "Generation VII": {
+            "Sun": "When it catches prey or finds berries, it breathes fire on them until they're well done, and then it gobbles them up.",
+            "Moon": "Its average body temperature is between 1,300 and 1,500 degrees Fahrenheit . In its internal flame sac, temperatures reach 3,000 degrees .",
+            "Ultra Sun": "If it inhales deeply, that's a sign it's about to attack. Prepare to be hit by flames of over 3,000 degrees Fahrenheit !",
+            "Ultra Moon": "The flame chamber inside its body ignites when Flareon gets agitated, reaching temperatures of up to 1,650 degrees Fahrenheit .",
+            "Let's Go Pikachu": "It has a flame chamber inside its body. It inhales, then breathes out fire that is over 3,000 degrees Fahrenheit .",
+            "Let's Go Eevee": "It has a flame chamber inside its body. It inhales, then breathes out fire that is over 3,000 degrees Fahrenheit ."
+        },
+        "Generation VIII": {
+            "Sword": "Once it has stored up enough heat, this Pokémon's body temperature can reach up to 1,700 degrees Fahrenheit .",
+            "Shield": "It stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees Fahrenheit .",
+            "Brilliant Diamond": "It has a flame sac in its body. Its body temperature tops 1,650 degrees Fahrenheit before battle.",
+            "Shining Pearl": "It has a flame sac in its body. Its body temperature tops 1,650 degrees Fahrenheit before battle.",
+            "Legends: Arceus": "Flames burn within a saclike organ inside this Pokémon. When Flareon inhales, these flames grow in intensity, reaching a mighty 3,000 degrees Fahrenheit ."
+        },
+        "Generation IX": {
+            "Scarlet": "Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees Fahrenheit .",
+            "Violet": "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit ."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Eevee",
+            "Blue": "Evolve Eevee",
+            "Blue (Japan)": "Evolve Eevee",
+            "Yellow": "Evolve Eevee"
+        },
+        "Generation II": {
+            "Gold": "Evolve Eevee",
+            "Silver": "Evolve Eevee",
+            "Crystal": "Evolve Eevee"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Eevee",
+            "LeafGreen": "Evolve Eevee",
+            "Colosseum": "Trade",
+            "XD": "Evolve Eevee"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Eevee",
+            "Pearl": "Evolve Eevee",
+            "Platinum": "Evolve Eevee",
+            "HeartGold": "Evolve Eevee",
+            "SoulSilver": "Evolve Eevee",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade Global Link event",
+            "White": "Trade Global Link event",
+            "Black 2": "Evolve Eevee",
+            "White 2": "Evolve Eevee"
+        },
+        "Generation VI": {
+            "X": "Evolve Eevee",
+            "Y": "Evolve Eevee",
+            "Omega Ruby": "Evolve Eevee",
+            "Alpha Sapphire": "Evolve Eevee"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Eevee",
+            "Moon": "Evolve Eevee",
+            "Ultra Sun": "Evolve Eevee",
+            "Ultra Moon": "Evolve Eevee",
+            "Let's Go Pikachu": "Evolve Eevee",
+            "Let's Go Eevee": "Evolve Eevee"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage ( Wanderer ) Giant's Cap ( Max Raid Battle )",
+            "Shield": "Lake of Outrage ( Wanderer ) Giant's Cap ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed ( Wanderer ) Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Eevee",
+            "Shining Pearl": "Evolve Eevee",
+            "Legends: Arceus": "Crimson Mirelands Space-time distortions Cobalt Coastlands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six North Province: Area One , Dalizapa Passage South Province: Area Five ( Fire Tera Type ) Tera Raid Battles ( 6★ )",
+            "Violet": "South Province: Area Six North Province: Area One , Dalizapa Passage South Province: Area Five ( Fire Tera Type ) Tera Raid Battles ( 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Eevee",
+            "to": "Flareon",
+            "method": [
+                "Use Fire Stone"
+            ]
+        }
+    ]
+}

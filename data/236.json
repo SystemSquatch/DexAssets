@@ -1,0 +1,157 @@
+{
+    "name": "Tyrogue",
+    "pokedex_number": "#0236",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Guts",
+        "Steadfast",
+        "Vital Spirit"
+    ],
+    "stats": {
+        "HP": 35,
+        "Attack": 35,
+        "Defense": 35,
+        "Sp. Atk": 35,
+        "Sp. Def": 35,
+        "Speed": 35,
+        "Total": 210
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
+            "Silver": "Even though it is small, it can't be ignored because it will slug any handy target without warning.",
+            "Crystal": "To brush up on its fighting skills, it will challenge anyone. It has a very strong competitive spirit.",
+            "Stadium 2": "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses. (Pokémon Red, Silver, or Crystal inserted) Even though it is small, it can't be ignored because it will slug any handy target without warning. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pok é mon , the Trainer must establish and uphold various training methods.",
+            "Sapphire": "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pok é mon , the Trainer must establish and uphold various training methods.",
+            "Emerald": "Tyrogue become stressed out if they do not get to train every day. When raising this Pok é mon , the Trainer must establish a regular training schedule.",
+            "FireRed": "Even though it is small, it can't be ignored because it will slug any handy target without warning.",
+            "LeafGreen": "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses."
+        },
+        "Generation IV": {
+            "Diamond": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+            "Pearl": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+            "Platinum": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+            "HeartGold": "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
+            "SoulSilver": "Even though it is small, it can't be ignored because it will slug any handy target without warning."
+        },
+        "Generation V": {
+            "Black": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+            "White": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+            "Black 2": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+            "White 2": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes."
+        },
+        "Generation VI": {
+            "X": "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
+            "Y": "To brush up on its fighting skills, it will challenge anyone. It has a very strong competitive spirit.",
+            "Omega Ruby": "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods.",
+            "Alpha Sapphire": "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",
+            "Shield": "Even though it is small, it can't be ignored because it will slug any handy target without warning.",
+            "Brilliant Diamond": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+            "Shining Pearl": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes."
+        },
+        "Generation IX": {
+            "Scarlet": "This earnest Pokémon battles all sorts of opponents, searching for the fighting style that suits it best.",
+            "Violet": "Its intense desire to become stronger and stronger drives it to recklessly train its body and challenge any opponent it can find to battle."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Received from Kiyo in Mt. Mortar",
+            "Silver": "Received from Kiyo in Mt. Mortar",
+            "Crystal": "Received from Kiyo in Mt. Mortar Route 34 ( Odd Egg * )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Breed Hitmonchan or Hitmonlee",
+            "LeafGreen": "Breed Hitmonchan or Hitmonlee",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 208 and 211 ( Poké Radar )",
+            "Pearl": "Routes 208 and 211 ( Poké Radar )",
+            "Platinum": "Route 211 (west side, Poké Radar )",
+            "HeartGold": "Received from Kiyo in Mt. Mortar",
+            "SoulSilver": "Received from Kiyo in Mt. Mortar",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Route 10 ( Swarm )",
+            "White": "Route 10 ( Swarm )",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Fighting )",
+            "Y": "Friend Safari ( Fighting )",
+            "Omega Ruby": "Route 112 , Jagged Pass , Fiery Path ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 112 , Jagged Pass , Fiery Path ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 3 , Rolling Fields , Dappled Grove , West Lake Axewell , South Lake Miloch , Giant's Seat , Stony Wilderness Dusty Bowl , North Lake Miloch , Rolling Fields , South Lake Miloch , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 3 , Rolling Fields , Dappled Grove , West Lake Axewell , South Lake Miloch , Giant's Seat , Stony Wilderness Dusty Bowl , North Lake Miloch , Rolling Fields , South Lake Miloch , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Frostpoint Field , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Routes 208 and 211 ( Poké Radar ) Grand Underground - Spacious Cave , Grassland Cave , Sunlit Cavern , Riverbank Cave , Still-Water Cavern , Whiteout Cave (After obtaining the National Pokédex )",
+            "Shining Pearl": "Routes 208 and 211 ( Poké Radar ) Grand Underground - Spacious Cave , Grassland Cave , Sunlit Cavern , Riverbank Cave , Still-Water Cavern , Whiteout Cave (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Canyon Biome , Chargestone Cavern Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Tyrogue",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Tyrogue",
+            "to": "Hitmonlee",
+            "method": [
+                "Level 20"
+            ]
+        },
+        {
+            "from": "Tyrogue",
+            "to": "Hitmonchan",
+            "method": [
+                "Level 20"
+            ]
+        },
+        {
+            "from": "Tyrogue",
+            "to": "Hitmontop",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

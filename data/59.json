@@ -1,0 +1,155 @@
+{
+    "name": "Arcanine",
+    "pokedex_number": "#0059",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Flash Fire",
+        "Justified",
+        "Rock Head"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 110,
+        "Defense": 80,
+        "Sp. Atk": 100,
+        "Sp. Def": 80,
+        "Speed": 95,
+        "Total": 555
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "A Pok é mon that has been admired since the past for its beauty. It runs agilely as if on wings.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "A Pok é mon that has been admired since the past for its beauty. It runs agilely as if on wings.",
+            "Yellow": "A legendary Pok é mon in China. Many people are charmed by its grace and beauty while running.",
+            "Stadium": "A Pokémon whose beauty is legendary in China. It is said to run gracefully and lightly, as if it were flying."
+        },
+        "Generation II": {
+            "Gold": "This legendary Chinese Pok é mon is considered magnificent. Many people are enchanted by its grand mane.",
+            "Silver": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it.",
+            "Crystal": "An ancient picture scroll shows that people were attracted to its movement as it ran through prairies.",
+            "Stadium 2": "This legendary Chinese Pok é mon is considered magnificent. Many people are enchanted by its grand mane. (Pokémon Red, Silver, or Crystal inserted) Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pok é mon 's body is its source of power.",
+            "Sapphire": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pok é mon 's body is its source of power.",
+            "Emerald": "This fleet-footed Pok é mon is said to run over 6,200 miles in a single day and night. The fire that blazes wildly within its body is its source of power.",
+            "FireRed": "A Pok é mon that is described in Chinese legends. It is said to race at an unbelievable speed.",
+            "LeafGreen": "A Pok é mon that has long been admired for its beauty. It runs agilely as if on wings."
+        },
+        "Generation IV": {
+            "Diamond": "Its proud and regal appearance has captured the hearts of people since long ago.",
+            "Pearl": "Its proud and regal appearance has captured the hearts of people since long ago.",
+            "Platinum": "Its proud and regal appearance has captured the hearts of people since long ago.",
+            "HeartGold": "This legendary Chinese Pokémon is considered magnificent. Many people are enchanted by its grand mane.",
+            "SoulSilver": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it."
+        },
+        "Generation V": {
+            "Black": "Its proud and regal appearance has captured the hearts of people since long ago.",
+            "White": "Its proud and regal appearance has captured the hearts of people since long ago.",
+            "Black 2": "The sight of it running over 6,200 miles in a single day and night has captivated many people.",
+            "White 2": "The sight of it running over 6,200 miles in a single day and night has captivated many people."
+        },
+        "Generation VI": {
+            "X": "A Pokémon that has long been admired for its beauty. It runs agilely as if on wings.",
+            "Y": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it.",
+            "Omega Ruby": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon's body is its source of power.",
+            "Alpha Sapphire": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon's body is its source of power."
+        },
+        "Generation VII": {
+            "Sun": "Overflowing with beauty and majesty, this strong Pokémon appears in ancient Eastern folklore.",
+            "Moon": "The fire burning inside its body serves as the energy to fuel it as it runs great distances. It appears in many legends.",
+            "Ultra Sun": "Legends tell of its fighting alongside a general and conquering a whole country.",
+            "Ultra Moon": "There are so many old tales about them that they're called legendary Pokémon, but there are way more of them around than you'd expect.",
+            "Let's Go Pikachu": "A legendary Pokémon in the East. Many people are charmed by the grace and beauty of its running.",
+            "Let's Go Eevee": "A legendary Pokémon in the East. Many people are charmed by the grace and beauty of its running."
+        },
+        "Generation VIII": {
+            "Sword": "The sight of it running over 6,200 miles in a single day and night has captivated many people.",
+            "Shield": "A Pokémon that has long been admired for its beauty. It runs agilely as if on wings.",
+            "Brilliant Diamond": "Its proud and regal appearance has captured the hearts of people since long ago.",
+            "Shining Pearl": "Its proud and regal appearance has captured the hearts of people since long ago.",
+            "Legends: Arceus": "Snaps at its foes with fangs cloaked in blazing flame. Despite its bulk, it deftly feints every which way, leading opponents on a deceptively merry chase as it all but dances around them."
+        },
+        "Generation IX": {
+            "Scarlet": "An ancient picture scroll shows that people were captivated by its movement as it ran through prairies.",
+            "Violet": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Growlithe",
+            "Blue": "Trade",
+            "Blue (Japan)": "Evolve Growlithe",
+            "Yellow": "Evolve Growlithe"
+        },
+        "Generation II": {
+            "Gold": "Evolve Growlithe",
+            "Silver": "Trade",
+            "Crystal": "Evolve Growlithe"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Growlithe",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Evolve Growlithe"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Growlithe",
+            "Pearl": "Evolve Growlithe",
+            "Platinum": "Evolve Growlithe",
+            "HeartGold": "Evolve Growlithe",
+            "SoulSilver": "Trade",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Evolve Growlithe",
+            "White 2": "Evolve Growlithe"
+        },
+        "Generation VI": {
+            "X": "Evolve Growlithe",
+            "Y": "Evolve Growlithe",
+            "Omega Ruby": "Evolve Growlithe",
+            "Alpha Sapphire": "Evolve Growlithe"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Growlithe",
+            "Moon": "Evolve Growlithe",
+            "Ultra Sun": "Evolve Growlithe",
+            "Ultra Moon": "Evolve Growlithe",
+            "Let's Go Pikachu": "Routes 7 and 8",
+            "Let's Go Eevee": "Vermilion City ( Only one )"
+        },
+        "Generation VIII": {
+            "Sword": "Giant's Cap ( Max Raid Battle )",
+            "Shield": "Lake of Outrage Dusty Bowl , Giant's Cap , Hammerlocke Hills , Lake of Outrage , Stony Wilderness ( Max Raid Battle )",
+            "Shield Expansion Pass": "Fields of Honor , Challenge Beach , Loop Lagoon , Potbottom Desert , Snowslide Slope , Giant's Bed , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Growlithe",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Cobalt Coastlands : massive mass outbreaks ( Hisuian Form ) Unobtainable ( Kantonian Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Four ( Kantonian Form ) North Province: Area Two ( Kantonian Form ) Tera Raid Battles ( 5★ ) ( Kantonian Form ) Pokémon HOME ( Hisuian Form )",
+            "Violet": "South Province: Area Four ( Kantonian Form ) North Province: Area Two ( Kantonian Form ) Tera Raid Battles ( 5★ ) ( Kantonian Form ) Pokémon HOME ( Hisuian Form )",
+            "The Hidden Treasure of Area Zero": "Evolve Growlithe ( Kantonian/Hisuian Forms )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Growlithe",
+            "to": "Arcanine",
+            "method": [
+                "Use Fire Stone"
+            ]
+        }
+    ]
+}

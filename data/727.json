@@ -1,0 +1,71 @@
+{
+    "name": "Incineroar",
+    "pokedex_number": "#0727",
+    "types": [
+        "Fire",
+        "Dark"
+    ],
+    "abilities": [
+        "Blaze",
+        "Intimidate"
+    ],
+    "stats": {
+        "HP": 95,
+        "Attack": 115,
+        "Defense": 90,
+        "Sp. Atk": 80,
+        "Sp. Def": 90,
+        "Speed": 60,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "This Pokémon has a violent, selfish disposition. If it's not in the mood to listen, it will ignore its Trainer's orders with complete nonchalance.",
+            "Moon": "After hurling ferocious punches and flinging furious kicks, it finishes opponents off by spewing fire from around its navel.",
+            "Ultra Sun": "Although it's rough mannered and egotistical, it finds beating down unworthy opponents boring. It gets motivated for stronger opponents.",
+            "Ultra Moon": "When its fighting spirit is set alight, the flames around its waist become especially intense."
+        },
+        "Generation VIII": {
+            "Sword": "It excels at violent, no-holds-barred battles. The temperature of the flames that issue from its navel exceeds 3,600 degrees Fahrenheit . *",
+            "Shield": "Incineroar's rough and aggressive behavior is its most notable trait, but the way it helps out small Pokémon shows that it has a kind side as well. *"
+        },
+        "Generation IX": {
+            "Scarlet": "When its fighting spirit is set alight, the flames around its waist become especially intense.",
+            "Violet": "After hurling ferocious punches and flinging furious kicks, it finishes opponents off by spewing fire from around its navel."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Evolve Torracat",
+            "Moon": "Evolve Torracat",
+            "Ultra Sun": "Evolve Torracat",
+            "Ultra Moon": "Evolve Torracat",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME Trade Version 1.2.0+",
+            "Shield": "Pokémon HOME Trade Version 1.2.0+",
+            "Expansion Pass": "Evolve Torracat",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Torracat"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Torracat",
+            "to": "Incineroar",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

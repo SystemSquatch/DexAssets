@@ -1,0 +1,150 @@
+{
+    "name": "Seaking",
+    "pokedex_number": "#0119",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Water Veil",
+        "Lightning Rod"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 92,
+        "Defense": 65,
+        "Sp. Atk": 65,
+        "Sp. Def": 80,
+        "Speed": 68,
+        "Total": 450
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
+            "Yellow": "It is the male's job to make a nest by carving out boulders in a stream using the horn on its head.",
+            "Stadium": "In the autumn, they travel up rivers to spawn. In other seasons, they make and live in their own nests."
+        },
+        "Generation II": {
+            "Gold": "During spawning season, Seaking gather from all over, coloring the rivers a brilliant red.",
+            "Silver": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+            "Crystal": "When autumn comes, the males patrol the area around their nests in order to protect their offspring.",
+            "Stadium 2": "During spawning season, Seaking gather from all over, coloring the rivers a brilliant red. (Pokémon Red, Silver, or Crystal inserted) Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "In the autumn, Seaking males can be seen performing courtship dances in riverbeds to woo females. During this season, this Pok é mon 's body coloration is at its most beautiful.",
+            "Sapphire": "Seaking is very protective of its eggs. The male and female will take turns patrolling around their nest and eggs. The guarding of eggs by these Pok é mon goes on for over a month.",
+            "Emerald": "It punches holes in boulders on stream-beds. This is a clever innovation that prevents its eggs from being attacked or washed away by the current.",
+            "FireRed": "The horn on its head is sharp like a drill. It bores a hole in a boulder to make its nest.",
+            "LeafGreen": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks."
+        },
+        "Generation IV": {
+            "Diamond": "It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life.",
+            "Pearl": "To protect its family, it will fight with its drill-sharp horn. It lives in hollowed rocks in streams.",
+            "Platinum": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
+            "HeartGold": "During spawning season, Seaking gather from all over, causing rivers to appear a brilliant red.",
+            "SoulSilver": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away."
+        },
+        "Generation V": {
+            "Black": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
+            "White": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
+            "Black 2": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
+            "White 2": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors."
+        },
+        "Generation VI": {
+            "X": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
+            "Y": "It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life.",
+            "Omega Ruby": "In the autumn, Seaking males can be seen performing courtship dances in riverbeds to woo females. During this season, this Pokémon's body coloration is at its most beautiful.",
+            "Alpha Sapphire": "Seaking is very protective of its eggs. The male and female will take turns patrolling around their nest and eggs. The guarding of eggs by these Pokémon goes on for over a month."
+        },
+        "Generation VII": {
+            "Sun": "When the weather grows cold, its whole body flushes a deep red. This sight serves as a poetic reminder that autumn has arrived.",
+            "Moon": "Trainers who are crazy for Seaking are divided into horn enthusiasts and fin enthusiasts. The two groups do not get along well.",
+            "Ultra Sun": "Its horn spins like a drill to steadily hollow out rocks—even harder ones. The coloration of the male is more vivid.",
+            "Ultra Moon": "To attract females, males dance on the river's floor. The females gather around the male that dances most gracefully.",
+            "Let's Go Pikachu": "It is the male's job to make a nest by carving out boulders in a stream using the horn on its head.",
+            "Let's Go Eevee": "It is the male's job to make a nest by carving out boulders in a stream using the horn on its head."
+        },
+        "Generation VIII": {
+            "Sword": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
+            "Shield": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+            "Brilliant Diamond": "It makes its nest by hollowing out boulders in streams with its horn. The Pokémon defends its eggs with its life.",
+            "Shining Pearl": "To protect its family, it will fight with its drill-sharp horn. It lives in hollowed rocks in streams."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Route 23 , Fuchsia City , Cerulean Cave ( Super Rod )",
+            "Blue": "Route 23 , Fuchsia City , Cerulean Cave ( Super Rod )",
+            "Blue (Japan)": "Route 23 , Fuchsia City , Cerulean Cave ( Super Rod )",
+            "Yellow": "Route 24 , Cerulean City , Cerulean Cave ( Super Rod )"
+        },
+        "Generation II": {
+            "Gold": "Dark Cave , Union Cave 1F/B1F, Slowpoke Well ( Super Rod ) Routes 4 , 9 , 10 , 24 , 25 , and 42 , Cerulean City , Mt. Mortar , Tohjo Falls , Mt. Silver Cave 2F ( Surfing and Super Rod )",
+            "Silver": "Dark Cave , Union Cave 1F/B1F, Slowpoke Well ( Super Rod ) Routes 4 , 9 , 10 , 24 , 25 , and 42 , Cerulean City , Mt. Mortar , Tohjo Falls , Mt. Silver Cave 2F ( Surfing and Super Rod )",
+            "Crystal": "Route 4 , Cerulean City ( Surfing ) Dark Cave , Union Cave 1F/B1F, Slowpoke Well ( Super Rod ) Routes 9 , 10 , 24 , 25 , and 42 , Mt. Mortar , Tohjo Falls , Mt. Silver Cave 2F ( Surfing and Super Rod )"
+        },
+        "Generation III": {
+            "Ruby": "Safari Zone ( Super Rod )",
+            "Sapphire": "Safari Zone ( Super Rod )",
+            "Emerald": "Safari Zone ( Super Rod )",
+            "FireRed": "Berry Forest , Safari Zone , Fuchsia City ( Super Rod )",
+            "LeafGreen": "Berry Forest , Safari Zone , Fuchsia City ( Super Rod )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 203 , 204 , 209 , 212 , and 214 , Lake Acuity , Lake Verity , Twinleaf Town , Lake Valor , Resort Area , Sendoff Spring ( Super Rod )",
+            "Pearl": "Routes 203 , 204 , 209 , 212 , and 214 , Lake Acuity , Lake Verity , Twinleaf Town , Lake Valor , Resort Area , Sendoff Spring ( Super Rod )",
+            "Platinum": "Lake Acuity , Lake Verity , Lake Valor ( Good Rod ) Routes 203 , 204 , 208 , 209 , 212 , 214 , and 229 , Lake Acuity , Lake Verity , Twinleaf Town , Lake Valor , Celestic Town , Sendoff Spring ( Super Rod )",
+            "HeartGold": "Routes 4 , 9 , 10 , 24 , 25 , and 42 , Slowpoke Well , Union Cave , Mt. Mortar , Mt. Silver Cave , Dark Cave , Cerulean City , Tohjo Falls ( Surfing and Super Rod ) Safari Zone ( Surfing in Swamp with 4 Waterside points; Old Rod in Swamp with 3 Waterside points; Good Rod in Swamp, default and with 6 points; Super Rod in Swamp and Rocky Beach, default)",
+            "SoulSilver": "Routes 4 , 9 , 10 , 24 , 25 , and 42 , Slowpoke Well , Union Cave , Mt. Mortar , Mt. Silver Cave , Dark Cave , Cerulean City , Tohjo Falls ( Surfing and Super Rod ) Safari Zone ( Surfing in Swamp with 4 Waterside points; Old Rod in Swamp with 3 Waterside points; Good Rod in Swamp, default and with 6 points; Super Rod in Swamp and Rocky Beach, default)",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Routes 3 , 11 , and 14 , Striaton City , Pinwheel Forest interior, Abundant Shrine ( fishing in rippling water )",
+            "White": "Routes 3 , 11 , and 14 , Striaton City , Pinwheel Forest interior, Abundant Shrine ( fishing in rippling water )",
+            "Black 2": "Routes 3 , 11 , 14 , and 22 , Pinwheel Forest , Abundant Shrine , Aspertia City , Striaton City ( fishing in rippling water )",
+            "White 2": "Routes 3 , 11 , 14 , and 22 , Pinwheel Forest , Abundant Shrine , Aspertia City , Striaton City ( fishing in rippling water )",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Routes 3 and 22 , Parfum Palace ( Super Rod )",
+            "Y": "Routes 3 and 22 , Parfum Palace ( Super Rod )",
+            "Omega Ruby": "Safari Zone ( Super Rod )",
+            "Alpha Sapphire": "Safari Zone ( Super Rod )"
+        },
+        "Generation VII": {
+            "Sun": "Brooklet Hill , Malie Garden ( SOS Battle )",
+            "Moon": "Brooklet Hill , Malie Garden ( SOS Battle )",
+            "Ultra Sun": "Brooklet Hill , Malie Garden ( SOS Battle )",
+            "Ultra Moon": "Brooklet Hill , Malie Garden ( SOS Battle )",
+            "Let's Go Pikachu": "Route 6 ( Sea Skim )",
+            "Let's Go Eevee": "Route 6 ( Sea Skim )"
+        },
+        "Generation VIII": {
+            "Sword": "West Lake Axewell , East Lake Axewell , North Lake Miloch , South Lake Miloch , Bridge Field , Lake of Outrage ( Wanderer )",
+            "Shield": "West Lake Axewell , East Lake Axewell , North Lake Miloch , South Lake Miloch , Bridge Field , Lake of Outrage ( Wanderer )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Routes 203 , 204 , 209 , 212 , and 214 , Lake Acuity , Lake Verity , Twinleaf Town , Lake Valor , Resort Area , Sendoff Spring ( Super Rod )",
+            "Shining Pearl": "Routes 203 , 204 , 209 , 212 , and 214 , Lake Acuity , Lake Verity , Twinleaf Town , Lake Valor , Resort Area , Sendoff Spring ( Super Rod )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Goldeen",
+            "to": "Seaking",
+            "method": [
+                "Level 33"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "name": "Manectric",
+    "pokedex_number": "#0310",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Static",
+        "Lightning Rod",
+        "Minus",
+        "Intimidate"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 75,
+        "Defense": 60,
+        "Sp. Atk": 105,
+        "Sp. Def": 60,
+        "Speed": 105,
+        "Total": 475
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Manectric is constantly discharging electricity from its mane. The sparks sometimes ignite forest fires. When it enters a battle, this Pok é mon creates thunderclouds.",
+            "Sapphire": "Manectric discharges strong electricity from its mane. The mane is used for collecting electricity in the atmosphere. This Pok é mon creates thunderclouds above its head.",
+            "Emerald": "Because lightning falls in their vicinities, Manectric were thought to have been born from lightning. In battle, they create thunderclouds.",
+            "FireRed": "It rarely appears before people. It is said to nest where lightning has fallen.",
+            "LeafGreen": "It rarely appears before people. It is said to nest where lightning has fallen."
+        },
+        "Generation IV": {
+            "Diamond": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+            "Pearl": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+            "Platinum": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+            "HeartGold": "Its nest can be found where a thunderbolt hits. It is discharging electricity from its mane.",
+            "SoulSilver": "Its nest can be found where a thunderbolt hits. It is discharging electricity from its mane."
+        },
+        "Generation V": {
+            "Black": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+            "White": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+            "Black 2": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+            "White 2": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts."
+        },
+        "Generation VI": {
+            "X": "It rarely appears before people. It is said to nest where lightning has fallen.",
+            "Y": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+            "Omega Ruby": "Manectric is constantly discharging electricity from its mane. The sparks sometimes ignite forest fires. When it enters a battle, this Pokémon creates thunderclouds.",
+            "Alpha Sapphire": "Manectric discharges strong electricity from its mane. The mane is used for collecting electricity in the atmosphere. This Pokémon creates thunderclouds above its head."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Mega Evolution fills its body with a tremendous amount of electricity, but it's too much for Manectric to fully control.",
+            "Ultra Moon": "Too much electricity has built up in its body, irritating Manectric. Its explosive speed is equal to that of a lightning bolt."
+        },
+        "Generation VIII": {
+            "Sword": "It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.",
+            "Shield": "It rarely appears before people. It is said to nest where lightning has fallen.",
+            "Brilliant Diamond": "It discharges electricity from its mane. The Pokémon creates a thundercloud overhead from which to drop lightning bolts.",
+            "Shining Pearl": "It discharges electricity from its mane. The Pokémon creates a thundercloud overhead from which to drop lightning bolts."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 118",
+            "Sapphire": "Route 118",
+            "Emerald": "Route 118",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Electrike",
+            "Pearl": "Evolve Electrike",
+            "Platinum": "Evolve Electrike",
+            "HeartGold": "Safari Zone (Plains with 15 Plains points; tall grass in Rocky Beach with 10 Forest points; Wasteland with 3 Plains points)",
+            "SoulSilver": "Safari Zone (Plains with 15 Plains points; tall grass in Rocky Beach with 10 Forest points; Wasteland with 3 Plains points)",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Evolve Dream World Electrike",
+            "White": "Evolve Dream World Electrike",
+            "Black 2": "Route 3 ( Hidden Grotto ) *",
+            "White 2": "Route 3 ( Hidden Grotto ) *"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Electric )",
+            "Y": "Friend Safari ( Electric )",
+            "Omega Ruby": "Evolve Electrike",
+            "Alpha Sapphire": "Evolve Electrike"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Route 12",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Axew's Eye , Giant's Seat , Giant's Cap , Rolling Fields Giant's Cap , Motostoke Riverbank ( Max Raid Battle )",
+            "Shield": "Axew's Eye , Giant's Seat , Giant's Cap , Rolling Fields Giant's Cap , Motostoke Riverbank ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Electrike",
+            "Shining Pearl": "Evolve Electrike",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Electrike",
+            "to": "Manectric",
+            "method": [
+                "Level 26"
+            ]
+        }
+    ]
+}

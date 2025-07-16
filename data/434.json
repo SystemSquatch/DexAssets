@@ -1,0 +1,114 @@
+{
+    "name": "Stunky",
+    "pokedex_number": "#0434",
+    "types": [
+        "Poison",
+        "Dark"
+    ],
+    "abilities": [
+        "Stench",
+        "Aftermath",
+        "Keen Eye"
+    ],
+    "stats": {
+        "HP": 63,
+        "Attack": 63,
+        "Defense": 47,
+        "Sp. Atk": 41,
+        "Sp. Def": 41,
+        "Speed": 74,
+        "Total": 329
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
+            "Pearl": "It sprays a nose-curling, stinky fluid from its rear to repel attackers.",
+            "Platinum": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
+            "HeartGold": "The foul fluid from its rear is so revolting that it can make people feel queasy up to a mile and a quarter away.",
+            "SoulSilver": "The foul fluid from its rear is so revolting that it can make people feel queasy up to a mile and a quarter away."
+        },
+        "Generation V": {
+            "Black": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
+            "White": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
+            "Black 2": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
+            "White 2": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away."
+        },
+        "Generation VI": {
+            "X": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
+            "Y": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
+            "Omega Ruby": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
+            "Alpha Sapphire": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "From its rear, it sprays a foul-smelling liquid at opponents. It aims for their faces, and it can hit them from over 16 feet away.",
+            "Shield": "If it lifts its tail and points its rear at you, beware. It's about to spray you with a fluid stinky enough to make you faint.",
+            "Brilliant Diamond": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
+            "Shining Pearl": "It sprays a nose-curling, stinky fluid from its rear to repel attackers.",
+            "Legends: Arceus": "The poison that gushes from its aft end is accompanied by an utterly evil-smelling odor with such potency that one whiff can induce memory loss."
+        },
+        "Generation IX": {
+            "Scarlet": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
+            "Violet": "The foul fluid from its rear is so revolting that it can make people feel queasy up to a mile and a quarter away."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 206 , 214 , and 221",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Trade",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Hidden Grotto (any) *",
+            "White 2": "Trade",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Route 11",
+            "Y": "Route 11",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 3 , Dappled Grove , North Lake Miloch , South Lake Miloch , Giant's Cap East Lake Axewell , Giant's Cap , Motostoke Riverbank , North Lake Miloch , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Route 3 , Dappled Grove , North Lake Miloch , South Lake Miloch , Giant's Cap East Lake Axewell , Giant's Cap , Motostoke Riverbank , North Lake Miloch , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Brilliant Diamond": "Routes 206 , 214 , and 221 Grand Underground - Grassland Cave , Spacious Cave , Riverbank Cave , Sunlit Cavern , Still-Water Cavern (After obtaining TM96 ( Strength ))",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Crimson Mirelands : Scarlet Bog , massive mass outbreaks Coronet Highlands : near Ancient Quarry , near Celestica Trail , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Three , Area Five West Province: Area Two Tera Raid Battles ( 2★ )",
+            "Violet": "Union Circle Tera Raid Battle Search ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Stunky",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Stunky",
+            "to": "Skuntank",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "name": "Magmar",
+    "pokedex_number": "#0126",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Flame Body",
+        "Vital Spirit"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 57,
+        "Sp. Atk": 100,
+        "Sp. Def": 85,
+        "Speed": 93,
+        "Total": 495
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
+            "Yellow": "Born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire.",
+            "Stadium": "With a body temperature of close to 2,200 degrees , its body is always burning with orange flames. Lives near volcanoes."
+        },
+        "Generation II": {
+            "Gold": "It dislikes cold places, so it blows scorching flames to make the environment suitable for itself.",
+            "Silver": "The fiery surface of its body gives off a wavering, rippling glare that is similar to the sun.",
+            "Crystal": "It moves more frequently in hot areas. It can heal itself by dipping its wound into lava.",
+            "Stadium 2": "It dislikes cold places, so it blows scorching flames to make the environment suitable for itself. (Pokémon Red, Silver, or Crystal inserted) The fiery surface of its body gives off a wavering, rippling glare that is similar to the sun. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pok é mon 's fiery bursts create heat waves that ignite grass and trees in its surroundings.",
+            "Sapphire": "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pok é mon 's fiery bursts create heat waves that ignite grass and trees in its surroundings.",
+            "Emerald": "In battle, it blows out intense flames from all over its body to intimidate its foe. These fiery bursts create heat waves that ignite grass and trees in the area.",
+            "FireRed": "Found near the mouth of a volcano. This fire-breather's body temperature is nearly 2,200 degrees Fahrenheit .",
+            "LeafGreen": "Its body always burns with an orange glow that enables it to hide perfectly amidst flames."
+        },
+        "Generation IV": {
+            "Diamond": "Born in the spout of a volcano, its body is covered by flames that shimmer like the sun.",
+            "Pearl": "Born in the spout of a volcano, its body is covered by flames that shimmer like the sun.",
+            "Platinum": "When it breathes deeply, heat waves form around its body, making it hard to see clearly.",
+            "HeartGold": "It dislikes cold places, so it blows scorching flames to make the environment suitable for itself.",
+            "SoulSilver": "The fiery surface of its body gives off a wavering, rippling glare that is similar to the sun."
+        },
+        "Generation V": {
+            "Black": "When it breathes deeply, heat waves form around its body, making it hard to see clearly.",
+            "White": "When it breathes deeply, heat waves form around its body, making it hard to see clearly.",
+            "Black 2": "The scorching fire exhaled by Magmar forms heat waves around its body, making it hard to see the Pokémon clearly.",
+            "White 2": "The scorching fire exhaled by Magmar forms heat waves around its body, making it hard to see the Pokémon clearly."
+        },
+        "Generation VI": {
+            "X": "Found near the mouth of a volcano. This fire-breather's body temperature is nearly 2,200 degrees Fahrenheit .",
+            "Y": "Born in the spout of a volcano, its body is covered by flames that shimmer like the sun.",
+            "Omega Ruby": "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokémon's fiery bursts create heat waves that ignite grass and trees in its surroundings.",
+            "Alpha Sapphire": "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokémon's fiery bursts create heat waves that ignite grass and trees in its surroundings."
+        },
+        "Generation VII": {
+            "Sun": "When it's tired, it leaps into the mouth of a volcano and soaks its body in magma to ease its weariness. Its body burns at 2,192 degrees F .",
+            "Moon": "When angered, it spouts brilliant fire from all over its body. It doesn't calm down until its opponent has burned to ash.",
+            "Ultra Sun": "Its entire body is burning. When it breathes, the temperature rises. When it sneezes, flames shoot out!",
+            "Ultra Moon": "The hotter the place, the better they feel. Magmar in Alola are said to be hardier than those in other areas.",
+            "Let's Go Pikachu": "Born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire.",
+            "Let's Go Eevee": "Born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire."
+        },
+        "Generation VIII": {
+            "Sword": "Magmar dispatches its prey with fire. But it regrets this habit once it realizes that it has burned its intended prey to a charred crisp.",
+            "Shield": "These Pokémon's bodies are constantly burning. Magmar are feared as one of the causes behind fires.",
+            "Brilliant Diamond": "It was born in the crater of a volcano. Its body is covered with flames that shimmer like the sun.",
+            "Shining Pearl": "It was born in the crater of a volcano. Its body is covered with flames that shimmer like the sun.",
+            "Legends: Arceus": "Legend has it that this Pokémon was born from the crater of a volcano. When wounded, it bathes in lava to heal its body, much as one would soak in a hot spring."
+        },
+        "Generation IX": {
+            "Scarlet": "Found near the mouth of a volcano. This fire-breather’s body temperature is nearly 2,200 degrees Fahrenheit .",
+            "Violet": "Wavering flames similar to those of the sun appear on the surface of this Pokémon’s body."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Trade",
+            "Blue": "Pokémon Mansion",
+            "Blue (Japan)": "Trade",
+            "Yellow": "Trade"
+        },
+        "Generation II": {
+            "Gold": "Burned Tower",
+            "Silver": "Burned Tower",
+            "Crystal": "Mt. Silver Cave Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Mt. Ember",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Magby",
+            "Pearl": "Evolve Magby",
+            "Platinum": "Fuego Ironworks",
+            "HeartGold": "Burned Tower Safari Zone Morning Day (Peak, default and 10 Peak points)",
+            "SoulSilver": "Burned Tower Safari Zone Morning Day (Peak, default and 10 Peak points)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade , Event",
+            "White": "Evolve Magby",
+            "Black 2": "Evolve Magby",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Fire )",
+            "Y": "Friend Safari ( Fire )",
+            "Omega Ruby": "Evolve Magby",
+            "Alpha Sapphire": "Evolve Magby"
+        },
+        "Generation VII": {
+            "Sun": "Wela Volcano Park ( SOS Battle )",
+            "Moon": "Wela Volcano Park ( SOS Battle )",
+            "Ultra Sun": "Wela Volcano Park ( SOS Battle )",
+            "Ultra Moon": "Wela Volcano Park ( SOS Battle )",
+            "Let's Go Pikachu": "Pokémon Mansion",
+            "Let's Go Eevee": "Pokémon Mansion"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Slippery Slope , Frostpoint Field , Giant's Bed , Old Cemetery , Snowslide Slope , Giant's Foot , Three-Point Pass , Ballimere Lake Slippery Slope , Frostpoint Field , Giant's Bed , Snowslide Slope , Giant's Foot , Ballimere Lake ( Wanderer ) Giant's Bed , Snowslide Slope , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Evolve Magby",
+            "Legends: Arceus": "Cobalt Coastlands : Firespit Island , massive mass outbreaks Coronet Highlands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Savanna Biome , Coastal Biome , Torchlit Labyrinth Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Magby",
+            "to": "Magmar",
+            "method": [
+                "Level 30"
+            ]
+        },
+        {
+            "from": "Magmar",
+            "to": "Magmortar",
+            "method": [
+                "Trade (holding Magmarizer)"
+            ]
+        }
+    ]
+}

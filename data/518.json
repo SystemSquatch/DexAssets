@@ -1,0 +1,87 @@
+{
+    "name": "Musharna",
+    "pokedex_number": "#0518",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Forewarn",
+        "Synchronize",
+        "Telepathy"
+    ],
+    "stats": {
+        "HP": 116,
+        "Attack": 55,
+        "Defense": 85,
+        "Sp. Atk": 107,
+        "Sp. Def": 95,
+        "Speed": 29,
+        "Total": 487
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "The mist emanating from their foreheads is packed with the dreams of people and Pokémon.",
+            "White": "With the mist from its forehead, it can create shapes of things from dreams it has eaten.",
+            "Black 2": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.",
+            "White 2": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten."
+        },
+        "Generation VI": {
+            "X": "The mist emanating from their foreheads is packed with the dreams of people and Pokémon.",
+            "Y": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.",
+            "Omega Ruby": "The mist emanating from their foreheads is packed with the dreams of people and Pokémon.",
+            "Alpha Sapphire": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "When dark mists emanate from its body, don't get too near. If you do, your nightmares will become reality.",
+            "Shield": "It drowses and dreams all the time. It's best to leave it be if it's just woken up, as it's a terrible grump when freshly roused from sleep."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Dreamyard (Ruins, rustling grass ) Dreamyard (Basement) * Fr",
+            "White": "Dreamyard (Ruins, rustling grass ) Dreamyard (Basement) * Fr",
+            "Black 2": "Dreamyard ( rustling grass )",
+            "White 2": "Dreamyard ( rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Munna",
+            "Y": "Evolve Munna",
+            "Omega Ruby": "Evolve Munna",
+            "Alpha Sapphire": "Evolve Munna"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Bridge Field , Giant's Seat ( Wanderer ) Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Shield": "Bridge Field , Giant's Seat ( Wanderer ) Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Munna",
+            "to": "Musharna",
+            "method": [
+                "Use Moon Stone"
+            ]
+        }
+    ]
+}

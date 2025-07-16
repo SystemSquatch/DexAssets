@@ -1,0 +1,98 @@
+{
+    "name": "Joltik",
+    "pokedex_number": "#0595",
+    "types": [
+        "Bug",
+        "Electric"
+    ],
+    "abilities": [
+        "Compound Eyes",
+        "Unnerve",
+        "Swarm"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 47,
+        "Defense": 50,
+        "Sp. Atk": 57,
+        "Sp. Def": 50,
+        "Speed": 65,
+        "Total": 319
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.",
+            "White": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
+            "Black 2": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
+            "White 2": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity."
+        },
+        "Generation VI": {
+            "X": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
+            "Y": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
+            "Omega Ruby": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
+            "Alpha Sapphire": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Joltik can be found clinging to other Pokémon. It's soaking up static electricity because it can't produce a charge on its own.",
+            "Shield": "Joltik latch on to other Pokémon and suck out static electricity. They're often found sticking to Yamper's hindquarters."
+        },
+        "Generation IX": {
+            "Scarlet": "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.",
+            "Violet": "Since it can’t generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Chargestone Cave",
+            "White": "Chargestone Cave",
+            "Black 2": "Chargestone Cave Chargestone Cave ( N's Pokémon )",
+            "White 2": "Chargestone Cave Chargestone Cave ( N's Pokémon )"
+        },
+        "Generation VI": {
+            "X": "Breed Galvantula",
+            "Y": "Breed Galvantula",
+            "Omega Ruby": "Route 116 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 116 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 4 , Rolling Fields , Dappled Grove , West Lake Axewell , East Lake Axewell , North Lake Miloch , South Lake Miloch , Giant's Mirror , Giant's Cap Rolling Fields , Dappled Grove , South Lake Miloch , Motostoke Riverbank , Bridge Field , Hammerlocke Hills , Giant's Cap , Lake of Outrage ( Max Raid Battle )",
+            "Shield": "Route 4 , Rolling Fields , Dappled Grove , West Lake Axewell , East Lake Axewell , North Lake Miloch , South Lake Miloch , Giant's Mirror , Giant's Cap Rolling Fields , Dappled Grove , South Lake Miloch , Motostoke Riverbank , Bridge Field , Hammerlocke Hills , Giant's Cap , Lake of Outrage ( Max Raid Battle )",
+            "Expansion Pass": "Training Lowlands , Frostpoint Field , Giant's Bed , Frigid Sea , Three-Point Pass , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Canyon Biome , Chargestone Cavern , Polar Biome Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Joltik",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Joltik",
+            "to": "Galvantula",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

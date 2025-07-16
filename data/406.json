@@ -1,0 +1,111 @@
+{
+    "name": "Budew",
+    "pokedex_number": "#0406",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "abilities": [
+        "Natural Cure",
+        "Poison Point",
+        "Leaf Guard"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 35,
+        "Sp. Atk": 50,
+        "Sp. Def": 70,
+        "Speed": 55,
+        "Total": 280
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
+            "Pearl": "It lives alongside clear ponds. It scatters pollen that induces harsh sneezing and runny noses.",
+            "Platinum": "Sensitive to changing temperature, the bud is said to bloom when it feels the sun's warm touch.",
+            "HeartGold": "When it feels the sun's warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
+            "SoulSilver": "When it feels the sun's warm touch, it opens its bud to release pollen. It lives alongside clear pools."
+        },
+        "Generation V": {
+            "Black": "Sensitive to changing temperature, the bud is said to bloom when it feels the sun's warm touch.",
+            "White": "Sensitive to changing temperature, the bud is said to bloom when it feels the sun's warm touch.",
+            "Black 2": "Sensitive to changing temperatures, the bud blooms when it's warm, releasing toxic pollen.",
+            "White 2": "Sensitive to changing temperatures, the bud blooms when it's warm, releasing toxic pollen."
+        },
+        "Generation VI": {
+            "X": "When it feels the sun's warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
+            "Y": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
+            "Omega Ruby": "When it feels the sun's warm touch, it opens its bud to release pollen. It lives alongside clear pools.",
+            "Alpha Sapphire": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "The pollen it releases contains poison. If this Pokémon is raised on clean water, the poison's toxicity is increased.",
+            "Shield": "This Pokémon is highly sensitive to temperature changes. When its bud starts to open, that means spring is right around the corner.",
+            "Brilliant Diamond": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
+            "Shining Pearl": "It lives alongside clear ponds. It scatters pollen that induces harsh sneezing and runny noses.",
+            "Legends: Arceus": "When the sun's light strengthens, the bud atop this Pokémon's head opens. This is a sign to the people that the harsh winter is over, and the season of budding has begun."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 204 and 212 , Eterna Forest , Great Marsh",
+            "Pearl": "Routes 204 and 212 , Eterna Forest , Great Marsh",
+            "Platinum": "Routes 204 , 205 , and 208 , Eterna Forest",
+            "HeartGold": "Safari Zone (Forest with 24 Plains points; tall grass in Rocky Beach with 18 Forest points) Ilex Forest , Viridian Forest (Sinnoh Sound)",
+            "SoulSilver": "Safari Zone (Forest with 24 Plains points; tall grass in Rocky Beach with 18 Forest points) Ilex Forest , Viridian Forest (Sinnoh Sound)",
+            "Pokéwalker": "Sinnoh Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Breed Roselia or Roserade holding a Rose Incense",
+            "White 2": "Breed Roselia or Roserade holding a Rose Incense"
+        },
+        "Generation VI": {
+            "X": "Route 4",
+            "Y": "Route 4",
+            "Omega Ruby": "Breed Roselia or Roserade holding a Rose Incense",
+            "Alpha Sapphire": "Breed Roselia or Roserade holding a Rose Incense"
+        },
+        "Generation VII": {
+            "Sun": "Breed Roselia or Roserade holding a Rose Incense",
+            "Moon": "Breed Roselia or Roserade holding a Rose Incense",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 4 , Rolling Fields , Dappled Grove , West Lake Axewell , East Lake Axewell , Giant's Mirror Bridge Field , Dappled Grove , Giant's Mirror , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 4 , Rolling Fields , Dappled Grove , West Lake Axewell , East Lake Axewell , Giant's Mirror Bridge Field , Dappled Grove , Giant's Mirror , Stony Wilderness ( Max Raid Battle )",
+            "Brilliant Diamond": "Routes 204 and 212 , Eterna Forest , Great Marsh Grand Underground - Spacious Cave , Grassland Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern",
+            "Shining Pearl": "Routes 204 and 212 , Eterna Forest , Great Marsh Grand Underground - Spacious Cave , Grassland Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern",
+            "Legends: Arceus": "Crimson Mirelands : Golden Lowlands Day (also mass outbreaks Day Night ), Gapejaw Bog , near Cottonsedge Prairie , massive mass outbreaks Coronet Highlands : Fabled Spring"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Budew",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Budew",
+            "to": "Roselia",
+            "method": [
+                "Level up (during the day, with high friendship)"
+            ]
+        }
+    ]
+}

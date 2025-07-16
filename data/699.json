@@ -1,0 +1,77 @@
+{
+    "name": "Aurorus",
+    "pokedex_number": "#0699",
+    "types": [
+        "Rock",
+        "Ice"
+    ],
+    "abilities": [
+        "Refrigerate",
+        "Snow Warning"
+    ],
+    "stats": {
+        "HP": 123,
+        "Attack": 77,
+        "Defense": 72,
+        "Sp. Atk": 99,
+        "Sp. Def": 92,
+        "Speed": 58,
+        "Total": 521
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "The diamond-shaped crystals on its body expel air as cold as -240 degrees Fahrenheit , surrounding its enemies and encasing them in ice.",
+            "Y": "Using its diamond-shaped crystals, it can instantly create a wall of ice to block an opponent's attack.",
+            "Omega Ruby": "The diamond-shaped crystals on its body expel air as cold as -240 degrees Fahrenheit , surrounding its enemies and encasing them in ice.",
+            "Alpha Sapphire": "Using its diamond-shaped crystals, it can instantly create a wall of ice to block an opponent's attack."
+        },
+        "Generation VII": {
+            "Ultra Sun": "An Aurorus was found frozen solid within a glacier, just as it appeared long ago, which became quite a big event in the news.",
+            "Ultra Moon": "This usually quiet and kindly Pokémon has a surface temperature of around –240 degrees Fahrenheit ."
+        },
+        "Generation VIII": {
+            "Sword": "Aurorus was restored from a fossil. It's said that when this Pokémon howls, auroras appear in the night sky.",
+            "Shield": "When gripped by rage, Aurorus will emanate freezing air, covering everything around it in ice."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Evolve Amaura",
+            "Y": "Evolve Amaura",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Amaura",
+            "Ultra Moon": "Evolve Amaura",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Snowslide Slope ( Wanderer ) Max Lair ( Dynamax Adventure ) Slippery Slope , Giant's Bed , Snowslide Slope , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Amaura",
+            "to": "Aurorus",
+            "method": [
+                "Level 39 (during the night)"
+            ]
+        }
+    ]
+}

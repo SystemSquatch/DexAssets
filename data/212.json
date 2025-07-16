@@ -1,0 +1,142 @@
+{
+    "name": "Scizor",
+    "pokedex_number": "#0212",
+    "types": [
+        "Bug",
+        "Steel"
+    ],
+    "abilities": [
+        "Swarm",
+        "Technician",
+        "Light Metal",
+        "Technician"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 130,
+        "Defense": 100,
+        "Sp. Atk": 55,
+        "Sp. Def": 80,
+        "Speed": 65,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
+            "Silver": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
+            "Crystal": "This Pok é mon 's pincers, which contain steel, can crush any hard object it gets a hold of into bits.",
+            "Stadium 2": "It swings its eye patterned pincers up to scare its foes. This makes it look like it has three heads. (Pokémon Red, Silver, or Crystal inserted) Its wings are not used for flying. They are flapped at high speed to adjust its body temperature. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pok é mon flaps its wings to regulate its body temperature.",
+            "Sapphire": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pok é mon flaps its wings to regulate its body temperature.",
+            "Emerald": "A Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. It flaps its wings to regulate its body temperature.",
+            "FireRed": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
+            "LeafGreen": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads."
+        },
+        "Generation IV": {
+            "Diamond": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
+            "Pearl": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
+            "Platinum": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
+            "HeartGold": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
+            "SoulSilver": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature."
+        },
+        "Generation V": {
+            "Black": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
+            "White": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
+            "Black 2": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
+            "White 2": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously."
+        },
+        "Generation VI": {
+            "X": "This Pokémon's pincers, which contain steel, can crush any hard object it gets ahold of into bits.",
+            "Y": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
+            "Omega Ruby": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
+            "Alpha Sapphire": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature."
+        },
+        "Generation VII": {
+            "Sun": "The excess energy that bathes this Pokémon keeps it in constant danger of overflow. It can't sustain a battle over long periods of time.",
+            "Moon": "Due to the effects of Mega Evolution, its pincers have taken on a more diabolical form, ripping anything they pinch to shreds.",
+            "Ultra Sun": "It stores the excess energy from Mega Evolution, so after a long time passes, its body starts to melt.",
+            "Ultra Moon": "It's better at beating things than grasping them. When it battles for a long time, the weight of its pincers becomes too much to bear."
+        },
+        "Generation VIII": {
+            "Sword": "Bulky pincers account for one third of Scizor's body weight. A single swing of one of these pincers will crush a boulder completely.",
+            "Shield": "Though its body is slim, Scizor has tremendous attacking power. Even Scizor's muscles are made of metal.",
+            "Brilliant Diamond": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
+            "Shining Pearl": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
+            "Legends: Arceus": "Evolved by way of a curious item . The shell covering its body has been shown to be stronger than forged steel."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon’s pincers, which contain steel, can crush any hard object they get ahold of into bits.",
+            "Violet": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Scyther",
+            "Silver": "Evolve Scyther",
+            "Crystal": "Evolve Scyther"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Scyther",
+            "LeafGreen": "Trade",
+            "Colosseum": "Card e Room (Shadow) * , Trade",
+            "XD": "Evolve Scyther"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Scyther",
+            "Pearl": "Trade , Event",
+            "Platinum": "Evolve Scyther",
+            "HeartGold": "Evolve Scyther",
+            "SoulSilver": "Evolve Scyther",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer , Event",
+            "White 2": "Poké Transfer , Event"
+        },
+        "Generation VI": {
+            "X": "Evolve Scyther",
+            "Y": "Evolve Scyther",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Scyther",
+            "Moon": "Evolve Scyther",
+            "Ultra Sun": "Evolve Scyther",
+            "Ultra Moon": "Evolve Scyther",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Training Lowlands ( Wanderer ) Challenge Road ( Wanderer ) Fields of Honor ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Scyther",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Alabaster Icelands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "Tera Raid Battles ( 5★ , 6★ )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome , Canyon Biome , Chargestone Cavern"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Scyther",
+            "to": "Scizor",
+            "method": [
+                "Trade (holding Metal Coat)"
+            ]
+        }
+    ]
+}

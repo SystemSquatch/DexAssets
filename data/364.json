@@ -1,0 +1,128 @@
+{
+    "name": "Sealeo",
+    "pokedex_number": "#0364",
+    "types": [
+        "Ice",
+        "Water"
+    ],
+    "abilities": [
+        "Thick Fat",
+        "Ice Body",
+        "Oblivious"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 60,
+        "Defense": 70,
+        "Sp. Atk": 75,
+        "Sp. Def": 70,
+        "Speed": 45,
+        "Total": 410
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Sealeo has the habit of always juggling on the tip of its nose anything it sees for the first time. This Pok é mon occasionally entertains itself by balancing and rolling a Spheal on its nose.",
+            "Sapphire": "Sealeo often balances and rolls things on the tip of its nose. While the Pok é mon is rolling something, it checks the object's aroma and texture to determine whether it likes the object or not.",
+            "Emerald": "Sealeo live in herds on ice floes. Using its powerful flippers, it shatters ice. It dives into the sea to hunt prey five times a day.",
+            "FireRed": "It touches new things with its nose to test for smell and feel. It plays by spinning Spheal on its nose.",
+            "LeafGreen": "It touches new things with its nose to test for smell and feel. It plays by spinning Spheal on its nose."
+        },
+        "Generation IV": {
+            "Diamond": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
+            "Pearl": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
+            "Platinum": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
+            "HeartGold": "It has a very sensitive nose. It touches new things with its nose to examine them.",
+            "SoulSilver": "It has a very sensitive nose. It touches new things with its nose to examine them."
+        },
+        "Generation V": {
+            "Black": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
+            "White": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
+            "Black 2": "Be it Spheal or Poké Ball, it will spin any round object on its nose with the greatest of ease.",
+            "White 2": "Be it Spheal or Poké Ball, it will spin any round object on its nose with the greatest of ease."
+        },
+        "Generation VI": {
+            "X": "It has a very sensitive nose. It touches new things with its nose to examine them.",
+            "Y": "Be it Spheal or Poké Ball, it will spin any round object on its nose with the greatest of ease.",
+            "Omega Ruby": "Sealeo has the habit of always juggling on the tip of its nose anything it sees for the first time. This Pokémon occasionally entertains itself by balancing and rolling a Spheal on its nose.",
+            "Alpha Sapphire": "Sealeo often balances and rolls things on the tip of its nose. While the Pokémon is rolling something, it checks the object's aroma and texture to determine whether it likes the object or not."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Sealeo live on top of drift ice. They go swimming when they're on the hunt, seeking out their prey by scent.",
+            "Shield": "This Pokémon has a habit of spinning round things on its nose, whether those things are Poké Balls or Spheal.",
+            "Brilliant Diamond": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
+            "Shining Pearl": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
+            "Legends: Arceus": "Its white whiskers are very sensitive. Sealeo will balance Spheal on the tip of its nose, checking its scent and its feel to be sure the Spheal is healthy."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Spheal",
+            "Sapphire": "Evolve Spheal",
+            "Emerald": "Evolve Spheal",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Evolve Spheal"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Routes 226 and 230",
+            "Platinum": "Route 230",
+            "HeartGold": "Safari Zone (Mountain with 49 Waterside points and 21 Peak points)",
+            "SoulSilver": "Safari Zone (Mountain with 49 Waterside points and 21 Peak points)",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Undella Bay ( Surfing in rippling water ) Winter",
+            "White": "Undella Bay ( Surfing in rippling water ) Winter",
+            "Black 2": "Undella Bay ( Surfing in rippling water ) Winter",
+            "White 2": "Undella Bay ( Surfing in rippling water ) Winter"
+        },
+        "Generation VI": {
+            "X": "Evolve Spheal",
+            "Y": "Evolve Spheal",
+            "Omega Ruby": "Shoal Cave",
+            "Alpha Sapphire": "Shoal Cave"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Spheal",
+            "Moon": "Evolve Spheal",
+            "Ultra Sun": "Evolve Spheal",
+            "Ultra Moon": "Evolve Spheal",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Frigid Sea ( Wanderer ) Giant's Bed , Frigid Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Spheal",
+            "Shining Pearl": "Routes 226 and 230 Grand Underground - Icy Cave , Whiteout Cave , Glacial Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Obsidian Fieldlands : massive mass outbreaks Cobalt Coastlands : Hideaway Bay , Islespy Shore , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Spheal",
+            "to": "Sealeo",
+            "method": [
+                "Level 32"
+            ]
+        },
+        {
+            "from": "Sealeo",
+            "to": "Walrein",
+            "method": [
+                "Level 44"
+            ]
+        }
+    ]
+}

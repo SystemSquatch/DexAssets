@@ -1,0 +1,129 @@
+{
+    "name": "Roselia",
+    "pokedex_number": "#0315",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "abilities": [
+        "Natural Cure",
+        "Poison Point",
+        "Leaf Guard"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 60,
+        "Defense": 45,
+        "Sp. Atk": 100,
+        "Sp. Def": 80,
+        "Speed": 65,
+        "Total": 400
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Roselia shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms. The aroma of this Pok é mon brings serenity to living things.",
+            "Sapphire": "On extremely rare occasions, a Roselia is said to appear with its flowers in unusual colors. The thorns on this Pok é mon 's head contain a vicious poison.",
+            "Emerald": "A Roselia that drinks nutritionally rich springwater blooms with lovely flowers. The fragrance of its flowers has the effect of making its foes careless.",
+            "FireRed": "Its flowers give off a relaxing fragrance. The stronger its aroma, the healthier the Roselia is.",
+            "LeafGreen": "Its flowers give off a relaxing fragrance. The stronger its aroma, the healthier the Roselia is."
+        },
+        "Generation IV": {
+            "Diamond": "Roselia raised on clean drinking water are known to grow vividly colored flowers.",
+            "Pearl": "The beautiful flowers on its arms have toxic thorns. Don't even think about picking those flowers.",
+            "Platinum": "The more healthy the Roselia , the more pleasant its flowers' aroma. Its scent deeply relaxes people.",
+            "HeartGold": "Roselia that drink nutritionally rich springwater are said to reveal rare coloration when they bloom.",
+            "SoulSilver": "Roselia that drink nutritionally rich springwater are said to reveal rare coloration when they bloom."
+        },
+        "Generation V": {
+            "Black": "The more healthy the Roselia, the more pleasant its flowers' aroma. Its scent deeply relaxes people.",
+            "White": "The more healthy the Roselia, the more pleasant its flowers' aroma. Its scent deeply relaxes people.",
+            "Black 2": "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.",
+            "White 2": "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is."
+        },
+        "Generation VI": {
+            "X": "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.",
+            "Y": "Roselia that drink nutritionally rich springwater are said to reveal rare coloration when they bloom.",
+            "Omega Ruby": "Roselia shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms. The aroma of this Pokémon brings serenity to living things.",
+            "Alpha Sapphire": "On extremely rare occasions, a Roselia is said to appear with its flowers in unusual colors. The thorns on this Pokémon's head contain a vicious poison."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Its flowers give off a relaxing fragrance. The stronger its aroma, the healthier the Roselia is.",
+            "Shield": "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.",
+            "Brilliant Diamond": "Roselia raised on clean drinking water are known to grow vividly colored flowers.",
+            "Shining Pearl": "The beautiful flowers on its arms have toxic thorns. Don't even think about picking those flowers.",
+            "Legends: Arceus": "Though beautiful, it has highly poisonous thorns. There is an old tradition in my homeland wherein one would send these thorns to an opponent to challenge them to a duel."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 117",
+            "Sapphire": "Route 117",
+            "Emerald": "Trade , Event",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Prestige Precept Center (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 212 , 221 , 224 , 225 , 229 , Trophy Garden , Great Marsh",
+            "Pearl": "Routes 212 , 221 , 224 , and 225 , Trophy Garden , Great Marsh",
+            "Platinum": "Routes 208 , 209 , 210 , 212 , 221 , 224 , 229 , 230 , Trophy Garden",
+            "HeartGold": "Safari Zone (tall grass in Marshland with 49 Forest points)",
+            "SoulSilver": "Safari Zone (tall grass in Marshland with 49 Forest points)",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Budew",
+            "Black 2": "Route 12 , Lostlorn Forest , Victory Road",
+            "White 2": "Route 12 , Lostlorn Forest , Victory Road",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Route 7",
+            "Y": "Route 7",
+            "Omega Ruby": "Route 117",
+            "Alpha Sapphire": "Route 117"
+        },
+        "Generation VII": {
+            "Sun": "Ula'ula Meadow ( Island Scan ) We",
+            "Moon": "Ula'ula Meadow ( Island Scan ) We",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Axew's Eye , South Lake Miloch , Giant's Mirror , Dusty Bowl , Rolling Fields Bridge Field , Dappled Grove , East Lake Axewell , Giant's Cap , Giant's Mirror , Hammerlocke Hills , Motostoke Riverbank , North Lake Miloch , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Axew's Eye , South Lake Miloch , Giant's Mirror , Dusty Bowl , Rolling Fields Bridge Field , Dappled Grove , East Lake Axewell , Giant's Cap , Giant's Mirror , Hammerlocke Hills , Motostoke Riverbank , North Lake Miloch , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Routes 212 , 221 , 224 , 225 , and 229 , Trophy Garden , Great Marsh Grand Underground - Grassland Cave , Swampy Cave , Sunlit Cavern , Bogsunk Cavern",
+            "Shining Pearl": "Routes 212 , 221 , 224 , and 225 , Trophy Garden , Great Marsh Grand Underground - Grassland Cave , Swampy Cave , Sunlit Cavern , Bogsunk Cavern",
+            "Legends: Arceus": "Crimson Mirelands : Gapejaw Bog , Cloudpool Ridge and nearby, near Cottonsedge Prairie , massive mass outbreaks Coronet Highlands : Fabled Spring"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Budew",
+            "to": "Roselia",
+            "method": [
+                "Level up (during the day, with high friendship)"
+            ]
+        },
+        {
+            "from": "Roselia",
+            "to": "Roserade",
+            "method": [
+                "Use Shiny Stone"
+            ]
+        }
+    ]
+}

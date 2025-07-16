@@ -1,0 +1,95 @@
+{
+    "name": "Zweilous",
+    "pokedex_number": "#0634",
+    "types": [
+        "Dark",
+        "Dragon"
+    ],
+    "abilities": [
+        "Hustle"
+    ],
+    "stats": {
+        "HP": 72,
+        "Attack": 85,
+        "Defense": 70,
+        "Sp. Atk": 65,
+        "Sp. Def": 70,
+        "Speed": 58,
+        "Total": 420
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
+            "White": "Since their two heads do not get along and compete with each other for food, they always eat too much.",
+            "Black 2": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
+            "White 2": "The two heads do not get along. Whichever head eats more than the other gets to be the leader."
+        },
+        "Generation VI": {
+            "X": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
+            "Y": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
+            "Omega Ruby": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
+            "Alpha Sapphire": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "While hunting for prey, Zweilous wanders its territory, its two heads often bickering over which way to go.",
+            "Shield": "Their two heads will fight each other over a single piece of food. Zweilous are covered in scars even without battling others."
+        },
+        "Generation IX": {
+            "Scarlet": "The two heads do not get along at all. If you don’t give each head the same amount of attention, they’ll begin fighting out of jealousy.",
+            "Violet": "The two heads have different likes and dislikes. Because the heads fight with each other, Zweilous gets stronger without needing to rely on others."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Deino",
+            "White": "Evolve Deino",
+            "Black 2": "Victory Road",
+            "White 2": "Victory Road"
+        },
+        "Generation VI": {
+            "X": "Victory Road",
+            "Y": "Victory Road",
+            "Omega Ruby": "Evolve Deino",
+            "Alpha Sapphire": "Evolve Deino"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Deino",
+            "Moon": "Evolve Deino",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Dusty Bowl , Giant's Mirror , Bridge Field ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Expansion Pass": "Evolve Deino",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Area Two , Glaseado Mountain Area Zero Tera Raid Battles ( 4★ )",
+            "Violet": "Union Circle Tera Raid Battle Search ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Deino",
+            "to": "Zweilous",
+            "method": [
+                "Level 50"
+            ]
+        },
+        {
+            "from": "Zweilous",
+            "to": "Hydreigon",
+            "method": [
+                "Level 64"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "name": "Solosis",
+    "pokedex_number": "#0577",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Overcoat",
+        "Magic Guard",
+        "Regenerator"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 40,
+        "Sp. Atk": 105,
+        "Sp. Def": 50,
+        "Speed": 20,
+        "Total": 290
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
+            "White": "Because their bodies are enveloped in a special liquid, they can survive in any environment.",
+            "Black 2": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
+            "White 2": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe."
+        },
+        "Generation VI": {
+            "X": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
+            "Y": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
+            "Omega Ruby": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
+            "Alpha Sapphire": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It communicates with others telepathically. Its body is encapsulated in liquid, but if it takes a heavy blow, the liquid will leak out.",
+            "Shield": "Many say that the special liquid covering this Pokémon's body would allow it to survive in the vacuum of space."
+        },
+        "Generation IX": {
+            "Scarlet": "Because their bodies are enveloped in a special liquid, they can survive in any environment.",
+            "Violet": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Route 5 and Route 16",
+            "Black 2": "Trade",
+            "White 2": "Routes 5 and 16 , Strange House"
+        },
+        "Generation VI": {
+            "X": "Reflection Cave",
+            "Y": "Reflection Cave",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Breed Duosion or Reuniclus",
+            "Moon": "Breed Duosion or Reuniclus",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Giant's Cap Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Shield Expansion Pass": "Slippery Slope , Frostpoint Field Giant's Bed , Snowslide Slope , Path to the Peak , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Chargestone Cavern , Polar Biome Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Solosis",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Solosis",
+            "to": "Duosion",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

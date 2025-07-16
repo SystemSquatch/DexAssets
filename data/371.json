@@ -1,0 +1,135 @@
+{
+    "name": "Bagon",
+    "pokedex_number": "#0371",
+    "types": [
+        "Dragon",
+        "Unknown"
+    ],
+    "abilities": [
+        "Rock Head",
+        "Sheer Force"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 75,
+        "Defense": 60,
+        "Sp. Atk": 40,
+        "Sp. Def": 30,
+        "Speed": 50,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Bagon has a dream of one day soaring in the sky. In doomed efforts to fly, this Pok é mon hurls itself off cliffs. As a result of its dives, its head has grown tough and as hard as tempered steel.",
+            "Sapphire": "Bagon harbors a never-ending dream of one day soaring high among the clouds. As if trying to dispel its frustration over its inability to fly, this Pok é mon slams its hard head against huge rocks and shatters them into pebbles.",
+            "Emerald": "Although it is small, this Pok é mon is very powerful because its body is a bundle of muscles. It launches head-butts with its ironlike skull.",
+            "FireRed": "Its steel-hard head can shatter boulders. It longingly hopes for wings to grow so it can fly.",
+            "LeafGreen": "Its steel-hard head can shatter boulders. It longingly hopes for wings to grow so it can fly."
+        },
+        "Generation IV": {
+            "Diamond": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+            "Pearl": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+            "Platinum": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+            "HeartGold": "Its well-developed neck muscles and ironlike head can smash boulders into pieces.",
+            "SoulSilver": "Its well-developed neck muscles and ironlike head can smash boulders into pieces."
+        },
+        "Generation V": {
+            "Black": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+            "White": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+            "Black 2": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+            "White 2": "Dreaming of one day flying, it practices by leaping off cliffs every day."
+        },
+        "Generation VI": {
+            "X": "Its well-developed neck muscles and iron-like head can smash boulders into pieces.",
+            "Y": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+            "Omega Ruby": "Bagon has a dream of one day soaring in the sky. In doomed efforts to fly, this Pokémon hurls itself off cliffs. As a result of its dives, its head has grown tough and as hard as tempered steel.",
+            "Alpha Sapphire": "Bagon harbors a never-ending dream of one day soaring high among the clouds. As if trying to dispel its frustration over its inability to fly, this Pokémon slams its hard head against huge rocks and shatters them into pebbles."
+        },
+        "Generation VII": {
+            "Sun": "Its belief that it will be able to fly one day is apparently the influence of information carried in its genes.",
+            "Moon": "With its steel-hard stone head, it headbutts indiscriminately. This is because of the stress it feels at being unable to fly.",
+            "Ultra Sun": "Whenever it sees bird Pokémon flying through the sky, it becomes envious and smashes its surroundings to bits with headbutts.",
+            "Ultra Moon": "Some theories suggest that its behavior of forcefully bashing its head into things stimulates cells that affect its evolution."
+        },
+        "Generation VIII": {
+            "Sword": "Bagon jumps off cliffs every day, trying to grow stronger so that someday it will be able to fly.",
+            "Shield": "Bagon is a solitary Pokémon that doesn't form groups with others of its kind. It also has a head hard enough to cleave a boulder in one strike.",
+            "Brilliant Diamond": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+            "Shining Pearl": "Dreaming of one day flying, it practices by leaping off cliffs every day."
+        },
+        "Generation IX": {
+            "Scarlet": "Its steel-hard head can shatter boulders. It longingly hopes for wings to grow so it can fly.",
+            "Violet": "Its belief that it will be able to fly one day is apparently the influence of information carried in its genes."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Meteor Falls",
+            "Sapphire": "Meteor Falls",
+            "Emerald": "Meteor Falls",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Route 210 ( Poké Radar )",
+            "Platinum": "Route 210 ( Poké Radar )",
+            "HeartGold": "Safari Zone (tall grass in Swamp with 56 Peak points and 35 Forest points)",
+            "SoulSilver": "Safari Zone (tall grass in Swamp with 56 Peak points and 35 Forest points)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade , Event",
+            "White": "White Forest",
+            "Black 2": "Pinwheel Forest ( Hidden Grotto ) *",
+            "White 2": "Pinwheel Forest ( Hidden Grotto ) *",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Route 8",
+            "Y": "Route 8",
+            "Omega Ruby": "Meteor Falls",
+            "Alpha Sapphire": "Meteor Falls"
+        },
+        "Generation VII": {
+            "Sun": "Route 3 , Kala'e Bay",
+            "Moon": "Route 3 , Kala'e Bay",
+            "Ultra Sun": "Route 3 , Kala'e Bay",
+            "Ultra Moon": "Route 3 , Kala'e Bay",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Sword Expansion Pass": "Tunnel to the Top Giant's Bed , Path to the Peak , Ballimere Lake , Three-Point Pass , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Route 210 ( Poké Radar ) Grand Underground - Spacious Cave , Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Union Circle Tera Raid Battle Search ( 3★ )",
+            "Violet": "South Province: Area One , Area Three , Alfornada Cavern East Province: Area Three West Province: Area Two North Province: Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Bagon",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Bagon",
+            "to": "Shelgon",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

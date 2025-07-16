@@ -1,0 +1,128 @@
+{
+    "name": "Linoone",
+    "pokedex_number": "#0264",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Pickup",
+        "Gluttony",
+        "Quick Feet"
+    ],
+    "stats": {
+        "HP": 78,
+        "Attack": 70,
+        "Defense": 61,
+        "Sp. Atk": 50,
+        "Sp. Def": 61,
+        "Speed": 100,
+        "Total": 420
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Linoone always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This Pok é mon is very challenged by gently curving roads.",
+            "Sapphire": "When hunting, Linoone will make a beeline straight for the prey at a full run. While this Pok é mon is capable of topping 60 mph , it has to come to a screeching halt before it can turn.",
+            "Emerald": "It is exceedingly fast if it only has to run in a straight line. When it spots pond-dwelling prey underwater, it quickly leaps in and catches it with its sharp claws.",
+            "FireRed": "When running in a straight line, it can top 60 miles per hour . However, it has a tough time with curved roads.",
+            "LeafGreen": "When running in a straight line, it can top 60 miles per hour . However, it has a tough time with curved roads."
+        },
+        "Generation IV": {
+            "Diamond": "It charges prey at speeds over 60 mph . However, because it can only run straight, it often fails.",
+            "Pearl": "It charges prey at speeds over 60 mph . However, because it can only run straight, it often fails.",
+            "Platinum": "It charges prey at speeds over 60 mph . However, because it can only run straight, it often fails.",
+            "HeartGold": "When running in a straight line, it can easily top 60 miles an hour . It has a tough time with curved roads.",
+            "SoulSilver": "When running in a straight line, it can easily top 60 miles an hour . It has a tough time with curved roads."
+        },
+        "Generation V": {
+            "Black": "It charges prey at speeds over 60 mph . However, because it can only run straight, it often fails.",
+            "White": "It charges prey at speeds over 60 mph . However, because it can only run straight, it often fails.",
+            "Black 2": "It charges prey at speeds over 60 mph . However, because it can only run straight, it often fails.",
+            "White 2": "It charges prey at speeds over 60 mph . However, because it can only run straight, it often fails."
+        },
+        "Generation VI": {
+            "X": "When running in a straight line, it can easily top 60 miles an hour . It has a tough time with curved roads.",
+            "Y": "It charges prey at speeds over 60 mph . However, because it can only run straight, it often fails.",
+            "Omega Ruby": "Linoone always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This Pokémon is very challenged by gently curving roads.",
+            "Alpha Sapphire": "When hunting, Linoone will make a beeline straight for the prey at a full run. While this Pokémon is capable of topping 60 mph , it has to come to a screeching halt before it can turn."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It uses its long tongue to taunt opponents. Once the opposition is enraged, this Pokémon hurls itself at the opponent, tackling them forcefully.",
+            "Shield": "This very aggressive Pokémon will recklessly challenge opponents stronger than itself.",
+            "Brilliant Diamond": "It charges prey at speeds over 60 mph . However, because it can only run straight, it often fails.",
+            "Shining Pearl": "It charges prey at speeds over 60 mph . However, because it can only run straight, it often fails."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Routes 118 , 119 , 120 , 121 , and 123",
+            "Sapphire": "Routes 118 , 119 , 120 , 121 , and 123",
+            "Emerald": "Routes 118 and 119",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Zigzagoon",
+            "Pearl": "Evolve Zigzagoon",
+            "Platinum": "Evolve Zigzagoon",
+            "HeartGold": "Safari Zone (Peak with 5 Plains points) Routes 30 , 31 , 32 , 34 , 35 , 42 , 43 , 44 , 45 , 47 , 4 , 6 , 9 , 10 , 13 , 21 , 22 , 24 , 25 , 26 , 27 , and 28 , Ruins of Alph , Mt. Silver (Hoenn Sound)",
+            "SoulSilver": "Safari Zone (Peak with 5 Plains points) Routes 30 , 31 , 32 , 34 , 35 , 42 , 43 , 44 , 45 , 47 , 4 , 6 , 9 , 10 , 13 , 21 , 22 , 24 , 25 , 26 , 27 , and 28 , Ruins of Alph , Mt. Silver (Hoenn Sound)",
+            "Pal Park": "Field",
+            "Pokéwalker": "Hoenn Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Evolve Zigzagoon",
+            "Y": "Evolve Zigzagoon",
+            "Omega Ruby": "Routes 118 , 119 , 120 , 121 , and 123",
+            "Alpha Sapphire": "Routes 118 , 119 , 120 , 121 , and 123"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+ ( Hoennian Form ) Giant's Cap ( Galarian Form ) Bridge Field ( Wanderer ) ( Galarian Form ) Bridge Field , Dusty Bowl , Giant's Mirror , Motostoke Riverbank , Stony Wilderness , West Lake Axewell ( Max Raid Battle ) ( Galarian Form )",
+            "Shield": "Trade Version 1.2.0+ ( Hoennian Form ) Giant's Cap ( Galarian Form ) Bridge Field ( Wanderer ) ( Galarian Form ) Bridge Field , Dusty Bowl , Giant's Mirror , Motostoke Riverbank , Stony Wilderness , West Lake Axewell ( Max Raid Battle ) ( Galarian Form )",
+            "Expansion Pass": "Giant's Bed , Ballimere Lake ( Galarian Form ) Frostpoint Field , Giant's Bed , Snowslide Slope , Giant's Foot , Frigid Sea ( Max Raid Battle ) ( Galarian Form ) Max Lair ( Dynamax Adventure ) ( Hoennian/Galarian Forms )",
+            "Brilliant Diamond": "Evolve Zigzagoon ( Hoennian Form ) Unobtainable ( Galarian Form )",
+            "Shining Pearl": "Evolve Zigzagoon ( Hoennian Form ) Unobtainable ( Galarian Form )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Zigzagoon",
+            "to": "Linoone",
+            "method": [
+                "Level 20"
+            ]
+        },
+        {
+            "from": "Linoone",
+            "to": "Obstagoon",
+            "method": [
+                "Level 35 (during the night)"
+            ]
+        }
+    ]
+}

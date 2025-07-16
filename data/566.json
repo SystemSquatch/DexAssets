@@ -1,0 +1,97 @@
+{
+    "name": "Archen",
+    "pokedex_number": "#0566",
+    "types": [
+        "Rock",
+        "Flying"
+    ],
+    "abilities": [
+        "Defeatist"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 112,
+        "Defense": 45,
+        "Sp. Atk": 74,
+        "Sp. Def": 45,
+        "Speed": 70,
+        "Total": 401
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from one branch to another.",
+            "White": "Revived from a fossil, this Pokémon is thought to be the ancestor of all bird Pokémon.",
+            "Black 2": "It was revived from an ancient fossil. Not able to fly, it lived in treetops and hopped from one branch to another.",
+            "White 2": "It was revived from an ancient fossil. Not able to fly, it lived in treetops and hopped from one branch to another."
+        },
+        "Generation VI": {
+            "X": "Revived from a fossil, this Pokémon is thought to be the ancestor of all bird Pokémon.",
+            "Y": "Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from one branch to another.",
+            "Omega Ruby": "Revived from a fossil, this Pokémon is thought to be the ancestor of all bird Pokémon.",
+            "Alpha Sapphire": "Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from one branch to another."
+        },
+        "Generation VII": {
+            "Sun": "It is the ancestor of all bird Pokémon. Archen itself could not actually fly but moved by hopping from treetop to treetop.",
+            "Moon": "To all appearances flightless, it was able to glide down from tall treetops to snag its prey.",
+            "Ultra Sun": "Once thought to be the ancestor of all bird Pokémon, some of the latest research suggests that may not be the case.",
+            "Ultra Moon": "Restored from a fossil, this ancient bird Pokémon has wings but can't yet fly."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon was successfully restored from a fossil. As research suggested, Archen is unable to fly. But it's very good at jumping.",
+            "Shield": "Archen is said to be the ancestor of bird Pokémon. It lived in treetops, eating berries and bug Pokémon."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Revive from Plume Fossil at the Nacrene Museum",
+            "White": "Revive from Plume Fossil at the Nacrene Museum",
+            "Black 2": "Revive from Plume Fossil at the Nacrene Museum",
+            "White 2": "Revive from Plume Fossil at the Nacrene Museum"
+        },
+        "Generation VI": {
+            "X": "Revive from Plume Fossil at the Ambrette Town Fossil Lab",
+            "Y": "Revive from Plume Fossil at the Ambrette Town Fossil Lab",
+            "Omega Ruby": "Revive from Plume Fossil at the Devon Corporation in Rustboro City",
+            "Alpha Sapphire": "Trade Receive Plume Fossil held by a traded Pokémon and revive it"
+        },
+        "Generation VII": {
+            "Sun": "Trade Receive Plume Fossil held by a traded Pokémon and revive it",
+            "Moon": "Revive from Plume Fossil at the Fossil Restoration Center on Route 8",
+            "Ultra Sun": "Revive from Plume Fossil at the Fossil Restoration Center on Route 8",
+            "Ultra Moon": "Revive from Plume Fossil at the Fossil Restoration Center on Route 8",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Giant's Foot",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Archen",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Archen",
+            "to": "Archeops",
+            "method": [
+                "Level 37"
+            ]
+        }
+    ]
+}

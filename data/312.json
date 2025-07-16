@@ -1,0 +1,113 @@
+{
+    "name": "Minun",
+    "pokedex_number": "#0312",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Minus",
+        "Volt Absorb"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 50,
+        "Sp. Atk": 75,
+        "Sp. Def": 85,
+        "Speed": 95,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Minun is more concerned about cheering on its partners than its own safety. It shorts out the electricity in its body to create brilliant showers of sparks to cheer on its teammates.",
+            "Sapphire": "Minun loves to cheer on its partner in battle. It gives off sparks from its body while it is doing so. If its partner is in trouble, this Pok é mon gives off increasing amounts of sparks.",
+            "Emerald": "At a meeting of Pok é mon academics, it was announced that simultaneous exposure to electricity from a Plusle and Minun will promote circulation and boost vitality.",
+            "FireRed": "Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering.",
+            "LeafGreen": "Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering."
+        },
+        "Generation IV": {
+            "Diamond": "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
+            "Pearl": "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
+            "Platinum": "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
+            "HeartGold": "Exposure to electricity from Minun and Plusle promotes blood circulation and relaxes muscles.",
+            "SoulSilver": "Exposure to electricity from Minun and Plusle promotes blood circulation and relaxes muscles."
+        },
+        "Generation V": {
+            "Black": "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
+            "White": "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
+            "Black 2": "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
+            "White 2": "It cheers on friends. If its friends are losing, its body lets off more and more sparks."
+        },
+        "Generation VI": {
+            "X": "Exposure to electricity from Minun and Plusle promotes blood circulation and relaxes muscles.",
+            "Y": "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
+            "Omega Ruby": "Minun is more concerned about cheering on its partners than its own safety. It shorts out the electricity in its body to create brilliant showers of sparks to cheer on its teammates.",
+            "Alpha Sapphire": "Minun loves to cheer on its partner in battle. It gives off sparks from its body while it is doing so. If its partner is in trouble, this Pokémon gives off increasing amounts of sparks."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
+            "Shining Pearl": "It cheers on friends. If its friends are losing, its body lets off more and more sparks."
+        },
+        "Generation IX": {
+            "Scarlet": "Exposure to electricity from Minun and Plusle promotes blood circulation and relaxes muscles.",
+            "Violet": "Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 110",
+            "Sapphire": "Route 110",
+            "Emerald": "Route 110",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trophy Garden",
+            "Pearl": "Trophy Garden",
+            "Platinum": "Trophy Garden",
+            "HeartGold": "Routes 1 , 2 , 3 , 5 , 7 , 8 , 11 , 14 , 15 , 16 , 17 , 18 , 29 , 33 , 36 , 37 , 38 , 39 , 46 , and 48 , National Park (Hoenn Sound)",
+            "SoulSilver": "Routes 1 , 2 , 3 , 5 , 7 , 8 , 11 , 14 , 15 , 16 , 17 , 18 , 29 , 33 , 36 , 37 , 38 , 39 , 46 , and 48 , National Park (Hoenn Sound)",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Route 6 ( Swarm )",
+            "Black 2": "Trade",
+            "White 2": "Route 6 ( Swarm )",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Route 5 ( Horde Encounter )",
+            "Y": "Route 5 ( Tall grass or Horde Encounter )",
+            "Omega Ruby": "Route 110 ( Tall grass or Horde Encounter )",
+            "Alpha Sapphire": "Route 110 ( Horde Encounter )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Trophy Garden",
+            "Shining Pearl": "Trophy Garden",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Canyon Biome , Chargestone Cavern , Polar Biome Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": []
+}

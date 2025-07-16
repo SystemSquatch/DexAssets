@@ -1,0 +1,144 @@
+{
+    "name": "Qwilfish",
+    "pokedex_number": "#0211",
+    "types": [
+        "Water",
+        "Poison"
+    ],
+    "abilities": [
+        "Poison Point",
+        "Swift Swim",
+        "Intimidate"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 75,
+        "Sp. Atk": 55,
+        "Sp. Def": 55,
+        "Speed": 85,
+        "Total": 430
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
+            "Silver": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
+            "Crystal": "When faced with a larger opponent, it swallows as much water as it can to match the opponent's size.",
+            "Stadium 2": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once. (Pokémon Red, Silver, or Crystal inserted) The small spikes covering its body developed from scales. They inject a toxin that causes fainting. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Qwilfish sucks in water, inflating itself. This Pok é mon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
+            "Sapphire": "Qwilfish sucks in water, inflating itself. This Pok é mon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
+            "Emerald": "A Qwilfish uses the pressure of water it swallows to shoot toxic quills all at once from all over its body. It finds swimming to be somewhat challenging.",
+            "FireRed": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
+            "LeafGreen": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once."
+        },
+        "Generation IV": {
+            "Diamond": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
+            "Pearl": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
+            "Platinum": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
+            "HeartGold": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
+            "SoulSilver": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting."
+        },
+        "Generation V": {
+            "Black": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
+            "White": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
+            "Black 2": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
+            "White 2": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer."
+        },
+        "Generation VI": {
+            "X": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
+            "Y": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
+            "Omega Ruby": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
+            "Alpha Sapphire": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "When faced with a larger opponent, it swallows as much water as it can to match the opponent's size.",
+            "Shield": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
+            "Brilliant Diamond": "It shoots the poison spikes on its body in all directions. Its round form makes it a poor swimmer.",
+            "Shining Pearl": "It shoots the poison spikes on its body in all directions. Its round form makes it a poor swimmer.",
+            "Legends: Arceus": "Fishers detest this troublesome Pokémon because it sprays poison from its spines, getting it everywhere. A different form of Qwilfish lives in other regions."
+        },
+        "Generation IX": {
+            "Scarlet": "It lives just offshore in cold parts of the world. Its poisonous spikes are thicker and shorter than those of other regions’ Qwilfish.",
+            "Violet": "It absorbs toxins from the food it eats. The distinct purple spikes on its body are evidence of its potent poison."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 12 , 13 , and 32 ( Super Rod * )",
+            "Silver": "Routes 12 , 13 , and 32 ( Super Rod * )",
+            "Crystal": "Routes 12 , 13 , and 32 ( Super Rod * )"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "Five Isle Meadow , Green Path , Memorial Pillar , Outcast Island , Resort Gorgeous , Tanoby Ruins , Trainer Tower , Water Labyrinth , Water Path ( Super Rod )",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Pyrite Bldg (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Iron Island ( Super Rod )",
+            "Pearl": "Iron Island ( Super Rod )",
+            "Platinum": "Iron Island ( Super Rod )",
+            "HeartGold": "Routes 12 and 13 ( Super Rod ) Route 32 ( Good Rod or Super Rod )",
+            "SoulSilver": "Routes 12 and 13 ( Super Rod ) Route 32 ( Good Rod or Super Rod )",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Routes 17 and 18 , P2 Laboratory ( Fishing in rippling water )",
+            "White": "Routes 17 and 18 , P2 Laboratory ( Fishing in rippling water )",
+            "Black 2": "Route 4 , Virbank City , Virbank Complex ( Fishing ) Route 4 , P2 Laboratory ( Fishing in rippling water )",
+            "White 2": "Route 4 , Virbank City , Virbank Complex ( Fishing ) Route 4 , P2 Laboratory ( Fishing in rippling water )",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Route 8 ( Super Rod )",
+            "Y": "Route 8 ( Super Rod )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Dusty Bowl , Lake of Outrage , Bridge Field , Route 9 Bridge Field , Dusty Bowl , East Lake Axewell , Giant's Cap , Hammerlocke Hills , Lake of Outrage , Motostoke Riverbank , North Lake Miloch , South Lake Miloch , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Dusty Bowl , Lake of Outrage , Bridge Field , Route 9 Bridge Field , Dusty Bowl , East Lake Axewell , Giant's Cap , Hammerlocke Hills , Lake of Outrage , Motostoke Riverbank , North Lake Miloch , South Lake Miloch , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Iron Island ( Super Rod ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern , Swampy Cave , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Iron Island ( Super Rod ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern , Swampy Cave , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Obsidian Fieldlands : near Ramanas Island ( Hisuian Form ) Cobalt Coastlands : near Bathers' Lagoon , near Hideaway Bay , near Tombolo Walk , near Sand's Reach , Tranquility Cove , Islespy Shore and nearby (additional ), Lunker's Lair , near Seagrass Haven , near Firespit Island , massive mass outbreaks ( Hisuian Form ) Unobtainable ( Johtonian Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: South Paldean Sea ( Johtonian Form ) East Province: East Paldean Sea ( Johtonian Form ) West Province: West Paldean Sea ( Johtonian Form ) North Province: North Paldean Sea ( Johtonian Form ) Tera Raid Battles ( 3★ ) ( Johtonian Form ) Trade ( Hisuian Form )",
+            "Violet": "South Province: South Paldean Sea ( Johtonian Form ) East Province: East Paldean Sea ( Johtonian Form ) West Province: West Paldean Sea ( Johtonian Form ) North Province: North Paldean Sea ( Johtonian Form ) Tera Raid Battles ( 3★ ) ( Johtonian Form ) Trade ( Hisuian Form )",
+            "The Hidden Treasure of Area Zero": "Polar Biome ( Hisuian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Qwilfish",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Qwilfish",
+            "to": "Overqwil",
+            "method": [
+                "Strong Style Move (knowing Barb Barrage)"
+            ]
+        }
+    ]
+}

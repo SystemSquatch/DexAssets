@@ -1,0 +1,55 @@
+{
+    "name": "Zeraora",
+    "pokedex_number": "#0807",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Volt Absorb"
+    ],
+    "stats": {
+        "HP": 88,
+        "Attack": 112,
+        "Defense": 75,
+        "Sp. Atk": 102,
+        "Sp. Def": 80,
+        "Speed": 143,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Ultra Sun": "It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they'll be electrocuted by the flying sparks.",
+            "Ultra Moon": "It approaches its enemies at the speed of lightning, then tears them limb from limb with its sharp claws."
+        },
+        "Generation VIII": {
+            "Sword": "It runs as fast as lightning strikes, shredding its opponents with its high-voltage claws. *",
+            "Shield": "Electricity sparks from the pads on its limbs. Wherever Zeraora runs, lightning flashes and thunder echoes. *"
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Unavailable",
+            "Moon": "Unavailable",
+            "Ultra Sun": "Event",
+            "Ultra Moon": "Event",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME",
+            "Shield": "Pokémon HOME",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

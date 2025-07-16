@@ -1,0 +1,139 @@
+{
+    "name": "Quilava",
+    "pokedex_number": "#0156",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Blaze",
+        "Flash Fire"
+    ],
+    "stats": {
+        "HP": 58,
+        "Attack": 64,
+        "Defense": 58,
+        "Sp. Atk": 80,
+        "Sp. Def": 65,
+        "Speed": 80,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
+            "Silver": "This Pok é mon is fully covered by nonflammable fur. It can withstand any kind of fire attack.",
+            "Crystal": "Before battle, it turns its back on its opponent to demonstrate how ferociously its fire blazes.",
+            "Stadium 2": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back. (Pokémon Red, Silver, or Crystal inserted) This Pok é mon is fully covered by nonflammable fur. It can withstand any kind of fire attack. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pok é mon applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.",
+            "Sapphire": "Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pok é mon applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.",
+            "Emerald": "It intimidates foes with intense gusts of flames and superheated air. Its quick nimbleness lets it dodge attacks even while scorching an enemy.",
+            "FireRed": "This Pok é mon is fully covered by nonflammable fur. It can withstand any kind of fire attack.",
+            "LeafGreen": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back."
+        },
+        "Generation IV": {
+            "Diamond": "It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.",
+            "Pearl": "It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.",
+            "Platinum": "It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.",
+            "HeartGold": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
+            "SoulSilver": "This Pokémon is fully covered by nonflammable fur. It can withstand any kind of fire attack."
+        },
+        "Generation V": {
+            "Black": "It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.",
+            "White": "It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.",
+            "Black 2": "It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.",
+            "White 2": "It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight."
+        },
+        "Generation VI": {
+            "X": "Before battle, it turns its back on its opponent to demonstrate how ferociously its fire blazes.",
+            "Y": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
+            "Omega Ruby": "Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pokémon applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.",
+            "Alpha Sapphire": "Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pokémon applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It intimidates foes with the heat of its flames. The fire burns stronger as it prepares to fight.",
+            "Shining Pearl": "It intimidates foes with the heat of its flames. The fire burns stronger as it prepares to fight.",
+            "Legends: Arceus": "This creature's fur is most mysterious—it is wholly impervious to the burning touch of flame. Should Quilava turn its back to you, take heed! Such a posture indicates a forthcoming attack."
+        },
+        "Generation IX": {
+            "Scarlet": "Before battle, it turns its back on its opponent to demonstrate how ferociously its fire blazes.",
+            "Violet": "The fur covering this Pokémon's body never burns, no matter what. It can shrug off any kind of fire attack."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Cyndaquil",
+            "Silver": "Evolve Cyndaquil",
+            "Crystal": "Evolve Cyndaquil"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Evolve Cyndaquil",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Phenac City (Shadow) Realgam Tower (if not snagged in Phenac City) Snagem Hideout (if Verde was battled in Phenac City) Shadow PKMN Lab (if Bluno was battled in Phenac City)",
+            "XD": "Evolve Cyndaquil"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Cyndaquil",
+            "SoulSilver": "Evolve Cyndaquil",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Cyndaquil",
+            "Alpha Sapphire": "Evolve Cyndaquil"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Cyndaquil",
+            "Moon": "Evolve Cyndaquil",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Cyndaquil",
+            "Shining Pearl": "Evolve Cyndaquil",
+            "Legends: Arceus": "Crimson Mirelands : Space-time distortions (after completing Mission 18), massive mass outbreaks (after completing Request 102)"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Evolve Cyndaquil"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Cyndaquil",
+            "to": "Quilava",
+            "method": [
+                "Level 14"
+            ]
+        },
+        {
+            "from": "Quilava",
+            "to": "Typhlosion",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "name": "Slowking",
+    "pokedex_number": "#0199",
+    "types": [
+        "Water",
+        "Psychic"
+    ],
+    "abilities": [
+        "Oblivious",
+        "Own Tempo",
+        "Curious Medicine",
+        "Own Tempo",
+        "Regenerator"
+    ],
+    "stats": {
+        "HP": 95,
+        "Attack": 75,
+        "Defense": 80,
+        "Sp. Atk": 100,
+        "Sp. Def": 110,
+        "Speed": 30,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
+            "Silver": "When its head was bitten, toxins entered Slowpoke 's head and unlocked an extraordinary power.",
+            "Crystal": "Every time it yawns, Shellder injects more poison into it. The poison makes it more intelligent.",
+            "Stadium 2": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected. (Pokémon Red, Silver, or Crystal inserted) When its head was bitten, toxins entered Slowpoke 's head and unlocked an extraordinary power. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pok é mon apparently forgets everything it has learned if the Shellder on its head comes off.",
+            "Sapphire": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pok é mon apparently forgets everything it has learned if the Shellder on its head comes off.",
+            "Emerald": "It undertakes research every day to solve the mysteries of the world. However, it apparently forgets everything if the Shellder on its head comes off.",
+            "FireRed": "When its head was bitten, toxins entered Slowpoke 's head and unlocked an extraordinary power.",
+            "LeafGreen": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected."
+        },
+        "Generation IV": {
+            "Diamond": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
+            "Pearl": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
+            "Platinum": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
+            "HeartGold": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
+            "SoulSilver": "When its head was bitten, toxins entered Slowpoke 's head and unlocked an extraordinary power."
+        },
+        "Generation V": {
+            "Black": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
+            "White": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
+            "Black 2": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
+            "White 2": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists."
+        },
+        "Generation VI": {
+            "X": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
+            "Y": "When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power.",
+            "Omega Ruby": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.",
+            "Alpha Sapphire": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off."
+        },
+        "Generation VII": {
+            "Sun": "A poisonous bite reacted with its system, blessing it with the enhanced intellect of a genius. It has full control of its psychic powers.",
+            "Moon": "This Pokémon is so famed for its intellect that a proverb still persists in some regions: \"When in doubt, ask Slowking.\"",
+            "Ultra Sun": "It's constantly coming up with new ideas that would change the world, but as soon as it hits upon a new idea, it forgets it.",
+            "Ultra Moon": "It's called \"the sage of the sea.\" It engages in battles of wits with Oranguru , but the result is usually a draw."
+        },
+        "Generation VIII": {
+            "Sword": "A combination of toxins and the shock of evolving has increased Shellder's intelligence to the point that Shellder now controls Slowking.",
+            "Shield": "While chanting strange spells, this Pokémon combines its internal toxins with what it's eaten, creating strange potions.",
+            "Brilliant Diamond": "Being bitten by Shellder gave it intelligence comparable to that of internationally recognized scientists.",
+            "Shining Pearl": "Being bitten by Shellder gave it intelligence comparable to that of internationally recognized scientists."
+        },
+        "Generation IX": {
+            "Scarlet": "It administers its potions to weakened Pokémon it sees. These potions are derived from poison and secreted from holes in Slowking’s horns.",
+            "Violet": "It creates potions by mixing toxins with the food it’s eaten. Not even Slowking itself knows what effects the potions will have."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Slowpoke",
+            "Silver": "Evolve Slowpoke",
+            "Crystal": "Evolve Slowpoke"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Trade",
+            "LeafGreen": "Evolve Slowpoke",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Evolve Slowpoke",
+            "Platinum": "Evolve Slowpoke",
+            "HeartGold": "Evolve Slowpoke",
+            "SoulSilver": "Evolve Slowpoke",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Abundant Shrine ( Surfing in rippling water )",
+            "White": "Abundant Shrine ( Surfing in rippling water )",
+            "Black 2": "Evolve Slowpoke",
+            "White 2": "Evolve Slowpoke"
+        },
+        "Generation VI": {
+            "X": "Evolve Slowpoke",
+            "Y": "Evolve Slowpoke",
+            "Omega Ruby": "Evolve Slowpoke",
+            "Alpha Sapphire": "Evolve Slowpoke"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Slowpoke",
+            "Moon": "Evolve Slowpoke",
+            "Ultra Sun": "Kala'e Bay ( SOS Battle )",
+            "Ultra Moon": "Kala'e Bay ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+ ( Johtonian Form ) / Version 1.3.0+ ( Galarian Form )",
+            "Shield": "Trade Version 1.2.0+ ( Johtonian Form ) / Version 1.3.0+ ( Galarian Form )",
+            "Expansion Pass": "Evolve Slowpoke ( Galarian Form ) Max Lair ( Dynamax Adventure ) ( Johtonian Form )",
+            "Brilliant Diamond": "Trade ( Johtonian Form ) Unobtainable ( Galarian Form )",
+            "Shining Pearl": "Evolve Slowpoke ( Johtonian Form ) Unobtainable ( Galarian Form )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 5★ , 6★ ) ( Johtonian Form ) Trade ( Galarian Form )",
+            "Violet": "Tera Raid Battles ( 5★ , 6★ ) ( Johtonian Form ) Trade ( Galarian Form )",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 6★ ) ( Galarian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Slowpoke",
+            "to": "Slowking",
+            "method": [
+                "Trade (holding Kings Rock)",
+                "Use Galarica Wreath"
+            ]
+        }
+    ]
+}

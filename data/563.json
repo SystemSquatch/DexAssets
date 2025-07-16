@@ -1,0 +1,85 @@
+{
+    "name": "Cofagrigus",
+    "pokedex_number": "#0563",
+    "types": [
+        "Ghost",
+        "Unknown"
+    ],
+    "abilities": [
+        "Mummy"
+    ],
+    "stats": {
+        "HP": 58,
+        "Attack": 50,
+        "Defense": 145,
+        "Sp. Atk": 95,
+        "Sp. Def": 105,
+        "Speed": 30,
+        "Total": 483
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
+            "White": "They pretend to be elaborate coffins to teach lessons to grave robbers. Their bodies are covered in pure gold.",
+            "Black 2": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
+            "White 2": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies."
+        },
+        "Generation VI": {
+            "X": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
+            "Y": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
+            "Omega Ruby": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
+            "Alpha Sapphire": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "This Pokémon has a body of sparkling gold. People say it no longer remembers that it was once human.",
+            "Shield": "There are many depictions of Cofagrigus decorating ancient tombs. They're symbols of the wealth that kings of bygone eras had."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Relic Castle",
+            "White": "Relic Castle",
+            "Black 2": "Evolve Yamask",
+            "White 2": "Evolve Yamask"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Mirage Caves (north of Route 124 , south of Route 131 )",
+            "Alpha Sapphire": "Mirage Caves (north of Route 124 , south of Route 131 )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank , Event",
+            "Ultra Moon": "Pokémon Bank , Event",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Evolve Yamask",
+            "Shield": "Evolve Yamask",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Yamask",
+            "to": "Cofagrigus",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

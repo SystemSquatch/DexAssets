@@ -1,0 +1,111 @@
+{
+    "name": "Chingling",
+    "pokedex_number": "#0433",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 50,
+        "Sp. Atk": 65,
+        "Sp. Def": 50,
+        "Speed": 45,
+        "Total": 285
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It emits cries by agitating an orb at the back of its throat. It moves with flouncing hops.",
+            "Pearl": "Each time it hops, it makes a ringing sound. It deafens foes by emitting high-frequency cries.",
+            "Platinum": "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.",
+            "HeartGold": "It emits high-frequency cries that people can't hear. Once it starts, it can cry for an awfully long time.",
+            "SoulSilver": "It emits high-frequency cries that people can't hear. Once it starts, it can cry for an awfully long time."
+        },
+        "Generation V": {
+            "Black": "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.",
+            "White": "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.",
+            "Black 2": "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.",
+            "White 2": "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound."
+        },
+        "Generation VI": {
+            "X": "Each time it hops, it makes a ringing sound. It deafens foes by emitting high-frequency cries.",
+            "Y": "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.",
+            "Omega Ruby": "Each time it hops, it makes a ringing sound. It deafens foes by emitting high-frequency cries.",
+            "Alpha Sapphire": "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It emits cries by agitating an orb at the back of its throat. It moves with flouncing hops.",
+            "Shining Pearl": "Each time it hops, it makes a ringing sound. It deafens foes by emitting high-frequency cries.",
+            "Legends: Arceus": "This Pokémon gave me an excruciating headache when it seemingly cried out without making a sound. Perhaps there are some sounds that the human ear is simply incapable of hearing."
+        },
+        "Generation IX": {
+            "Scarlet": "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.",
+            "Violet": "It emits high-frequency cries that people can't hear. Once it starts, it can cry for an awfully long time."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Route 211 , Lake Valor , Mt. Coronet , Lake Acuity",
+            "Pearl": "Route 211 , Lake Valor , Mt. Coronet , Lake Acuity",
+            "Platinum": "Route 211 , Mt. Coronet , Sendoff Spring , Turnback Cave",
+            "HeartGold": "Safari Zone (Mountain with 10 Forest points) Slowpoke Well , Union Cave , Mt. Mortar , Dark Cave , Whirl Islands , Mt. Silver Cave , Ice Path , Cliff Cave , Diglett's Cave , Mt. Moon , Cerulean Cave , Rock Tunnel , Seafoam Islands , Victory Road , Tohjo Falls (Sinnoh Sound)",
+            "SoulSilver": "Safari Zone (Mountain with 10 Forest points) Slowpoke Well , Union Cave , Mt. Mortar , Dark Cave , Whirl Islands , Mt. Silver Cave , Ice Path , Cliff Cave , Diglett's Cave , Mt. Moon , Cerulean Cave , Rock Tunnel , Seafoam Islands , Victory Road , Tohjo Falls (Sinnoh Sound)",
+            "Pokéwalker": "White Lake and Quiet Cave"
+        },
+        "Generation V": {
+            "Black": "Breed Chimecho holding a Pure Incense",
+            "White": "Breed Chimecho holding a Pure Incense",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Route 11 , Reflection Cave",
+            "Y": "Route 11 , Reflection Cave",
+            "Omega Ruby": "Breed Chimecho holding a Pure Incense",
+            "Alpha Sapphire": "Breed Chimecho holding a Pure Incense"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 211 , Lake Valor , Mt. Coronet , Lake Acuity Grand Underground - Spacious Cave , Dazzling Cave , Stargleam Cavern (After obtaining TM96 ( Strength ))",
+            "Shining Pearl": "Route 211 , Lake Valor , Mt. Coronet , Lake Acuity Grand Underground - Spacious Cave , Dazzling Cave , Stargleam Cavern (After obtaining TM96 ( Strength ))",
+            "Legends: Arceus": "Coronet Highlands : Primeval Grotto ( mass outbreaks ), Sacred Plaza , massive mass outbreaks Alabaster Icelands : Lake Acuity"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Infernal Pass , Crystal Pool , Chilling Waterhead Tera Raid Battles ( 1★ , 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Chingling",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Chingling",
+            "to": "Chimecho",
+            "method": [
+                "Level up (during the night, with high friendship)"
+            ]
+        }
+    ]
+}

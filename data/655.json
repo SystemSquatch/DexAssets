@@ -1,0 +1,74 @@
+{
+    "name": "Delphox",
+    "pokedex_number": "#0655",
+    "types": [
+        "Fire",
+        "Psychic"
+    ],
+    "abilities": [
+        "Blaze",
+        "Magician"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 69,
+        "Defense": 72,
+        "Sp. Atk": 114,
+        "Sp. Def": 100,
+        "Speed": 104,
+        "Total": 534
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future.",
+            "Y": "Using psychic power, it generates a fiery vortex of 5,400 degrees Fahrenheit , incinerating foes swept into this whirl of flame.",
+            "Omega Ruby": "It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future.",
+            "Alpha Sapphire": "Using psychic power, it generates a fiery vortex of 5,400 degrees Fahrenheit , incinerating foes swept into this whirl of flame."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "It leaves burn marks in the ground with the flame at the tip of its wand. Long ago, people used the shapes of these burn marks for divination.",
+            "Violet": "It controls flames telekinetically, trapping its foes in a fiery vortex surpassing 5,400 degrees Fahrenheit and burning them to a crisp."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Evolve Braixen",
+            "Y": "Evolve Braixen",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ancient Poni Path ( Island Scan ) Sa",
+            "Ultra Moon": "Ancient Poni Path ( Island Scan ) Sa",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade , Poké Portal News",
+            "Violet": "Trade , Poké Portal News",
+            "The Hidden Treasure of Area Zero": "Evolve Braixen"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Braixen",
+            "to": "Delphox",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

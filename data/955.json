@@ -1,0 +1,52 @@
+{
+    "name": "Flittle",
+    "pokedex_number": "#0955",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Anticipation",
+        "Frisk",
+        "Speed Boost"
+    ],
+    "stats": {
+        "HP": 30,
+        "Attack": 35,
+        "Defense": 30,
+        "Sp. Atk": 55,
+        "Sp. Def": 30,
+        "Speed": 75,
+        "Total": 255
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Flittle’s toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokémon’s belly.",
+            "Violet": "It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Four , Area Five , Area Six East Province: Area Two West Province: Area One , Asado Desert North Province: Area One , Dalizapa Passage Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Four , Area Five , Area Six East Province: Area Two West Province: Area One , Asado Desert North Province: Area One , Dalizapa Passage Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Flittle",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Flittle",
+            "to": "Espathra",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

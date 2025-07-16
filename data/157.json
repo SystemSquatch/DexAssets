@@ -1,0 +1,133 @@
+{
+    "name": "Typhlosion",
+    "pokedex_number": "#0157",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Blaze",
+        "Flash Fire",
+        "Frisk"
+    ],
+    "stats": {
+        "HP": 78,
+        "Attack": 84,
+        "Defense": 78,
+        "Sp. Atk": 109,
+        "Sp. Def": 85,
+        "Speed": 100,
+        "Total": 534
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
+            "Silver": "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions.",
+            "Crystal": "When heat from its body causes the air around it to shimmer, this is a sign that it is ready to battle.",
+            "Stadium 2": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames. (Pokémon Red, Silver, or Crystal inserted) It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pok é mon creates blazing explosive blasts that burn everything to cinders.",
+            "Sapphire": "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pok é mon creates blazing explosive blasts that burn everything to cinders.",
+            "Emerald": "It can hide behind a shimmering heat haze that it creates using its intense flames. Typhlosion create blazing explosive blasts that burn everything to cinders.",
+            "FireRed": "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions.",
+            "LeafGreen": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames."
+        },
+        "Generation IV": {
+            "Diamond": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
+            "Pearl": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
+            "Platinum": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
+            "HeartGold": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
+            "SoulSilver": "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions."
+        },
+        "Generation V": {
+            "Black": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
+            "White": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
+            "Black 2": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
+            "White 2": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself."
+        },
+        "Generation VI": {
+            "X": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
+            "Y": "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions.",
+            "Omega Ruby": "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders.",
+            "Alpha Sapphire": "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
+            "Shining Pearl": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
+            "Legends: Arceus": "Said to purify lost, forsaken souls with its flames and guide them to the afterlife. I believe its form has been influenced by the energy of the sacred mountain towering at Hisui's center."
+        },
+        "Generation IX": {
+            "Scarlet": "It has a secret, devastating move. It rubs its blazing fur to cause huge explosions.",
+            "Violet": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Quilava",
+            "Silver": "Evolve Quilava",
+            "Crystal": "Evolve Quilava"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Evolve Quilava",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Evolve Quilava",
+            "XD": "Evolve Quilava"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Quilava",
+            "SoulSilver": "Evolve Quilava",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade , Event",
+            "Y": "Trade , Event",
+            "Omega Ruby": "Evolve Quilava",
+            "Alpha Sapphire": "Evolve Quilava"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Quilava",
+            "Moon": "Evolve Quilava",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Quilava",
+            "Shining Pearl": "Evolve Quilava",
+            "Legends: Arceus": "Crimson Mirelands : Space-time distortions (after completing Mission 18), massive mass outbreaks (after completing Request 102) ( Hisuian Form ) Unobtainable ( Johtonian Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade , Poké Portal News ( Johtonian Form ) Pokémon HOME , Poké Portal News ( Hisuian Form )",
+            "Violet": "Trade , Poké Portal News ( Johtonian Form ) Pokémon HOME , Poké Portal News ( Hisuian Form )",
+            "The Hidden Treasure of Area Zero": "Evolve Quilava ( Johtonian Form ) Evolve Quilava in Pokémon Legends: Arceus via Pokémon HOME ( Hisuian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Quilava",
+            "to": "Typhlosion",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

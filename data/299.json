@@ -1,0 +1,138 @@
+{
+    "name": "Nosepass",
+    "pokedex_number": "#0299",
+    "types": [
+        "Rock",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sturdy",
+        "Magnet Pull",
+        "Sand Force"
+    ],
+    "stats": {
+        "HP": 30,
+        "Attack": 45,
+        "Defense": 135,
+        "Sp. Atk": 45,
+        "Sp. Def": 90,
+        "Speed": 30,
+        "Total": 375
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Nosepass 's magnetic nose is always pointed to the north. If two of these Pok é mon meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another.",
+            "Sapphire": "Nosepass had been said to be completely unmoving, with its magnetic nose pointed due north. However, close observation has revealed that the Pok é mon actually moves by a little over 3/8 of an inch every year.",
+            "Emerald": "Its body emits a powerful magnetism. It feeds on prey that is pulled in by the force. Its magnetism is stronger in cold seasons.",
+            "FireRed": "Its magnetic nose consistently faces north. Travelers check Nosepass to get their bearings.",
+            "LeafGreen": "Its magnetic nose consistently faces north. Travelers check Nosepass to get their bearings."
+        },
+        "Generation IV": {
+            "Diamond": "Its nose is a magnet. As a result, this Pokémon always keeps its face pointing north.",
+            "Pearl": "Its nose is a magnet. As a result, this Pokémon always keeps its face pointing north.",
+            "Platinum": "When endangered, it may protect itself by raising its magnetism and drawing iron objects to its body.",
+            "HeartGold": "If two of these meet, they cannot get too close because their noses repel each other.",
+            "SoulSilver": "If two of these meet, they cannot get too close because their noses repel each other."
+        },
+        "Generation V": {
+            "Black": "When endangered, it may protect itself by raising its magnetism and drawing iron objects to its body.",
+            "White": "When endangered, it may protect itself by raising its magnetism and drawing iron objects to its body.",
+            "Black 2": "Its magnetic nose always faces north and draws iron objects to its body to protect itself better.",
+            "White 2": "Its magnetic nose always faces north and draws iron objects to its body to protect itself better."
+        },
+        "Generation VI": {
+            "X": "Its magnetic nose always faces north and draws iron objects to its body to protect itself better.",
+            "Y": "Its magnetic nose consistently faces north. Travelers check Nosepass to get their bearings.",
+            "Omega Ruby": "Nosepass's magnetic nose is always pointed to the north. If two of these Pokémon meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another.",
+            "Alpha Sapphire": "Nosepass had been said to be completely unmoving, with its magnetic nose pointed due north. However, close observation has revealed that the Pokémon actually moves by a little over 3/8 of an inch every year."
+        },
+        "Generation VII": {
+            "Sun": "The magnet in Nosepass's nose provides an unerring compass, making it an excellent partner for Trainers going on a journey.",
+            "Moon": "It uses powerful magnetism to drag its prey toward it. It's also been known to pull in metal, which it collects and uses to protect itself.",
+            "Ultra Sun": "It moves less than an inch a year, but when it's in a jam, it will spin and drill down into the ground in a split second.",
+            "Ultra Moon": "It hunts without twitching a muscle by pulling in its prey with powerful magnetism. But sometimes it pulls natural enemies in close."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Its nose is a magnet. As a result, this Pokémon always keeps its face pointing north.",
+            "Shining Pearl": "Its nose is a magnet. As a result, this Pokémon always keeps its face pointing north.",
+            "Legends: Arceus": "Once the people of Hisui discovered that its red nose always points north, they grew to rely on it greatly when traveling afar. The nose seems to work in a similar way to ancient compasses."
+        },
+        "Generation IX": {
+            "Scarlet": "The magnet in Nosepass's nose provides an unerring compass, making this Pokémon an excellent partner for Trainers going on a journey.",
+            "Violet": "When endangered, it may protect itself by increasing its magnetism and drawing nearby iron objects to its body."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Granite Cave ( Rock Smash )",
+            "Sapphire": "Granite Cave ( Rock Smash )",
+            "Emerald": "Granite Cave ( Rock Smash )",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Pyrite Colosseum , Realgam Colosseum , Poké Spots (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Route 206 ( Swarm )",
+            "Pearl": "Route 206 ( Swarm )",
+            "Platinum": "Mt. Coronet",
+            "HeartGold": "Safari Zone (tall grass in Meadow with 35 Peak points)",
+            "SoulSilver": "Safari Zone (tall grass in Meadow with 35 Peak points)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Chargestone Cave , Clay Tunnel , Underground Ruins Route 6 ( Hidden Grotto ) *",
+            "White 2": "Chargestone Cave , Clay Tunnel , Underground Ruins Route 6 ( Hidden Grotto ) *",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Route 10 ( Horde Encounter ) Friend Safari ( Rock )",
+            "Y": "Route 10 ( Horde Encounter ) Friend Safari ( Rock )",
+            "Omega Ruby": "Granite Cave ( Rock Smash )",
+            "Alpha Sapphire": "Granite Cave ( Rock Smash )"
+        },
+        "Generation VII": {
+            "Sun": "Akala Outskirts",
+            "Moon": "Akala Outskirts",
+            "Ultra Sun": "Akala Outskirts",
+            "Ultra Moon": "Akala Outskirts",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 206 ( Swarm )",
+            "Shining Pearl": "Route 206 ( Swarm )",
+            "Legends: Arceus": "Coronet Highlands : Celestica Ruins , Primeval Grotto and nearby, massive mass outbreaks Coronet Highlands: Primeval Grotto, Sacred Plaza , Cloudcap Pass Shaking ore deposits"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Oni's Maw , Wistful Fields , Paradise Barrens , Kitakami Wilds Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Nosepass",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Nosepass",
+            "to": "Probopass",
+            "method": [
+                "Level up (near a Mt Coronet)",
+                "Level up (near a Chargestone Cave)",
+                "Level up (near a Kalos Route 13)",
+                "Level up"
+            ]
+        }
+    ]
+}

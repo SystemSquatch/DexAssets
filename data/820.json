@@ -1,0 +1,57 @@
+{
+    "name": "Greedent",
+    "pokedex_number": "#0820",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Cheek Pouch",
+        "Gluttony"
+    ],
+    "stats": {
+        "HP": 120,
+        "Attack": 95,
+        "Defense": 95,
+        "Sp. Atk": 55,
+        "Sp. Def": 75,
+        "Speed": 20,
+        "Total": 460
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "It stashes berries in its tail—so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn't notice the loss.",
+            "Shield": "Common throughout the Galar region, this Pokémon has strong teeth and can chew through the toughest of berry shells."
+        },
+        "Generation IX": {
+            "Scarlet": "If it spots a berry tree, it will immediately go to gather berries without a sideways glance—even if it’s in the middle of a battle.",
+            "Violet": "This Pokémon makes off with heaps of fallen berries by wrapping them in its tail, which is roughly twice the length of its body."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Routes 6 , 7 , and 9 , Axew's Eye , Bridge Field , Giant's Cap , Giant's Mirror , Giant's Seat , Hammerlocke Hills , Lake of Outrage , Motostoke Riverbank ( Berry trees ) Bridge Field ( Wanderer ) Bridge Field , Motostoke Riverbank , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Routes 6 , 7 , and 9 , Axew's Eye , Bridge Field , Giant's Cap , Giant's Mirror , Giant's Seat , Hammerlocke Hills , Lake of Outrage , Motostoke Riverbank ( Berry trees ) Bridge Field ( Wanderer ) Bridge Field , Motostoke Riverbank , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Slippery Slope , Frostpoint Field , Giant's Bed , Giant's Foot , Ballimere Lake ( Berry trees ) Giant's Bed , Ballimere Lake , Dyna Tree Hill ( Wanderer ) Loop Lagoon , Slippery Slope , Giant's Bed , Giant's Foot , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six East Province: Tagtree Thicket West Province: Area Three North Province: Area One , Dalizapa Passage Tera Raid Battles ( 3★ , 5★ )",
+            "Violet": "South Province: Area Six East Province: Tagtree Thicket West Province: Area Three North Province: Area One , Dalizapa Passage Tera Raid Battles ( 3★ , 5★ )",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Skwovet",
+            "to": "Greedent",
+            "method": [
+                "Level 24"
+            ]
+        }
+    ]
+}

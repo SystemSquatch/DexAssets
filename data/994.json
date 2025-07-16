@@ -1,0 +1,35 @@
+{
+    "name": "Iron Moth",
+    "pokedex_number": "#0994",
+    "types": [
+        "Fire",
+        "Poison"
+    ],
+    "abilities": [
+        "Quark Drive"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 60,
+        "Sp. Atk": 140,
+        "Sp. Def": 110,
+        "Speed": 110,
+        "Total": 570
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon resembles an unknown object described in a paranormal magazine as a UFO sent to observe humanity.",
+            "Violet": "No records exist of this species being caught. Data is lacking, but the Pokémon's traits match up with an object described in an old book."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Union Circle , Poké Portal News",
+            "Violet": "Area Zero"
+        }
+    },
+    "evolution": []
+}

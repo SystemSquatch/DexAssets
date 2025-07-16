@@ -1,0 +1,43 @@
+{
+    "name": "Palafin",
+    "pokedex_number": "#0964",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Zero to Hero"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 70,
+        "Defense": 72,
+        "Sp. Atk": 53,
+        "Sp. Def": 62,
+        "Speed": 100,
+        "Total": 457
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon’s ancient genes have awakened. It is now so extraordinarily strong that it can easily lift a cruise ship with one fin.",
+            "Violet": "This hero of the ocean swims at a speed of 50 knots and saves drowning people and Pokémon."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 5★ )",
+            "Violet": "Tera Raid Battles ( 5★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Finizen",
+            "to": "Palafin",
+            "method": [
+                "Other"
+            ]
+        }
+    ]
+}

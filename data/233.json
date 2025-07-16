@@ -1,0 +1,148 @@
+{
+    "name": "Porygon2",
+    "pokedex_number": "#0233",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Trace",
+        "Download",
+        "Analytic"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 80,
+        "Defense": 90,
+        "Sp. Atk": 105,
+        "Sp. Def": 95,
+        "Speed": 60,
+        "Total": 515
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "This upgraded version of Porygon is designed for space exploration. It can't fly, though.",
+            "Silver": "Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed.",
+            "Crystal": "This manmade Pok é mon evolved from the latest technology. It may have unprogrammed reactions.",
+            "Stadium 2": "This upgraded version of Porygon is designed for space exploration. It can't fly, though. (Pokémon Red, Silver, or Crystal inserted) Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Porygon2 was created by humans using the power of science. The man-made Pok é mon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
+            "Sapphire": "Porygon2 was created by humans using the power of science. The man-made Pok é mon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
+            "Emerald": "It was created by humans using the power of science. It has been given artificial intelligence that enables it to learn new gestures and emotions on its own.",
+            "FireRed": "Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed.",
+            "LeafGreen": "This upgraded version of Porygon is designed for space exploration. However, it can't even fly."
+        },
+        "Generation IV": {
+            "Diamond": "With planetary development software installed, it became capable of working in space.",
+            "Pearl": "With planetary development software installed, it became capable of working in space.",
+            "Platinum": "It was upgraded to enable the exploration of other planets. However, it failed to measure up.",
+            "HeartGold": "This upgraded version of Porygon is designed for space exploration. It can't fly, however.",
+            "SoulSilver": "Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed."
+        },
+        "Generation V": {
+            "Black": "It was upgraded to enable the exploration of other planets. However, it failed to measure up.",
+            "White": "It was upgraded to enable the exploration of other planets. However, it failed to measure up.",
+            "Black 2": "It was upgraded to enable the exploration of other planets. However, it failed to measure up.",
+            "White 2": "It was upgraded to enable the exploration of other planets. However, it failed to measure up."
+        },
+        "Generation VI": {
+            "X": "Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed.",
+            "Y": "With planetary development software installed, it became capable of working in space.",
+            "Omega Ruby": "Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
+            "Alpha Sapphire": "Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own."
+        },
+        "Generation VII": {
+            "Sun": "For the purposes of planetary development, Porygon was updated with the most cutting-edge technology available.",
+            "Moon": "Porygon was updated to a new version in readiness for planetary development. But that dream remains unrealized as yet.",
+            "Ultra Sun": "AI has been installed in it. It learns various things all on its own, but it even remembers things it doesn't need to know.",
+            "Ultra Moon": "Even though it doesn't die in the vacuum of space, it can't move around very well in zero gravity."
+        },
+        "Generation VIII": {
+            "Sword": "This is a Porygon that was updated with special data. Porygon2 develops itself by learning about many different subjects all on its own.",
+            "Shield": "After artificial intelligence was implemented in Porygon2, the Pokémon began using a strange language that only other Porygon2 understand.",
+            "Brilliant Diamond": "With planetary development software installed, it became capable of working in space.",
+            "Shining Pearl": "With planetary development software installed, it became capable of working in space.",
+            "Legends: Arceus": "A bizarre item caused this Pokémon to evolve. While it now exhibits many new gestures and expressions, its biology remains inscrutable."
+        },
+        "Generation IX": {
+            "Scarlet": "This artificial Pokémon evolved thanks to cutting- edge science. It sometimes displays behavior that is not in its programming.",
+            "Violet": "Porygon was upgraded to become capable of planetary development. However, this upgraded version cannot even fly yet."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Porygon",
+            "Silver": "Evolve Porygon",
+            "Crystal": "Evolve Porygon"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Porygon",
+            "LeafGreen": "Evolve Porygon",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Porygon",
+            "Pearl": "Evolve Porygon",
+            "Platinum": "Evolve Porygon",
+            "HeartGold": "Evolve Porygon",
+            "SoulSilver": "Evolve Porygon",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Porygon",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Porygon",
+            "Alpha Sapphire": "Evolve Porygon"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Porygon",
+            "Moon": "Evolve Porygon",
+            "Ultra Sun": "Evolve Porygon",
+            "Ultra Moon": "Evolve Porygon",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+ , Event",
+            "Shield": "Trade Version 1.2.0+ , Event",
+            "Expansion Pass": "Evolve Porygon",
+            "Brilliant Diamond": "Evolve Porygon",
+            "Shining Pearl": "Evolve Porygon",
+            "Legends: Arceus": "Crimson Mirelands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Porygon",
+            "to": "Porygon2",
+            "method": [
+                "Trade (holding Up Grade)"
+            ]
+        },
+        {
+            "from": "Porygon2",
+            "to": "Porygon-z",
+            "method": [
+                "Trade (holding Dubious Disc)"
+            ]
+        }
+    ]
+}

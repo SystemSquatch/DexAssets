@@ -1,0 +1,75 @@
+{
+    "name": "Heliolisk",
+    "pokedex_number": "#0695",
+    "types": [
+        "Electric",
+        "Normal"
+    ],
+    "abilities": [
+        "Dry Skin",
+        "Sand Veil",
+        "Solar Power"
+    ],
+    "stats": {
+        "HP": 62,
+        "Attack": 55,
+        "Defense": 52,
+        "Sp. Atk": 109,
+        "Sp. Def": 94,
+        "Speed": 109,
+        "Total": 481
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper.",
+            "Y": "It stimulates its muscles with electricity, boosting the strength in its legs and enabling it to run 100 yards in five seconds.",
+            "Omega Ruby": "They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper.",
+            "Alpha Sapphire": "It stimulates its muscles with electricity, boosting the strength in its legs and enabling it to run 100 yards in five seconds."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "A now-vanished desert culture treasured these Pokémon. Appropriately, when Heliolisk came to the Galar region, treasure came with them.",
+            "Shield": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Evolve Helioptile",
+            "Y": "Evolve Helioptile",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Rocky World )",
+            "Ultra Moon": "Ultra Space Wilds ( Rocky World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields , East Lake Axewell , Lake of Outrage , Giant's Mirror ( Max Raid Battle )",
+            "Shield": "Rolling Fields , East Lake Axewell , Lake of Outrage , Giant's Mirror ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Helioptile",
+            "to": "Heliolisk",
+            "method": [
+                "Use Sun Stone"
+            ]
+        }
+    ]
+}

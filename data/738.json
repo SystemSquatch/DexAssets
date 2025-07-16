@@ -1,0 +1,71 @@
+{
+    "name": "Vikavolt",
+    "pokedex_number": "#0738",
+    "types": [
+        "Bug",
+        "Electric"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 77,
+        "Attack": 70,
+        "Defense": 90,
+        "Sp. Atk": 145,
+        "Sp. Def": 75,
+        "Speed": 43,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It zips around, on sharp lookout for an opening. It concentrates electrical energy within its large jaws and uses it to zap its enemies.",
+            "Moon": "It produces electricity via an electrical organ in its abdomen. It overwhelms bird Pokémon with shocking beams of electrical energy.",
+            "Ultra Sun": "It has an organ that generates electricity in its abdomen. It concentrates energy in its strong jaws and fires off powerful jolts of electricity.",
+            "Ultra Moon": "Vikavolt flusters opponents with acrobatic flying maneuvers. This creates an opening for it to deliver an electric beam attack."
+        },
+        "Generation VIII": {
+            "Sword": "It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.",
+            "Shield": "If it carries a Charjabug to use as a spare battery, a flying Vikavolt can rapidly fire high-powered beams of electricity."
+        },
+        "Generation IX": {
+            "Scarlet": "Displaying exceptional mobility, it weaves between trees and shoots down bird Pokémon with its electromagnetic beams.",
+            "Violet": "When carrying a Charjabug , Vikavolt can receive electricity from it and then rapidly fire powerful electromagnetic beams from its large jaws."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Evolve Charjabug",
+            "Moon": "Evolve Charjabug",
+            "Ultra Sun": "Blush Mountain Day ( SOS Battle ) Received from Samson Oak at Heahea Beach * ( Totem -sized)",
+            "Ultra Moon": "Blush Mountain Day ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Giant's Seat ( Wanderer ) Bridge Field , Dappled Grove , Giant's Cap , Giant's Mirror , Motostoke Riverbank , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Giant's Seat ( Wanderer ) Bridge Field , Dappled Grove , Giant's Cap , Giant's Mirror , Motostoke Riverbank , Rolling Fields ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Crystal Pool Tera Raid Battles ( 5★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Charjabug",
+            "to": "Vikavolt",
+            "method": [
+                "Level up",
+                "Use Thunder Stone"
+            ]
+        }
+    ]
+}

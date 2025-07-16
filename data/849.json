@@ -1,0 +1,59 @@
+{
+    "name": "Toxtricity",
+    "pokedex_number": "#0849",
+    "types": [
+        "Electric",
+        "Poison"
+    ],
+    "abilities": [
+        "Punk Rock",
+        "Plus",
+        "Punk Rock",
+        "Minus",
+        "Technician"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 98,
+        "Defense": 70,
+        "Sp. Atk": 114,
+        "Sp. Def": 70,
+        "Speed": 75,
+        "Total": 502
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Capable of generating 15,000 volts of electricity, this Pokémon looks down on all that would challenge it.",
+            "Shield": "It has an electrical organ on its chest. While generating electricity, it fills its surroundings with what sounds like the strumming of a bass guitar."
+        },
+        "Generation IX": {
+            "Scarlet": "Many youths admire the way this Pokémon listlessly picks fights and keeps its cool no matter what opponent it faces.",
+            "Violet": "As it gulps down stagnant water and generates electricity in its body, a sound like a rhythm played by a bass guitar reverberates all around."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "East Lake Axewell , Giant's Cap , Giant's Mirror , Hammerlocke Hills , Lake of Outrage , Motostoke Riverbank , North Lake Miloch ( Max Raid Battle ) ( Amped Form )",
+            "Shield": "East Lake Axewell , Giant's Cap , Giant's Mirror , Hammerlocke Hills , Lake of Outrage , Motostoke Riverbank , North Lake Miloch ( Max Raid Battle ) ( Amped Form )",
+            "Expansion Pass": "Frostpoint Field , Giant's Bed , Three-Point Pass , Frigid Sea , Ballimere Lake ( Max Raid Battle ) ( Amped Sw / Low Key Sh Form ) Max Lair ( Dynamax Adventure ) ( Amped Form / Gigantamax Factor )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Alfornada Cavern , Area Six Tera Raid Battles ( 5★ ) ( Amped S / Low Key V Form )",
+            "Violet": "South Province: Alfornada Cavern , Area Six Tera Raid Battles ( 5★ ) ( Amped S / Low Key V Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Toxel",
+            "to": "Toxtricity",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

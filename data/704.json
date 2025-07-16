@@ -1,0 +1,92 @@
+{
+    "name": "Goomy",
+    "pokedex_number": "#0704",
+    "types": [
+        "Dragon",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sap Sipper",
+        "Hydration",
+        "Gooey"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 35,
+        "Sp. Atk": 55,
+        "Sp. Def": 75,
+        "Speed": 40,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "The weakest Dragon-type Pokémon, it lives in damp, shady places, so its body doesn't dry out.",
+            "Y": "It's covered in a slimy membrane that makes any punches or kicks slide off it harmlessly.",
+            "Omega Ruby": "The weakest Dragon-type Pokémon, it lives in damp, shady places, so its body doesn't dry out.",
+            "Alpha Sapphire": "It's covered in a slimy membrane that makes any punches or kicks slide off it harmlessly."
+        },
+        "Generation VII": {
+            "Sun": "The weakest of all Dragon-type Pokémon, it's unable to breathe if its skin dries out, so it sticks to shady places.",
+            "Moon": "Its source of protection is its slimy, germ-laden mucous membrane. Anyone who touches it needs some thorough hand-washing.",
+            "Ultra Sun": "It uses its horns to check out its surroundings. They're very sensitive, so if you grab them, it will feel a strong shock and be unable to move.",
+            "Ultra Moon": "Its body is mostly water. If it dries out, it will die, so it's always sitting with perfect stillness in the shade."
+        },
+        "Generation VIII": {
+            "Sword": "Because most of its body is water, it will dry up if the weather becomes too arid. It's considered the weakest dragon Pokémon.",
+            "Shield": "Their horns are powerful sensors. As soon as Goomy pick up any sign of enemies, they go into hiding. This is how they've survived.",
+            "Legends: Arceus": "Goomy hides away in the shade of trees, where it's nice and humid. If the slime coating its body dries out, the Pokémon instantly becomes lethargic."
+        },
+        "Generation IX": {
+            "Scarlet": "Most of a Goomy’s body is water. A membrane covers the whole Pokémon to prevent it from shriveling up in dry weather.",
+            "Violet": "Goomy's horns are excellent sensory organs that cover all five of Goomy's senses. Goomy picks up on danger from the movement of the air."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Route 14",
+            "Y": "Route 14",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Route 17 , Lush Jungle ( SOS Battle in rain )",
+            "Moon": "Route 17 , Lush Jungle ( SOS Battle in rain )",
+            "Ultra Sun": "Route 17 , Lush Jungle ( SOS Battle in rain )",
+            "Ultra Moon": "Route 17 , Lush Jungle ( SOS Battle in rain )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Lake of Outrage Axew's Eye , Rolling Fields ( Max Raid Battle )",
+            "Shield Expansion Pass": "Soothing Wetlands Challenge Road ( Wanderer ) Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Crimson Mirelands : Holm of Trials , Ursa's Ring ( mass outbreaks ), massive mass outbreaks Coronet Highlands : near Ancient Quarry"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Three , Area Four , Area Five East Province: Area Three West Province: Area Three North Province: Glaseado Mountain Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area One , Area Three , Area Four , Area Five East Province: Area Three West Province: Area Three North Province: Glaseado Mountain Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Oni Mountain , Chilling Waterhead , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Goomy",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Goomy",
+            "to": "Sliggoo",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

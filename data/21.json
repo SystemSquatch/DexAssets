@@ -1,0 +1,154 @@
+{
+    "name": "Spearow",
+    "pokedex_number": "#0021",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Sniper"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 60,
+        "Defense": 30,
+        "Sp. Atk": 31,
+        "Sp. Def": 31,
+        "Speed": 70,
+        "Total": 262
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+            "Yellow": "Inept at flying high. However, it can fly around very fast to protect its territory.",
+            "Stadium": "Its wings are short, so it can't fly a long distance. If it's not eating, it darts around in a hurry."
+        },
+        "Generation II": {
+            "Gold": "It flaps its short wings to flush out insects from tall grass. It then plucks them with its stubby beak.",
+            "Silver": "Very protective of its territory, it flaps its short wings busily to dart around at high speed.",
+            "Crystal": "To protect its territory, it flies around ceaselessly, making high-pitched cries.",
+            "Stadium 2": "It flaps its short wings to flush out insects from tall grass. It then plucks them with its stubby beak. (Pokémon Red, Silver, or Crystal inserted) Very protective of its territory, it flaps its short wings busily to dart around at high speed. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
+            "Sapphire": "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
+            "Emerald": "Its loud cry can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
+            "FireRed": "It busily flits around here and there. Even if it is frail, it can be a tough foe that uses Mirror Move .",
+            "LeafGreen": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne."
+        },
+        "Generation IV": {
+            "Diamond": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
+            "Pearl": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
+            "Platinum": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
+            "HeartGold": "It flaps its short wings to flush out insects from tall grass. It then plucks them with its stubby beak.",
+            "SoulSilver": "Very protective of its territory, it flaps its short wings busily to dart around at high speed."
+        },
+        "Generation V": {
+            "Black": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
+            "White": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
+            "Black 2": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
+            "White 2": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey."
+        },
+        "Generation VI": {
+            "X": "Very protective of its territory, it flaps its short wings busily to dart around at high speed.",
+            "Y": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+            "Omega Ruby": "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
+            "Alpha Sapphire": "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger."
+        },
+        "Generation VII": {
+            "Sun": "Its short wings make it inept at flying. It moves about hurriedly and pecks at Bug-type Pokémon in the tall grass.",
+            "Moon": "Farmers whose fields are troubled by bug Pokémon appreciate Spearow for its vigorous appetite and look after it.",
+            "Ultra Sun": "Its reckless nature leads it to stand up to others—even large Pokémon—if it has to protect its territory.",
+            "Ultra Moon": "Due to its short wings, it can't fly long distances. It wanders about restlessly and pecks at bug Pokémon.",
+            "Let's Go Pikachu": "Inept at flying high. However, it can fly around very fast to protect its territory.",
+            "Let's Go Eevee": "Inept at flying high. However, it can fly around very fast to protect its territory."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
+            "Shining Pearl": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 3 , 4 , 9 , 10 , 11 , 16 , 17 , 18 , 22 , and 23",
+            "Blue": "Routes 3 , 4 , 9 , 10 , 11 , 16 , 17 , 18 , 22 , and 23",
+            "Blue (Japan)": "Routes 3 , 4 , 9 , 10 , 11 , 16 , 17 , 18 , 22 , and 23",
+            "Yellow": "Routes 3 , 4 , 9 , 16 , 18 , and 22"
+        },
+        "Generation II": {
+            "Gold": "Routes 3 , 4 , 7 , 9 , 10 , 22 , 33 , 42 , and 46 Routes 29 , 30 , 31 , 32 , 33 , 42 , 43 , and 44 ( Headbutt trees ) Received from Randy on Route 35",
+            "Silver": "Routes 3 , 4 , 7 , 9 , 10 , 22 , 33 , 42 , and 46 Routes 29 , 30 , 31 , 32 , 33 , 42 , 43 , and 44 ( Headbutt trees ) Received from Randy on Route 35",
+            "Crystal": "Routes 3 , 4 , 7 , 9 , 10 , 22 , 33 , 42 , and 46 Morning Day Azalea Town , Routes 33 , 42 , and 44 ( Headbutt trees ) Received from Randy on Route 35"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Routes 3 , 4 , 9 , 10 , 11 , 16 , 17 , 18 , 22 , and 23 , Treasure Beach , Mt. Ember , Cape Brink , Ruin Valley , Water Path , Canyon Entrance , Kindle Road",
+            "LeafGreen": "Routes 3 , 4 , 9 , 10 , 11 , 16 , 17 , 18 , 22 , and 23 , Treasure Beach , Mt. Ember , Cape Brink , Ruin Valley , Water Path , Canyon Entrance , Kindle Road",
+            "Colosseum": "Trade",
+            "XD": "Phenac Stadium (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 225 and 226",
+            "Pearl": "Routes 225 and 226",
+            "Platinum": "Route 225",
+            "HeartGold": "Routes 3 , 4 , 7 , 9 , 10 , 22 , 33 , 42 , 46 , and 47 Safari Zone Morning Day (tall grass in Wetland, default) Routes 7 , 11 , 16 , 33 , 42 , 44 , 45 , and 46 , Azalea Town , Vermilion City , Celadon City ( Headbutt trees ) Received from Webster on Route 35",
+            "SoulSilver": "Routes 3 , 4 , 7 , 9 , 10 , 22 , 33 , 42 , 46 , and 47 Safari Zone Morning Day (tall grass in Wetland, default) Routes 7 , 11 , 16 , 33 , 42 , 44 , 45 , and 46 , Azalea Town , Vermilion City , Celadon City ( Headbutt trees ) Received from Webster on Route 35",
+            "Pal Park": "Field",
+            "Pokéwalker": "Noisy Forest"
+        },
+        "Generation V": {
+            "Black": "Breed Fearow",
+            "White": "Breed Fearow",
+            "Black 2": "Breed Fearow",
+            "White 2": "Breed Fearow",
+            "Dream World": "Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Flying )",
+            "Y": "Friend Safari ( Flying )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Routes 2 and 3 , Poké Pelago",
+            "Moon": "Routes 2 and 3 , Poké Pelago",
+            "Ultra Sun": "Routes 2 and 3",
+            "Ultra Moon": "Routes 2 and 3",
+            "Let's Go Pikachu": "Routes 3 , 4 , 9 , 10 , 22 , and 23",
+            "Let's Go Eevee": "Routes 3 , 4 , 9 , 10 , 22 , and 23"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 225 and 226",
+            "Shining Pearl": "Routes 225 and 226",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Spearow",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Spearow",
+            "to": "Fearow",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "name": "Farfetch'd",
+    "pokedex_number": "#0083",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Inner Focus",
+        "Steadfast",
+        "Defiant",
+        "Scrappy"
+    ],
+    "stats": {
+        "HP": 52,
+        "Attack": 65,
+        "Defense": 55,
+        "Sp. Atk": 58,
+        "Sp. Def": 62,
+        "Speed": 60,
+        "Total": 352
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "The sprig of green onions it holds is its weapon. It is used much like a metal sword.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "The sprig of green onions it holds is its weapon. It is used much like a metal sword.",
+            "Yellow": "Lives where reedy plants grow. They are rarely seen, so it's thought their numbers are decreasing.",
+            "Stadium": "Always carries the stalk of an unidentified plant. The stalk is said to be used for making a nest or as a weapon."
+        },
+        "Generation II": {
+            "Gold": "If anyone tries to disturb where the essential plant sticks grow, it uses its own stick to thwart them.",
+            "Silver": "If it eats the plant stick it carries as emergency rations, it runs off in search of a new stick.",
+            "Crystal": "In order to prevent their extinction, more people have made an effort to breed these Pok é mon .",
+            "Stadium 2": "If anyone tries to disturb where the essential plant sticks grow, it uses its own stick to thwart them. (Pokémon Red, Silver, or Crystal inserted) If it eats the plant stick it carries as emergency rations, it runs off in search of a new stick. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Farfetch'd is always seen with a stick from a plant of some sort. Apparently, there are good sticks and bad sticks. This Pok é mon has been known to fight with others over sticks.",
+            "Sapphire": "Farfetch'd is always seen with a stick from a plant of some sort. Apparently, there are good sticks and bad sticks. This Pok é mon has been known to fight with others over sticks.",
+            "Emerald": "It is always seen with a stick from a plant. Apparently, there are good sticks and bad sticks. This Pok é mon occasionally fights with others over choice sticks.",
+            "FireRed": "It always walks about with a plant stalk clamped in its beak. The stalk is used for building its nest.",
+            "LeafGreen": "The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things."
+        },
+        "Generation IV": {
+            "Diamond": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
+            "Pearl": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
+            "Platinum": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
+            "HeartGold": "If anyone tries to disturb where the essential plant stalks grow, it uses its own stalk to thwart them.",
+            "SoulSilver": "If it eats the plant stalk it carries as emergency rations, it runs off in search of a new stalk."
+        },
+        "Generation V": {
+            "Black": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
+            "White": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
+            "Black 2": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
+            "White 2": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life."
+        },
+        "Generation VI": {
+            "X": "The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things.",
+            "Y": "It always walks about with a plant stalk clamped in its beak. The stalk is used for building its nest.",
+            "Omega Ruby": "Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks.",
+            "Alpha Sapphire": "Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "They live where reedy plants grow. Farfetch'd are rarely seen, so it's thought their numbers are decreasing.",
+            "Let's Go Eevee": "They live where reedy plants grow. Farfetch'd are rarely seen, so it's thought their numbers are decreasing."
+        },
+        "Generation VIII": {
+            "Sword": "The Farfetch'd of the Galar region are brave warriors, and they wield thick, tough leeks in battle.",
+            "Shield": "The stalks of leeks are thicker and longer in the Galar region. Farfetch'd that adapted to these stalks took on a unique form.",
+            "Brilliant Diamond": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.",
+            "Shining Pearl": "It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Trade Spearow in Vermilion City",
+            "Blue": "Trade Spearow in Vermilion City",
+            "Blue (Japan)": "Trade Pidgey in Vermilion City",
+            "Yellow": "Routes 12 and 13"
+        },
+        "Generation II": {
+            "Gold": "Routes 38 and 39 Morning Day",
+            "Silver": "Routes 38 and 39 Morning Day",
+            "Crystal": "Route 43 Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Trade Spearow in Vermilion City",
+            "LeafGreen": "Trade Spearow in Vermilion City",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Route 221 ( Swarm )",
+            "Pearl": "Route 221 ( Swarm )",
+            "Platinum": "Route 221 ( Swarm )",
+            "HeartGold": "Routes 38 , 39 , 47 , and 48 Morning Day Safari Zone (tall grass in Wetland, default Morning Day and with 3 Forest points)",
+            "SoulSilver": "Routes 38 , 39 , 47 , and 48 Morning Day Safari Zone (tall grass in Wetland, default Morning Day and with 3 Forest points)",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Route 1 ( Swarm )",
+            "White": "Route 1 ( Swarm )",
+            "Black 2": "Route 1 ( Swarm )",
+            "White 2": "Route 1 ( Swarm )",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Trade Bunnelby in Santalune City Route 22 , Friend Safari ( Flying )",
+            "Y": "Trade Bunnelby in Santalune City Route 22 , Friend Safari ( Flying )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Routes 12 and 13",
+            "Let's Go Eevee": "Routes 12 and 13"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+ ( Kantonian Form ) Route 5 , Giant's Mirror ( Galarian Form ) Dusty Bowl , North Lake Miloch , Stony Wilderness ( Max Raid Battle ) ( Galarian Form )",
+            "Shield": "Trade , Wild Area News",
+            "Sword Expansion Pass": "Trade Galarian Farfetch'd with Regina on Isle of Armor ( Kantonian Form ) Frostpoint Field , Snowslide Slope , Giant's Bed , Frigid Sea , Ballimere Lake ( Max Raid Battle ) ( Galarian Form )",
+            "Brilliant Diamond": "Route 221 ( Swarm ) ( Kantonian Form ) Grand Underground - Spacious Cave , Grassland Cave , Fountainspring Cave , Sunlit Cavern (After obtaining the National Pokédex ) ( Kantonian Form ) Unobtainable ( Galarian Form )",
+            "Shining Pearl": "Route 221 ( Swarm ) ( Kantonian Form ) Grand Underground - Spacious Cave , Grassland Cave , Fountainspring Cave , Sunlit Cavern (After obtaining the National Pokédex ) ( Kantonian Form ) Unobtainable ( Galarian Form )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,125 @@
+{
+    "name": "Sharpedo",
+    "pokedex_number": "#0319",
+    "types": [
+        "Water",
+        "Dark"
+    ],
+    "abilities": [
+        "Rough Skin",
+        "Speed Boost",
+        "Strong Jaw"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 120,
+        "Defense": 40,
+        "Sp. Atk": 95,
+        "Sp. Def": 40,
+        "Speed": 95,
+        "Total": 460
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Nicknamed “the bully of the sea,” Sharpedo is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these Pok é mon can thoroughly tear apart a supertanker.",
+            "Sapphire": "Sharpedo can swim at speeds of up to 75 mph by jetting seawater out of its backside. This Pok é mon 's drawback is its inability to swim long distances.",
+            "Emerald": "The vicious and sly gangster of the sea. Its skin is specially textured to minimize drag in water. Its speed tops out at over 75 miles per hour .",
+            "FireRed": "The ruffian of the seas, it has fangs that crunch through iron. It swims by jetting water from its rear.",
+            "LeafGreen": "The ruffian of the seas, it has fangs that crunch through iron. It swims by jetting water from its rear."
+        },
+        "Generation IV": {
+            "Diamond": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+            "Pearl": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+            "Platinum": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+            "HeartGold": "It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.",
+            "SoulSilver": "It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea."
+        },
+        "Generation V": {
+            "Black": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+            "White": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+            "Black 2": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+            "White 2": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\""
+        },
+        "Generation VI": {
+            "X": "Its fangs rip through sheet iron. It swims at 75 mph and is known as \"The Bully of the Sea.\"",
+            "Y": "It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.",
+            "Omega Ruby": "Nicknamed \"the bully of the sea,\" Sharpedo is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these Pokémon can thoroughly tear apart a supertanker.",
+            "Alpha Sapphire": "Sharpedo can swim at speeds of up to 75 mph by jetting seawater out of its backside. This Pokémon's drawback is its inability to swim long distances."
+        },
+        "Generation VII": {
+            "Sun": "The spines sprouting from its head are transformed fangs. If they're injured or broken off, the spines will regenerate countless times.",
+            "Moon": "As a consequence of Mega Evolution, its combative instincts exploded. The yellow marks it bears are scars from a long history of battles.",
+            "Ultra Sun": "The yellow patterns it bears are old scars. The energy from Mega Evolution runs through them, causing it sharp pain and suffering.",
+            "Ultra Moon": "The moment it charges into its opponent, sharp spikes pop out of Sharpedo's head, leaving its opponent with deep wounds."
+        },
+        "Generation VIII": {
+            "Sword": "As soon as it catches the scent of its prey, Sharpedo will jet seawater from its backside, hurtling toward the target to attack at 75 mph .",
+            "Shield": "This Pokémon is known as the Bully of the Sea. Any ship entering the waters Sharpedo calls home will be attacked—no exceptions.",
+            "Brilliant Diamond": "Its fangs rip through sheet iron. It swims at 75 mph and is known as the Bully of the Sea.",
+            "Shining Pearl": "Its fangs rip through sheet iron. It swims at 75 mph and is known as the Bully of the Sea."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Routes 103 , 118 , 122 , 124 , 125 , 126 , 127 , 129 , 130 , 131 , 132 , 133 , and 134 , Mossdeep City , Pacifidlog Town ( Super Rod )",
+            "Sapphire": "Routes 103 , 118 , 122 , 124 , 125 , 126 , 127 , 129 , 130 , 131 , 132 , 133 , and 134 , Mossdeep City , Pacifidlog Town ( Super Rod )",
+            "Emerald": "Routes 103 , 118 , 122 , 124 , 125 , 126 , 127 , 129 , 130 , 131 , 132 , 133 , and 134 , Mossdeep City , Pacifidlog Town ( Super Rod )",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Evolve Carvanha"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 213 and 222 ( Super Rod )",
+            "Pearl": "Routes 213 and 222 ( Super Rod )",
+            "Platinum": "Evolve Carvanha",
+            "HeartGold": "Evolve Pokéwalker Carvanha",
+            "SoulSilver": "Evolve Pokéwalker Carvanha",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Village Bridge ( Fishing in rippling water )",
+            "White": "Village Bridge ( Fishing in rippling water )",
+            "Black 2": "Village Bridge ( Fishing in rippling water )",
+            "White 2": "Village Bridge ( Fishing in rippling water )"
+        },
+        "Generation VI": {
+            "X": "Route 22 ( Super Rod )",
+            "Y": "Route 22 ( Super Rod )",
+            "Omega Ruby": "Routes 118 and 119 ( Super Rod ) Received from a Team Aqua Grunt at the Battle Resort",
+            "Alpha Sapphire": "Routes 118 and 119 ( Super Rod ) Received from a Team Aqua Grunt at the Battle Resort"
+        },
+        "Generation VII": {
+            "Sun": "Poni Breaker Coast",
+            "Moon": "Poni Breaker Coast",
+            "Ultra Sun": "Poni Breaker Coast ( SOS Battle )",
+            "Ultra Moon": "Poni Breaker Coast ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Workout Sea , Honeycalm Sea , Insular Sea , Stepping-Stone Sea Training Lowlands ( Fishing ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Routes 213 and 222 ( Super Rod )",
+            "Shining Pearl": "Routes 213 and 222 ( Super Rod )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Carvanha",
+            "to": "Sharpedo",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

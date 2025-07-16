@@ -1,0 +1,45 @@
+{
+    "name": "Glimmora",
+    "pokedex_number": "#0970",
+    "types": [
+        "Rock",
+        "Poison"
+    ],
+    "abilities": [
+        "Toxic Debris",
+        "Corrosion"
+    ],
+    "stats": {
+        "HP": 83,
+        "Attack": 55,
+        "Defense": 90,
+        "Sp. Atk": 130,
+        "Sp. Def": 81,
+        "Speed": 86,
+        "Total": 525
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "When this Pokémon detects danger, it will open up its crystalline petals and fire beams from its conical body.",
+            "Violet": "Glimmora's petals are made of crystallized poison energy. It has recently become evident that these petals resemble Tera Jewels."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Area Zero Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "Area Zero Tera Raid Battles ( 5★ , 6★ )",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Crystal Pool Area Zero Underdepths"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Glimmet",
+            "to": "Glimmora",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

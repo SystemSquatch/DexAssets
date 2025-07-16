@@ -1,0 +1,56 @@
+{
+    "name": "Copperajah",
+    "pokedex_number": "#0879",
+    "types": [
+        "Steel",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sheer Force",
+        "Heavy Metal"
+    ],
+    "stats": {
+        "HP": 122,
+        "Attack": 130,
+        "Defense": 69,
+        "Sp. Atk": 80,
+        "Sp. Def": 69,
+        "Speed": 30,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "They came over from another region long ago and worked together with humans. Their green skin is resistant to water.",
+            "Shield": "These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon was brought to Paldea long ago by people from a faraway land. It’s so strong that it can easily pull an airplane.",
+            "Violet": "Copperajah are prideful, cantankerous Pokémon. Specimens with vibrant green skin command the respect of others of their kind."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Hammerlocke Hills ( Wanderer ) Hammerlocke Hills , Lake of Outrage , Dusty Bowl , Giant's Seat ( Max Raid Battle ) Stony Wilderness ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Shield": "Lake of Outrage Hammerlocke Hills ( Wanderer ) Hammerlocke Hills , Lake of Outrage , Dusty Bowl , Giant's Seat ( Max Raid Battle ) Stony Wilderness ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Expansion Pass": "Giant's Foot Giant's Bed , Snowslide Slope , Path to the Peak , Frigid Sea ( Max Raid Battle ) ( Gigantamax Factor ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six North Province: Casseroya Lake , Dalizapa Passage , Glaseado Mountain , Area One , Area Two , Area Three Area Zero Tera Raid Battles ( 5★ )",
+            "Violet": "South Province: Area Six North Province: Casseroya Lake , Dalizapa Passage , Glaseado Mountain , Area One , Area Two , Area Three Area Zero Tera Raid Battles ( 5★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Cufant",
+            "to": "Copperajah",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

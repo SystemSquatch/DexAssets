@@ -1,0 +1,79 @@
+{
+    "name": "Sawk",
+    "pokedex_number": "#0539",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sturdy",
+        "Inner Focus",
+        "Mold Breaker"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 75,
+        "Sp. Atk": 30,
+        "Sp. Def": 75,
+        "Speed": 85,
+        "Total": 465
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "The sound of Sawk punching boulders and trees can be heard all the way from the mountains where they train.",
+            "White": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
+            "Black 2": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
+            "White 2": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping."
+        },
+        "Generation VI": {
+            "X": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
+            "Y": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
+            "Omega Ruby": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
+            "Alpha Sapphire": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "If you see a Sawk training in the mountains in its single-minded pursuit of strength, it's best to quietly pass by.",
+            "Shield": "The karate chops of a Sawk that's trained itself to the limit can cleave the ocean itself."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 10 , 15 , and 18 , Pinwheel Forest (outside) ( tall grass )",
+            "White": "Routes 10 , 15 , and 18 , Pinwheel Forest (outside) ( rustling grass )",
+            "Black 2": "Routes 15 , 18 , and 23 , Pinwheel Forest (outside) ( tall grass ) Victory Road ( rustling grass )",
+            "White 2": "Routes 15 , 18 , and 23 , Pinwheel Forest (outside), Victory Road ( rustling grass )",
+            "Dream World": "Dream Park *"
+        },
+        "Generation VI": {
+            "X": "Route 11 , Friend Safari ( Fighting )",
+            "Y": "Friend Safari ( Fighting )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Route 112 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 8 , Bridge Field , Giant's Mirror , Motostoke Outskirts , Motostoke Riverbank North Lake Miloch , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Trade Vanillish in Circhester",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

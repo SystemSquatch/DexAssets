@@ -1,0 +1,93 @@
+{
+    "name": "Dialga",
+    "pokedex_number": "#0483",
+    "types": [
+        "Steel",
+        "Dragon"
+    ],
+    "abilities": [
+        "Pressure",
+        "Telepathy"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 120,
+        "Defense": 120,
+        "Sp. Atk": 150,
+        "Sp. Def": 100,
+        "Speed": 90,
+        "Total": 680
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It has the power to control time. It appears in Sinnoh - region myths as an ancient deity.",
+            "Pearl": "A Pokémon spoken of in legend. It is said that time began moving when Dialga was born.",
+            "Platinum": "A legendary Pokémon of Sinnoh. It is said that time flows when Dialga 's heart beats.",
+            "HeartGold": "This Pokémon completely controls the flow of time. It uses its power to travel at will through the past and future .",
+            "SoulSilver": "This Pokémon completely controls the flow of time. It uses its power to travel at will through the past and future ."
+        },
+        "Generation V": {
+            "Black": "A legendary Pokémon of Sinnoh. It is said that time flows when Dialga's heart beats.",
+            "White": "A legendary Pokémon of Sinnoh. It is said that time flows when Dialga's heart beats.",
+            "Black 2": "A legendary Pokémon of Sinnoh. It is said that time flows when Dialga's heart beats.",
+            "White 2": "A legendary Pokémon of Sinnoh. It is said that time flows when Dialga's heart beats."
+        },
+        "Generation VI": {
+            "X": "A Pokémon spoken of in legend. It is said that time began moving when Dialga was born.",
+            "Y": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+            "Omega Ruby": "A Pokémon spoken of in legend. It is said that time began moving when Dialga was born.",
+            "Alpha Sapphire": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+            "Shining Pearl": "This Pokémon is spoken of in legend. It is said that time began moving when Dialga was born.",
+            "Legends: Arceus": "Radiant light caused Dialga to take on a form bearing a striking resemblance to the creator Pokémon . Dialga now wields such colossal strength that one must conclude this is its true form."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Spear Pillar ( Only one )",
+            "Pearl": "Trade",
+            "Platinum": "Spear Pillar ( Only one )",
+            "HeartGold": "Sinjoh Ruins (requires Event Arceus ) (Choice between it, Palkia and Giratina )",
+            "SoulSilver": "Sinjoh Ruins (requires Event Arceus ) (Choice between it, Palkia and Giratina )"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer , Event",
+            "White": "Poké Transfer , Event",
+            "Black 2": "Transfer from Dream Radar (requires Pokémon Diamond ) , Event",
+            "White 2": "Transfer from Dream Radar (requires Pokémon Diamond ) , Event"
+        },
+        "Generation VI": {
+            "X": "Trade , Event",
+            "Y": "Trade , Event",
+            "Omega Ruby": "Trade , Event",
+            "Alpha Sapphire": "Soaring in the sky (requires the Lake guardians in the player's party) ( Only one )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Rocky World ) ( Only one )",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Sword Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one )",
+            "Brilliant Diamond": "Spear Pillar ( Only one )",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Coronet Highlands : Temple of Sinnoh ( Only one )"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME , Poké Portal News",
+            "Violet": "Pokémon HOME , Poké Portal News"
+        }
+    },
+    "evolution": []
+}

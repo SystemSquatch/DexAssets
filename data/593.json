@@ -1,0 +1,90 @@
+{
+    "name": "Jellicent",
+    "pokedex_number": "#0593",
+    "types": [
+        "Water",
+        "Ghost"
+    ],
+    "abilities": [
+        "Water Absorb",
+        "Cursed Body",
+        "Damp"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 60,
+        "Defense": 70,
+        "Sp. Atk": 85,
+        "Sp. Def": 105,
+        "Speed": 60,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "The fate of the ships and crew that wander into Jellicent's habitat: all sunken, all lost, all vanished.",
+            "White": "They propel themselves by expelling absorbed seawater from their bodies. Their favorite food is life energy.",
+            "Black 2": "Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor.",
+            "White 2": "Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor."
+        },
+        "Generation VI": {
+            "X": "Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor.",
+            "Y": "The fate of the ships and crew that wander into Jellicent's habitat: all sunken, all lost, all vanished.",
+            "Omega Ruby": "Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor.",
+            "Alpha Sapphire": "The fate of the ships and crew that wander into Jellicent's habitat: all sunken, all lost, all vanished."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Jellicent is always hanging around fancy cruise ships and tankers, hoping to drag away its prey.",
+            "Ultra Moon": "Fishermen are terrified of Jellicent. It's rumored to drag them into the sea and steal their lives away."
+        },
+        "Generation VIII": {
+            "Sword": "These Pokémon have body compositions that are mostly identical to seawater. They make their lairs from sunken ships. *",
+            "Shield": "The crown on its head gets bigger and bigger as it absorbs more and more of the life-force of other creatures. *"
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 4 , 17 , 18 , Driftveil City , P2 Laboratory ( Surfing in rippling water )",
+            "White": "Routes 4 , 17 , 18 , Driftveil City , P2 Laboratory ( Surfing in rippling water )",
+            "Black 2": "Routes 4 , 13 , 17 , 18 and 21 , Virbank City , Virbank Complex , Undella Town , Seaside Cave , Humilau City , P2 Laboratory ( Surfing in rippling water ) Undella Bay Spring Summer Autumn ( Surfing in rippling water ) Undella Bay * Mo",
+            "White 2": "Routes 4 , 13 , 17 , 18 and 21 , Virbank City , Virbank Complex , Undella Town , Seaside Cave , Humilau City , P2 Laboratory ( Surfing in rippling water ) Undella Bay Spring Summer Autumn Undella Bay * Th"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Frillish",
+            "Alpha Sapphire": "Evolve Frillish"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Frillish",
+            "Ultra Moon": "Evolve Frillish",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 9 , Lake of Outrage Watchtower Ruins , West Lake Axewell , Stony Wilderness , Giant's Mirror ( Max Raid Battle )",
+            "Shield": "Route 9 , Lake of Outrage Watchtower Ruins , West Lake Axewell , Stony Wilderness , Giant's Mirror ( Max Raid Battle )",
+            "Expansion Pass": "Workout Sea , Stepping-Stone Sea , Insular Sea , Honeycalm Island , Honeycalm Sea Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Frillish",
+            "to": "Jellicent",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

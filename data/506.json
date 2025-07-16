@@ -1,0 +1,99 @@
+{
+    "name": "Lillipup",
+    "pokedex_number": "#0506",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Vital Spirit",
+        "Pickup",
+        "Run Away"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 45,
+        "Sp. Atk": 25,
+        "Sp. Def": 45,
+        "Speed": 55,
+        "Total": 275
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pokémon flees.",
+            "White": "The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings.",
+            "Black 2": "Though it is a very brave Pokémon, it's also smart enough to check its foe's strength and avoid battle.",
+            "White 2": "Though it is a very brave Pokémon, it's also smart enough to check its foe's strength and avoid battle."
+        },
+        "Generation VI": {
+            "X": "The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings.",
+            "Y": "Though it is a very brave Pokémon, it's also smart enough to check its foe's strength and avoid battle.",
+            "Omega Ruby": "The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings.",
+            "Alpha Sapphire": "Though it is a very brave Pokémon, it's also smart enough to check its foe's strength and avoid battle."
+        },
+        "Generation VII": {
+            "Sun": "Because it doesn't yelp, it's extremely popular with Trainers who live in apartment buildings.",
+            "Moon": "The long fur surrounding its face functions as radar, enabling it to probe the condition of its battle opponents.",
+            "Ultra Sun": "This Pokémon has excellent judgment. If it decides it can't defeat an opponent, it immediately turns tail and vamooses.",
+            "Ultra Moon": "This Pokémon is popular with beginners because it's intelligent, obedient to its Trainer's commands, and easy to raise."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon is courageous but also cautious. It uses the soft fur covering its face to collect information about its surroundings.",
+            "Shield": "This Pokémon is far brighter than the average child, and Lillipup won't forget the love it receives or any abuse it suffers."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 1 , 2 , and 3",
+            "White": "Routes 1 , 2 , and 3",
+            "Black 2": "Floccesy Ranch",
+            "White 2": "Floccesy Ranch"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Normal )",
+            "Y": "Friend Safari ( Normal )",
+            "Omega Ruby": "Routes 101 , 102 , and 103 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Routes 101 , 102 , and 103 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Routes 4 , 5 , 6 , Brooklet Hill , Paniola Ranch",
+            "Moon": "Routes 4 , 5 , 6 , Brooklet Hill , Paniola Ranch",
+            "Ultra Sun": "Routes 4 , 5 , 6 , Paniola Ranch",
+            "Ultra Moon": "Routes 4 , 5 , 6 , Paniola Ranch",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Training Lowlands Fields of Honor ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Lillipup",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Lillipup",
+            "to": "Herdier",
+            "method": [
+                "Level 16"
+            ]
+        }
+    ]
+}

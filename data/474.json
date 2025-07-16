@@ -1,0 +1,113 @@
+{
+    "name": "Porygon-Z",
+    "pokedex_number": "#0474",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Adaptability",
+        "Download",
+        "Analytic"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 80,
+        "Defense": 70,
+        "Sp. Atk": 135,
+        "Sp. Def": 75,
+        "Speed": 90,
+        "Total": 535
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Additional software was installed to make it a better Pokémon. It began acting oddly, however.",
+            "Pearl": "Additional software was installed to make it a better Pokémon. It began acting oddly, however.",
+            "Platinum": "Its programming was modified to enable work in alien dimensions. It did not work as planned.",
+            "HeartGold": "Its programming was modified to enable it to travel through alien dimensions. Seems there might have been an error...",
+            "SoulSilver": "Its programming was modified to enable it to travel through alien dimensions. Seems there might have been an error..."
+        },
+        "Generation V": {
+            "Black": "Its programming was modified to enable work in alien dimensions. It did not work as planned.",
+            "White": "Its programming was modified to enable work in alien dimensions. It did not work as planned.",
+            "Black 2": "Its programming was modified to enable work in alien dimensions. It did not work as planned.",
+            "White 2": "Its programming was modified to enable work in alien dimensions. It did not work as planned."
+        },
+        "Generation VI": {
+            "X": "Additional software was installed to make it a better Pokémon. It began acting oddly, however.",
+            "Y": "Its programming was modified to enable it to travel through alien dimensions. Seems there might have been an error...",
+            "Omega Ruby": "Additional software was installed to make it a better Pokémon. It began acting oddly, however.",
+            "Alpha Sapphire": "Its programming was modified to enable it to travel through alien dimensions. Seems there might have been an error..."
+        },
+        "Generation VII": {
+            "Sun": "In order to create a more advanced Pokémon, an additional program was installed, but apparently it contained a defect that makes it move oddly.",
+            "Moon": "Its program was modified to facilitate extra-dimensional activities, but that led to noticeably strange behavior.",
+            "Ultra Sun": "Its behavior is noticeably unstable, which is apparently due to the incompetence of the engineer who updated its programming.",
+            "Ultra Moon": "A faulty update was added to its programming. Its behavior is noticeably strange, so the experiment may have been a failure."
+        },
+        "Generation VIII": {
+            "Sword": "Porygon-Z had a program installed to allow it to move between dimensions, but the program also caused instability in Porygon-Z's behavior.",
+            "Shield": "Some say an additional program made this Pokémon evolve, but even academics can't agree on whether Porygon-Z is really an evolution.",
+            "Brilliant Diamond": "Additional software was installed to make it an even better Pokémon. It began acting oddly, however.",
+            "Shining Pearl": "Additional software was installed to make it an even better Pokémon. It began acting oddly, however.",
+            "Legends: Arceus": "A curious item induced this evolution. The Pokémon's offensive capabilities have greatly increased, but the strangeness of its behavior has magnified in equal measure. This worries me."
+        },
+        "Generation IX": {
+            "Scarlet": "An additional program was installed to create a more advanced Pokémon, but it was apparently flawed. Porygon-Z moves oddly as a result.",
+            "Violet": "Its programming was modified to enable it to operate in other dimensions. This did not work as planned."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Porygon2",
+            "Pearl": "Evolve Porygon2",
+            "Platinum": "Evolve Porygon2",
+            "HeartGold": "Evolve Porygon2",
+            "SoulSilver": "Evolve Porygon2"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Porygon2",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Porygon2",
+            "Alpha Sapphire": "Evolve Porygon2"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Porygon2",
+            "Moon": "Evolve Porygon2",
+            "Ultra Sun": "Evolve Porygon2",
+            "Ultra Moon": "Evolve Porygon2",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Evolve Porygon2",
+            "Brilliant Diamond": "Evolve Porygon2",
+            "Shining Pearl": "Evolve Porygon2",
+            "Legends: Arceus": "Crimson Mirelands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Porygon2",
+            "to": "Porygon-z",
+            "method": [
+                "Trade (holding Dubious Disc)"
+            ]
+        }
+    ]
+}

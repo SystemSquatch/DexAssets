@@ -1,0 +1,64 @@
+{
+    "name": "Comfey",
+    "pokedex_number": "#0764",
+    "types": [
+        "Fairy",
+        "Unknown"
+    ],
+    "abilities": [
+        "Flower Veil",
+        "Triage",
+        "Natural Cure"
+    ],
+    "stats": {
+        "HP": 51,
+        "Attack": 52,
+        "Defense": 90,
+        "Sp. Atk": 82,
+        "Sp. Def": 110,
+        "Speed": 100,
+        "Total": 485
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It attaches flowers to its highly nutritious vine. This revitalizes the flowers, and they give off an aromatic scent.",
+            "Moon": "Baths prepared with the flowers from its vine have a relaxing effect, so this Pokémon is a hit with many people.",
+            "Ultra Sun": "It stretches sticky vines out from its head and picks flowers to adorn itself with. When it doesn't have any flowers, it feels uneasy.",
+            "Ultra Moon": "It picks flowers and sticks them to its body with fluids it produces. The aroma that wafts from its petals has a healing effect."
+        },
+        "Generation VIII": {
+            "Sword": "Comfey picks flowers with its vine and decorates itself with them. For some reason, flowers won't wither once they're attached to a Comfey.",
+            "Shield": "These Pokémon smell very nice. All Comfey wear different flowers, so each of these Pokémon has its own individual scent."
+        },
+        "Generation IX": {
+            "Scarlet": "It uses its vine to pick flowers. The flowers that Comfey attaches to itself develop healing properties.",
+            "Violet": "It prefers areas with lots of flowers. A Comfey adorned with flowers is a happy Comfey, and the flowers gain healing effects."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Lush Jungle",
+            "Moon": "Lush Jungle",
+            "Ultra Sun": "Lush Jungle , Poké Pelago *",
+            "Ultra Moon": "Lush Jungle , Poké Pelago *",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Fields of Honor , Soothing Wetlands , Training Lowlands , Insular Sea , Honeycalm Island ( Wanderer ) Fields of Honor ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Coastal Biome Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Brute Bonnet",
+    "pokedex_number": "#0986",
+    "types": [
+        "Grass",
+        "Dark"
+    ],
+    "abilities": [
+        "Protosynthesis"
+    ],
+    "stats": {
+        "HP": 111,
+        "Attack": 127,
+        "Defense": 99,
+        "Sp. Atk": 79,
+        "Sp. Def": 99,
+        "Speed": 55,
+        "Total": 570
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It is possible that the creature listed as Brute Bonnet in a certain book could actually be this Pokémon.",
+            "Violet": "It bears a slight resemblance to a Pokémon described in a dubious magazine as a cross between a dinosaur and a mushroom."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Area Zero",
+            "Violet": "Union Circle"
+        }
+    },
+    "evolution": []
+}

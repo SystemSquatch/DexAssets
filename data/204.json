@@ -1,0 +1,141 @@
+{
+    "name": "Pineco",
+    "pokedex_number": "#0204",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sturdy",
+        "Overcoat"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 90,
+        "Sp. Atk": 35,
+        "Sp. Def": 35,
+        "Speed": 15,
+        "Total": 290
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.",
+            "Silver": "It hangs and waits for flying insect prey to come near. It does not move about much on its own.",
+            "Crystal": "It spits out a fluid that it uses to glue tree bark to its body. The fluid hardens when it touches air.",
+            "Stadium 2": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it. (Pokémon Red, Silver, or Crystal inserted) It hangs and waits for flying insect prey to come near. It does not move about much on its own. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pok é mon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
+            "Sapphire": "Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pok é mon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
+            "Emerald": "A Pineco hangs from a tree branch and waits for prey. While eating, if it is disturbed by someone shaking its tree, it falls on the ground and suddenly explodes.",
+            "FireRed": "It hangs and waits for flying-insect prey to come near. It does not move about much on its own.",
+            "LeafGreen": "It likes to make its shell thicker by adding layers of tree bark. The extra weight doesn't bother it."
+        },
+        "Generation IV": {
+            "Diamond": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
+            "Pearl": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
+            "Platinum": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
+            "HeartGold": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.",
+            "SoulSilver": "It hangs and waits for flying insect prey to come near. It does not move about much on its own."
+        },
+        "Generation V": {
+            "Black": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
+            "White": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
+            "Black 2": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
+            "White 2": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake."
+        },
+        "Generation VI": {
+            "X": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.",
+            "Y": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
+            "Omega Ruby": "Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
+            "Alpha Sapphire": "Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Motionless, it hangs from trees, waiting for its bug Pokémon prey to come to it. Its favorite in Alola is Cutiefly .",
+            "Ultra Moon": "It sticks tree bark to itself with its saliva, making itself thicker and larger. Elderly Pineco are ridiculously huge."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
+            "Shining Pearl": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake."
+        },
+        "Generation IX": {
+            "Scarlet": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn’t bother it.",
+            "Violet": "It spits out a fluid that it uses to glue tree bark to its body. The fluid hardens when it touches air."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 26 , 27 , 34 , 35 , 36 , 37 , 38 , and 39 , Azalea Town , Ilex Forest , Lake of Rage ( Headbutt trees ) (only high-encounter trees)",
+            "Silver": "Routes 26 , 27 , 34 , 35 , 36 , 37 , 38 , and 39 , Azalea Town , Ilex Forest , Lake of Rage ( Headbutt trees ) (only high-encounter trees)",
+            "Crystal": "Routes 26 , 27 , 29 , 30 , 31 , 32 , 34 , 35 , 36 , 37 , 38 , 39 , and 43 , Lake of Rage , Ilex Forest ( Headbutt trees )"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Safari Zone extension",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Phenac City (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 203 , 204 , 210 , and 229 , Eterna Forest (Emerald)",
+            "Pearl": "Routes 203 , 204 , 210 , and 229 , Eterna Forest (Emerald)",
+            "Platinum": "Routes 203 , 204 , 210 , and 229 , Eterna Forest (Emerald)",
+            "HeartGold": "Routes 1 , 2 , 3 , 4 , 5 , 6 , 8 , 22 , 25 , 26 , 27 , 29 , 30 , 31 , 32 , 34 , 35 , 36 , 37 , 38 , 39 , 43 , 47 , and 48 , New Bark Town , Cherrygrove City , Violet City , Ecruteak City , Pallet Town , Viridian City , Pewter City , Cerulean City , Safari Zone Gate , Ilex Forest , Lake of Rage , National Park ( Headbutt trees )",
+            "SoulSilver": "Routes 1 , 2 , 3 , 4 , 5 , 6 , 8 , 22 , 25 , 26 , 27 , 29 , 30 , 31 , 32 , 34 , 35 , 36 , 37 , 38 , 39 , 43 , 47 , and 48 , New Bark Town , Cherrygrove City , Violet City , Ecruteak City , Pallet Town , Viridian City , Pewter City , Cerulean City , Safari Zone Gate , Ilex Forest , Lake of Rage , National Park ( Headbutt trees )",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Route 16 ( Swarm )",
+            "White": "Route 16 ( Swarm )",
+            "Black 2": "Route 16 ( Swarm )",
+            "White 2": "Route 16 ( Swarm )",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Breed Forretress",
+            "Y": "Breed Forretress",
+            "Omega Ruby": "Breed Forretress",
+            "Alpha Sapphire": "Breed Forretress"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 10",
+            "Ultra Moon": "Route 10",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Grand Underground - Grassland Cave , Sunlit Cavern , Swampy Cave , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Grand Underground - Grassland Cave , Sunlit Cavern , Swampy Cave , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Four East Province: Area One , Area Two , Tagtree Thicket West Province: Area Three Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Area Four East Province: Area One , Area Two , Tagtree Thicket West Province: Area Three Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Pineco",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Pineco",
+            "to": "Forretress",
+            "method": [
+                "Level 31"
+            ]
+        }
+    ]
+}

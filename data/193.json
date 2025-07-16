@@ -1,0 +1,141 @@
+{
+    "name": "Yanma",
+    "pokedex_number": "#0193",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "abilities": [
+        "Speed Boost",
+        "Compound Eyes",
+        "Frisk"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 45,
+        "Sp. Atk": 75,
+        "Sp. Def": 45,
+        "Speed": 95,
+        "Total": 390
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
+            "Silver": "Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey.",
+            "Crystal": "It can see in all directions without moving its big eyes, helping it spot attackers and food right away.",
+            "Stadium 2": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area. (Pokémon Red, Silver, or Crystal inserted) Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pok é mon uses its flying ability to quickly chase down targeted prey.",
+            "Sapphire": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pok é mon uses its flying ability to quickly chase down targeted prey.",
+            "Emerald": "It can see 360 degrees without moving its eyes. It is a great flier capable of making sudden stops and turning midair to quickly chase down targeted prey.",
+            "FireRed": "Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey.",
+            "LeafGreen": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area."
+        },
+        "Generation IV": {
+            "Diamond": "Its eyes can see 360 degrees without moving its head. It won't miss prey--even those behind it.",
+            "Pearl": "Its eyes can see 360 degrees without moving its head. It won't miss prey--even those behind it.",
+            "Platinum": "It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.",
+            "HeartGold": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
+            "SoulSilver": "Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey."
+        },
+        "Generation V": {
+            "Black": "It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.",
+            "White": "It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.",
+            "Black 2": "By flapping its wings at high speed, it can fly freely through the air. Even sudden stops are no problem.",
+            "White 2": "By flapping its wings at high speed, it can fly freely through the air. Even sudden stops are no problem."
+        },
+        "Generation VI": {
+            "X": "Its eyes can see 360 degrees without moving its head. It won't miss prey--even those behind it.",
+            "Y": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
+            "Omega Ruby": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.",
+            "Alpha Sapphire": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Its eyes can see 360 degrees without the Pokémon moving its head. It won't miss prey—even those behind it.",
+            "Shining Pearl": "Its eyes can see 360 degrees without the Pokémon moving its head. It won't miss prey—even those behind it.",
+            "Legends: Arceus": "Its frail wings are so thin that one can see clear through them. However, during flight these wings exhibit the power to churn air with force enough to launch a house skyward."
+        },
+        "Generation IX": {
+            "Scarlet": "As Yanma surveys its territory, it periodically stops to hover in place by flapping its wings at high speeds.",
+            "Violet": "It can see in all directions without moving its big eyes, helping it spot both attackers and prey right away."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Route 35",
+            "Silver": "Route 35",
+            "Crystal": "Route 35"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Ruin Valley",
+            "LeafGreen": "Ruin Valley",
+            "Colosseum": "Pyrite Bldg (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Great Marsh (after obtaining National Pokédex )",
+            "Pearl": "Great Marsh (after obtaining National Pokédex )",
+            "Platinum": "Great Marsh",
+            "HeartGold": "Route 35",
+            "SoulSilver": "Route 35",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Route 14 ( Swarm )",
+            "White": "Route 14 ( Swarm )",
+            "Black 2": "Route 3 , Pinwheel Forest (outer)",
+            "White 2": "Route 3 , Pinwheel Forest (outer)",
+            "Dream World": "Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Route 10 ( Horde Encounter )",
+            "Y": "Route 10 ( Horde Encounter )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Yanmega",
+            "Ultra Moon": "Breed Yanmega",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Great Marsh (after obtaining National Pokédex )",
+            "Shining Pearl": "Great Marsh (after obtaining National Pokédex )",
+            "Legends: Arceus": "Crimson Mirelands : Gapejaw Bog , Ursa's Ring , Droning Meadow , massive mass outbreaks Coronet Highlands : Heavenward Lookout Day , Heavenward Lookout (mass outbreaks), massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Mossfell Confluence , Oni Mountain , Infernal Pass , Crystal Pool , Wistful Fields , Paradise Barrens , Timeless Woods , Kitakami Wilds Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Yanma",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Yanma",
+            "to": "Yanmega",
+            "method": [
+                "Level up (knowing Ancient Power)"
+            ]
+        }
+    ]
+}

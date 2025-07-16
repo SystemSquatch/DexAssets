@@ -1,0 +1,146 @@
+{
+    "name": "Snorunt",
+    "pokedex_number": "#0361",
+    "types": [
+        "Ice",
+        "Unknown"
+    ],
+    "abilities": [
+        "Inner Focus",
+        "Ice Body",
+        "Moody"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 50,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 50,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Snorunt live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this Pok é mon steals away to live quietly among stalactites and stalagmites deep in caverns.",
+            "Sapphire": "Snorunt survives by eating only snow and ice. Old folklore claims that a house visited by this Pok é mon is sure to prosper for many generations to come.",
+            "Emerald": "They tend to move about in groups of around five Snorunt . In snowy regions, it is said that when they are seen late at night, snowfall will arrive by morning.",
+            "FireRed": "It is said that a home visited by a Snorunt will prosper. It can withstand cold of minus 150 degrees Fahrenheit .",
+            "LeafGreen": "It is said that a home visited by a Snorunt will prosper. It can withstand cold of minus 150 degrees Fahrenheit ."
+        },
+        "Generation IV": {
+            "Diamond": "In the snow country, certain folklore says a house will prosper if a Snorunt lives there.",
+            "Pearl": "In the snow country, certain folklore says a house will prosper if a Snorunt lives there.",
+            "Platinum": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+            "HeartGold": "It's said that if they are seen at midnight, they'll cause heavy snow. They eat snow and ice to survive.",
+            "SoulSilver": "It's said that if they are seen at midnight, they'll cause heavy snow. They eat snow and ice to survive."
+        },
+        "Generation V": {
+            "Black": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+            "White": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+            "Black 2": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+            "White 2": "It is said that several Snorunt gather under giant leaves and live together in harmony."
+        },
+        "Generation VI": {
+            "X": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+            "Y": "In the snow country, certain folklore says a house will prosper if a Snorunt lives there.",
+            "Omega Ruby": "Snorunt live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this Pokémon steals away to live quietly among stalactites and stalagmites deep in caverns.",
+            "Alpha Sapphire": "Snorunt survives by eating only snow and ice. Old folklore claims that a house visited by this Pokémon is sure to prosper for many generations to come."
+        },
+        "Generation VII": {
+            "Sun": "Their numbers seem to have rapidly increased in Alola. Custom has it that houses where Snorunt live will be prosperous for generations to come.",
+            "Moon": "It can only survive in cold areas. It bounces happily around, even in environments as cold as -150 degrees Fahrenheit .",
+            "Ultra Sun": "It feeds mainly on ice and snow. It's only able to survive in a limited number of places in the warm Alola region.",
+            "Ultra Moon": "Rich people from cold areas all share childhood memories of playing with Snorunt."
+        },
+        "Generation VIII": {
+            "Sword": "It's said that if they are seen at midnight, they'll cause heavy snow. They eat snow and ice to survive.",
+            "Shield": "It can only survive in cold areas. It bounces happily around, even in environments as cold as −150 degrees Fahrenheit .",
+            "Brilliant Diamond": "In some snowy lands, certain folklore says a house will prosper if a Snorunt lives there.",
+            "Shining Pearl": "In some snowy lands, certain folklore says a house will prosper if a Snorunt lives there.",
+            "Legends: Arceus": "Arrives alongside the first snow. It's thought that homes Snorunt visit will prosper for many generations. By tradition, one might offer a lump of ice made from pure water at one's front door."
+        },
+        "Generation IX": {
+            "Scarlet": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+            "Violet": "It is said that a home visited by a Snorunt will prosper. It can withstand cold of −150 degrees Fahrenheit ."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Shoal Cave (low tide)",
+            "Sapphire": "Shoal Cave (low tide)",
+            "Emerald": "Shoal Cave (low tide)",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Phenac City (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 216 and 217 , Acuity Lakefront ( Poké Radar )",
+            "Pearl": "Routes 216 and 217 , Acuity Lakefront ( Poké Radar )",
+            "Platinum": "Routes 216 and 217 , Acuity Lakefront , Lake Acuity Night",
+            "HeartGold": "Transfer from Pokéwalker",
+            "SoulSilver": "Transfer from Pokéwalker",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Icy Mountain Rd."
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Ice )",
+            "Y": "Friend Safari ( Ice )",
+            "Omega Ruby": "Shoal Cave (low tide)",
+            "Alpha Sapphire": "Shoal Cave (low tide)"
+        },
+        "Generation VII": {
+            "Sun": "Mount Lanakila , Tapu Village",
+            "Moon": "Mount Lanakila , Tapu Village",
+            "Ultra Sun": "Mount Lanakila , Tapu Village",
+            "Ultra Moon": "Mount Lanakila , Tapu Village",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 8 , Rolling Fields , Dappled Grove , West Lake Axewell , East Lake Axewell , Watchtower Ruins , North Lake Miloch , South Lake Miloch , Giant's Seat , Giant's Cap , Hammerlocke Hills Dusty Bowl , Giant's Cap , Giant's Seat Sh , Hammerlocke Hills , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 8 , Rolling Fields , Dappled Grove , West Lake Axewell , East Lake Axewell , Watchtower Ruins , North Lake Miloch , South Lake Miloch , Giant's Seat , Giant's Cap , Hammerlocke Hills Dusty Bowl , Giant's Cap , Giant's Seat Sh , Hammerlocke Hills , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed , Snowslide Slope , Tunnel to the Top , Giant's Foot Slippery Slope , Giant's Bed , Old Cemetery , Snowslide Slope , Giant's Foot , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Routes 216 and 217 , Acuity Lakefront ( Poké Radar ) Grand Underground - Icy Cave , Whiteout Cave , Glacial Cavern",
+            "Shining Pearl": "Routes 216 and 217 , Acuity Lakefront ( Poké Radar ) Grand Underground - Icy Cave , Whiteout Cave , Glacial Cavern",
+            "Legends: Arceus": "Alabaster Icelands : Avalanche Slopes , Whiteout Valley , Bonechill Wastes , near Pearl Settlement , massive mass outbreaks Alabaster Icelands: Avalanche Slopes, Bonechill Wastes, Icebound Falls , Arena's Approach , Glacier Terrace , Heart's Crag , Pearl Settlement Shaking ore deposits"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 2★ )",
+            "Violet": "North Province: Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 2★ )",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Chilling Waterhead"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Snorunt",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Snorunt",
+            "to": "Glalie",
+            "method": [
+                "Level 42"
+            ]
+        },
+        {
+            "from": "Snorunt",
+            "to": "Froslass",
+            "method": [
+                "Use Dawn Stone ((Female only))"
+            ]
+        }
+    ]
+}

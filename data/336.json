@@ -1,0 +1,113 @@
+{
+    "name": "Seviper",
+    "pokedex_number": "#0336",
+    "types": [
+        "Poison",
+        "Unknown"
+    ],
+    "abilities": [
+        "Shed Skin",
+        "Infiltrator"
+    ],
+    "stats": {
+        "HP": 73,
+        "Attack": 100,
+        "Defense": 60,
+        "Sp. Atk": 100,
+        "Sp. Def": 60,
+        "Speed": 65,
+        "Total": 458
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Seviper shares a generations-long feud with Zangoose . The scars on its body are evidence of vicious battles. This Pok é mon attacks using its sword-edged tail.",
+            "Sapphire": "Seviper 's swordlike tail serves two purposes - it slashes foes and douses them with secreted poison. This Pok é mon will not give up its long-running blood feud with Zangoose .",
+            "Emerald": "Seviper and Zangoose are eternal rivals. It counters a Zangoose 's dazzling agility with its swordlike tail, which also oozes a horrible poison.",
+            "FireRed": "It sharpens its swordlike tail on hard rocks. It hides in tall grass and strikes unwary prey with venomous fangs.",
+            "LeafGreen": "It sharpens its swordlike tail on hard rocks. It hides in tall grass and strikes unwary prey with venomous fangs."
+        },
+        "Generation IV": {
+            "Diamond": "For many generations, it has feuded with Zangoose . It whets its bladed tail on rocks for battle.",
+            "Pearl": "For many generations, it has feuded with Zangoose . It whets its bladed tail on rocks for battle.",
+            "Platinum": "For many generations, it has feuded with Zangoose . It whets its bladed tail on rocks for battle.",
+            "HeartGold": "In battle, it uses its bladed tail to counter any Zangoose . It secretes a deadly venom in its tail.",
+            "SoulSilver": "In battle, it uses its bladed tail to counter any Zangoose . It secretes a deadly venom in its tail."
+        },
+        "Generation V": {
+            "Black": "For many generations, it has feuded with Zangoose . It whets its bladed tail on rocks for battle.",
+            "White": "For many generations, it has feuded with Zangoose . It whets its bladed tail on rocks for battle.",
+            "Black 2": "Constant polishing makes the edge of the blade on its tail extremely sharp. It's Zangoose 's archrival.",
+            "White 2": "Constant polishing makes the edge of the blade on its tail extremely sharp. It's Zangoose 's archrival."
+        },
+        "Generation VI": {
+            "X": "In battle, it uses its bladed tail to counter any Zangoose . It secretes a deadly venom in its tail.",
+            "Y": "Constant polishing makes the edge of the blade on its tail extremely sharp. It's Zangoose 's archrival.",
+            "Omega Ruby": "Seviper shares a generations-long feud with Zangoose . The scars on its body are evidence of vicious battles. This Pokémon attacks using its sword-edged tail.",
+            "Alpha Sapphire": "Seviper's swordlike tail serves two purposes—it slashes foes and douses them with secreted poison. This Pokémon will not give up its long-running blood feud with Zangoose ."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "For many generations, it has feuded with Zangoose . It whets its bladed tail on rocks for battle.",
+            "Shining Pearl": "For many generations, it has feuded with Zangoose . It whets its bladed tail on rocks for battle."
+        },
+        "Generation IX": {
+            "Scarlet": "It sharpens its swordlike tail on hard rocks. It hides in tall grass and strikes unwary prey with venomous fangs.",
+            "Violet": "Constant polishing makes the edge of the blade on its tail extremely sharp. It's Zangoose 's archrival."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Route 114",
+            "Emerald": "Route 114",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 208 , 210 (Sapphire)",
+            "Pearl": "Routes 208 , 210 (Sapphire)",
+            "Platinum": "Routes 208 , 210 (Sapphire)",
+            "HeartGold": "Safari Zone (tall grass in Marshland with 35 Plains points)",
+            "SoulSilver": "Safari Zone (tall grass in Marshland with 35 Plains points)",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Route 11 , Village Bridge",
+            "White": "Route 11 , Village Bridge",
+            "Black 2": "Routes 7 and 11 , Village Bridge Routes 7 and 23 ( Hidden Grotto )",
+            "White 2": "Routes 7 and 11 , Village Bridge Routes 7 and 23 ( Hidden Grotto )",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Route 8 , Friend Safari ( Poison )",
+            "Y": "Route 8 , Friend Safari ( Poison )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Route 114"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Grand Underground - Grassland Cave , Sunlit Cavern , Swampy Cave , Bogsunk Cavern , Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Three , Area Five Tera Raid Battles ( 3★ , 4★ )",
+            "Violet": "South Province: Area Three , Area Five Tera Raid Battles ( 3★ , 4★ )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth"
+        }
+    },
+    "evolution": []
+}

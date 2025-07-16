@@ -1,0 +1,92 @@
+{
+    "name": "Tynamo",
+    "pokedex_number": "#0602",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 40,
+        "Sp. Atk": 45,
+        "Sp. Def": 40,
+        "Speed": 60,
+        "Total": 275
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "While one alone doesn't have much power, a chain of many Tynamo can be as powerful as lightning.",
+            "White": "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.",
+            "Black 2": "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
+            "White 2": "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock."
+        },
+        "Generation VI": {
+            "X": "While one alone doesn't have much power, a chain of many Tynamo can be as powerful as lightning.",
+            "Y": "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
+            "Omega Ruby": "While one alone doesn't have much power, a chain of many Tynamo can be as powerful as lightning.",
+            "Alpha Sapphire": "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "While one alone doesn’t have much power, a chain of many Tynamo can be as powerful as lightning.",
+            "Violet": "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Chargestone Cave",
+            "White": "Chargestone Cave",
+            "Black 2": "Chargestone Cave , Seaside Cave",
+            "White 2": "Chargestone Cave , Seaside Cave"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Mirage Caves (north of Fallarbor Town , west of Route 115 , north of Fortree City , southeast of Route 129 , south of Route 131 , north of Route 132 )",
+            "Alpha Sapphire": "Mirage Caves (north of Fallarbor Town , west of Route 115 , north of Fortree City , southeast of Route 129 , south of Route 131 , north of Route 132 )"
+        },
+        "Generation VII": {
+            "Sun": "Breed Eelektross",
+            "Moon": "Breed Eelektross",
+            "Ultra Sun": "Breed Eelektross",
+            "Ultra Moon": "Breed Eelektross",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: West Paldean Sea North Province: North Paldean Sea Tera Raid Battles ( 1★ )",
+            "Violet": "West Province: West Paldean Sea North Province: North Paldean Sea Tera Raid Battles ( 1★ )",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Chilling Waterhead Savanna Biome , Canyon Biome , Chargestone Cavern , Polar Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Tynamo",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Tynamo",
+            "to": "Eelektrik",
+            "method": [
+                "Level 39"
+            ]
+        }
+    ]
+}

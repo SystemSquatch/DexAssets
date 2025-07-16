@@ -1,0 +1,71 @@
+{
+    "name": "Toxapex",
+    "pokedex_number": "#0748",
+    "types": [
+        "Poison",
+        "Water"
+    ],
+    "abilities": [
+        "Merciless",
+        "Limber",
+        "Regenerator"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 63,
+        "Defense": 152,
+        "Sp. Atk": 53,
+        "Sp. Def": 142,
+        "Speed": 35,
+        "Total": 495
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Toxapex crawls along the ocean floor on its 12 legs. It leaves a trail of Corsola bits scattered in its wake.",
+            "Moon": "Those attacked by Toxapex's poison will suffer intense pain for three days and three nights. Post-recovery, there will be some aftereffects.",
+            "Ultra Sun": "To attack, this Pokémon sends toxic spikes flying at its enemies. Ones that come close get mown down by the claws on its feet.",
+            "Ultra Moon": "With its 12 legs, it creates a dome to shelter within. The flow of the tides doesn't affect Toxapex in there, so it's very comfortable."
+        },
+        "Generation VIII": {
+            "Sword": "To survive in the cold waters of Galar, this Pokémon forms a dome with its legs, enclosing its body so it can capture its own body heat.",
+            "Shield": "Within the poison sac in its body is a poison so toxic that Pokémon as large as Wailord will still be suffering three days after it first takes effect."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon lives within a dome made by its own legs. Toxapex monitors its surroundings by sensing the flow of the tide through its spikes.",
+            "Violet": "Toxapex gets into fierce battles with Bruxish over areas where warm ocean currents flow, but the odds are always against it."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Evolve Mareanie",
+            "Moon": "Evolve Mareanie",
+            "Ultra Sun": "Evolve Mareanie",
+            "Ultra Moon": "Evolve Mareanie",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 9 Motostoke Riverbank Sw , East Lake Axewell , West Lake Axewell , South Lake Miloch , North Lake Miloch , Bridge Field , Giant's Mirror , Giant's Cap Sw , Lake of Outrage ( Max Raid Battle )",
+            "Shield": "Route 9 Motostoke Riverbank Sw , East Lake Axewell , West Lake Axewell , South Lake Miloch , North Lake Miloch , Bridge Field , Giant's Mirror , Giant's Cap Sw , Lake of Outrage ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor , Loop Lagoon ( Wanderer ) Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Area One ( Normal Tera Type ) Tera Raid Battles ( 6★ )",
+            "Violet": "East Province: Area One ( Normal Tera Type ) Tera Raid Battles ( 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Mareanie",
+            "to": "Toxapex",
+            "method": [
+                "Level 38"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Eldegoss",
+    "pokedex_number": "#0830",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Cotton Down",
+        "Regenerator",
+        "Effect Spore"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 90,
+        "Sp. Atk": 80,
+        "Sp. Def": 120,
+        "Speed": 60,
+        "Total": 460
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pokémon can benefit from them.",
+            "Shield": "The cotton on the head of this Pokémon can be spun into a glossy, gorgeous yarn—a Galar regional specialty."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Motostoke Riverbank , Dusty Bowl , Giant's Cap , Stony Wilderness Route 5 ( Wanderer , one) Dappled Grove , Bridge Field , Stony Wilderness , Giant's Mirror ( Max Raid Battle )",
+            "Shield": "Motostoke Riverbank , Dusty Bowl , Giant's Cap , Stony Wilderness Route 5 ( Wanderer , one) Dappled Grove , Bridge Field , Stony Wilderness , Giant's Mirror ( Max Raid Battle )",
+            "Expansion Pass": "Ballimere Lake ( Wanderer ) Max Lair ( Dynamax Adventure ) Slippery Slope , Crown Shrine , Giant's Foot , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Gossifleur",
+            "to": "Eldegoss",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

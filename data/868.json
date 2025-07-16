@@ -1,0 +1,63 @@
+{
+    "name": "Milcery",
+    "pokedex_number": "#0868",
+    "types": [
+        "Fairy",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sweet Veil",
+        "Aroma Veil"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 40,
+        "Defense": 40,
+        "Sp. Atk": 50,
+        "Sp. Def": 61,
+        "Speed": 34,
+        "Total": 270
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.",
+            "Shield": "They say that any patisserie visited by Milcery is guaranteed success and good fortune."
+        },
+        "Generation IX": {
+            "Scarlet": "The more sweet aromas it absorbs, the more its body swells. Milcery will deflate when its energy level drops.",
+            "Violet": "When attacked, it tackles its foe and covers them in cream. With its foe either blinded or astonished by deliciousness, Milcery flees."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Route 4 , Bridge Field , Giant's Mirror Bridge Field , Lake of Outrage ( Max Raid Battle )",
+            "Shield": "Route 4 , Bridge Field , Giant's Mirror Bridge Field , Lake of Outrage ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Chargestone Cavern , Polar Biome Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Milcery",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Milcery",
+            "to": "Alcremie",
+            "method": [
+                "Spin"
+            ]
+        }
+    ]
+}

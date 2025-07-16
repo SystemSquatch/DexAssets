@@ -1,0 +1,58 @@
+{
+    "name": "Minior",
+    "pokedex_number": "#0774",
+    "types": [
+        "Rock",
+        "Flying"
+    ],
+    "abilities": [
+        "Shields Down"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 100,
+        "Sp. Atk": 60,
+        "Sp. Def": 100,
+        "Speed": 60,
+        "Total": 440
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It eats dust in the atmosphere. The composition of the dust determines the color of its core.",
+            "Moon": "If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.",
+            "Ultra Sun": "Places where Minior fall from the night sky are few and far between, with Alola being one of the precious few.",
+            "Ultra Moon": "This is its form when its shell has fallen off. The color of its core depends on the materials that made up the food it ate."
+        },
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "Minior that fall to the ground try to return to space, but their wish will not come true—all they can do is fade away.",
+            "Violet": "It feeds on dust in the atmosphere. The color of its core is said to be determined by the composition of the dust it eats."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Mount Hokulani",
+            "Moon": "Mount Hokulani",
+            "Ultra Sun": "Mount Hokulani",
+            "Ultra Moon": "Mount Hokulani",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth , Canyon Biome , Chargestone Cavern , Polar Biome Tera Raid Battles ( 5★ )"
+        }
+    },
+    "evolution": []
+}

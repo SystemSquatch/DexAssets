@@ -1,0 +1,51 @@
+{
+    "name": "Runerigus",
+    "pokedex_number": "#0867",
+    "types": [
+        "Ground",
+        "Ghost"
+    ],
+    "abilities": [
+        "Wandering Spirit"
+    ],
+    "stats": {
+        "HP": 58,
+        "Attack": 95,
+        "Defense": 145,
+        "Sp. Atk": 50,
+        "Sp. Def": 105,
+        "Speed": 30,
+        "Total": 483
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "A powerful curse was woven into an ancient painting. After absorbing the spirit of a Yamask, the painting began to move.",
+            "Shield": "Never touch its shadowlike body, or you'll be shown the horrific memories behind the picture carved into it."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Bridge Field , Dusty Bowl , Giant's Mirror , Rolling Fields , South Lake Miloch , Stony Wilderness , Watchtower Ruins , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Bridge Field , Dusty Bowl , Giant's Mirror , Rolling Fields , South Lake Miloch , Stony Wilderness , Watchtower Ruins , Dusty Bowl ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Yamask",
+            "to": "Runerigus",
+            "method": [
+                "Take Damage"
+            ]
+        }
+    ]
+}

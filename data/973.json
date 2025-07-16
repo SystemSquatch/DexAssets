@@ -1,0 +1,37 @@
+{
+    "name": "Flamigo",
+    "pokedex_number": "#0973",
+    "types": [
+        "Flying",
+        "Fighting"
+    ],
+    "abilities": [
+        "Scrappy",
+        "Tangled Feet",
+        "Costar"
+    ],
+    "stats": {
+        "HP": 82,
+        "Attack": 115,
+        "Defense": 74,
+        "Sp. Atk": 75,
+        "Sp. Def": 64,
+        "Speed": 90,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak.",
+            "Violet": "Thanks to a behavior of theirs known as “synchronizing,” an entire flock of these Pokémon can attack simultaneously in perfect harmony."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Four , Area Five South Province: Area Five ( Bug Tera Type ) East Province: Area Two , Area Three West Province: Area Two , Area Three North Province: Area One , Casseroya Lake , Glaseado Mountain Area Zero Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Area One , Area Four , Area Five South Province: Area Five ( Bug Tera Type ) East Province: Area Two , Area Three West Province: Area Two , Area Three North Province: Area One , Casseroya Lake , Glaseado Mountain Area Zero Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": []
+}

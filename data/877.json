@@ -1,0 +1,49 @@
+{
+    "name": "Morpeko",
+    "pokedex_number": "#0877",
+    "types": [
+        "Electric",
+        "Dark"
+    ],
+    "abilities": [
+        "Hunger Switch"
+    ],
+    "stats": {
+        "HP": 58,
+        "Attack": 95,
+        "Defense": 58,
+        "Sp. Atk": 70,
+        "Sp. Def": 58,
+        "Speed": 97,
+        "Total": 436
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Intense hunger drives it to extremes of violence, and the electricity in its cheek sacs has converted into a Dark-type energy.",
+            "Shield": "Hunger hormones affect its temperament. Until its hunger is appeased, it gets up to all manner of evil deeds."
+        },
+        "Generation IX": {
+            "Scarlet": "Even after using up all its dark energy, this violent ruffian will keep running riot until its hunger is appeased.",
+            "Violet": "Hunger has disrupted this Pokémon's hormonal balance. The Electric-type energy stored in its cheek sacs has turned into Dark-type energy."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Routes 7 and 9 , Lake of Outrage Giant's Mirror , Motostoke Riverbank , Lake of Outrage ( Max Raid Battle )",
+            "Shield": "Routes 7 and 9 , Lake of Outrage Giant's Mirror , Motostoke Riverbank , Lake of Outrage ( Max Raid Battle )",
+            "Expansion Pass": "Challenge Beach , Ballimere Lake Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Union Circle Tera Raid Battle Search ( 4★ , 6★ )",
+            "The Hidden Treasure of Area Zero (Violet)": "Apple Hills , Reveler's Road , Oni Mountain , Oni's Maw , Wistful Fields , Paradise Barrens Tera Raid Battles ( 4★ , 6★ )"
+        }
+    },
+    "evolution": []
+}

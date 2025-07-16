@@ -1,0 +1,134 @@
+{
+    "name": "Mew",
+    "pokedex_number": "#0151",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Synchronize"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Sp. Atk": 100,
+        "Sp. Def": 100,
+        "Speed": 100,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+            "Yellow": "When viewed through a microscope, this Pok é mon 's short, fine, delicate hair can be seen.",
+            "Stadium": "A mythical Pokémon of South America which had been thought extinct. A growing number of people have seen it recently."
+        },
+        "Generation II": {
+            "Gold": "Apparently, it appears only to those people who are pure of heart and have a strong desire to see it.",
+            "Silver": "Its DNA is said to contain the genetic codes of all Pok é mon , so it can use all kinds of techniques.",
+            "Crystal": "Because it can learn any move , some people began research to see if it is the ancestor of all Pok é mon .",
+            "Stadium 2": "Apparently, it appears only to those people who are pure of heart and have a strong desire to see it. (Pokémon Red, Silver, or Crystal inserted) Its DNA is said to contain the genetic codes of all Pok é mon , so it can use all kinds of techniques. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Mew is said to possess the genetic composition of all Pok é mon . It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+            "Sapphire": "Mew is said to possess the genetic composition of all Pok é mon . It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+            "Emerald": "A Mew is said to possess the genes of all Pok é mon . It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+            "FireRed": "A Pok é mon of South America that was thought to have been extinct. It is very intelligent and learns any move.",
+            "LeafGreen": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide."
+        },
+        "Generation IV": {
+            "Diamond": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+            "Pearl": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+            "Platinum": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+            "HeartGold": "Apparently, it appears only to those people who are pure of heart and have a strong desire to see it.",
+            "SoulSilver": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques."
+        },
+        "Generation V": {
+            "Black": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+            "White": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+            "Black 2": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+            "White 2": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon."
+        },
+        "Generation VI": {
+            "X": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+            "Y": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
+            "Omega Ruby": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+            "Alpha Sapphire": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "When viewed through a microscope, this Pokémon's short, fine, delicate hair can be seen.",
+            "Let's Go Eevee": "When viewed through a microscope, this Pokémon's short, fine, delicate hair can be seen."
+        },
+        "Generation VIII": {
+            "Sword": "It's very intelligent and can use an incredible variety of moves. Many believe that all other Pokémon are descendants of this one. *",
+            "Shield": "This mythical Pokémon is said to be extinct, but sightings of it are still being reported to this day. *",
+            "Brilliant Diamond": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+            "Shining Pearl": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Event",
+            "Blue": "Event",
+            "Blue (Japan)": "Event",
+            "Yellow": "Event"
+        },
+        "Generation II": {
+            "Gold": "Event",
+            "Silver": "Event",
+            "Crystal": "Event"
+        },
+        "Generation III": {
+            "Ruby": "Event",
+            "Sapphire": "Event",
+            "Emerald": "Faraway Island (requires Old Sea Map ) * ( Only one ) Event",
+            "FireRed": "Event",
+            "LeafGreen": "Event",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "My Pokémon Ranch Event",
+            "Pearl": "My Pokémon Ranch Event",
+            "Platinum": "My Pokémon Ranch * Event",
+            "HeartGold": "Event",
+            "SoulSilver": "Event",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Event",
+            "Y": "Event",
+            "Omega Ruby": "Event",
+            "Alpha Sapphire": "Event"
+        },
+        "Generation VII": {
+            "Sun": "Event",
+            "Moon": "Event",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Redeem from Poké Ball Plus",
+            "Let's Go Eevee": "Redeem from Poké Ball Plus"
+        },
+        "Generation VIII": {
+            "Sword": "Redeem from Poké Ball Plus",
+            "Shield": "Redeem from Poké Ball Plus",
+            "Brilliant Diamond": "Floaroma Town ( Only one * )",
+            "Shining Pearl": "Floaroma Town ( Only one * )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Event",
+            "Violet": "Event"
+        }
+    },
+    "evolution": []
+}

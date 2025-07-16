@@ -1,0 +1,64 @@
+{
+    "name": "Sinistea",
+    "pokedex_number": "#0854",
+    "types": [
+        "Ghost",
+        "Unknown"
+    ],
+    "abilities": [
+        "Weak Armor",
+        "Cursed Body"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 45,
+        "Sp. Atk": 74,
+        "Sp. Def": 54,
+        "Speed": 50,
+        "Total": 308
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "The swirl pattern in this Pokémon's body is its weakness. If it gets stirred, the swirl loses its shape, and Sinistea gets dizzy.",
+            "Shield": "It absorbs the life-force of those who drink it. It waits patiently, but opportunities are fleeting—it tastes so bad that it gets spat out immediately."
+        },
+        "Generation IX": {
+            "Scarlet": "Some fanatics will go to great pains to prepare the perfect tea and teacup, eagerly waiting for a Sinistea to come and possess their selections.",
+            "Violet": "This Sinistea lives in an antique teacup. As valuable as this Pokémon is, its awful taste remains unchanged."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Glimwood Tangle Stony Wilderness , Watchtower Ruins , South Lake Miloch Sh , Giant's Mirror Sh ( Max Raid Battle ) Phony Form",
+            "Shield": "Glimwood Tangle Stony Wilderness , Watchtower Ruins , South Lake Miloch Sh , Giant's Mirror Sh ( Max Raid Battle ) Phony Form",
+            "Expansion Pass": "Old Cemetery Giant's Bed , Old Cemetery , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six East Province: Area Three Tera Raid Battles ( 2★ ) ( Phony Form )",
+            "Violet": "South Province: Area Six East Province: Area Three Tera Raid Battles ( 2★ ) ( Phony Form )",
+            "The Hidden Treasure of Area Zero": "Canyon Biome , Chargestone Cavern"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Sinistea",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Sinistea",
+            "to": "Polteageist",
+            "method": [
+                "Use Cracked Pot"
+            ]
+        }
+    ]
+}

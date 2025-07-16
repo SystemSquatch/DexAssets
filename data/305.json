@@ -1,0 +1,127 @@
+{
+    "name": "Lairon",
+    "pokedex_number": "#0305",
+    "types": [
+        "Steel",
+        "Rock"
+    ],
+    "abilities": [
+        "Sturdy",
+        "Rock Head",
+        "Heavy Metal"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 140,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 40,
+        "Total": 430
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Lairon tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This Pok é mon makes its nest close to springs of delicious water.",
+            "Sapphire": "Lairon feeds on iron contained in rocks and water. It makes its nest on mountains where iron ore is buried. As a result, the Pok é mon often clashes with humans mining the iron ore.",
+            "Emerald": "When two Lairon meet in the wild, they fight for territory by bashing into each other with their steel bodies. The sound of their collision carries for miles.",
+            "FireRed": "It habitually shows off its strength with the size of sparks it creates by ramming its steel body into boulders.",
+            "LeafGreen": "It habitually shows off its strength with the size of sparks it creates by ramming its steel body into boulders."
+        },
+        "Generation IV": {
+            "Diamond": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory.",
+            "Pearl": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory.",
+            "Platinum": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory.",
+            "HeartGold": "It loves iron ore. Groups of them fight for territory by bashing one another with their steel bodies.",
+            "SoulSilver": "It loves iron ore. Groups of them fight for territory by bashing one another with their steel bodies."
+        },
+        "Generation V": {
+            "Black": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory.",
+            "White": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory.",
+            "Black 2": "Lairon fight over territory, and when their steel bodies collide, sparks fly.",
+            "White 2": "Lairon fight over territory, and when their steel bodies collide, sparks fly."
+        },
+        "Generation VI": {
+            "X": "It loves iron ore. Groups of them fight for territory by bashing one another with their steel bodies.",
+            "Y": "It habitually shows off its strength with the size of sparks it creates by ramming its steel body into boulders.",
+            "Omega Ruby": "Lairon tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This Pokémon makes its nest close to springs of delicious water.",
+            "Alpha Sapphire": "Lairon feeds on iron contained in rocks and water. It makes its nest on mountains where iron ore is buried. As a result, the Pokémon often clashes with humans mining the iron ore."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Lairon live in mountains brimming with spring water and iron ore, so these Pokémon often came into conflict with humans in the past.",
+            "Shield": "During territorial disputes, Lairon fight by slamming into each other. Close inspection of their steel armor reveals scratches and dents.",
+            "Brilliant Diamond": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory.",
+            "Shining Pearl": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Victory Road",
+            "Sapphire": "Victory Road",
+            "Emerald": "Victory Road",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Evolve Aron"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Aron",
+            "Pearl": "Trade",
+            "Platinum": "Evolve Aron",
+            "HeartGold": "Safari Zone (Peak with 24 Peak points)",
+            "SoulSilver": "Safari Zone (Peak with 24 Peak points)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Aron",
+            "Black 2": "Clay Tunnel , Underground Ruins",
+            "White 2": "Clay Tunnel , Underground Ruins"
+        },
+        "Generation VI": {
+            "X": "Route 18 , Terminus Cave",
+            "Y": "Trade",
+            "Omega Ruby": "Victory Road",
+            "Alpha Sapphire": "Victory Road"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Aron",
+            "Ultra Moon": "Evolve Aron",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Lakeside Cave ( Wanderer ) Max Lair ( Dynamax Adventure ) Slippery Slope , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Grand Underground - Rocky Cave , Big Bluff Cavern , Whiteout Cave , Icy Cave , Glacial Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Grand Underground - Rocky Cave , Big Bluff Cavern , Whiteout Cave , Icy Cave , Glacial Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Aron",
+            "to": "Lairon",
+            "method": [
+                "Level 32"
+            ]
+        },
+        {
+            "from": "Lairon",
+            "to": "Aggron",
+            "method": [
+                "Level 42"
+            ]
+        }
+    ]
+}

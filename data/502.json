@@ -1,0 +1,95 @@
+{
+    "name": "Dewott",
+    "pokedex_number": "#0502",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Shell Armor"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 60,
+        "Sp. Atk": 83,
+        "Sp. Def": 60,
+        "Speed": 60,
+        "Total": 413
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Strict training is how it learns its flowing double-scalchop technique.",
+            "White": "Scalchop techniques differ from one Dewott to another. It never neglects maintaining its scalchops.",
+            "Black 2": "As a result of strict training, each Dewott learns different forms for using the scalchops.",
+            "White 2": "As a result of strict training, each Dewott learns different forms for using the scalchops."
+        },
+        "Generation VI": {
+            "X": "Strict training is how it learns its flowing double-scalchop technique.",
+            "Y": "As a result of strict training, each Dewott learns different forms for using the scalchops.",
+            "Omega Ruby": "Strict training is how it learns its flowing double-scalchop technique.",
+            "Alpha Sapphire": "As a result of strict training, each Dewott learns different forms for using the scalchops."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Legends: Arceus": "Its exquisite double-scalchop technique is likely the result of daily training, and it can send even masters of the blade fleeing in defeat."
+        },
+        "Generation IX": {
+            "Scarlet": "It’s said that people modeled swordplay after the way Dewott’s movements flow like water while it’s wielding its two scalchops.",
+            "Violet": "Dewott has a studious and stern personality. It masters the use of its scalchops through dedicated, repeated training."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Oshawott",
+            "White": "Evolve Oshawott",
+            "Black 2": "Evolve Oshawott",
+            "White 2": "Evolve Oshawott"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Oshawott",
+            "Alpha Sapphire": "Evolve Oshawott"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Oshawott",
+            "Moon": "Evolve Oshawott",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Alabaster Icelands : Space-time distortions (after completing Mission 18), massive mass outbreaks (after completing Request 102)"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Evolve Oshawott"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Oshawott",
+            "to": "Dewott",
+            "method": [
+                "Level 17"
+            ]
+        },
+        {
+            "from": "Dewott",
+            "to": "Samurott",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "name": "Panpour",
+    "pokedex_number": "#0515",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Gluttony",
+        "Torrent"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 48,
+        "Sp. Atk": 53,
+        "Sp. Def": 48,
+        "Speed": 64,
+        "Total": 316
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.",
+            "White": "It does not thrive in dry environments. It keeps itself damp by shooting water stored in its head tuft from its tail.",
+            "Black 2": "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail.",
+            "White 2": "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail."
+        },
+        "Generation VI": {
+            "X": "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail.",
+            "Y": "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.",
+            "Omega Ruby": "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail.",
+            "Alpha Sapphire": "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Pinwheel Forest (inner) and Lostlorn Forest ( rustling grass ) Received in the Dreamyard (if the player's first partner Pokémon was Snivy )",
+            "White": "Pinwheel Forest (inner) and Lostlorn Forest ( rustling grass ) Received in the Dreamyard (if the player's first partner Pokémon was Snivy )",
+            "Black 2": "Pinwheel Forest (inner) and Lostlorn Forest ( rustling grass )",
+            "White 2": "Pinwheel Forest (inner) and Lostlorn Forest ( rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Santalune Forest , Friend Safari ( Water )",
+            "Y": "Santalune Forest , Friend Safari ( Water )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Panpour",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Panpour",
+            "to": "Simipour",
+            "method": [
+                "Use Water Stone"
+            ]
+        }
+    ]
+}

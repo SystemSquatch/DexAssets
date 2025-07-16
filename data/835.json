@@ -1,0 +1,60 @@
+{
+    "name": "Yamper",
+    "pokedex_number": "#0835",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Ball Fetch",
+        "Rattled"
+    ],
+    "stats": {
+        "HP": 59,
+        "Attack": 45,
+        "Defense": 50,
+        "Sp. Atk": 40,
+        "Sp. Def": 50,
+        "Speed": 26,
+        "Total": 270
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "This Pokémon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail.",
+            "Shield": "This gluttonous Pokémon only assists people with their work because it wants treats. As it runs, it crackles with electricity."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Routes 2 and 4 , Giant's Mirror , Motostoke Riverbank , Stony Wilderness Motostoke Riverbank , Lake of Outrage , Giant's Mirror ( Max Raid Battle )",
+            "Shield": "Routes 2 and 4 , Giant's Mirror , Motostoke Riverbank , Stony Wilderness Motostoke Riverbank , Lake of Outrage , Giant's Mirror ( Max Raid Battle )",
+            "Expansion Pass": "Ballimere Lake",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Yamper",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Yamper",
+            "to": "Boltund",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

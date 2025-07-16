@@ -1,0 +1,82 @@
+{
+    "name": "Binacle",
+    "pokedex_number": "#0688",
+    "types": [
+        "Rock",
+        "Water"
+    ],
+    "abilities": [
+        "Tough Claws",
+        "Sniper",
+        "Pickpocket"
+    ],
+    "stats": {
+        "HP": 42,
+        "Attack": 52,
+        "Defense": 67,
+        "Sp. Atk": 39,
+        "Sp. Def": 56,
+        "Speed": 50,
+        "Total": 306
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Two Binacle live together on one rock. When they fight, one of them will move to a different rock.",
+            "Y": "They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline.",
+            "Omega Ruby": "Two Binacle live together on one rock. When they fight, one of them will move to a different rock.",
+            "Alpha Sapphire": "They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "After two Binacle find a suitably sized rock, they adhere themselves to it and live together. They cooperate to gather food during high tide.",
+            "Shield": "If the two don't work well together, both their offense and defense fall apart. Without good teamwork, they won't survive."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Routes 8 and 12 , Ambrette Town , Azure Bay ( Rock Smash )",
+            "Y": "Routes 8 and 12 , Ambrette Town , Cyllage City , Azure Bay ( Rock Smash )",
+            "Omega Ruby": "Mirage Islands (south of Pacifidlog Town , south of Route 134 ; both by Rock Smash )",
+            "Alpha Sapphire": "Mirage Islands (south of Pacifidlog Town , south of Route 134 ; both by Rock Smash )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Barbaracle",
+            "Ultra Moon": "Breed Barbaracle",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Galar Mine No. 2 , Motostoke Riverbank , Bridge Field Dusty Bowl , Giant's Mirror , Giant's Seat , North Lake Miloch , Rolling Fields , South Lake Miloch , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Galar Mine No. 2 , Motostoke Riverbank , Bridge Field Dusty Bowl , Giant's Mirror , Giant's Seat , North Lake Miloch , Rolling Fields , South Lake Miloch , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Binacle",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Binacle",
+            "to": "Barbaracle",
+            "method": [
+                "Level 39"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "name": "Staravia",
+    "pokedex_number": "#0397",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Reckless"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 75,
+        "Defense": 50,
+        "Sp. Atk": 40,
+        "Sp. Def": 40,
+        "Speed": 80,
+        "Total": 340
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It flies around forests and fields in search of bug Pokémon. It stays within a huge flock.",
+            "Pearl": "It lives in forests and fields. Squabbles over territory occur when flocks collide.",
+            "Platinum": "Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.",
+            "HeartGold": "They maintain huge flocks, although fierce scuffles break out between various flocks.",
+            "SoulSilver": "They maintain huge flocks, although fierce scuffles break out between various flocks."
+        },
+        "Generation V": {
+            "Black": "Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.",
+            "White": "Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.",
+            "Black 2": "Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.",
+            "White 2": "Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily."
+        },
+        "Generation VI": {
+            "X": "They maintain huge flocks, although fierce scuffles break out between various flocks.",
+            "Y": "It lives in forests and fields. Squabbles over territory occur when flocks collide.",
+            "Omega Ruby": "They maintain huge flocks, although fierce scuffles break out between various flocks.",
+            "Alpha Sapphire": "It lives in forests and fields. Squabbles over territory occur when flocks collide."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "They fly around forests and fields in search of bug Pokémon, moving together in huge flocks.",
+            "Shining Pearl": "They live in forests and fields. Squabbles over territory occur when flocks collide.",
+            "Legends: Arceus": "They form remarkably large flocks and are constantly fighting amongst themselves. I suspect that those with magnificent plumes on their heads are the strong ones."
+        },
+        "Generation IX": {
+            "Scarlet": "Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.",
+            "Violet": "They maintain huge flocks, although fierce scuffles break out between various flocks."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Lake Verity (FireRed, LeafGreen, or Emerald) Routes 209 , 212 , Lake Valor , Trophy Garden , Sendoff Spring , Great Marsh , Valor Lakefront",
+            "Pearl": "Lake Verity (FireRed, LeafGreen, or Emerald) Routes 209 , 212 , Lake Valor , Trophy Garden , Sendoff Spring , Great Marsh , Valor Lakefront",
+            "Platinum": "Routes 209 , 210 , 212 , 215 , Trophy Garden , Lake Valor , Sendoff Spring , Valor Lakefront",
+            "HeartGold": "Evolve Starly",
+            "SoulSilver": "Evolve Starly"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Starly",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Route 11",
+            "Y": "Route 11",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Route 10 ( Island Scan ) Th",
+            "Moon": "Route 10 ( Island Scan ) Th",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 209 , 212 , Lake Valor , Trophy Garden , Sendoff Spring , Great Marsh , Valor Lakefront",
+            "Shining Pearl": "Routes 209 , 212 , Lake Valor , Trophy Garden , Sendoff Spring , Great Marsh , Valor Lakefront",
+            "Legends: Arceus": "Obsidian Fieldlands : Deertrack Heights Day , Windswept Run Day (additional Day Night ), Nature's Pantry Day , Tidewater Dam Day , near Obsidian Falls Day , Ramanas Island Day , Sandgem Flats Day ( mass outbreaks nearby Day Night ), massive mass outbreaks Cobalt Coastlands : Crossing Slope Day , Bathers' Lagoon Day , Deadwood Haunt Day (additional mass outbreaks Day Night ), Sand's Reach Day , Tranquility Cove Day , near Castaway Shore Day , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Two , Area Four West Province: Area Two , Area Three Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area Two , Area Four West Province: Area Two , Area Three Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Mossfell Confluence , Fellhorn Gorge , Oni Mountain , Kitakami Wilds"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Starly",
+            "to": "Staravia",
+            "method": [
+                "Level 14"
+            ]
+        },
+        {
+            "from": "Staravia",
+            "to": "Staraptor",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

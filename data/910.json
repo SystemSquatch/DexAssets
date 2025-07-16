@@ -1,0 +1,51 @@
+{
+    "name": "Crocalor",
+    "pokedex_number": "#0910",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Blaze",
+        "Unaware"
+    ],
+    "stats": {
+        "HP": 81,
+        "Attack": 55,
+        "Defense": 78,
+        "Sp. Atk": 90,
+        "Sp. Def": 58,
+        "Speed": 49,
+        "Total": 411
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "The combination of Crocalor’s fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pokémon’s head.",
+            "Violet": "The valve in Crocalor's flame sac is closely connected to its vocal cords. This Pokémon utters a guttural cry as it spews flames every which way."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Evolve Fuecoco",
+            "Violet": "Evolve Fuecoco"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Fuecoco",
+            "to": "Crocalor",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Crocalor",
+            "to": "Skeledirge",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "name": "Kabuto",
+    "pokedex_number": "#0140",
+    "types": [
+        "Rock",
+        "Water"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Battle Armor",
+        "Weak Armor"
+    ],
+    "stats": {
+        "HP": 30,
+        "Attack": 80,
+        "Defense": 90,
+        "Sp. Atk": 55,
+        "Sp. Def": 45,
+        "Speed": 55,
+        "Total": 355
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "A Pok é mon that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "A Pok é mon that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+            "Yellow": "A Pok é mon that was recovered from a fossil. It uses the eyes on its back while hiding on the sea floor.",
+            "Stadium": "A Pokémon that was resurrected from a fossil found in an ancient seabed. Unable to right itself if it is flipped over."
+        },
+        "Generation II": {
+            "Gold": "On rare occasions, some have been found as fossils which they became while hiding on the ocean floor.",
+            "Silver": "This Pok é mon lived in ancient times. On rare occasions, it has been discovered as a living fossil.",
+            "Crystal": "Three hundred million years ago, it hid on the sea floor. It also has eyes on its back that glow.",
+            "Stadium 2": "On rare occasions, some have been found as fossils which they became while hiding on the ocean floor. (Pokémon Red, Silver, or Crystal inserted) This Pok é mon lived in ancient times. On rare occasions, it has been discovered as a living fossil. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Kabuto is a Pok é mon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pok é mon has not changed at all for 300 million years.",
+            "Sapphire": "Kabuto is a Pok é mon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pok é mon has not changed at all for 300 million years.",
+            "Emerald": "It is a Pok é mon that has been regenerated from a fossil. However, in rare cases, living examples have been discovered. Kabuto have not changed for 300 million years.",
+            "FireRed": "This Pok é mon was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.",
+            "LeafGreen": "A Pok é mon that was regenerated from a fossil found in what was once the ocean floor long ago."
+        },
+        "Generation IV": {
+            "Diamond": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
+            "Pearl": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
+            "Platinum": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
+            "HeartGold": "On rare occasions, some have been found as fossils which they became while hiding on the ocean floor.",
+            "SoulSilver": "This Pokémon lived in ancient times. On rare occasions, it has been discovered as a living fossil."
+        },
+        "Generation V": {
+            "Black": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
+            "White": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
+            "Black 2": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
+            "White 2": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell."
+        },
+        "Generation VI": {
+            "X": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
+            "Y": "This Pokémon was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.",
+            "Omega Ruby": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
+            "Alpha Sapphire": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years."
+        },
+        "Generation VII": {
+            "Ultra Sun": "This Pokémon thrived 300 million years ago. It's said that living specimens can still be seen in a certain region—a rare sight.",
+            "Ultra Moon": "This Pokémon became extinct everywhere, except in a few areas. It protects itself with its hard shell.",
+            "Let's Go Pikachu": "A Pokémon that was recovered from a fossil. It used the eyes on its back while hiding on the seafloor.",
+            "Let's Go Eevee": "A Pokémon that was recovered from a fossil. It used the eyes on its back while hiding on the seafloor."
+        },
+        "Generation VIII": {
+            "Sword": "This species is almost entirely extinct. Kabuto molt every three days, making their shells harder and harder.",
+            "Shield": "While some say this species has gone extinct, Kabuto sightings are apparently fairly common in some places.",
+            "Brilliant Diamond": "It is thought to have inhabited beaches 300 million years ago. It is protected by a sturdy shell.",
+            "Shining Pearl": "It is thought to have inhabited beaches 300 million years ago. It is protected by a sturdy shell."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Revive from Dome Fossil at the Pokémon Lab on Cinnabar Island",
+            "Blue": "Revive from Dome Fossil at the Pokémon Lab on Cinnabar Island",
+            "Blue (Japan)": "Revive from Dome Fossil at the Pokémon Lab on Cinnabar Island",
+            "Yellow": "Revive from Dome Fossil at the Pokémon Lab on Cinnabar Island"
+        },
+        "Generation II": {
+            "Gold": "Time Capsule , Event",
+            "Silver": "Time Capsule , Event",
+            "Crystal": "Time Capsule , Event"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Revive from Dome Fossil at the Pokémon Lab on Cinnabar Island",
+            "LeafGreen": "Revive from Dome Fossil at the Pokémon Lab on Cinnabar Island",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Revive from Dome Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "Pearl": "Revive from Dome Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "Platinum": "Revive from Dome Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "HeartGold": "Trade Receive Dome Fossil held by a traded Pokémon and revive it",
+            "SoulSilver": "Revive from Dome Fossil at the Pewter Museum of Science in Pewter City",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Revive from Dome Fossil at the Nacrene Museum",
+            "White": "Revive from Dome Fossil at the Nacrene Museum",
+            "Black 2": "Revive from Dome Fossil at the Nacrene Museum",
+            "White 2": "Revive from Dome Fossil at the Nacrene Museum",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Trade Receive Dome Fossil held by a traded Pokémon and revive it",
+            "Y": "Revive from Dome Fossil at the Ambrette Town Fossil Lab",
+            "Omega Ruby": "Revive from Dome Fossil at the Devon Corporation in Rustboro City",
+            "Alpha Sapphire": "Trade Receive Dome Fossil held by a traded Pokémon and revive it"
+        },
+        "Generation VII": {
+            "Sun": "Trade Receive Dome Fossil held by a traded Pokémon and revive it",
+            "Moon": "Trade Receive Dome Fossil held by a traded Pokémon and revive it",
+            "Ultra Sun": "Revive from Dome Fossil at the Fossil Restoration Center on Route 8",
+            "Ultra Moon": "Revive from Dome Fossil at the Fossil Restoration Center on Route 8",
+            "Let's Go Pikachu": "Revive from Dome Fossil at the Cinnabar Lab on Cinnabar Island",
+            "Let's Go Eevee": "Revive from Dome Fossil at the Cinnabar Lab on Cinnabar Island"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Shield Expansion Pass": "Giant's Foot , Roaring-Sea Caves ( Surfing ) Giant's Bed , Snowslide Slope , Giant's Foot , Ballimere Lake , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Revive from Dome Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "Shining Pearl": "Revive from Dome Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Kabuto",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Kabuto",
+            "to": "Kabutops",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

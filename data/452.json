@@ -1,0 +1,104 @@
+{
+    "name": "Drapion",
+    "pokedex_number": "#0452",
+    "types": [
+        "Poison",
+        "Dark"
+    ],
+    "abilities": [
+        "Battle Armor",
+        "Sniper",
+        "Keen Eye"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 110,
+        "Sp. Atk": 60,
+        "Sp. Def": 75,
+        "Speed": 95,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.",
+            "Pearl": "Its body is encased in a sturdy shell. Its head rotates 180 degrees, eliminating blind spots.",
+            "Platinum": "Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.",
+            "HeartGold": "It attacks people and Pokémon that cross the desert. This has only furthered its bad reputation.",
+            "SoulSilver": "It attacks people and Pokémon that cross the desert. This has only furthered its bad reputation."
+        },
+        "Generation V": {
+            "Black": "Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.",
+            "White": "Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.",
+            "Black 2": "It takes pride in its strength. Even though it can tear foes apart, it finishes them off with powerful poison.",
+            "White 2": "It takes pride in its strength. Even though it can tear foes apart, it finishes them off with powerful poison."
+        },
+        "Generation VI": {
+            "X": "It takes pride in its strength. Even though it can tear foes apart, it finishes them off with powerful poison.",
+            "Y": "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.",
+            "Omega Ruby": "It takes pride in its strength. Even though it can tear foes apart, it finishes them off with powerful poison.",
+            "Alpha Sapphire": "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Its poison is potent, but it rarely sees use. This Pokémon prefers to use physical force instead, going on rampages with its car-crushing strength.",
+            "Shield": "It's so vicious that it's called the Sand Demon. Yet when confronted by Hippowdon , Drapion keeps a low profile and will never pick a fight.",
+            "Brilliant Diamond": "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.",
+            "Shining Pearl": "Its body is encased in a sturdy shell. Its head rotates 180 degrees, eliminating blind spots.",
+            "Legends: Arceus": "Has a brutish, ferocious temperament. With immense strength and a sturdy shell off which swords will bounce, it rampages about and wreaks havoc."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Great Marsh (after obtaining National Pokédex )",
+            "Pearl": "Great Marsh (after obtaining National Pokédex )",
+            "Platinum": "Great Marsh (after obtaining National Pokédex )",
+            "HeartGold": "Evolve Skorupi",
+            "SoulSilver": "Evolve Skorupi"
+        },
+        "Generation V": {
+            "Black": "Evolve Dream World Skorupi",
+            "White": "Evolve Dream World Skorupi",
+            "Black 2": "Evolve Skorupi",
+            "White 2": "Evolve Skorupi"
+        },
+        "Generation VI": {
+            "X": "Route 19 , Friend Safari ( Poison )",
+            "Y": "Route 19 , Friend Safari ( Poison )",
+            "Omega Ruby": "Evolve Skorupi",
+            "Alpha Sapphire": "Evolve Skorupi"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Rocky World )",
+            "Ultra Moon": "Ultra Space Wilds ( Rocky World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 8 , Lake of Outrage Bridge Field , Motostoke Riverbank ( Wanderer ) East Lake Axewell , Giant's Cap , Motostoke Riverbank , North Lake Miloch ( Max Raid Battle )",
+            "Shield": "Route 8 , Lake of Outrage Bridge Field , Motostoke Riverbank ( Wanderer ) East Lake Axewell , Giant's Cap , Motostoke Riverbank , North Lake Miloch ( Max Raid Battle )",
+            "Expansion Pass": "Challenge Beach , Soothing Wetlands , Training Lowlands ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Great Marsh (after obtaining National Pokédex )",
+            "Shining Pearl": "Great Marsh (after obtaining National Pokédex )",
+            "Legends: Arceus": "Crimson Mirelands : massive mass outbreaks Cobalt Coastlands : Ginkgo Landing , Castaway Shore (mass outbreaks), massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Skorupi",
+            "to": "Drapion",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

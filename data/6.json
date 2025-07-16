@@ -1,0 +1,150 @@
+{
+    "name": "Charizard",
+    "pokedex_number": "#0006",
+    "types": [
+        "Fire",
+        "Flying"
+    ],
+    "abilities": [
+        "Blaze",
+        "Solar Power",
+        "Tough Claws",
+        "Drought"
+    ],
+    "stats": {
+        "HP": 78,
+        "Attack": 84,
+        "Defense": 78,
+        "Sp. Atk": 109,
+        "Sp. Def": 85,
+        "Speed": 100,
+        "Total": 534
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+            "Yellow": "When expelling a blast of super hot fire, the red flame at the tip of its tail burns more intensely.",
+            "Stadium": "Its fiery breath reaches incredible temperatures. It can quickly melt glaciers weighing 10,000 tons."
+        },
+        "Generation II": {
+            "Gold": "If Charizard becomes furious, the flame at the tip of its tail flares up in a whitish-blue color.",
+            "Silver": "Breathing intense, hot flames, it can melt almost anything. Its breath inflicts terrible pain on enemies.",
+            "Crystal": "It uses its wings to fly high. The temperature of its fire increases as it gains experience in battle.",
+            "Stadium 2": "If Charizard becomes furious, the flame at the tip of its tail flares up in a whitish-blue color. (Pokémon Red, Silver, or Crystal inserted) Breathing intense, hot flames, it can melt almost anything. Its breath inflicts terrible pain on enemies. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+            "Sapphire": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+            "Emerald": "A Charizard flies about in search of strong opponents. It breathes intense flames that can melt any material. However, it will never torch a weaker foe.",
+            "FireRed": "Its wings can carry this Pok é mon close to an altitude of 4,600 feet . It blows out fire at very high temperatures.",
+            "LeafGreen": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames."
+        },
+        "Generation IV": {
+            "Diamond": "It is said that Charizard 's fire burns hotter if it has experienced harsh battles.",
+            "Pearl": "It is said that Charizard 's fire burns hotter if it has experienced harsh battles.",
+            "Platinum": "It is said that Charizard 's fire burns hotter if it has experienced harsh battles.",
+            "HeartGold": "If Charizard becomes furious, the flame at the tip of its tail flares up in a light blue shade.",
+            "SoulSilver": "Breathing intense, hot flames, it can melt almost anything. Its breath inflicts terrible pain on enemies."
+        },
+        "Generation V": {
+            "Black": "It is said that Charizard's fire burns hotter if it has experienced harsh battles.",
+            "White": "It is said that Charizard's fire burns hotter if it has experienced harsh battles.",
+            "Black 2": "It is said that Charizard's fire burns hotter if it has experienced harsh battles.",
+            "White 2": "It is said that Charizard's fire burns hotter if it has experienced harsh battles."
+        },
+        "Generation VI": {
+            "X": "When expelling a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
+            "Y": "Its wings can carry this Pokémon close to an altitude of 4,600 feet . It blows out fire at very high temperatures.",
+            "Omega Ruby": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+            "Alpha Sapphire": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Its bond with its Trainer is the source of its power. It boasts speed and maneuverability greater than that of a jet fighter.",
+            "Let's Go Eevee": "Its bond with its Trainer is the source of its power. It boasts speed and maneuverability greater than that of a jet fighter."
+        },
+        "Generation VIII": {
+            "Sword": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+            "Shield": "Its wings can carry this Pokémon close to an altitude of 4,600 feet . It blows out fire at very high temperatures.",
+            "Brilliant Diamond": "It is said that Charizard's fire burns hotter if it has experienced harsh battles.",
+            "Shining Pearl": "It is said that Charizard's fire burns hotter if it has experienced harsh battles."
+        },
+        "Generation IX": {
+            "Scarlet": "If Charizard becomes truly angered, the flame at the tip of its tail burns in a light blue shade.",
+            "Violet": "It uses its wings to fly sky-high. The more experience it gains in battle, the greater the temperature at which its flames burn."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Charmeleon",
+            "Blue": "Evolve Charmeleon",
+            "Blue (Japan)": "Evolve Charmeleon",
+            "Yellow": "Evolve Charmeleon"
+        },
+        "Generation II": {
+            "Gold": "Time Capsule , Event",
+            "Silver": "Time Capsule , Event",
+            "Crystal": "Time Capsule , Event"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "Evolve Charmeleon",
+            "LeafGreen": "Evolve Charmeleon",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Charmeleon",
+            "SoulSilver": "Evolve Charmeleon",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer , Evolve Charmeleon (from Event Charmander )",
+            "White": "Poké Transfer , Evolve Charmeleon (from Event Charmander )",
+            "Black 2": "Poké Transfer , Evolve Charmeleon (from Event Charmander )",
+            "White 2": "Poké Transfer , Evolve Charmeleon (from Event Charmander )"
+        },
+        "Generation VI": {
+            "X": "Evolve Charmeleon",
+            "Y": "Evolve Charmeleon",
+            "Omega Ruby": "Trade , Event",
+            "Alpha Sapphire": "Trade , Event"
+        },
+        "Generation VII": {
+            "Sun": "Trade , Event",
+            "Moon": "Trade , Event",
+            "Ultra Sun": "Evolve Charmeleon",
+            "Ultra Moon": "Evolve Charmeleon",
+            "Let's Go Pikachu": "Routes 1 , 2 , 3 , 4 , 6 , 7 , 8 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 21 , 22 , 23 , 24 , and 25",
+            "Let's Go Eevee": "Routes 1 , 2 , 3 , 4 , 6 , 7 , 8 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 21 , 22 , 23 , 24 , and 25"
+        },
+        "Generation VIII": {
+            "Sword": "Hammerlocke Hills ( Max Raid Battle ) Lake of Outrage ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Shield": "Hammerlocke Hills ( Max Raid Battle ) Lake of Outrage ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Expansion Pass": "Fields of Honor , Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Charmeleon",
+            "Shining Pearl": "Evolve Charmeleon",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade , Poké Portal News",
+            "Violet": "Trade , Poké Portal News",
+            "The Hidden Treasure of Area Zero": "Evolve Charmeleon"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Charmeleon",
+            "to": "Charizard",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

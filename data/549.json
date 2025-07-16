@@ -1,0 +1,99 @@
+{
+    "name": "Lilligant",
+    "pokedex_number": "#0549",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Own Tempo",
+        "Chlorophyll",
+        "Hustle",
+        "Leaf Guard"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 75,
+        "Sp. Atk": 110,
+        "Sp. Def": 75,
+        "Speed": 90,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.",
+            "White": "The fragrance of the garland on its head has a relaxing effect. It withers if a Trainer does not take good care of it.",
+            "Black 2": "The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult.",
+            "White 2": "The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult."
+        },
+        "Generation VI": {
+            "X": "The fragrance of the garland on its head has a relaxing effect. It withers if a Trainer does not take good care of it.",
+            "Y": "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.",
+            "Omega Ruby": "The fragrance of the garland on its head has a relaxing effect. It withers if a Trainer does not take good care of it.",
+            "Alpha Sapphire": "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities."
+        },
+        "Generation VII": {
+            "Sun": "No matter how much time and money is spent raising it, its flowers are the most beautiful when they bloom in the wild.",
+            "Moon": "As soon as it finds a male to be its partner, the beautiful flower on its head darkens, droops, and withers away.",
+            "Ultra Sun": "The fragrance of its flower differs slightly depending on the soil where it grew up. Sniffing the aroma calms your heart and mind.",
+            "Ultra Moon": "It's well liked by other Pokémon because of its beauty. The flower on its head needs constant care, or it will soon wither and rot."
+        },
+        "Generation VIII": {
+            "Sword": "It's believed that even first-rate gardeners have a hard time getting the flower on a Lilligant's head to bloom.",
+            "Shield": "Essential oils made from Lilligant flowers have a sublime scent, but they're also staggeringly expensive.",
+            "Legends: Arceus": "I suspect that its well-developed legs are the result of a life spent on mountains covered in deep snow. The scent it exudes from its flower crown heartens those in proximity."
+        },
+        "Generation IX": {
+            "Scarlet": "The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult.",
+            "Violet": "No matter how much time and money is spent raising it, its flowers are the most beautiful when they bloom in the wild."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Petilil",
+            "White": "Pinwheel Forest (inner), Lostlorn Forest , Abundant Shrine ( rustling grass )",
+            "Black 2": "Evolve Petilil",
+            "White 2": "Pinwheel Forest (inner), Lostlorn Forest , Castelia City , Abundant Shrine , Victory Road ( rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Petilil",
+            "Y": "Evolve Petilil",
+            "Omega Ruby": "Evolve Petilil",
+            "Alpha Sapphire": "Evolve Petilil"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Evolve Petilil",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Evolve Petilil",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Soothing Wetlands , Training Lowlands , Honeycalm Island ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Crimson Mirelands : massive mass outbreaks ( Hisuian Form ) Unobtainable ( Unovan Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Four , Area Six ( Unovan Form ) West Province: Area Three ( Unovan Form ) North Province: Area Three ( Unovan Form ) Tera Raid Battles ( 4★ ) ( Unovan Form ) Transfer from Pokémon HOME or Evolve Petilil in Pokémon Legends: Arceus ( Hisuian Form )",
+            "Violet": "South Province: Area Four , Area Six ( Unovan Form ) West Province: Area Three ( Unovan Form ) North Province: Area Three ( Unovan Form ) Tera Raid Battles ( 4★ ) ( Unovan Form ) Transfer from Pokémon HOME or Evolve Petilil in Pokémon Legends: Arceus ( Hisuian Form )",
+            "The Hidden Treasure of Area Zero": "Evolve Petilil ( Unovan Form ) Evolve Petilil in Pokémon Legends: Arceus via Pokémon HOME ( Hisuian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Petilil",
+            "to": "Lilligant",
+            "method": [
+                "Use Sun Stone"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "name": "Noivern",
+    "pokedex_number": "#0715",
+    "types": [
+        "Flying",
+        "Dragon"
+    ],
+    "abilities": [
+        "Frisk",
+        "Infiltrator",
+        "Telepathy"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 70,
+        "Defense": 80,
+        "Sp. Atk": 97,
+        "Sp. Def": 80,
+        "Speed": 123,
+        "Total": 535
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark.",
+            "Y": "The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack.",
+            "Omega Ruby": "They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark.",
+            "Alpha Sapphire": "The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Although it has a violent disposition, if you give it a nice ripe fruit that it loves, Noivern will suddenly become tame.",
+            "Ultra Moon": "This hot-blooded Pokémon attacks anything it sees with ultrasonic waves that can crush boulders."
+        },
+        "Generation VIII": {
+            "Sword": "Aggressive and cruel, this Pokémon will ruthlessly torment enemies that are helpless in the dark.",
+            "Shield": "Flying through the darkness, it weakens enemies with ultrasonic waves that could crush stone. Its fangs finish the fight."
+        },
+        "Generation IX": {
+            "Scarlet": "Ultrasonic waves emitted by a Noivern can pulverize a large boulder. This Pokémon has a cruel disposition.",
+            "Violet": "In the dark, even Hydreigon are terrified of this Pokémon. But in the light, Noivern is the one that avoids battle."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Evolve Noibat",
+            "Y": "Evolve Noibat",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Resolution Cave",
+            "Ultra Moon": "Resolution Cave",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Bridge Field ( Wanderer ) Axew's Eye ( Max Raid Battle )",
+            "Shield": "Lake of Outrage Bridge Field ( Wanderer ) Axew's Eye ( Max Raid Battle )",
+            "Expansion Pass": "Ballimere Lake , Lakeside Cave Workout Sea , Honeycalm Sea , Frostpoint Field , Giant's Bed , Frigid Sea , Ballimere Lake , Dyna Tree Hill ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Area One , Area Two Tera Raid Battles ( 5★ )",
+            "Violet": "North Province: Area One , Area Two Tera Raid Battles ( 5★ )",
+            "The Hidden Treasure of Area Zero": "Evolve Noibat"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Noibat",
+            "to": "Noivern",
+            "method": [
+                "Level 48"
+            ]
+        }
+    ]
+}

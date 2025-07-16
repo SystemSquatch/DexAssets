@@ -1,0 +1,156 @@
+{
+    "name": "Paras",
+    "pokedex_number": "#0046",
+    "types": [
+        "Bug",
+        "Grass"
+    ],
+    "abilities": [
+        "Effect Spore",
+        "Dry Skin",
+        "Damp"
+    ],
+    "stats": {
+        "HP": 35,
+        "Attack": 70,
+        "Defense": 55,
+        "Sp. Atk": 45,
+        "Sp. Def": 55,
+        "Speed": 25,
+        "Total": 285
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.",
+            "Yellow": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.",
+            "Stadium": "Grows by sucking nutrients from the roots of trees. The mushrooms on its back grow by drawing extracts from the bug host."
+        },
+        "Generation II": {
+            "Gold": "It is doused with mushroom spores when it is born. As its body grows, mushrooms sprout from its back.",
+            "Silver": "As its body grows large, oriental mushrooms named tochukaso start sprouting out of its back.",
+            "Crystal": "The tochukaso growing on this Pok é mon 's back orders it to extract juice from tree trunks.",
+            "Stadium 2": "It is doused with mushroom spores when it is born. As its body grows, mushrooms sprout from its back. (Pokémon Red, Silver, or Crystal inserted) As its body grows large, oriental mushrooms called tochukaso start sprouting out of its back. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from the R /this S Bug Pok é mon host. They are highly valued as a medicine for extending life. (Version 1.0) Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this Bug / Grass Pok é mon host. They are highly valued as a medicine for extending life. (Versions 1.1 and 1.2)",
+            "Sapphire": "Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from the R /this S Bug Pok é mon host. They are highly valued as a medicine for extending life. (Version 1.0) Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this Bug / Grass Pok é mon host. They are highly valued as a medicine for extending life. (Versions 1.1 and 1.2)",
+            "Emerald": "A Paras has parasitic tochukaso mushrooms growing on its back. They grow by drawing nutrients from the host. They are valued as a medicine for long life.",
+            "FireRed": "Growing out of the bug's back are mushrooms called tochukaso. The mushrooms grow with the bug host.",
+            "LeafGreen": "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host."
+        },
+        "Generation IV": {
+            "Diamond": "Mushrooms named tochukaso grow on its back. They grow along with the host Paras .",
+            "Pearl": "Mushrooms named tochukaso grow on its back. They grow along with the host Paras .",
+            "Platinum": "Mushrooms named tochukaso grow on its back. They grow along with the host Paras .",
+            "HeartGold": "It is doused with mushroom spores when it is born. As its body grows, mushrooms sprout from its back.",
+            "SoulSilver": "As its body grows, large mushrooms named tochukaso start sprouting out of its back."
+        },
+        "Generation V": {
+            "Black": "Mushrooms named tochukaso grow on its back. They grow along with the host Paras.",
+            "White": "Mushrooms named tochukaso grow on its back. They grow along with the host Paras.",
+            "Black 2": "Mushrooms named tochukaso grow on its back. They grow along with the host Paras.",
+            "White 2": "Mushrooms named tochukaso grow on its back. They grow along with the host Paras."
+        },
+        "Generation VI": {
+            "X": "Growing out of the bug's back are mushrooms called tochukaso. The mushrooms grow with the bug host.",
+            "Y": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.",
+            "Omega Ruby": "Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this Bug Pokémon host. They are highly valued as a medicine for extending life. (matches Pokémon Sapphire version 1.0)",
+            "Alpha Sapphire": "Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this Bug Pokémon host. They are highly valued as a medicine for extending life. (matches Pokémon Sapphire version 1.0)"
+        },
+        "Generation VII": {
+            "Sun": "No matter how much it eats, the mushrooms growing on its back steal away most of the nutrients it consumes.",
+            "Moon": "Mushrooms called tochukaso sprout from its back. They can be dried and powdered to make a medicine used to extend life.",
+            "Ultra Sun": "Whether it's due to a lack of moisture or a lack of nutrients, in Alola the mushrooms on Paras don't grow up quite right.",
+            "Ultra Moon": "The mushrooms, known as tochukaso, are controlling the bug. Even if the bug bugs the mushrooms, they tell it to bug off.",
+            "Let's Go Pikachu": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.",
+            "Let's Go Eevee": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Mushrooms named tochukaso grow on its back. They grow along with the host Paras.",
+            "Shining Pearl": "Mushrooms named tochukaso grow on its back. They grow along with the host Paras.",
+            "Legends: Arceus": "Sometimes seen at the foot of trees in humid forests. The mushrooms on its back—called tochukaso—are not present on infant specimens and instead emerge as Paras matures."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Mt. Moon , Safari Zone",
+            "Blue": "Mt. Moon , Safari Zone",
+            "Blue (Japan)": "Mt. Moon , Safari Zone",
+            "Yellow": "Mt. Moon , Safari Zone"
+        },
+        "Generation II": {
+            "Gold": "National Park ( Bug-Catching Contest ) Tu Th Sa Ilex Forest , Mt. Moon",
+            "Silver": "National Park ( Bug-Catching Contest ) Tu Th Sa Ilex Forest , Mt. Moon",
+            "Crystal": "National Park ( Bug-Catching Contest ) Tu Th Sa Ilex Forest , Mt. Moon"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Mt. Moon , Safari Zone",
+            "LeafGreen": "Mt. Moon , Safari Zone",
+            "Colosseum": "Trade",
+            "XD": "Cipher Key Lair (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Great Marsh (After obtaining the National Pokédex )",
+            "Pearl": "Great Marsh (After obtaining the National Pokédex )",
+            "Platinum": "Great Marsh (After obtaining the National Pokédex )",
+            "HeartGold": "National Park ( Bug-Catching Contest ) Tu Th Sa Ilex Forest , Mt. Moon Safari Zone (Peak with 3 Forest points; tall grass in Swamp, default Morning Day )",
+            "SoulSilver": "National Park ( Bug-Catching Contest ) Tu Th Sa Ilex Forest , Mt. Moon Safari Zone (Peak with 3 Forest points; tall grass in Swamp, default Morning Day )",
+            "Pal Park": "Forest",
+            "Pokéwalker": "Noisy Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Route 11 ( Swarm )",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Bug )",
+            "Y": "Friend Safari ( Bug )",
+            "Omega Ruby": "Petalburg Woods ( hidden Pokémon * )",
+            "Alpha Sapphire": "Petalburg Woods ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Route 11 , Brooklet Hill , Lush Jungle Day",
+            "Moon": "Route 11 , Brooklet Hill , Lush Jungle Day",
+            "Ultra Sun": "Brooklet Hill , Lush Jungle Day",
+            "Ultra Moon": "Brooklet Hill , Lush Jungle Day",
+            "Let's Go Pikachu": "Mt. Moon",
+            "Let's Go Eevee": "Mt. Moon"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Great Marsh (After obtaining the National Pokédex ) Grand Underground - Grassland Cave , Sunlit Cavern , Swampy Cave , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Great Marsh (After obtaining the National Pokédex ) Grand Underground - Grassland Cave , Sunlit Cavern , Swampy Cave , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Obsidian Fieldlands : Nature's Pantry , massive mass outbreaks Crimson Mirelands : Golden Lowlands , near Ursa's Ring , near Cloudpool Ridge , Diamond Heath , near Cottonsedge Prairie , Droning Meadow , massive mass outbreaks Cobalt Coastlands : near Windbreak Stand Coronet Highlands : Heavenward Lookout , Wayward Wood"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Paras",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Paras",
+            "to": "Parasect",
+            "method": [
+                "Level 24"
+            ]
+        }
+    ]
+}

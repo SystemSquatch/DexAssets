@@ -1,0 +1,81 @@
+{
+    "name": "Froakie",
+    "pokedex_number": "#0656",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Protean"
+    ],
+    "stats": {
+        "HP": 41,
+        "Attack": 56,
+        "Defense": 40,
+        "Sp. Atk": 62,
+        "Sp. Def": 44,
+        "Speed": 71,
+        "Total": 314
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+            "Y": "It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings.",
+            "Omega Ruby": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+            "Alpha Sapphire": "It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "Its happy-go-lucky look is an act intended to fool its enemies. It will suddenly drop the facade and overwhelm its foes with its blinding speed.",
+            "Violet": "It utilizes its extraordinary jumping abilities to flummox its foes, throwing springy bubbles at them from above their heads."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "First partner Pokémon from Tierno in Aquacorde Town Traded from Shauna in Vaniville Town after becoming Champion if the player chose Chespin",
+            "Y": "First partner Pokémon from Tierno in Aquacorde Town Traded from Shauna in Vaniville Town after becoming Champion if the player chose Chespin",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Greninja",
+            "Ultra Moon": "Breed Greninja",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Coastal Biome (after boosting biodiversity in the Coastal Biome)"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Froakie",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Froakie",
+            "to": "Frogadier",
+            "method": [
+                "Level 16"
+            ]
+        }
+    ]
+}

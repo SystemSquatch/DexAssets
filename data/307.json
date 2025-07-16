@@ -1,0 +1,128 @@
+{
+    "name": "Meditite",
+    "pokedex_number": "#0307",
+    "types": [
+        "Fighting",
+        "Psychic"
+    ],
+    "abilities": [
+        "Pure Power",
+        "Telepathy"
+    ],
+    "stats": {
+        "HP": 30,
+        "Attack": 40,
+        "Defense": 55,
+        "Sp. Atk": 40,
+        "Sp. Def": 55,
+        "Speed": 60,
+        "Total": 280
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Meditite undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this Pok é mon always loses its concentration and focus. As a result, its training never ends.",
+            "Sapphire": "Meditite heightens its inner energy through meditation. It survives on just one berry a day. Minimal eating is another aspect of this Pok é mon 's training.",
+            "Emerald": "It continually meditates for hours every day. As a result of rigorous and dedicated yoga training, it has tempered its spiritual power so much it can fly.",
+            "FireRed": "It never skips its daily yoga training. It heightens its inner strength through meditation.",
+            "LeafGreen": "It never skips its daily yoga training. It heightens its inner strength through meditation."
+        },
+        "Generation IV": {
+            "Diamond": "It eats just one berry a day. By enduring hunger, its spirit is tempered and made sharper.",
+            "Pearl": "It never misses its daily yoga workouts, and it heightens its spiritual power through meditation.",
+            "Platinum": "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.",
+            "HeartGold": "It meditates to heighten its inner energy and to float in the air. It eats one berry a day.",
+            "SoulSilver": "It meditates to heighten its inner energy and to float in the air. It eats one berry a day."
+        },
+        "Generation V": {
+            "Black": "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.",
+            "White": "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.",
+            "Black 2": "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.",
+            "White 2": "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation."
+        },
+        "Generation VI": {
+            "X": "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.",
+            "Y": "It eats just one berry a day. By enduring hunger, its spirit is tempered and made sharper.",
+            "Omega Ruby": "Meditite undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this Pokémon always loses its concentration and focus. As a result, its training never ends.",
+            "Alpha Sapphire": "Meditite heightens its inner energy through meditation. It survives on just one berry a day. Minimal eating is another aspect of this Pokémon's training."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It meditates in order to build up its mental energy. It's said to eat just one Berry a day.",
+            "Shining Pearl": "It never misses its daily yoga workouts, and it heightens its spiritual power through meditation."
+        },
+        "Generation IX": {
+            "Scarlet": "It never skips its daily yoga training. It heightens its inner strength through meditation.",
+            "Violet": "It meditates to heighten its inner energy and to float in the air. It eats one berry a day."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Mt. Pyre , Victory Road",
+            "Sapphire": "Mt. Pyre , Victory Road",
+            "Emerald": "Trade , Event",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Pyrite Cave (Shadow)",
+            "XD": "Trade Trapinch to Duking in Pyrite Town"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 208 , 210 , 211 , 216 , and 217 , Acuity Lakefront , Mt. Coronet",
+            "Pearl": "Routes 208 , 210 , 211 , 216 , and 217 , Acuity Lakefront , Mt. Coronet",
+            "Platinum": "Routes 210 , 211 , 216 , Mt. Coronet",
+            "HeartGold": "Safari Zone (Mountain with 20 Forest points) Sprout Tower , Bell Tower , Burned Tower (Sinnoh Sound)",
+            "SoulSilver": "Safari Zone (Mountain with 20 Forest points) Sprout Tower , Bell Tower , Burned Tower (Sinnoh Sound)",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Volcano Path"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Breed Medicham",
+            "White 2": "Breed Medicham",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Connecting Cave , Friend Safari ( Fighting )",
+            "Y": "Connecting Cave , Friend Safari ( Fighting )",
+            "Omega Ruby": "Mt. Pyre",
+            "Alpha Sapphire": "Mt. Pyre"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Medicham",
+            "Ultra Moon": "Breed Medicham",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 208 , 210 , 211 , 216 , and 217 , Acuity Lakefront , Mount Coronet Grand Underground - Dazzling Cave , Stargleam Cavern , Whiteout Cave (After defeating Candice )",
+            "Shining Pearl": "Routes 208 , 210 , 211 , 216 , and 217 , Acuity Lakefront , Mount Coronet Grand Underground - Dazzling Cave , Stargleam Cavern , Whiteout Cave (After defeating Candice )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Four , Area Six , Alfornada Cavern West Province: Area Two Area Zero Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Area Four , Area Six , Alfornada Cavern West Province: Area Two Area Zero Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Meditite",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Meditite",
+            "to": "Medicham",
+            "method": [
+                "Level 37"
+            ]
+        }
+    ]
+}

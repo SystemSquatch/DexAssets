@@ -1,0 +1,36 @@
+{
+    "name": "Cyclizar",
+    "pokedex_number": "#0967",
+    "types": [
+        "Dragon",
+        "Normal"
+    ],
+    "abilities": [
+        "Shed Skin",
+        "Regenerator"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 95,
+        "Defense": 65,
+        "Sp. Atk": 85,
+        "Sp. Def": 65,
+        "Speed": 121,
+        "Total": 501
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
+            "Violet": "It can sprint at over 70 mph while carrying a human. The rider's body heat warms Cyclizar's back and lifts the Pokémon's spirit."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "East Province: Area One , Area Two West Province: Area One , Area Two , Area Three West Province: Asado Desert ( Flying Tera Type ) Tera Raid Battles ( 4★ , 6★ )",
+            "Violet": "East Province: Area One , Area Two West Province: Area One , Area Two , Area Three West Province: Asado Desert ( Flying Tera Type ) Tera Raid Battles ( 4★ , 6★ )"
+        }
+    },
+    "evolution": []
+}

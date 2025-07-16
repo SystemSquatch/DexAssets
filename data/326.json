@@ -1,0 +1,121 @@
+{
+    "name": "Grumpig",
+    "pokedex_number": "#0326",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Thick Fat",
+        "Own Tempo",
+        "Gluttony"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 45,
+        "Defense": 65,
+        "Sp. Atk": 90,
+        "Sp. Def": 110,
+        "Speed": 80,
+        "Total": 470
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Grumpig uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this Pok é mon uses its special power, its snorting breath grows labored.",
+            "Sapphire": "Grumpig uses the black pearls on its body to wield its fantastic powers. When it is doing so, it dances bizarrely. This Pok é mon 's black pearls are valuable as works of art.",
+            "Emerald": "It stores power in the black pearls on its forehead. When it uses psychic power, it performs an odd dance step. Its style of dancing became hugely popular overseas.",
+            "FireRed": "It can gain control over foes by doing odd dance steps. The black pearls on its forehead are precious gems.",
+            "LeafGreen": "It can gain control over foes by doing odd dance steps. The black pearls on its forehead are precious gems."
+        },
+        "Generation IV": {
+            "Diamond": "It uses black pearls to amplify its psycho-power. It does an odd dance to gain control over foes.",
+            "Pearl": "It uses black pearls to amplify its psycho-power. It does an odd dance to gain control over foes.",
+            "Platinum": "It uses black pearls to amplify its psycho-power. It does an odd dance to gain control over foes.",
+            "HeartGold": "It can perform odd dance steps to influence foes. Its style of dancing became hugely popular overseas.",
+            "SoulSilver": "It can perform odd dance steps to influence foes. Its style of dancing became hugely popular overseas."
+        },
+        "Generation V": {
+            "Black": "It uses black pearls to amplify its psycho-power. It does an odd dance to gain control over foes.",
+            "White": "It uses black pearls to amplify its psycho-power. It does an odd dance to gain control over foes.",
+            "Black 2": "It uses black pearls to amplify its psychic power. It does a strange dance to control foes' minds.",
+            "White 2": "It uses black pearls to amplify its psychic power. It does a strange dance to control foes' minds."
+        },
+        "Generation VI": {
+            "X": "It uses black pearls to amplify its psychic power. It does a strange dance to control foes' minds.",
+            "Y": "It uses black pearls to amplify its psychic power. It does an odd dance to gain control over foes.",
+            "Omega Ruby": "Grumpig uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this Pokémon uses its special power, its snorting breath grows labored.",
+            "Alpha Sapphire": "Grumpig uses the black pearls on its body to wield its fantastic powers. When it is doing so, it dances bizarrely. This Pokémon's black pearls are valuable as works of art."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It uses black pearls to amplify its psychic power. It does an odd dance to gain control over foes.",
+            "Shining Pearl": "It uses black pearls to amplify its psychic power. It does an odd dance to gain control over foes."
+        },
+        "Generation IX": {
+            "Scarlet": "It can perform odd dance steps to influence foes. Its style of dancing became hugely popular overseas.",
+            "Violet": "It uses black pearls to amplify its psychic power. It does a strange dance to control foes' minds."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Spoink",
+            "Sapphire": "Evolve Spoink",
+            "Emerald": "Evolve Spoink",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Spoink",
+            "Pearl": "Evolve Spoink",
+            "Platinum": "Evolve Spoink",
+            "HeartGold": "Evolve Spoink",
+            "SoulSilver": "Evolve Spoink",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Reversal Mountain",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Psychic )",
+            "Y": "Friend Safari ( Psychic )",
+            "Omega Ruby": "Evolve Spoink",
+            "Alpha Sapphire": "Evolve Spoink"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Rocky World )",
+            "Ultra Moon": "Ultra Space Wilds ( Rocky World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Spoink",
+            "Shining Pearl": "Evolve Spoink",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Four North Province: Area One , Area Two , Dalizapa Passage Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Area Four North Province: Area One , Area Two , Dalizapa Passage Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero": "Evolve Spoink"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Spoink",
+            "to": "Grumpig",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

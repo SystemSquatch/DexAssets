@@ -1,0 +1,132 @@
+{
+    "name": "Duskull",
+    "pokedex_number": "#0355",
+    "types": [
+        "Ghost",
+        "Unknown"
+    ],
+    "abilities": [
+        "Levitate",
+        "Frisk"
+    ],
+    "stats": {
+        "HP": 20,
+        "Attack": 40,
+        "Defense": 90,
+        "Sp. Atk": 30,
+        "Sp. Def": 90,
+        "Speed": 25,
+        "Total": 295
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Duskull can pass through any wall no matter how thick it may be. Once this Pok é mon chooses a target, it will doggedly pursue the intended victim until the break of dawn.",
+            "Sapphire": "Duskull wanders lost among the deep darkness of midnight. There is an oft-told admonishment given to misbehaving children that this Pok é mon will spirit away bad children who earn scoldings from their mothers.",
+            "Emerald": "A glare from its single scarlet eye makes even burly grown-ups freeze in utter fear. It is a nocturnal Pok é mon that roams about under the cloak of darkness.",
+            "FireRed": "Making itself invisible, it silently sneaks up to prey. It has the ability to slip through thick walls.",
+            "LeafGreen": "Making itself invisible, it silently sneaks up to prey. It has the ability to slip through thick walls."
+        },
+        "Generation IV": {
+            "Diamond": "It doggedly pursues its prey wherever it goes. However, the chase is abandoned at sunrise.",
+            "Pearl": "It doggedly pursues its prey wherever it goes. However, the chase is abandoned at sunrise.",
+            "Platinum": "It loves the crying of children. It startles bad kids by passing through walls and making them cry.",
+            "HeartGold": "If it finds bad children who won't listen to their parents, it will spirit them away--or so it's said.",
+            "SoulSilver": "If it finds bad children who won't listen to their parents, it will spirit them away--or so it's said."
+        },
+        "Generation V": {
+            "Black": "It loves the crying of children. It startles bad kids by passing through walls and making them cry.",
+            "White": "It loves the crying of children. It startles bad kids by passing through walls and making them cry.",
+            "Black 2": "It loves the crying of children. It startles bad kids by passing through walls and making them cry.",
+            "White 2": "It loves the crying of children. It startles bad kids by passing through walls and making them cry."
+        },
+        "Generation VI": {
+            "X": "It doggedly pursues its prey wherever it goes. However, the chase is abandoned at sunrise.",
+            "Y": "If it finds bad children who won't listen to their parents, it will spirit them away--or so it's said.",
+            "Omega Ruby": "Duskull can pass through any wall no matter how thick it may be. Once this Pokémon chooses a target, it will doggedly pursue the intended victim until the break of dawn.",
+            "Alpha Sapphire": "Duskull wanders lost among the deep darkness of midnight. There is an oft-told admonishment given to misbehaving children that this Pokémon will spirit away bad children who earn scoldings from their mothers."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "If it finds bad children who won't listen to their parents, it will spirit them away—or so it's said.",
+            "Shield": "Making itself invisible, it silently sneaks up to prey. It has the ability to slip through thick walls.",
+            "Brilliant Diamond": "It doggedly pursues its prey wherever the prey goes. However, the chase is abandoned at sunrise.",
+            "Shining Pearl": "It doggedly pursues its prey wherever the prey goes. However, the chase is abandoned at sunrise.",
+            "Legends: Arceus": "I've heard that the children of Hisui all begin to behave once they've been told the story of how this Pokémon roams about before the witching hour to spirit away misbehaving children."
+        },
+        "Generation IX": {
+            "Scarlet": "In the dead of night, these Pokémon wander through towns in search of children, whose vital energy is a Duskull's favorite food.",
+            "Violet": "Duskull's victims suffer an intense chill as the Pokémon siphons their life-force away, glaring at them with its bright red eye all the while."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Routes 121 and 123 , Mt. Pyre",
+            "Sapphire": "Mt. Pyre",
+            "Emerald": "Mt. Pyre",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "ONBS (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Route 224 ( Poké Radar )",
+            "Pearl": "Route 224 ( Poké Radar )",
+            "Platinum": "Route 209 , Lost Tower , Turnback Cave",
+            "HeartGold": "Safari Zone (tall grass in Swamp with 28 Peak points; Surfing in Swamp with 35 Waterside points)",
+            "SoulSilver": "Safari Zone (tall grass in Swamp with 28 Peak points; Surfing in Swamp with 35 Waterside points)",
+            "Pal Park": "Forest",
+            "Pokéwalker": "Winner's Path"
+        },
+        "Generation V": {
+            "Black": "Dream World or Poké Transfer",
+            "White": "Dream World or Poké Transfer",
+            "Black 2": "Dream World or Poké Transfer",
+            "White 2": "Dream World or Poké Transfer",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Breed Dusclops",
+            "Y": "Breed Dusclops",
+            "Omega Ruby": "Mt. Pyre",
+            "Alpha Sapphire": "Mt. Pyre"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 6 , Watchtower Ruins , Giant's Seat , Giant's Mirror , Giant's Cap , Motostoke Riverbank , Dusty Bowl Giant's Mirror , South Lake Miloch , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Shield": "Route 6 , Watchtower Ruins , Giant's Seat , Giant's Mirror , Giant's Cap , Motostoke Riverbank , Dusty Bowl Giant's Mirror , South Lake Miloch , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 224 ( Poké Radar ) Grand Underground - Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 224 ( Poké Radar ) Grand Underground - Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Cobalt Coastlands : Deadwood Haunt Night Coronet Highlands : massive mass outbreaks Alabaster Icelands : Icebound Falls Night and nearby (also mass outbreaks Day Night ), Arena's Approach Night , Avalanche Slopes , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Oni Mountain , Infernal Pass , Crystal Pool , Chilling Waterhead , Kitakami Wilds , Timeless Woods Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Duskull",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Duskull",
+            "to": "Dusclops",
+            "method": [
+                "Level 37"
+            ]
+        }
+    ]
+}

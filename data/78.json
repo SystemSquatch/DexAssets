@@ -1,0 +1,149 @@
+{
+    "name": "Rapidash",
+    "pokedex_number": "#0078",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Run Away",
+        "Flash Fire",
+        "Run Away",
+        "Pastel Veil",
+        "Flame Body",
+        "Anticipation"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 100,
+        "Defense": 70,
+        "Sp. Atk": 80,
+        "Sp. Def": 80,
+        "Speed": 105,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Very competitive, this Pok é mon will chase anything that moves fast in the hopes of racing it.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Very competitive, this Pok é mon will chase anything that moves fast in the hopes of racing it.",
+            "Yellow": "Just loves to run. If it sees something faster than itself, it will give chase at top speed.",
+            "Stadium": "Unable to restrain itself from running after fast trains or cars. Capable of reaching 150 mph at full speed."
+        },
+        "Generation II": {
+            "Gold": "At full gallop, its four hooves barely touch the ground because it moves so incredibly fast.",
+            "Silver": "With incredible acceleration, it reaches its top speed of 150 mph after running just ten steps.",
+            "Crystal": "It just loves to gallop. The faster it goes, the longer the swaying flames of its mane will become.",
+            "Stadium 2": "At full gallop, its four hooves barely touch the ground because it moves so incredibly fast. (Pokémon Red, Silver, or Crystal inserted) With incredible acceleration, it reaches its top speed of 150 mph after running just ten steps. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pok é mon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph .",
+            "Sapphire": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pok é mon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph .",
+            "Emerald": "It usually canters casually in the fields and plains. But once a Rapidash turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph .",
+            "FireRed": "It can gallop at a top speed of 150 miles per hour . It can race as fast as a bullet train while ablaze.",
+            "LeafGreen": "Very competitive, this Pok é mon will chase anything that moves fast in the hopes of racing it."
+        },
+        "Generation IV": {
+            "Diamond": "It gallops at nearly 150 mph . With its mane blazing ferociously, it races as if it were an arrow.",
+            "Pearl": "It has astounding acceleration. From a standstill, it can reach top speed within 10 steps.",
+            "Platinum": "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.",
+            "HeartGold": "At full gallop, its four hooves barely touch the ground because it moves so incredibly fast.",
+            "SoulSilver": "With incredible acceleration, it reaches its top speed of 150 mph after running just 10 steps."
+        },
+        "Generation V": {
+            "Black": "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.",
+            "White": "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.",
+            "Black 2": "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.",
+            "White 2": "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance."
+        },
+        "Generation VI": {
+            "X": "Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it.",
+            "Y": "It gallops at nearly 150 mph . With its mane blazing ferociously, it races as if it were an arrow.",
+            "Omega Ruby": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph .",
+            "Alpha Sapphire": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph ."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Just loves to run. If it sees something faster than itself, it will give chase at top speed.",
+            "Let's Go Eevee": "Just loves to run. If it sees something faster than itself, it will give chase at top speed."
+        },
+        "Generation VIII": {
+            "Sword": "Little can stand up to its psycho cut . Unleashed from this Pokémon's horn, the move will punch a hole right through a thick metal sheet.",
+            "Shield": "Brave and prideful, this Pokémon dashes airily through the forest, its steps aided by the psychic power stored in the fur on its fetlocks.",
+            "Brilliant Diamond": "It gallops at nearly 150 mph . With its mane blazing ferociously, it races as if it were an arrow.",
+            "Shining Pearl": "It has astounding acceleration. From a standstill, it can reach top speed within 10 steps.",
+            "Legends: Arceus": "Fiery mane aglow, Rapidash darts like an arrow across the land. This prodigiously swift creature can traverse the vast region of Hisui in a day and a half."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Ponyta",
+            "Blue": "Evolve Ponyta",
+            "Blue (Japan)": "Cerulean Cave",
+            "Yellow": "Evolve Ponyta"
+        },
+        "Generation II": {
+            "Gold": "Route 28 , Mt. Silver Trade Gloom in Pewter City",
+            "Silver": "Route 28 , Mt. Silver Trade Gloom in Pewter City",
+            "Crystal": "Route 28 , Mt. Silver Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Kindle Road , Mt. Ember",
+            "LeafGreen": "Kindle Road , Mt. Ember",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Ponyta",
+            "Pearl": "Evolve Ponyta",
+            "Platinum": "Evolve Ponyta",
+            "HeartGold": "Route 28 , Mt. Silver",
+            "SoulSilver": "Route 28 , Mt. Silver",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Route 12",
+            "White": "Route 12",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Ponyta",
+            "Y": "Evolve Ponyta",
+            "Omega Ruby": "Evolve Ponyta",
+            "Alpha Sapphire": "Evolve Ponyta"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Route 17",
+            "Let's Go Eevee": "Route 17"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+ , Wild Area News ( Kantonian Form ) Trade , Wild Area News ( Galarian Form )",
+            "Shield": "Trade Version 1.2.0+ , Wild Area News ( Kantonian Form ) Bridge Field , Hammerlocke Hills , Lake of Outrage , Rolling Fields ( Max Raid Battle ) ( Galarian Form )",
+            "Shield Expansion Pass": "Evolve Ponyta ( Kantonian Form ) Old Cemetery ( Wanderer ) ( Galarian Form ) Snowslide Slope , Path to the Peak , Giant's Bed , Ballimere Lake ( Max Raid Battle ) ( Galarian Form )",
+            "Brilliant Diamond": "Evolve Ponyta ( Kantonian Form ) Unobtainable ( Galarian Form )",
+            "Shining Pearl": "Evolve Ponyta ( Kantonian Form ) Unobtainable ( Galarian Form )",
+            "Legends: Arceus": "Obsidian Fieldlands : Horseshoe Plains (also mass outbreaks ), massive mass outbreaks ( Kantonian Form ) Coronet Highlands : massive mass outbreaks ( Kantonian Form ) Unobtainable ( Galarian Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Ponyta",
+            "to": "Rapidash",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

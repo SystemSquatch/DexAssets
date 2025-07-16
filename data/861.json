@@ -1,0 +1,58 @@
+{
+    "name": "Grimmsnarl",
+    "pokedex_number": "#0861",
+    "types": [
+        "Dark",
+        "Fairy"
+    ],
+    "abilities": [
+        "Prankster",
+        "Frisk",
+        "Pickpocket"
+    ],
+    "stats": {
+        "HP": 95,
+        "Attack": 120,
+        "Defense": 65,
+        "Sp. Atk": 95,
+        "Sp. Def": 75,
+        "Speed": 60,
+        "Total": 510
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "With the hair wrapped around its body helping to enhance its muscles, this Pokémon can overwhelm even Machamp .",
+            "Shield": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon has complete control over its hair. Grimmsnarl normally keeps its hair wrapped around its body to support its muscles.",
+            "Violet": "It lives deep within the forest. Even after evolving into this splendid form, it hasn't given up on its petty misdeeds and pranks."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Stony Wilderness ( Wanderer ) Bridge Field , Dusty Bowl , Giant's Mirror , Hammerlocke Hills , Lake of Outrage , Rolling Fields ( Max Raid Battle ) Dusty Bowl ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Shield": "Lake of Outrage Stony Wilderness ( Wanderer ) Bridge Field , Dusty Bowl , Giant's Mirror , Hammerlocke Hills , Lake of Outrage , Rolling Fields ( Max Raid Battle ) Dusty Bowl ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Expansion Pass": "Slippery Slope , Giant's Bed , Snowslide Slope ( Wanderer ) Frostpoint Field , Giant's Bed , Snowslide Slope , Giant's Foot , Frigid Sea ( Max Raid Battle ) ( Gigantamax Factor ) Max Lair ( Dynamax Adventure ) ( Gigantamax Factor )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 5★ )",
+            "Violet": "Tera Raid Battles ( 5★ )",
+            "The Hidden Treasure of Area Zero": "Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Morgrem",
+            "to": "Grimmsnarl",
+            "method": [
+                "Level 42"
+            ]
+        }
+    ]
+}

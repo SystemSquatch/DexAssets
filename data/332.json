@@ -1,0 +1,119 @@
+{
+    "name": "Cacturne",
+    "pokedex_number": "#0332",
+    "types": [
+        "Grass",
+        "Dark"
+    ],
+    "abilities": [
+        "Sand Veil",
+        "Water Absorb"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 115,
+        "Defense": 60,
+        "Sp. Atk": 115,
+        "Sp. Def": 60,
+        "Speed": 55,
+        "Total": 475
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "During the daytime, Cacturne remains unmoving so that it does not lose any moisture to the harsh desert sun. This Pok é mon becomes active at night when the temperature drops.",
+            "Sapphire": "If a traveler is going through a desert in the thick of night, Cacturne will follow in a ragtag group. The Pok é mon are biding their time, waiting for the traveler to tire and become incapable of moving.",
+            "Emerald": "After spending thousands of years in harsh deserts, its blood transformed into the same substances as sand. It is nocturnal, so it hunts at night.",
+            "FireRed": "It lives in deserts. It becomes active at night when it hunts for prey exhausted from the desert's heat.",
+            "LeafGreen": "It lives in deserts. It becomes active at night when it hunts for prey exhausted from the desert's heat."
+        },
+        "Generation IV": {
+            "Diamond": "It becomes active at night, seeking prey that is exhausted from the day's desert heat.",
+            "Pearl": "It becomes active at night, seeking prey that is exhausted from the day's desert heat.",
+            "Platinum": "It becomes active at night, seeking prey that is exhausted from the day's desert heat.",
+            "HeartGold": "Packs of them follow travelers through the desert until the travelers can no longer move.",
+            "SoulSilver": "Packs of them follow travelers through the desert until the travelers can no longer move."
+        },
+        "Generation V": {
+            "Black": "It becomes active at night, seeking prey that is exhausted from the day's desert heat.",
+            "White": "It becomes active at night, seeking prey that is exhausted from the day's desert heat.",
+            "Black 2": "It becomes active at night, seeking prey that is exhausted from the day's desert heat.",
+            "White 2": "It becomes active at night, seeking prey that is exhausted from the day's desert heat."
+        },
+        "Generation VI": {
+            "X": "It becomes active at night, seeking prey that is exhausted from the day's desert heat.",
+            "Y": "Packs of them follow travelers through the desert until the travelers can no longer move.",
+            "Omega Ruby": "During the daytime, Cacturne remains unmoving so that it does not lose any moisture to the harsh desert sun. This Pokémon becomes active at night when the temperature drops.",
+            "Alpha Sapphire": "If a traveler is going through a desert in the thick of night, Cacturne will follow in a ragtag group. The Pokémon are biding their time, waiting for the traveler to tire and become incapable of moving."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It becomes active at night, seeking prey that is exhausted from the day's desert heat.",
+            "Shining Pearl": "It becomes active at night, seeking prey that is exhausted from the day's desert heat."
+        },
+        "Generation IX": {
+            "Scarlet": "Packs of them follow travelers through the desert until the travelers can no longer move.",
+            "Violet": "It lives in deserts. It becomes active at night when it hunts for prey exhausted from the desert's heat."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Cacnea",
+            "Sapphire": "Evolve Cacnea",
+            "Emerald": "Evolve Cacnea",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 228",
+            "Pearl": "Route 228",
+            "Platinum": "Route 228",
+            "HeartGold": "Safari Zone (Desert with 42 Waterside points; Savannah with 35 Forest points)",
+            "SoulSilver": "Safari Zone (Desert with 42 Waterside points; Savannah with 35 Forest points)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Reversal Mountain ( Swarm )",
+            "White 2": "Reversal Mountain ( Swarm )"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Dark )",
+            "Y": "Friend Safari ( Dark )",
+            "Omega Ruby": "Evolve Cacnea",
+            "Alpha Sapphire": "Evolve Cacnea"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 228 Grand Underground - Grassland Cave , Sunlit Cavern , Swampy Cave , Rocky Cave , Big Bluff Cavern , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 228 Grand Underground - Grassland Cave , Sunlit Cavern , Swampy Cave , Rocky Cave , Big Bluff Cavern , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Asado Desert Tera Raid Battles ( 4★ )",
+            "Violet": "West Province: Asado Desert Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Cacnea",
+            "to": "Cacturne",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

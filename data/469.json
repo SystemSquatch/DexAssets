@@ -1,0 +1,105 @@
+{
+    "name": "Yanmega",
+    "pokedex_number": "#0469",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "abilities": [
+        "Speed Boost",
+        "Tinted Lens",
+        "Frisk"
+    ],
+    "stats": {
+        "HP": 86,
+        "Attack": 76,
+        "Defense": 86,
+        "Sp. Atk": 116,
+        "Sp. Def": 56,
+        "Speed": 95,
+        "Total": 515
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
+            "Pearl": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
+            "Platinum": "Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed.",
+            "HeartGold": "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
+            "SoulSilver": "The beat of its wings is so powerful that it accidentally dislodges full-grown trees when it takes off in flight."
+        },
+        "Generation V": {
+            "Black": "Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed.",
+            "White": "Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed.",
+            "Black 2": "It prefers to battle by biting apart foes' heads instantly while flying by at high speed.",
+            "White 2": "It prefers to battle by biting apart foes' heads instantly while flying by at high speed."
+        },
+        "Generation VI": {
+            "X": "It prefers to battle by biting apart foes' heads instantly while flying by at high speed.",
+            "Y": "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
+            "Omega Ruby": "It prefers to battle by biting apart foes' heads instantly while flying by at high speed.",
+            "Alpha Sapphire": "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
+            "Shining Pearl": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
+            "Legends: Arceus": "Extremely violent. When hunting, it wastes none of its energy, aiming only for prey's most vulnerable spots. Any who manage to tame this Pokémon must be of incredible bravery."
+        },
+        "Generation IX": {
+            "Scarlet": "Yanmega's wingbeats are so powerful that the Pokémon blows down huge trees nearby when it vigorously launches itself into flight.",
+            "Violet": "Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Yanma",
+            "Pearl": "Evolve Yanma",
+            "Platinum": "Evolve Yanma",
+            "HeartGold": "Evolve Yanma",
+            "SoulSilver": "Evolve Yanma"
+        },
+        "Generation V": {
+            "Black": "Evolve Yanma",
+            "White": "Evolve Yanma",
+            "Black 2": "Route 3 , Pinwheel Forest (outer) ( rustling grass )",
+            "White 2": "Route 3 , Pinwheel Forest (outer) ( rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Yanma",
+            "Y": "Evolve Yanma",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Cliff World )",
+            "Ultra Moon": "Ultra Space Wilds ( Cliff World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Yanma",
+            "Shining Pearl": "Evolve Yanma",
+            "Legends: Arceus": "Crimson Mirelands : Gapejaw Bog ( mass outbreaks ), Droning Meadow , massive mass outbreaks Coronet Highlands : Heavenward Lookout Day (also mass outbreaks Day Night ), massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Yanma",
+            "to": "Yanmega",
+            "method": [
+                "Level up (knowing Ancient Power)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "name": "Cascoon",
+    "pokedex_number": "#0268",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Shed Skin"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 35,
+        "Defense": 55,
+        "Sp. Atk": 25,
+        "Sp. Def": 25,
+        "Speed": 15,
+        "Total": 205
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Cascoon makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This Pok é mon prepares for its evolution inside the cocoon.",
+            "Sapphire": "If it is attacked, Cascoon remains motionless however badly it may be hurt. It does so because if it were to move, its body would be weak upon evolution. This Pok é mon will also not forget the pain it endured.",
+            "Emerald": "To avoid detection by its enemies, it hides motionlessly beneath large leaves and in the gaps of branches. It also attaches dead leaves to its body for camouflage.",
+            "FireRed": "Its body, which is made of soft silk, hardens over time. When cracks appear, evolution is near.",
+            "LeafGreen": "Its body, which is made of soft silk, hardens over time. When cracks appear, evolution is near."
+        },
+        "Generation IV": {
+            "Diamond": "It is hot inside its cocoon. All the cells in its body create the energy for it to evolve.",
+            "Pearl": "Encased within its tough cocoon, it endures attacks. It never forgets the appearance of its foes.",
+            "Platinum": "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.",
+            "HeartGold": "It endures attacks with patience, because the more pain before evolution, the sturdier it becomes.",
+            "SoulSilver": "It endures attacks with patience, because the more pain before evolution, the sturdier it becomes."
+        },
+        "Generation V": {
+            "Black": "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.",
+            "White": "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.",
+            "Black 2": "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.",
+            "White 2": "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback."
+        },
+        "Generation VI": {
+            "X": "Its body, which is made of soft silk, hardens over time. When cracks appear, evolution is near.",
+            "Y": "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.",
+            "Omega Ruby": "Cascoon makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This Pokémon prepares for its evolution inside the cocoon.",
+            "Alpha Sapphire": "If it is attacked, Cascoon remains motionless however badly it may be hurt. It does so because if it were to move, its body would be weak upon evolution. This Pokémon will also not forget the pain it endured."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It is hot inside its cocoon. All the cells in its body create the energy for it to evolve.",
+            "Shining Pearl": "Encased within its tough cocoon, it endures attacks. It never forgets the appearance of its foes.",
+            "Legends: Arceus": "The silk coating its body is thin but sufficiently strong. Cascoon's silk has a luster and texture superior to that of Silcoon's, and clothes made using Cascoon silk are regarded as top-notch."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Petalburg Woods",
+            "Sapphire": "Petalburg Woods",
+            "Emerald": "Petalburg Woods",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Wurmple",
+            "Pearl": "Eterna Forest Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "Platinum": "Route 205 , Eterna Forest",
+            "HeartGold": "National Park ( Bug-Catching Contest ) Sa",
+            "SoulSilver": "National Park ( Bug-Catching Contest ) Sa",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Wurmple",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Poison )",
+            "Y": "Friend Safari ( Poison )",
+            "Omega Ruby": "Petalburg Woods",
+            "Alpha Sapphire": "Petalburg Woods"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Wurmple",
+            "Shining Pearl": "Eterna Forest Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees ) Grand Underground - Grassland Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern",
+            "Legends: Arceus": "Obsidian Fieldlands : Floaro Gardens Night , Horseshoe Plains Night , The Heartwood Night , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Wurmple",
+            "to": "Cascoon",
+            "method": [
+                "Level 7"
+            ]
+        },
+        {
+            "from": "Cascoon",
+            "to": "Dustox",
+            "method": [
+                "Level 10"
+            ]
+        }
+    ]
+}

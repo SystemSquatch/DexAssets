@@ -1,0 +1,155 @@
+{
+    "name": "Snorlax",
+    "pokedex_number": "#0143",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Immunity",
+        "Thick Fat",
+        "Gluttony"
+    ],
+    "stats": {
+        "HP": 160,
+        "Attack": 110,
+        "Defense": 65,
+        "Sp. Atk": 65,
+        "Sp. Def": 110,
+        "Speed": 30,
+        "Total": 540
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+            "Yellow": "Will eat anything, even if the food happens to be a little moldy. It never gets an upset stomach.",
+            "Stadium": "A lazy Pokémon that gets continually fatter by sticking to a cycle of eating and sleeping. Awake only when it eats."
+        },
+        "Generation II": {
+            "Gold": "What sounds like its cry may actually be its snores or the rumblings of its hungry belly.",
+            "Silver": "Its stomach's digestive juices can dissolve any kind of poison. It can even eat things off the ground.",
+            "Crystal": "This Pok é mon 's stomach is so strong, even eating moldy or rotten food will not affect it.",
+            "Stadium 2": "What sounds like its cry may actually be its snores or the rumblings of its hungry belly. (Pokémon Red, Silver, or Crystal inserted) Its stomach's digestive juices can dissolve any kind of poison. It can even eat things off the ground. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Snorlax 's typical day consists of nothing more than eating and sleeping. It is such a docile Pok é mon that there are children who use its expansive belly as a place to play.",
+            "Sapphire": "Snorlax 's typical day consists of nothing more than eating and sleeping. It is such a docile Pok é mon that there are children who use its expansive belly as a place to play.",
+            "Emerald": "Snorlax 's typical day consists of nothing more than eating and sleeping. It is such a docile Pok é mon that there are children who use its big belly as a place to play.",
+            "FireRed": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+            "LeafGreen": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful."
+        },
+        "Generation IV": {
+            "Diamond": "Its stomach can digest any kind of food, even if it happens to be moldy or rotten.",
+            "Pearl": "It stops eating only to sleep. It doesn't feel full unless it eats nearly 900 pounds a day.",
+            "Platinum": "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.",
+            "HeartGold": "What sounds like its cry may actually be its snores or the rumblings of its hungry belly.",
+            "SoulSilver": "Its stomach's digestive juices can dissolve any kind of poison. It can even eat things off the ground."
+        },
+        "Generation V": {
+            "Black": "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.",
+            "White": "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.",
+            "Black 2": "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.",
+            "White 2": "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly."
+        },
+        "Generation VI": {
+            "X": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+            "Y": "Its stomach can digest any kind of food, even if it happens to be moldy or rotten.",
+            "Omega Ruby": "Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play.",
+            "Alpha Sapphire": "Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play."
+        },
+        "Generation VII": {
+            "Sun": "Its stomach is said to be incomparably strong. Even Muk's poison is nothing more than a hint of spice on Snorlax's tongue.",
+            "Moon": "It eats nearly 900 pounds of food every day. It starts nodding off while eating—and continues to eat even while it's asleep.",
+            "Ultra Sun": "It doesn't do anything other than eat and sleep. When prompted to make a serious effort, though, it apparently displays awesome power.",
+            "Ultra Moon": "It has no interest in anything other than eating. Even if you climb up on its stomach while it's napping, it doesn't seem to mind at all!",
+            "Let's Go Pikachu": "Will eat anything, even if the food happens to be a little moldy. It never gets an upset stomach.",
+            "Let's Go Eevee": "Will eat anything, even if the food happens to be a little moldy. It never gets an upset stomach."
+        },
+        "Generation VIII": {
+            "Sword": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+            "Shield": "This Pokémon's stomach is so strong, even eating moldy or rotten food will not affect it.",
+            "Brilliant Diamond": "Its stomach can digest any kind of food, even if it happens to be moldy or rotten.",
+            "Shining Pearl": "It stops eating only to sleep. It doesn't feel full unless it eats nearly 900 pounds a day.",
+            "Legends: Arceus": "This glutton appears in villages without warning and devours the entirety of their rice granaries—such occurrences have long been counted among the gravest of disasters."
+        },
+        "Generation IX": {
+            "Scarlet": "This gluttonous Pokémon eats constantly, apart from when it's asleep. It devours nearly 900 pounds of food per day.",
+            "Violet": "Its stomach's digestive juices can dissolve any kind of poison. Eating things off the ground doesn't bother it at all."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 12 and 16 ( Only two )",
+            "Blue": "Routes 12 and 16 ( Only two )",
+            "Blue (Japan)": "Routes 12 and 16 ( Only two )",
+            "Yellow": "Routes 12 and 16 ( Only two )"
+        },
+        "Generation II": {
+            "Gold": "Vermilion City ( Only one )",
+            "Silver": "Vermilion City ( Only one )",
+            "Crystal": "Vermilion City ( Only one )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Routes 12 and 16 ( Only two )",
+            "LeafGreen": "Routes 12 and 16 ( Only two )",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Munchlax",
+            "Pearl": "Evolve Munchlax",
+            "Platinum": "Evolve Munchlax",
+            "HeartGold": "Route 11 or 12 * ( Only one )",
+            "SoulSilver": "Route 11 or 12 * ( Only one )",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Evolve Munchlax",
+            "White": "Evolve Munchlax",
+            "Black 2": "Trade with Yancy / Curtis in Nimbasa City",
+            "White 2": "Trade with Yancy / Curtis in Nimbasa City",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Route 7 ( Only one )",
+            "Y": "Route 7 ( Only one )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Route 1 ( SOS Battle )",
+            "Moon": "Route 1 ( SOS Battle )",
+            "Ultra Sun": "Route 1 ( SOS Battle )",
+            "Ultra Moon": "Route 1 ( SOS Battle )",
+            "Let's Go Pikachu": "Routes 12 and 16 ( Only two ) Cerulean Cave",
+            "Let's Go Eevee": "Routes 12 and 16 ( Only two ) Cerulean Cave"
+        },
+        "Generation VIII": {
+            "Sword": "Motostoke Riverbank ( Wanderer ) Bridge Field , East Lake Axewell , Motostoke Riverbank , Rolling Fields , Stony Wilderness ( Max Raid Battle ) Wild Area News , Event ( Gigantamax Factor )",
+            "Shield": "Motostoke Riverbank ( Wanderer ) Bridge Field , East Lake Axewell , Motostoke Riverbank , Rolling Fields , Stony Wilderness ( Max Raid Battle ) Wild Area News , Event ( Gigantamax Factor )",
+            "Expansion Pass": "Slippery Slope , Frostpoint Field , Giant's Bed Sh ( Wanderer ) Slippery Slope , Giant's Bed , Giant's Foot , Ballimere Lake ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Brilliant Diamond": "Evolve Munchlax",
+            "Shining Pearl": "Evolve Munchlax",
+            "Legends: Arceus": "Obsidian Fieldlands : near Sandgem Flats , massive mass outbreaks Crimson Mirelands : Space-time distortions Alabaster Icelands : Snowfall Hot Spring"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Timeless Woods Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Munchlax",
+            "to": "Snorlax",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        }
+    ]
+}

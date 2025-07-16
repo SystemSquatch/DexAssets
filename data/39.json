@@ -1,0 +1,160 @@
+{
+    "name": "Jigglypuff",
+    "pokedex_number": "#0039",
+    "types": [
+        "Normal",
+        "Fairy"
+    ],
+    "abilities": [
+        "Cute Charm",
+        "Competitive",
+        "Friend Guard"
+    ],
+    "stats": {
+        "HP": 115,
+        "Attack": 45,
+        "Defense": 20,
+        "Sp. Atk": 45,
+        "Sp. Def": 25,
+        "Speed": 20,
+        "Total": 270
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep .",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep .",
+            "Yellow": "Uses its alluring eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.",
+            "Stadium": "It mesmerizes with its large, round eyes and sings a soothing melody. Pokémon hearing this song fall asleep."
+        },
+        "Generation II": {
+            "Gold": "If it inflates to Sing a lullaby, it can perform longer and cause sure drowsiness in its audience.",
+            "Silver": "Looking into its cute, round eyes causes it to sing a relaxing melody, inducing its enemies to sleep.",
+            "Crystal": "It rolls its cute eyes as it sings a soothing lullaby. Its gentle song puts anyone who hears it to sleep.",
+            "Stadium 2": "If it inflates to Sing a lullaby, it can perform longer and cause sure drowsiness in its audience. (Pokémon Red, Silver, or Crystal inserted) Looking into its cute, round eyes causes it to sing a relaxing melody, inducing its enemies to sleep. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Jigglypuff 's vocal chords can freely adjust the wavelength of its voice. This Pok é mon uses this ability to sing at precisely the right wavelength to make its foes most drowsy.",
+            "Sapphire": "When this Pok é mon sings, it never pauses to breathe. If it is in a battle against an opponent that does not easily fall asleep, Jigglypuff cannot breathe, endangering its life.",
+            "Emerald": "Nothing can avoid falling asleep hearing a Jigglypuff 's song. The sound waves of its singing voice match the brain waves of someone in a deep sleep.",
+            "FireRed": "It captivates foes with its huge, round eyes, then lulls them to sleep by singing a soothing melody.",
+            "LeafGreen": "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep."
+        },
+        "Generation IV": {
+            "Diamond": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
+            "Pearl": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
+            "Platinum": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
+            "HeartGold": "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.",
+            "SoulSilver": "Looking into its cute, round eyes causes it to sing a relaxing melody, inducing its enemies to sleep."
+        },
+        "Generation V": {
+            "Black": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
+            "White": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
+            "Black 2": "Looking into its cute, round eyes makes it start singing a song so pleasant listeners can't help but fall asleep.",
+            "White 2": "Looking into its cute, round eyes makes it start singing a song so pleasant listeners can't help but fall asleep."
+        },
+        "Generation VI": {
+            "X": "It captivates foes with its huge, round eyes, then lulls them to sleep by singing a soothing melody.",
+            "Y": "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.",
+            "Omega Ruby": "Jigglypuff's vocal cords can freely adjust the wavelength of its voice. This Pokémon uses this ability to sing at precisely the right wavelength to make its foes most drowsy.",
+            "Alpha Sapphire": "When this Pokémon sings, it never pauses to breathe. If it is in a battle against an opponent that does not easily fall asleep, Jigglypuff cannot breathe, endangering its life."
+        },
+        "Generation VII": {
+            "Sun": "It hugely inflates its stomach and sings a mysterious melody. If you hear this melody, you'll become sleepy right away.",
+            "Moon": "Jigglypuff possess a vocal range that exceeds 12 octaves, but each individual's singing skill depends on its own effort.",
+            "Ultra Sun": "Recordings of Jigglypuff's strange lullabies can be purchased from department stores. These CDs can be found near the bedding area.",
+            "Ultra Moon": "The songs they sing are totally different depending on the region they live in. Some even sound like they're shouting!",
+            "Let's Go Pikachu": "Uses its cute round eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.",
+            "Let's Go Eevee": "Uses its cute round eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep."
+        },
+        "Generation VIII": {
+            "Sword": "Jigglypuff has top-notch lung capacity, even by comparison to other Pokémon. It won't stop singing its lullabies until its foes fall asleep.",
+            "Shield": "By freely changing the wavelength of its voice, Jigglypuff sings a mysterious melody sure to make any listener sleepy.",
+            "Brilliant Diamond": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
+            "Shining Pearl": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy."
+        },
+        "Generation IX": {
+            "Scarlet": "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+            "Violet": "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Route 3",
+            "Blue": "Route 3",
+            "Blue (Japan)": "Route 3",
+            "Yellow": "Routes 5 , 6 , 7 , and 8"
+        },
+        "Generation II": {
+            "Gold": "Routes 3 , 4 , and 46",
+            "Silver": "Routes 3 , 4 , and 46",
+            "Crystal": "Routes 5 , 6 , 7 , 8 , 34 , and 35"
+        },
+        "Generation III": {
+            "Ruby": "Route 115",
+            "Sapphire": "Route 115",
+            "Emerald": "Route 115",
+            "FireRed": "Route 3",
+            "LeafGreen": "Route 3",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trophy Garden",
+            "Pearl": "Trophy Garden",
+            "Platinum": "Trophy Garden",
+            "HeartGold": "Routes 3 and 4 Safari Zone (tall grass in Meadow, default; tall grass in Swamp, default Morning Day )",
+            "SoulSilver": "Routes 3 and 4 Safari Zone (tall grass in Meadow, default; tall grass in Swamp, default Morning Day )",
+            "Pal Park": "Field",
+            "Pokéwalker": "Resort , Night Sky's Edge"
+        },
+        "Generation V": {
+            "Black": "Route 14",
+            "White": "Route 14",
+            "Black 2": "Routes 1 and 2 , Dreamyard",
+            "White 2": "Routes 1 and 2 , Dreamyard"
+        },
+        "Generation VI": {
+            "X": "Route 20 , Pokémon Village , Friend Safari ( Fairy )",
+            "Y": "Route 20 , Pokémon Village , Friend Safari ( Fairy )",
+            "Omega Ruby": "Route 115",
+            "Alpha Sapphire": "Route 115"
+        },
+        "Generation VII": {
+            "Sun": "Routes 4 and 6 Day ( SOS Battle )",
+            "Moon": "Routes 4 and 6 Day ( SOS Battle )",
+            "Ultra Sun": "Routes 4 and 6 Day ( SOS Battle )",
+            "Ultra Moon": "Routes 4 and 6 Day ( SOS Battle )",
+            "Let's Go Pikachu": "Routes 5 , 6 , 7 and 8",
+            "Let's Go Eevee": "Routes 5 , 6 , 7 and 8"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Fields of Honor , Challenge Beach Fields of Honor , Soothing Wetlands , Forest of Focus , Stepping-Stone Sea , Insular Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Trophy Garden",
+            "Shining Pearl": "Trophy Garden",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Two West Province: Area Three South Province: Area Three ( Water Tera Type ) Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Area Two West Province: Area Three South Province: Area Three ( Water Tera Type ) Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Igglybuff",
+            "to": "Jigglypuff",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        },
+        {
+            "from": "Jigglypuff",
+            "to": "Wigglytuff",
+            "method": [
+                "Use Moon Stone"
+            ]
+        }
+    ]
+}

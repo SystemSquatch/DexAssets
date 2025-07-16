@@ -1,0 +1,123 @@
+{
+    "name": "Sableye",
+    "pokedex_number": "#0302",
+    "types": [
+        "Dark",
+        "Ghost"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Stall",
+        "Prankster",
+        "Magic Bounce"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 75,
+        "Sp. Atk": 65,
+        "Sp. Def": 65,
+        "Speed": 50,
+        "Total": 380
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Sableye lead quiet lives deep inside caverns. They are feared, however, because these Pok é mon are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness.",
+            "Sapphire": "Sableye digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the Pok é mon 's body surface.",
+            "Emerald": "It digs branching holes in caves using its sharp claws in search of food--raw gems. A Sableye lurks in darkness and is seen only rarely.",
+            "FireRed": "It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels.",
+            "LeafGreen": "It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels."
+        },
+        "Generation IV": {
+            "Diamond": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
+            "Pearl": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
+            "Platinum": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
+            "HeartGold": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
+            "SoulSilver": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself."
+        },
+        "Generation V": {
+            "Black": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
+            "White": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
+            "Black 2": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
+            "White 2": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones."
+        },
+        "Generation VI": {
+            "X": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
+            "Y": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
+            "Omega Ruby": "Sableye lead quiet lives deep inside caverns. They are feared, however, because these Pokémon are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness.",
+            "Alpha Sapphire": "Sableye digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the Pokémon's body surface."
+        },
+        "Generation VII": {
+            "Sun": "The jewel from its chest, which has grown gigantic due to the effects of Mega Evolution, can turn back any attack.",
+            "Moon": "Supporting a giant heavy jewel, it can't change direction very nimbly and is vulnerable to attack from behind.",
+            "Ultra Sun": "Bathed in the energy of Mega Evolution, the gemstone on its chest expands, rips through its skin, and falls out.",
+            "Ultra Moon": "It blocks any and all attacks with its giant-sized gemstone. However, the stone's a heavy burden, and it limits Mega Sableye's movements."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon is feared. When its gemstone eyes begin to glow with a sinister shine, it's believed that Sableye will steal people's spirits away.",
+            "Shield": "It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels.",
+            "Brilliant Diamond": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
+            "Shining Pearl": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones."
+        },
+        "Generation IX": {
+            "Scarlet": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
+            "Violet": "Materials from gems it has eaten float to the surface of its body and can form an infinite number of patterns among individuals."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Granite Cave , Cave of Origin , Sky Pillar , Victory Road",
+            "Emerald": "Granite Cave , Cave of Origin , Sky Pillar , Victory Road",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Iron Island (Sapphire)",
+            "Pearl": "Iron Island (Sapphire)",
+            "Platinum": "Iron Island (Sapphire)",
+            "HeartGold": "Route 9 ( Swarm )",
+            "SoulSilver": "Trade",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Rally"
+        },
+        "Generation V": {
+            "Black": "Challenger's Cave",
+            "White": "Challenger's Cave",
+            "Black 2": "Trade with Curtis in Nimbasa City (female player character only)",
+            "White 2": "Trade with Curtis in Nimbasa City (female player character only)",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Reflection Cave , Friend Safari ( Dark )",
+            "Y": "Reflection Cave , Friend Safari ( Dark )",
+            "Omega Ruby": "Trade , Event",
+            "Alpha Sapphire": "Granite Cave , Cave of Origin , Victory Road , Sky Pillar"
+        },
+        "Generation VII": {
+            "Sun": "Ten Carat Hill , Vast Poni Canyon ( SOS Battle )",
+            "Moon": "Ten Carat Hill , Vast Poni Canyon ( SOS Battle )",
+            "Ultra Sun": "Ten Carat Hill , Vast Poni Canyon ( SOS Battle )",
+            "Ultra Moon": "Ten Carat Hill , Vast Poni Canyon ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade , Event",
+            "Shield": "Dusty Bowl , Giant's Mirror Giant's Mirror , South Lake Miloch , Stony Wilderness , Watchtower Ruins , West Lake Axewell ( Max Raid Battle )",
+            "Shield Expansion Pass": "Lakeside Cave Slippery Slope , Giant's Bed , Old Cemetery , Snowslide Slope , Giant's Foot , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Grand Underground - Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six , Alfornada Cavern East Province: Area Three West Province: Area One , Area Two North Province: Area One , Dalizapa Passage Area Zero Tera Raid Battles ( 3★ , 5★ )",
+            "Violet": "South Province: Area Six , Alfornada Cavern East Province: Area Three West Province: Area One , Area Two North Province: Area One , Dalizapa Passage Area Zero Tera Raid Battles ( 3★ , 5★ )"
+        }
+    },
+    "evolution": []
+}

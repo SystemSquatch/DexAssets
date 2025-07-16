@@ -1,0 +1,54 @@
+{
+    "name": "Orbeetle",
+    "pokedex_number": "#0826",
+    "types": [
+        "Bug",
+        "Psychic"
+    ],
+    "abilities": [
+        "Swarm",
+        "Frisk",
+        "Telepathy"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 110,
+        "Sp. Atk": 80,
+        "Sp. Def": 120,
+        "Speed": 90,
+        "Total": 505
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "It's famous for its high level of intelligence, and the large size of its brain is proof that it also possesses immense psychic power.",
+            "Shield": "It emits psychic energy to observe and study what's around it—and what's around it can include things over six miles away."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Giant's Cap , Lake of Outrage , Slumbering Weald , Dappled Grove Bridge Field , Dappled Grove , Rolling Fields , South Lake Miloch ( Max Raid Battle ) Dappled Grove , Bridge Field ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Shield": "Giant's Cap , Lake of Outrage , Slumbering Weald , Dappled Grove Bridge Field , Dappled Grove , Rolling Fields , South Lake Miloch ( Max Raid Battle ) Dappled Grove , Bridge Field ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Expansion Pass": "Fields of Honor ( Max Raid Battle ) Training Lowlands , Max Lair ( Dynamax Adventure ) ( Gigantamax Factor )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Dottler",
+            "to": "Orbeetle",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Pawmi",
+    "pokedex_number": "#0921",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Static",
+        "Natural Cure",
+        "Iron Fist"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 20,
+        "Sp. Atk": 40,
+        "Sp. Def": 25,
+        "Speed": 60,
+        "Total": 240
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.",
+            "Violet": "The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Three , Area Five , Poco Path West Province: Area One Area Zero Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two , Area Three , Area Five , Poco Path West Province: Area One Area Zero Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Pawmi",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Pawmi",
+            "to": "Pawmo",
+            "method": [
+                "Level 18"
+            ]
+        }
+    ]
+}

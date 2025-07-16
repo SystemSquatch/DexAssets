@@ -1,0 +1,121 @@
+{
+    "name": "Claydol",
+    "pokedex_number": "#0344",
+    "types": [
+        "Ground",
+        "Psychic"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 70,
+        "Defense": 105,
+        "Sp. Atk": 70,
+        "Sp. Def": 120,
+        "Speed": 75,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Claydol are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This Pok é mon moves about while levitating.",
+            "Sapphire": "Claydol is an enigma that appeared from a clay statue made by an ancient civilization dating back 20,000 years. This Pok é mon shoots beams from both its hands.",
+            "Emerald": "A Claydol sleeps while hovering in midair. Its arms are separate from its body. They are kept floating by the Pok é mon 's manipulation of psychic power.",
+            "FireRed": "It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move.",
+            "LeafGreen": "It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move."
+        },
+        "Generation IV": {
+            "Diamond": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
+            "Pearl": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
+            "Platinum": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
+            "HeartGold": "It is said that it originates from clay dolls made by an ancient civilization.",
+            "SoulSilver": "It is said that it originates from clay dolls made by an ancient civilization."
+        },
+        "Generation V": {
+            "Black": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
+            "White": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
+            "Black 2": "This mysterious Pokémon started life as an ancient clay figurine made over 20,000 years ago.",
+            "White 2": "This mysterious Pokémon started life as an ancient clay figurine made over 20,000 years ago."
+        },
+        "Generation VI": {
+            "X": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
+            "Y": "It is said that it originates from clay dolls made by an ancient civilization.",
+            "Omega Ruby": "Claydol are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This Pokémon moves about while levitating.",
+            "Alpha Sapphire": "Claydol is an enigma that appeared from a clay statue made by an ancient civilization dating back 20,000 years. This Pokémon shoots beams from both its hands."
+        },
+        "Generation VII": {
+            "Ultra Sun": "If it gets wet, its body melts. When rain starts to fall, it wraps its whole body up with its psychic powers to protect itself.",
+            "Ultra Moon": "The ancient people who made it apparently modeled it after something that descended from the sky. It fires beams from both arms."
+        },
+        "Generation VIII": {
+            "Sword": "This mysterious Pokémon started life as an ancient clay figurine made over 20,000 years ago.",
+            "Shield": "It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move.",
+            "Brilliant Diamond": "An ancient clay figurine was exposed to a mysterious ray of light, and it came to life as a Pokémon.",
+            "Shining Pearl": "An ancient clay figurine was exposed to a mysterious ray of light, and it came to life as a Pokémon."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Sky Pillar",
+            "Sapphire": "Sky Pillar",
+            "Emerald": "Sky Pillar",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Evolve Baltoy"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Baltoy",
+            "Pearl": "Evolve Baltoy",
+            "Platinum": "Evolve Baltoy",
+            "HeartGold": "Evolve Baltoy",
+            "SoulSilver": "Trade",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Relic Castle ( Volcarona 's room)",
+            "White": "Relic Castle ( Volcarona 's room)",
+            "Black 2": "Evolve Baltoy",
+            "White 2": "Evolve Baltoy"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Sky Pillar",
+            "Alpha Sapphire": "Sky Pillar"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Evolve Baltoy",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Axew's Eye , Lake of Outrage Bridge Field , Dappled Grove , Dusty Bowl , Stony Wilderness ( Wanderer ) Hammerlocke Hills , Motostoke Riverbank , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Axew's Eye , Lake of Outrage Bridge Field , Dappled Grove , Dusty Bowl , Stony Wilderness ( Wanderer ) Hammerlocke Hills , Motostoke Riverbank , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Foot , Three-Point Pass Giant's Bed , Snowslide Slope , Path to the Peak , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Baltoy",
+            "Shining Pearl": "Evolve Baltoy",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Baltoy",
+            "to": "Claydol",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

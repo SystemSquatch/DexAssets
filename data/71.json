@@ -1,0 +1,145 @@
+{
+    "name": "Victreebel",
+    "pokedex_number": "#0071",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Gluttony"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 65,
+        "Sp. Atk": 100,
+        "Sp. Def": 60,
+        "Speed": 70,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+            "Yellow": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is melted in a day, bones and all.",
+            "Stadium": "Attracts prey with sweet-smelling honey. Its prey include bugs, naturally, and even large animals on occasion."
+        },
+        "Generation II": {
+            "Gold": "Acid that has dissolved many prey becomes sweeter, making it even more effective at attracting prey.",
+            "Silver": "This horrifying plant Pok é mon attracts prey with aromatic honey, then melts them in its mouth.",
+            "Crystal": "Once ingested into this Pok é mon 's body, even the hardest object will melt into nothing.",
+            "Stadium 2": "Acid that has dissolved many prey becomes sweeter, making it even more effective at attracting prey. (Pokémon Red, Silver, or Crystal inserted) This horrifying plant Pok é mon attracts prey with aromatic honey, then melts them in its mouth. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pok é mon swallows it whole.",
+            "Sapphire": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pok é mon swallows it whole.",
+            "Emerald": "The long vine extending from its head is waved about as if it were a living thing to attract prey. When an unsuspecting victim approaches, it is swallowed whole.",
+            "FireRed": "Lures prey into its mouth with a honeylike aroma. The helpless prey is melted with a dissolving fluid.",
+            "LeafGreen": "Said to live in huge colonies deep in jungles, although no one has ever returned from there."
+        },
+        "Generation IV": {
+            "Diamond": "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
+            "Pearl": "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
+            "Platinum": "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
+            "HeartGold": "Acid that has dissolved many prey becomes sweeter, making it even more effective at attracting prey.",
+            "SoulSilver": "This horrifying plant Pokémon attracts prey with aromatic honey, then melts them in its mouth."
+        },
+        "Generation V": {
+            "Black": "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
+            "White": "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
+            "Black 2": "It pools in its mouth a fluid with a honey-like scent, which is really an acid that dissolves anything.",
+            "White 2": "It pools in its mouth a fluid with a honey-like scent, which is really an acid that dissolves anything."
+        },
+        "Generation VI": {
+            "X": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+            "Y": "Once ingested into this Pokémon's body, even the hardest object will melt into nothing.",
+            "Omega Ruby": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole.",
+            "Alpha Sapphire": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all.",
+            "Let's Go Eevee": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "In its mouth, it pools a fragrant nectar-like fluid. The fluid is really an acid that dissolves anything.",
+            "Shining Pearl": "In its mouth, it pools a fragrant nectar-like fluid. The fluid is really an acid that dissolves anything."
+        },
+        "Generation IX": {
+            "Scarlet": "It lures prey into its mouth with a nectar-like aroma. The helpless prey is melted with a dissolving fluid.",
+            "Violet": "After dissolving many prey, this Pokémon's acid becomes sweeter. This makes it even easier to attract more prey."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Trade",
+            "Blue": "Evolve Weepinbell",
+            "Blue (Japan)": "Trade",
+            "Yellow": "Evolve Weepinbell"
+        },
+        "Generation II": {
+            "Gold": "Evolve Weepinbell",
+            "Silver": "Evolve Weepinbell",
+            "Crystal": "Evolve Weepinbell"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Trade",
+            "LeafGreen": "Evolve Weepinbell",
+            "Colosseum": "Trade",
+            "XD": "Evolve Weepinbell"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Weepinbell",
+            "Pearl": "Evolve Weepinbell",
+            "Platinum": "Evolve Weepinbell",
+            "HeartGold": "Evolve Weepinbell",
+            "SoulSilver": "Evolve Weepinbell",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Weepinbell",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Weepinbell",
+            "Y": "Evolve Weepinbell",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Weepinbell",
+            "Moon": "Evolve Weepinbell",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Trade",
+            "Let's Go Eevee": "Route 21"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Weepinbell",
+            "Shining Pearl": "Evolve Weepinbell",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Weepinbell",
+            "to": "Victreebel",
+            "method": [
+                "Use Leaf Stone"
+            ]
+        }
+    ]
+}

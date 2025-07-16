@@ -1,0 +1,71 @@
+{
+    "name": "Primarina",
+    "pokedex_number": "#0730",
+    "types": [
+        "Water",
+        "Fairy"
+    ],
+    "abilities": [
+        "Torrent",
+        "Liquid Voice"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 74,
+        "Defense": 74,
+        "Sp. Atk": 126,
+        "Sp. Def": 116,
+        "Speed": 60,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It controls its water balloons with song . The melody is learned from others of its kind and is passed down from one generation to the next.",
+            "Moon": "Its singing voice is its chief weapon in battle. This Pokémon's Trainer must prioritize the daily maintenance of its throat at all costs.",
+            "Ultra Sun": "To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.",
+            "Ultra Moon": "Also known as a songstress, it has a fantastical look on moonlit nights when it leads its colony in song."
+        },
+        "Generation VIII": {
+            "Sword": "With its mouth, it makes sonic waves that sound like beautiful singing. It uses the sonic waves to control its water balloons. *",
+            "Shield": "For Primarina, every battle's a stage. Its singing and the dancing of its balloons will mesmerize the audience. *"
+        },
+        "Generation IX": {
+            "Scarlet": "To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.",
+            "Violet": "Also known as a songstress, it is a sight to behold on moonlit nights when it sings in front of the colony it leads."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Evolve Brionne",
+            "Moon": "Evolve Brionne",
+            "Ultra Sun": "Evolve Brionne",
+            "Ultra Moon": "Evolve Brionne",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME Trade Version 1.2.0+",
+            "Shield": "Pokémon HOME Trade Version 1.2.0+",
+            "Expansion Pass": "Evolve Brionne",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Brionne"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Brionne",
+            "to": "Primarina",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "name": "Shellder",
+    "pokedex_number": "#0090",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Shell Armor",
+        "Skill Link",
+        "Overcoat"
+    ],
+    "stats": {
+        "HP": 30,
+        "Attack": 65,
+        "Defense": 100,
+        "Sp. Atk": 45,
+        "Sp. Def": 25,
+        "Speed": 40,
+        "Total": 305
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+            "Yellow": "The shell can withstand any attack. However, when it is open, the tender body is exposed.",
+            "Stadium": "Its shell is harder than diamond. It hides in sand on the sea floor and catches prey with its soft tongue."
+        },
+        "Generation II": {
+            "Gold": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
+            "Silver": "Grains of sand trapped in its shells mix with its body fluids to form beautiful pearls.",
+            "Crystal": "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort.",
+            "Stadium 2": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast. (Pokémon Red, Silver, or Crystal inserted) Grains of sand trapped in its shells mix with its body fluids to form beautiful pearls. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "At night, this Pok é mon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
+            "Sapphire": "At night, this Pok é mon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
+            "Emerald": "At night, it burrows a hole in the seafloor with its broad tongue to make a place to sleep. While asleep, it closes its shell, but leaves its tongue hanging out.",
+            "FireRed": "It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.",
+            "LeafGreen": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open."
+        },
+        "Generation IV": {
+            "Diamond": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
+            "Pearl": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
+            "Platinum": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
+            "HeartGold": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
+            "SoulSilver": "Grains of sand trapped in its shells mix with its body fluids to form beautiful pearls."
+        },
+        "Generation V": {
+            "Black": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
+            "White": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
+            "Black 2": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
+            "White 2": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out."
+        },
+        "Generation VI": {
+            "X": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+            "Y": "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort.",
+            "Omega Ruby": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
+            "Alpha Sapphire": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out."
+        },
+        "Generation VII": {
+            "Sun": "The hardness of its shell surpasses the hardness of a diamond. In days gone by, people used the shells to make shields.",
+            "Moon": "This Pokémon's tongue is always hanging out. It uses its tongue with great dexterity to dig up sand from the seabed in its search for food.",
+            "Ultra Sun": "The sand that accumulates inside its shell eventually becomes a pearl. But the pearl gets in the way, so it spits it out and discards it.",
+            "Ultra Moon": "Even when its shell is closed, its tongue still hangs out. If you give its tongue a good yank, the shock will cause Shellder to open its shell.",
+            "Let's Go Pikachu": "The shell can withstand any attack. However, when it is open, the tender body is exposed.",
+            "Let's Go Eevee": "The shell can withstand any attack. However, when it is open, the tender body is exposed."
+        },
+        "Generation VIII": {
+            "Sword": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
+            "Shield": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+            "Brilliant Diamond": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
+            "Shining Pearl": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out."
+        },
+        "Generation IX": {
+            "Scarlet": "It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.",
+            "Violet": "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Seafoam Islands Routes 6 , 11 , 19 , 20 , 21 , Vermilion City , Seafoam Islands , Cinnabar Island ( Super Rod )",
+            "Blue": "Seafoam Islands Routes 6 , 11 , 19 , 20 , 21 , Vermilion City , Seafoam Islands , Cinnabar Island ( Super Rod )",
+            "Blue (Japan)": "Seafoam Islands Routes 6 , 11 , 19 , 20 , 21 , Vermilion City , Seafoam Islands , Cinnabar Island ( Super Rod )",
+            "Yellow": "Routes 17 , 18 , Vermilion Harbor ( Super Rod )"
+        },
+        "Generation II": {
+            "Gold": "Routes 20 , 21 , 26 , 27 , 41 , Olivine City harbor, Vermilion City , Pallet Town , New Bark Town , Cinnabar Island ( Good Rod and Super Rod )",
+            "Silver": "Routes 20 , 21 , 26 , 27 , 41 , Olivine City harbor, Vermilion City , Pallet Town , New Bark Town , Cinnabar Island ( Good Rod and Super Rod )",
+            "Crystal": "Routes 20 , 21 , 26 , 27 , 41 , Olivine City harbor, Vermilion City , Pallet Town , New Bark Town , Cinnabar Island ( Good Rod and Super Rod )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Pallet Town , Cinnabar Island , Vermilion City , One Island , Five Island , Icefall Cave ( Super Rod )",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Cipher Key Lair (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Route 205 ( Floaroma Town side), Valley Windworks , Fuego Ironworks ( Super Rod )",
+            "Pearl": "Route 205 ( Floaroma Town side), Valley Windworks , Fuego Ironworks ( Super Rod )",
+            "Platinum": "Route 205 ( Floaroma Town side), Valley Windworks , Fuego Ironworks ( Super Rod )",
+            "HeartGold": "Routes 20 , 21 , 26 , 27 , 41 , 47 , Vermilion City , Cinnabar Island , Pallet Town , New Bark Town ( Good Rod and Super Rod )",
+            "SoulSilver": "Routes 20 , 21 , 26 , 27 , 41 , 47 , Vermilion City , Cinnabar Island , Pallet Town , New Bark Town ( Good Rod and Super Rod )",
+            "Pal Park": "Sea",
+            "Pokéwalker": "Blue Lake , Stormy Beach"
+        },
+        "Generation V": {
+            "Black": "Route 13 , Undella Town , Undella Bay ( fishing )",
+            "White": "Route 13 , Undella Town , Undella Bay ( fishing )",
+            "Black 2": "Route 13 , Undella Town , Seaside Cave , Humilau City ( fishing )",
+            "White 2": "Route 13 , Undella Town , Seaside Cave , Humilau City ( fishing )",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Breed Cloyster",
+            "Y": "Route 8 ( Good Rod )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Kala'e Bay ( fishing ), Poké Pelago",
+            "Moon": "Kala'e Bay ( fishing ), Poké Pelago",
+            "Ultra Sun": "Kala'e Bay ( fishing )",
+            "Ultra Moon": "Kala'e Bay ( fishing )",
+            "Let's Go Pikachu": "Seafoam Islands ( Sea Skim )",
+            "Let's Go Eevee": "Seafoam Islands ( Sea Skim )"
+        },
+        "Generation VIII": {
+            "Sword": "West Lake Axewell , East Lake Axewell ( Surfing ) Giant's Seat , East Lake Axewell ( fishing ) Dusty Bowl , North Lake Miloch , South Lake Miloch , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "West Lake Axewell , East Lake Axewell ( Surfing ) Giant's Seat , East Lake Axewell ( fishing ) Dusty Bowl , North Lake Miloch , South Lake Miloch , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Courageous Cavern , Loop Lagoon ( fishing ) Fields of Honor , Challenge Beach , Loop Lagoon , Workout Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 205 ( Floaroma Town side), Valley Windworks , Fuego Ironworks ( Super Rod ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 205 ( Floaroma Town side), Valley Windworks , Fuego Ironworks ( Super Rod ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: South Paldean Sea East Province: East Paldean Sea West Province: West Paldean Sea North Province: North Paldean Sea Tera Raid Battles ( 1★ , 2★ )",
+            "Violet": "South Province: South Paldean Sea East Province: East Paldean Sea West Province: West Paldean Sea North Province: North Paldean Sea Tera Raid Battles ( 1★ , 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Shellder",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Shellder",
+            "to": "Cloyster",
+            "method": [
+                "Use Water Stone"
+            ]
+        }
+    ]
+}

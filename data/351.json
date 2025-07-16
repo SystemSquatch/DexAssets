@@ -1,0 +1,114 @@
+{
+    "name": "Castform",
+    "pokedex_number": "#0351",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Forecast"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 70,
+        "Defense": 70,
+        "Sp. Atk": 70,
+        "Sp. Def": 70,
+        "Speed": 70,
+        "Total": 420
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Castform 's appearance changes with the weather. This Pok é mon gained the ability to use the vast power of nature to protect its tiny body.",
+            "Sapphire": "Castform borrows the power of nature to transform itself into the guises of the sun, rain clouds, and snow clouds. This Pok é mon 's feelings change with the weather.",
+            "Emerald": "It alters its form depending on the weather. Changes in the climate such as the temperature and humidity appear to affect its cellular structure.",
+            "FireRed": "It has the ability to change its form into the sun, the rain, or a snow cloud, depending on the weather.",
+            "LeafGreen": "It has the ability to change its form into the sun, the rain, or a snow cloud, depending on the weather."
+        },
+        "Generation IV": {
+            "Diamond": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+            "Pearl": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+            "Platinum": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+            "HeartGold": "This Pokémon can change its cells, taking different forms based on the temperature and humidity.",
+            "SoulSilver": "This Pokémon can change its cells, taking different forms based on the temperature and humidity."
+        },
+        "Generation V": {
+            "Black": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+            "White": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+            "Black 2": "Temperature and weather affect its cellular structure, so this Pokémon changes form according to the weather.",
+            "White 2": "Temperature and weather affect its cellular structure, so this Pokémon changes form according to the weather."
+        },
+        "Generation VI": {
+            "X": "This Pokémon can change its cells, taking different forms based on the temperature and humidity.",
+            "Y": "It has the ability to change its form into the sun, the rain, or a snow cloud, depending on the weather.",
+            "Omega Ruby": "Castform's appearance changes with the weather. This Pokémon gained the ability to use the vast power of nature to protect its tiny body.",
+            "Alpha Sapphire": "Castform borrows the power of nature to transform itself into the guises of the sun, rain, and snow-clouds. This Pokémon's feelings change with the weather."
+        },
+        "Generation VII": {
+            "Sun": "This is the form Castform takes when covered in snow. Its body becomes an ice-like material, with a temperature near 23 degrees Fahrenheit .",
+            "Moon": "This is Castform's form when caught in a hailstorm. Its cold skin is as smooth as ice.",
+            "Ultra Sun": "This is the form Castform takes when hit by hail. In an experiment where it was placed in a freezer, it didn't change to this form.",
+            "Ultra Moon": "This is Castform's form when caught in a hailstorm. Its whole body is chilled, and its skin is partially frozen!"
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+            "Shining Pearl": "Its appearance changes with the weather. Recently, its molecules were found to be just like water."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Weather Institute ( Only one )",
+            "Sapphire": "Weather Institute ( Only one )",
+            "Emerald": "Weather Institute ( Only one )",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trophy Garden",
+            "Pearl": "Trophy Garden",
+            "Platinum": "Trophy Garden",
+            "HeartGold": "Transfer from Pokéwalker",
+            "SoulSilver": "Transfer from Pokéwalker",
+            "Pal Park": "Field",
+            "Pokéwalker": "Treehouse"
+        },
+        "Generation V": {
+            "Black": "Dream World or Trade",
+            "White": "Dream World or Trade",
+            "Black 2": "Route 6 ( rustling grass )",
+            "White 2": "Route 6 ( rustling grass )",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Weather Institute ( Only one )",
+            "Alpha Sapphire": "Weather Institute ( Only one )"
+        },
+        "Generation VII": {
+            "Sun": "Lush Jungle , Malie Garden , Tapu Village , Route 17 , Haina Desert , Exeggutor Island , Mount Lanakila ( SOS Battle in weather )",
+            "Moon": "Lush Jungle , Malie Garden , Tapu Village , Route 17 , Haina Desert , Exeggutor Island , Mount Lanakila ( SOS Battle in weather )",
+            "Ultra Sun": "Lush Jungle , Malie Garden , Tapu Village , Route 17 , Haina Desert , Exeggutor Island , Mount Lanakila ( SOS Battle in weather )",
+            "Ultra Moon": "Lush Jungle , Malie Garden , Tapu Village , Route 17 , Haina Desert , Exeggutor Island , Mount Lanakila ( SOS Battle in weather )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Trophy Garden",
+            "Shining Pearl": "Trophy Garden",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

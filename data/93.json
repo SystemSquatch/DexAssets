@@ -1,0 +1,161 @@
+{
+    "name": "Haunter",
+    "pokedex_number": "#0093",
+    "types": [
+        "Ghost",
+        "Poison"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 45,
+        "Sp. Atk": 115,
+        "Sp. Def": 55,
+        "Speed": 95,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Because of its ability to slip through block walls, it is said to be from another dimension.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Because of its ability to slip through block walls, it is said to be from another dimension.",
+            "Yellow": "By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise.",
+            "Stadium": "If you trip and fall for no apparent reason or hear a sound when no one is around, it may be a Haunter ."
+        },
+        "Generation II": {
+            "Gold": "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim.",
+            "Silver": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
+            "Crystal": "It hides in the dark, planning to take the life of the next living thing that wanders close by.",
+            "Stadium 2": "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim. (Pokémon Red, Silver, or Crystal inserted) Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Haunter is a dangerous Pok é mon . If one beckons you while floating in darkness, you must never approach it. This Pok é mon will try to lick you with its tongue and steal your life away.",
+            "Sapphire": "Haunter is a dangerous Pok é mon . If one beckons you while floating in darkness, you must never approach it. This Pok é mon will try to lick you with its tongue and steal your life away.",
+            "Emerald": "If a Haunter beckons you while it is floating in darkness, don't approach it. This Pok é mon will try to lick you with its tongue and steal your life away.",
+            "FireRed": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
+            "LeafGreen": "Because of its ability to slip through block walls, it is said to be from another dimension."
+        },
+        "Generation IV": {
+            "Diamond": "It can slip through any obstacle. It lurks inside walls to keep an eye on its foes.",
+            "Pearl": "It licks with its gaseous tongue to steal the victim's life force. It lurks in darkness for prey.",
+            "Platinum": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+            "HeartGold": "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim.",
+            "SoulSilver": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes."
+        },
+        "Generation V": {
+            "Black": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+            "White": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+            "Black 2": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+            "White 2": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering."
+        },
+        "Generation VI": {
+            "X": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
+            "Y": "It licks with its gaseous tongue to steal the victim's life force. It lurks in darkness for prey.",
+            "Omega Ruby": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
+            "Alpha Sapphire": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away."
+        },
+        "Generation VII": {
+            "Sun": "It strikes at humans from total darkness. Those licked by its cold tongue grow weaker with each passing day until they die.",
+            "Moon": "It fears the light and revels in the dark. It may be on the verge of extinction in cities that stay brightly lit at night.",
+            "Ultra Sun": "On moonless nights, Haunter searches for someone to curse, so it's best not to go out walking around.",
+            "Ultra Moon": "It's dangerous to go outside alone on nights when you're feeling sad. Haunter will catch you, and you won't be able to go back home.",
+            "Let's Go Pikachu": "By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise.",
+            "Let's Go Eevee": "By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise."
+        },
+        "Generation VIII": {
+            "Sword": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
+            "Shield": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
+            "Brilliant Diamond": "It can slip through any obstacle. It lurks inside walls to keep an eye on its foes.",
+            "Shining Pearl": "It licks with its gaseous tongue to steal its victim's life-force. It lurks in darkness, waiting for prey.",
+            "Legends: Arceus": "This frightful, malevolent spirit can glide through walls, appearing wherever it likes. According to rumor, victims of a Haunter's lick will wither to death day by day."
+        },
+        "Generation IX": {
+            "Scarlet": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+            "Violet": "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Pokémon Tower",
+            "Blue": "Pokémon Tower",
+            "Blue (Japan)": "Pokémon Tower Trade Machoke in Cerulean City *",
+            "Yellow": "Pokémon Tower"
+        },
+        "Generation II": {
+            "Gold": "Route 8 Night",
+            "Silver": "Route 8 Night",
+            "Crystal": "Route 8 , Rock Tunnel Night"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Pokémon Tower , Lost Cave",
+            "LeafGreen": "Pokémon Tower , Lost Cave",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Turnback Cave Trade Medicham in Snowpoint City * Old Chateau (Any Gen III game)",
+            "Pearl": "Turnback Cave Trade Medicham in Snowpoint City * Old Chateau (Any Gen III game)",
+            "Platinum": "Turnback Cave Trade Medicham in Snowpoint City *",
+            "HeartGold": "Route 8 Safari Zone Night (Forest, default)",
+            "SoulSilver": "Route 8 Safari Zone Night (Forest, default)",
+            "Pal Park": "Forest",
+            "Pokéwalker": "White Lake"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Gastly",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Routes 14 and 19 , Frost Cavern , Victory Road",
+            "Y": "Routes 14 and 19 , Frost Cavern , Victory Road",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Thrifty Megamart (Abandoned Site)",
+            "Moon": "Thrifty Megamart (Abandoned Site)",
+            "Ultra Sun": "Thrifty Megamart (Abandoned Site)",
+            "Ultra Moon": "Thrifty Megamart (Abandoned Site)",
+            "Let's Go Pikachu": "Pokémon Tower",
+            "Let's Go Eevee": "Pokémon Tower"
+        },
+        "Generation VIII": {
+            "Sword": "Route 8 , Giant's Seat Rolling Fields , Watchtower Ruins ( Wanderer ) Giant's Cap , Giant's Mirror , Hammerlocke Hills , Motostoke Riverbank , South Lake Miloch , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Shield": "Route 8 , Giant's Seat Rolling Fields , Watchtower Ruins ( Wanderer ) Giant's Cap , Giant's Mirror , Hammerlocke Hills , Motostoke Riverbank , South Lake Miloch , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Sword Expansion Pass": "Slippery Slope , Old Cemetery , Giant's Foot , Frigid Sea , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Shield Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Turnback Cave Trade Medicham in Snowpoint City *",
+            "Shining Pearl": "Turnback Cave Trade Medicham in Snowpoint City *",
+            "Legends: Arceus": "Obsidian Fieldlands : Space-time distortions Crimson Mirelands : near Golden Lowlands Night , Gapejaw Bog Night , Holm of Trials Night , Ursa's Ring Night , near Sludge Mound Night , Scarlet Bog Night , Shrouded Ruins Night (also mass outbreaks Day Night ), Cottonsedge Prairie Night , Droning Meadow Night , near Lake Valor Night , massive mass outbreaks Coronet Highlands : Clamberclaw Cliffs Night , Celestica Ruins Night , Sacred Plaza Night , Bolderoll Ravine Night , massive mass outbreaks Alabaster Icelands : Bonechill Wastes Night (also mass outbreaks Day Night ), near Avalugg's Legacy Night , near Icepeak Cavern Night , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area One North Province: Area One , Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 3★ ) Trade Pincurchin in Levincia *",
+            "Violet": "West Province: Area One North Province: Area One , Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 3★ ) Trade Pincurchin in Levincia *",
+            "The Hidden Treasure of Area Zero": "Mossfell Confluence , Oni Mountain"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Gastly",
+            "to": "Haunter",
+            "method": [
+                "Level 25"
+            ]
+        },
+        {
+            "from": "Haunter",
+            "to": "Gengar",
+            "method": [
+                "Trade"
+            ]
+        }
+    ]
+}

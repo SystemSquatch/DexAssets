@@ -1,0 +1,126 @@
+{
+    "name": "Skitty",
+    "pokedex_number": "#0300",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Cute Charm",
+        "Normalize",
+        "Wonder Skin"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 45,
+        "Defense": 45,
+        "Sp. Atk": 35,
+        "Sp. Def": 35,
+        "Speed": 50,
+        "Total": 260
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Skitty has the habit of becoming fascinated by moving objects and chasing them around. This Pok é mon is known to chase after its own tail and become dizzy.",
+            "Sapphire": "Skitty is known to chase around playfully after its own tail. In the wild, this Pok é mon lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks.",
+            "Emerald": "A Skitty 's adorably cute behavior makes it highly popular. In battle, it makes its tail puff out. It threatens foes with a sharp growl.",
+            "FireRed": "It is said to be difficult to earn its trust. However, it is extremely popular for its cute looks and behavior.",
+            "LeafGreen": "It is said to be difficult to earn its trust. However, it is extremely popular for its cute looks and behavior."
+        },
+        "Generation IV": {
+            "Diamond": "It can't stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
+            "Pearl": "It can't stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
+            "Platinum": "It can't stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
+            "HeartGold": "It's adorable when it chases its own tail. It's difficult to earn its trust.",
+            "SoulSilver": "It's adorable when it chases its own tail. It's difficult to earn its trust."
+        },
+        "Generation V": {
+            "Black": "It can't stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
+            "White": "It can't stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
+            "Black 2": "It shows its cute side by chasing its own tail until it gets dizzy.",
+            "White 2": "It shows its cute side by chasing its own tail until it gets dizzy."
+        },
+        "Generation VI": {
+            "X": "It can't stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
+            "Y": "It shows its cute side by chasing its own tail until it gets dizzy.",
+            "Omega Ruby": "Skitty has the habit of becoming fascinated by moving objects and chasing them around. This Pokémon is known to chase after its own tail and become dizzy.",
+            "Alpha Sapphire": "Skitty is known to chase around playfully after its own tail. In the wild, this Pokémon lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It can't stop itself from chasing moving things, and it runs in circles, chasing its own tail.",
+            "Shining Pearl": "It can't stop itself from chasing moving things, and it runs in circles, chasing its own tail."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 116 Trade Pikachu in Fortree City",
+            "Sapphire": "Route 116 Trade Pikachu in Fortree City",
+            "Emerald": "Route 116",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 222 ( Swarm )",
+            "Pearl": "Route 222 ( Swarm )",
+            "Platinum": "Route 222 ( Swarm )",
+            "HeartGold": "Transfer from Pokéwalker",
+            "SoulSilver": "Transfer from Pokéwalker",
+            "Pal Park": "Field",
+            "Pokéwalker": "Hoenn Field"
+        },
+        "Generation V": {
+            "Black": "Dream World or Trade",
+            "White": "Dream World or Trade",
+            "Black 2": "Trade",
+            "White 2": "Castelia City",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Route 4",
+            "Y": "Route 4",
+            "Omega Ruby": "Route 116 Trade Spinda in Fortree City",
+            "Alpha Sapphire": "Route 116 Trade Spinda in Fortree City"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 222 ( Swarm ) Grand Underground - Spacious Cave (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 222 ( Swarm ) Grand Underground - Spacious Cave (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Skitty",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Skitty",
+            "to": "Delcatty",
+            "method": [
+                "Use Moon Stone"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "name": "Spinda",
+    "pokedex_number": "#0327",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Own Tempo",
+        "Tangled Feet",
+        "Contrary"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 60,
+        "Sp. Atk": 60,
+        "Sp. Def": 60,
+        "Speed": 60,
+        "Total": 360
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "All the Spinda that exist in the world are said to have utterly unique spot patterns. The shaky, tottering steps of this Pok é mon give it the appearance of dancing.",
+            "Sapphire": "No two Spinda are said to have identical spot patterns on their hides. This Pok é mon moves in a curious manner as if it is stumbling in dizziness. Its lurching movements can cause the opponent to become confused.",
+            "Emerald": "It is distinguished by a pattern of spots that is always different. Its unsteady, tottering walk has the effect of fouling its foe's aim.",
+            "FireRed": "No two Spinda are said to have identical patterns. It confuses foes with its stumbling motions.",
+            "LeafGreen": "No two Spinda are said to have identical patterns. It confuses foes with its stumbling motions."
+        },
+        "Generation IV": {
+            "Diamond": "No two Spinda have the same pattern of spots. Its tottering step fouls the aim of foes.",
+            "Pearl": "No two Spinda have the same pattern of spots. Its tottering step fouls the aim of foes.",
+            "Platinum": "No two Spinda have the same pattern of spots. Its tottering step fouls the aim of foes.",
+            "HeartGold": "The chances of two Spinda having identical spot patterns is less than one in four billion.",
+            "SoulSilver": "The chances of two Spinda having identical spot patterns is less than one in four billion."
+        },
+        "Generation V": {
+            "Black": "No two Spinda have the same pattern of spots. Its tottering step fouls the aim of foes.",
+            "White": "No two Spinda have the same pattern of spots. Its tottering step fouls the aim of foes.",
+            "Black 2": "No two Spinda have the same pattern of spots. Its tottering step fouls the aim of foes.",
+            "White 2": "No two Spinda have the same pattern of spots. Its tottering step fouls the aim of foes."
+        },
+        "Generation VI": {
+            "X": "No two Spinda have the same pattern of spots. Its tottering step fouls the aim of foes.",
+            "Y": "The chances of two Spinda having identical spot patterns is less than one in four billion.",
+            "Omega Ruby": "All the Spinda that exist in the world are said to have utterly unique spot patterns. The shaky, tottering steps of this Pokémon give it the appearance of dancing.",
+            "Alpha Sapphire": "No two Spinda are said to have identical spot patterns on their hides. This Pokémon moves in a curious manner as if it is stumbling in dizziness. Its lurching movements can cause the opponent to become confused."
+        },
+        "Generation VII": {
+            "Sun": "Its steps are staggering and unsteady, but Spinda thinks it's walking in a straight line.",
+            "Moon": "Each and every Spinda has a slightly different configuration of spots. There are collectors who enjoy the tiny differences in their spot patterns.",
+            "Ultra Sun": "Its steps are shaky and stumbling. Walking for a long time makes it feel sick.",
+            "Ultra Moon": "Each Spinda's spot pattern is different. With its stumbling movements, it evades opponents' attacks brilliantly!"
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "No two Spinda have the same pattern of spots. Their tottering steps hinder the aim of foes.",
+            "Shining Pearl": "No two Spinda have the same pattern of spots. Their tottering steps hinder the aim of foes."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 113",
+            "Sapphire": "Route 113",
+            "Emerald": "Route 113",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 227 ( Swarm )",
+            "Pearl": "Route 227 ( Swarm )",
+            "Platinum": "Route 227 ( Swarm )",
+            "HeartGold": "Safari Zone (Desert with 14 Plains points) Sprout Tower , Bell Tower , Burned Tower (Hoenn Sound)",
+            "SoulSilver": "Safari Zone (Desert with 14 Plains points) Sprout Tower , Bell Tower , Burned Tower (Hoenn Sound)",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Trade with Curtis or Yancy in Nimbasa City",
+            "White 2": "Trade with Curtis or Yancy in Nimbasa City",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Route 21 Route 21 ( Horde Encounter )",
+            "Y": "Route 21 Route 21 ( Horde Encounter )",
+            "Omega Ruby": "Route 113",
+            "Alpha Sapphire": "Route 113"
+        },
+        "Generation VII": {
+            "Sun": "Ten Carat Hill",
+            "Moon": "Ten Carat Hill",
+            "Ultra Sun": "Ten Carat Hill",
+            "Ultra Moon": "Ten Carat Hill",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 227 ( Swarm )",
+            "Shining Pearl": "Route 227 ( Swarm )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

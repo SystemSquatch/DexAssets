@@ -1,0 +1,133 @@
+{
+    "name": "Ledian",
+    "pokedex_number": "#0166",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "abilities": [
+        "Swarm",
+        "Early Bird",
+        "Iron Fist"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 35,
+        "Defense": 50,
+        "Sp. Atk": 55,
+        "Sp. Def": 110,
+        "Speed": 85,
+        "Total": 390
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",
+            "Silver": "The star patterns on its back grow larger or smaller depending on the number of stars in the night sky.",
+            "Crystal": "In the daytime when it gets warm, it curls up inside a big leaf and drifts off into a deep slumber.",
+            "Stadium 2": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder. (Pokémon Red, Silver, or Crystal inserted) The star patterns on its back grow larger or smaller depending on the number of stars in the night sky. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "It is said that in lands with clean air, where the stars fill the sky, there live Ledian in countless numbers. There is a good reason for this - the Pok é mon uses the light of the stars as its energy.",
+            "Sapphire": "It is said that in lands with clean air, where the stars fill the sky, there live Ledian in countless numbers. There is a good reason for this - the Pok é mon uses the light of the stars as its energy.",
+            "Emerald": "It is said that in lands with clean air, where the stars fill the sky, there live many Ledian . For good reason, they use the light of the stars as energy.",
+            "FireRed": "The star patterns on its back grow larger or smaller depending on the number of stars in the night sky.",
+            "LeafGreen": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder."
+        },
+        "Generation IV": {
+            "Diamond": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
+            "Pearl": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
+            "Platinum": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
+            "HeartGold": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",
+            "SoulSilver": "The spot patterns on its back grow larger or smaller depending on the number of stars in the night sky."
+        },
+        "Generation V": {
+            "Black": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
+            "White": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
+            "Black 2": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
+            "White 2": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger."
+        },
+        "Generation VI": {
+            "X": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",
+            "Y": "The spot patterns on its back grow larger or smaller depending on the number of stars in the night sky.",
+            "Omega Ruby": "It is said that in lands with clean air, where the stars fill the sky, there live Ledian in countless numbers. There is a good reason for this—the Pokémon uses the light of the stars as its energy.",
+            "Alpha Sapphire": "It is said that in lands with clean air, where the stars fill the sky, there live Ledian in countless numbers. There is a good reason for this—the Pokémon uses the light of the stars as its energy."
+        },
+        "Generation VII": {
+            "Sun": "While it's believed that starlight provides it with energy, this Pokémon also loves to eat berries. In the daytime, it curls up in the grass to sleep.",
+            "Moon": "In battle, it throws punches with all four arms. The power of each individual blow is piddly, so it aims to win by quantity rather than quality.",
+            "Ultra Sun": "It's said that the patterns on its back are related to the stars in the night sky, but the details of that relationship remain unclear.",
+            "Ultra Moon": "It flies through the night sky, sprinkling sparkly dust. According to some, if that dust sticks to you, good things will happen to you."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
+            "Shining Pearl": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Trade",
+            "Silver": "Route 2 Morning",
+            "Crystal": "Routes 2 and 37 Morning"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Evolve Ledyba",
+            "FireRed": "Evolve Ledyba",
+            "LeafGreen": "Evolve Ledyba",
+            "Colosseum": "The Under (Shadow)",
+            "XD": "Evolve Ledyba"
+        },
+        "Generation IV": {
+            "Diamond": "Route 229 Morning",
+            "Pearl": "Route 229 Morning",
+            "Platinum": "Route 229 Morning",
+            "HeartGold": "Trade",
+            "SoulSilver": "Route 2 Morning Viridian Forest ( Headbutt )",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Dreamyard ( dark grass )",
+            "White": "Dreamyard ( dark grass )",
+            "Black 2": "Trade",
+            "White 2": "Route 22 ( Swarm )"
+        },
+        "Generation VI": {
+            "X": "Evolve Ledyba",
+            "Y": "Evolve Ledyba",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Routes 10 , 11 , and 17 , Malie Garden , Ula'ula Meadow Day",
+            "Moon": "Routes 10 , 11 , and 17 , Malie Garden , Ula'ula Meadow Day",
+            "Ultra Sun": "Routes 10 , 11 , and 17 , Malie Garden , Ula'ula Meadow Day",
+            "Ultra Moon": "Routes 10 , 11 , and 17 , Malie Garden , Ula'ula Meadow Day",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 229 Morning Grand Underground - Grassland Cave , Fountainspring Cave , Swampy Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 229 Morning Grand Underground - Grassland Cave , Fountainspring Cave , Swampy Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Ledyba",
+            "to": "Ledian",
+            "method": [
+                "Level 18"
+            ]
+        }
+    ]
+}

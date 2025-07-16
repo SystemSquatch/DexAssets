@@ -1,0 +1,112 @@
+{
+    "name": "Piplup",
+    "pokedex_number": "#0393",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Competitive",
+        "Defiant"
+    ],
+    "stats": {
+        "HP": 53,
+        "Attack": 51,
+        "Defense": 53,
+        "Sp. Atk": 61,
+        "Sp. Def": 56,
+        "Speed": 40,
+        "Total": 314
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+            "Pearl": "It lives along shores in northern countries. A skilled swimmer, it dives for over 10 minutes to hunt.",
+            "Platinum": "A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.",
+            "HeartGold": "It doesn't like to be taken care of. It's difficult to bond with since it won't listen to its Trainer.",
+            "SoulSilver": "It doesn't like to be taken care of. It's difficult to bond with since it won't listen to its Trainer."
+        },
+        "Generation V": {
+            "Black": "A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.",
+            "White": "A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.",
+            "Black 2": "A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.",
+            "White 2": "A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care."
+        },
+        "Generation VI": {
+            "X": "It doesn't like to be taken care of. It's difficult to bond with since it won't listen to its Trainer.",
+            "Y": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+            "Omega Ruby": "It doesn't like to be taken care of. It's difficult to bond with since it won't listen to its Trainer.",
+            "Alpha Sapphire": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+            "Shining Pearl": "It lives along the shore in northern countries. A skilled swimmer, it dives for over 10 minutes while hunting.",
+            "Legends: Arceus": "Prefers cold climes and appears along coasts. It's an adorable little thing—as cute as any child—but it's also prideful, unwilling to accept handouts from people."
+        },
+        "Generation IX": {
+            "Scarlet": "A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.",
+            "Violet": "It doesn’t like to be taken care of. It’s difficult to bond with since it won’t listen to its Trainer."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "First partner Pokémon from Professor Rowan 's briefcase at Lake Verity",
+            "Pearl": "First partner Pokémon from Professor Rowan 's briefcase at Lake Verity",
+            "Platinum": "First partner Pokémon from Professor Rowan 's briefcase on Route 201",
+            "HeartGold": "Trade",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Global Link event",
+            "White": "Global Link event",
+            "Black 2": "Global Link event",
+            "White 2": "Global Link event"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Received from Professor Birch on Route 101 after entering the Hall of Fame twice",
+            "Alpha Sapphire": "Received from Professor Birch on Route 101 after entering the Hall of Fame twice"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Prinplup or Empoleon",
+            "Ultra Moon": "Breed Prinplup or Empoleon",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "First partner Pokémon from Professor Rowan 's briefcase at Lake Verity Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern (after obtaining the National Pokédex )",
+            "Shining Pearl": "First partner Pokémon from Professor Rowan 's briefcase at Lake Verity Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern (after obtaining the National Pokédex )",
+            "Legends: Arceus": "Cobalt Coastlands : near Spring Path , near Islespy Shore ( mass outbreaks ), massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Received as an Egg from Jacq on Reveler's Road (random between Turtwig, Chimchar and Piplup) Polar Biome (after boosting biodiversity in the Polar Biome)"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Piplup",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Piplup",
+            "to": "Prinplup",
+            "method": [
+                "Level 16"
+            ]
+        }
+    ]
+}

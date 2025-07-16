@@ -1,0 +1,158 @@
+{
+    "name": "Ponyta",
+    "pokedex_number": "#0077",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Run Away",
+        "Flash Fire",
+        "Run Away",
+        "Pastel Veil",
+        "Flame Body",
+        "Anticipation"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 55,
+        "Sp. Atk": 65,
+        "Sp. Def": 65,
+        "Speed": 90,
+        "Total": 410
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time.",
+            "Yellow": "Capable of jumping incredibly high. Its hooves and sturdy legs absorb the impact of a hard landing.",
+            "Stadium": "Capable of jumping over the Eiffel Tower in a single giant leap. Its hooves are ten times harder than diamonds."
+        },
+        "Generation II": {
+            "Gold": "It is a weak runner immediately after birth. It gradually becomes faster by chasing after its parents.",
+            "Silver": "Its hind legs, which have harder-than-diamond hooves, kick back at any presence it senses behind it.",
+            "Crystal": "Training by jumping over grass that grows longer every day has made it a world-class jumper.",
+            "Stadium 2": "It is a weak runner immediately after birth. It gradually becomes faster by chasing after its parents. (Pokémon Red, Silver, or Crystal inserted) Its hind legs, which have harder-than-diamond hooves, kick back at any presence it senses behind it. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Ponyta is very weak at birth. It can barely stand up. This Pok é mon becomes stronger by stumbling and falling to keep up with its parent.",
+            "Sapphire": "Ponyta is very weak at birth. It can barely stand up. This Pok é mon becomes stronger by stumbling and falling to keep up with its parent.",
+            "Emerald": "A Ponyta is very weak at birth. It can barely stand up. Its legs become stronger as it stumbles and falls while trying to keep up with its parent.",
+            "FireRed": "Its body is light, and its legs are incredibly powerful. It can clear Ayers Rock in one leap.",
+            "LeafGreen": "Its hooves are ten times harder than diamond. It can trample anything completely flat in little time."
+        },
+        "Generation IV": {
+            "Diamond": "About an hour after birth, its fiery mane and tail grow out, giving it an impressive appearance.",
+            "Pearl": "Its legs grow strong while it chases after its parent. It runs in fields and mountains all day.",
+            "Platinum": "As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.",
+            "HeartGold": "It is a weak runner immediately after birth. It gradually becomes faster by chasing after its parents.",
+            "SoulSilver": "Its hind legs, which have hooves that are harder than diamond, kick back at any presence it senses behind it."
+        },
+        "Generation V": {
+            "Black": "As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.",
+            "White": "As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.",
+            "Black 2": "As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.",
+            "White 2": "As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster."
+        },
+        "Generation VI": {
+            "X": "As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.",
+            "Y": "Its legs grow strong while it chases after its parent. It runs in fields and mountains all day.",
+            "Omega Ruby": "Ponyta is very weak at birth. It can barely stand up. This Pokémon becomes stronger by stumbling and falling to keep up with its parent.",
+            "Alpha Sapphire": "Ponyta is very weak at birth. It can barely stand up. This Pokémon becomes stronger by stumbling and falling to keep up with its parent."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Capable of jumping incredibly high. Its hooves and sturdy legs absorb the impact of a hard landing.",
+            "Let's Go Eevee": "Capable of jumping incredibly high. Its hooves and sturdy legs absorb the impact of a hard landing."
+        },
+        "Generation VIII": {
+            "Sword": "Its small horn hides a healing power. With a few rubs from this Pokémon's horn, any slight wound you have will be healed.",
+            "Shield": "This Pokémon will look into your eyes and read the contents of your heart. If it finds evil there, it promptly hides away.",
+            "Brilliant Diamond": "About an hour after birth, Ponyta's fiery mane and tail grow out, giving the Pokémon an impressive appearance.",
+            "Shining Pearl": "Its legs grow strong while it chases after its parents. It runs all day in fields and on mountains.",
+            "Legends: Arceus": "These Pokémon live in herds out in the grassland. Newborn foals lack their fiery manes, which will develop about an hour after birth."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Pokémon Mansion",
+            "Blue": "Pokémon Mansion",
+            "Blue (Japan)": "Pokémon Mansion",
+            "Yellow": "Route 17"
+        },
+        "Generation II": {
+            "Gold": "Routes 22 , 26 , 27 , and 28 , Mt. Silver",
+            "Silver": "Routes 22 , 26 , 27 , and 28 , Mt. Silver",
+            "Crystal": "Routes 22 , 26 , 27 , and 28 , Mt. Silver Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Kindle Road and Mt. Ember",
+            "LeafGreen": "Kindle Road and Mt. Ember",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 206 , 210 , 211 , 214 , and 215",
+            "Pearl": "Routes 206 , 210 , 211 , 214 , and 215",
+            "Platinum": "Routes 206 , 207 , and 210",
+            "HeartGold": "Routes 22 , 26 , 27 , and 28 , Mt. Silver Safari Zone (Plains with 5 Peak points)",
+            "SoulSilver": "Routes 22 , 26 , 27 , and 28 , Mt. Silver Safari Zone (Plains with 5 Peak points)",
+            "Pal Park": "Field",
+            "Pokéwalker": "Rugged Road and Volcano Path"
+        },
+        "Generation V": {
+            "Black": "Breed Rapidash",
+            "White": "Breed Rapidash",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Fire )",
+            "Y": "Friend Safari ( Fire )",
+            "Omega Ruby": "Route 112 and Jagged Pass ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 112 and Jagged Pass ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Route 17",
+            "Let's Go Eevee": "Route 17"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+ , Wild Area News ( Kantonian Form ) Trade , Event , Wild Area News ( Galarian Form )",
+            "Shield": "Trade Version 1.2.0+ , Wild Area News ( Kantonian Form ) Glimwood Tangle ( Galarian Form ) Bridge Field ( Max Raid Battle ) ( Galarian Form )",
+            "Shield Expansion Pass": "Trade Galarian Ponyta with Regina on Isle of Armor ( Kantonian Form ) Old Cemetery ( Galarian Form ) Snowslide Slope , Path to the Peak , Giant's Bed , Ballimere Lake ( Max Raid Battle ) ( Galarian Form )",
+            "Brilliant Diamond": "Routes 206 , 210 , 211 , 214 , and Route 215 ( Kantonian Form ) Grand Underground : Sandsear Cave , Volcanic Cave , Typhlo Cavern (after obtaining TM96 ( Strength )) ( Kantonian Form ) Unobtainable ( Galarian Form )",
+            "Shining Pearl": "Routes 206 , 210 , 211 , 214 , and Route 215 ( Kantonian Form ) Grand Underground : Sandsear Cave , Volcanic Cave , Typhlo Cavern (after obtaining TM96 ( Strength )) ( Kantonian Form ) Unobtainable ( Galarian Form )",
+            "Legends: Arceus": "Obsidian Fieldlands : Horseshoe Plains (additional Shiny , only one during Request 19), massive mass outbreaks ( Kantonian Form ) Coronet Highlands : massive mass outbreaks ( Kantonian Form ) Unobtainable ( Galarian Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Ponyta",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Ponyta",
+            "to": "Rapidash",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

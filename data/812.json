@@ -1,0 +1,56 @@
+{
+    "name": "Rillaboom",
+    "pokedex_number": "#0812",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Grassy Surge"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 125,
+        "Defense": 90,
+        "Sp. Atk": 60,
+        "Sp. Def": 70,
+        "Speed": 85,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.",
+            "Shield": "The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group."
+        },
+        "Generation IX": {
+            "Scarlet": "Though it has a calm disposition, it won’t tolerate those who drum up discord. It strictly disciplines offenders until they learn their lesson.",
+            "Violet": "When one Rillaboom challenges another who leads a troop, a drumming battle commences. The victor becomes the troop’s new boss."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Evolve Thwackey",
+            "Shield": "Evolve Thwackey",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade , Poké Portal News",
+            "Violet": "Trade , Poké Portal News",
+            "The Hidden Treasure of Area Zero": "Evolve Thwackey"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Thwackey",
+            "to": "Rillaboom",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

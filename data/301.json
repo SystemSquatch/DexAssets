@@ -1,0 +1,117 @@
+{
+    "name": "Delcatty",
+    "pokedex_number": "#0301",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Cute Charm",
+        "Normalize",
+        "Wonder Skin"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Atk": 55,
+        "Sp. Def": 55,
+        "Speed": 70,
+        "Total": 380
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Delcatty prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this Pok é mon eats and sleeps whenever it decides, its daily routines are completely random.",
+            "Sapphire": "Delcatty sleeps anywhere it wants without keeping a permanent nest. If other Pok é mon approach it as it sleeps, this Pok é mon will never fight - it will just move away somewhere else.",
+            "Emerald": "Rather than keeping a permanent lair, it habitually seeks comfortable spots and sleeps there. It is nocturnal and becomes active at dusk.",
+            "FireRed": "The favorite of trend-conscious female Trainers , they are used in competition for their style and fur.",
+            "LeafGreen": "The favorite of trend-conscious female Trainers , they are used in competition for their style and fur."
+        },
+        "Generation IV": {
+            "Diamond": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+            "Pearl": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+            "Platinum": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+            "HeartGold": "It dislikes dirty places. It often searches for a comfortable place in which to groom itself.",
+            "SoulSilver": "It dislikes dirty places. It often searches for a comfortable place in which to groom itself."
+        },
+        "Generation V": {
+            "Black": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+            "White": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+            "Black 2": "The reason it does not have a nest is that it simply searches for a clean, comfortable place then sleeps there.",
+            "White 2": "The reason it does not have a nest is that it simply searches for a clean, comfortable place then sleeps there."
+        },
+        "Generation VI": {
+            "X": "It dislikes dirty places. It often searches for a comfortable place in which to groom itself.",
+            "Y": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+            "Omega Ruby": "Delcatty prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this Pokémon eats and sleeps whenever it decides, its daily routines are completely random.",
+            "Alpha Sapphire": "Delcatty sleeps anywhere it wants without keeping a permanent nest. If other Pokémon approach it as it sleeps, this Pokémon will never fight—it will just move away somewhere else."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It is highly popular among Trainers for its sublime fur. It does not keep a nest.",
+            "Shining Pearl": "It is highly popular among Trainers for its sublime fur. It does not keep a nest."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Skitty",
+            "Sapphire": "Evolve Skitty",
+            "Emerald": "Evolve Skitty",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Cipher Lab (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Skitty",
+            "Pearl": "Evolve Skitty",
+            "Platinum": "Evolve Skitty",
+            "HeartGold": "Evolve Pokéwalker Skitty",
+            "SoulSilver": "Evolve Pokéwalker Skitty",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Evolve Dream World Skitty",
+            "White": "Evolve Dream World Skitty",
+            "Black 2": "Trade",
+            "White 2": "Castelia City ( Rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Skitty",
+            "Y": "Evolve Skitty",
+            "Omega Ruby": "Evolve Skitty",
+            "Alpha Sapphire": "Evolve Skitty"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Skitty",
+            "Shining Pearl": "Evolve Skitty",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Skitty",
+            "to": "Delcatty",
+            "method": [
+                "Use Moon Stone"
+            ]
+        }
+    ]
+}

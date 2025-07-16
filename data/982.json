@@ -1,0 +1,46 @@
+{
+    "name": "Dudunsparce",
+    "pokedex_number": "#0982",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Serene Grace",
+        "Run Away",
+        "Rattled"
+    ],
+    "stats": {
+        "HP": 125,
+        "Attack": 100,
+        "Defense": 80,
+        "Sp. Atk": 85,
+        "Sp. Def": 75,
+        "Speed": 55,
+        "Total": 520
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "The gentle Dudunsparce will put Pokémon that wander into its nest onto its back and carry them to the entrance.",
+            "Violet": "A recent study uncovered that the number of segments a Dudunsparce’s body has is determined by the Pokémon’s genes."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Evolve Dunsparce ( Two-Segment/Three-Segment Forms ) Area Zero ( Two-Segment Form ) Tera Raid Battles ( 4★ ) ( Two-Segment Form )",
+            "Violet": "Evolve Dunsparce ( Two-Segment/Three-Segment Forms ) Area Zero ( Two-Segment Form ) Tera Raid Battles ( 4★ ) ( Two-Segment Form )",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Chilling Waterhead , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Dunsparce",
+            "to": "Dudunsparce",
+            "method": [
+                "Level up (knowing Hyper Drill)"
+            ]
+        }
+    ]
+}

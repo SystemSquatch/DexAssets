@@ -1,0 +1,58 @@
+{
+    "name": "Hatterene",
+    "pokedex_number": "#0858",
+    "types": [
+        "Psychic",
+        "Fairy"
+    ],
+    "abilities": [
+        "Healer",
+        "Anticipation",
+        "Magic Bounce"
+    ],
+    "stats": {
+        "HP": 57,
+        "Attack": 90,
+        "Defense": 95,
+        "Sp. Atk": 136,
+        "Sp. Def": 103,
+        "Speed": 29,
+        "Total": 510
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "It emits psychic power strong enough to cause headaches as a deterrent to the approach of others.",
+            "Shield": "If you're too loud around it, you risk being torn apart by the claws on its tentacle. This Pokémon is also known as the Forest Witch."
+        },
+        "Generation IX": {
+            "Scarlet": "Hatterene knocks out those that intrude in its home forest by blasting them with a beam, then slashing with claws enhanced by psychic power.",
+            "Violet": "Beware of forests that show no signs of living creatures within. You may have wandered into Hatterene's territory."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Bridge Field , Hammerlocke Hills , Motostoke Riverbank , Stony Wilderness , Watchtower Ruins ( Max Raid Battle ) Bridge Field ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Shield": "Lake of Outrage Bridge Field , Hammerlocke Hills , Motostoke Riverbank , Stony Wilderness , Watchtower Ruins ( Max Raid Battle ) Bridge Field ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Expansion Pass": "Frostpoint Field , Giant's Bed , Frigid Sea , Ballimere Lake ( Wanderer ) Frostpoint Field , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle ) ( Gigantamax Factor ) Max Lair ( Dynamax Adventure ) ( Gigantamax Factor )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 5★ )",
+            "Violet": "Tera Raid Battles ( 5★ )",
+            "The Hidden Treasure of Area Zero": "Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Hattrem",
+            "to": "Hatterene",
+            "method": [
+                "Level 42"
+            ]
+        }
+    ]
+}

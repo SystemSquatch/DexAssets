@@ -1,0 +1,114 @@
+{
+    "name": "Glaceon",
+    "pokedex_number": "#0471",
+    "types": [
+        "Ice",
+        "Unknown"
+    ],
+    "abilities": [
+        "Snow Cloak",
+        "Ice Body"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 110,
+        "Sp. Atk": 130,
+        "Sp. Def": 95,
+        "Speed": 65,
+        "Total": 525
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "As a protective technique, it can completely freeze its fur to make its hairs stand like needles.",
+            "Pearl": "As a protective technique, it can completely freeze its fur to make its hairs stand like needles.",
+            "Platinum": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
+            "HeartGold": "It causes small ice crystals to form by lowering the temperature of the surrounding atmosphere.",
+            "SoulSilver": "It causes small ice crystals to form by lowering the temperature of the surrounding atmosphere."
+        },
+        "Generation V": {
+            "Black": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
+            "White": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
+            "Black 2": "It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.",
+            "White 2": "It lowers its body heat to freeze its fur. The hairs then become like needles it can fire."
+        },
+        "Generation VI": {
+            "X": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
+            "Y": "It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.",
+            "Omega Ruby": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
+            "Alpha Sapphire": "It lowers its body heat to freeze its fur. The hairs then become like needles it can fire."
+        },
+        "Generation VII": {
+            "Sun": "It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.",
+            "Moon": "It freezes its fur into icicles, spiky and sharp, and tackles its prey.",
+            "Ultra Sun": "It protects itself by freezing its fur into sharp needles. It can drop its body temperature below –75 degrees Fahrenheit .",
+            "Ultra Moon": "It can instantaneously freeze any moisture that's around it, creating ice pellets to shoot at its prey."
+        },
+        "Generation VIII": {
+            "Sword": "Any who become captivated by the beauty of the snowfall that Glaceon creates will be frozen before they know it.",
+            "Shield": "The coldness emanating from Glaceon causes powdery snow to form, making it quite a popular Pokémon at ski resorts.",
+            "Brilliant Diamond": "As a defense mechanism, it can completely freeze its fur to make its hairs stand out like needles.",
+            "Shining Pearl": "As a defense mechanism, it can completely freeze its fur to make its hairs stand out like needles.",
+            "Legends: Arceus": "Glaceon is able to lower its body temperature very quickly. It freezes the atmosphere, creating diamond dust that glitters like gems while it flutters and dances around."
+        },
+        "Generation IX": {
+            "Scarlet": "It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.",
+            "Violet": "It lowers its body heat to freeze its fur. The hairs then become like needles it can fire."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Eevee",
+            "Pearl": "Evolve Eevee",
+            "Platinum": "Evolve Eevee",
+            "HeartGold": "Trade , Evolve Eevee in Pokémon Diamond, Pearl or Platinum",
+            "SoulSilver": "Trade , Evolve Eevee in Pokémon Diamond, Pearl or Platinum"
+        },
+        "Generation V": {
+            "Black": "Evolve Dream World Eevee",
+            "White": "Evolve Dream World Eevee",
+            "Black 2": "Evolve Eevee",
+            "White 2": "Evolve Eevee"
+        },
+        "Generation VI": {
+            "X": "Evolve Eevee",
+            "Y": "Evolve Eevee",
+            "Omega Ruby": "Evolve Eevee",
+            "Alpha Sapphire": "Evolve Eevee"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Eevee",
+            "Moon": "Evolve Eevee",
+            "Ultra Sun": "Evolve Eevee",
+            "Ultra Moon": "Evolve Eevee",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage ( Wanderer ) Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Lake of Outrage ( Wanderer ) Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed ( Wanderer ) Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Eevee",
+            "Shining Pearl": "Evolve Eevee",
+            "Legends: Arceus": "Alabaster Icelands : Space-time distortions Evolve Eevee"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Glaseado Mountain North Province: Glaseado Mountain ( Ice Tera Type ) Tera Raid Battles ( 6★ )",
+            "Violet": "North Province: Glaseado Mountain North Province: Glaseado Mountain ( Ice Tera Type ) Tera Raid Battles ( 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Eevee",
+            "to": "Glaceon",
+            "method": [
+                "Level up (near a Sinnoh Route 217)",
+                "Level up (near a Twist Mountain)",
+                "Level up (near a Frost Cavern)",
+                "Use Ice Stone"
+            ]
+        }
+    ]
+}

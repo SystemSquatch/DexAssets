@@ -1,0 +1,125 @@
+{
+    "name": "Hariyama",
+    "pokedex_number": "#0297",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Thick Fat",
+        "Guts",
+        "Sheer Force"
+    ],
+    "stats": {
+        "HP": 144,
+        "Attack": 120,
+        "Defense": 60,
+        "Sp. Atk": 40,
+        "Sp. Def": 60,
+        "Speed": 50,
+        "Total": 474
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Hariyama practices its straight-arm slaps in any number of locations. One hit of this Pok é mon 's powerful, openhanded, straight-arm punches could snap a telephone pole in two.",
+            "Sapphire": "Hariyama 's thick body may appear fat, but it is actually a hunk of solid muscle. If this Pok é mon bears down and tightens all its muscles, its body becomes as hard as a rock.",
+            "Emerald": "It has the habit of challenging others without hesitation to tests of strength. It's been known to stand on train tracks and stop trains using forearm thrusts.",
+            "FireRed": "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.",
+            "LeafGreen": "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch."
+        },
+        "Generation IV": {
+            "Diamond": "It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.",
+            "Pearl": "It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.",
+            "Platinum": "It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.",
+            "HeartGold": "It loves challenging others to tests of strength. It has the power to stop a train with a slap.",
+            "SoulSilver": "It loves challenging others to tests of strength. It has the power to stop a train with a slap."
+        },
+        "Generation V": {
+            "Black": "It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.",
+            "White": "It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.",
+            "Black 2": "It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.",
+            "White 2": "It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts."
+        },
+        "Generation VI": {
+            "X": "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.",
+            "Y": "It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.",
+            "Omega Ruby": "Hariyama practices its straight-arm slaps in any number of locations. One hit of this Pokémon's powerful, openhanded, straight-arm punches could snap a telephone pole in two.",
+            "Alpha Sapphire": "Hariyama's thick body may appear fat, but it is actually a hunk of solid muscle. If this Pokémon bears down and tightens all its muscles, its body becomes as hard as a rock."
+        },
+        "Generation VII": {
+            "Sun": "It is known for its fantastic strength, but as it grows older, it focuses more on training Makuhita .",
+            "Moon": "They love to compare their freakish strength—strength enough to send a truck flying with a single slap.",
+            "Ultra Sun": "Although they enjoy comparing their strength, they're also kind. They value etiquette, praising opponents they battle.",
+            "Ultra Moon": "Hariyama that are big and fat aren't necessarily strong. There are some small ones that move nimbly and use moves skillfully."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It loves to match power with big-bodied\tPokémon. It can send a truck flying with its arm thrusts.",
+            "Shining Pearl": "It loves to match power with big-bodied\tPokémon. It can send a truck flying with its arm thrusts."
+        },
+        "Generation IX": {
+            "Scarlet": "It loves challenging others to tests of strength. It has the power to stop a train with a slap.",
+            "Violet": "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Victory Road",
+            "Sapphire": "Victory Road",
+            "Emerald": "Victory Road",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Evolve Makuhita",
+            "XD": "Evolve Makuhita"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Makuhita",
+            "Pearl": "Evolve Makuhita",
+            "Platinum": "Evolve Makuhita",
+            "HeartGold": "Evolve Makuhita",
+            "SoulSilver": "Evolve Makuhita",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Pinwheel Forest ( Hidden Grotto ) *",
+            "White 2": "Pinwheel Forest ( Hidden Grotto ) *"
+        },
+        "Generation VI": {
+            "X": "Route 11 , Friend Safari ( Fighting )",
+            "Y": "Route 11 , Friend Safari ( Fighting )",
+            "Omega Ruby": "Victory Road",
+            "Alpha Sapphire": "Victory Road"
+        },
+        "Generation VII": {
+            "Sun": "Poni Plains",
+            "Moon": "Poni Plains",
+            "Ultra Sun": "Poni Plains",
+            "Ultra Moon": "Poni Plains",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Makuhita",
+            "Shining Pearl": "Evolve Makuhita",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Three , Area Six , Alfornada Cavern East Province: Area Three West Province: Area Two , Area Three North Province: Area Three , Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 5★ )",
+            "Violet": "South Province: Area Three , Area Six , Alfornada Cavern East Province: Area Three West Province: Area Two , Area Three North Province: Area Three , Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 5★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Makuhita",
+            "to": "Hariyama",
+            "method": [
+                "Level 24"
+            ]
+        }
+    ]
+}

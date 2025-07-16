@@ -1,0 +1,51 @@
+{
+    "name": "Frigibax",
+    "pokedex_number": "#0996",
+    "types": [
+        "Dragon",
+        "Ice"
+    ],
+    "abilities": [
+        "Thermal Exchange",
+        "Ice Body"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 75,
+        "Defense": 45,
+        "Sp. Atk": 35,
+        "Sp. Def": 45,
+        "Speed": 55,
+        "Total": 320
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
+            "Violet": "This Pokémon lives in forests and craggy areas. Using the power of its dorsal fin, it cools the inside of its nest like a refrigerator."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "North Province: Dalizapa Passage , Glaseado Mountain North Province: Glaseado Mountain ( Dark Tera Type ) Tera Raid Battles ( 3★ )",
+            "Violet": "North Province: Dalizapa Passage , Glaseado Mountain North Province: Glaseado Mountain ( Dark Tera Type ) Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Frigibax",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Frigibax",
+            "to": "Arctibax",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

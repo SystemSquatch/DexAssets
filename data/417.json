@@ -1,0 +1,99 @@
+{
+    "name": "Pachirisu",
+    "pokedex_number": "#0417",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Run Away",
+        "Pickup",
+        "Volt Absorb"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 70,
+        "Sp. Atk": 45,
+        "Sp. Def": 90,
+        "Speed": 95,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
+            "Pearl": "It makes electricity with pouches in its cheeks and shoots charges from its tail. It lives atop trees.",
+            "Platinum": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+            "HeartGold": "It's one of the kinds of Pokémon with electric cheek pouches. It shoots charges from its tail.",
+            "SoulSilver": "It's one of the kinds of Pokémon with electric cheek pouches. It shoots charges from its tail."
+        },
+        "Generation V": {
+            "Black": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+            "White": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+            "Black 2": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+            "White 2": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity."
+        },
+        "Generation VI": {
+            "X": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
+            "Y": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+            "Omega Ruby": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
+            "Alpha Sapphire": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It stores its own fur balls that crackle with static electricity together with its favorite berries in tree hollows.",
+            "Shining Pearl": "It makes electricity with pouches in its cheeks and shoots charges from its tail. It lives atop trees.",
+            "Legends: Arceus": "A species related to the Pikachu line. Though Pachirisu is a calm Pokémon, it still presents a danger should one touch its electrified tail or cheeks."
+        },
+        "Generation IX": {
+            "Scarlet": "It’s one of the kinds of Pokémon with electric cheek pouches. It shoots charges from its tail.",
+            "Violet": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Route 205 , Fuego Ironworks , Valley Windworks",
+            "Pearl": "Route 205 , Fuego Ironworks , Valley Windworks",
+            "Platinum": "Route 205 , Valley Windworks",
+            "HeartGold": "Safari Zone (tall grass in Swamp with 10 Plains points; tall grass in Wetland with 8 Forest points)",
+            "SoulSilver": "Safari Zone (tall grass in Swamp with 10 Plains points; tall grass in Wetland with 8 Forest points)",
+            "Pokéwalker": "Resort , Rally"
+        },
+        "Generation V": {
+            "Black": "Dream World or Trade",
+            "White": "Dream World or Trade",
+            "Black 2": "Route 3 ( Hidden Grotto ) *",
+            "White 2": "Route 3 ( Hidden Grotto ) *",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Route 12 , Friend Safari ( Electric )",
+            "Y": "Route 12 , Friend Safari ( Electric )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 205 , Fuego Ironworks , Valley Windworks Grand Underground - Spacious Cave , Whiteout Cave",
+            "Shining Pearl": "Route 205 , Fuego Ironworks , Valley Windworks Grand Underground - Spacious Cave , Whiteout Cave",
+            "Legends: Arceus": "Crimson Mirelands : near Gapejaw Bog (also mass outbreaks ), Cottonsedge Prairie , massive mass outbreaks Alabaster Icelands : massive mass outbreaks Crimson Mirelands: near Golden Lowlands , Gapejaw Bog, Holm of Trials , Ursa's Ring , near Scarlet Bog , Cottonsedge Prairie, Droning Meadow Shaking trees"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five East Province: Area Two West Province: Area Three Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five East Province: Area Two West Province: Area Three Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Reveler's Road , Kitakami Hall , Mossfell Confluence , Oni Mountain , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": []
+}

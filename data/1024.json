@@ -1,0 +1,46 @@
+{
+    "name": "Terapagos",
+    "pokedex_number": "#1024",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Tera Shift",
+        "Tera Shell",
+        "Teraform Zero"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 65,
+        "Defense": 85,
+        "Sp. Atk": 65,
+        "Sp. Def": 85,
+        "Speed": 60,
+        "Total": 450
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "In this form, Terapagos resembles the world as the ancients saw it, and its Terastal energy is abnormally amplified.",
+            "Violet": "An old expedition journal describes the sight of this Pokémon buried in the depths of the earth as resembling a planet floating in space."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Area Zero Underdepths ( only one )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Terapagos",
+            "method": [
+                "Base Stage"
+            ]
+        }
+    ]
+}

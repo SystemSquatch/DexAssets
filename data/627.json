@@ -1,0 +1,104 @@
+{
+    "name": "Rufflet",
+    "pokedex_number": "#0627",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Sheer Force",
+        "Hustle"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 83,
+        "Defense": 50,
+        "Sp. Atk": 37,
+        "Sp. Def": 50,
+        "Speed": 60,
+        "Total": 350
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
+            "White": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
+            "Black 2": "It stands up to massive opponents, not out of courage, but out of recklessness. But that is how it gets stronger.",
+            "White 2": "It stands up to massive opponents, not out of courage, but out of recklessness. But that is how it gets stronger."
+        },
+        "Generation VI": {
+            "X": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
+            "Y": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
+            "Omega Ruby": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
+            "Alpha Sapphire": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger."
+        },
+        "Generation VII": {
+            "Sun": "They pick fights indiscriminately. They grow stronger and more powerful each time they faint or are injured.",
+            "Moon": "With its sharp claws, this Pokémon pierces its prey, and then it pecks at them. Although it also consumes berries, it's a carnivore at heart.",
+            "Ultra Sun": "With its powerful legs and sturdy claws, it can crack even the hard shells of Shellder and pluck out their insides.",
+            "Ultra Moon": "Known as a natural-born warrior, soon after its hatching, it will challenge its parent to a fight in order to gain their acceptance."
+        },
+        "Generation VIII": {
+            "Sword": "If it spies a strong Pokémon, Rufflet can't resist challenging it to a battle. But if Rufflet loses, it starts bawling.",
+            "Shield": "A combative Pokémon, it's ready to pick a fight with anyone. It has talons that can crush hard berries.",
+            "Legends: Arceus": "Its chick-like looks belie its hotheadedness. It challenges its parents at every opportunity, desperate to prove its strength."
+        },
+        "Generation IX": {
+            "Scarlet": "They pick fights indiscriminately. They grow stronger and more powerful each time they faint or are injured.",
+            "Violet": "With its sharp claws, this Pokémon pierces its prey, and then it pecks at them. Although it also consumes berries, it's a carnivore at heart."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Routes 10 and 11 , Victory Road , Village Bridge",
+            "Black 2": "Trade",
+            "White 2": "Route 23"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Flying )",
+            "Y": "Friend Safari ( Flying )",
+            "Omega Ruby": "Mirage Mountain (north of Lilycove City )",
+            "Alpha Sapphire": "Mirage Mountain (north of Lilycove City )"
+        },
+        "Generation VII": {
+            "Sun": "Route 3 , Poké Pelago",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 3",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 8 , Stony Wilderness , Bridge Field Rolling Fields , East Lake Axewell ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Sword Expansion Pass": "Potbottom Desert Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Alabaster Icelands : near Avalugg's Legacy , Heart's Crag , Lake Acuity , near Pearl Settlement , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Three , Area Four , Area Six East Province: Area Three West Province: Asado Desert North Province: Area One , Area Two , Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area One , Area Three , Area Four , Area Six East Province: Area Three West Province: Asado Desert North Province: Area One , Area Two , Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Rufflet",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Rufflet",
+            "to": "Braviary",
+            "method": [
+                "Level 54"
+            ]
+        }
+    ]
+}

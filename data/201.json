@@ -1,0 +1,119 @@
+{
+    "name": "Unown",
+    "pokedex_number": "#0201",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 48,
+        "Attack": 72,
+        "Defense": 48,
+        "Sp. Atk": 72,
+        "Sp. Def": 48,
+        "Speed": 48,
+        "Total": 336
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related.",
+            "Silver": "Its flat, thin body is always stuck on walls. Its shape appears to have some meaning.",
+            "Crystal": "Because different types of Unown exist, it is said that they must have a variety of abilities.",
+            "Stadium 2": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related. (Pokémon Red, Silver, or Crystal inserted) Its flat, thin body is always stuck on walls. Its shape appears to have some meaning. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "This Pok é mon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown . Research into this topic is ongoing but nothing is known.",
+            "Sapphire": "This Pok é mon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown . Research into this topic is ongoing but nothing is known.",
+            "Emerald": "This Pok é mon is shaped like ancient text characters. Although research is ongoing, it is a mystery as to which came first, the ancient writings or the various Unown .",
+            "FireRed": "Its flat, thin body is always stuck on walls. Its shape appears to have some meaning.",
+            "LeafGreen": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related."
+        },
+        "Generation IV": {
+            "Diamond": "Shaped like ancient writing, it is a huge mystery whether language or Unown came first.",
+            "Pearl": "They seem to communicate among each other telepathically. They are always found stuck on walls.",
+            "Platinum": "When alone, nothing happens. However, if there are two or more, an odd power is said to emerge.",
+            "HeartGold": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related.",
+            "SoulSilver": "Its flat, thin body is always stuck on walls. Its shape appears to have some meaning."
+        },
+        "Generation V": {
+            "Black": "When alone, nothing happens. However, if there are two or more, an odd power is said to emerge.",
+            "White": "When alone, nothing happens. However, if there are two or more, an odd power is said to emerge.",
+            "Black 2": "When alone, nothing happens. However, if there are two or more, an odd power is said to emerge.",
+            "White 2": "When alone, nothing happens. However, if there are two or more, an odd power is said to emerge."
+        },
+        "Generation VI": {
+            "X": "Its flat, thin body is always stuck on walls. Its shape appears to have some meaning.",
+            "Y": "Shaped like ancient writing, it is a huge mystery whether language or Unown came first.",
+            "Omega Ruby": "This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.",
+            "Alpha Sapphire": "This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Because the Pokémon is shaped like ancient writing, it is a huge mystery whether written language or Unown came first.",
+            "Shining Pearl": "They seem to communicate among each other telepathically. They are always found stuck on walls.",
+            "Legends: Arceus": "It is hard to believe these strangely shaped Pokémon are truly living creatures. I've pointed out that the species' many forms resemble writing from other lands; no one will take me seriously."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Inside Ruins of Alph (different forms appear when puzzles are solved)",
+            "Silver": "Inside Ruins of Alph (different forms appear when puzzles are solved)",
+            "Crystal": "Inside Ruins of Alph (different forms appear when puzzles are solved)"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Inside Tanoby Chambers (different forms appear in different chambers)",
+            "LeafGreen": "Inside Tanoby Chambers (different forms appear in different chambers)",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Solaceon Ruins (different forms appear in different rooms)",
+            "Pearl": "Solaceon Ruins (different forms appear in different rooms)",
+            "Platinum": "Solaceon Ruins (different forms appear in different rooms)",
+            "HeartGold": "Ruins of Alph B1F (different letters appear when puzzles are solved) Ruins of Alph 1F ( ! and ? Forms ; appears after finding all Unown letters)",
+            "SoulSilver": "Ruins of Alph B1F (different letters appear when puzzles are solved) Ruins of Alph 1F ( ! and ? Forms ; appears after finding all Unown letters)",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Mirage Cave (South of Route 107 )",
+            "Alpha Sapphire": "Mirage Cave (South of Route 107 )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Solaceon Ruins (different forms appear in different rooms)",
+            "Shining Pearl": "Solaceon Ruins (different forms appear in different rooms)",
+            "Legends: Arceus": "Crimson Mirelands : Solaceon Ruins , massive mass outbreaks (all 28 forms appear after completing the Unown Research Notes ) All over Hisui : one of each form"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

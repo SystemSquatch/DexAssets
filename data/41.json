@@ -1,0 +1,158 @@
+{
+    "name": "Zubat",
+    "pokedex_number": "#0041",
+    "types": [
+        "Poison",
+        "Flying"
+    ],
+    "abilities": [
+        "Inner Focus",
+        "Infiltrator"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Sp. Atk": 30,
+        "Sp. Def": 40,
+        "Speed": 55,
+        "Total": 245
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
+            "Yellow": "Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.",
+            "Stadium": "It has neither eyes nor a nose. It emits ultrasonic cries that bounce back to its large ears, enabling it to fly safely."
+        },
+        "Generation II": {
+            "Gold": "While flying, it constantly emits ultrasonic waves from its mouth to check its surroundings.",
+            "Silver": "Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles.",
+            "Crystal": "During the day, it gathers with others and hangs from the ceilings of old buildings and caves.",
+            "Stadium 2": "While flying, it constantly emits ultrasonic waves from its mouth to check its surroundings. (Pokémon Red, Silver, or Crystal inserted) Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
+            "Sapphire": "Zubat avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.",
+            "Emerald": "While living in pitch-black caverns, their eyes gradually grew shut and deprived them of vision. They use ultrasonic waves to detect obstacles.",
+            "FireRed": "It has no eyes. Instead, it relies on its ultrasonic cries for echo location to flit about in darkness.",
+            "LeafGreen": "It forms colonies in perpetually dark places and uses ultrasonic waves to identify and approach targets."
+        },
+        "Generation IV": {
+            "Diamond": "Even though it has no eyes, it can sense obstacles using ultrasonic waves it emits from its mouth.",
+            "Pearl": "Disliking sunlight, it sleeps deep in forests and caves until sundown.",
+            "Platinum": "It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.",
+            "HeartGold": "While flying, it constantly emits ultrasonic waves from its mouth to check its surroundings.",
+            "SoulSilver": "Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles."
+        },
+        "Generation V": {
+            "Black": "It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.",
+            "White": "It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.",
+            "Black 2": "It does not need eyes, because it emits ultrasonic waves to check its surroundings while it flies.",
+            "White 2": "It does not need eyes, because it emits ultrasonic waves to check its surroundings while it flies."
+        },
+        "Generation VI": {
+            "X": "Even though it has no eyes, it can sense obstacles using ultrasonic waves it emits from its mouth.",
+            "Y": "It has no eyes. Instead, it relies on its ultrasonic cries for echolocation to flit about in darkness.",
+            "Omega Ruby": "Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
+            "Alpha Sapphire": "Zubat avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down."
+        },
+        "Generation VII": {
+            "Sun": "It sleeps in caves during the day. It has no eyes, so to check its surroundings while flying, it emits ultrasonic waves.",
+            "Moon": "When exposed to sunlight, they suffer burns. The frequency of their ultrasonic waves can differ slightly from colony to colony.",
+            "Ultra Sun": "It has no eyeballs, so it can't see. It checks its surroundings via the ultrasonic waves it emits from its mouth.",
+            "Ultra Moon": "Their skin is so thin that they'll be burned if sunlight hits them. When it gets cold out, they gather together to warm one another's bodies.",
+            "Let's Go Pikachu": "Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.",
+            "Let's Go Eevee": "Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way."
+        },
+        "Generation VIII": {
+            "Sword": "It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.",
+            "Shield": "Zubat live in caves, down where the sun's light won't reach. In the morning, they gather together to keep each other warm as they sleep.",
+            "Brilliant Diamond": "Even though it has no eyes, it can sense obstacles using ultrasonic waves it emits from its mouth.",
+            "Shining Pearl": "Disliking sunlight, it sleeps deep in forests and caves until sundown.",
+            "Legends: Arceus": "Makes its home in gloomy caves. Atrophied eyes have left this Pokémon blind, so it scans its surroundings via sound waves that it emits from its mouth as it flies."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Mt. Moon , Rock Tunnel , Seafoam Islands , Victory Road",
+            "Blue": "Mt. Moon , Rock Tunnel , Seafoam Islands , Victory Road",
+            "Blue (Japan)": "Mt. Moon , Rock Tunnel , Seafoam Islands , Victory Road",
+            "Yellow": "Mt. Moon , Rock Tunnel , Seafoam Islands , Victory Road"
+        },
+        "Generation II": {
+            "Gold": "Rock Tunnel , Whirl Islands , Ilex Forest , Mt. Moon , Dark Cave , Ice Path , Mt. Mortar , Union Cave , Tohjo Falls , Burned Tower , Slowpoke Well (all times) Routes 3 , 4 , 32 , 33 , and 42 Night",
+            "Silver": "Rock Tunnel , Whirl Islands , Ilex Forest , Mt. Moon , Dark Cave , Ice Path , Mt. Mortar , Union Cave , Tohjo Falls , Burned Tower , Slowpoke Well (all times) Routes 3 , 4 , 32 , 33 , and 42 Night",
+            "Crystal": "Rock Tunnel , Whirl Islands , Mt. Moon , Dark Cave , Ice Path , Mt. Mortar , Union Cave , Tohjo Falls , Burned Tower , Slowpoke Well (all times) Routes 3 , 4 , 9 , 10 , 30 , 31 , 32 , 33 , and 42 Night"
+        },
+        "Generation III": {
+            "Ruby": "Cave of Origin , Granite Cave , Victory Road (walking) Meteor Falls , Seafloor Cavern , Shoal Cave ( Surfing and walking)",
+            "Sapphire": "Cave of Origin , Granite Cave , Victory Road (walking) Meteor Falls , Seafloor Cavern , Shoal Cave ( Surfing and walking)",
+            "Emerald": "Altering Cave , Cave of Origin , Granite Cave , Victory Road (walking) Meteor Falls , Seafloor Cavern , Shoal Cave ( Surfing and walking)",
+            "FireRed": "Mt. Moon , Rock Tunnel , Seafoam Islands , Victory Road , Icefall Cave , Lost Cave , Altering Cave",
+            "LeafGreen": "Mt. Moon , Rock Tunnel , Seafoam Islands , Victory Road , Icefall Cave , Lost Cave , Altering Cave",
+            "Colosseum": "Trade",
+            "XD": "Cave Poké Spot"
+        },
+        "Generation IV": {
+            "Diamond": "Iron Island , Oreburgh Mine , Wayward Cave , Lost Tower (walking; all times) Routes 203 , 204 , 206 , 207 , 208 , 209 , 211 , 216 , and 217 , Acuity Lakefront (tall grass) Night Ravaged Path , Oreburgh Gate , Mt. Coronet ( Surfing and walking; all times)",
+            "Pearl": "Iron Island , Oreburgh Mine , Wayward Cave , Lost Tower (walking; all times) Routes 203 , 204 , 206 , 207 , 208 , 209 , 211 , 216 , and 217 , Acuity Lakefront (tall grass) Night Ravaged Path , Oreburgh Gate , Mt. Coronet ( Surfing and walking; all times)",
+            "Platinum": "Iron Island , Oreburgh Mine , Wayward Cave , Lost Tower (walking; all times) Routes 203 , 204 , 206 , 207 , 208 , 209 , 211 , 214 , 216 (tall grass) Night Ravaged Path , Oreburgh Gate , Mt. Coronet ( Surfing and walking; all times)",
+            "HeartGold": "Dark Cave , Union Cave , Slowpoke Well , Ilex Forest , Burned Tower , Mt. Mortar , Ice Path , Whirl Islands , Mt. Moon , Rock Tunnel , Seafoam Islands , Tohjo Falls (all times) Routes 3 , 4 , 32 , and 33 , 42 , Cliff Cave Night Safari Zone Night (Mountain and Savannah, default; tall grass in Rocky Beach, default)",
+            "SoulSilver": "Dark Cave , Union Cave , Slowpoke Well , Ilex Forest , Burned Tower , Mt. Mortar , Ice Path , Whirl Islands , Mt. Moon , Rock Tunnel , Seafoam Islands , Tohjo Falls (all times) Routes 3 , 4 , 32 , and 33 , 42 , Cliff Cave Night Safari Zone Night (Mountain and Savannah, default; tall grass in Rocky Beach, default)",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Dim Cave and Night Sky's Edge"
+        },
+        "Generation V": {
+            "Black": "Breed Golbat or Crobat",
+            "White": "Breed Golbat or Crobat",
+            "Black 2": "Castelia Sewers",
+            "White 2": "Castelia Sewers",
+            "Dream World": "Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Connecting Cave",
+            "Y": "Connecting Cave",
+            "Omega Ruby": "Granite Cave (walking) Meteor Falls ( Surfing and walking) Sealed Chamber ( Surfing ) Scorched Slab ( Horde Encounter or Surfing ) Cave of Origin , Seafloor Cavern , Shoal Cave , Victory Road ( Horde Encounter )",
+            "Alpha Sapphire": "Granite Cave (walking) Meteor Falls ( Surfing and walking) Sealed Chamber ( Surfing ) Scorched Slab ( Horde Encounter or Surfing ) Cave of Origin , Seafloor Cavern , Shoal Cave , Victory Road ( Horde Encounter )"
+        },
+        "Generation VII": {
+            "Sun": "Diglett's Tunnel , Hau'oli Cemetery , Lush Jungle (Cave), Memorial Hill , Verdant Cavern , Poké Pelago Ten Carat Hill , Seaward Cave ( Surfing and walking)",
+            "Moon": "Diglett's Tunnel , Hau'oli Cemetery , Lush Jungle (Cave), Memorial Hill , Verdant Cavern , Poké Pelago Ten Carat Hill , Seaward Cave ( Surfing and walking)",
+            "Ultra Sun": "Diglett's Tunnel , Hau'oli Cemetery , Memorial Hill , Verdant Cavern , Poké Pelago Ten Carat Hill , Seaward Cave , Sandy Cave ( Surfing and walking)",
+            "Ultra Moon": "Diglett's Tunnel , Hau'oli Cemetery , Memorial Hill , Verdant Cavern , Poké Pelago Ten Carat Hill , Seaward Cave , Sandy Cave ( Surfing and walking)",
+            "Let's Go Pikachu": "Mt. Moon , Diglett's Cave , Rock Tunnel , Pokémon Tower , Seafoam Islands , Victory Road , Cerulean Cave",
+            "Let's Go Eevee": "Mt. Moon , Diglett's Cave , Rock Tunnel , Pokémon Tower , Seafoam Islands , Victory Road , Cerulean Cave"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Tunnel to the Top , Roaring-Sea Caves , Lakeside Cave Frostpoint Field , Dyna Tree Hill , Giant's Bed , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Iron Island , Oreburgh Mine , Wayward Cave , Lost Tower (walking; all times) Routes 203 , 204 , 206 , 207 , 208 , 209 , 211 , 216 , and 217 , Acuity Lakefront (tall grass) Night Ravaged Path , Oreburgh Gate , Mt. Coronet ( Surfing and walking; all times) Grand Underground - Spacious Cave , Grassland Cave , Swampy Cave , Sunlit Cavern , Bogsunk Cavern",
+            "Shining Pearl": "Iron Island , Oreburgh Mine , Wayward Cave , Lost Tower (walking; all times) Routes 203 , 204 , 206 , 207 , 208 , 209 , 211 , 216 , and 217 , Acuity Lakefront (tall grass) Night Ravaged Path , Oreburgh Gate , Mt. Coronet ( Surfing and walking; all times) Grand Underground - Spacious Cave , Grassland Cave , Swampy Cave , Sunlit Cavern , Bogsunk Cavern",
+            "Legends: Arceus": "Obsidian Fieldlands : Worn Bridge Night , Deertrack Path Night , Deertrack Heights Night , Windswept Run Night , Nature's Pantry Night , Tidewater Dam Night , The Heartwood Night , Oreburrow Tunnel Night , near Obsidian Falls Night , massive mass outbreaks Crimson Mirelands : Cloudpool Ridge Night , near Diamond Settlement Night , Diamond Heath Night , Bolderoll Slope Night Coronet Highlands : Heavenward Lookout Night , Wayward Wood Night , Wayward Cave , near Ancient Quarry Night Alabaster Icelands : Snowpoint Temple"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Zubat",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Zubat",
+            "to": "Golbat",
+            "method": [
+                "Level 22"
+            ]
+        }
+    ]
+}

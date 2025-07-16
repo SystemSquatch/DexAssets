@@ -1,0 +1,160 @@
+{
+    "name": "Gastly",
+    "pokedex_number": "#0092",
+    "types": [
+        "Ghost",
+        "Poison"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 30,
+        "Attack": 35,
+        "Defense": 30,
+        "Sp. Atk": 100,
+        "Sp. Def": 35,
+        "Speed": 80,
+        "Total": 310
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Almost invisible, this gaseous Pok é mon cloaks the target and puts it to sleep without notice.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Almost invisible, this gaseous Pok é mon cloaks the target and puts it to sleep without notice.",
+            "Yellow": "Said to appear in decrepit, deserted buildings. It has no real shape as it appears to be made of a gas.",
+            "Stadium": "Made of a thin, gas-like substance that induces fainting if you get enshrouded in it. Will not appear if it is very windy."
+        },
+        "Generation II": {
+            "Gold": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
+            "Silver": "Its thin body is made of gas. It can envelop an opponent of any size and cause suffocation.",
+            "Crystal": "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin.",
+            "Stadium 2": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind. (Pokémon Red, Silver, or Crystal inserted) Its thin body is made of gas. It can envelop an opponent of any size and cause suffocation. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pok é mon cluster under the eaves of houses to escape the ravages of wind.",
+            "Sapphire": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pok é mon cluster under the eaves of houses to escape the ravages of wind.",
+            "Emerald": "When exposed to a strong wind, a Gastly 's gaseous body quickly dwindles away. They cluster under the eaves of houses to escape the ravages of wind.",
+            "FireRed": "A being that exists as a thin gas. It can topple an Indian elephant by enveloping the prey in two seconds.",
+            "LeafGreen": "Almost invisible, this gaseous Pok é mon cloaks the target and puts it to sleep without notice."
+        },
+        "Generation IV": {
+            "Diamond": "This Pokémon's body is 95% made up of gases, which are blown away by strong gusts of wind.",
+            "Pearl": "A Pokémon born from poison gases. It defeats even the largest foes by enveloping them in gas.",
+            "Platinum": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+            "HeartGold": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
+            "SoulSilver": "Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation."
+        },
+        "Generation V": {
+            "Black": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+            "White": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+            "Black 2": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+            "White 2": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison."
+        },
+        "Generation VI": {
+            "X": "Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.",
+            "Y": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+            "Omega Ruby": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.",
+            "Alpha Sapphire": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind."
+        },
+        "Generation VII": {
+            "Sun": "Should a strange light be seen flickering in an abandoned building, Gastly is lurking there.",
+            "Moon": "Although Gastly is barely visible, when it's near, a faint sweet smell lingers.",
+            "Ultra Sun": "It's said that gas emanating from a graveyard was possessed by the grievances of the deceased and thus became a Pokémon.",
+            "Ultra Moon": "Poisonous gas comprises 95% of its body. It's said that the remaining 5% is made up of the souls of those who died from the gas.",
+            "Let's Go Pikachu": "Said to appear in decrepit, deserted buildings. It has no real shape, as it appears to be made of a gas.",
+            "Let's Go Eevee": "Said to appear in decrepit, deserted buildings. It has no real shape, as it appears to be made of a gas."
+        },
+        "Generation VIII": {
+            "Sword": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+            "Shield": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
+            "Brilliant Diamond": "This Pokémon's body is 95 percent made up of gases. The Pokémon can be blown away by strong gusts of wind.",
+            "Shining Pearl": "It's a Pokémon born from poison gases. It defeats even the largest foes by enveloping them in gas.",
+            "Legends: Arceus": "Gaseous and completely impalpable. Also highly dangerous—inhaling part of its poisonous body will cause one to faint instantly."
+        },
+        "Generation IX": {
+            "Scarlet": "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin.",
+            "Violet": "Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Pokémon Tower",
+            "Blue": "Pokémon Tower",
+            "Blue (Japan)": "Pokémon Tower",
+            "Yellow": "Pokémon Tower"
+        },
+        "Generation II": {
+            "Gold": "Tin Tower , Sprout Tower Night",
+            "Silver": "Tin Tower , Sprout Tower Night",
+            "Crystal": "Routes 31 , 32 , and 36 , Tin Tower , Sprout Tower Night"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Pokémon Tower , Lost Cave",
+            "LeafGreen": "Pokémon Tower , Lost Cave",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Old Chateau , Lost Tower Route 209 Night",
+            "Pearl": "Old Chateau , Lost Tower Route 209 Night",
+            "Platinum": "Old Chateau , Eterna Forest , Lost Tower , Turnback Cave",
+            "HeartGold": "Bell Tower , Sprout Tower Safari Zone Night (Forest, default)",
+            "SoulSilver": "Bell Tower , Sprout Tower Safari Zone Night (Forest, default)",
+            "Pal Park": "Forest",
+            "Pokéwalker": "Dim Cave , Scary Cave"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Breed Haunter or Gengar",
+            "Y": "Breed Haunter or Gengar",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Hau'oli Cemetery , Memorial Hill , Poké Pelago",
+            "Moon": "Hau'oli Cemetery , Memorial Hill , Poké Pelago",
+            "Ultra Sun": "Hau'oli Cemetery , Memorial Hill Trainers' School Night ( One )",
+            "Ultra Moon": "Hau'oli Cemetery , Memorial Hill Trainers' School Night ( One )",
+            "Let's Go Pikachu": "Pokémon Tower",
+            "Let's Go Eevee": "Pokémon Tower"
+        },
+        "Generation VIII": {
+            "Sword": "North Lake Miloch , Watchtower Ruins , Giant's Seat , Hammerlocke Hills Giant's Cap , Giant's Mirror , Hammerlocke Hills , Motostoke Riverbank , South Lake Miloch , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Shield": "North Lake Miloch , Watchtower Ruins , Giant's Seat , Hammerlocke Hills Giant's Cap , Giant's Mirror , Hammerlocke Hills , Motostoke Riverbank , South Lake Miloch , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 209 , Old Chateau , Lost Tower Grand Underground - Dazzling Cave , Stargleam Cavern",
+            "Shining Pearl": "Route 209 , Old Chateau , Lost Tower Grand Underground - Dazzling Cave , Stargleam Cavern",
+            "Legends: Arceus": "Crimson Mirelands : Golden Lowlands Night , Gapejaw Bog Night , Holm of Trials Night , Ursa's Ring Night , near Sludge Mound Night , Scarlet Bog Night , Shrouded Ruins Night (also ( mass outbreaks ) Day Night ), Cottonsedge Prairie Night , Droning Meadow Night , near Lake Valor Night , massive mass outbreaks Coronet Highlands : Clamberclaw Cliffs Night , Celestica Ruins Night , Sacred Plaza Night , Bolderoll Ravine Night , massive mass outbreaks Alabaster Icelands : Bonechill Wastes Night (also mass outbreaks Day Night ), near Avalugg's Legacy Night , near Icepeak Cavern Night , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Three , Area Four East Province: Area One , Area Two , Area Three West Province: Area One , Area Two , Area Three Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Area One , Area Three , Area Four East Province: Area One , Area Two , Area Three West Province: Area One , Area Two , Area Three Tera Raid Battles ( 2★ )",
+            "The Hidden Treasure of Area Zero": "Apple Hills , Mossfell Confluence , Oni Mountain , Wistful Fields , Paradise Barrens"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Gastly",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Gastly",
+            "to": "Haunter",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

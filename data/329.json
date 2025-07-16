@@ -1,0 +1,133 @@
+{
+    "name": "Vibrava",
+    "pokedex_number": "#0329",
+    "types": [
+        "Ground",
+        "Dragon"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 70,
+        "Defense": 50,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 70,
+        "Total": 340
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "To make prey faint, Vibrava generates ultrasonic waves by vigorously making its two wings vibrate. This Pok é mon 's ultrasonic waves are so powerful, they can bring on headaches in people.",
+            "Sapphire": "Vibrava 's wings have not yet completed the process of growing. Rather than flying long distances, they are more useful for generating ultrasonic waves by vibrating.",
+            "Emerald": "It looses ultrasonic waves by rubbing its wings together. Since a Vibrava 's wings are still in the process of growing, it can only fly short distances.",
+            "FireRed": "It generates ultrasonic waves by violently flapping its wings. After making its prey faint, it melts the prey with acid.",
+            "LeafGreen": "It generates ultrasonic waves by violently flapping its wings. After making its prey faint, it melts the prey with acid."
+        },
+        "Generation IV": {
+            "Diamond": "It violently shudders its wings, generating ultrasonic waves to induce headaches in people.",
+            "Pearl": "It violently shudders its wings, generating ultrasonic waves to induce headaches in people.",
+            "Platinum": "It violently shudders its wings, generating ultrasonic waves to induce headaches in people.",
+            "HeartGold": "It vibrates its wings vigorously, creating ultrasonic waves that cause serious headaches.",
+            "SoulSilver": "It vibrates its wings vigorously, creating ultrasonic waves that cause serious headaches."
+        },
+        "Generation V": {
+            "Black": "It violently shudders its wings, generating ultrasonic waves to induce headaches in people.",
+            "White": "It violently shudders its wings, generating ultrasonic waves to induce headaches in people.",
+            "Black 2": "The ultrasonic waves it generates by rubbing its two wings together cause severe headaches.",
+            "White 2": "The ultrasonic waves it generates by rubbing its two wings together cause severe headaches."
+        },
+        "Generation VI": {
+            "X": "The ultrasonic waves it generates by rubbing its two wings together cause severe headaches.",
+            "Y": "It generates ultrasonic waves by violently flapping its wings. After making its prey faint, it melts the prey with acid.",
+            "Omega Ruby": "To make prey faint, Vibrava generates ultrasonic waves by vigorously making its two wings vibrate. This Pokémon's ultrasonic waves are so powerful, they can bring on headaches in people.",
+            "Alpha Sapphire": "Vibrava's wings have not yet completed the process of growing. Rather than flying long distances, they are more useful for generating ultrasonic waves by vibrating."
+        },
+        "Generation VII": {
+            "Sun": "Rather than using its underdeveloped wings for flight, it rubs them together, producing ultrasonic waves to attack its enemies.",
+            "Moon": "To help make its wings grow, it dissolves quantities of prey in its digestive juices and guzzles them down every day.",
+            "Ultra Sun": "It vibrates its wings to generate ultrasonic waves, causing its prey to faint. Then it buries the prey alive in the sand to preserve it.",
+            "Ultra Moon": "It vibrates its wings to send out odd sound waves. Trainers who are with it need earplugs."
+        },
+        "Generation VIII": {
+            "Sword": "The ultrasonic waves it generates by rubbing its two wings together cause severe headaches.",
+            "Shield": "To help make its wings grow, it dissolves quantities of prey in its digestive juices and guzzles them down every day.",
+            "Brilliant Diamond": "It violently shudders its wings, generating ultrasonic waves to induce headaches in people.",
+            "Shining Pearl": "It violently shudders its wings, generating ultrasonic waves to induce headaches in people."
+        },
+        "Generation IX": {
+            "Scarlet": "Rather than using its underdeveloped wings for flight, it rubs them together, emitting ultrasonic waves to attack its enemies.",
+            "Violet": "It generates ultrasonic waves by vigorously vibrating its wings. After making its prey faint, it dissolves the prey with its digestive juices."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Trapinch",
+            "Sapphire": "Evolve Trapinch",
+            "Emerald": "Evolve Trapinch",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Shadow PKMN Lab (Shadow)",
+            "XD": "Evolve Trapinch"
+        },
+        "Generation IV": {
+            "Diamond": "Route 228 ( Poké Radar )",
+            "Pearl": "Route 228 ( Poké Radar )",
+            "Platinum": "Trade",
+            "HeartGold": "Safari Zone (Desert with 49 Forest points)",
+            "SoulSilver": "Safari Zone (Desert with 49 Forest points)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Trapinch",
+            "Black 2": "Reversal Mountain ( Dark grass )",
+            "White 2": "Reversal Mountain ( Dark grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Trapinch",
+            "Y": "Evolve Trapinch",
+            "Omega Ruby": "Evolve Trapinch",
+            "Alpha Sapphire": "Evolve Trapinch"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Trapinch",
+            "Moon": "Evolve Trapinch",
+            "Ultra Sun": "Evolve Trapinch",
+            "Ultra Moon": "Evolve Trapinch",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields , Axew's Eye Sh , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Rolling Fields , Axew's Eye Sh , Dusty Bowl ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 228 ( Poké Radar ) Grand Underground - Grassland Cave , Sunlit Cavern , Rocky Cave , Big Bluff Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 228 ( Poké Radar ) Grand Underground - Grassland Cave , Sunlit Cavern , Rocky Cave , Big Bluff Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Savanna Biome Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Trapinch",
+            "to": "Vibrava",
+            "method": [
+                "Level 35"
+            ]
+        },
+        {
+            "from": "Vibrava",
+            "to": "Flygon",
+            "method": [
+                "Level 45"
+            ]
+        }
+    ]
+}

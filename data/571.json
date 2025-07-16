@@ -1,0 +1,92 @@
+{
+    "name": "Zoroark",
+    "pokedex_number": "#0571",
+    "types": [
+        "Dark",
+        "Unknown"
+    ],
+    "abilities": [
+        "Illusion"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 105,
+        "Defense": 60,
+        "Sp. Atk": 120,
+        "Sp. Def": 60,
+        "Speed": 105,
+        "Total": 510
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.",
+            "White": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
+            "Black 2": "Stories say those who tried to catch Zoroark were trapped in an illusion and punished.",
+            "White 2": "Stories say those who tried to catch Zoroark were trapped in an illusion and punished."
+        },
+        "Generation VI": {
+            "X": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
+            "Y": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.",
+            "Omega Ruby": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
+            "Alpha Sapphire": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It doesn't just transform itself—it also has the power to make hundreds of people see its illusions.",
+            "Ultra Moon": "If it thinks humans are going to discover its den, Zoroark shows them visions that make them wander around in the woods."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon cares deeply about others of its kind, and it will conjure terrifying illusions to keep its den and pack safe.",
+            "Shield": "Seeking to ease the burden of solitude, lonely Trainers tell Zoroark to show illusions to them.",
+            "Legends: Arceus": "With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark's own body."
+        },
+        "Generation IX": {
+            "Scarlet": "Stories say those who tried to catch Zoroark were trapped in an illusion and punished.",
+            "Violet": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Lostlorn Forest (requires Shiny fateful encounter Entei , Raikou , or Suicune ) Evolve Zorua (requires fateful encounter Celebi )",
+            "White": "Lostlorn Forest (requires Shiny fateful encounter Entei , Raikou , or Suicune ) Evolve Zorua (requires fateful encounter Celebi )",
+            "Black 2": "Evolve N's Zorua",
+            "White 2": "Evolve N's Zorua"
+        },
+        "Generation VI": {
+            "X": "Route 20 , Pokémon Village",
+            "Y": "Route 20 , Pokémon Village",
+            "Omega Ruby": "Evolve Zorua",
+            "Alpha Sapphire": "Evolve Zorua"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Poni Grove",
+            "Ultra Moon": "Poni Grove",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Loop Lagoon , Insular Sea ( Wanderer )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Alabaster Icelands : near Avalugg's Legacy ( mass outbreaks ), near Glacier Terrace , Icepeak Cavern , Lake Acuity (only one during Mission 16), massive mass outbreaks ( Hisuian Form ) Unobtainable ( Unovan Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Socarrat Trail (May disguise as other Pokémon) ( Unovan Form ) Tera Raid Battles ( 5★ ) ( Unovan Form ) Pokémon HOME , Event ( Hisuian Form )",
+            "Violet": "North Province: Socarrat Trail (May disguise as other Pokémon) ( Unovan Form ) Tera Raid Battles ( 5★ ) ( Unovan Form ) Pokémon HOME , Event ( Hisuian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Zorua",
+            "to": "Zoroark",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

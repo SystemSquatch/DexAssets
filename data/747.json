@@ -1,0 +1,78 @@
+{
+    "name": "Mareanie",
+    "pokedex_number": "#0747",
+    "types": [
+        "Poison",
+        "Water"
+    ],
+    "abilities": [
+        "Merciless",
+        "Limber",
+        "Regenerator"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 62,
+        "Sp. Atk": 43,
+        "Sp. Def": 52,
+        "Speed": 45,
+        "Total": 305
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It plunges the poison spike on its head into its prey. When the prey has weakened, Mareanie deals the finishing blow with its 10 tentacles.",
+            "Moon": "It's found crawling on beaches and seafloors. The coral that grows on Corsola 's head is as good as a five-star banquet to this Pokémon.",
+            "Ultra Sun": "They eat Corsola branches, so Mareanie are hated by craftsmen who work with Corsola branches that have naturally fallen off.",
+            "Ultra Moon": "Aside from its head, its body parts regenerate quickly if they're cut off. After a good night's sleep, Mareanie is back to normal."
+        },
+        "Generation VIII": {
+            "Sword": "The first symptom of its sting is numbness. The next is an itching sensation so intense that it's impossible to resist the urge to claw at your skin.",
+            "Shield": "Unlike their Alolan counterparts, the Mareanie of the Galar region have not yet figured out that the branches of Corsola are delicious."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon wanders the seaside looking for food. It often gets electric shocks from broken Pincurchin spines that it tries to eat.",
+            "Violet": "It has excellent regenerative capabilities. Legs that a Mareanie has lost have a very bitter, astringent flavor—they're not suitable as food."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Route 9 , Melemele Sea ( SOS Battle )",
+            "Moon": "Route 9 , Melemele Sea ( SOS Battle )",
+            "Ultra Sun": "Route 9 , Melemele Sea ( SOS Battle )",
+            "Ultra Moon": "Route 9 , Melemele Sea ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 9 , Motostoke Riverbank , Giant's Mirror Motostoke Riverbank Sw , East Lake Axewell , West Lake Axewell , South Lake Miloch , North Lake Miloch , Bridge Field , Giant's Mirror , Giant's Cap Sw , Lake of Outrage ( Max Raid Battle )",
+            "Shield": "Route 9 , Motostoke Riverbank , Giant's Mirror Motostoke Riverbank Sw , East Lake Axewell , West Lake Axewell , South Lake Miloch , North Lake Miloch , Bridge Field , Giant's Mirror , Giant's Cap Sw , Lake of Outrage ( Max Raid Battle )",
+            "Expansion Pass": "Loop Lagoon Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: East Paldean Sea Tera Raid Battles ( 3★ )",
+            "Violet": "East Province: East Paldean Sea Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Mareanie",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Mareanie",
+            "to": "Toxapex",
+            "method": [
+                "Level 38"
+            ]
+        }
+    ]
+}

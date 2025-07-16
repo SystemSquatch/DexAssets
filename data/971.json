@@ -1,0 +1,51 @@
+{
+    "name": "Greavard",
+    "pokedex_number": "#0971",
+    "types": [
+        "Ghost",
+        "Unknown"
+    ],
+    "abilities": [
+        "Pickup",
+        "Fluffy"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 61,
+        "Defense": 60,
+        "Sp. Atk": 30,
+        "Sp. Def": 55,
+        "Speed": 34,
+        "Total": 290
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.",
+            "Violet": "This friendly Pokémon doesn't like being alone. Pay it even the slightest bit of attention, and it will follow you forever."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "West Province: Area Three North Province: Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 1★ )",
+            "Violet": "West Province: Area Three North Province: Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Greavard",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Greavard",
+            "to": "Houndstone",
+            "method": [
+                "Level 30 (during the night)"
+            ]
+        }
+    ]
+}

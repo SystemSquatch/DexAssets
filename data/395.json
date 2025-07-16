@@ -1,0 +1,105 @@
+{
+    "name": "Empoleon",
+    "pokedex_number": "#0395",
+    "types": [
+        "Water",
+        "Steel"
+    ],
+    "abilities": [
+        "Torrent",
+        "Competitive",
+        "Defiant"
+    ],
+    "stats": {
+        "HP": 84,
+        "Attack": 86,
+        "Defense": 88,
+        "Sp. Atk": 111,
+        "Sp. Def": 101,
+        "Speed": 60,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
+            "Pearl": "It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice.",
+            "Platinum": "If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.",
+            "HeartGold": "It avoids unnecessary disputes, but it will decimate anything that threatens its pride.",
+            "SoulSilver": "It avoids unnecessary disputes, but it will decimate anything that threatens its pride."
+        },
+        "Generation V": {
+            "Black": "If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.",
+            "White": "If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.",
+            "Black 2": "If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.",
+            "White 2": "If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe."
+        },
+        "Generation VI": {
+            "X": "It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice.",
+            "Y": "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
+            "Omega Ruby": "It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice.",
+            "Alpha Sapphire": "The three horns that extend from its beak attest to its power. The leader has the biggest horns."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
+            "Shining Pearl": "It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice.",
+            "Legends: Arceus": "Since ancient times, it has been revered by the people of Hisui, who call it the Master of the Waves. Its wings are a match for even master-crafted blades."
+        },
+        "Generation IX": {
+            "Scarlet": "If anyone were to hurt its pride, it would slash them in two with wings that can cleave through an ice floe.",
+            "Violet": "It avoids unnecessary disputes, but it will mercilessly decimate anything that threatens the safety of its colony."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Prinplup",
+            "Pearl": "Evolve Prinplup",
+            "Platinum": "Evolve Prinplup",
+            "HeartGold": "Trade",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Evolve from the Global Link event Piplup",
+            "White": "Evolve from the Global Link event Piplup",
+            "Black 2": "Evolve from the Global Link event Piplup",
+            "White 2": "Evolve from the Global Link event Piplup"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Prinplup",
+            "Alpha Sapphire": "Evolve Prinplup"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Prinplup",
+            "Ultra Moon": "Evolve Prinplup",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Prinplup",
+            "Shining Pearl": "Evolve Prinplup",
+            "Legends: Arceus": "Cobalt Coastlands : Islespy Shore , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Evolve Prinplup"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Prinplup",
+            "to": "Empoleon",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

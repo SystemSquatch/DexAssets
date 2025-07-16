@@ -1,0 +1,102 @@
+{
+    "name": "Cherrim",
+    "pokedex_number": "#0421",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Flower Gift"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 70,
+        "Sp. Atk": 87,
+        "Sp. Def": 78,
+        "Speed": 85,
+        "Total": 450
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It blooms during times of strong sunlight. It tries to make up for everything it endured as a bud.",
+            "Pearl": "It is docile as a bud, but turns cheerful when it blooms. It folds back into a bud if sunlight wanes.",
+            "Platinum": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
+            "HeartGold": "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.",
+            "SoulSilver": "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active."
+        },
+        "Generation V": {
+            "Black": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
+            "White": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
+            "Black 2": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
+            "White 2": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body."
+        },
+        "Generation VI": {
+            "X": "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.",
+            "Y": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
+            "Omega Ruby": "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.",
+            "Alpha Sapphire": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It blooms during times of strong sunlight. The Pokémon tries to make up for everything it endured as a bud.",
+            "Shining Pearl": "It is docile as a bud and turns cheerful when it blooms. It folds back into a bud if sunlight wanes.",
+            "Sword": "After absorbing plenty of sunlight, Cherrim takes this form. It's full of energy while it's like this, and its liveliness will go on until sundown.",
+            "Shield": "The faint scent that emanates from its full blossom entices bug Pokémon to it.",
+            "Legends: Arceus": "Cheerfully active on sunny days. Immediately closes its petals and becomes immobile once the sun becomes hidden, however."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Cherubi",
+            "Pearl": "Evolve Cherubi",
+            "Platinum": "Evolve Cherubi",
+            "HeartGold": "Evolve Cherubi",
+            "SoulSilver": "Evolve Cherubi"
+        },
+        "Generation V": {
+            "Black": "Route 12",
+            "White": "Route 12",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Mirage Forest (north of Lilycove City )",
+            "Alpha Sapphire": "Mirage Forest (north of Lilycove City )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Bridge Field , Dappled Grove , Giant's Mirror , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Bridge Field , Dappled Grove , Giant's Mirror , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Cherubi",
+            "Shining Pearl": "Evolve Cherubi",
+            "Legends: Arceus": "Obsidian Fieldlands : The Heartwood Shaking trees Crimson Mirelands : Gapejaw Bog Shaking trees Coronet Highlands : Lonely Spring , near Primeval Grotto , Bolderoll Ravine Shaking trees"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Cherubi",
+            "to": "Cherrim",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

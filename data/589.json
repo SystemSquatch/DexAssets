@@ -1,0 +1,87 @@
+{
+    "name": "Escavalier",
+    "pokedex_number": "#0589",
+    "types": [
+        "Bug",
+        "Steel"
+    ],
+    "abilities": [
+        "Swarm",
+        "Shell Armor",
+        "Overcoat"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 135,
+        "Defense": 105,
+        "Sp. Atk": 60,
+        "Sp. Def": 105,
+        "Speed": 20,
+        "Total": 495
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "They fly around at high speed, striking with their pointed spears. Even when in trouble, they face opponents bravely.",
+            "White": "These Pokémon evolve by wearing the shell covering of a Shelmet . The steel armor protects their whole body.",
+            "Black 2": "Wearing the shell covering they stole from Shelmet , they defend themselves and attack with two lances.",
+            "White 2": "Wearing the shell covering they stole from Shelmet , they defend themselves and attack with two lances."
+        },
+        "Generation VI": {
+            "X": "Wearing the shell covering they stole from Shelmet , they defend themselves and attack with two lances.",
+            "Y": "These Pokémon evolve by wearing the shell covering of a Shelmet . The steel armor protects their whole body.",
+            "Omega Ruby": "Wearing the shell covering they stole from Shelmet , they defend themselves and attack with two lances.",
+            "Alpha Sapphire": "These Pokémon evolve by wearing the shell covering of a Shelmet . The steel armor protects their whole body."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "They use shells they've stolen from Shelmet to arm and protect themselves. They're very popular Pokémon in the Galar region.",
+            "Shield": "It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch'd ."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Karrablast",
+            "White": "Evolve Karrablast",
+            "Black 2": "Evolve Karrablast",
+            "White 2": "Evolve Karrablast"
+        },
+        "Generation VI": {
+            "X": "Evolve Karrablast",
+            "Y": "Evolve Karrablast",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields , Dappled Grove , South Lake Miloch , Bridge Field ( Max Raid Battle )",
+            "Shield": "Evolve Karrablast",
+            "Expansion Pass": "Training Lowlands , Forest of Focus ( Wanderer ) Fields of Honor , Forest of Focus , Workout Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Karrablast",
+            "to": "Escavalier",
+            "method": [
+                "Trade"
+            ]
+        }
+    ]
+}

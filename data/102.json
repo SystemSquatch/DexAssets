@@ -1,0 +1,161 @@
+{
+    "name": "Exeggcute",
+    "pokedex_number": "#0102",
+    "types": [
+        "Grass",
+        "Psychic"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Harvest"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 80,
+        "Sp. Atk": 60,
+        "Sp. Def": 45,
+        "Speed": 40,
+        "Total": 325
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+            "Yellow": "The heads attract each other and spin around. There must be 6 heads for it to maintain balance.",
+            "Stadium": "A Pokémon that is like the seeds of a plant. If you find one and chase it, others will join it without you noticing."
+        },
+        "Generation II": {
+            "Gold": "The shell is very durable. Even if it cracks, it can survive without spilling the contents.",
+            "Silver": "Using telepathy only they can receive, they always form a cluster of six Exeggcute .",
+            "Crystal": "If even one is separated from the group, the energy bond between the six will make them rejoin instantly.",
+            "Stadium 2": "The shell is very durable. Even if it cracks, it can survive without spilling the contents. (Pokémon Red, Silver, or Crystal inserted) Using telepathy only they can receive, they always form a cluster of six Exeggcute . (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "This Pok é mon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
+            "Sapphire": "This Pok é mon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
+            "Emerald": "It consists of six eggs that care for each other. The eggs attract each other and spin around. When cracks increasingly appear, it is close to evolution.",
+            "FireRed": "Even though it appears to be eggs of some sort, it was discovered to be a life-form more like plant seeds.",
+            "LeafGreen": "It is often mistaken for eggs. When disturbed, they quickly gather and attack in swarms."
+        },
+        "Generation IV": {
+            "Diamond": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+            "Pearl": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+            "Platinum": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+            "HeartGold": "Their shells are very durable. Even if they crack, they can survive without spilling their contents.",
+            "SoulSilver": "Using telepathy only they can employ, they always form a cluster of six Exeggcute ."
+        },
+        "Generation V": {
+            "Black": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+            "White": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+            "Black 2": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+            "White 2": "Its six eggs converse using telepathy. They can quickly gather if they become separated."
+        },
+        "Generation VI": {
+            "X": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+            "Y": "Even though it appears to be eggs of some sort, it was discovered to be a life-form more like plant seeds.",
+            "Omega Ruby": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
+            "Alpha Sapphire": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution."
+        },
+        "Generation VII": {
+            "Sun": "Its six eggs use telepathy to communicate among themselves. It is believed to carry plant genes and the genes of other species.",
+            "Moon": "Six of them together form a full-fledged Pokémon. It's often hunted by Crabrawler , but uses psychokinesis to drive it off.",
+            "Ultra Sun": "Six of them form a single Pokémon. Should one of the six be lost, the next morning there will once more be six.",
+            "Ultra Moon": "Although they are the same size as other Exeggcute, the ones produced in Alola are quite heavy. Their shells are packed full.",
+            "Let's Go Pikachu": "The heads attract each other and spin around. There must be six heads for it to maintain balance.",
+            "Let's Go Eevee": "The heads attract each other and spin around. There must be six heads for it to maintain balance."
+        },
+        "Generation VIII": {
+            "Sword": "Though it may look like it's just a bunch of eggs, it's a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently.",
+            "Shield": "These Pokémon get nervous when they're not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly.",
+            "Brilliant Diamond": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+            "Shining Pearl": "Its six eggs converse using telepathy. They can quickly gather if they become separated."
+        },
+        "Generation IX": {
+            "Scarlet": "If you touch one of Exeggcute’s heads, mistaking it for an egg, the other heads will quickly gather and attack you in a swarm.",
+            "Violet": "Using telepathy only fellow Exeggcute can pick up on, they always form a cluster of six."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Safari Zone",
+            "Blue": "Safari Zone",
+            "Blue (Japan)": "Safari Zone",
+            "Yellow": "Safari Zone"
+        },
+        "Generation II": {
+            "Gold": "Routes 26 , 27 , 34 , 35 , 36 , 37 , 38 , and 39 , Azalea Town , Ilex Forest , Lake of Rage ( Headbutt trees )",
+            "Silver": "Routes 26 , 27 , 34 , 35 , 36 , 37 , 38 , and 39 , Azalea Town , Ilex Forest , Lake of Rage ( Headbutt trees )",
+            "Crystal": "Routes 26 , 27 , 29 , 30 , 31 , 32 , 34 , 35 , 36 , 37 , 38 , 39 , and 43 , Lake of Rage ( Headbutt trees )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Safari Zone , Berry Forest",
+            "LeafGreen": "Safari Zone , Berry Forest",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Great Marsh (after obtaining National Pokédex )",
+            "Pearl": "Great Marsh (after obtaining National Pokédex )",
+            "Platinum": "Great Marsh (after obtaining National Pokédex )",
+            "HeartGold": "Routes 26 , 27 , 29 , 30 , 31 , 32 , 34 , 35 , 36 , 37 , 38 , 39 , 43 , 47 , and 48 , New Bark Town , Cherrygrove City , Violet City , Ecruteak City , National Park , Lake of Rage , Safari Zone Gate ( Headbutt trees )",
+            "SoulSilver": "Routes 26 , 27 , 29 , 30 , 31 , 32 , 34 , 35 , 36 , 37 , 38 , 39 , 43 , 47 , and 48 , New Bark Town , Cherrygrove City , Violet City , Ecruteak City , National Park , Lake of Rage , Safari Zone Gate ( Headbutt trees )",
+            "Pal Park": "Forest",
+            "Pokéwalker": "Big Forest"
+        },
+        "Generation V": {
+            "Black": "Route 18 ( Swarm )",
+            "White": "Route 18 ( Swarm )",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Route 12 , Azure Bay",
+            "Y": "Route 12 , Azure Bay",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Ancient Poni Path , Exeggutor Island , Poni Wilds",
+            "Moon": "Ancient Poni Path , Exeggutor Island , Poni Wilds",
+            "Ultra Sun": "Exeggutor Island",
+            "Ultra Moon": "Exeggutor Island",
+            "Let's Go Pikachu": "Route 23",
+            "Let's Go Eevee": "Route 23"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Insular Sea , Stepping-Stone Sea , Workout Sea Soothing Wetlands , Forest of Focus , Challenge Beach , Training Lowlands ( Max Raid Battle )",
+            "Brilliant Diamond": "Great Marsh (after obtaining National Pokédex )",
+            "Shining Pearl": "Great Marsh (after obtaining National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Savanna Biome , Coastal Biome , Torchlit Labyrinth Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Exeggcute",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Exeggcute",
+            "to": "Exeggutor",
+            "method": [
+                "Use Leaf Stone"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "name": "Igglybuff",
+    "pokedex_number": "#0174",
+    "types": [
+        "Normal",
+        "Fairy"
+    ],
+    "abilities": [
+        "Cute Charm",
+        "Competitive",
+        "Friend Guard"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 30,
+        "Defense": 15,
+        "Sp. Atk": 40,
+        "Sp. Def": 20,
+        "Speed": 15,
+        "Total": 210
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
+            "Silver": "Its extremely flexible and elastic body makes it bounce continuously--anytime, anywhere.",
+            "Crystal": "Instead of walking with its short legs, it moves around by bouncing on its soft, tender body.",
+            "Stadium 2": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop. (Pokémon Red, Silver, or Crystal inserted) Its extremely flexible and elastic body makes it bounce continuously--anytime, anywhere. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Igglybuff 's vocal chords are not sufficiently developed. It would hurt its throat if it were to sing too much. This Pok é mon gargles with freshwater from a clean stream.",
+            "Sapphire": "Igglybuff has a soft and plushy body that feels very much like a marshmallow. From this body wafts a gently sweet fragrance that soothes and calms the emotions of its foes.",
+            "Emerald": "Its soft and pliable body is very bouncy. When it sings continuously with all its might, its body steadily turns a deepening pink color.",
+            "FireRed": "Its extremely flexible and elastic body makes it bounce continuously--anytime, anywhere.",
+            "LeafGreen": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop."
+        },
+        "Generation IV": {
+            "Diamond": "It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.",
+            "Pearl": "It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.",
+            "Platinum": "It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.",
+            "HeartGold": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
+            "SoulSilver": "Its extremely flexible and elastic body makes it bounce continuously--anytime, anywhere."
+        },
+        "Generation V": {
+            "Black": "It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.",
+            "White": "It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.",
+            "Black 2": "Its body has a faintly sweet scent and is bouncy and soft. If it bounces even once, it cannot stop.",
+            "White 2": "Its body has a faintly sweet scent and is bouncy and soft. If it bounces even once, it cannot stop."
+        },
+        "Generation VI": {
+            "X": "Instead of walking with its short legs, it moves around by bouncing on its soft, tender body.",
+            "Y": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
+            "Omega Ruby": "Igglybuff's vocal cords are not sufficiently developed. It would hurt its throat if it were to sing too much. This Pokémon gargles with freshwater from a clean stream.",
+            "Alpha Sapphire": "Igglybuff has a soft and plushy body that feels very much like a marshmallow. From this body wafts a gently sweet fragrance that soothes and calms the emotions of its foes."
+        },
+        "Generation VII": {
+            "Sun": "It likes to sing but is not yet good at it. With praise and encouragement, it will get better little by little.",
+            "Moon": "It moves by bouncing along. As it moves a lot, it sweats, and its body gives off a sweet aroma.",
+            "Ultra Sun": "It's always practicing its singing because it wants to improve. Even when it's asleep, it keeps singing in its dreams!",
+            "Ultra Moon": "Left to its own devices, it will constantly practice singing. You should make it take a break so it doesn't hurt its throat."
+        },
+        "Generation VIII": {
+            "Sword": "Igglybuff loves to sing. Its marshmallow-like body gives off a faint sweet smell.",
+            "Shield": "Taking advantage of the softness of its body, Igglybuff moves as if bouncing. Its body turns a deep pink when its temperature rises.",
+            "Brilliant Diamond": "It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.",
+            "Shining Pearl": "It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop."
+        },
+        "Generation IX": {
+            "Scarlet": "Its body has a faintly sweet scent and is bouncy and soft. If it bounces even once, it cannot stop.",
+            "Violet": "It likes to sing but is not yet good at it. With praise and encouragement, it will get better little by little."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Breed Jigglypuff or Wigglytuff",
+            "Silver": "Breed Jigglypuff or Wigglytuff",
+            "Crystal": "Breed Jigglypuff or Wigglytuff Route 34 ( Odd Egg * )"
+        },
+        "Generation III": {
+            "Ruby": "Breed Jigglypuff or Wigglytuff",
+            "Sapphire": "Breed Jigglypuff or Wigglytuff",
+            "Emerald": "Breed Jigglypuff or Wigglytuff",
+            "FireRed": "Breed Jigglypuff or Wigglytuff",
+            "LeafGreen": "Breed Jigglypuff or Wigglytuff",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trophy Garden",
+            "Pearl": "Trophy Garden",
+            "Platinum": "Trophy Garden",
+            "HeartGold": "Breed Jigglypuff or Wigglytuff",
+            "SoulSilver": "Breed Jigglypuff or Wigglytuff",
+            "Pal Park": "Field",
+            "Pokéwalker": "Amity Meadow"
+        },
+        "Generation V": {
+            "Black": "Breed Jigglypuff or Wigglytuff",
+            "White": "Breed Jigglypuff or Wigglytuff",
+            "Black 2": "Breed Jigglypuff or Wigglytuff Transfer from Dream Radar",
+            "White 2": "Breed Jigglypuff or Wigglytuff Transfer from Dream Radar",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Breed Jigglypuff or Wigglytuff",
+            "Y": "Breed Jigglypuff or Wigglytuff",
+            "Omega Ruby": "Breed Jigglypuff or Wigglytuff",
+            "Alpha Sapphire": "Breed Jigglypuff or Wigglytuff"
+        },
+        "Generation VII": {
+            "Sun": "Routes 4 and 6 Day",
+            "Moon": "Routes 4 and 6 Day",
+            "Ultra Sun": "Routes 4 and 6 Day",
+            "Ultra Moon": "Routes 4 and 6 Day",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Fields of Honor ( Max Raid Battle )",
+            "Brilliant Diamond": "Trophy Garden",
+            "Shining Pearl": "Trophy Garden",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Los Platos , Pokémon League Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two , Los Platos , Pokémon League Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Igglybuff",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Igglybuff",
+            "to": "Jigglypuff",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "name": "Tornadus",
+    "pokedex_number": "#0641",
+    "types": [
+        "Flying",
+        "Unknown"
+    ],
+    "abilities": [
+        "Prankster",
+        "Defiant",
+        "Regenerator"
+    ],
+    "stats": {
+        "HP": 79,
+        "Attack": 115,
+        "Defense": 70,
+        "Sp. Atk": 125,
+        "Sp. Def": 80,
+        "Speed": 111,
+        "Total": 580
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph .",
+            "White": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
+            "Black 2": "In every direction it flies, creating winds so powerful, they blow everything away.",
+            "White 2": "In every direction it flies, creating winds so powerful, they blow everything away."
+        },
+        "Generation VI": {
+            "X": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph .",
+            "Y": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
+            "Omega Ruby": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph .",
+            "Alpha Sapphire": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Legends: Arceus": "An example of what is known as a “form change,” though I suspect this strange avian guise to be Tornadus's true form. Tornadus has been sighted crossing the ocean while in this form."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Roaming Unova ( Only one ) ( Incarnate Forme )",
+            "White": "Trade , Event",
+            "Black 2": "Transfer from Dream Radar ( Therian Forme )",
+            "White 2": "Transfer from Dream Radar ( Therian Forme )"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Soaring in the sky (requires having Castform in party) ( Only one ) ( Incarnate Forme )",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Cliff World ) ( Only one ) ( Incarnate Forme )",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Sword Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one ) ( Incarnate Forme )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Alabaster Icelands : Bonechill Wastes Blizzard ( Only one ) ( Incarnate Forme )"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME",
+            "Violet": "Pokémon HOME"
+        }
+    },
+    "evolution": []
+}

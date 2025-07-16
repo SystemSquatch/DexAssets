@@ -1,0 +1,121 @@
+{
+    "name": "Bonsly",
+    "pokedex_number": "#0438",
+    "types": [
+        "Rock",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sturdy",
+        "Rock Head",
+        "Rattled"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 80,
+        "Defense": 95,
+        "Sp. Atk": 10,
+        "Sp. Def": 45,
+        "Speed": 10,
+        "Total": 290
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It looks as if it is always crying. It is actually adjusting its body's fluid levels by eliminating excess.",
+            "Pearl": "It prefers arid environments. It leaks water from its eyes to adjust its body's fluid levels.",
+            "Platinum": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
+            "HeartGold": "In order to adjust the level of fluids in its body, it exudes water from its eyes. This makes it appear to be crying.",
+            "SoulSilver": "In order to adjust the level of fluids in its body, it exudes water from its eyes. This makes it appear to be crying."
+        },
+        "Generation V": {
+            "Black": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
+            "White": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
+            "Black 2": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
+            "White 2": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level."
+        },
+        "Generation VI": {
+            "X": "It prefers arid environments. It leaks water from its eyes to adjust its body's fluid levels.",
+            "Y": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
+            "Omega Ruby": "It prefers arid environments. It leaks water from its eyes to adjust its body's fluid levels.",
+            "Alpha Sapphire": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level."
+        },
+        "Generation VII": {
+            "Sun": "It does not deal well with water, so it lives in dry locales. Since its surroundings tend to lack greenery, it stands out noticeably.",
+            "Moon": "From its eyes, it can expel excess moisture from its body. This liquid is similar in composition to human sweat.",
+            "Ultra Sun": "It discharges moisture from its eyes, making it look like it's crying—apparently an effective way of getting enemies to let down their guard.",
+            "Ultra Moon": "If its body gets too damp, it will die. So, in a process reminiscent of sweating, its eyes expel moisture."
+        },
+        "Generation VIII": {
+            "Sword": "It expels both sweat and tears from its eyes. The sweat is a little salty, while the tears have a slight bitterness.",
+            "Shield": "This Pokémon lives in dry, rocky areas. As its green spheres dry out, their dull luster increases.",
+            "Brilliant Diamond": "It looks as if it is always crying. It is actually adjusting its body's fluid levels by eliminating excess.",
+            "Shining Pearl": "It prefers arid environments. It leaks water from its eyes to adjust its body's fluid levels.",
+            "Legends: Arceus": "Its tears elicit sympathy from those who see them, but do not be deceived! This expulsion of body water is merely a physiological mechanism for keeping itself in good health."
+        },
+        "Generation IX": {
+            "Scarlet": "In order to adjust the level of fluids in its body, it exudes water from its eyes. This makes it appear to be crying.",
+            "Violet": "From its eyes, it can expel excess moisture from its body. This liquid is similar in composition to human sweat."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Trophy Garden",
+            "Pearl": "Routes 209 and 210 , Trophy Garden",
+            "Platinum": "Trophy Garden",
+            "HeartGold": "Breed Sudowoodo holding a Rock Incense",
+            "SoulSilver": "Breed Sudowoodo holding a Rock Incense",
+            "Pokéwalker": "Big Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Breed Sudowoodo holding a Rock Incense",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Breed Sudowoodo holding a Rock Incense",
+            "Y": "Breed Sudowoodo holding a Rock Incense",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Routes 1 and 5 , Lush Jungle",
+            "Moon": "Routes 1 and 5 , Lush Jungle",
+            "Ultra Sun": "Routes 1 and 5 , Lush Jungle",
+            "Ultra Moon": "Routes 1 and 5 , Lush Jungle",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Bridge Field , Stony Wilderness Rolling Fields , Giant's Seat Sw , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Bridge Field , Stony Wilderness Rolling Fields , Giant's Seat Sw , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor ( Max Raid Battle )",
+            "Brilliant Diamond": "Trophy Garden",
+            "Shining Pearl": "Routes 209 and 210 , Trophy Garden",
+            "Legends: Arceus": "Crimson Mirelands : Diamond Heath Shaking ore deposits , Cloudpool Ridge and nearby, massive mass outbreaks Coronet Highlands : Celestica Ruins Shaking ore deposits , near Celestica Ruins (mass outbreaks)"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Los Platos , Cortondo Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two , Los Platos , Cortondo Tera Raid Battles ( 1★ )",
+            "The Hidden Treasure of Area Zero": "Apple Hills , Reveler's Road , Oni Mountain , Oni's Maw , Wistful Fields , Paradise Barrens"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Bonsly",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Bonsly",
+            "to": "Sudowoodo",
+            "method": [
+                "Level up (knowing Mimic)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "name": "Primeape",
+    "pokedex_number": "#0057",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Vital Spirit",
+        "Anger Point",
+        "Defiant"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 105,
+        "Defense": 60,
+        "Sp. Atk": 60,
+        "Sp. Def": 70,
+        "Speed": 95,
+        "Total": 455
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
+            "Yellow": "It stops being angry only when nobody else is around. To view this moment is very difficult.",
+            "Stadium": "When enraged, it gives chase endlessly. Because it is impossible to tell what made it angry, there is no soothing it."
+        },
+        "Generation II": {
+            "Gold": "If approached while asleep, it may awaken and angrily give chase in a groggy state of semi-sleep.",
+            "Silver": "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
+            "Crystal": "It will beat up anyone who makes it mad, even if it has to chase them until the end of the world.",
+            "Stadium 2": "If approached while asleep, it may awaken and angrily give chase in a groggy state of semi-sleep. (Pokémon Red, Silver, or Crystal inserted) It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
+            "Sapphire": "When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
+            "Emerald": "When it becomes furious, its blood circulation becomes more robust, and its muscles are made stronger. But it also becomes much less intelligent.",
+            "FireRed": "It is always outrageously furious. If it gives chase, it will tenaciously track the target no matter how far.",
+            "LeafGreen": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it catches up."
+        },
+        "Generation IV": {
+            "Diamond": "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
+            "Pearl": "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
+            "Platinum": "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
+            "HeartGold": "If approached while asleep, it may awaken and angrily give chase in a groggy state of semi-sleep.",
+            "SoulSilver": "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare."
+        },
+        "Generation V": {
+            "Black": "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
+            "White": "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
+            "Black 2": "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
+            "White 2": "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder."
+        },
+        "Generation VI": {
+            "X": "It stops being angry only when nobody else is around. To view this moment is very difficult.",
+            "Y": "It is always outrageously furious. If it gives chase, it will tenaciously track the target no matter how far.",
+            "Omega Ruby": "When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
+            "Alpha Sapphire": "When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time."
+        },
+        "Generation VII": {
+            "Sun": "It has been known to become so angry that it dies as a result. Its face looks peaceful in death, however.",
+            "Moon": "Some researchers theorize that Primeape remains angry even when inside a Poké Ball.",
+            "Ultra Sun": "It will never forgive opponents who have angered it. Even after it has beaten them down until they can't move, it never ever forgives.",
+            "Ultra Moon": "The blood vessels in its brain are sturdier than those of other Pokémon, so it can stay healthy despite its constant raging.",
+            "Let's Go Pikachu": "It stops being angry only when nobody else is around. To view this moment is very difficult.",
+            "Let's Go Eevee": "It stops being angry only when nobody else is around. To view this moment is very difficult."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It becomes angry if it sees an opponent's eyes and gets angrier if the opponent runs. Even after it beats the opponent, it is still angry.",
+            "Shining Pearl": "It becomes angry if it sees an opponent's eyes and gets angrier if the opponent runs. Even after it beats the opponent, it is still angry."
+        },
+        "Generation IX": {
+            "Scarlet": "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
+            "Violet": "Some researchers theorize that Primeape remains angry even when inside a Poké Ball."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Mankey",
+            "Blue": "Trade",
+            "Blue (Japan)": "Trade",
+            "Yellow": "Route 23"
+        },
+        "Generation II": {
+            "Gold": "Route 9",
+            "Silver": "Trade",
+            "Crystal": "Trade"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Route 23 , Cerulean Cave , Victory Road",
+            "LeafGreen": "Route 23 , Cerulean Cave , Victory Road",
+            "Colosseum": "Trade",
+            "XD": "Cipher Key Lair (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 225 and 226 ( Poké Radar )",
+            "Pearl": "Routes 225 and 226 ( Poké Radar )",
+            "Platinum": "Routes 225 and 226 ( Poké Radar )",
+            "HeartGold": "Route 9 , Cerulean Cave",
+            "SoulSilver": "Trade",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Evolve Mankey",
+            "White": "Evolve Mankey",
+            "Black 2": "Evolve Mankey",
+            "White 2": "Evolve Mankey"
+        },
+        "Generation VI": {
+            "X": "Evolve Mankey",
+            "Y": "Evolve Mankey",
+            "Omega Ruby": "Evolve Mankey",
+            "Alpha Sapphire": "Evolve Mankey"
+        },
+        "Generation VII": {
+            "Sun": "Poni Plains",
+            "Moon": "Poni Plains",
+            "Ultra Sun": "Poni Plains",
+            "Ultra Moon": "Poni Plains",
+            "Let's Go Pikachu": "Evolve Mankey",
+            "Let's Go Eevee": "Trade"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 225 and 226 ( Poké Radar ) Grand Underground - Spacious Cave , Grassland Cave , Sunlit Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Routes 225 and 226 ( Poké Radar ) Grand Underground - Spacious Cave , Grassland Cave , Sunlit Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Four West Province: Area One , Area Three North Province: Area One North Province: Glaseado Mountain ( Poison Tera Type ) Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Area Four West Province: Area One , Area Three North Province: Area One North Province: Glaseado Mountain ( Poison Tera Type ) Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero": "Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Mankey",
+            "to": "Primeape",
+            "method": [
+                "Level 28"
+            ]
+        },
+        {
+            "from": "Primeape",
+            "to": "Annihilape",
+            "method": [
+                "Other"
+            ]
+        }
+    ]
+}

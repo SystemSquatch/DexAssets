@@ -1,0 +1,94 @@
+{
+    "name": "Golurk",
+    "pokedex_number": "#0623",
+    "types": [
+        "Ground",
+        "Ghost"
+    ],
+    "abilities": [
+        "Iron Fist",
+        "Klutz",
+        "No Guard"
+    ],
+    "stats": {
+        "HP": 89,
+        "Attack": 124,
+        "Defense": 80,
+        "Sp. Atk": 55,
+        "Sp. Def": 80,
+        "Speed": 55,
+        "Total": 483
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
+            "White": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.",
+            "Black 2": "Golurk were created to protect people and Pokémon. They run on a mysterious energy.",
+            "White 2": "Golurk were created to protect people and Pokémon. They run on a mysterious energy."
+        },
+        "Generation VI": {
+            "X": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.",
+            "Y": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
+            "Omega Ruby": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.",
+            "Alpha Sapphire": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Some say that ancient people invented Golurk to serve as a laborer. It follows its master's orders faithfully.",
+            "Ultra Moon": "When the seal on its chest is removed, it rages indiscriminately, turning the whole town around it into a mountain of rubble."
+        },
+        "Generation VIII": {
+            "Sword": "Artillery platforms built into the walls of ancient castles served as perches from which Golurk could fire energy beams.",
+            "Shield": "There's a theory that inside Golurk is a perpetual motion machine that produces limitless energy, but this belief hasn't been proven."
+        },
+        "Generation IX": {
+            "Scarlet": "When the seal on its chest is removed, it rages indiscriminately. During such rampages, it can turn a whole town into a mountain of rubble.",
+            "Violet": "Golurk were created by ancient people to protect both people and Pokémon. They run on a mysterious energy."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Golett",
+            "White": "Evolve Golett",
+            "Black 2": "Dragonspiral Tower (inside), Victory Road (entrance)",
+            "White 2": "Dragonspiral Tower (inside), Victory Road (entrance)"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Ghost )",
+            "Y": "Friend Safari ( Ghost )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Golett",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Dusty Bowl , Giant's Seat , Stony Wilderness , Watchtower Ruins ( Wanderer ) Rolling Fields , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Lake of Outrage Dusty Bowl , Giant's Seat , Stony Wilderness , Watchtower Ruins ( Wanderer ) Rolling Fields , Dusty Bowl ( Max Raid Battle )",
+            "Expansion Pass": "Three-Point Pass Challenge Beach , Courageous Cavern , Stepping-Stone Sea , Frostpoint Field , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Canyon Biome , Chargestone Cavern , Polar Biome Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Golett",
+            "to": "Golurk",
+            "method": [
+                "Level 43"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Calyrex",
+    "pokedex_number": "#0898",
+    "types": [
+        "Psychic",
+        "Grass"
+    ],
+    "abilities": [
+        "Unnerve",
+        "As One"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 80,
+        "Defense": 80,
+        "Sp. Atk": 80,
+        "Sp. Def": 80,
+        "Speed": 80,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "It's said that Calyrex and a Pokémon that had bonded with it ran all across the Galar region to bring green to the wastelands.",
+            "Shield": "Legend says that by using its power to see all events from past to future, this Pokémon saved the creatures of a forest from a meteorite strike."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Crown Shrine ( Only one ) *",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME",
+            "Violet": "Pokémon HOME"
+        }
+    },
+    "evolution": []
+}

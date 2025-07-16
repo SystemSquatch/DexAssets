@@ -1,0 +1,76 @@
+{
+    "name": "Grubbin",
+    "pokedex_number": "#0736",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Swarm"
+    ],
+    "stats": {
+        "HP": 47,
+        "Attack": 62,
+        "Defense": 45,
+        "Sp. Atk": 55,
+        "Sp. Def": 45,
+        "Speed": 46,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground.",
+            "Moon": "They often gather near places frequented by electric Pokémon in order to avoid being attacked by bird Pokémon.",
+            "Ultra Sun": "If you find its nest, you shouldn't stick your hand inside. You'll get bitten by an irritated Grubbin.",
+            "Ultra Moon": "It spits a sticky thread to stop opponents in their tracks, and then it grabs them in its sharp, sturdy mandibles to take them down."
+        },
+        "Generation VIII": {
+            "Sword": "Its natural enemies, like Rookidee , may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.",
+            "Shield": "It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap."
+        },
+        "Generation IX": {
+            "Scarlet": "Grubbin normally live underground, but if they get unearthed by Hoothoot, they may be found gathered around electric Pokémon.",
+            "Violet": "It spits sticky thread and winds them around branches, then swings nimbly from tree to tree in a pendulum-like motion."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Routes 1 , 4 , 5 , and 6",
+            "Moon": "Routes 1 , 4 , 5 , and 6",
+            "Ultra Sun": "Routes 1 , 4 , 5 , and 6 Blush Mountain Day ( SOS Battle )",
+            "Ultra Moon": "Routes 1 , 4 , 5 , and 6 Blush Mountain Day ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 1 , Dappled Grove , East Lake Axewell , North Lake Miloch , Slumbering Weald , Watchtower Ruins Bridge Field , Dappled Grove , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Route 1 , Dappled Grove , East Lake Axewell , North Lake Miloch , Slumbering Weald , Watchtower Ruins Bridge Field , Dappled Grove , Rolling Fields ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Apple Hills , Fellhorn Gorge , Oni Mountain , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Grubbin",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Grubbin",
+            "to": "Charjabug",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "name": "Numel",
+    "pokedex_number": "#0322",
+    "types": [
+        "Fire",
+        "Ground"
+    ],
+    "abilities": [
+        "Oblivious",
+        "Simple",
+        "Own Tempo"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 40,
+        "Sp. Atk": 65,
+        "Sp. Def": 45,
+        "Speed": 35,
+        "Total": 305
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Numel is extremely dull witted - it doesn't notice being hit. However, it can't stand hunger for even a second. This Pok é mon 's body is a seething cauldron of boiling magma.",
+            "Sapphire": "Numel stores magma of almost 2,200 degrees F within its body. If it gets wet, the magma cools and hardens. In that event, the Pok é mon 's body grows heavy and its movements become sluggish.",
+            "Emerald": "A Numel stores boiling magma in the hump on its back. It is a hardy Pok é mon that can transport a 220-pound load. It has served humans at work since long ago.",
+            "FireRed": "Magma of almost 2,200 degrees Fahrenheit courses through its body. When it grows cold, the magma hardens and slows it.",
+            "LeafGreen": "Magma of almost 2,200 degrees Fahrenheit courses through its body. When it grows cold, the magma hardens and slows it."
+        },
+        "Generation IV": {
+            "Diamond": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.",
+            "Pearl": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.",
+            "Platinum": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.",
+            "HeartGold": "The flaming magma it stores in the hump on its back is the source of its tremendous power.",
+            "SoulSilver": "The flaming magma it stores in the hump on its back is the source of its tremendous power."
+        },
+        "Generation V": {
+            "Black": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.",
+            "White": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.",
+            "Black 2": "The magma in its body reaches 2,200 degrees F . Its hump gets smaller when it uses Fire-type moves.",
+            "White 2": "The magma in its body reaches 2,200 degrees F . Its hump gets smaller when it uses Fire-type moves."
+        },
+        "Generation VI": {
+            "X": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.",
+            "Y": "The magma in its body reaches 2,200 degrees Fahrenheit . Its hump gets smaller when it uses Fire-type moves.",
+            "Omega Ruby": "Numel is extremely dull witted—it doesn't notice being hit. However, it can't stand hunger for even a second. This Pokémon's body is a seething cauldron of boiling magma.",
+            "Alpha Sapphire": "Numel stores magma of almost 2,200 degrees Fahrenheit within its body. If it gets wet, the magma cools and hardens. In that event, the Pokémon's body grows heavy and its movements become sluggish."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing Numel down.",
+            "Shining Pearl": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing Numel down."
+        },
+        "Generation IX": {
+            "Scarlet": "Magma of almost 2,200 degrees Fahrenheit courses through its body. When it grows cold, the magma hardens and slows it.",
+            "Violet": "The flaming magma it stores in the hump on its back is the source of its tremendous power."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 112 , Fiery Path , Jagged Pass",
+            "Sapphire": "Route 112 , Fiery Path , Jagged Pass",
+            "Emerald": "Route 112 , Fiery Path , Jagged Pass",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Cipher Lab (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Route 227 , Stark Mountain",
+            "Pearl": "Route 227 , Stark Mountain",
+            "Platinum": "Route 227 , Stark Mountain",
+            "HeartGold": "Ilex Forest , Viridian Forest (Hoenn Sound)",
+            "SoulSilver": "Ilex Forest , Viridian Forest (Hoenn Sound)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Trade",
+            "White 2": "Reversal Mountain",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Breed Camerupt",
+            "Y": "Breed Camerupt",
+            "Omega Ruby": "Route 112 , Fiery Path , Jagged Pass",
+            "Alpha Sapphire": "Route 112 , Fiery Path , Jagged Pass"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 227 , Stark Mountain Grand Underground - Rocky Cave , Volcanic Cave , Sandsear Cave , Typhlo Cavern , Big Bluff Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 227 , Stark Mountain Grand Underground - Rocky Cave , Volcanic Cave , Sandsear Cave , Typhlo Cavern , Big Bluff Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area One Area Zero Tera Raid Battles ( 3★ )",
+            "Violet": "West Province: Area One Area Zero Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth , Polar Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Numel",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Numel",
+            "to": "Camerupt",
+            "method": [
+                "Level 33"
+            ]
+        }
+    ]
+}

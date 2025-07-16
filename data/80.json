@@ -1,0 +1,157 @@
+{
+    "name": "Slowbro",
+    "pokedex_number": "#0080",
+    "types": [
+        "Water",
+        "Psychic"
+    ],
+    "abilities": [
+        "Oblivious",
+        "Own Tempo",
+        "Quick Draw",
+        "Own Tempo",
+        "Regenerator",
+        "Shell Armor"
+    ],
+    "stats": {
+        "HP": 95,
+        "Attack": 75,
+        "Defense": 110,
+        "Sp. Atk": 100,
+        "Sp. Def": 80,
+        "Speed": 30,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "The Shellder that is latched onto Slowpoke 's tail is said to feed on the host's left over scraps.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "The Shellder that is latched onto Slowpoke 's tail is said to feed on the host's left over scraps.",
+            "Yellow": "Lives lazily by the sea. If the Shellder on its tail comes off, it becomes a Slowpoke again.",
+            "Stadium": "If its tail is bitten by a Shellder , Slowpoke evolves into Slowbro . The Shellder seems to like its crunchy tail."
+        },
+        "Generation II": {
+            "Gold": "If the tail-biting Shellder is thrown off in a harsh battle, it reverts to being an ordinary Slowpoke .",
+            "Silver": "Naturally dull to begin with, it lost its ability to feel pain due to Shellder 's seeping poison.",
+            "Crystal": "An attached Shellder won't let go because of the tasty flavor that oozes out of its tail.",
+            "Stadium 2": "If the tail-biting Shellder is thrown off in a harsh battle, it reverts to being an ordinary Slowpoke . (Pokémon Red, Silver, or Crystal inserted) Naturally dull to begin with, it lost its ability to feel pain due to Shellder 's seeping poison. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Slowbro 's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.",
+            "Sapphire": "Slowbro 's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.",
+            "Emerald": "Its tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This forces it to reluctantly swim and catch prey.",
+            "FireRed": "When a Slowpoke went hunting in the sea, its tail was bitten by a Shellder . That made it evolve into Slowbro .",
+            "LeafGreen": "The Shellder that latches onto Slowpoke 's tail is said to feed on the host's leftover scraps."
+        },
+        "Generation IV": {
+            "Diamond": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
+            "Pearl": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
+            "Platinum": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
+            "HeartGold": "If the tail-biting Shellder is thrown off in a harsh battle, it reverts to being an ordinary Slowpoke .",
+            "SoulSilver": "Naturally dull to begin with, it lost its ability to feel pain due to Shellder 's seeping poison."
+        },
+        "Generation V": {
+            "Black": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
+            "White": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
+            "Black 2": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
+            "White 2": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down."
+        },
+        "Generation VI": {
+            "X": "An attached Shellder won't let go because of the tasty flavor that oozes out of its tail.",
+            "Y": "When a Slowpoke went hunting in the sea, its tail was bitten by a Shellder . That made it evolve into Slowbro.",
+            "Omega Ruby": "Slowbro's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.",
+            "Alpha Sapphire": "Slowbro's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead."
+        },
+        "Generation VII": {
+            "Sun": "All the energy from Mega Evolution poured into the Shellder on its tail, leaving Slowpoke to be swallowed whole.",
+            "Moon": "When bathed in the energy of Mega Evolution, Shellder converts into impregnable armor. There is virtually no change in Slowpoke .",
+            "Ultra Sun": "Tremendous energy strengthened the power of the Shellder on its tail, but it doesn't really affect Slowpoke .",
+            "Ultra Moon": "Having been swallowed whole by Shellder , Slowbro now has an iron defense. It's pretty comfortable in there, too.",
+            "Let's Go Pikachu": "Under the influence of Shellder 's digestive fluids, Slowpoke has awakened, gaining a great deal of power–and a little motivation to boot.",
+            "Let's Go Eevee": "Under the influence of Shellder 's digestive fluids, Slowpoke has awakened, gaining a great deal of power–and a little motivation to boot."
+        },
+        "Generation VIII": {
+            "Sword": "A Shellder bite set off a chemical reaction with the spices inside Slowbro's body, causing Slowbro to become a Poison-type Pokémon.",
+            "Shield": "If this Pokémon squeezes the tongue of the Shellder biting it, the Shellder will launch a toxic liquid from the tip of its shell .",
+            "Brilliant Diamond": "Though usually dim-witted, it seems to become inspired if the Shellder on its tail bites down.",
+            "Shining Pearl": "Though usually dim-witted, it seems to become inspired if the Shellder on its tail bites down."
+        },
+        "Generation IX": {
+            "Scarlet": "Shellder seems blissful over the taste of Slowbro even though the toxins seeping from the bite have caused Shellder to faint.",
+            "Violet": "Shellder bites down hard on Slowbro’s arm to suck out more poison. This seems to cause itching, so Slowbro occasionally lashes out."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Route 23 and Cerulean Cave ( Super Rod ) Seafoam Islands (walking)",
+            "Blue": "Route 23 and Cerulean Cave ( Super Rod ) Seafoam Islands (walking)",
+            "Blue (Japan)": "Route 23 and Cerulean Cave ( Super Rod ) Seafoam Islands (walking)",
+            "Yellow": "Routes 12 and 13 ( surfing ) Seafoam Islands (walking)"
+        },
+        "Generation II": {
+            "Gold": "Slowpoke Well * ( surfing )",
+            "Silver": "Slowpoke Well * ( surfing )",
+            "Crystal": "Slowpoke Well * ( surfing )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Trade",
+            "LeafGreen": "Cerulean Cave and Berry Forest ( surfing ) Seafoam Islands and Cape Brink ( tall grass /walking and surfing) Cinnabar Island ( Super Rod )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Evolve Slowpoke",
+            "Platinum": "Evolve Slowpoke",
+            "HeartGold": "Slowpoke Well and Seafoam Islands Safari Zone (Peak with 5 Waterside points; tall grass in Rocky Beach - default, with 3 Peak points, and with 5 Waterside points)",
+            "SoulSilver": "Slowpoke Well and Seafoam Islands Safari Zone (Peak with 5 Waterside points; tall grass in Rocky Beach - default, with 3 Peak points, and with 5 Waterside points)",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Abundant Shrine ( Surfing in rippling water )",
+            "White": "Abundant Shrine ( Surfing in rippling water )",
+            "Black 2": "Evolve Slowpoke",
+            "White 2": "Evolve Slowpoke"
+        },
+        "Generation VI": {
+            "X": "Evolve Slowpoke",
+            "Y": "Evolve Slowpoke",
+            "Omega Ruby": "Evolve Slowpoke",
+            "Alpha Sapphire": "Evolve Slowpoke"
+        },
+        "Generation VII": {
+            "Sun": "Kala'e Bay ( SOS Battle )",
+            "Moon": "Kala'e Bay ( SOS Battle )",
+            "Ultra Sun": "Kala'e Bay ( SOS Battle )",
+            "Ultra Moon": "Kala'e Bay ( SOS Battle )",
+            "Let's Go Pikachu": "Seafoam Islands",
+            "Let's Go Eevee": "Seafoam Islands"
+        },
+        "Generation VIII": {
+            "Sword": "Evolve Slowpoke Version 1.2.0+ ( Galarian Form ) Trade Version 1.2.0+ ( Kantonian Form )",
+            "Shield": "Evolve Slowpoke Version 1.2.0+ ( Galarian Form ) Trade Version 1.2.0+ ( Kantonian Form )",
+            "Expansion Pass": "Evolve Slowpoke ( Galarian Form ) Max Lair ( Dynamax Adventure ) ( Kantonian Form )",
+            "Brilliant Diamond": "Trade ( Kantonian Form ) Unobtainable ( Galarian Form )",
+            "Shining Pearl": "Evolve Slowpoke ( Kantonian Form ) Unobtainable ( Galarian Form )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area Two ( Kantonian Form ) North Province: Casseroya Lake ( Kantonian Form ) North Province: Casseroya Lake ( Grass Tera Type ) ( Kantonian Form ) Tera Raid Battles ( 5★ ) ( Kantonian Form ) Trade ( Galarian Form )",
+            "Violet": "West Province: Area Two ( Kantonian Form ) North Province: Casseroya Lake ( Kantonian Form ) North Province: Casseroya Lake ( Grass Tera Type ) ( Kantonian Form ) Tera Raid Battles ( 5★ ) ( Kantonian Form ) Trade ( Galarian Form )",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 6★ ) ( Galarian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Slowpoke",
+            "to": "Slowbro",
+            "method": [
+                "Level 37",
+                "Use Galarica Cuff"
+            ]
+        }
+    ]
+}

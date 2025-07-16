@@ -1,0 +1,45 @@
+{
+    "name": "Mabosstiff",
+    "pokedex_number": "#0943",
+    "types": [
+        "Dark",
+        "Unknown"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Guard Dog",
+        "Stakeout"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 90,
+        "Sp. Atk": 60,
+        "Sp. Def": 70,
+        "Speed": 85,
+        "Total": 505
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon can store energy in its large dewlap. Mabosstiff unleashes this energy all at once to blow away enemies.",
+            "Violet": "Mabosstiff loves playing with children. Though usually gentle, it takes on an intimidating look when protecting its family."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "West Province: Area Three North Province: Area Two , Casseroya Lake , Socarrat Trail Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "West Province: Area Three North Province: Area Two , Casseroya Lake , Socarrat Trail Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Maschiff",
+            "to": "Mabosstiff",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

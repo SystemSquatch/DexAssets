@@ -1,0 +1,109 @@
+{
+    "name": "Ambipom",
+    "pokedex_number": "#0424",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Technician",
+        "Pickup",
+        "Skill Link"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 66,
+        "Sp. Atk": 60,
+        "Sp. Def": 66,
+        "Speed": 115,
+        "Total": 482
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now.",
+            "Pearl": "They work in large colonies and make rings by linking their tails, apparently in friendship.",
+            "Platinum": "Split into two, the tails are so adept at handling and doing things, Ambipom rarely uses its hands.",
+            "HeartGold": "They live on large trees. They are said to communicate by connecting their tails to those of others.",
+            "SoulSilver": "It is very difficult to dodge the consecutive strikes of its two tails."
+        },
+        "Generation V": {
+            "Black": "Split into two, the tails are so adept at handling and doing things, Ambipom rarely uses its hands.",
+            "White": "Split into two, the tails are so adept at handling and doing things, Ambipom rarely uses its hands.",
+            "Black 2": "Split into two, the tails are so adept at handling and doing things, Ambipom rarely uses its hands.",
+            "White 2": "Split into two, the tails are so adept at handling and doing things, Ambipom rarely uses its hands."
+        },
+        "Generation VI": {
+            "X": "They work in large colonies and make rings by linking their tails, apparently in friendship.",
+            "Y": "To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now.",
+            "Omega Ruby": "They work in large colonies and make rings by linking their tails, apparently in friendship.",
+            "Alpha Sapphire": "To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now."
+        },
+        "Generation VII": {
+            "Ultra Sun": "In their search for comfortable trees, they get into territorial disputes with groups of Passimian. They win about half the time.",
+            "Ultra Moon": "It uses its tails for everything. If it wraps both of its tails around you and gives you a squeeze, that's proof it really likes you."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now.",
+            "Shining Pearl": "They work in large colonies and make rings by linking their tails, apparently in friendship.",
+            "Legends: Arceus": "To affirm their kinship, members of this species will form a ring by linking their newly doubled tails together. On rare occasions, humans have been accepted into such rings."
+        },
+        "Generation IX": {
+            "Scarlet": "They live on large trees. They are said to communicate by connecting their tails to those of others.",
+            "Violet": "Split into two, the tails are so adept at handling and doing things that Ambipom rarely uses its hands."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Aipom",
+            "Pearl": "Evolve Aipom",
+            "Platinum": "Evolve Aipom",
+            "HeartGold": "Evolve Aipom",
+            "SoulSilver": "Evolve Aipom"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Trade Excadrill in Accumula Town",
+            "White 2": "Trade Excadrill in Accumula Town"
+        },
+        "Generation VI": {
+            "X": "Evolve Aipom",
+            "Y": "Evolve Aipom",
+            "Omega Ruby": "Evolve Aipom",
+            "Alpha Sapphire": "Evolve Aipom"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Poni Plains ( SOS Battle )",
+            "Ultra Moon": "Poni Plains ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Aipom",
+            "Shining Pearl": "Evolve Aipom",
+            "Legends: Arceus": "Cobalt Coastlands : Aipom Hill , Hideaway Bay , massive mass outbreaks Coronet Highlands : Space-time distortions Alabaster Icelands : Avalanche Slopes , near Icebound Falls , near Arena's Approach , near Avalugg's Legacy , Heart's Crag , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Tera Raid Battle Search ( 5★ , 6★ )",
+            "The Hidden Treasure of Area Zero (Violet)": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Aipom",
+            "to": "Ambipom",
+            "method": [
+                "Level up (knowing Double Hit)"
+            ]
+        }
+    ]
+}

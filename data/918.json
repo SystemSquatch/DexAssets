@@ -1,0 +1,44 @@
+{
+    "name": "Spidops",
+    "pokedex_number": "#0918",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Insomnia",
+        "Stakeout"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 79,
+        "Defense": 92,
+        "Sp. Atk": 52,
+        "Sp. Def": 86,
+        "Speed": 35,
+        "Total": 404
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.",
+            "Violet": "Spidops covers its territory in tough, sticky threads to set up traps for intruders."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "East Province: Area One , Area Two , Tagtree Thicket West Province: Area Three North Province: Area Two , Socarrat Trail Tera Raid Battles ( 3★ )",
+            "Violet": "East Province: Area One , Area Two , Tagtree Thicket West Province: Area Three North Province: Area Two , Socarrat Trail Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Tarountula",
+            "to": "Spidops",
+            "method": [
+                "Level 15"
+            ]
+        }
+    ]
+}

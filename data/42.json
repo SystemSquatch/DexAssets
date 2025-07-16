@@ -1,0 +1,157 @@
+{
+    "name": "Golbat",
+    "pokedex_number": "#0042",
+    "types": [
+        "Poison",
+        "Flying"
+    ],
+    "abilities": [
+        "Inner Focus",
+        "Infiltrator"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 70,
+        "Sp. Atk": 65,
+        "Sp. Def": 75,
+        "Speed": 90,
+        "Total": 455
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+            "Yellow": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and suck blood.",
+            "Stadium": "Bites its prey and feeds on the victim's energy. Its own blood type changes to that of its victim."
+        },
+        "Generation II": {
+            "Gold": "However hard its victim's hide may be, it punctures with sharp fangs and gorges itself with blood.",
+            "Silver": "It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily.",
+            "Crystal": "When it plunges its fangs into its prey, it instantly draws and gulps down more than ten ounces of blood.",
+            "Stadium 2": "However hard its victim's hide may be, it punctures with sharp fangs and gorges itself with blood. (Pokémon Red, Silver, or Crystal inserted) It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Golbat loves to drink the blood of living things. It is particularly active in the pitch black of night. This Pok é mon flits around in the night skies, seeking fresh blood.",
+            "Sapphire": "Golbat bites down on prey with its four fangs and drinks the victim's blood. It becomes active on inky dark moonless nights, flying around to attack people and Pok é mon .",
+            "Emerald": "Its fangs easily puncture even thick animal hide. It loves to feast on the blood of people and Pok é mon . It flits about in darkness and strikes from behind.",
+            "FireRed": "It clamps down on its prey with needle-sharp fangs and drains over 10 ounces of blood in one gulp.",
+            "LeafGreen": "Once it bites, it will not stop draining energy from the victim even if it gets too heavy to fly."
+        },
+        "Generation IV": {
+            "Diamond": "It loves the blood of humans and Pokémon. It flies around at night in search of neck veins.",
+            "Pearl": "Once it starts sucking blood, it does not stop until it is full. It flies at night in search of prey.",
+            "Platinum": "Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.",
+            "HeartGold": "However hard its victim's hide may be, it punctures with sharp fangs and gorges itself with blood.",
+            "SoulSilver": "It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily."
+        },
+        "Generation V": {
+            "Black": "Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.",
+            "White": "Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.",
+            "Black 2": "Flitting around in the dead of night, it sinks its fangs into its prey and drains a nearly fatal amount of blood.",
+            "White 2": "Flitting around in the dead of night, it sinks its fangs into its prey and drains a nearly fatal amount of blood."
+        },
+        "Generation VI": {
+            "X": "Once it bites, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+            "Y": "Once it starts sucking blood, it does not stop until it is full. It flies at night in search of prey.",
+            "Omega Ruby": "Golbat loves to drink the blood of living things. It is particularly active in the pitch black of night. This Pokémon flits around in the night skies, seeking fresh blood.",
+            "Alpha Sapphire": "Golbat bites down on prey with its four fangs and drinks the victim's blood. It becomes active on inky dark moonless nights, flying around to attack people and Pokémon."
+        },
+        "Generation VII": {
+            "Sun": "Its thick fangs are hollow like straws, making them unexpectedly fragile. These fangs are specialized for sucking blood.",
+            "Moon": "Sometimes they drink so much blood, they can't fly anymore. Then they fall to the ground and become food for other Pokémon.",
+            "Ultra Sun": "Every once in a while, you'll see a Golbat that's missing some fangs. This happens when hunger drives it to try biting a Steel-type Pokémon.",
+            "Ultra Moon": "They can suck down over 10 ounces of blood in one go. They have been known to drink so much blood that they can no longer fly.",
+            "Let's Go Pikachu": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and to suck blood.",
+            "Let's Go Eevee": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and to suck blood."
+        },
+        "Generation VIII": {
+            "Sword": "It loves to drink other creatures' blood. It's said that if it finds others of its kind going hungry, it sometimes shares the blood it's gathered.",
+            "Shield": "Its feet are tiny, but this Pokémon walks skillfully. It sneaks up on sleeping prey before sinking in its fangs and slurping up blood.",
+            "Brilliant Diamond": "It loves the blood of humans and Pokémon. It flies around at night in search of neck veins.",
+            "Shining Pearl": "Once it starts sucking blood, it does not stop until it is full. It flies at night in search of prey.",
+            "Legends: Arceus": "It sinks its sharp fangs into other creatures and slurps up their blood. A closer look at the fangs reveals that they are hollow and akin to straws."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Seafoam Islands , Victory Road , Cerulean Cave",
+            "Blue": "Seafoam Islands , Victory Road , Cerulean Cave",
+            "Blue (Japan)": "Seafoam Islands , Victory Road , Cerulean Cave",
+            "Yellow": "Seafoam Islands , Victory Road , Cerulean Cave"
+        },
+        "Generation II": {
+            "Gold": "Dark Cave ( Blackthorn City side), Union Cave , Slowpoke Well , Mt. Mortar , Whirl Islands , Ice Path , Mt. Silver Cave , Victory Road , Tohjo Falls",
+            "Silver": "Dark Cave ( Blackthorn City side), Union Cave , Slowpoke Well , Mt. Mortar , Whirl Islands , Ice Path , Mt. Silver Cave , Victory Road , Tohjo Falls",
+            "Crystal": "Dark Cave ( Blackthorn City side), Union Cave , Slowpoke Well , Mt. Mortar , Whirl Islands , Ice Path , Mt. Silver Cave , Victory Road , Tohjo Falls (all times) Routes 28 and 42 , Rock Tunnel , Mt. Silver Night"
+        },
+        "Generation III": {
+            "Ruby": "Cave of Origin , Shoal Cave , Sky Pillar Meteor Falls , Seafloor Cavern , Victory Road ( Surfing and walking)",
+            "Sapphire": "Cave of Origin , Shoal Cave , Sky Pillar Meteor Falls , Seafloor Cavern , Victory Road ( Surfing and walking)",
+            "Emerald": "Cave of Origin , Shoal Cave , Sky Pillar Meteor Falls , Seafloor Cavern , Victory Road ( Surfing and walking)",
+            "FireRed": "Cerulean Cave , Icefall Cave , Lost Cave , Seafoam Islands , Victory Road",
+            "LeafGreen": "Cerulean Cave , Icefall Cave , Lost Cave , Seafoam Islands , Victory Road",
+            "Colosseum": "Trade",
+            "XD": "Evolve Zubat"
+        },
+        "Generation IV": {
+            "Diamond": "Ravaged Path , Oreburgh Gate , Victory Road , Mt. Coronet ( Surfing , all times) Stark Mountain , Mt. Coronet , Victory Road , Iron Island , Snowpoint Temple , Lost Tower , Turnback Cave (all times) Route 227 Night",
+            "Pearl": "Ravaged Path , Oreburgh Gate , Victory Road , Mt. Coronet ( Surfing , all times) Stark Mountain , Mt. Coronet , Victory Road , Iron Island , Snowpoint Temple , Lost Tower , Turnback Cave (all times) Route 227 Night",
+            "Platinum": "Ravaged Path , Oreburgh Gate , Victory Road , Mt. Coronet ( Surfing , all times) Stark Mountain , Oreburgh Gate , Mt. Coronet , Victory Road , Iron Island , Snowpoint Temple , Lost Tower , Turnback Cave (all times) Route 227 , Sendoff Spring Night",
+            "HeartGold": "Cliff Cave , Dark Cave , Ice Path , Mt. Mortar , Mt. Silver Cave , Slowpoke Well , Union Cave , Cerulean Cave , Seafoam Islands , Tohjo Falls , Whirl Islands , Victory Road Safari Zone Night (Mountain and Savannah, default)",
+            "SoulSilver": "Cliff Cave , Dark Cave , Ice Path , Mt. Mortar , Mt. Silver Cave , Slowpoke Well , Union Cave , Cerulean Cave , Seafoam Islands , Tohjo Falls , Whirl Islands , Victory Road Safari Zone Night (Mountain and Savannah, default)",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Scary Cave , Quiet Cave"
+        },
+        "Generation V": {
+            "Black": "Route 13 , Giant Chasm",
+            "White": "Route 13 , Giant Chasm",
+            "Black 2": "Dreamyard , Celestial Tower , Strange House",
+            "White 2": "Dreamyard , Celestial Tower , Strange House"
+        },
+        "Generation VI": {
+            "X": "Evolve Zubat",
+            "Y": "Evolve Zubat",
+            "Omega Ruby": "Meteor Falls , Cave of Origin , Seafloor Cavern , Shoal Cave , Scorched Slab , Victory Road , Sky Pillar , Sealed Chamber",
+            "Alpha Sapphire": "Meteor Falls , Cave of Origin , Seafloor Cavern , Shoal Cave , Scorched Slab , Victory Road , Sky Pillar , Sealed Chamber"
+        },
+        "Generation VII": {
+            "Sun": "Thrifty Megamart (Abandoned Site) , Mount Lanakila , Vast Poni Canyon , Resolution Cave",
+            "Moon": "Thrifty Megamart (Abandoned Site) , Mount Lanakila , Vast Poni Canyon , Resolution Cave",
+            "Ultra Sun": "Thrifty Megamart (Abandoned Site) , Mount Lanakila , Vast Poni Canyon , Resolution Cave Lush Jungle (Cave), Diglett's Tunnel , Memorial Hill ( SOS Battle )",
+            "Ultra Moon": "Thrifty Megamart (Abandoned Site) , Mount Lanakila , Vast Poni Canyon , Resolution Cave Lush Jungle (Cave), Diglett's Tunnel , Memorial Hill ( SOS Battle )",
+            "Let's Go Pikachu": "Rock Tunnel , Pokémon Tower , Seafoam Islands , Victory Road , Cerulean Cave",
+            "Let's Go Eevee": "Rock Tunnel , Pokémon Tower , Seafoam Islands , Victory Road , Cerulean Cave"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Tunnel to the Top , Roaring-Sea Caves ( Wanderer ) Frostpoint Field , Dyna Tree Hill , Giant's Bed , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Ravaged Path , Oreburgh Gate , Victory Road , Mt. Coronet ( Surfing , all times) Stark Mountain , Mt. Coronet , Victory Road , Iron Island , Snowpoint Temple , Lost Tower , Turnback Cave (all times) Route 227 Night Grand Underground - Grassland Cave , Spacious Cave , Swampy Cave , Sunlit Cavern , Bogsunk Cavern (After obtaining TM96 ( Strength ))",
+            "Shining Pearl": "Ravaged Path , Oreburgh Gate , Victory Road , Mt. Coronet ( Surfing , all times) Stark Mountain , Mt. Coronet , Victory Road , Iron Island , Snowpoint Temple , Lost Tower , Turnback Cave (all times) Route 227 Night Grand Underground - Grassland Cave , Spacious Cave , Swampy Cave , Sunlit Cavern , Bogsunk Cavern (After obtaining TM96 ( Strength ))",
+            "Legends: Arceus": "Obsidian Fieldlands : Deertrack Heights Night , Windswept Run Night , Nature's Pantry Night , Tidewater Dam Night , The Heartwood Night , Oreburrow Tunnel Night and nearby (additional Day Night ), near Obsidian Falls Night , massive mass outbreaks Crimson Mirelands : Cloudpool Ridge Night , near Diamond Settlement Night , Diamond Heath Night , Bolderoll Slope Night Coronet Highlands : Heavenward Lookout Night , Wayward Wood Night , Wayward Cave , near Ancient Quarry Night Alabaster Icelands : Snowpoint Temple"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Zubat",
+            "to": "Golbat",
+            "method": [
+                "Level 22"
+            ]
+        },
+        {
+            "from": "Golbat",
+            "to": "Crobat",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        }
+    ]
+}

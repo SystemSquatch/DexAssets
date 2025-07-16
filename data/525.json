@@ -1,0 +1,100 @@
+{
+    "name": "Boldore",
+    "pokedex_number": "#0525",
+    "types": [
+        "Rock",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sturdy",
+        "Weak Armor",
+        "Sand Force"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 105,
+        "Defense": 105,
+        "Sp. Atk": 50,
+        "Sp. Def": 40,
+        "Speed": 20,
+        "Total": 390
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "When it overflows with power, the orange crystal on its body glows. It looks for underground water in caves.",
+            "White": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
+            "Black 2": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
+            "White 2": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right."
+        },
+        "Generation VI": {
+            "X": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
+            "Y": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
+            "Omega Ruby": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
+            "Alpha Sapphire": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right."
+        },
+        "Generation VII": {
+            "Sun": "Its orange crystal is a mass of energy. Just one crystal fragment would provide enough fuel for a hundred dump trucks.",
+            "Moon": "It explores caves in search of underground water. It's not comfortable around water, so this Pokémon takes great care in lapping it up.",
+            "Ultra Sun": "The energy overflowing from its body has turned into orange crystals that are hard enough to smash diamonds.",
+            "Ultra Moon": "Its orange crystals are lumps of powerful energy. They're valuable, so Boldore is sometimes targeted for them."
+        },
+        "Generation VIII": {
+            "Sword": "If you see its orange crystals start to glow, be wary. It's about to fire off bursts of energy.",
+            "Shield": "It relies on sound in order to monitor what's in its vicinity. When angered, it will attack without ever changing the direction it's facing."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Chargestone Cave , Mistralton Cave , Twist Mountain , Challenger's Cave , Victory Road , Giant Chasm",
+            "White": "Chargestone Cave , Mistralton Cave , Twist Mountain , Challenger's Cave , Victory Road , Giant Chasm",
+            "Black 2": "Relic Passage , Wellspring Cave , Chargestone Cave , Mistralton Cave , Clay Tunnel , Twist Mountain , Reversal Mountain , Seaside Cave , Victory Road , Underground Ruins Chargestone Cave ( N's Pokémon )",
+            "White 2": "Relic Passage , Wellspring Cave , Chargestone Cave , Mistralton Cave , Clay Tunnel , Twist Mountain , Reversal Mountain , Seaside Cave , Victory Road , Underground Ruins Chargestone Cave ( N's Pokémon )",
+            "Dream World": "Icy Cave *"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Rock )",
+            "Y": "Friend Safari ( Rock )",
+            "Omega Ruby": "Mirage Caves (west of Route 115 , north of Fortree City , north of Route 124 , southeast of Route 129 ; all by Rock Smash )",
+            "Alpha Sapphire": "Mirage Caves (west of Route 115 , north of Fortree City , north of Route 124 , southeast of Route 129 ; all by Rock Smash )"
+        },
+        "Generation VII": {
+            "Sun": "Vast Poni Canyon",
+            "Moon": "Vast Poni Canyon",
+            "Ultra Sun": "Vast Poni Canyon",
+            "Ultra Moon": "Vast Poni Canyon",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 8 , Stony Wilderness , Giant's Mirror , Giant's Cap , Lake of Outrage Rolling Fields , Giant's Seat , Stony Wilderness , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Route 8 , Stony Wilderness , Giant's Mirror , Giant's Cap , Lake of Outrage Rolling Fields , Giant's Seat , Stony Wilderness , Dusty Bowl ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Roggenrola",
+            "to": "Boldore",
+            "method": [
+                "Level 25"
+            ]
+        },
+        {
+            "from": "Boldore",
+            "to": "Gigalith",
+            "method": [
+                "Trade"
+            ]
+        }
+    ]
+}

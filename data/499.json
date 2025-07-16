@@ -1,0 +1,93 @@
+{
+    "name": "Pignite",
+    "pokedex_number": "#0499",
+    "types": [
+        "Fire",
+        "Fighting"
+    ],
+    "abilities": [
+        "Blaze",
+        "Thick Fat"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 93,
+        "Defense": 55,
+        "Sp. Atk": 70,
+        "Sp. Def": 55,
+        "Speed": 55,
+        "Total": 418
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.",
+            "White": "Whatever it eats becomes fuel for the flame in its stomach. When it is angered, the intensity of the flame increases.",
+            "Black 2": "The more it eats, the more fuel it has to make the fire in its stomach stronger. This fills it with even more power.",
+            "White 2": "The more it eats, the more fuel it has to make the fire in its stomach stronger. This fills it with even more power."
+        },
+        "Generation VI": {
+            "X": "The more it eats, the more fuel it has to make the fire in its stomach stronger. This fills it with even more power.",
+            "Y": "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.",
+            "Omega Ruby": "The more it eats, the more fuel it has to make the fire in its stomach stronger. This fills it with even more power.",
+            "Alpha Sapphire": "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "When Pignite enters battle, its body temperature rapidly soars until Pignite itself is engulfed by a scorching fireball.",
+            "Violet": "When defending its friends, Pignite will stand up to any opponent, no matter how strong. But it’s powerless when faced with an empty stomach."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Tepig",
+            "White": "Evolve Tepig",
+            "Black 2": "Evolve Tepig",
+            "White 2": "Evolve Tepig"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Tepig",
+            "Alpha Sapphire": "Evolve Tepig"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Tepig",
+            "Moon": "Evolve Tepig",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Tepig"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Tepig",
+            "to": "Pignite",
+            "method": [
+                "Level 17"
+            ]
+        },
+        {
+            "from": "Pignite",
+            "to": "Emboar",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

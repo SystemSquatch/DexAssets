@@ -1,0 +1,126 @@
+{
+    "name": "Vigoroth",
+    "pokedex_number": "#0288",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Vital Spirit"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 80,
+        "Sp. Atk": 55,
+        "Sp. Def": 55,
+        "Speed": 90,
+        "Total": 440
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Vigoroth is always itching and agitated to go on a wild rampage. It simply can't tolerate sitting still for even a minute. This Pok é mon 's stress level rises if it can't be moving constantly.",
+            "Sapphire": "Vigoroth is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this Pok é mon to run wild throughout the jungle before it can settle down.",
+            "Emerald": "It can't keep still because its blood boils with energy. It runs through the fields and mountains all day to calm itself. If it doesn't, it can't sleep at night.",
+            "FireRed": "It is always hungry because it won't stop rampaging. Even while it is eating, it can't keep still.",
+            "LeafGreen": "It is always hungry because it won't stop rampaging. Even while it is eating, it can't keep still."
+        },
+        "Generation IV": {
+            "Diamond": "Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.",
+            "Pearl": "Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.",
+            "Platinum": "Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.",
+            "HeartGold": "Its stress level rises if it cannot keep moving constantly. Too much stress makes it feel sick.",
+            "SoulSilver": "Its stress level rises if it cannot keep moving constantly. Too much stress makes it feel sick."
+        },
+        "Generation V": {
+            "Black": "Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.",
+            "White": "Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.",
+            "Black 2": "Its heartbeat is fast and its blood so agitated that it can't sit still for one second.",
+            "White 2": "Its heartbeat is fast and its blood so agitated that it can't sit still for one second."
+        },
+        "Generation VI": {
+            "X": "Its heartbeat is fast and its blood so agitated that it can't sit still for one second.",
+            "Y": "Its stress level rises if it cannot keep moving constantly. Too much stress makes it feel sick.",
+            "Omega Ruby": "Vigoroth is always itching and agitated to go on a wild rampage. It simply can't tolerate sitting still for even a minute. This Pokémon's stress level rises if it can't be moving constantly.",
+            "Alpha Sapphire": "Vigoroth is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this Pokémon to run wild throughout the jungle before it can settle down."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Its heart beats at 10 times its previous rate, so it cannot sit still for even a moment.",
+            "Shining Pearl": "Its heart beats at 10 times its previous rate, so it cannot sit still for even a moment."
+        },
+        "Generation IX": {
+            "Scarlet": "Its stress level rises if it cannot keep moving constantly. Too much stress makes it feel sick.",
+            "Violet": "It is always hungry because it won't stop rampaging. Even while it is eating, it can't keep still."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Slakoth",
+            "Sapphire": "Evolve Slakoth",
+            "Emerald": "Evolve Slakoth",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Slakoth",
+            "Pearl": "Evolve Slakoth",
+            "Platinum": "Evolve Slakoth",
+            "HeartGold": "Safari Zone (Peak with 56 Forest points and 28 Plains points)",
+            "SoulSilver": "Safari Zone (Peak with 56 Forest points and 28 Plains points)",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Slakoth",
+            "Black 2": "Pinwheel Forest (inner)",
+            "White 2": "Pinwheel Forest (inner)"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Slakoth",
+            "Alpha Sapphire": "Evolve Slakoth"
+        },
+        "Generation VII": {
+            "Sun": "Route 11 ( Island Scan ) Fr",
+            "Moon": "Route 11 ( Island Scan ) Fr",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Slakoth",
+            "Shining Pearl": "Evolve Slakoth",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Three , Area Five West Province: Area Three North Province: Area One , Dalizapa Passage Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Area One , Area Three , Area Five West Province: Area Three North Province: Area One , Dalizapa Passage Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Slakoth",
+            "to": "Vigoroth",
+            "method": [
+                "Level 18"
+            ]
+        },
+        {
+            "from": "Vigoroth",
+            "to": "Slaking",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

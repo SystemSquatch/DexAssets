@@ -1,0 +1,150 @@
+{
+    "name": "Hitmonchan",
+    "pokedex_number": "#0107",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Iron Fist",
+        "Inner Focus"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 105,
+        "Defense": 79,
+        "Sp. Atk": 35,
+        "Sp. Def": 110,
+        "Speed": 76,
+        "Total": 455
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
+            "Yellow": "Punches in corkscrew fashion. It can punch its way through a concrete wall in the same way as a drill.",
+            "Stadium": "Adept at punching invisibly quick at bullet-train speed. It takes a break every three minutes as it moves around."
+        },
+        "Generation II": {
+            "Gold": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
+            "Silver": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
+            "Crystal": "To increase the strength of all its punch moves, it spins its arms just before making contact.",
+            "Stadium 2": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes. (Pokémon Red, Silver, or Crystal inserted) Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Hitmonchan is said to possess the spirit of a boxer who had been working towards a world championship. This Pok é mon has an indomitable spirit and will never give up in the face of adversity.",
+            "Sapphire": "Hitmonchan is said to possess the spirit of a boxer who had been working towards a world championship. This Pok é mon has an indomitable spirit and will never give up in the face of adversity.",
+            "Emerald": "A Hitmonchan is said to possess the spirit of a boxer who aimed to become the world champion. Having an indomitable spirit means that it will never give up.",
+            "FireRed": "The spirit of a pro boxer has infused this Pok é mon . It throws punches that are faster than a bullet train.",
+            "LeafGreen": "While apparently doing nothing, it fires punches in lightning-fast volleys that are impossible to see."
+        },
+        "Generation IV": {
+            "Diamond": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+            "Pearl": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+            "Platinum": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+            "HeartGold": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
+            "SoulSilver": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn."
+        },
+        "Generation V": {
+            "Black": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+            "White": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+            "Black 2": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+            "White 2": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting."
+        },
+        "Generation VI": {
+            "X": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+            "Y": "The spirit of a pro boxer has infused this Pokémon. It throws punches that are faster than a bullet train.",
+            "Omega Ruby": "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
+            "Alpha Sapphire": "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Punches in corkscrew fashion. It can punch its way through a concrete wall like a drill.",
+            "Let's Go Eevee": "Punches in corkscrew fashion. It can punch its way through a concrete wall like a drill."
+        },
+        "Generation VIII": {
+            "Sword": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
+            "Shield": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
+            "Brilliant Diamond": "When Hitmonchan twists its arm while throwing a punch, the blow will pulverize even concrete. The Pokémon rests after three minutes of fighting.",
+            "Shining Pearl": "When Hitmonchan twists its arm while throwing a punch, the blow will pulverize even concrete. The Pokémon rests after three minutes of fighting."
+        },
+        "Generation IX": {
+            "Scarlet": "It corners its foes with combo punches from both sides, then finishes them off with a single straight punch launched at over 300 mph.",
+            "Violet": "Its fists are masses of muscle. It takes a break every three minutes to steady its breath and mood."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee )",
+            "Blue": "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee )",
+            "Blue (Japan)": "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee )",
+            "Yellow": "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee )"
+        },
+        "Generation II": {
+            "Gold": "Evolve Tyrogue",
+            "Silver": "Evolve Tyrogue",
+            "Crystal": "Evolve Tyrogue"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee )",
+            "LeafGreen": "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee )",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Tyrogue",
+            "Pearl": "Evolve Tyrogue",
+            "Platinum": "Evolve Tyrogue",
+            "HeartGold": "Evolve Tyrogue",
+            "SoulSilver": "Evolve Tyrogue",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Evolve Tyrogue",
+            "White": "Evolve Tyrogue",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Tyrogue",
+            "Y": "Evolve Tyrogue",
+            "Omega Ruby": "Evolve Tyrogue",
+            "Alpha Sapphire": "Evolve Tyrogue"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee ) Victory Road",
+            "Let's Go Eevee": "Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee ) Victory Road"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields , South Lake Miloch , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Dusty Bowl Rolling Fields , South Lake Miloch , Stony Wilderness ( Max Raid Battle )",
+            "Sword Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Shield Expansion Pass": "Frostpoint Field , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventures )",
+            "Brilliant Diamond": "Evolve Tyrogue",
+            "Shining Pearl": "Evolve Tyrogue",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Canyon Biome Tera Raid Battles ( 5★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Tyrogue",
+            "to": "Hitmonchan",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "name": "Shroomish",
+    "pokedex_number": "#0285",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Effect Spore",
+        "Poison Heal",
+        "Quick Feet"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 60,
+        "Sp. Atk": 40,
+        "Sp. Def": 60,
+        "Speed": 35,
+        "Total": 295
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Shroomish live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This Pok é mon feeds on compost that is made up of fallen, rotted leaves.",
+            "Sapphire": "If Shroomish senses danger, it shakes its body and scatters spores from the top of its head. This Pok é mon 's spores are so toxic, they make trees and weeds wilt.",
+            "Emerald": "It loves to eat damp, composted soil in forests. If you enter a forest after a long rain, you can see many Shroomish feasting on composted soil.",
+            "FireRed": "It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.",
+            "LeafGreen": "It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head."
+        },
+        "Generation IV": {
+            "Diamond": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
+            "Pearl": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
+            "Platinum": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
+            "HeartGold": "If it senses danger, it scatters spores from the top of its head to protect itself.",
+            "SoulSilver": "If it senses danger, it scatters spores from the top of its head to protect itself."
+        },
+        "Generation V": {
+            "Black": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
+            "White": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
+            "Black 2": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
+            "White 2": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled."
+        },
+        "Generation VI": {
+            "X": "It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.",
+            "Y": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
+            "Omega Ruby": "Shroomish live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This Pokémon feeds on compost that is made up of fallen, rotted leaves.",
+            "Alpha Sapphire": "If Shroomish senses danger, it shakes its body and scatters spores from the top of its head. This Pokémon's spores are so toxic, they make trees and weeds wilt."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It spouts poison spores from the top of its head. These spores cause pain all over the body if inhaled.",
+            "Shining Pearl": "It spouts poison spores from the top of its head. These spores cause pain all over the body if inhaled."
+        },
+        "Generation IX": {
+            "Scarlet": "It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.",
+            "Violet": "If it senses danger, it scatters spores from the top of its head to protect itself."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Petalburg Woods",
+            "Sapphire": "Petalburg Woods",
+            "Emerald": "Petalburg Woods",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Cipher Lab (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Great Marsh (after obtaining National Pokédex )",
+            "Pearl": "Great Marsh (after obtaining National Pokédex )",
+            "Platinum": "Great Marsh (after obtaining National Pokédex )",
+            "HeartGold": "Viridian Forest ( Headbutt trees ) Safari Zone (Savannah with 35 Forest points and 12 Plains points)",
+            "SoulSilver": "Viridian Forest ( Headbutt trees ) Safari Zone (Savannah with 35 Forest points and 12 Plains points)",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Route 11 ( Swarm )",
+            "White": "Trade",
+            "Black 2": "Breed Breloom",
+            "White 2": "Breed Breloom",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Breed Breloom",
+            "Y": "Breed Breloom",
+            "Omega Ruby": "Petalburg Woods",
+            "Alpha Sapphire": "Petalburg Woods"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Great Marsh (after obtaining National Pokédex )",
+            "Shining Pearl": "Great Marsh (after obtaining National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Five West Province: Area Three Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area Five West Province: Area Three Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Shroomish",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Shroomish",
+            "to": "Breloom",
+            "method": [
+                "Level 23"
+            ]
+        }
+    ]
+}

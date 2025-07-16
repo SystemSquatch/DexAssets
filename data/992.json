@@ -1,0 +1,35 @@
+{
+    "name": "Iron Hands",
+    "pokedex_number": "#0992",
+    "types": [
+        "Fighting",
+        "Electric"
+    ],
+    "abilities": [
+        "Quark Drive"
+    ],
+    "stats": {
+        "HP": 154,
+        "Attack": 140,
+        "Defense": 108,
+        "Sp. Atk": 50,
+        "Sp. Def": 68,
+        "Speed": 50,
+        "Total": 570
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It is very similar to a cyborg covered exclusively by a paranormal magazine. The cyborg was said to be the modified form of a certain athlete.",
+            "Violet": "This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Union Circle",
+            "Violet": "Area Zero"
+        }
+    },
+    "evolution": []
+}

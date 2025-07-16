@@ -1,0 +1,106 @@
+{
+    "name": "Dusknoir",
+    "pokedex_number": "#0477",
+    "types": [
+        "Ghost",
+        "Unknown"
+    ],
+    "abilities": [
+        "Pressure",
+        "Frisk"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 100,
+        "Defense": 135,
+        "Sp. Atk": 65,
+        "Sp. Def": 135,
+        "Speed": 45,
+        "Total": 525
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
+            "Pearl": "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
+            "Platinum": "It is said to take lost spirits into its pliant body and guide them home.",
+            "HeartGold": "This feared Pokémon is said to travel to worlds unknown. Some even believe that it takes lost spirits along with it.",
+            "SoulSilver": "This feared Pokémon is said to travel to worlds unknown. Some even believe that it takes lost spirits along with it."
+        },
+        "Generation V": {
+            "Black": "It is said to take lost spirits into its pliant body and guide them home.",
+            "White": "It is said to take lost spirits into its pliant body and guide them home.",
+            "Black 2": "It is said to take lost spirits into its pliant body and guide them home.",
+            "White 2": "It is said to take lost spirits into its pliant body and guide them home."
+        },
+        "Generation VI": {
+            "X": "It is said to take lost spirits into its pliant body and guide them home.",
+            "Y": "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
+            "Omega Ruby": "It is said to take lost spirits into its pliant body and guide them home.",
+            "Alpha Sapphire": "The antenna on its head captures radio waves from the world of spirits that command it to take people there."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "At the bidding of transmissions from the spirit world, it steals people and Pokémon away. No one knows whether it has a will of its own.",
+            "Shield": "With the mouth on its belly, Dusknoir swallows its target whole. The soul is the only thing eaten— Dusknoir disgorges the body before departing.",
+            "Brilliant Diamond": "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
+            "Shining Pearl": "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
+            "Legends: Arceus": "Comes to those whose lives have come to an end and escorts their souls to the afterlife. Known to mistakenly take the souls of those who yet have life left in them, albeit rarely."
+        },
+        "Generation IX": {
+            "Scarlet": "It is said to take lost spirits into its pliant body and take them to the afterlife.",
+            "Violet": "It comes and goes between this world and the afterlife. People fear this Pokémon because it is said to suck in lost spirits and take them along."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Dusclops",
+            "Pearl": "Evolve Dusclops",
+            "Platinum": "Evolve Dusclops",
+            "HeartGold": "Evolve Dusclops",
+            "SoulSilver": "Evolve Dusclops"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Evolve Dusclops",
+            "Y": "Evolve Dusclops",
+            "Omega Ruby": "Evolve Dusclops",
+            "Alpha Sapphire": "Evolve Dusclops"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Stony Wilderness ( Wanderer ) Giant's Mirror , South Lake Miloch , Stony Wilderness ( Max Raid Battles )",
+            "Shield": "Stony Wilderness ( Wanderer ) Giant's Mirror , South Lake Miloch , Stony Wilderness ( Max Raid Battles )",
+            "Brilliant Diamond": "Evolve Dusclops",
+            "Shining Pearl": "Evolve Dusclops",
+            "Legends: Arceus": "Cobalt Coastlands : Deadwood Haunt Night Coronet Highlands : Space-time distortions , massive mass outbreaks Alabaster Icelands : massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Dusclops",
+            "to": "Dusknoir",
+            "method": [
+                "Trade (holding Reaper Cloth)"
+            ]
+        }
+    ]
+}

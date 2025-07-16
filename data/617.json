@@ -1,0 +1,87 @@
+{
+    "name": "Accelgor",
+    "pokedex_number": "#0617",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Hydration",
+        "Sticky Hold",
+        "Unburden"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 40,
+        "Sp. Atk": 100,
+        "Sp. Def": 60,
+        "Speed": 145,
+        "Total": 495
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
+            "White": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
+            "Black 2": "When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison.",
+            "White 2": "When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison."
+        },
+        "Generation VI": {
+            "X": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
+            "Y": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
+            "Omega Ruby": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
+            "Alpha Sapphire": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It moves with blinding speed and lobs poison at foes. Featuring Accelgor as a main character is a surefire way to make a movie or comic popular.",
+            "Shield": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Shelmet",
+            "White": "Evolve Shelmet",
+            "Black 2": "Evolve Shelmet",
+            "White 2": "Evolve Shelmet"
+        },
+        "Generation VI": {
+            "X": "Evolve Shelmet",
+            "Y": "Evolve Shelmet",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Evolve Shelmet",
+            "Shield": "Rolling Fields , Dappled Grove , South Lake Miloch , Bridge Field ( Max Raid Battle )",
+            "Expansion Pass": "Training Lowlands , Forest of Focus ( Wanderer ) Fields of Honor , Forest of Focus , Workout Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Shelmet",
+            "to": "Accelgor",
+            "method": [
+                "Trade"
+            ]
+        }
+    ]
+}

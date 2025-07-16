@@ -1,0 +1,44 @@
+{
+    "name": "Lokix",
+    "pokedex_number": "#0920",
+    "types": [
+        "Bug",
+        "Dark"
+    ],
+    "abilities": [
+        "Swarm",
+        "Tinted Lens"
+    ],
+    "stats": {
+        "HP": 71,
+        "Attack": 102,
+        "Defense": 78,
+        "Sp. Atk": 52,
+        "Sp. Def": 55,
+        "Speed": 92,
+        "Total": 450
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.",
+            "Violet": "It uses its normally folded third set of legs when in Showdown Mode. This places a huge burden on its body, so it can't stay in this mode for long."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area Three , Area Four , Area Five , Area Six , Alfornada Cavern , Pokémon League East Province: Area One , Area Two , Area Three West Province: Area Two , Area Three , Asado Desert West Province: Area One ( Fighting Tera Type ) North Province: Area One , Area Two , Area Three , Casseroya Lake , Dalizapa Passage , Glaseado Mountain Area Zero Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area Three , Area Four , Area Five , Area Six , Alfornada Cavern , Pokémon League East Province: Area One , Area Two , Area Three West Province: Area Two , Area Three , Asado Desert West Province: Area One ( Fighting Tera Type ) North Province: Area One , Area Two , Area Three , Casseroya Lake , Dalizapa Passage , Glaseado Mountain Area Zero Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Nymble",
+            "to": "Lokix",
+            "method": [
+                "Level 24"
+            ]
+        }
+    ]
+}

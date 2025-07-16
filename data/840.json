@@ -1,0 +1,79 @@
+{
+    "name": "Applin",
+    "pokedex_number": "#0840",
+    "types": [
+        "Grass",
+        "Dragon"
+    ],
+    "abilities": [
+        "Ripen",
+        "Gluttony",
+        "Bulletproof"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 80,
+        "Sp. Atk": 40,
+        "Sp. Def": 40,
+        "Speed": 20,
+        "Total": 260
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it's just an apple and nothing more.",
+            "Shield": "As soon as it's born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution."
+        },
+        "Generation IX": {
+            "Scarlet": "It grows by eating the flesh of an apple. Applin uses its own body fluid to strengthen the apple’s skin and prevent it from rotting.",
+            "Violet": "Applin lives inside an apple. When an Applin is separated from its apple, its body loses moisture and the Pokémon grows weak."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Route 5 , Dusty Bowl , Giant's Mirror , Stony Wilderness Axew's Eye , Bridge Field , Dappled Grove , Giant's Mirror , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 5 , Dusty Bowl , Giant's Mirror , Stony Wilderness Axew's Eye , Bridge Field , Dappled Grove , Giant's Mirror , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor , Soothing Wetlands , Challenge Beach , Forest of Focus , Training Lowlands , Workout Sea , Loop Lagoon , Stepping-Stone Sea , Insular Sea Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Four East Province: Area One , Area Two , Tagtree Thicket West Province: Area Three North Province: Area One , Area Two , Casseroya Lake Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two , Area Four East Province: Area One , Area Two , Tagtree Thicket West Province: Area Three North Province: Area One , Area Two , Casseroya Lake Tera Raid Battles ( 1★ )",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Apple Hills , Mossfell Confluence Tera Raid Battles ( 2★ , 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Applin",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Applin",
+            "to": "Flapple",
+            "method": [
+                "Use Tart Apple"
+            ]
+        },
+        {
+            "from": "Applin",
+            "to": "Appletun",
+            "method": [
+                "Use Sweet Apple"
+            ]
+        },
+        {
+            "from": "Applin",
+            "to": "Dipplin",
+            "method": [
+                "Unknown"
+            ]
+        }
+    ]
+}

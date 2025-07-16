@@ -1,0 +1,154 @@
+{
+    "name": "Bellsprout",
+    "pokedex_number": "#0069",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Gluttony"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 35,
+        "Sp. Atk": 70,
+        "Sp. Def": 30,
+        "Speed": 40,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "A carnivorous Pok é mon that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "A carnivorous Pok é mon that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+            "Yellow": "Prefers hot and humid places. It ensnares tiny insects with its vines and devours them.",
+            "Stadium": "A kind of bug-eating plant that hunts small insects. It uses its roots as feet for walking."
+        },
+        "Generation II": {
+            "Gold": "Even though its body is extremely skinny, it is blindingly fast when catching its prey.",
+            "Silver": "It plants its feet deep underground to replenish water. It can't escape its enemy while it's rooted.",
+            "Crystal": "If it notices anything that moves, it immediately flings its vine at the object.",
+            "Stadium 2": "Even though its body is extremely skinny, it is blindingly fast when catching its prey. (Pokémon Red, Silver, or Crystal inserted) It plants its feet deep underground to replenish water. It can't escape its enemy while it's rooted. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Bellsprout 's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this Pok é mon spits a corrosive fluid that melts even iron.",
+            "Sapphire": "Bellsprout 's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this Pok é mon spits a corrosive fluid that melts even iron.",
+            "Emerald": "A Bellsprout 's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, it leaks a fluid that melts even iron.",
+            "FireRed": "Its bud looks like a human face. Because of the bud, it is rumored to be a type of legendary mandrake plant.",
+            "LeafGreen": "A carnivorous Pok é mon that traps and eats bugs. It appears to use its root feet to replenish moisture."
+        },
+        "Generation IV": {
+            "Diamond": "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
+            "Pearl": "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
+            "Platinum": "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
+            "HeartGold": "Even though its body is extremely skinny, it is blindingly fast when catching its prey.",
+            "SoulSilver": "It plants its feet deep underground to replenish water. It can't escape its enemy while it's rooted."
+        },
+        "Generation V": {
+            "Black": "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
+            "White": "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
+            "Black 2": "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
+            "White 2": "It prefers hot and humid environments. It is quick at capturing prey with its vines."
+        },
+        "Generation VI": {
+            "X": "Even though its body is extremely skinny, it is blindingly fast when catching its prey.",
+            "Y": "Its bud looks like a human face. Because of the bud, it is rumored to be a type of legendary mandrake plant.",
+            "Omega Ruby": "Bellsprout's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this Pokémon spits a corrosive fluid that melts even iron.",
+            "Alpha Sapphire": "Bellsprout's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this Pokémon spits a corrosive fluid that melts even iron."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them.",
+            "Let's Go Eevee": "Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
+            "Shining Pearl": "It prefers hot and humid environments. It is quick at capturing prey with its vines."
+        },
+        "Generation IX": {
+            "Scarlet": "No matter what Bellsprout is doing, if it detects movement nearby, it will immediately react by reaching out with its thin vines.",
+            "Violet": "It plants its feet deep underground to rehydrate itself. While doing so, it's unable to run away if it's attacked."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Trade",
+            "Blue": "Routes 5 , 6 , 7 , 12 , 13 , 14 , 15 , 24 , and 25",
+            "Blue (Japan)": "Trade",
+            "Yellow": "Routes 12 , 13 , 14 , 15 , 24 , and 25"
+        },
+        "Generation II": {
+            "Gold": "Routes 5 , 6 , 24 , and 25 , 31 , 32 , 44",
+            "Silver": "Routes 5 , 6 , 24 , and 25 , 31 , 32 , 44",
+            "Crystal": "Routes 24 , 25 , 31 , 32 , 36 , and 44"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Routes 5 , 6 , 7 , 12 , 13 , 14 , 15 , 24 , and 25 , Berry Forest , Bond Bridge , Cape Brink , Water Path",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 229 and 230",
+            "Pearl": "Routes 229 and 230",
+            "Platinum": "Routes 224 and 230",
+            "HeartGold": "Routes 5 , 6 , 24 , 25 , 31 , 32 , and 44 Safari Zone (Forest, default; Wasteland with 3 Forest points)",
+            "SoulSilver": "Routes 5 , 6 , 24 , 25 , 31 , 32 , and 44 Safari Zone (Forest, default; Wasteland with 3 Forest points)",
+            "Pal Park": "Forest",
+            "Pokéwalker": "Noisy Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Route 14 ( Horde Encounter )",
+            "Y": "Route 14 ( Horde Encounter )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Route 5 ( Island Scan ) Fr",
+            "Moon": "Route 5 ( Island Scan ) Fr",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Trade",
+            "Let's Go Eevee": "Routes 1 , 2 , 12 , 13 , 14 , 15 , 21 , 24 and 25 , Viridian Forest"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 229 and 230 Grand Underground - Grassland Cave , Swampy Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Routes 229 and 230 Grand Underground - Grassland Cave , Swampy Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Apple Hills , Loyalty Plaza , Mossfell Confluence Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Bellsprout",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Bellsprout",
+            "to": "Weepinbell",
+            "method": [
+                "Level 21"
+            ]
+        }
+    ]
+}

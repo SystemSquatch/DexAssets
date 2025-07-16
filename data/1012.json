@@ -1,0 +1,48 @@
+{
+    "name": "Poltchageist",
+    "pokedex_number": "#1012",
+    "types": [
+        "Grass",
+        "Ghost"
+    ],
+    "abilities": [
+        "Hospitality",
+        "Heatproof"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 45,
+        "Sp. Atk": 74,
+        "Sp. Def": 54,
+        "Speed": 50,
+        "Total": 308
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It sprinkles some of its powdery body onto food and drains the life-force from those who so much as lick it.",
+            "Violet": "It has taken up residence in a very expensive tea caddy. It takes an expert to distinguish the expensive tea caddies from the cheap ones."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {}
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Poltchageist",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Poltchageist",
+            "to": "Sinistcha",
+            "method": [
+                "Unknown"
+            ]
+        }
+    ]
+}

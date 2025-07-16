@@ -1,0 +1,153 @@
+{
+    "name": "Metapod",
+    "pokedex_number": "#0011",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Shed Skin"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 20,
+        "Defense": 55,
+        "Sp. Atk": 25,
+        "Sp. Def": 25,
+        "Speed": 30,
+        "Total": 205
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "This Pok é mon is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "This Pok é mon is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+            "Yellow": "Hardens its shell to protect itself. However, a large impact may cause it to pop out of its shell.",
+            "Stadium": "When it hardens, only the external shell is transformed. The inside remains tender."
+        },
+        "Generation II": {
+            "Gold": "Inside the shell, it is soft and weak as it prepares to evolve . It stays motionless in the shell.",
+            "Silver": "It prepares for evolution by hardening its shell as much as possible to protect its soft body.",
+            "Crystal": "This is its pre-evolved form. At this stage, it can only harden, so it remains motionless to avoid attack.",
+            "Stadium 2": "Inside the shell, it is soft and weak as it prepares to evolve. It stays motionless in the shell. (Pokémon Red, Silver, or Crystal inserted) It prepares for evolution by hardening its shell as much as possible to protect its soft body. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "The shell covering this Pok é mon 's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+            "Sapphire": "The shell covering this Pok é mon 's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+            "Emerald": "Its shell is as hard as an iron slab. A Metapod does not move very much because it is preparing its soft innards for evolution inside the shell.",
+            "FireRed": "Even though it is encased in a sturdy shell, the body inside is tender. It can't withstand a harsh attack.",
+            "LeafGreen": "This Pok é mon is vulnerable to attack while its shell is soft, exposing its weak and tender body."
+        },
+        "Generation IV": {
+            "Diamond": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+            "Pearl": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+            "Platinum": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+            "HeartGold": "Inside the shell, it is soft and weak as it prepares to evolve. It stays motionless in the shell.",
+            "SoulSilver": "It prepares for evolution by hardening its shell as much as possible to protect its soft body."
+        },
+        "Generation V": {
+            "Black": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+            "White": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+            "Black 2": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+            "White 2": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution."
+        },
+        "Generation VI": {
+            "X": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+            "Y": "This Pokémon is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+            "Omega Ruby": "The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+            "Alpha Sapphire": "The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell."
+        },
+        "Generation VII": {
+            "Sun": "Its shell is filled with its soft innards. It doesn't move much because of the risk it might carelessly spill its innards out.",
+            "Moon": "Its shell is hard, but it's still just a bug shell. It's been known to break, so intense battles with it should be avoided.",
+            "Ultra Sun": "Its shell is filled with a thick liquid. All of the cells throughout its body are being rebuilt in preparation for evolution.",
+            "Ultra Moon": "Its hard shell doesn't crack a bit even if Pikipek pecks at it, but it will tip over, spilling out its insides.",
+            "Let's Go Pikachu": "Hardens its shell to protect itself. However, a large impact may cause it to pop out of its shell.",
+            "Let's Go Eevee": "Hardens its shell to protect itself. However, a large impact may cause it to pop out of its shell."
+        },
+        "Generation VIII": {
+            "Sword": "It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.",
+            "Shield": "Even though it is encased in a sturdy shell, the body inside is tender. It can't withstand a harsh attack.",
+            "Brilliant Diamond": "A steel-hard shell protects its tender body. The Pokémon quietly endures hardships while awaiting evolution.",
+            "Shining Pearl": "A steel-hard shell protects its tender body. The Pokémon quietly endures hardships while awaiting evolution."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Route 25 , Viridian Forest",
+            "Blue": "Routes 24 and 25 , Viridian Forest",
+            "Blue (Japan)": "Routes 24 and 25 , Viridian Forest",
+            "Yellow": "Viridian Forest"
+        },
+        "Generation II": {
+            "Gold": "Routes 2 , 30 , and 31 , Ilex Forest , National Park Morning Day National Park ( Bug-Catching Contest ) Tu Th Sa Routes 26 , 27 , 34 , 35 , 36 , 37 , 38 , and 39 , Azalea Town , Ilex Forest , Lake of Rage ( Headbutt trees )",
+            "Silver": "National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "Crystal": "Routes 24 and 25 , Ilex Forest Morning Day National Park ( Bug-Catching Contest ) Tu Th Sa Ilex Forest ( Headbutt trees )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Routes 24 and 25 , Viridian Forest , Pattern Bush",
+            "LeafGreen": "Routes 24 and 25 , Viridian Forest , Pattern Bush",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Eterna Forest (FireRed)",
+            "Pearl": "Eterna Forest (FireRed)",
+            "Platinum": "Eterna Forest (FireRed)",
+            "HeartGold": "Routes 2 , 30 , and 31 , Ilex Forest , National Park , Viridian Forest Morning Day National Park ( Bug-Catching Contest ) Tu Th Sa Route 47 , Ilex Forest ( Headbutt trees )",
+            "SoulSilver": "National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Route 12",
+            "Black 2": "Trade",
+            "White 2": "Evolve Caterpie"
+        },
+        "Generation VI": {
+            "X": "Evolve Caterpie",
+            "Y": "Santalune Forest",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Routes 1 and 5 , Lush Jungle , Melemele Meadow",
+            "Moon": "Routes 1 and 5 , Lush Jungle , Melemele Meadow",
+            "Ultra Sun": "Route 5 , Lush Jungle , Melemele Meadow",
+            "Ultra Moon": "Route 5 , Lush Jungle , Melemele Meadow",
+            "Let's Go Pikachu": "Viridian Forest",
+            "Let's Go Eevee": "Viridian Forest"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields Bridge Field , Dappled Grove , Rolling Fields , South Lake Miloch ( Max Raid Battle )",
+            "Shield": "Rolling Fields Bridge Field , Dappled Grove , Rolling Fields , South Lake Miloch ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Caterpie",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Caterpie",
+            "to": "Metapod",
+            "method": [
+                "Level 7"
+            ]
+        },
+        {
+            "from": "Metapod",
+            "to": "Butterfree",
+            "method": [
+                "Level 10"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "name": "Beautifly",
+    "pokedex_number": "#0267",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "abilities": [
+        "Swarm",
+        "Rivalry"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 70,
+        "Defense": 50,
+        "Sp. Atk": 90,
+        "Sp. Def": 50,
+        "Speed": 65,
+        "Total": 385
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Beautifly 's favorite food is the sweet pollen of flowers. If you want to see this Pok é mon , just leave a potted flower by an open window. Beautifly is sure to come looking for pollen.",
+            "Sapphire": "Beautifly has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This Pok é mon rides the spring winds as it flits around gathering pollen.",
+            "Emerald": "Its colorfully patterned wings are its most prominent feature. It flies through flower-covered fields collecting pollen. It attacks ferociously when angered.",
+            "FireRed": "Despite its appearance, it has an aggressive nature. It attacks by jabbing with its long, thin mouth.",
+            "LeafGreen": "Despite its appearance, it has an aggressive nature. It attacks by jabbing with its long, thin mouth."
+        },
+        "Generation IV": {
+            "Diamond": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey's fluids.",
+            "Pearl": "When flower fields bloom, it flits around, collecting pollen. Despite its appearance, it is savage.",
+            "Platinum": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.",
+            "HeartGold": "Vibrantly patterned wings are its prominent feature. It sucks sweet flower nectar with its long mouth.",
+            "SoulSilver": "Vibrantly patterned wings are its prominent feature. It sucks sweet flower nectar with its long mouth."
+        },
+        "Generation V": {
+            "Black": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.",
+            "White": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.",
+            "Black 2": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.",
+            "White 2": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen."
+        },
+        "Generation VI": {
+            "X": "Vibrantly patterned wings are its prominent feature. It sucks sweet flower nectar with its long mouth.",
+            "Y": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey's fluids.",
+            "Omega Ruby": "Beautifly's favorite food is the sweet pollen of flowers. If you want to see this Pokémon, just leave a potted flower by an open window. Beautifly is sure to come looking for pollen.",
+            "Alpha Sapphire": "Beautifly has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This Pokémon rides the spring winds as it flits around gathering pollen."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey's fluids.",
+            "Shining Pearl": "When flower fields bloom, it flits around, collecting pollen. Despite its appearance, it is savage.",
+            "Legends: Arceus": "A colorful and incredibly beautiful but also greedy Pokémon. In an effort to keep its favorite food all to itself, it will chase away Combee as they try to gather nectar."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Silcoon",
+            "Sapphire": "Evolve Silcoon",
+            "Emerald": "Evolve Silcoon",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 224 and 230 , Eterna Forest",
+            "Pearl": "Route 224",
+            "Platinum": "Routes 205 , 224 , and 229 , Eterna Forest",
+            "HeartGold": "National Park ( Bug-Catching Contest ) Sa",
+            "SoulSilver": "National Park ( Bug-Catching Contest ) Sa",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Silcoon",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Bug )",
+            "Y": "Friend Safari ( Bug )",
+            "Omega Ruby": "Evolve Silcoon",
+            "Alpha Sapphire": "Evolve Silcoon"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 224 and 230 , Eterna Forest",
+            "Shining Pearl": "Route 224",
+            "Legends: Arceus": "Obsidian Fieldlands : Floaro Gardens Day , Grueling Grove Day , The Heartwood Day , massive mass outbreaks Cobalt Coastlands : Bathers' Lagoon Day , Veilstone Cape Day"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Silcoon",
+            "to": "Beautifly",
+            "method": [
+                "Level 10"
+            ]
+        }
+    ]
+}

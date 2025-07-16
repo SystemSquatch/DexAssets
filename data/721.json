@@ -1,0 +1,61 @@
+{
+    "name": "Volcanion",
+    "pokedex_number": "#0721",
+    "types": [
+        "Fire",
+        "Water"
+    ],
+    "abilities": [
+        "Water Absorb"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 110,
+        "Defense": 120,
+        "Sp. Atk": 130,
+        "Sp. Def": 90,
+        "Speed": 70,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "It lets out billows of steam and disappears into the dense fog. It's said to live in mountains where humans do not tread.",
+            "Y": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.",
+            "Omega Ruby": "It lets out billows of steam and disappears into the dense fog. It's said to live in mountains where humans do not tread.",
+            "Alpha Sapphire": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Event",
+            "Y": "Event",
+            "Omega Ruby": "Event",
+            "Alpha Sapphire": "Event"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME Version 1.3.0+ Event",
+            "Shield": "Pokémon HOME Version 1.3.0+ Event",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME",
+            "Violet": "Pokémon HOME"
+        }
+    },
+    "evolution": []
+}

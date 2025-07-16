@@ -1,0 +1,87 @@
+{
+    "name": "Klinklang",
+    "pokedex_number": "#0601",
+    "types": [
+        "Steel",
+        "Unknown"
+    ],
+    "abilities": [
+        "Plus",
+        "Minus",
+        "Clear Body"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 100,
+        "Defense": 115,
+        "Sp. Atk": 70,
+        "Sp. Def": 85,
+        "Speed": 90,
+        "Total": 520
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
+            "White": "The gear with the red core is rotated at high speed for a rapid energy charge.",
+            "Black 2": "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire.",
+            "White 2": "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire."
+        },
+        "Generation VI": {
+            "X": "The gear with the red core is rotated at high speed for a rapid energy charge.",
+            "Y": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
+            "Omega Ruby": "The gear with the red core is rotated at high speed for a rapid energy charge.",
+            "Alpha Sapphire": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "From its spikes, it launches powerful blasts of electricity. Its red core contains an enormous amount of energy.",
+            "Shield": "The three gears that compose this Pokémon spin at high speed. Its new spiked gear isn't a living creature."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Klang",
+            "White": "Evolve Klang",
+            "Black 2": "P2 Laboratory ( rustling grass )",
+            "White 2": "P2 Laboratory ( rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Klang",
+            "Y": "Evolve Klang",
+            "Omega Ruby": "Evolve Klang",
+            "Alpha Sapphire": "Evolve Klang"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Klang",
+            "Moon": "Evolve Klang",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Hammerlocke Hills , Lake of Outrage Dusty Bowl , Giant's Seat , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Hammerlocke Hills , Lake of Outrage Dusty Bowl , Giant's Seat , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Klang",
+            "to": "Klinklang",
+            "method": [
+                "Level 49"
+            ]
+        }
+    ]
+}

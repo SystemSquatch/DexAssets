@@ -1,0 +1,157 @@
+{
+    "name": "Machoke",
+    "pokedex_number": "#0067",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Guts",
+        "No Guard",
+        "Steadfast"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 70,
+        "Sp. Atk": 50,
+        "Sp. Def": 60,
+        "Speed": 45,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.",
+            "Yellow": "The belt around its waist holds back its energy. Without it, this Pok é mon would be unstoppable.",
+            "Stadium": "Although it is incredibly strong, it is always modest. It restrains its strength with a power-save belt."
+        },
+        "Generation II": {
+            "Gold": "It always goes at its full power, but this very tough and durable Pok é mon never gets tired.",
+            "Silver": "The muscles covering its body teem with power. Even when still, it exudes an amazing sense of strength.",
+            "Crystal": "This tough Pok é mon always stays in the zone. Its muscles become thicker after every battle.",
+            "Stadium 2": "It always goes at its full power, but this very tough and durable Pok é mon never gets tired. (Pokémon Red, Silver, or Crystal inserted) The muscles covering its body teem with power. Even when still, it exudes an amazing sense of strength. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Machoke 's thoroughly toned muscles possess the hardness of steel. This Pok é mon has so much strength, it can easily hold aloft a sumo wrestler on just one finger.",
+            "Sapphire": "Machoke undertakes bodybuilding every day even as it helps people with tough, physically demanding labor. On its days off, this Pok é mon heads to the fields and mountains to exercise and train.",
+            "Emerald": "A belt is worn by a Machoke to keep its overwhelming power under control. Because it is so dangerous, no one has ever removed the belt.",
+            "FireRed": "Its formidable body never gets tired. It helps people by doing work such as the moving of heavy goods.",
+            "LeafGreen": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions."
+        },
+        "Generation IV": {
+            "Diamond": "Machoke 's boundless power is very dangerous, so it wears a belt that suppresses its energy.",
+            "Pearl": "It can lift a dump truck with one hand. Using that power, it helps people with heavy jobs.",
+            "Platinum": "It happily carries heavy cargo to toughen up. It willingly does hard work for people.",
+            "HeartGold": "It always goes at its full power, but this very tough and durable Pokémon never gets tired.",
+            "SoulSilver": "The muscles covering its body teem with power. Even when still, it exudes an amazing sense of strength."
+        },
+        "Generation V": {
+            "Black": "It happily carries heavy cargo to toughen up. It willingly does hard work for people.",
+            "White": "It happily carries heavy cargo to toughen up. It willingly does hard work for people.",
+            "Black 2": "It happily carries heavy cargo to toughen up. It willingly does hard work for people.",
+            "White 2": "It happily carries heavy cargo to toughen up. It willingly does hard work for people."
+        },
+        "Generation VI": {
+            "X": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
+            "Y": "It can lift a dump truck with one hand. Using that power, it helps people with heavy jobs.",
+            "Omega Ruby": "Machoke's thoroughly toned muscles possess the hardness of steel. This Pokémon has so much strength, it can easily hold aloft a sumo wrestler on just one finger.",
+            "Alpha Sapphire": "Machoke undertakes bodybuilding every day even as it helps people with tough, physically demanding labor. On its days off, this Pokémon heads to the fields and mountains to exercise and train."
+        },
+        "Generation VII": {
+            "Sun": "As a result of its continual workouts, it has developed tremendous power. It uses that power to help people with their work.",
+            "Moon": "It willingly assists with hard labor because it knows the work is good training for its muscles.",
+            "Ultra Sun": "When it encounters an enemy that's truly mighty, this Pokémon removes the power-save belt from its waist and unleashes its full power.",
+            "Ultra Moon": "A popular motif for sculptures, its incredibly well-developed muscles have captured the imagination of many an artist.",
+            "Let's Go Pikachu": "The belt around its waist holds back its energy. Without it, this Pokémon would be unstoppable.",
+            "Let's Go Eevee": "The belt around its waist holds back its energy. Without it, this Pokémon would be unstoppable."
+        },
+        "Generation VIII": {
+            "Sword": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
+            "Shield": "Its formidable body never gets tired. It helps people by doing work such as the moving of heavy goods.",
+            "Brilliant Diamond": "Machoke's boundless power is very dangerous, so it wears a belt that suppresses its energy.",
+            "Shining Pearl": "It can lift a dump truck with one hand. Using that kind of strength, it helps people do heavy jobs.",
+            "Legends: Arceus": "A sturdy creature boasting a robust physique and boundless stamina. Loves training above all else and voluntarily assists with tasks such as construction and clearing land."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Victory Road",
+            "Blue": "Victory Road",
+            "Blue (Japan)": "Victory Road",
+            "Yellow": "Victory Road Trade Cubone in Underground Path (Kanto Routes 5–6) *"
+        },
+        "Generation II": {
+            "Gold": "Rock Tunnel , Mt. Mortar",
+            "Silver": "Rock Tunnel , Mt. Mortar",
+            "Crystal": "Mt. Mortar , Mt. Silver Cave , Rock Tunnel Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Evolve Machop",
+            "Sapphire": "Evolve Machop",
+            "Emerald": "Evolve Machop",
+            "FireRed": "Cerulean Cave , Mt. Ember , Victory Road",
+            "LeafGreen": "Cerulean Cave , Mt. Ember , Victory Road",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 210 , 211 , 216 , 217 , 225 , and 226 , Stark Mountain , Mt. Coronet , Victory Road , Acuity Lakefront",
+            "Pearl": "Routes 210 , 211 , 216 , 217 , 225 , and 226 , Stark Mountain , Mt. Coronet , Victory Road , Acuity Lakefront",
+            "Platinum": "Routes 210 , 211 , 225 , and 226 , Mt. Coronet",
+            "HeartGold": "Cliff Cave , Mt. Mortar , Cerulean Cave , Rock Tunnel Safari Zone (Wasteland, default Day , and with 5 Peak points)",
+            "SoulSilver": "Cliff Cave , Mt. Mortar , Cerulean Cave , Rock Tunnel Safari Zone (Wasteland, default Day , and with 5 Peak points)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade , Event",
+            "White": "Evolve Machop",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Fighting )",
+            "Y": "Friend Safari ( Fighting )",
+            "Omega Ruby": "Evolve Machop",
+            "Alpha Sapphire": "Evolve Machop"
+        },
+        "Generation VII": {
+            "Sun": "Vast Poni Canyon",
+            "Moon": "Vast Poni Canyon",
+            "Ultra Sun": "Vast Poni Canyon",
+            "Ultra Moon": "Vast Poni Canyon",
+            "Let's Go Pikachu": "Victory Road",
+            "Let's Go Eevee": "Victory Road"
+        },
+        "Generation VIII": {
+            "Sword": "Axew's Eye , Giant's Seat , Stony Wilderness , Hammerlocke Hills Dusty Bowl , North Lake Miloch , Rolling Fields , South Lake Miloch , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Axew's Eye , Giant's Seat , Stony Wilderness , Hammerlocke Hills Dusty Bowl , North Lake Miloch , Rolling Fields , South Lake Miloch , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Routes 210 , 211 , 216 , 217 , 225 , and 226 , Stark Mountain , Mount Coronet , Victory Road , Acuity Lakefront Grand Underground - Spacious Cave , Grassland Cave , Whiteout Cave , Sunlit Cavern (After obtaining TM97 ( Defog ))",
+            "Shining Pearl": "Routes 210 , 211 , 216 , 217 , 225 , and 226 , Stark Mountain , Mount Coronet , Victory Road , Acuity Lakefront Grand Underground - Spacious Cave , Grassland Cave , Whiteout Cave , Sunlit Cavern (After obtaining TM97 ( Defog ))",
+            "Legends: Arceus": "Obsidian Fieldlands : near Obsidian Falls Cobalt Coastlands : near Ginkgo Landing (additional ), Castaway Shore Coronet Highlands : Bolderoll Ravine , near Cloudcap Pass , massive mass outbreaks Alabaster Icelands : Icebound Falls , Arena's Approach , Snowfall Hot Spring , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Machop",
+            "to": "Machoke",
+            "method": [
+                "Level 28"
+            ]
+        },
+        {
+            "from": "Machoke",
+            "to": "Machamp",
+            "method": [
+                "Trade"
+            ]
+        }
+    ]
+}

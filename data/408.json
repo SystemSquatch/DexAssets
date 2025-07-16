@@ -1,0 +1,118 @@
+{
+    "name": "Cranidos",
+    "pokedex_number": "#0408",
+    "types": [
+        "Rock",
+        "Unknown"
+    ],
+    "abilities": [
+        "Mold Breaker",
+        "Sheer Force"
+    ],
+    "stats": {
+        "HP": 67,
+        "Attack": 125,
+        "Defense": 40,
+        "Sp. Atk": 30,
+        "Sp. Def": 30,
+        "Speed": 58,
+        "Total": 350
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It lived in jungles around 100 million years ago. Its skull is as hard as iron.",
+            "Pearl": "It was resurrected from an iron ball-like fossil. It downs prey with its head butts.",
+            "Platinum": "A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.",
+            "HeartGold": "Cranidos toughen up their already rock-hard heads by headbutting one another.",
+            "SoulSilver": "Cranidos toughen up their already rock-hard heads by headbutting one another."
+        },
+        "Generation V": {
+            "Black": "A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.",
+            "White": "A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.",
+            "Black 2": "A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.",
+            "White 2": "A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts."
+        },
+        "Generation VI": {
+            "X": "It was resurrected from an iron ball-like fossil. It downs prey with its headbutts.",
+            "Y": "A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with headbutts.",
+            "Omega Ruby": "It was resurrected from an iron ball-like fossil. It downs prey with its headbutts.",
+            "Alpha Sapphire": "A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with headbutts."
+        },
+        "Generation VII": {
+            "Sun": "It lived in jungles around a hundred million years ago. It used its skillful headbutts to combat Aerodactyl.",
+            "Moon": "In rock layers where Cranidos fossils are found, the fossilized trunks of trees snapped in two are also often found.",
+            "Ultra Sun": "A primeval Pokémon, it possesses a hard and sturdy skull, lacking any intelligence within.",
+            "Ultra Moon": "Its hard skull is its distinguishing feature. It snapped trees by headbutting them, and then it fed on their ripe berries."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It lived in jungles around 100 million years ago. Its skull is as hard as iron.",
+            "Shining Pearl": "It was resurrected from an iron-ball-like fossil. It downs prey with its headbutts.",
+            "Legends: Arceus": "An incredibly rare sight. They duel each other by ramming their heads together, and the resulting sound echoes throughout the area like the pealing of a bell."
+        },
+        "Generation IX": {
+            "Scarlet": "It lived in jungles around a hundred million years ago. It used its skillful headbutts to combat Aerodactyl.",
+            "Violet": "Cranidos toughen up their already sturdy heads by headbutting one another."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Revive from Skull Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "Pearl": "Trade Receive Skull Fossil held by a traded Pokémon and revive it",
+            "Platinum": "Revive from Skull Fossil at the Oreburgh Mining Museum in Oreburgh City *",
+            "HeartGold": "Receive Skull Fossil held by a traded Pokémon and revive it at the Pewter Museum of Science",
+            "SoulSilver": "Receive Skull Fossil held by a traded Pokémon and revive it at the Pewter Museum of Science"
+        },
+        "Generation V": {
+            "Black": "Revive from Skull Fossil at the Nacrene Museum",
+            "White": "Revive from Skull Fossil at the Nacrene Museum",
+            "Black 2": "Revive from Skull Fossil at the Nacrene Museum Trade with Curtis in Nimbasa City (female player character only)",
+            "White 2": "Revive from Skull Fossil at the Nacrene Museum Trade with Curtis in Nimbasa City (female player character only)",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Revive from Skull Fossil at the Ambrette Town Fossil Lab",
+            "Y": "Revive from Skull Fossil at the Ambrette Town Fossil Lab",
+            "Omega Ruby": "Trade Receive Skull Fossil held by a traded Pokémon and revive it",
+            "Alpha Sapphire": "Revive from Skull Fossil at the Devon Corporation in Rustboro City"
+        },
+        "Generation VII": {
+            "Sun": "Revive from Skull Fossil at the Fossil Restoration Center on Route 8",
+            "Moon": "Trade Receive Skull Fossil held by a traded Pokémon and revive it",
+            "Ultra Sun": "Revive from Skull Fossil at the Fossil Restoration Center on Route 8",
+            "Ultra Moon": "Revive from Skull Fossil at the Fossil Restoration Center on Route 8",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Revive from Skull Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "Shining Pearl": "Trade Receive Skull Fossil held by a traded Pokémon and revive it",
+            "Legends: Arceus": "Coronet Highlands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Canyon Biome Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero (Violet)": "Union Circle Tera Raid Battle Search ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Cranidos",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Cranidos",
+            "to": "Rampardos",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

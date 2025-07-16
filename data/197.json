@@ -1,0 +1,139 @@
+{
+    "name": "Umbreon",
+    "pokedex_number": "#0197",
+    "types": [
+        "Dark",
+        "Unknown"
+    ],
+    "abilities": [
+        "Synchronize",
+        "Inner Focus"
+    ],
+    "stats": {
+        "HP": 95,
+        "Attack": 65,
+        "Defense": 110,
+        "Sp. Atk": 60,
+        "Sp. Def": 130,
+        "Speed": 65,
+        "Total": 525
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "When agitated, this Pok é mon protects itself by spraying poisonous sweat from its pores.",
+            "Silver": "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby.",
+            "Crystal": "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.",
+            "Stadium 2": "When agitated, this Pok é mon protects itself by spraying poisonous sweat from its pores. (Pokémon Red, Silver, or Crystal inserted) When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Umbreon evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
+            "Sapphire": "Umbreon evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
+            "Emerald": "Umbreon evolved from exposure to the moon's energy pulses. It lurks in darkness and waits for its foes to move. The rings on its body glow when it leaps to attack.",
+            "FireRed": "When darkness falls, the rings on its body begin to glow, striking fear in the hearts of anyone nearby.",
+            "LeafGreen": "When agitated, this Pok é mon protects itself by spraying poisonous sweat from its pores."
+        },
+        "Generation IV": {
+            "Diamond": "The light of the moon changed Eevee 's genetic structure. It lurks in darkness for prey.",
+            "Pearl": "The light of the moon changed Eevee 's genetic structure. It lurks in darkness for prey.",
+            "Platinum": "When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power.",
+            "HeartGold": "When agitated, this Pokémon protects itself by spraying poisonous sweat from its pores.",
+            "SoulSilver": "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby."
+        },
+        "Generation V": {
+            "Black": "When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power.",
+            "White": "When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power.",
+            "Black 2": "When exposed to the moon's aura, the rings on its body glow faintly and it's filled with a mysterious power.",
+            "White 2": "When exposed to the moon's aura, the rings on its body glow faintly and it's filled with a mysterious power."
+        },
+        "Generation VI": {
+            "X": "The light of the moon changed Eevee's genetic structure. It lurks in darkness for prey.",
+            "Y": "When exposed to the moon's aura, the rings on its body glow faintly and it's filled with a mysterious power.",
+            "Omega Ruby": "Umbreon evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
+            "Alpha Sapphire": "Umbreon evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack."
+        },
+        "Generation VII": {
+            "Sun": "When this Pokémon becomes angry, its pores secrete a poisonous sweat, which it sprays at its opponent's eyes.",
+            "Moon": "With its black fur, it blends into the darkness. It bides its time, and when prey appears, this Pokémon goes for its throat, and then eats it.",
+            "Ultra Sun": "This Pokémon is nocturnal. Even in total darkness, its large eyes can spot its prey clearly!",
+            "Ultra Moon": "It lurks in the dark of night looking for prey. At the moment it pounces, the rings on its body glow dimly but ominously."
+        },
+        "Generation VIII": {
+            "Sword": "When this Pokémon becomes angry, its pores secrete a poisonous sweat, which it sprays at its opponent's eyes.",
+            "Shield": "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.",
+            "Brilliant Diamond": "The light of the moon changed Eevee 's genetic structure. It lurks in the darkness, waiting for prey.",
+            "Shining Pearl": "The light of the moon changed Eevee 's genetic structure. It lurks in the darkness, waiting for prey.",
+            "Legends: Arceus": "It is most active in the wee hours of the night, when moonlight bathes the land. Its large eyes can pierce the darkness and perceive prey with absolute clarity."
+        },
+        "Generation IX": {
+            "Scarlet": "When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.",
+            "Violet": "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Eevee",
+            "Silver": "Evolve Eevee",
+            "Crystal": "Evolve Eevee"
+        },
+        "Generation III": {
+            "Ruby": "Evolve an Eevee traded from FR LG or XD , Event",
+            "Sapphire": "Evolve an Eevee traded from FR LG or XD , Event",
+            "Emerald": "Evolve an Eevee traded from FR LG or XD , Event",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "First Pokémon",
+            "XD": "Evolve Eevee"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Eevee",
+            "Pearl": "Evolve Eevee",
+            "Platinum": "Evolve Eevee",
+            "HeartGold": "Evolve Eevee",
+            "SoulSilver": "Evolve Eevee",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Evolve Dream World Eevee",
+            "White": "Evolve Dream World Eevee",
+            "Black 2": "Evolve Eevee",
+            "White 2": "Evolve Eevee"
+        },
+        "Generation VI": {
+            "X": "Evolve Eevee",
+            "Y": "Evolve Eevee",
+            "Omega Ruby": "Evolve Eevee",
+            "Alpha Sapphire": "Evolve Eevee"
+        },
+        "Generation VII": {
+            "Sun": "Routes 4 and 6 Night ( SOS Battle )",
+            "Moon": "Routes 4 and 6 Night ( SOS Battle )",
+            "Ultra Sun": "Routes 4 and 6 Night ( SOS Battle )",
+            "Ultra Moon": "Routes 4 and 6 Night ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage ( Wanderer ) Giant's Mirror ( Max Raid Battle )",
+            "Shield": "Lake of Outrage ( Wanderer ) Giant's Mirror ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed ( Wanderer ) Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Eevee",
+            "Shining Pearl": "Evolve Eevee",
+            "Legends: Arceus": "Crimson Mirelands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Alfornada Cavern North Province: Area One , Area Two , Area Three , Dalizapa Passage South Province: Alfornada Cavern ( Dark Tera Type ) Tera Raid Battles ( 6★ )",
+            "Violet": "South Province: Alfornada Cavern North Province: Area One , Area Two , Area Three , Dalizapa Passage South Province: Alfornada Cavern ( Dark Tera Type ) Tera Raid Battles ( 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Eevee",
+            "to": "Umbreon",
+            "method": [
+                "Level up (during the night, with high friendship)"
+            ]
+        }
+    ]
+}

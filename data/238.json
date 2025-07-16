@@ -1,0 +1,143 @@
+{
+    "name": "Smoochum",
+    "pokedex_number": "#0238",
+    "types": [
+        "Ice",
+        "Psychic"
+    ],
+    "abilities": [
+        "Oblivious",
+        "Forewarn",
+        "Hydration"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 15,
+        "Sp. Atk": 85,
+        "Sp. Def": 65,
+        "Speed": 65,
+        "Total": 305
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.",
+            "Silver": "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone.",
+            "Crystal": "The sensitivity of its lips develops most quickly. It uses them to try to identify unknown objects.",
+            "Stadium 2": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things. (Pokémon Red, Silver, or Crystal inserted) It always rocks its head slowly backwards and forwards as if it is trying to kiss someone. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.",
+            "Sapphire": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.",
+            "Emerald": "It actively runs about, but also falls often. Whenever it falls, it will check its reflection on a lake's surface to make sure its face hasn't become dirty.",
+            "FireRed": "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone.",
+            "LeafGreen": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things."
+        },
+        "Generation IV": {
+            "Diamond": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+            "Pearl": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+            "Platinum": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+            "HeartGold": "Its lips are the most sensitive part of its body. It always uses its lips first to examine things.",
+            "SoulSilver": "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone."
+        },
+        "Generation V": {
+            "Black": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+            "White": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+            "Black 2": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+            "White 2": "It tests everything by touching with its lips, which remember what it likes and dislikes."
+        },
+        "Generation VI": {
+            "X": "Its lips are the most sensitive part of its body. It always uses its lips first to examine things.",
+            "Y": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+            "Omega Ruby": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.",
+            "Alpha Sapphire": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty."
+        },
+        "Generation VII": {
+            "Ultra Sun": "When it examines things, before touching them with its hands, it makes lip contact and then diligently licks all the dirt off its lips.",
+            "Ultra Moon": "Highly perceptive sensors, Smoochum's lips are kept moist by its daily application of tree sap."
+        },
+        "Generation VIII": {
+            "Sword": "If its face gets even slightly dirty, Smoochum will bathe immediately. But if its body gets dirty, Smoochum doesn't really seem to care.",
+            "Shield": "This is a very curious Pokémon. Smoochum decides what it likes and dislikes by touching things with its lips.",
+            "Brilliant Diamond": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+            "Shining Pearl": "It tests everything by touching with its lips, which remember what it likes and dislikes."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Breed Jynx",
+            "Silver": "Breed Jynx",
+            "Crystal": "Breed Jynx Route 34 ( Odd Egg * )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Breed Jynx",
+            "LeafGreen": "Breed Jynx",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Lake Acuity ( Swarm )",
+            "Pearl": "Lake Acuity ( Swarm )",
+            "Platinum": "Snowpoint Temple",
+            "HeartGold": "Breed Jynx , transfer from Pokéwalker",
+            "SoulSilver": "Breed Jynx , transfer from Pokéwalker",
+            "Pal Park": "Field",
+            "Pokéwalker": "Dim Cave and Amity Meadow"
+        },
+        "Generation V": {
+            "Black": "Breed Jynx",
+            "White": "Breed Jynx",
+            "Black 2": "Transfer from Dream Radar",
+            "White 2": "Transfer from Dream Radar",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Frost Cavern ( Horde Encounter )",
+            "Y": "Frost Cavern ( Horde Encounter )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Seaward Cave",
+            "Ultra Moon": "Seaward Cave",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Slippery Slope , Frostpoint Field Slippery Slope , Giant's Bed , Snowslide Slope , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Lake Acuity ( Swarm ) Grand Underground - Icy Cave , Dazzling Cave , Stargleam Cavern , Glacial Cavern",
+            "Shining Pearl": "Lake Acuity ( Swarm ) Grand Underground - Icy Cave , Dazzling Cave , Stargleam Cavern , Glacial Cavern",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Smoochum",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Smoochum",
+            "to": "Jynx",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

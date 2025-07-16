@@ -1,0 +1,56 @@
+{
+    "name": "Kleavor",
+    "pokedex_number": "#0900",
+    "types": [
+        "Bug",
+        "Rock"
+    ],
+    "abilities": [
+        "Swarm",
+        "Sheer Force",
+        "Sharpness"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 135,
+        "Defense": 95,
+        "Sp. Atk": 45,
+        "Sp. Def": 70,
+        "Speed": 85,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Legends: Arceus": "A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pokémon in the wilds, one's only recourse is to flee."
+        },
+        "Generation IX": {
+            "Scarlet": "Parts of its body turned to stone when it evolved thanks to an extremely rare ore found in volcanic areas.",
+            "Violet": "This Pokémon is a rough, crude, and violent sort. It swings around its large, heavy stone axes to finish off its prey."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Obsidian Fieldlands : Massive Mass Outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade , Evolve Scyther in Pokémon Legends: Arceus",
+            "Violet": "Trade , Evolve Scyther in Pokémon Legends: Arceus",
+            "The Hidden Treasure of Area Zero": "Canyon Biome Tera Raid Battles ( 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Scyther",
+            "to": "Kleavor",
+            "method": [
+                "Use Black Augurite"
+            ]
+        }
+    ]
+}

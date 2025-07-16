@@ -1,0 +1,102 @@
+{
+    "name": "Bibarel",
+    "pokedex_number": "#0400",
+    "types": [
+        "Normal",
+        "Water"
+    ],
+    "abilities": [
+        "Simple",
+        "Unaware",
+        "Moody"
+    ],
+    "stats": {
+        "HP": 79,
+        "Attack": 85,
+        "Defense": 60,
+        "Sp. Atk": 55,
+        "Sp. Def": 60,
+        "Speed": 71,
+        "Total": 410
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
+            "Pearl": "While its movements out of water are sluggish, it can swim as fast as any Feebas .",
+            "Platinum": "A river dammed by Bibarel will never overflow its banks, which is appreciated by people nearby.",
+            "HeartGold": "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.",
+            "SoulSilver": "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors."
+        },
+        "Generation V": {
+            "Black": "A river dammed by Bibarel will never overflow its banks, which is appreciated by people nearby.",
+            "White": "A river dammed by Bibarel will never overflow its banks, which is appreciated by people nearby.",
+            "Black 2": "A river dammed by Bibarel will never overflow its banks, which is appreciated by people nearby.",
+            "White 2": "A river dammed by Bibarel will never overflow its banks, which is appreciated by people nearby."
+        },
+        "Generation VI": {
+            "X": "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.",
+            "Y": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
+            "Omega Ruby": "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.",
+            "Alpha Sapphire": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
+            "Shining Pearl": "While its movements out of water are sluggish, it can swim as fast as any Feebas.",
+            "Legends: Arceus": "Bibarel fur repels water and is also a fantastic material for heat retention. These Pokémon create dams on rivers to live in."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Lake Verity (FireRed, LeafGreen, or Emerald) Routes 208 , 209 , 210 , 212 , Lake Valor , Sendoff Spring , Great Marsh , Lake Acuity , Valor Lakefront",
+            "Pearl": "Lake Verity (FireRed, LeafGreen, or Emerald) Routes 208 , 209 , 210 , 212 , Lake Valor , Sendoff Spring , Great Marsh , Lake Acuity , Valor Lakefront",
+            "Platinum": "Routes 208 , 209 , 210 , Lake Valor , Valor Lakefront , Lake Acuity , Great Marsh , Sendoff Spring",
+            "HeartGold": "Evolve Bidoof",
+            "SoulSilver": "Evolve Bidoof",
+            "Pokéwalker": "Big Forest"
+        },
+        "Generation V": {
+            "Black": "Village Bridge",
+            "White": "Village Bridge",
+            "Black 2": "Route 3 ( Hidden Grotto ) *",
+            "White 2": "Route 3 ( Hidden Grotto ) *"
+        },
+        "Generation VI": {
+            "X": "Route 22 (Yellow Flowers), Friend Safari ( Water )",
+            "Y": "Route 22 (Yellow Flowers), Friend Safari ( Water )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 208 , 209 , 210 , 212 , Lake Valor , Sendoff Spring , Great Marsh , Lake Acuity , Valor Lakefront Grand Underground - Spacious Cave , Grassland Cave , Sunlit Cavern , Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining TM96 ( Strength ))",
+            "Shining Pearl": "Routes 208 , 209 , 210 , 212 , Lake Valor , Sendoff Spring , Great Marsh , Lake Acuity , Valor Lakefront Grand Underground - Spacious Cave , Grassland Cave , Sunlit Cavern , Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining TM96 ( Strength ))",
+            "Legends: Arceus": "Obsidian Fieldlands : Tidewater Dam and nearby (additional ), massive mass outbreaks Crimson Mirelands : Gapejaw Bog , near Ursa's Ring , Droning Meadow Cobalt Coastlands : Spring Path Alabaster Icelands : Avalugg's Legacy and nearby, near Glacier Terrace , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Bidoof",
+            "to": "Bibarel",
+            "method": [
+                "Level 15"
+            ]
+        }
+    ]
+}

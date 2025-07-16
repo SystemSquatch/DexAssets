@@ -1,0 +1,154 @@
+{
+    "name": "Tentacruel",
+    "pokedex_number": "#0073",
+    "types": [
+        "Water",
+        "Poison"
+    ],
+    "abilities": [
+        "Clear Body",
+        "Liquid Ooze",
+        "Rain Dish"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 65,
+        "Sp. Atk": 80,
+        "Sp. Def": 120,
+        "Speed": 100,
+        "Total": 515
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
+            "Yellow": "Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.",
+            "Stadium": "It has 80 tentacles. Once they wrap around an enemy, the tentacles will not release, no matter what."
+        },
+        "Generation II": {
+            "Gold": "Its 80 tentacles absorb water and stretch almost endlessly to Constrict its prey and enemies.",
+            "Silver": "In battle, it extends all 80 of its tentacles to entrap its opponent inside a poisonous net.",
+            "Crystal": "When its 80 feelers absorb water, it stretches to become like a net to entangle its prey.",
+            "Stadium 2": "Its 80 tentacles absorb water and stretch almost endlessly to Constrict its prey and enemies. (Pokémon Red, Silver, or Crystal inserted) In battle, it extends all 80 of its tentacles to entrap its opponent inside a poisonous net. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pok é mon 's outburst creates rough waves around it.",
+            "Sapphire": "Tentacruel has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time.",
+            "Emerald": "It lives in complex rock formations on the ocean floor and traps prey using its 80 tentacles. Its red orbs glow when it grows excited or agitated.",
+            "FireRed": "It has 80 tentacles that move about freely. They can sting, causing poisoning and sharp, stabbing pain.",
+            "LeafGreen": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey."
+        },
+        "Generation IV": {
+            "Diamond": "With 80 tentacles for ensnaring victims, it prevents escape until the prey is weakened by poison.",
+            "Pearl": "It alerts others to danger by stridently flashing the red orbs on its head.",
+            "Platinum": "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.",
+            "HeartGold": "Its 80 tentacles absorb water and stretch almost endlessly to constrict its prey and enemies.",
+            "SoulSilver": "In battle, it extends all 80 of its tentacles to entrap its opponent inside a poisonous net."
+        },
+        "Generation V": {
+            "Black": "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.",
+            "White": "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.",
+            "Black 2": "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.",
+            "White 2": "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape."
+        },
+        "Generation VI": {
+            "X": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
+            "Y": "It has 80 tentacles that move about freely. They can sting, causing poisoning and sharp, stabbing pain.",
+            "Omega Ruby": "Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pokémon's outburst creates rough waves around it.",
+            "Alpha Sapphire": "Tentacruel has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time."
+        },
+        "Generation VII": {
+            "Sun": "Normally, it has 80 poisonous tentacles. The longer one has been alive, the fewer tentacles it will have.",
+            "Moon": "Although these Pokémon are rare, when a large outbreak of them occurs, all fish Pokémon disappear from the surrounding sea.",
+            "Ultra Sun": "It fires off ultrasonic waves from its red orbs to weaken its prey, and then it wraps them up in its 80 tentacles.",
+            "Ultra Moon": "It communicates with others of its kind by lighting up the red orbs on its head. When the orbs are blinking, it's a warning sign.",
+            "Let's Go Pikachu": "Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.",
+            "Let's Go Eevee": "Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison."
+        },
+        "Generation VIII": {
+            "Sword": "When the red orbs on Tentacruel's head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves.",
+            "Shield": "Its 80 tentacles can stretch and shrink freely. Tentacruel ensnares prey in a net of spread-out tentacles, delivering venomous stings to its catch.",
+            "Brilliant Diamond": "With 80 tentacles for ensnaring victims, it prevents escape until the prey is weakened by poison.",
+            "Shining Pearl": "It alerts others to danger by stridently flashing the red orbs on its head.",
+            "Legends: Arceus": "It has 80 tentacles, each with a venomous tip. These tentacles are also extendible, lengthening when Tentacruel attempts to catch prey. Use caution."
+        },
+        "Generation IX": {
+            "Scarlet": "On the rare occasions that large outbreaks of Tentacruel occur, all fish Pokémon disappear from the surrounding sea.",
+            "Violet": "In battle, it extends all 80 of its tentacles to entrap its opponent inside a poisonous net."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Tentacool",
+            "Blue": "Evolve Tentacool",
+            "Blue (Japan)": "Evolve Tentacool",
+            "Yellow": "Routes 19 , 20 , and 21 ( Super Rod )"
+        },
+        "Generation II": {
+            "Gold": "Routes 20 , 21 , 26 , 27 and 41 , New Bark Town , Olivine City * , Pallet Town , Vermilion City , Cinnabar Island ( Surfing and Super Rod ) Routes 12 , 13 , 19 , 32 , 34 and 40 , Cherrygrove City , Cianwood City , Whirl Islands , Union Cave * ( Surfing )",
+            "Silver": "Routes 20 , 21 , 26 , 27 and 41 , New Bark Town , Olivine City * , Pallet Town , Vermilion City , Cinnabar Island ( Surfing and Super Rod ) Routes 12 , 13 , 19 , 32 , 34 and 40 , Cherrygrove City , Cianwood City , Whirl Islands , Union Cave * ( Surfing )",
+            "Crystal": "Routes 20 , 21 , 26 , 27 and 41 , New Bark Town , Olivine City * , Pallet Town , Vermilion City , Cinnabar Island ( Surfing and Super Rod ) Routes 12 , 13 , 19 , 32 , 34 and 40 , Cherrygrove City , Cianwood City , Whirl Islands , Union Cave * ( Surfing )"
+        },
+        "Generation III": {
+            "Ruby": "Abandoned Ship ( surfing and Super Rod )",
+            "Sapphire": "Abandoned Ship ( surfing and Super Rod )",
+            "Emerald": "Abandoned Ship ( Surfing and Super Rod )",
+            "FireRed": "Treasure Beach , Kindle Road , Bond Bridge , Five Isle Meadow , Memorial Pillar , Water Labyrinth , Resort Gorgeous , Water Path , Green Path , Outcast Island , Tanoby Ruins , One Island , Five Island , Icefall Cave , Trainer Tower ( Surfing )",
+            "LeafGreen": "Treasure Beach , Kindle Road , Bond Bridge , Five Isle Meadow , Memorial Pillar , Water Labyrinth , Resort Gorgeous , Water Path , Green Path , Outcast Island , Tanoby Ruins , One Island , Five Island , Icefall Cave , Trainer Tower ( Surfing )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 205 , 213 , 218 , 219 , 220 , 221 , 222 , 223 , 224 , 226 , and 230 , Pastoria City , Canalave City , Sunyshore City , Valley Windworks , Fuego Ironworks , Iron Island , Pokémon League ( Surfing )",
+            "Pearl": "Routes 205 , 213 , 218 , 219 , 220 , 221 , 222 , 223 , 224 , 226 , and 230 , Pastoria City , Canalave City , Sunyshore City , Valley Windworks , Fuego Ironworks , Iron Island , Pokémon League ( Surfing )",
+            "Platinum": "Routes 205 , 212 , 213 , 218 , 219 , 220 , 221 , 222 , 223 , 224 , 226 , and 230 , Pastoria City , Canalave City , Sunyshore City , Valley Windworks , Fuego Ironworks , Iron Island , Pokémon League ( Surfing )",
+            "HeartGold": "Routes 20 , 21 , 26 , 27 , and 41 , New Bark Town , Vermilion City , Cinnabar Island , Pallet Town ( Surfing and Super Rod ) Routes 12 , 13 , 19 , 32 , 34 , and 40 , Cherrygrove City , Union Cave * , Whirl Islands * , Olivine City , Cianwood City ( Surfing ) Route 47 ( Super Rod )",
+            "SoulSilver": "Routes 20 , 21 , 26 , 27 , and 41 , New Bark Town , Vermilion City , Cinnabar Island , Pallet Town ( Surfing and Super Rod ) Routes 12 , 13 , 19 , 32 , 34 , and 40 , Cherrygrove City , Union Cave * , Whirl Islands * , Olivine City , Cianwood City ( Surfing ) Route 47 ( Super Rod )",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Evolve Tentacool",
+            "Y": "Evolve Tentacool",
+            "Omega Ruby": "Routes 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , and 133 , Mossdeep City , Pacifidlog Town , Ever Grande City , Shoal Cave , Seafloor Cavern , Victory Road , Battle Resort ( Surfing )",
+            "Alpha Sapphire": "Routes 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , and 133 , Mossdeep City , Pacifidlog Town , Ever Grande City , Shoal Cave , Seafloor Cavern , Victory Road , Battle Resort ( Surfing )"
+        },
+        "Generation VII": {
+            "Sun": "Poni Wilds ( Surfing )",
+            "Moon": "Poni Wilds ( Surfing )",
+            "Ultra Sun": "Routes 14 and 15 , Poni Breaker Coast ( Surfing )",
+            "Ultra Moon": "Routes 14 and 15 , Poni Breaker Coast ( Surfing )",
+            "Let's Go Pikachu": "Routes 4 , 10 , 12 , 13 , 18 , 19 , 20 , 21 and 24 , Seafoam Islands ( Sea Skim )",
+            "Let's Go Eevee": "Routes 4 , 10 , 12 , 13 , 18 , 19 , 20 , 21 and 24 , Seafoam Islands ( Sea Skim )"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Challenge Beach , Fields of Honor , Honeycalm Island , Honeycalm Sea , Insular Sea , Loop Lagoon , Stepping-Stone Sea , Workout Sea ( Surfing ) Courageous Cavern ( Wanderer ) Fields of Honor , Soothing Wetlands , Forest of Focus , Challenge Beach , Loop Lagoon , Insular Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Routes 205 , 213 , 218 , 219 , 220 , 221 , 222 , 223 , 224 , 226 , and 230 , Pastoria City , Canalave City , Sunyshore City , Valley Windworks , Fuego Ironworks , Iron Island , Pokémon League ( Surfing ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern , Swampy Cave , Bogsunk Cavern (After defeating Candice )",
+            "Shining Pearl": "Routes 205 , 213 , 218 , 219 , 220 , 221 , 222 , 223 , 224 , 226 , and 230 , Pastoria City , Canalave City , Sunyshore City , Valley Windworks , Fuego Ironworks , Iron Island , Pokémon League ( Surfing ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern , Swampy Cave , Bogsunk Cavern (After defeating Candice )",
+            "Legends: Arceus": "Cobalt Coastlands : near Islespy Shore , Lunker's Lair (additional nearby), Seagrass Haven , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Coastal Biome Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Tentacool",
+            "to": "Tentacruel",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

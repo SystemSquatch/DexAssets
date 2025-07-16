@@ -1,0 +1,64 @@
+{
+    "name": "Dreepy",
+    "pokedex_number": "#0885",
+    "types": [
+        "Dragon",
+        "Ghost"
+    ],
+    "abilities": [
+        "Clear Body",
+        "Infiltrator",
+        "Cursed Body"
+    ],
+    "stats": {
+        "HP": 28,
+        "Attack": 60,
+        "Defense": 30,
+        "Sp. Atk": 40,
+        "Sp. Def": 30,
+        "Speed": 82,
+        "Total": 270
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "After being reborn as a ghost Pokémon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas.",
+            "Shield": "If this weak Pokémon is by itself, a mere child could defeat it. But if Dreepy has friends to help it train, it can evolve and become much stronger."
+        },
+        "Generation IX": {
+            "Scarlet": "In the evening, groups of Dreepy will fly at high speeds over the ocean and poke at Pokémon in the water for fun.",
+            "Violet": "It has a habit of biting at Clauncher even though it doesn't feed on them. This is said to be vestigial behavior from when Dreepy was alive."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Axew's Eye , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Lake of Outrage Axew's Eye , Rolling Fields ( Max Raid Battle )",
+            "Expansion Pass": "Slippery Slope , Old Cemetery , Giant's Foot , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Union Circle Tera Raid Battle Search ( 3★ )",
+            "Violet": "South Province: Area One , Area Four , Area Five , Area Six East Province: Area Two , Area Three West Province: Area Two , Area Three North Province: Glaseado Mountain Area Zero Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Dreepy",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Dreepy",
+            "to": "Drakloak",
+            "method": [
+                "Level 50"
+            ]
+        }
+    ]
+}

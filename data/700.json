@@ -1,0 +1,84 @@
+{
+    "name": "Sylveon",
+    "pokedex_number": "#0700",
+    "types": [
+        "Fairy",
+        "Unknown"
+    ],
+    "abilities": [
+        "Cute Charm",
+        "Pixilate"
+    ],
+    "stats": {
+        "HP": 95,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Atk": 110,
+        "Sp. Def": 130,
+        "Speed": 60,
+        "Total": 525
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
+            "Y": "It wraps its ribbonlike feelers around the arm of its beloved Trainer and walks with him or her.",
+            "Omega Ruby": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
+            "Alpha Sapphire": "It wraps its ribbonlike feelers around the arm of its beloved Trainer and walks with him or her."
+        },
+        "Generation VII": {
+            "Sun": "Its ribbonlike feelers give off an aura that weakens hostility in its prey, causing them to let down their guard. Then it attacks.",
+            "Moon": "When this Pokémon sights its prey, it swirls its ribbonlike feelers as a distraction. A moment later, it pounces.",
+            "Ultra Sun": "Once a fight breaks out, it will unflinchingly charge at dragon Pokémon that are many times larger than itself.",
+            "Ultra Moon": "Sylveon wraps its ribbonlike feelers around its Trainer's arm because this touch enables it to read its Trainer's feelings."
+        },
+        "Generation VIII": {
+            "Sword": "By releasing enmity-erasing waves from its ribbonlike feelers, Sylveon stops any conflict.",
+            "Shield": "There's a Galarian fairy tale that describes a beautiful Sylveon vanquishing a dreadful dragon Pokémon.",
+            "Legends: Arceus": "It emits a soothing aura from its ribbon-shaped organs. It wraps these appendages around quarrelers to instantly restore calm to the situation."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon uses its ribbonlike feelers to send a soothing aura into its opponents, erasing their hostility.",
+            "Violet": "Sylveon cuts an elegant figure as it dances lightly around, feelers fluttering, but its piercing moves aim straight for its opponents' weak spots."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Evolve Eevee",
+            "Y": "Evolve Eevee",
+            "Omega Ruby": "Evolve Eevee",
+            "Alpha Sapphire": "Evolve Eevee"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Eevee",
+            "Moon": "Evolve Eevee",
+            "Ultra Sun": "Evolve Eevee",
+            "Ultra Moon": "Evolve Eevee",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage ( Wanderer ) Lake of Outrage ( Max Raid Battle )",
+            "Shield": "Lake of Outrage ( Wanderer ) Lake of Outrage ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed ( Wanderer ) Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Obsidian Fieldlands : Space-time distortions Coronet Highlands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six West Province: Area Three North Province: Area Three ( Fairy Tera Type ) Tera Raid Battles ( 6★ )",
+            "Violet": "South Province: Area Six West Province: Area Three North Province: Area Three ( Fairy Tera Type ) Tera Raid Battles ( 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Eevee",
+            "to": "Sylveon",
+            "method": [
+                "Level up (with high affection)",
+                "Level up (with high friendship)"
+            ]
+        }
+    ]
+}

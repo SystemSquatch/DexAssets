@@ -1,0 +1,99 @@
+{
+    "name": "Litwick",
+    "pokedex_number": "#0607",
+    "types": [
+        "Ghost",
+        "Fire"
+    ],
+    "abilities": [
+        "Flash Fire",
+        "Flame Body",
+        "Infiltrator",
+        "Shadow Tag"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 30,
+        "Defense": 55,
+        "Sp. Atk": 65,
+        "Sp. Def": 55,
+        "Speed": 20,
+        "Total": 275
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
+            "White": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.",
+            "Black 2": "Its flame is usually out, but it starts shining when it absorbs life force from people or Pokémon.",
+            "White 2": "Its flame is usually out, but it starts shining when it absorbs life force from people or Pokémon."
+        },
+        "Generation VI": {
+            "X": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.",
+            "Y": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
+            "Omega Ruby": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.",
+            "Alpha Sapphire": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "The flame on its head keeps its body slightly warm. This Pokémon takes lost children by the hand to guide them to the spirit world.",
+            "Shield": "The younger the life this Pokémon absorbs, the brighter and eerier the flame on its head burns."
+        },
+        "Generation IX": {
+            "Scarlet": "Its flame is usually out, but it starts shining when Litwick absorbs life-force from people or Pokémon.",
+            "Violet": "While shining a light and pretending to be a guide, it leeches off the life-force of any who follow it."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Celestial Tower",
+            "White": "Celestial Tower",
+            "Black 2": "Celestial Tower , Strange House",
+            "White 2": "Celestial Tower , Strange House"
+        },
+        "Generation VI": {
+            "X": "Lost Hotel",
+            "Y": "Lost Hotel",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Hau'oli Cemetery ( Island Scan ) Sa",
+            "Moon": "Hau'oli Cemetery ( Island Scan ) Sa",
+            "Ultra Sun": "Hau'oli Cemetery ( Island Scan ) Sa",
+            "Ultra Moon": "Hau'oli Cemetery ( Island Scan ) Sa",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Motostoke Stadium * , Motostoke Riverbank , Bridge Field Dusty Bowl , Giant's Cap , Hammerlocke Hills , Lake of Outrage , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Motostoke Stadium * , Motostoke Riverbank , Bridge Field Dusty Bowl , Giant's Cap , Hammerlocke Hills , Lake of Outrage , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor , Loop Lagoon , Challenge Beach , Potbottom Desert ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Infernal Pass , Crystal Pool , Kitakami Wilds , Timeless Woods Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Litwick",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Litwick",
+            "to": "Lampent",
+            "method": [
+                "Level 41"
+            ]
+        }
+    ]
+}

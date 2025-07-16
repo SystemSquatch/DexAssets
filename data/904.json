@@ -1,0 +1,56 @@
+{
+    "name": "Overqwil",
+    "pokedex_number": "#0904",
+    "types": [
+        "Dark",
+        "Poison"
+    ],
+    "abilities": [
+        "Poison Point",
+        "Swift Swim",
+        "Intimidate"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 115,
+        "Defense": 95,
+        "Sp. Atk": 65,
+        "Sp. Def": 65,
+        "Speed": 85,
+        "Total": 510
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Legends: Arceus": "Its lancelike spikes and savage temperament have earned it the nickname \"sea fiend.\" It slurps up poison to nourish itself."
+        },
+        "Generation IX": {
+            "Scarlet": "Overqwil’s poisonous spikes will reflexively react even while Overqwil sleeps, stabbing any moving thing that approaches.",
+            "Violet": "It’s ferocious and has a short temper. The ends of its spikes are barbed, and they can’t be easily removed once they’ve punctured something."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Crimson Mirelands : Lake Valor (only one during Mission 15) Cobalt Coastlands : Massive Mass Outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Evolve Hisuian Qwilfish Tera Raid Battles ( 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Qwilfish",
+            "to": "Overqwil",
+            "method": [
+                "Strong Style Move (knowing Barb Barrage)"
+            ]
+        }
+    ]
+}

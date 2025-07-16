@@ -1,0 +1,92 @@
+{
+    "name": "Gigalith",
+    "pokedex_number": "#0526",
+    "types": [
+        "Rock",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sturdy",
+        "Sand Stream",
+        "Sand Force"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 135,
+        "Defense": 130,
+        "Sp. Atk": 60,
+        "Sp. Def": 70,
+        "Speed": 25,
+        "Total": 505
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
+            "White": "The solar energy absorbed by its body's orange crystals is magnified internally and fired from its mouth.",
+            "Black 2": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
+            "White 2": "The solar rays it absorbs are processed in its energy core and fired as a ball of light."
+        },
+        "Generation VI": {
+            "X": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
+            "Y": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
+            "Omega Ruby": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
+            "Alpha Sapphire": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain."
+        },
+        "Generation VII": {
+            "Sun": "The blasts of energy it makes from sunbeams have terrifying power. However, it's not able to fire its blasts at night or on rainy days.",
+            "Moon": "Known for its hefty horsepower, this Pokémon is a popular partner for construction workers.",
+            "Ultra Sun": "When it fires off energy with all its might, the power creates countless fissures on its body.",
+            "Ultra Moon": "It absorbs rays of sunlight and shoots out energy. It's usually lurking deep beneath the surface."
+        },
+        "Generation VIII": {
+            "Sword": "This hardy Pokémon can often be found on construction sites and in mines, working alongside people and Copperajah .",
+            "Shield": "Although its energy blasts can blow away a dump truck, they have a limitation—they can only be fired when the sun is out."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Boldore",
+            "White": "Evolve Boldore",
+            "Black 2": "Trade Emolga on Route 7",
+            "White 2": "Trade Emolga on Route 7"
+        },
+        "Generation VI": {
+            "X": "Evolve Boldore",
+            "Y": "Evolve Boldore",
+            "Omega Ruby": "Evolve Boldore",
+            "Alpha Sapphire": "Evolve Boldore"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Boldore",
+            "Moon": "Evolve Boldore",
+            "Ultra Sun": "Evolve Boldore",
+            "Ultra Moon": "Evolve Boldore",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Dusty Bowl ( Wanderer ) Rolling Fields , Giant's Seat , Stony Wilderness , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Dusty Bowl ( Wanderer ) Rolling Fields , Giant's Seat , Stony Wilderness , Dusty Bowl ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Boldore",
+            "to": "Gigalith",
+            "method": [
+                "Trade"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "name": "Clefable",
+    "pokedex_number": "#0036",
+    "types": [
+        "Fairy",
+        "Unknown"
+    ],
+    "abilities": [
+        "Cute Charm",
+        "Magic Guard",
+        "Unaware"
+    ],
+    "stats": {
+        "HP": 95,
+        "Attack": 70,
+        "Defense": 73,
+        "Sp. Atk": 85,
+        "Sp. Def": 90,
+        "Speed": 60,
+        "Total": 473
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "A timid fairy Pok é mon that is rarely seen. It will run and hide the moment it senses people.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "A timid fairy Pok é mon that is rarely seen. It will run and hide the moment it senses people.",
+            "Yellow": "They appear to be very protective of their own world. It is a kind of fairy, rarely seen by people.",
+            "Stadium": "Its ears are very sensitive, so it does not like loud noises or busy places. Will not come out in front of people."
+        },
+        "Generation II": {
+            "Gold": "With its acute hearing, it can pick up sounds from far away. It usually hides in quiet places.",
+            "Silver": "Its very sensitive ears lets it distinguish distant sounds. As a result, it prefers quiet places.",
+            "Crystal": "Said to live in quiet, remote mountains, this type of fairy has a strong aversion to being seen.",
+            "Stadium 2": "With its acute hearing, it can pick up sounds from far away. It usually hides in quiet places. (Pokémon Red, Silver, or Crystal inserted) Its very sensitive ears lets it distinguish distant sounds. As a result, it prefers quiet places. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
+            "Sapphire": "Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
+            "Emerald": "A Clefable uses its wings to skip lightly as if it were flying. Its bouncy step lets it even walk on water. On quiet, moonlit nights, it strolls on lakes.",
+            "FireRed": "It has an acute sense of hearing. It can easily hear a pin being dropped nearly 1,100 yards away.",
+            "LeafGreen": "A timid fairy Pok é mon that is rarely seen, it will run and hide the moment it senses people."
+        },
+        "Generation IV": {
+            "Diamond": "Rarely seen by people, it is said to be drawn by the full moon to play at deserted lakes.",
+            "Pearl": "Its hearing is so acute it can hear a pin drop over half a mile away. It lives on quiet mountains.",
+            "Platinum": "It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.",
+            "HeartGold": "With its acute hearing, it can pick up sounds from far away. It usually hides in quiet places.",
+            "SoulSilver": "Its very sensitive ears let it distinguish distant sounds. As a result, it prefers quiet places."
+        },
+        "Generation V": {
+            "Black": "It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.",
+            "White": "It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.",
+            "Black 2": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they're usually found in quiet places.",
+            "White 2": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they're usually found in quiet places."
+        },
+        "Generation VI": {
+            "X": "Its hearing is so acute it can hear a pin drop over half a mile away. It lives on quiet mountains.",
+            "Y": "A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.",
+            "Omega Ruby": "Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
+            "Alpha Sapphire": "Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights."
+        },
+        "Generation VII": {
+            "Sun": "They don't like to reveal themselves in front of people. They live quietly in packs deep in the mountains.",
+            "Moon": "According to tradition, people who see a pair of Clefable skipping by can look forward to a happy marriage.",
+            "Ultra Sun": "It can't help but hear a pin drop from over half a mile away, so it lives deep in the mountains where there aren't many people or Pokémon.",
+            "Ultra Moon": "Some scientists believe that it gazes intently at the sky on nights with a full moon because it's homesick.",
+            "Let's Go Pikachu": "They appear to be very protective of their own world. It is a kind of fairy, rarely seen by people.",
+            "Let's Go Eevee": "They appear to be very protective of their own world. It is a kind of fairy, rarely seen by people."
+        },
+        "Generation VIII": {
+            "Sword": "A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.",
+            "Shield": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they're usually found in quiet places.",
+            "Brilliant Diamond": "Rarely seen by people, it is said to be drawn by the full moon to play at deserted lakes.",
+            "Shining Pearl": "Its hearing is so acute it can hear a pin drop over half a mile away. It lives on quiet mountains.",
+            "Legends: Arceus": "Legend says that on clear, quiet nights, it listens for the voices of its kin living on the moon. I, too, often think of my homeland, so far away."
+        },
+        "Generation IX": {
+            "Scarlet": "Said to live in quiet, remote mountains, this type of fairy has a strong aversion to being seen.",
+            "Violet": "It has an acute sense of hearing. It can easily hear a pin being dropped nearly 1,100 yards away."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Clefairy",
+            "Blue": "Evolve Clefairy",
+            "Blue (Japan)": "Rocket Game Corner",
+            "Yellow": "Evolve Clefairy"
+        },
+        "Generation II": {
+            "Gold": "Evolve Clefairy",
+            "Silver": "Evolve Clefairy",
+            "Crystal": "Evolve Clefairy"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Clefairy",
+            "LeafGreen": "Evolve Clefairy",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Clefairy",
+            "Pearl": "Evolve Clefairy",
+            "Platinum": "Evolve Clefairy",
+            "HeartGold": "Evolve Clefairy",
+            "SoulSilver": "Evolve Clefairy",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Giant Chasm ( rustling grass )",
+            "White": "Giant Chasm ( rustling grass )",
+            "Black 2": "Giant Chasm ( rustling grass )",
+            "White 2": "Giant Chasm ( rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Clefairy",
+            "Y": "Evolve Clefairy",
+            "Omega Ruby": "Evolve Clefairy",
+            "Alpha Sapphire": "Evolve Clefairy"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Clefairy",
+            "Moon": "Evolve Clefairy",
+            "Ultra Sun": "Evolve Clefairy",
+            "Ultra Moon": "Evolve Clefairy",
+            "Let's Go Pikachu": "Mt. Moon",
+            "Let's Go Eevee": "Mt. Moon"
+        },
+        "Generation VIII": {
+            "Sword": "Motostoke Riverbank ( Wanderer ) Bridge Field , Hammerlocke Hills , Lake of Outrage , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Motostoke Riverbank ( Wanderer ) Bridge Field , Hammerlocke Hills , Lake of Outrage , Rolling Fields ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed , Snowslide Slope , Tunnel to the Top ( Wanderer ) Fields of Honor , Soothing Wetlands , Forest of Focus , Insular Sea , Frostpoint Field , Snowslide Slope , Giant's Bed , Frigid Sea , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Clefairy",
+            "Shining Pearl": "Evolve Clefairy",
+            "Legends: Arceus": "Coronet Highlands : Fabled Spring Night , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 4★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Clefairy",
+            "to": "Clefable",
+            "method": [
+                "Use Moon Stone"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "name": "Blaziken",
+    "pokedex_number": "#0257",
+    "types": [
+        "Fire",
+        "Fighting"
+    ],
+    "abilities": [
+        "Blaze",
+        "Speed Boost",
+        "Speed Boost"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 70,
+        "Sp. Atk": 110,
+        "Sp. Def": 70,
+        "Speed": 80,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "In battle, Blaziken blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this Pok é mon 's wrists burn.",
+            "Sapphire": "Blaziken has incredibly strong legs - it can easily clear a 30-story building in one leap. This Pok é mon 's blazing punches leave its foes scorched and blackened.",
+            "Emerald": "It learns martial arts that use punches and kicks. Every several years, its old feathers burn off, and new, supple feathers grow back in their place.",
+            "FireRed": "When facing a tough foe, it looses flames from its wrists. Its powerful legs let it jump clear over buildings.",
+            "LeafGreen": "When facing a tough foe, it looses flames from its wrists. Its powerful legs let it jump clear over buildings."
+        },
+        "Generation IV": {
+            "Diamond": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
+            "Pearl": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
+            "Platinum": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
+            "HeartGold": "It can clear a 30-story building in a leap. Its fiery punches scorch its foes.",
+            "SoulSilver": "It can clear a 30-story building in a leap. Its fiery punches scorch its foes."
+        },
+        "Generation V": {
+            "Black": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
+            "White": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
+            "Black 2": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
+            "White 2": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes."
+        },
+        "Generation VI": {
+            "X": "It can clear a 30-story building in a leap. Its fiery punches scorch its foes.",
+            "Y": "When facing a tough foe, it looses flames from its wrists. Its powerful legs let it jump clear over buildings.",
+            "Omega Ruby": "In battle, Blaziken blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this Pokémon's wrists burn.",
+            "Alpha Sapphire": "Blaziken has incredibly strong legs—it can easily clear a 30-story building in one leap. This Pokémon's blazing punches leave its foes scorched and blackened."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
+            "Shining Pearl": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes."
+        },
+        "Generation IX": {
+            "Scarlet": "When facing a tough foe, it looses flames from its wrists. Its powerful legs let it jump clear over buildings.",
+            "Violet": "It can jump powerfully, clearing a 30-story building in a single leap. Its flaming punches scorch its opponents."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Combusken",
+            "Sapphire": "Evolve Combusken",
+            "Emerald": "Evolve Combusken",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Combusken",
+            "SoulSilver": "Evolve Combusken",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer , Event Evolve Global Link Event Torchic",
+            "White": "Poké Transfer , Event Evolve Global Link Event Torchic",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Evolve event Torchic",
+            "Y": "Evolve event Torchic",
+            "Omega Ruby": "Evolve Combusken",
+            "Alpha Sapphire": "Evolve Combusken"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Combusken",
+            "Ultra Moon": "Evolve Combusken",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Combusken",
+            "Shining Pearl": "Evolve Combusken",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Combusken"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Combusken",
+            "to": "Blaziken",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "name": "Vileplume",
+    "pokedex_number": "#0045",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Effect Spore"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 85,
+        "Sp. Atk": 100,
+        "Sp. Def": 90,
+        "Speed": 50,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+            "Yellow": "Flaps its broad flower petals to scatter its poisonous pollen. The flapping sound is very loud.",
+            "Stadium": "Scatters allergy-causing pollen from its broad petals. The larger the petals, the more pollen is scattered."
+        },
+        "Generation II": {
+            "Gold": "It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+            "Silver": "The bud bursts into bloom with a bang. It then starts scattering allergenic, poisonous pollen.",
+            "Crystal": "By shaking its big petals, it scatters toxic pollen into the air, turning the air yellow.",
+            "Stadium 2": "It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen. (Pokémon Red, Silver, or Crystal inserted) The bud bursts into bloom with a bang. It then starts scattering allergenic, poisonous pollen. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Vileplume 's toxic pollen triggers atrocious allergy attacks. That's why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be.",
+            "Sapphire": "Vileplume has the world's largest petals. They are used to attract prey that are then doused with toxic spores. Once the prey are immobilized, this Pok é mon catches and devours them.",
+            "Emerald": "In seasons when it produces more pollen, the air around a Vileplume turns yellow with the powder as it walks. The pollen is highly toxic and causes paralysis.",
+            "FireRed": "Its petals are the largest in the world. It fiendishly scatters allergy-causing pollen from its petals.",
+            "LeafGreen": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
+        },
+        "Generation IV": {
+            "Diamond": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
+            "Pearl": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
+            "Platinum": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
+            "HeartGold": "It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+            "SoulSilver": "The bud bursts into bloom with a bang. It then starts scattering allergenic, poisonous pollen."
+        },
+        "Generation V": {
+            "Black": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
+            "White": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
+            "Black 2": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
+            "White 2": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen."
+        },
+        "Generation VI": {
+            "X": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+            "Y": "It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+            "Omega Ruby": "Vileplume's toxic pollen triggers atrocious allergy attacks. That's why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be.",
+            "Alpha Sapphire": "Vileplume has the world's largest petals. They are used to attract prey that are then doused with toxic spores. Once the prey are immobilized, this Pokémon catches and devours them."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Flaps its broad flower petals to scatter its poisonous pollen. The flapping sound is very loud.",
+            "Let's Go Eevee": "Flaps its broad flower petals to scatter its poisonous pollen. The flapping sound is very loud."
+        },
+        "Generation VIII": {
+            "Sword": "It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+            "Shield": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+            "Brilliant Diamond": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
+            "Shining Pearl": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen."
+        },
+        "Generation IX": {
+            "Scarlet": "The bud bursts into bloom with a bang. It then starts scattering allergenic, poisonous pollen.",
+            "Violet": "It fiendishly scatters allergenic pollen from its petals, which are the largest in the world."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Gloom",
+            "Blue": "Trade",
+            "Blue (Japan)": "Evolve Gloom",
+            "Yellow": "Evolve Gloom"
+        },
+        "Generation II": {
+            "Gold": "Evolve Gloom",
+            "Silver": "Evolve Gloom",
+            "Crystal": "Evolve Gloom"
+        },
+        "Generation III": {
+            "Ruby": "Evolve Gloom",
+            "Sapphire": "Evolve Gloom",
+            "Emerald": "Evolve Gloom",
+            "FireRed": "Evolve Gloom",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Gloom",
+            "Pearl": "Evolve Gloom",
+            "Platinum": "Evolve Gloom",
+            "HeartGold": "Evolve Gloom",
+            "SoulSilver": "Evolve Gloom",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Gloom",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Gloom",
+            "Y": "Evolve Gloom",
+            "Omega Ruby": "Evolve Gloom",
+            "Alpha Sapphire": "Evolve Gloom"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Route 21",
+            "Let's Go Eevee": "Trade"
+        },
+        "Generation VIII": {
+            "Sword": "Dappled Grove , Giant's Mirror , Hammerlocke Hills ( Wanderer ) Dappled Grove , East Lake Axewell , Giant's Cap , Hammerlocke Hills , Motostoke Riverbank , North Lake Miloch ( Max Raid Battle )",
+            "Shield": "Dappled Grove , Giant's Mirror , Hammerlocke Hills ( Wanderer ) Dappled Grove , East Lake Axewell , Giant's Cap , Hammerlocke Hills , Motostoke Riverbank , North Lake Miloch ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Gloom",
+            "Shining Pearl": "Evolve Gloom",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Coastal Biome Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Gloom",
+            "to": "Vileplume",
+            "method": [
+                "Use Leaf Stone"
+            ]
+        }
+    ]
+}

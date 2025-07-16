@@ -1,0 +1,54 @@
+{
+    "name": "Urshifu",
+    "pokedex_number": "#0892",
+    "types": [
+        "Fighting",
+        "Dark"
+    ],
+    "abilities": [
+        "Unseen Fist"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 130,
+        "Defense": 100,
+        "Sp. Atk": 63,
+        "Sp. Def": 60,
+        "Speed": 97,
+        "Total": 550
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "It's believed that this Pokémon modeled its fighting style on the flow of a river—sometimes rapid, sometimes calm.",
+            "Shield": "This form of Urshifu is a strong believer in defeating foes by raining many blows down on them. Its strikes are nonstop, flowing like a river."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Evolve Kubfu",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME , Trade Version 3.0.0+",
+            "Violet": "Pokémon HOME , Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Kubfu"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Kubfu",
+            "to": "Urshifu",
+            "method": [
+                "Tower Of Darkness",
+                "Tower Of Waters"
+            ]
+        }
+    ]
+}

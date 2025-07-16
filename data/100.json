@@ -1,0 +1,155 @@
+{
+    "name": "Voltorb",
+    "pokedex_number": "#0100",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Soundproof",
+        "Static",
+        "Aftermath"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 50,
+        "Sp. Atk": 55,
+        "Sp. Def": 55,
+        "Speed": 100,
+        "Total": 330
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Usually found in power plants. Easily mistaken for a Pok é Ball , they have zapped many people.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Usually found in power plants. Easily mistaken for a Pok é Ball , they have zapped many people.",
+            "Yellow": "It is said to camouflage itself as a Pok é Ball . It will self-destruct with very little stimulus.",
+            "Stadium": "Usually found in power plants. In some instances, they have been seen drawing power from the trolleys of electric trains."
+        },
+        "Generation II": {
+            "Gold": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+            "Silver": "It was discovered when Pok é Balls were introduced. It is said that there is some connection.",
+            "Crystal": "During the study of this Pok é mon , it was discovered that its components are not found in nature.",
+            "Stadium 2": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode. (Pokémon Red, Silver, or Crystal inserted) It was discovered when Pok é Balls were introduced. It is said that there is some connection. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Voltorb was first sighted at a company that manufactures Pok é Balls . The link between that sighting and the fact that this Pok é mon looks very similar to a Pok é Ball remains a mystery.",
+            "Sapphire": "Voltorb is extremely sensitive - it explodes at the slightest of shocks. It is rumored that it was first created when a Pok é Ball was exposed to a powerful pulse of energy.",
+            "Emerald": "It bears an uncanny and unexplained resemblance to a Pok é Ball . Because it explodes at the slightest shock, even veteran Trainers treat it with caution.",
+            "FireRed": "A life-form whose identity is unknown. It is said to Screech or suddenly SelfDestruct .",
+            "LeafGreen": "Usually found in power plants. Easily mistaken for a Pok é Ball , it has zapped many people."
+        },
+        "Generation IV": {
+            "Diamond": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
+            "Pearl": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
+            "Platinum": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
+            "HeartGold": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+            "SoulSilver": "It was discovered when Poké Balls were introduced. It is said that there is some connection."
+        },
+        "Generation V": {
+            "Black": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
+            "White": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
+            "Black 2": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on contact.",
+            "White 2": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on contact."
+        },
+        "Generation VI": {
+            "X": "It was discovered when Poké Balls were introduced. It is said that there is some connection.",
+            "Y": "Usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people.",
+            "Omega Ruby": "Voltorb was first sighted at a company that manufactures Poké Balls. The link between that sighting and the fact that this Pokémon looks very similar to a Poké Ball remains a mystery.",
+            "Alpha Sapphire": "Voltorb is extremely sensitive—it explodes at the slightest of shocks. It is rumored that it was first created when a Poké Ball was exposed to a powerful pulse of energy."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus.",
+            "Let's Go Eevee": "It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
+            "Shining Pearl": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
+            "Legends: Arceus": "An enigmatic Pokémon that happens to bear a resemblance to a Poké Ball. When excited, it discharges the electric current it has stored in its belly, then lets out a great, uproarious laugh."
+        },
+        "Generation IX": {
+            "Scarlet": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+            "Violet": "It's usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Route 10 , Power Plant",
+            "Blue": "Route 10 , Power Plant",
+            "Blue (Japan)": "Route 10 , Power Plant",
+            "Yellow": "Power Plant"
+        },
+        "Generation II": {
+            "Gold": "Route 10 Trade Krabby in Olivine City Team Rocket HQ (Eight)",
+            "Silver": "Route 10 Trade Krabby in Olivine City Team Rocket HQ (Eight)",
+            "Crystal": "Route 10 Trade Krabby in Olivine City Team Rocket HQ (Eight)"
+        },
+        "Generation III": {
+            "Ruby": "New Mauville",
+            "Sapphire": "New Mauville",
+            "Emerald": "New Mauville",
+            "FireRed": "Route 10 , Power Plant",
+            "LeafGreen": "Route 10 , Power Plant",
+            "Colosseum": "Trade",
+            "XD": "Cave Poké Spot (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Route 218 ( Swarm )",
+            "Pearl": "Route 218 ( Swarm )",
+            "Platinum": "Route 218 ( Swarm )",
+            "HeartGold": "Route 10 Trade Krabby in Olivine City Safari Zone (tall grass in Swamp with 10 Peak points) Team Rocket HQ (Six)",
+            "SoulSilver": "Route 10 Trade Krabby in Olivine City Safari Zone (tall grass in Swamp with 10 Peak points) Team Rocket HQ (Six)",
+            "Pal Park": "Field",
+            "Pokéwalker": "Town Outskirts"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Breed Electrode",
+            "Y": "Breed Electrode",
+            "Omega Ruby": "Route 110 , New Mauville",
+            "Alpha Sapphire": "Route 110 , New Mauville"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Electrode",
+            "Ultra Moon": "Breed Electrode",
+            "Let's Go Pikachu": "Power Plant",
+            "Let's Go Eevee": "Power Plant"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 218 ( Swarm ) Grand Underground - Spacious Cave , Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 218 ( Swarm ) Grand Underground - Spacious Cave , Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Coronet Highlands : Celestica Ruins (in boxes), Sacred Plaza (also in boxes), massive mass outbreaks ( Hisuian Form ) Unobtainable ( Kantonian Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Area Three ( Kantonian Form ) West Province: Area One , Area Three ( Kantonian Form ) Tera Raid Battles ( 2★ ) ( Kantonian Form ) Pokémon HOME , Poké Portal News ( Hisuian Form )",
+            "Violet": "East Province: Area Three ( Kantonian Form ) West Province: Area One , Area Three ( Kantonian Form ) Tera Raid Battles ( 2★ ) ( Kantonian Form ) Pokémon HOME , Poké Portal News ( Hisuian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Voltorb",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Voltorb",
+            "to": "Electrode",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

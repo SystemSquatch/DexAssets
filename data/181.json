@@ -1,0 +1,134 @@
+{
+    "name": "Ampharos",
+    "pokedex_number": "#0181",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Static",
+        "Plus",
+        "Mold Breaker"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 75,
+        "Defense": 75,
+        "Sp. Atk": 115,
+        "Sp. Def": 90,
+        "Speed": 55,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.",
+            "Silver": "The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon.",
+            "Crystal": "When it gets dark, the light from its bright, shiny tail can be seen from far away on the ocean's surface.",
+            "Stadium 2": "The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people. (Pokémon Red, Silver, or Crystal inserted) The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Ampharos gives off so much light that it can be seen even from space. People in the old days used the light of this Pok é mon to send signals back and forth with others far away.",
+            "Sapphire": "Ampharos gives off so much light that it can be seen even from space. People in the old days used the light of this Pok é mon to send signals back and forth with others far away.",
+            "Emerald": "It gives off so much light that it can be seen even from space. People in the old days used its light to send signals back and forth with others far away.",
+            "FireRed": "The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon.",
+            "LeafGreen": "The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people."
+        },
+        "Generation IV": {
+            "Diamond": "The tip of its tail shines brightly. In the olden days, people sent signals using the tail's light.",
+            "Pearl": "The tip of its tail shines brightly. In the olden days, people sent signals using the tail's light.",
+            "Platinum": "The tip of its tail shines brightly. In the olden days, people sent signals using the tail's light.",
+            "HeartGold": "The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.",
+            "SoulSilver": "The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon."
+        },
+        "Generation V": {
+            "Black": "The tip of its tail shines brightly. In the olden days, people sent signals using the tail's light.",
+            "White": "The tip of its tail shines brightly. In the olden days, people sent signals using the tail's light.",
+            "Black 2": "The tip of its tail shines so brightly it can be used to send sea-navigation beacons to distant foreign shores.",
+            "White 2": "The tip of its tail shines so brightly it can be used to send sea-navigation beacons to distant foreign shores."
+        },
+        "Generation VI": {
+            "X": "The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.",
+            "Y": "The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.",
+            "Omega Ruby": "Ampharos gives off so much light that it can be seen even from space. People in the old days used the light of this Pokémon to send signals back and forth with others far away.",
+            "Alpha Sapphire": "Ampharos gives off so much light that it can be seen even from space. People in the old days used the light of this Pokémon to send signals back and forth with others far away."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Excess energy from Mega Evolution stimulates its genes, and the wool it had lost grows in again.",
+            "Ultra Moon": "Massive amounts of energy intensely stimulated Ampharos's cells, apparently awakening its long-sleeping dragon's blood."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "The tip of its tail shines brightly. In the olden days, people sent signals using the light from this Pokémon's tail.",
+            "Shining Pearl": "The tip of its tail shines brightly. In the olden days, people sent signals using the light from this Pokémon's tail."
+        },
+        "Generation IX": {
+            "Scarlet": "The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon.",
+            "Violet": "When it gets dark, the light from its bright, shiny tail can be seen from far away on the ocean's surface."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Flaaffy",
+            "Silver": "Evolve Flaaffy",
+            "Crystal": "Trade"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Evolve Flaaffy",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Evolve Flaaffy",
+            "XD": "Evolve Flaaffy"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Flaaffy",
+            "Pearl": "Evolve Flaaffy",
+            "Platinum": "Evolve Flaaffy",
+            "HeartGold": "Evolve Flaaffy",
+            "SoulSilver": "Evolve Flaaffy",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Flaaffy",
+            "Black 2": "Evolve Flaaffy",
+            "White 2": "Evolve Flaaffy"
+        },
+        "Generation VI": {
+            "X": "Evolve Flaaffy",
+            "Y": "Evolve Flaaffy",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Flaaffy",
+            "Ultra Moon": "Evolve Flaaffy",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Flaaffy",
+            "Shining Pearl": "Evolve Flaaffy",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six , Alfornada Cavern North Province: Area One Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Area Six , Alfornada Cavern North Province: Area One Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Flaaffy",
+            "to": "Ampharos",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

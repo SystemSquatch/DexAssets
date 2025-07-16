@@ -1,0 +1,53 @@
+{
+    "name": "Cursola",
+    "pokedex_number": "#0864",
+    "types": [
+        "Ghost",
+        "Unknown"
+    ],
+    "abilities": [
+        "Weak Armor",
+        "Perish Body"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 95,
+        "Defense": 50,
+        "Sp. Atk": 145,
+        "Sp. Def": 130,
+        "Speed": 30,
+        "Total": 510
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pokémon's core spirit.",
+            "Shield": "Be cautious of the ectoplasmic body surrounding its soul. You'll become stiff as stone if you touch it."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Giant's Mirror , South Lake Miloch , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Shield Expansion Pass": "Slippery Slope , Old Cemetery , Giant's Foot , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Corsola",
+            "to": "Cursola",
+            "method": [
+                "Level 38"
+            ]
+        }
+    ]
+}

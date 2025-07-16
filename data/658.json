@@ -1,0 +1,75 @@
+{
+    "name": "Greninja",
+    "pokedex_number": "#0658",
+    "types": [
+        "Water",
+        "Dark"
+    ],
+    "abilities": [
+        "Torrent",
+        "Protean",
+        "Battle Bond"
+    ],
+    "stats": {
+        "HP": 72,
+        "Attack": 95,
+        "Defense": 67,
+        "Sp. Atk": 103,
+        "Sp. Def": 71,
+        "Speed": 122,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
+            "Y": "It appears and vanishes with a ninja's grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
+            "Omega Ruby": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
+            "Alpha Sapphire": "It appears and vanishes with a ninja's grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "The movement of air against the long tongue Greninja keeps wrapped around its neck allows it to sense enemies it can’t see.",
+            "Violet": "It makes shuriken out of mucus excreted from its thighs. These shuriken can cut cleanly through steel cables."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Evolve Frogadier",
+            "Y": "Evolve Frogadier",
+            "Omega Ruby": "Trade Event",
+            "Alpha Sapphire": "Trade Event"
+        },
+        "Generation VII": {
+            "Sun": "Trade ( Standard Greninja ) Event : transfer from Pokémon Sun and Pokémon Moon Special Demo Version ( Battle Bond Greninja )",
+            "Moon": "Trade ( Standard Greninja ) Event : transfer from Pokémon Sun and Pokémon Moon Special Demo Version ( Battle Bond Greninja )",
+            "Ultra Sun": "Poni Wilds ( Island Scan ) Fr ( Standard Greninja ) Trade ( Battle Bond Greninja )",
+            "Ultra Moon": "Poni Wilds ( Island Scan ) Fr ( Standard Greninja ) Trade ( Battle Bond Greninja )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade , Poké Portal News ( Standard Greninja ) Pokémon HOME ( Battle Bond Greninja )",
+            "Violet": "Trade , Poké Portal News ( Standard Greninja ) Pokémon HOME ( Battle Bond Greninja )",
+            "The Hidden Treasure of Area Zero": "Evolve Frogadier ( Standard Greninja )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Frogadier",
+            "to": "Greninja",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

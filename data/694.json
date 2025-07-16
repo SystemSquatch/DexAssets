@@ -1,0 +1,81 @@
+{
+    "name": "Helioptile",
+    "pokedex_number": "#0694",
+    "types": [
+        "Electric",
+        "Normal"
+    ],
+    "abilities": [
+        "Dry Skin",
+        "Sand Veil",
+        "Solar Power"
+    ],
+    "stats": {
+        "HP": 44,
+        "Attack": 38,
+        "Defense": 33,
+        "Sp. Atk": 61,
+        "Sp. Def": 43,
+        "Speed": 70,
+        "Total": 289
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
+            "Y": "The frills on either side of its head have cells that generate electricity when exposed to sunlight.",
+            "Omega Ruby": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
+            "Alpha Sapphire": "The frills on either side of its head have cells that generate electricity when exposed to sunlight."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "When spread, the frills on its head act like solar panels, generating the power behind this Pokémon's electric moves.",
+            "Shield": "The sun powers this Pokémon's electricity generation. Interruption of that process stresses Helioptile to the point of weakness."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Route 9 , Friend Safari ( Electric )",
+            "Y": "Route 9 , Friend Safari ( Electric )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Heliolisk",
+            "Ultra Moon": "Breed Heliolisk",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 6 , Giant's Mirror Rolling Fields , East Lake Axewell , Lake of Outrage , Giant's Mirror , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Route 6 , Giant's Mirror Rolling Fields , East Lake Axewell , Lake of Outrage , Giant's Mirror , Hammerlocke Hills ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Helioptile",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Helioptile",
+            "to": "Heliolisk",
+            "method": [
+                "Use Sun Stone"
+            ]
+        }
+    ]
+}

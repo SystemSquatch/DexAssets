@@ -1,0 +1,118 @@
+{
+    "name": "Shieldon",
+    "pokedex_number": "#0410",
+    "types": [
+        "Rock",
+        "Steel"
+    ],
+    "abilities": [
+        "Sturdy",
+        "Soundproof"
+    ],
+    "stats": {
+        "HP": 30,
+        "Attack": 42,
+        "Defense": 118,
+        "Sp. Atk": 42,
+        "Sp. Def": 88,
+        "Speed": 30,
+        "Total": 350
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "A Pokémon that lived in jungles around 100 million years ago. Its facial hide is extremely hard.",
+            "Pearl": "It habitually polishes its face by rubbing it against tree trunks. It is weak to attacks from behind.",
+            "Platinum": "It is outstandingly armored. As a result, it can eat grass and berries without having to fight.",
+            "HeartGold": "It was generated from a fossil dug out of a layer of clay that was older than anyone knows. It has a sturdy face.",
+            "SoulSilver": "It was generated from a fossil dug out of a layer of clay that was older than anyone knows. It has a sturdy face."
+        },
+        "Generation V": {
+            "Black": "It is outstandingly armored. As a result, it can eat grass and berries without having to fight.",
+            "White": "It is outstandingly armored. As a result, it can eat grass and berries without having to fight.",
+            "Black 2": "It is outstandingly armored. As a result, it can eat grass and berries without having to fight.",
+            "White 2": "It is outstandingly armored. As a result, it can eat grass and berries without having to fight."
+        },
+        "Generation VI": {
+            "X": "It habitually polishes its face by rubbing it against tree trunks. It is weak to attacks from behind.",
+            "Y": "It was generated from a fossil dug out of a layer of clay that was older than anyone knows. It has a sturdy face.",
+            "Omega Ruby": "It habitually polishes its face by rubbing it against tree trunks. It is weak to attacks from behind.",
+            "Alpha Sapphire": "It was generated from a fossil dug out of a layer of clay that was older than anyone knows. It has a sturdy face."
+        },
+        "Generation VII": {
+            "Sun": "Many fossils of this Pokémon have been found, but almost none have shown signs of damage to the face.",
+            "Moon": "This Pokémon lived in primeval jungles. Few enemies would have been willing to square off against its heavily armored face, so it's thought.",
+            "Ultra Sun": "A mild-mannered, herbivorous Pokémon, it used its face to dig up tree roots to eat. The skin on its face was plenty tough.",
+            "Ultra Moon": "Although its fossils can be found in layers of primeval rock, nothing but its face has ever been discovered."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "A Pokémon that lived in jungles around 100 million years ago. Its facial hide is extremely hard.",
+            "Shining Pearl": "It habitually polishes its face by rubbing it against tree trunks. It is weak to attacks from behind.",
+            "Legends: Arceus": "Much remains unknown about this Pokémon, as few have ever seen it. However, we know that it is calm and dislikes conflict, and it enjoys polishing its face against trees and rocks."
+        },
+        "Generation IX": {
+            "Scarlet": "It is outstandingly armored. As a result, it has no particular need to battle with others and can spend its time feeding on grass and berries.",
+            "Violet": "This Pokémon lived in primeval jungles. It’s thought that Shieldon had few enemies thanks to its sturdy face."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Trade Receive Armor Fossil held by a traded Pokémon and revive it",
+            "Pearl": "Revive from Armor Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "Platinum": "Revive from Armor Fossil at the Oreburgh Mining Museum in Oreburgh City *",
+            "HeartGold": "Receive Armor Fossil held by a traded Pokémon and revive it at the Pewter Museum of Science",
+            "SoulSilver": "Receive Armor Fossil held by a traded Pokémon and revive it at the Pewter Museum of Science"
+        },
+        "Generation V": {
+            "Black": "Revive from Armor Fossil at the Nacrene Museum",
+            "White": "Revive from Armor Fossil at the Nacrene Museum",
+            "Black 2": "Revive from Armor Fossil at the Nacrene Museum Trade with Yancy in Nimbasa City (male player character only)",
+            "White 2": "Revive from Armor Fossil at the Nacrene Museum Trade with Yancy in Nimbasa City (male player character only)",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Revive from Armor Fossil at the Ambrette Town Fossil Lab",
+            "Y": "Revive from Armor Fossil at the Ambrette Town Fossil Lab",
+            "Omega Ruby": "Revive from Armor Fossil at the Devon Corporation in Rustboro City",
+            "Alpha Sapphire": "Trade Receive Armor Fossil held by a traded Pokémon and revive it"
+        },
+        "Generation VII": {
+            "Sun": "Trade Receive Armor Fossil held by a traded Pokémon and revive it",
+            "Moon": "Revive from Armor Fossil at the Fossil Restoration Center on Route 8",
+            "Ultra Sun": "Revive from Armor Fossil at the Fossil Restoration Center on Route 8",
+            "Ultra Moon": "Revive from Armor Fossil at the Fossil Restoration Center on Route 8",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Trade Receive Armor Fossil held by a traded Pokémon and revive it",
+            "Shining Pearl": "Revive from Armor Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "Legends: Arceus": "Coronet Highlands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Union Circle Tera Raid Battle Search ( 3★ )",
+            "The Hidden Treasure of Area Zero (Violet)": "Canyon Biome Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Shieldon",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Shieldon",
+            "to": "Bastiodon",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

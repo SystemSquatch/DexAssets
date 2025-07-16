@@ -1,0 +1,46 @@
+{
+    "name": "Hydrapple",
+    "pokedex_number": "#1019",
+    "types": [
+        "Grass",
+        "Dragon"
+    ],
+    "abilities": [
+        "Supersweet Syrup",
+        "Regenerator",
+        "Sticky Hold"
+    ],
+    "stats": {
+        "HP": 106,
+        "Attack": 80,
+        "Defense": 110,
+        "Sp. Atk": 120,
+        "Sp. Def": 80,
+        "Speed": 44,
+        "Total": 540
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Seven syrpents live inside an apple made of syrup. The syrpent in the center is the commander.",
+            "Violet": "These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Dipplin"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Dipplin",
+            "to": "Hydrapple",
+            "method": [
+                "Unknown"
+            ]
+        }
+    ]
+}

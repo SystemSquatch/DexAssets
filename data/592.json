@@ -1,0 +1,97 @@
+{
+    "name": "Frillish",
+    "pokedex_number": "#0592",
+    "types": [
+        "Water",
+        "Ghost"
+    ],
+    "abilities": [
+        "Water Absorb",
+        "Cursed Body",
+        "Damp"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 40,
+        "Defense": 50,
+        "Sp. Atk": 65,
+        "Sp. Def": 85,
+        "Speed": 40,
+        "Total": 335
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.",
+            "White": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
+            "Black 2": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
+            "White 2": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return."
+        },
+        "Generation VI": {
+            "X": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
+            "Y": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
+            "Omega Ruby": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
+            "Alpha Sapphire": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It wraps its veillike arms and legs around prey swimming by and drags them down to the depths of the ocean.",
+            "Ultra Moon": "Using the invisible poison spikes on its veillike arms and legs, it paralyzes its enemies and causes them to drown."
+        },
+        "Generation VIII": {
+            "Sword": "It envelops its prey in its veillike arms and draws it down to the deeps, five miles below the ocean's surface.",
+            "Shield": "Its thin, veillike arms have tens of thousands of poisonous stingers. Females have slightly longer stingers. *"
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 4 , 17 , and 18 , Driftveil City , P2 Laboratory ( Surfing )",
+            "White": "Routes 4 , 17 , and 18 , Driftveil City , P2 Laboratory ( Surfing )",
+            "Black 2": "Routes 4 , 13 , 17 , 18 , and 21 , Virbank City , Virbank Complex , Undella Town , Undella Bay , Seaside Cave , Humilau City , P2 Laboratory ( Surfing )",
+            "White 2": "Routes 4 , 13 , 17 , 18 , and 21 , Virbank City , Virbank Complex , Undella Town , Undella Bay , Seaside Cave , Humilau City , P2 Laboratory ( Surfing )"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Routes 105 , 106 , 107 , 108 , 109 , 122 , 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 , and 134 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Routes 105 , 106 , 107 , 108 , 109 , 122 , 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 , and 134 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 14 ( Surfing ) Route 14 ( One ) *",
+            "Ultra Moon": "Route 14 ( Surfing ) Route 14 ( One ) *",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "East Lake Axewell , Bridge Field , West Lake Axewell , North Lake Miloch , Dusty Bowl , Giant's Mirror Watchtower Ruins , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "East Lake Axewell , Bridge Field , West Lake Axewell , North Lake Miloch , Dusty Bowl , Giant's Mirror Watchtower Ruins , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Stepping-Stone Sea",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Frillish",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Frillish",
+            "to": "Jellicent",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

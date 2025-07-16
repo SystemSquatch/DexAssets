@@ -1,0 +1,35 @@
+{
+    "name": "Ting-Lu",
+    "pokedex_number": "#1003",
+    "types": [
+        "Dark",
+        "Ground"
+    ],
+    "abilities": [
+        "Vessel of Ruin"
+    ],
+    "stats": {
+        "HP": 165,
+        "Attack": 110,
+        "Defense": 130,
+        "Sp. Atk": 50,
+        "Sp. Def": 80,
+        "Speed": 45,
+        "Total": 580
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pokémon.",
+            "Violet": "It slowly brings its exceedingly heavy head down upon the ground, splitting the earth open with huge fissures that run over 160 feet deep."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "North Province: Groundblight Shrine ( Only one )",
+            "Violet": "North Province: Groundblight Shrine ( Only one )"
+        }
+    },
+    "evolution": []
+}

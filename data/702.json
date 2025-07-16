@@ -1,0 +1,73 @@
+{
+    "name": "Dedenne",
+    "pokedex_number": "#0702",
+    "types": [
+        "Electric",
+        "Fairy"
+    ],
+    "abilities": [
+        "Cheek Pouch",
+        "Pickup",
+        "Plus"
+    ],
+    "stats": {
+        "HP": 67,
+        "Attack": 58,
+        "Defense": 57,
+        "Sp. Atk": 81,
+        "Sp. Def": 67,
+        "Speed": 101,
+        "Total": 431
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
+            "Y": "It uses its tail to absorb electricity from power plants or from outlets in houses, and then it fires the electricity from its whiskers.",
+            "Omega Ruby": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
+            "Alpha Sapphire": "It uses its tail to absorb electricity from power plants or from outlets in houses, and then it fires the electricity from its whiskers."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It sneaks into people's homes and steals electricity from their outlets. When your electric bill seems off, it's the handiwork of this rascal.",
+            "Ultra Moon": "Its upper whiskers are sensors that survey its surroundings. Its lower whiskers are organs that shoot electricity."
+        },
+        "Generation VIII": {
+            "Sword": "A Dedenne's whiskers pick up electrical waves other Dedenne send out. These Pokémon share locations of food or electricity with one another.",
+            "Shield": "Since Dedenne can't generate as much electricity on its own, it steals electricity from outlets or other electric Pokémon."
+        },
+        "Generation IX": {
+            "Scarlet": "It’s small and its electricity-generating organ is not fully developed, so it uses its tail to absorb electricity from people’s homes and charge itself.",
+            "Violet": "Dedenne emit electrical waves from the whiskers on their cheeks to communicate with each other. When low on electricity, they curl up and sleep."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Route 11 , Friend Safari ( Electric and Fairy )",
+            "Y": "Route 11 , Friend Safari ( Electric and Fairy )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Blush Mountain",
+            "Ultra Moon": "Blush Mountain",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Challenge Beach Frostpoint Field , Giant's Bed , Three-Point Pass , Frigid Sea , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area Three North Province: Area Three Tera Raid Battles ( 3★ , 4★ )",
+            "Violet": "West Province: Area Three North Province: Area Three Tera Raid Battles ( 3★ , 4★ )"
+        }
+    },
+    "evolution": []
+}

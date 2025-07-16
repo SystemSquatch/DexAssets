@@ -1,0 +1,155 @@
+{
+    "name": "Ivysaur",
+    "pokedex_number": "#0002",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Chlorophyll"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 63,
+        "Sp. Atk": 80,
+        "Sp. Def": 80,
+        "Speed": 60,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+            "Yellow": "The bulb on its back grows by drawing energy. It gives off an aroma when it is ready to bloom.",
+            "Stadium": "The bud on its back apparently draws energy from its body. The bud is said to open into a large flower when fully grown."
+        },
+        "Generation II": {
+            "Gold": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
+            "Silver": "If the bud on its back starts to smell sweet, it is evidence that the large flower will soon bloom.",
+            "Crystal": "The bulb on its back grows as it absorbs nutrients. The bulb gives off a pleasant aroma when it blooms.",
+            "Stadium 2": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger. (Pokémon Red, Silver, or Crystal inserted) If the bud on its back starts to smell sweet, it is evidence that the large flower will soon bloom. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "There is a bud on this Pok é mon 's back. To support its weight, Ivysaur 's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
+            "Sapphire": "There is a bud on this Pok é mon 's back. To support its weight, Ivysaur 's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
+            "Emerald": "To support its bulb, Ivysaur 's legs grow sturdy. If it spends more time lying in the sunlight, the bud will soon bloom into a large flower.",
+            "FireRed": "There is a plant bulb on its back. When it absorbs nutrients, the bulb is said to blossom into a large flower.",
+            "LeafGreen": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
+        },
+        "Generation IV": {
+            "Diamond": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
+            "Pearl": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
+            "Platinum": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
+            "HeartGold": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
+            "SoulSilver": "If the bud on its back starts to smell sweet, it is evidence that the large flower will soon bloom."
+        },
+        "Generation V": {
+            "Black": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
+            "White": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
+            "Black 2": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
+            "White 2": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom."
+        },
+        "Generation VI": {
+            "X": "There is a plant bulb on its back. When it absorbs nutrients, the bulb is said to blossom into a large flower.",
+            "Y": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
+            "Omega Ruby": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
+            "Alpha Sapphire": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "The bud on its back grows by drawing energy. It gives off an aroma when it is ready to bloom.",
+            "Let's Go Eevee": "The bud on its back grows by drawing energy. It gives off an aroma when it is ready to bloom."
+        },
+        "Generation VIII": {
+            "Sword": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+            "Shield": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
+            "Brilliant Diamond": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
+            "Shining Pearl": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom."
+        },
+        "Generation IX": {
+            "Scarlet": "The more sunlight Ivysaur bathes in, the more strength wells up within it, allowing the bud on its back to grow larger.",
+            "Violet": "The bulb on its back grows as it absorbs nutrients. The bulb gives off a pleasant aroma when it blooms."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Bulbasaur",
+            "Blue": "Evolve Bulbasaur",
+            "Blue (Japan)": "Evolve Bulbasaur",
+            "Yellow": "Evolve Bulbasaur"
+        },
+        "Generation II": {
+            "Gold": "Time Capsule",
+            "Silver": "Time Capsule",
+            "Crystal": "Time Capsule"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Bulbasaur",
+            "LeafGreen": "Evolve Bulbasaur",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Bulbasaur",
+            "SoulSilver": "Evolve Bulbasaur",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Grass )",
+            "Y": "Friend Safari ( Grass )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Bulbasaur",
+            "Ultra Moon": "Evolve Bulbasaur",
+            "Let's Go Pikachu": "Evolve Bulbasaur",
+            "Let's Go Eevee": "Evolve Bulbasaur"
+        },
+        "Generation VIII": {
+            "Sword": "Wild Area News , Evolve Pokémon HOME event Bulbasaur Trade Version 1.2.0+",
+            "Shield": "Wild Area News , Evolve Pokémon HOME event Bulbasaur Trade Version 1.2.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Bulbasaur",
+            "Shining Pearl": "Evolve Bulbasaur",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Bulbasaur"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Bulbasaur",
+            "to": "Ivysaur",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Ivysaur",
+            "to": "Venusaur",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

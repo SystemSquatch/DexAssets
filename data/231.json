@@ -1,0 +1,138 @@
+{
+    "name": "Phanpy",
+    "pokedex_number": "#0231",
+    "types": [
+        "Ground",
+        "Unknown"
+    ],
+    "abilities": [
+        "Pickup",
+        "Sand Veil"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 60,
+        "Defense": 60,
+        "Sp. Atk": 40,
+        "Sp. Def": 40,
+        "Speed": 40,
+        "Total": 330
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It swings its long snout around playfully, but because it is so strong, that can be dangerous.",
+            "Silver": "As a sign of affection, it bumps with its snout. However, it is so strong, it may send you flying.",
+            "Crystal": "During the deserted morning hours, it comes ashore where it deftly uses its trunk to take a shower.",
+            "Stadium 2": "It swings its long snout around playfully, but because it is so strong, that can be dangerous. (Pokémon Red, Silver, or Crystal inserted) As a sign of affection, it bumps with its snout. However, it is so strong, it may send you flying. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "For its nest, Phanpy digs a vertical pit in the ground at the edge of a river. It marks the area around its nest with its trunk to let the others know that the area has been claimed.",
+            "Sapphire": "Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pok é mon can be seen drying their soaking-wet bodies at the edge of water.",
+            "Emerald": "Phanpy 's big ears serve as broad fans. When it becomes hot, it flaps the ears busily to cool down. Even the young are very strong.",
+            "FireRed": "As a sign of affection, it bumps with its snout. However, it is so strong, it may send you flying.",
+            "LeafGreen": "It swings its long snout around playfully, but because it is so strong, this can be dangerous."
+        },
+        "Generation IV": {
+            "Diamond": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
+            "Pearl": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
+            "Platinum": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
+            "HeartGold": "It swings its long snout around playfully, but because it is so strong, that can be dangerous.",
+            "SoulSilver": "As a sign of affection, it bumps with its snout. However, it is so strong, it may send you flying."
+        },
+        "Generation V": {
+            "Black": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
+            "White": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
+            "Black 2": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
+            "White 2": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back."
+        },
+        "Generation VI": {
+            "X": "As a sign of affection, it bumps with its snout. However, it is so strong, it may send you flying.",
+            "Y": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
+            "Omega Ruby": "For its nest, Phanpy digs a vertical pit in the ground at the edge of a river. It marks the area around its nest with its trunk to let the others know that the area has been claimed.",
+            "Alpha Sapphire": "Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pokémon can be seen drying their soaking-wet bodies at the edge of water."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
+            "Shining Pearl": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon lives and nests on a riverbank. After playing in the mud, it won't be able to settle down unless it washes its body.",
+            "Violet": "It is far stronger than it appears. If a Phanpy is swinging its trunk around and your arm gets hit by it, your arm bone will shatter."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Trade , Event",
+            "Silver": "Route 45 *",
+            "Crystal": "Routes 45 and 46 Morning"
+        },
+        "Generation III": {
+            "Ruby": "Safari Zone",
+            "Sapphire": "Safari Zone",
+            "Emerald": "Safari Zone",
+            "FireRed": "Sevault Canyon , Canyon Entrance",
+            "LeafGreen": "Sevault Canyon , Canyon Entrance",
+            "Colosseum": "Trade",
+            "XD": "Oasis Poké Spot"
+        },
+        "Generation IV": {
+            "Diamond": "Route 207 ( Swarm )",
+            "Pearl": "Route 207 ( Swarm )",
+            "Platinum": "Route 207 ( Swarm )",
+            "HeartGold": "Route 45 , Mt. Silver Cave",
+            "SoulSilver": "Trade",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Trade with Curtis in Nimbasa City (female player character only)",
+            "White 2": "Trade with Curtis in Nimbasa City (female player character only)",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Ground )",
+            "Y": "Friend Safari ( Ground )",
+            "Omega Ruby": "Breed Donphan",
+            "Alpha Sapphire": "Breed Donphan"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 207 ( Swarm ) Grand Underground - Rocky Cave , Big Bluff Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 207 ( Swarm ) Grand Underground - Rocky Cave , Big Bluff Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Four West Province: Area One , Area Two , Asado Desert Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Area Four West Province: Area One , Area Two , Asado Desert Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Phanpy",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Phanpy",
+            "to": "Donphan",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

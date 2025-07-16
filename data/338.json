@@ -1,0 +1,110 @@
+{
+    "name": "Solrock",
+    "pokedex_number": "#0338",
+    "types": [
+        "Rock",
+        "Psychic"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 95,
+        "Defense": 85,
+        "Sp. Atk": 55,
+        "Sp. Def": 65,
+        "Speed": 70,
+        "Total": 440
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Solrock is a new species of Pok é mon that is said to have fallen from space. It floats in air and moves silently. In battle, this Pok é mon releases intensely bright light.",
+            "Sapphire": "Sunlight is the source of Solrock 's power. It is said to possess the ability to read the emotions of others. This Pok é mon gives off intense heat while rotating its body.",
+            "Emerald": "Solar energy is the source of this Pok é mon 's power. On sunny days, groups of Solrock line up facing the sun and absorb its light.",
+            "FireRed": "It absorbs solar energy during the day. Always expressionless, it can sense what its foe is thinking.",
+            "LeafGreen": "It absorbs solar energy during the day. Always expressionless, it can sense what its foe is thinking."
+        },
+        "Generation IV": {
+            "Diamond": "A new Pokémon species, rumored to be from the sun. It gives off light while spinning.",
+            "Pearl": "A new Pokémon species, rumored to be from the sun. It gives off light while spinning.",
+            "Platinum": "A new Pokémon species, rumored to be from the sun. It gives off light while spinning.",
+            "HeartGold": "When it rotates itself, it gives off light similar to the sun, thus blinding its foes.",
+            "SoulSilver": "When it rotates itself, it gives off light similar to the sun, thus blinding its foes."
+        },
+        "Generation V": {
+            "Black": "A new Pokémon species, rumored to be from the sun. It gives off light while spinning.",
+            "White": "A new Pokémon species, rumored to be from the sun. It gives off light while spinning.",
+            "Black 2": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
+            "White 2": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines."
+        },
+        "Generation VI": {
+            "X": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
+            "Y": "It absorbs solar energy during the day. Always expressionless, it can sense what its foe is thinking.",
+            "Omega Ruby": "Solrock is a new species of Pokémon that is said to have fallen from space. It floats in air and moves silently. In battle, this Pokémon releases intensely bright light.",
+            "Alpha Sapphire": "Sunlight is the source of Solrock's power. It is said to possess the ability to read the emotions of others. This Pokémon gives off intense heat while rotating its body."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "When it rotates itself, it gives off light similar to the sun, thus blinding its foes.",
+            "Shield": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
+            "Brilliant Diamond": "This new Pokémon species is rumored to be an avatar of the sun. The Pokémon gives off light while spinning.",
+            "Shining Pearl": "This new Pokémon species is rumored to be an avatar of the sun. The Pokémon gives off light while spinning."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Meteor Falls",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Meteor Falls",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Lake Verity , Lake Acuity , Lake Valor , Mt. Coronet , Sendoff Spring , Turnback Cave (Ruby)",
+            "Pearl": "Lake Verity , Lake Acuity , Lake Valor , Mt. Coronet , Sendoff Spring , Turnback Cave (Ruby)",
+            "Platinum": "Lake Verity , Lake Acuity , Lake Valor , Mt. Coronet , Sendoff Spring , Turnback Cave (Ruby)",
+            "HeartGold": "Safari Zone (Wasteland with 42 Peak points)",
+            "SoulSilver": "Safari Zone (Wasteland with 42 Peak points)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Route 13 , Giant Chasm",
+            "White": "Route 13 , Giant Chasm",
+            "Black 2": "Routes 13 and 22 , Giant Chasm",
+            "White 2": "Routes 13 and 22 , Giant Chasm",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Glittering Cave",
+            "Y": "Glittering Cave",
+            "Omega Ruby": "Meteor Falls",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Giant's Cap , Route 8 Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Brilliant Diamond": "Grand Underground - Dazzling Cave , Riverbank Cave , Still-Water Cavern , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

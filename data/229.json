@@ -1,0 +1,136 @@
+{
+    "name": "Houndoom",
+    "pokedex_number": "#0229",
+    "types": [
+        "Dark",
+        "Fire"
+    ],
+    "abilities": [
+        "Early Bird",
+        "Flash Fire",
+        "Unnerve",
+        "Solar Power"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 90,
+        "Defense": 50,
+        "Sp. Atk": 110,
+        "Sp. Def": 80,
+        "Speed": 95,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "If you are burned by the flames it shoots from its mouth, the pain will never go away.",
+            "Silver": "Upon hearing its eerie howls, other Pok é mon get the shivers and head straight back to their nests.",
+            "Crystal": "The pungent-smelling flame that shoots from its mouth results from toxins burning in its body.",
+            "Stadium 2": "If you are burned by the flames it shoots from its mouth, the pain will never go away. (Pokémon Red, Silver, or Crystal inserted) Upon hearing its eerie howls, other Pok é mon get the shivers and head straight back to their nests. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "In a Houndoom pack, the one with its horns raked sharply towards the back serves a leadership role. These Pok é mon choose their leader by fighting amongst themselves.",
+            "Sapphire": "In a Houndoom pack, the one with its horns raked sharply towards the back serves a leadership role. These Pok é mon choose their leader by fighting amongst themselves.",
+            "Emerald": "In a Houndoom pack, the one with its horns raked sharply back serves a leadership role. They choose their leader by fighting among themselves.",
+            "FireRed": "Upon hearing its eerie howls, other Pok é mon get the shivers and head straight back to their nests.",
+            "LeafGreen": "If you are burned by the flames it shoots from its mouth, the pain will never go away."
+        },
+        "Generation IV": {
+            "Diamond": "Long ago, people imagined its eerie howls to be the call of the grim reaper.",
+            "Pearl": "Long ago, people imagined its eerie howls to be the call of the grim reaper.",
+            "Platinum": "The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.",
+            "HeartGold": "If you are burned by the flames it shoots from its mouth, the pain will never go away.",
+            "SoulSilver": "Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests."
+        },
+        "Generation V": {
+            "Black": "The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.",
+            "White": "The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.",
+            "Black 2": "The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.",
+            "White 2": "The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever."
+        },
+        "Generation VI": {
+            "X": "Long ago, people imagined its eerie howls to be the call of the grim reaper.",
+            "Y": "The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.",
+            "Omega Ruby": "In a Houndoom pack, the one with its horns raked sharply toward the back serves a leadership role. These Pokémon choose their leader by fighting among themselves.",
+            "Alpha Sapphire": "In a Houndoom pack, the one with its horns raked sharply toward the back serves a leadership role. These Pokémon choose their leader by fighting among themselves."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Its red claws and the tips of its tail are melting from high internal temperatures that are painful to Houndoom itself.",
+            "Ultra Moon": "Houndoom's entire body generates heat when it Mega Evolves. Its fearsome fiery breath turns its opponents to ash."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Long ago, people imagined its eerie howls to be the call of the grim reaper.",
+            "Shining Pearl": "Long ago, people imagined its eerie howls to be the call of the grim reaper."
+        },
+        "Generation IX": {
+            "Scarlet": "If you are burned by the flames it shoots from its mouth, the pain will never go away.",
+            "Violet": "Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Houndour",
+            "Silver": "Evolve Houndour",
+            "Crystal": "Evolve Houndour"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Evolve Houndour",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Tower Colosseum (Shadow)",
+            "XD": "Evolve Houndour"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Routes 214 and 215 ( Poké Radar )",
+            "Platinum": "Evolve Houndour",
+            "HeartGold": "Safari Zone (Plains with 10 Peak points)",
+            "SoulSilver": "Safari Zone (Plains with 10 Peak points)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Evolve Houndour",
+            "White": "Trade",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Houndour",
+            "Y": "Trade , Event",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 12",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Grand Underground - Spacious Cave , Dazzling Cave , Volcanic Cave , Sandsear Cave , Stargleam Cavern , Typhlo Cavern",
+            "Shining Pearl": "Routes 214 and 215 ( Poké Radar ) Grand Underground - Spacious Cave , Dazzling Cave , Volcanic Cave , Sandsear Cave , Stargleam Cavern , Typhlo Cavern",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Four , Area Six North Province: Area Two Tera Raid Battles ( 5★ )",
+            "Violet": "South Province: Area Four , Area Six North Province: Area Two Tera Raid Battles ( 5★ )",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Oni Mountain , Infernal Pass , Crystal Pool , Chilling Waterhead , Paradise Barrens , Kitakami Wilds"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Houndour",
+            "to": "Houndoom",
+            "method": [
+                "Level 24"
+            ]
+        }
+    ]
+}

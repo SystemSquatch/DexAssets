@@ -1,0 +1,83 @@
+{
+    "name": "Watchog",
+    "pokedex_number": "#0505",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Illuminate",
+        "Keen Eye",
+        "Analytic"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 69,
+        "Sp. Atk": 60,
+        "Sp. Def": 69,
+        "Speed": 77,
+        "Total": 420
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
+            "White": "They make the patterns on their bodies shine in order to threaten predators. Keen eyesight lets them see in the dark.",
+            "Black 2": "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",
+            "White 2": "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents."
+        },
+        "Generation VI": {
+            "X": "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",
+            "Y": "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
+            "Omega Ruby": "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",
+            "Alpha Sapphire": "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 7 and 18 , P2 Laboratory Routes 1 and 15 ( dark grass ) Dreamyard (Ruins; dark grass )",
+            "White": "Routes 7 and 18 , P2 Laboratory Routes 1 and 15 ( dark grass ) Dreamyard (Ruins; dark grass )",
+            "Black 2": "Routes 1 , 2 , 3 , 7 , and 18 , Dreamyard , P2 Laboratory Routes 2 and 7 ( Hidden Grotto )",
+            "White 2": "Routes 1 , 2 , 3 , 7 , and 18 , Dreamyard , P2 Laboratory Routes 2 and 7 ( Hidden Grotto )"
+        },
+        "Generation VI": {
+            "X": "Route 15",
+            "Y": "Route 15",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Patrat",
+            "to": "Watchog",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

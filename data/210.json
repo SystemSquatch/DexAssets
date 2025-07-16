@@ -1,0 +1,137 @@
+{
+    "name": "Granbull",
+    "pokedex_number": "#0210",
+    "types": [
+        "Fairy",
+        "Unknown"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Quick Feet",
+        "Rattled"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 120,
+        "Defense": 75,
+        "Sp. Atk": 60,
+        "Sp. Def": 60,
+        "Speed": 45,
+        "Total": 450
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It is actually timid and easily spooked. If attacked, it flails about to fend off its attacker.",
+            "Silver": "Because its fangs are too heavy, it always keeps its head tilted down. However, its Bite is powerful.",
+            "Crystal": "It can make most any Pok é mon run away simply by opening its mouth wide to reveal its big fangs.",
+            "Stadium 2": "It is actually timid and easily spooked. If attacked, it flails about to fend off its attacker. (Pokémon Red, Silver, or Crystal inserted) Because its fangs are too heavy, it always keeps its head tilted down. However, its BITE is powerful. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Granbull has a particularly well-developed lower jaw. The enormous fangs are heavy, causing the Pok é mon to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
+            "Sapphire": "Granbull has a particularly well-developed lower jaw. The enormous fangs are heavy, causing the Pok é mon to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
+            "Emerald": "It has a particularly well-developed lower jaw. The huge fangs are heavy, causing it to tilt its head. Unless it is startled, it will not try to bite.",
+            "FireRed": "Because its fangs are too heavy, it always keeps its head tilted down. However, its Bite is powerful.",
+            "LeafGreen": "It is actually timid and easily spooked. If attacked, it flails about to fend off its attacker."
+        },
+        "Generation IV": {
+            "Diamond": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
+            "Pearl": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
+            "Platinum": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
+            "HeartGold": "It is actually timid and easily spooked. If attacked, it flails about to fend off its attacker.",
+            "SoulSilver": "Because its fangs are too heavy, it always keeps its head tilted down. However, its bite is powerful."
+        },
+        "Generation V": {
+            "Black": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
+            "White": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
+            "Black 2": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
+            "White 2": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs."
+        },
+        "Generation VI": {
+            "X": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
+            "Y": "It can make most any Pokémon run away simply by opening its mouth wide to reveal its big fangs.",
+            "Omega Ruby": "Granbull has a particularly well-developed lower jaw. The enormous fangs are heavy, causing the Pokémon to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
+            "Alpha Sapphire": "Granbull has a particularly well-developed lower jaw. The enormous fangs are heavy, causing the Pokémon to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately."
+        },
+        "Generation VII": {
+            "Sun": "Its well-developed lower jaw and heavy fangs are its weapons. As long as it's not provoked, it rarely bites.",
+            "Moon": "More timid than Snubbull, this Pokémon is doted on by young people amused at the contrast between its looks and its attitude.",
+            "Ultra Sun": "While it has powerful jaws, it doesn't care for disputes, so it rarely has a chance to display their might.",
+            "Ultra Moon": "Although it's popular with young people, Granbull is timid and sensitive, so it's totally incompetent as a watchdog."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
+            "Shining Pearl": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs."
+        },
+        "Generation IX": {
+            "Scarlet": "It is actually timid and easily spooked. If attacked, it desperately flails its limbs about in an attempt to repel its opponent.",
+            "Violet": "It can make most any Pokémon run away by opening its big mouth to reveal its thick fangs."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Snubbull",
+            "Silver": "Evolve Snubbull",
+            "Crystal": "Route 6 Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Evolve Snubbull",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Shadow PKMN Lab (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Snubbull",
+            "Pearl": "Evolve Snubbull",
+            "Platinum": "Evolve Snubbull",
+            "HeartGold": "Evolve Snubbull",
+            "SoulSilver": "Evolve Snubbull",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Route 2 ( Hidden Grotto )",
+            "White 2": "Route 2 ( Hidden Grotto )"
+        },
+        "Generation VI": {
+            "X": "Evolve Snubbull",
+            "Y": "Evolve Snubbull",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Ancient Poni Path , Poni Gauntlet , Poni Grove , Poni Wilds",
+            "Moon": "Ancient Poni Path , Poni Gauntlet , Poni Grove , Poni Wilds",
+            "Ultra Sun": "Ancient Poni Path , Poni Gauntlet , Poni Wilds",
+            "Ultra Moon": "Ancient Poni Path , Poni Gauntlet , Poni Wilds",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Snubbull",
+            "Shining Pearl": "Evolve Snubbull",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Chargestone Cavern , Polar Biome Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Snubbull",
+            "to": "Granbull",
+            "method": [
+                "Level 23"
+            ]
+        }
+    ]
+}

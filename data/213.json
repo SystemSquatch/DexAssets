@@ -1,0 +1,124 @@
+{
+    "name": "Shuckle",
+    "pokedex_number": "#0213",
+    "types": [
+        "Bug",
+        "Rock"
+    ],
+    "abilities": [
+        "Sturdy",
+        "Gluttony",
+        "Contrary"
+    ],
+    "stats": {
+        "HP": 20,
+        "Attack": 10,
+        "Defense": 230,
+        "Sp. Atk": 10,
+        "Sp. Def": 230,
+        "Speed": 5,
+        "Total": 505
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "The Berries it stores in its vase-like shell decompose and become a gooey liquid.",
+            "Silver": "It stores Berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+            "Crystal": "The fluid secreted by its toes carves holes in rocks for nesting and can be mixed with Berries to make a drink.",
+            "Stadium 2": "The Berries it stores in its vase like shell decompose and become a gooey liquid. (Pokémon Red, Silver, or Crystal inserted) It stores Berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
+            "Sapphire": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
+            "Emerald": "A Shuckle hides under rocks, keeping its body concealed inside its shell while eating stored berries. The berries mix with its body fluids to become a juice.",
+            "FireRed": "It stores Berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+            "LeafGreen": "The Berries it stores in its vaselike shell decompose and become a gooey liquid."
+        },
+        "Generation IV": {
+            "Diamond": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
+            "Pearl": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
+            "Platinum": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
+            "HeartGold": "The berries it stores in its vase-like shell decompose and become a gooey liquid.",
+            "SoulSilver": "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still."
+        },
+        "Generation V": {
+            "Black": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
+            "White": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
+            "Black 2": "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
+            "White 2": "The berries stored in its vaselike shell eventually become a thick, pulpy juice."
+        },
+        "Generation VI": {
+            "X": "The berries stored in its jar-like shell eventually become a thick, pulpy juice.",
+            "Y": "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+            "Omega Ruby": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
+            "Alpha Sapphire": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+            "Shield": "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
+            "Brilliant Diamond": "It stores berries in its shell. The berries mix with its body fluids to become delicious juices.",
+            "Shining Pearl": "It stores berries in its shell. The berries mix with its body fluids to become delicious juices."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Received from a PokéManiac in Cianwood City Route 40 , Cianwood City , Dark Cave ( Rock Smash )",
+            "Silver": "Received from a PokéManiac in Cianwood City Route 40 , Cianwood City , Dark Cave ( Rock Smash )",
+            "Crystal": "Received from a PokéManiac in Cianwood City Route 40 , Cianwood City , Dark Cave ( Rock Smash )"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Safari Zone extension ( Rock Smash )",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Deep Colosseum (Shadow)",
+            "XD": "Trade Surskit to Duking in Pyrite Town"
+        },
+        "Generation IV": {
+            "Diamond": "Route 224 (Emerald)",
+            "Pearl": "Route 224 (Emerald)",
+            "Platinum": "Route 224 (Emerald)",
+            "HeartGold": "Received from a PokéManiac in Cianwood City Safari Zone (tall grass in Marshland with 8 Peak points) Cianwood City , Vermilion City ( Rock Smash )",
+            "SoulSilver": "Received from a PokéManiac in Cianwood City Safari Zone (tall grass in Marshland with 8 Peak points) Cianwood City , Vermilion City ( Rock Smash )",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Route 14",
+            "White": "Route 14",
+            "Black 2": "Seaside Cave Transfer from Dream Radar",
+            "White 2": "Seaside Cave Transfer from Dream Radar",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Route 18 , Terminus Cave , Victory Road ( Rock Smash ) Friend Safari ( Rock )",
+            "Y": "Route 18 , Terminus Cave , Victory Road ( Rock Smash ) Friend Safari ( Rock )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Dusty Bowl , Galar Mine No. 2 , Giant's Cap , Stony Wilderness , Watchtower Ruins Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Dusty Bowl , Galar Mine No. 2 , Giant's Cap , Stony Wilderness , Watchtower Ruins Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Ballimere Lake Fields of Honor , Forest of Focus , Training Lowlands , Potbottom Desert , Workout Sea , Slippery Slope , Giant's Bed , Snowslide Slope , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Grand Underground - Grassland Cave , Rocky Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern , Big Bluff Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Grand Underground - Grassland Cave , Rocky Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern , Big Bluff Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

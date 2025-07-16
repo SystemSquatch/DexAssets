@@ -1,0 +1,141 @@
+{
+    "name": "Sentret",
+    "pokedex_number": "#0161",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Run Away",
+        "Keen Eye",
+        "Frisk"
+    ],
+    "stats": {
+        "HP": 35,
+        "Attack": 46,
+        "Defense": 34,
+        "Sp. Atk": 35,
+        "Sp. Def": 45,
+        "Speed": 20,
+        "Total": 215
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "A very cautious Pok é mon , it raises itself up using its tail to get a better view of its surroundings.",
+            "Silver": "It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind.",
+            "Crystal": "When acting as a lookout, it warns others of danger by screeching and hitting the ground with its tail.",
+            "Stadium 2": "A very cautious Pok é mon , it raises itself up using its tail to get a better view of its surroundings. (Pokémon Red, Silver, or Crystal inserted) It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pok é mon becomes separated from its pack, it becomes incapable of sleep due to fear.",
+            "Sapphire": "When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pok é mon becomes separated from its pack, it becomes incapable of sleep due to fear.",
+            "Emerald": "They take turns standing guard when it is time to sleep. The sentry awakens the others if it senses danger. If one becomes separated, it turns sleepless with fear.",
+            "FireRed": "It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind.",
+            "LeafGreen": "A very cautious Pok é mon , it raises itself up using its tail to get a better view of its surroundings."
+        },
+        "Generation IV": {
+            "Diamond": "It has a very nervous nature. It stands up high on its tail so it can scan wide areas.",
+            "Pearl": "It has a very nervous nature. It stands up high on its tail so it can scan wide areas.",
+            "Platinum": "It has a very nervous nature. It stands up high on its tail so it can scan wide areas.",
+            "HeartGold": "A very cautious Pokémon, it raises itself up using its tail to get a better view of its surroundings.",
+            "SoulSilver": "It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind."
+        },
+        "Generation V": {
+            "Black": "It has a very nervous nature. It stands up high on its tail so it can scan wide areas.",
+            "White": "It has a very nervous nature. It stands up high on its tail so it can scan wide areas.",
+            "Black 2": "It has a very nervous nature. It stands up high on its tail so it can scan wide areas.",
+            "White 2": "It has a very nervous nature. It stands up high on its tail so it can scan wide areas."
+        },
+        "Generation VI": {
+            "X": "When acting as a lookout, it warns others of danger by screeching and hitting the ground with its tail.",
+            "Y": "It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind.",
+            "Omega Ruby": "When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokémon becomes separated from its pack, it becomes incapable of sleep due to fear.",
+            "Alpha Sapphire": "When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokémon becomes separated from its pack, it becomes incapable of sleep due to fear."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It has a very nervous nature. It stands up high on its tail so it can scan wide areas.",
+            "Shining Pearl": "It has a very nervous nature. It stands up high on its tail so it can scan wide areas."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon is extremely cautious. Its supple tail is well muscled and firm to the touch.",
+            "Violet": "If it encounters a foe, it will stand up on its tail, making itself look bigger than usual to intimidate them."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 1 and 29 Morning Day",
+            "Silver": "Routes 1 and 29 Morning Day",
+            "Crystal": "Routes 1 , 29 , and 43 Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Canyon Entrance , Five Isle Meadow , Water Path",
+            "LeafGreen": "Canyon Entrance , Five Isle Meadow , Water Path",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 202 ( Poké Radar )",
+            "Pearl": "Route 202 ( Poké Radar )",
+            "Platinum": "Route 202 ( Poké Radar )",
+            "HeartGold": "Routes 1 and 29 Safari Zone (tall grass in Swamp, default; tall grass in Wetland, default Morning Day )",
+            "SoulSilver": "Routes 1 and 29 Safari Zone (tall grass in Swamp, default; tall grass in Wetland, default Morning Day )",
+            "Pal Park": "Field",
+            "Pokéwalker": "Refreshing Field"
+        },
+        "Generation V": {
+            "Black": "Route 7 ( Swarm )",
+            "White": "Route 7 ( Swarm )",
+            "Black 2": "Breed Furret",
+            "White 2": "Breed Furret",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Route 6",
+            "Y": "Route 6",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 202 ( Poké Radar ) Grand Underground - Spacious Cave , Rocky Cave , Volcanic Cave , Whiteout Cave , Big Bluff Cavern , Typhlo Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 202 ( Poké Radar ) Grand Underground - Spacious Cave , Rocky Cave , Volcanic Cave , Whiteout Cave , Big Bluff Cavern , Typhlo Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Apple Hills , Loyalty Plaza , Reveler's Road , Kitakami Hall , Mossfell Confluence Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Sentret",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Sentret",
+            "to": "Furret",
+            "method": [
+                "Level 15"
+            ]
+        }
+    ]
+}

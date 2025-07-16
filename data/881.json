@@ -1,0 +1,46 @@
+{
+    "name": "Arctozolt",
+    "pokedex_number": "#0881",
+    "types": [
+        "Electric",
+        "Ice"
+    ],
+    "abilities": [
+        "Volt Absorb",
+        "Static",
+        "Slush Rush"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 90,
+        "Sp. Atk": 90,
+        "Sp. Def": 80,
+        "Speed": 55,
+        "Total": 505
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.",
+            "Shield": "This Pokémon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Revive from Fossilized Bird and Fossilized Dino by Cara Liss on Route 6",
+            "Shield": "Revive from Fossilized Bird and Fossilized Dino by Cara Liss on Route 6",
+            "Expansion Pass": "Snowslide Slope ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

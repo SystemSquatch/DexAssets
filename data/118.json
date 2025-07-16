@@ -1,0 +1,158 @@
+{
+    "name": "Goldeen",
+    "pokedex_number": "#0118",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Water Veil",
+        "Lightning Rod"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 67,
+        "Defense": 60,
+        "Sp. Atk": 35,
+        "Sp. Def": 50,
+        "Speed": 63,
+        "Total": 320
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
+            "Yellow": "When it is time for them to lay eggs, they can be seen swimming up rivers and falls in large groups.",
+            "Stadium": "Its beautiful tail fin billows and flutters like an elegant dress. Swims at a speed of five knots."
+        },
+        "Generation II": {
+            "Gold": "Its dorsal, pectoral and tail fins wave elegantly in water. That is why it is known as the water dancer.",
+            "Silver": "A strong swimmer, it is capable of swimming nonstop up fast streams at a steady speed of five knots.",
+            "Crystal": "During spawning season, they swim gracefully in the water, searching for their perfect mate.",
+            "Stadium 2": "Its dorsal, pectoral and tail fins wave elegantly in water. That is why it is known as the water dancer. (Pokémon Red, Silver, or Crystal inserted) A strong swimmer, it is capable of swimming nonstop up fast streams at a steady speed of five knots. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Goldeen is a very beautiful Pok é mon with fins that billow elegantly in water. However, don't let your guard down around this Pok é mon - it could ram you powerfully with its horn.",
+            "Sapphire": "Goldeen loves swimming wild and free in rivers and ponds. If one of these Pok é mon is placed in an aquarium, it will shatter even the thickest glass with one ram of its horn and make its escape.",
+            "Emerald": "In the springtime, schools of Goldeen can be seen swimming up falls and rivers. It metes out staggering damage with its single horn.",
+            "FireRed": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
+            "LeafGreen": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of “The Water Queen.”"
+        },
+        "Generation IV": {
+            "Diamond": "It swims elegantly by flittering its tail fin as if it were a dress. It has the look of a queen.",
+            "Pearl": "It swims at a steady 5 knots. If it senses danger, it will strike back with its sharp horn.",
+            "Platinum": "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.",
+            "HeartGold": "Its dorsal, pectoral and tail fins wave elegantly in water. That is why it is known as the water dancer.",
+            "SoulSilver": "A strong swimmer, it is capable of swimming nonstop up fast streams at a steady speed of five knots per hour."
+        },
+        "Generation V": {
+            "Black": "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.",
+            "White": "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.",
+            "Black 2": "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.",
+            "White 2": "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn."
+        },
+        "Generation VI": {
+            "X": "It swims at a steady 5 knots. If it senses danger, it will strike back with its sharp horn.",
+            "Y": "Its dorsal, pectoral, and tail fins wave elegantly in water. That is why it is known as the water dancer.",
+            "Omega Ruby": "Goldeen is a very beautiful Pokémon with fins that billow elegantly in water. However, don't let your guard down around this Pokémon—it could ram you powerfully with its horn.",
+            "Alpha Sapphire": "Goldeen loves swimming wild and free in rivers and ponds. If one of these Pokémon is placed in an aquarium, it will shatter even the thickest glass with one ram of its horn and make its escape."
+        },
+        "Generation VII": {
+            "Sun": "When the weather grows warm, they form groups and swim upriver. This sight serves as a poetic reminder that spring has arrived.",
+            "Moon": "Spellbound by the length of its horn and the beauty of its fins, many strange Trainers raise Goldeen and nothing but Goldeen.",
+            "Ultra Sun": "Although known for their splendid tail fins, Goldeen apparently compete among themselves to see whose horn is thickest and sharpest.",
+            "Ultra Moon": "The way it swims along fluttering its dress-like fins has earned it the name \"princess of the water.\"",
+            "Let's Go Pikachu": "When it is time for them to lay eggs, they can be seen swimming up rivers and falls in large groups.",
+            "Let's Go Eevee": "When it is time for them to lay eggs, they can be seen swimming up rivers and falls in large groups."
+        },
+        "Generation VIII": {
+            "Sword": "Its dorsal, pectoral, and tail fins wave elegantly in water. That is why it is known as the Water Dancer.",
+            "Shield": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
+            "Brilliant Diamond": "It swims elegantly by flittering its tail fin as if it were a dress. It has the look of a queen.",
+            "Shining Pearl": "It swims at a steady five knots. If it senses danger, it will strike back with its sharp horn."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 6 , 10 , 11 , 12 , 13 , 17 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , and 25 , Pallet Town , Viridian City , Cerulean City , Vermilion City , Celadon City , Fuchsia City , Safari Zone , Seafoam Islands , Cinnabar Island , Indigo Plateau , Cerulean Cave ( Good Rod ) Routes 12 , 13 , 17 , 18 , 19 , 20 , 21 , 22 , 24 , and 25 , Cerulean City , Fuchsia City , Seafoam Islands , Cinnabar Island ( Super Rod )",
+            "Blue": "Routes 6 , 10 , 11 , 12 , 13 , 17 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , and 25 , Pallet Town , Viridian City , Cerulean City , Vermilion City , Celadon City , Fuchsia City , Safari Zone , Seafoam Islands , Cinnabar Island , Indigo Plateau , Cerulean Cave ( Good Rod ) Routes 12 , 13 , 17 , 18 , 19 , 20 , 21 , 22 , 24 , and 25 , Cerulean City , Fuchsia City , Seafoam Islands , Cinnabar Island ( Super Rod )",
+            "Blue (Japan)": "Routes 6 , 10 , 11 , 12 , 13 , 17 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , and 25 , Pallet Town , Viridian City , Cerulean City , Vermilion City , Celadon City , Fuchsia City , Safari Zone , Seafoam Islands , Cinnabar Island , Indigo Plateau ( Good Rod ) Routes 12 , 13 , 17 , 18 , 19 , 20 , 21 , 22 , 24 , and 25 , Cerulean City , Fuchsia City , Seafoam Islands , Cinnabar Island ( Super Rod )",
+            "Yellow": "Routes 6 , 10 , 11 , 12 , 13 , 17 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , and 25 , Pallet Town , Viridian City , Cerulean City , Vermilion City , Celadon City , Fuchsia City , Safari Zone , Seafoam Islands , Cinnabar Island , Indigo Plateau , Cerulean Cave ( Good Rod ) Routes 6 and 24 , Cerulean City , Celadon City , Cerulean Cave ( Super Rod )"
+        },
+        "Generation II": {
+            "Gold": "Dark Cave , Union Cave 1F/B1F, Slowpoke Well ( fishing ) Routes 4 , 9 , 10 , 24 , 25 , and 42 , Mt. Mortar , Tohjo Falls , Mt. Silver Cave , Cerulean City ( Surfing and fishing )",
+            "Silver": "Dark Cave , Union Cave 1F/B1F, Slowpoke Well ( fishing ) Routes 4 , 9 , 10 , 24 , 25 , and 42 , Mt. Mortar , Tohjo Falls , Mt. Silver Cave , Cerulean City ( Surfing and fishing )",
+            "Crystal": "Route 4 ( Surfing ) Dark Cave , Union Cave 1F/B1F, Slowpoke Well ( fishing ) Routes 9 , 10 , 24 , 25 , and 42 , Mt. Mortar , Tohjo Falls , Mt. Silver Cave , Cerulean City ( Surfing and fishing )"
+        },
+        "Generation III": {
+            "Ruby": "Routes 102 , 111 , 114 , 117 , and 120 , Petalburg City , Meteor Falls , Victory Road ( Old Rod and Good Rod ) Safari Zone ( fishing )",
+            "Sapphire": "Routes 102 , 111 , 114 , 117 , and 120 , Petalburg City , Meteor Falls , Victory Road ( Old Rod and Good Rod ) Safari Zone ( fishing )",
+            "Emerald": "Routes 102 , 111 , 114 , 117 , and 120 ( Surfing , Old Rod and Good Rod ) Petalburg City , Meteor Falls , Victory Road ( Old Rod and Good Rod ) Safari Zone ( fishing )",
+            "FireRed": "Routes 6 , 22 , 23 , 25 , Ruin Valley , Cape Brink , Viridian City , Four Island , Cerulean Cave , Icefall Cave ( Good Rod ) Fuchsia City , Berry Forest , Safari Zone ( Good Rod and Super Rod )",
+            "LeafGreen": "Routes 6 , 22 , 23 , 25 , Ruin Valley , Cape Brink , Viridian City , Four Island , Cerulean Cave , Icefall Cave ( Good Rod ) Fuchsia City , Berry Forest , Safari Zone ( Good Rod and Super Rod )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 203 , 204 , 209 , 212 , and 214 , Lake Acuity , Lake Verity , Twinleaf Town , Lake Valor , Resort Area , Sendoff Spring ( Good Rod )",
+            "Pearl": "Routes 203 , 204 , 209 , 212 , and 214 , Lake Acuity , Lake Verity , Twinleaf Town , Lake Valor , Resort Area , Sendoff Spring ( Good Rod )",
+            "Platinum": "Routes 203 , 204 , 208 , 209 , 212 , 214 , and 229 , Lake Acuity , Celestic Town , Lake Verity , Twinleaf Town , Lake Valor , Sendoff Spring ( Good Rod )",
+            "HeartGold": "Routes 4 , 9 , 10 , 24 , 25 , 42 , Slowpoke Well , Union Cave , Mt. Mortar , Mt. Silver Cave , Dark Cave , Cerulean City , Cerulean Cave , Tohjo Falls Safari Zone ( Surfing and Good Rod in Swamp, default; Old Rod in Swamp, default, and with 2 Waterside points; fishing in Rocky Beach, default)",
+            "SoulSilver": "Routes 4 , 9 , 10 , 24 , 25 , 42 , Slowpoke Well , Union Cave , Mt. Mortar , Mt. Silver Cave , Dark Cave , Cerulean City , Cerulean Cave , Tohjo Falls Safari Zone ( Surfing and Good Rod in Swamp, default; Old Rod in Swamp, default, and with 2 Waterside points; fishing in Rocky Beach, default)",
+            "Pal Park": "Pond",
+            "Pokéwalker": "Blue Lake , Warm Beach"
+        },
+        "Generation V": {
+            "Black": "Routes 3 , 11 , and 14 , Striaton City , Pinwheel Forest interior, Lostlorn Forest , Abundant Shrine ( fishing )",
+            "White": "Routes 3 , 11 , and 14 , Striaton City , Pinwheel Forest interior, Lostlorn Forest , Abundant Shrine ( fishing )",
+            "Black 2": "Routes 3 , 11 , 14 , and 22 , Pinwheel Forest , Abundant Shrine , Aspertia City , Striaton City ( fishing )",
+            "White 2": "Routes 3 , 11 , 14 , and 22 , Pinwheel Forest , Abundant Shrine , Aspertia City , Striaton City ( fishing )",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Routes 3 , 22 , Parfum Palace ( Good Rod )",
+            "Y": "Routes 3 , 22 , Parfum Palace ( Good Rod )",
+            "Omega Ruby": "Routes 102 , 111 , 114 , 117 , 120 , 123 , Petalburg City , Meteor Falls , Scorched Slab , Safari Zone , Victory Road ( Old Rod and Good Rod )",
+            "Alpha Sapphire": "Routes 102 , 111 , 114 , 117 , 120 , 123 , Petalburg City , Meteor Falls , Scorched Slab , Safari Zone , Victory Road ( Old Rod and Good Rod )"
+        },
+        "Generation VII": {
+            "Sun": "Brooklet Hill , Malie Garden ( fishing )",
+            "Moon": "Brooklet Hill , Malie Garden ( fishing )",
+            "Ultra Sun": "Brooklet Hill , Malie Garden ( fishing )",
+            "Ultra Moon": "Brooklet Hill , Malie Garden ( fishing )",
+            "Let's Go Pikachu": "Route 6 ( Sea Skim )",
+            "Let's Go Eevee": "Route 6 ( Sea Skim )"
+        },
+        "Generation VIII": {
+            "Sword": "Routes 4 , 5 , 6 , West Lake Axewell , East Lake Axewell , North Lake Miloch , South Lake Miloch , Bridge Field , Giant's Cap",
+            "Shield": "Routes 4 , 5 , 6 , West Lake Axewell , East Lake Axewell , North Lake Miloch , South Lake Miloch , Bridge Field , Giant's Cap",
+            "Expansion Pass": "Forest of Focus",
+            "Brilliant Diamond": "Routes 203 , 204 , 209 , 212 , and 214 , Lake Acuity , Lake Verity , Twinleaf Town , Lake Valor , Resort Area , Sendoff Spring ( Good Rod )",
+            "Shining Pearl": "Routes 203 , 204 , 209 , 212 , and 214 , Lake Acuity , Lake Verity , Twinleaf Town , Lake Valor , Resort Area , Sendoff Spring ( Good Rod )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Goldeen",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Goldeen",
+            "to": "Seaking",
+            "method": [
+                "Level 33"
+            ]
+        }
+    ]
+}

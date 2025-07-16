@@ -1,0 +1,155 @@
+{
+    "name": "Wartortle",
+    "pokedex_number": "#0008",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Rain Dish"
+    ],
+    "stats": {
+        "HP": 59,
+        "Attack": 63,
+        "Defense": 80,
+        "Sp. Atk": 65,
+        "Sp. Def": 80,
+        "Speed": 58,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
+            "Yellow": "When tapped, this Pok é mon will pull in its head, but its tail will still stick out a little bit.",
+            "Stadium": "The tail is covered with a rich fur. It stores air in the fur before taking extended dives underwater."
+        },
+        "Generation II": {
+            "Gold": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+            "Silver": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
+            "Crystal": "Its long, furry tail is a symbol of longevity, making it quite popular among older people.",
+            "Stadium 2": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old. (Pokémon Red, Silver, or Crystal inserted) It cleverly controls its furry ears and tail to maintain its balance while swimming. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pok é mon 's toughness as a battler.",
+            "Sapphire": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pok é mon 's toughness as a battler.",
+            "Emerald": "Its large tail is covered with rich, thick fur that deepens in color with age. The scratches on its shell are evidence of this Pok é mon 's toughness in battle.",
+            "FireRed": "This Pok é mon is very popular as a pet. Its fur-covered tail is a symbol of its longevity.",
+            "LeafGreen": "It often hides in water to stalk unwary prey. For fast swimming, it moves its ears to maintain balance."
+        },
+        "Generation IV": {
+            "Diamond": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+            "Pearl": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+            "Platinum": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+            "HeartGold": "It is a well-established symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+            "SoulSilver": "It cleverly controls its furry ears and tail to maintain its balance while swimming."
+        },
+        "Generation V": {
+            "Black": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+            "White": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+            "Black 2": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+            "White 2": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity."
+        },
+        "Generation VI": {
+            "X": "When tapped, this Pokémon will pull in its head, but its tail will still stick out a little bit.",
+            "Y": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+            "Omega Ruby": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
+            "Alpha Sapphire": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "When tapped on its head, this Pokémon will pull it in, but its tail will still stick out a little bit.",
+            "Let's Go Eevee": "When tapped on its head, this Pokémon will pull it in, but its tail will still stick out a little bit."
+        },
+        "Generation VIII": {
+            "Sword": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+            "Shield": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
+            "Brilliant Diamond": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+            "Shining Pearl": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity."
+        },
+        "Generation IX": {
+            "Scarlet": "Wartortle’s long, furry tail is a symbol of longevity, so this Pokémon is quite popular among older people.",
+            "Violet": "It often hides in water to stalk unwary prey. While swimming quickly, it moves its ears to maintain balance."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Squirtle",
+            "Blue": "Evolve Squirtle",
+            "Blue (Japan)": "Evolve Squirtle",
+            "Yellow": "Evolve Squirtle"
+        },
+        "Generation II": {
+            "Gold": "Time Capsule , Evolve Event Squirtle",
+            "Silver": "Time Capsule , Evolve Event Squirtle",
+            "Crystal": "Time Capsule , Evolve Event Squirtle"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Evolve Event Squirtle",
+            "Sapphire": "Trade , Evolve Event Squirtle",
+            "Emerald": "Trade , Evolve Event Squirtle",
+            "FireRed": "Evolve Squirtle",
+            "LeafGreen": "Evolve Squirtle",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Squirtle",
+            "SoulSilver": "Evolve Squirtle",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer , Evolve Event Squirtle",
+            "White": "Poké Transfer , Evolve Event Squirtle",
+            "Black 2": "Poké Transfer , Evolve Event Squirtle",
+            "White 2": "Poké Transfer , Evolve Event Squirtle"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Water )",
+            "Y": "Friend Safari ( Water )",
+            "Omega Ruby": "Trade , Evolve Event Squirtle",
+            "Alpha Sapphire": "Trade , Evolve Event Squirtle"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Squirtle",
+            "Ultra Moon": "Evolve Squirtle",
+            "Let's Go Pikachu": "Evolve Squirtle",
+            "Let's Go Eevee": "Evolve Squirtle"
+        },
+        "Generation VIII": {
+            "Sword": "Wild Area News Trade Version 1.2.0+",
+            "Shield": "Wild Area News Trade Version 1.2.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Squirtle",
+            "Shining Pearl": "Evolve Squirtle",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Squirtle"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Squirtle",
+            "to": "Wartortle",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Wartortle",
+            "to": "Blastoise",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

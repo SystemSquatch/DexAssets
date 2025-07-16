@@ -1,0 +1,107 @@
+{
+    "name": "Skuntank",
+    "pokedex_number": "#0435",
+    "types": [
+        "Poison",
+        "Dark"
+    ],
+    "abilities": [
+        "Stench",
+        "Aftermath",
+        "Keen Eye"
+    ],
+    "stats": {
+        "HP": 103,
+        "Attack": 93,
+        "Defense": 67,
+        "Sp. Atk": 71,
+        "Sp. Def": 61,
+        "Speed": 84,
+        "Total": 479
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet .",
+            "Pearl": "It sprays a stinky fluid from its tail. The fluid smells worse the longer it is allowed to fester.",
+            "Platinum": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
+            "HeartGold": "It attacks by spraying a repugnant fluid from its tail, but the stench dulls after a few squirts.",
+            "SoulSilver": "It attacks by spraying a repugnant fluid from its tail, but the stench dulls after a few squirts."
+        },
+        "Generation V": {
+            "Black": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
+            "White": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
+            "Black 2": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
+            "White 2": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it."
+        },
+        "Generation VI": {
+            "X": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet .",
+            "Y": "It sprays a stinky fluid from its tail. The fluid smells worse the longer it is allowed to fester.",
+            "Omega Ruby": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet .",
+            "Alpha Sapphire": "It sprays a stinky fluid from its tail. The fluid smells worse the longer it is allowed to fester."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "In its belly, it reserves stinky fluid that it shoots from its tail during battle. As this Pokémon's diet varies, so does the stench of its fluid.",
+            "Shield": "It digs holes in the ground to make its nest. The stench of the fluid it lets fly from the tip of its tail is extremely potent.",
+            "Brilliant Diamond": "It sprays a vile-smelling fluid from the tip of its tail to attack. It can fire this spray more than 160 feet .",
+            "Shining Pearl": "It sprays a stinky fluid from its tail. The fluid smells worse the longer it is allowed to fester in its belly.",
+            "Legends: Arceus": "Sprays a poisonous fluid to take down prey. Sometimes, unable to stomach the stench of its own fluid, it leaves the bested prey uneaten."
+        },
+        "Generation IX": {
+            "Scarlet": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
+            "Violet": "It attacks by spraying a repugnant fluid from its tail, but the stench dulls after a few squirts."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 221 and 225",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Trade",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Evolve Stunky",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Stunky",
+            "Y": "Evolve Stunky",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Dusty Bowl , Lake of Outrage , North Lake Miloch , South Lake Miloch East Lake Axewell , Giant's Cap , Motostoke Riverbank , North Lake Miloch , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Dusty Bowl , Lake of Outrage , North Lake Miloch , South Lake Miloch East Lake Axewell , Giant's Cap , Motostoke Riverbank , North Lake Miloch , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Routes 221 and 225 Grand Underground - Grassland Cave , Spacious Cave , Riverbank Cave , Sunlit Cavern , Still-Water Cavern (After obtaining TM96 ( Strength ))",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Crimson Mirelands : Scarlet Bog (additional ), massive mass outbreaks Cobalt Coastlands : Space-time distortions Coronet Highlands : near Ancient Quarry , near Celestica Trail , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Casseroya Lake Tera Raid Battles ( 4★ )",
+            "Violet": "Union Circle Tera Raid Battle Search ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Stunky",
+            "to": "Skuntank",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

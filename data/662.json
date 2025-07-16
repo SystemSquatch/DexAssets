@@ -1,0 +1,90 @@
+{
+    "name": "Fletchinder",
+    "pokedex_number": "#0662",
+    "types": [
+        "Fire",
+        "Flying"
+    ],
+    "abilities": [
+        "Flame Body",
+        "Gale Wings"
+    ],
+    "stats": {
+        "HP": 62,
+        "Attack": 73,
+        "Defense": 55,
+        "Sp. Atk": 56,
+        "Sp. Def": 52,
+        "Speed": 84,
+        "Total": 382
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "From its beak, it expels embers that set the tall grass on fire. Then it pounces on the bewildered prey that pop out of the grass.",
+            "Y": "The hotter the flame sac on its belly, the faster it can fly, but it takes some time to get the fire going.",
+            "Omega Ruby": "From its beak, it expels embers that set the tall grass on fire. Then it pounces on the bewildered prey that pop out of the grass.",
+            "Alpha Sapphire": "The hotter the flame sac on its belly, the faster it can fly, but it takes some time to get the fire going."
+        },
+        "Generation VII": {
+            "Sun": "From its beak, it fires embers at its prey. Once it has caught them, it grills them at high heat before feasting upon them.",
+            "Moon": "It will not tolerate other Fletchinder entering its territory, which has a radius of several miles.",
+            "Ultra Sun": "It scatters embers in the tall grass. Then bug Pokémon, frightened by the flames, come flying out, and Fletchinder gobbles them up.",
+            "Ultra Moon": "Its speed right after takeoff already puts it in the top speed class of all bird Pokémon."
+        },
+        "Generation VIII": {
+            "Sword": "Fletchinder launches embers into the den of its prey. When the prey comes leaping out, Fletchinder's sharp talons finish it off.",
+            "Shield": "Fletchinder are exceedingly territorial and aggressive. These Pokémon fight among themselves over feeding grounds."
+        },
+        "Generation IX": {
+            "Scarlet": "Fletchinder scatters embers in tall grass where bug Pokémon might be hiding and then catches them as they come leaping out.",
+            "Violet": "Its territory has a radius of just over a mile. If any bird Pokémon should enter, it will show them no mercy."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Friend Safari ( Fire and Flying )",
+            "Y": "Friend Safari ( Fire and Flying )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Route 8",
+            "Moon": "Route 8",
+            "Ultra Sun": "Route 8 , Wela Volcano Park ( SOS Battle )",
+            "Ultra Moon": "Route 8 , Wela Volcano Park ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Workout Sea , Loop Lagoon , Stepping-Stone Sea , Insular Sea , Honeycalm Island , Honeycalm Sea Fields of Honor , Soothing Wetlands , Training Lowlands ( Wanderer ) Fields of Honor , Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Three , Area Four , Area Five East Province: Area One West Province: Area One , Area Three Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area One , Area Three , Area Four , Area Five East Province: Area One West Province: Area One , Area Three Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth , Canyon Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Fletchling",
+            "to": "Fletchinder",
+            "method": [
+                "Level 17"
+            ]
+        },
+        {
+            "from": "Fletchinder",
+            "to": "Talonflame",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

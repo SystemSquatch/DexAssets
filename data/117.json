@@ -1,0 +1,156 @@
+{
+    "name": "Seadra",
+    "pokedex_number": "#0117",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Poison Point",
+        "Sniper",
+        "Damp"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 65,
+        "Defense": 95,
+        "Sp. Atk": 95,
+        "Sp. Def": 45,
+        "Speed": 85,
+        "Total": 440
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Capable of swimming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Capable of swimming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+            "Yellow": "Touching the back fin causes numbness. It hooks its tail to coral to stay in place while sleeping.",
+            "Stadium": "A clever Pokémon that can swim backwards while facing forward. Fainting may result from a jab of its sharp spikes."
+        },
+        "Generation II": {
+            "Gold": "An examination of its cells revealed the presence of a gene not found in Horsea . It became a hot topic.",
+            "Silver": "Its fin-tips leak poison. Its fins and bones are highly valued as ingredients in herbal medicine.",
+            "Crystal": "The male raises the young. If it is approached, it uses its toxic spikes to fend off the intruder.",
+            "Stadium 2": "An examination of its cells revealed the presence of a gene not found in Horsea . It became a hot topic. (Pokémon Red, Silver, or Crystal inserted) Its fin-tips leak poison. Its fins and bones are highly valued as ingredients in herbal medicine. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pok é mon 's poison barbs if they fail to notice it.",
+            "Sapphire": "Seadra generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This Pok é mon weakens prey with these currents, then swallows it whole.",
+            "Emerald": "The poisonous barbs all over its body are highly valued as ingredients for making traditional herbal medicine. It shows no mercy to anything approaching its nest.",
+            "FireRed": "Its body bristles with sharp spikes. Carelessly trying to touch it could cause fainting from the spikes.",
+            "LeafGreen": "It is capable of swimming backwards by rapidly flapping its winglike pectoral fins and stout tail."
+        },
+        "Generation IV": {
+            "Diamond": "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.",
+            "Pearl": "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.",
+            "Platinum": "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.",
+            "HeartGold": "An examination of its cells revealed the presence of a gene not found in Horsea . It became a hot topic.",
+            "SoulSilver": "Its fin-tips leak poison. Its fins and bones are highly valued as ingredients in herbal medicine."
+        },
+        "Generation V": {
+            "Black": "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.",
+            "White": "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.",
+            "Black 2": "Its spines provide protection. Its fins and bones are prized as traditional-medicine ingredients.",
+            "White 2": "Its spines provide protection. Its fins and bones are prized as traditional-medicine ingredients."
+        },
+        "Generation VI": {
+            "X": "Its body bristles with sharp spikes. Carelessly trying to touch it could cause fainting from the spikes.",
+            "Y": "It is capable of swimming backwards by rapidly flapping its winglike pectoral fins and stout tail.",
+            "Omega Ruby": "Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pokémon's poison barbs if they fail to notice it.",
+            "Alpha Sapphire": "Seadra generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This Pokémon weakens prey with these currents, then swallows it whole."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Touching the back fin causes numbness. It hooks its tail to coral to stay in place while sleeping.",
+            "Let's Go Eevee": "Touching the back fin causes numbness. It hooks its tail to coral to stay in place while sleeping."
+        },
+        "Generation VIII": {
+            "Sword": "It's the males that raise the offspring. While Seadra are raising young, the spines on their backs secrete thicker and stronger poison.",
+            "Shield": "Seadra's mouth is slender, but its suction power is strong. In an instant, Seadra can suck in food that's larger than the opening of its mouth.",
+            "Brilliant Diamond": "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.",
+            "Shining Pearl": "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients."
+        },
+        "Generation IX": {
+            "Scarlet": "The male raises the young. If it is approached while caring for young, it will use its toxic spines to fend off the intruder.",
+            "Violet": "Its fin tips leak poison. Its fins and bones are highly valued as ingredients in herbal medicine."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Seafoam Islands Route 23 and Cerulean Cave ( Super Rod )",
+            "Blue": "Route 23 and Cerulean Cave ( Super Rod )",
+            "Blue (Japan)": "Route 23 and Cerulean Cave ( Super Rod )",
+            "Yellow": "Routes 12 and 13 ( Super Rod )"
+        },
+        "Generation II": {
+            "Gold": "Whirl Islands ( Surfing )",
+            "Silver": "Whirl Islands ( Surfing )",
+            "Crystal": "Whirl Islands ( Surfing or Super Rod )"
+        },
+        "Generation III": {
+            "Ruby": "Evolve Horsea",
+            "Sapphire": "Evolve Horsea",
+            "Emerald": "Evolve Horsea",
+            "FireRed": "Routes 19 , 20 , and 21 , Kindle Road , Treasure Beach , Bond Bridge , Resort Gorgeous , Water Labyrinth , Five Isle Meadow , Memorial Pillar , Green Path , Water Path , Outcast Island , Trainer Tower , Tanoby Ruins , Cinnabar Island , One Island , Five Island , Icefall Cave , Pallet Town ( Super Rod )",
+            "LeafGreen": "Evolve Horsea",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 226 ( Super Rod )",
+            "Pearl": "Route 226 ( Super Rod )",
+            "Platinum": "Route 226 ( Super Rod )",
+            "HeartGold": "Seafoam Islands ( Super Rod ), Whirl Islands ( Surfing and Super Rod )",
+            "SoulSilver": "Seafoam Islands ( Super Rod ), Whirl Islands ( Surfing and Super Rod )",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Routes 17 and 18 , P2 Laboratory ( Fishing in rippling water )",
+            "White": "Routes 17 and 18 , P2 Laboratory ( Fishing in rippling water )",
+            "Black 2": "Routes 17 and 18 , P2 Laboratory ( Fishing in rippling water )",
+            "White 2": "Routes 17 and 18 , P2 Laboratory ( Fishing in rippling water )"
+        },
+        "Generation VI": {
+            "X": "Ambrette Town , Cyllage City ( Super Rod )",
+            "Y": "Ambrette Town , Cyllage City ( Super Rod )",
+            "Omega Ruby": "Routes 130 , 131 , 132 , 133 , and 134 ( Super Rod )",
+            "Alpha Sapphire": "Routes 130 , 131 , 132 , 133 , and 134 ( Super Rod )"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Horsea",
+            "Moon": "Evolve Horsea",
+            "Ultra Sun": "Evolve Horsea",
+            "Ultra Moon": "Evolve Horsea",
+            "Let's Go Pikachu": "Routes 11 , 12 , and 13 ( Sea Skim )",
+            "Let's Go Eevee": "Routes 11 , 12 , and 13 ( Sea Skim )"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Honeycalm Sea ( Wanderer ) Loop Lagoon ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Route 226 ( Super Rod )",
+            "Shining Pearl": "Route 226 ( Super Rod )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth , Canyon Biome , Chargestone Cavern , Polar Biome Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Horsea",
+            "to": "Seadra",
+            "method": [
+                "Level 32"
+            ]
+        },
+        {
+            "from": "Seadra",
+            "to": "Kingdra",
+            "method": [
+                "Trade (holding Dragon Scale)"
+            ]
+        }
+    ]
+}

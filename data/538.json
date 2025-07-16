@@ -1,0 +1,79 @@
+{
+    "name": "Throh",
+    "pokedex_number": "#0538",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Guts",
+        "Inner Focus",
+        "Mold Breaker"
+    ],
+    "stats": {
+        "HP": 120,
+        "Attack": 100,
+        "Defense": 85,
+        "Sp. Atk": 30,
+        "Sp. Def": 85,
+        "Speed": 45,
+        "Total": 465
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
+            "White": "When they encounter foes bigger than themselves, they try to throw them. They always travel in packs of five.",
+            "Black 2": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
+            "White 2": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger."
+        },
+        "Generation VI": {
+            "X": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
+            "Y": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
+            "Omega Ruby": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
+            "Alpha Sapphire": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It performs throwing moves with first-rate skill. Over the course of many battles, Throh's belt grows darker as it absorbs its wearer's sweat.",
+            "Shield": "They train in groups of five. Any member that can't keep up will discard its belt and leave the group."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 10 , 15 , and 18 , Pinwheel Forest (outside) ( rustling grass )",
+            "White": "Routes 10 , 15 , and 18 , Pinwheel Forest (outside) ( tall grass )",
+            "Black 2": "Routes 15 , 18 , and 23 , Pinwheel Forest (outside) ( rustling grass ) Victory Road ( tall grass )",
+            "White 2": "Routes 15 , 18 , and 23 , Pinwheel Forest (outside), Victory Road ( tall grass )",
+            "Dream World": "Dream Park *"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Fighting )",
+            "Y": "Route 11 , Friend Safari ( Fighting )",
+            "Omega Ruby": "Route 112 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Vanillish in Circhester",
+            "Shield": "Route 8 , Bridge Field , Giant's Mirror , Motostoke Outskirts , Motostoke Riverbank North Lake Miloch , Dusty Bowl ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

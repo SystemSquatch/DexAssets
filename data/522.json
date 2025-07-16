@@ -1,0 +1,94 @@
+{
+    "name": "Blitzle",
+    "pokedex_number": "#0522",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Lightning Rod",
+        "Motor Drive",
+        "Sap Sipper"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 32,
+        "Sp. Atk": 50,
+        "Sp. Def": 32,
+        "Speed": 76,
+        "Total": 295
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another.",
+            "White": "When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.",
+            "Black 2": "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.",
+            "White 2": "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate."
+        },
+        "Generation VI": {
+            "X": "When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.",
+            "Y": "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.",
+            "Omega Ruby": "When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.",
+            "Alpha Sapphire": "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "Its heartbeat generates electricity. When Blitzle is surprised and its heart rate goes up, the voltage of its electricity also rises.",
+            "Violet": "This Pokémon prefers places with lots of lightning strikes. It catches lightning with its mane and stores the electricity within its body."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 3",
+            "White": "Route 3",
+            "Black 2": "Breed Zebstrika",
+            "White 2": "Breed Zebstrika"
+        },
+        "Generation VI": {
+            "X": "Breed Zebstrika",
+            "Y": "Breed Zebstrika",
+            "Omega Ruby": "Breed Zebstrika",
+            "Alpha Sapphire": "Breed Zebstrika"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Savanna Biome Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Blitzle",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Blitzle",
+            "to": "Zebstrika",
+            "method": [
+                "Level 27"
+            ]
+        }
+    ]
+}

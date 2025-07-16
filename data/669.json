@@ -1,0 +1,68 @@
+{
+    "name": "Flabébé",
+    "pokedex_number": "#0669",
+    "types": [
+        "Fairy",
+        "Unknown"
+    ],
+    "abilities": [
+        "Flower Veil",
+        "Symbiosis"
+    ],
+    "stats": {
+        "HP": 44,
+        "Attack": 38,
+        "Defense": 39,
+        "Sp. Atk": 61,
+        "Sp. Def": 79,
+        "Speed": 42,
+        "Total": 303
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "It draws out and controls the hidden power of flowers. The flower Flabébé holds is most likely part of its body.",
+            "Y": "When it finds a flower it likes, it dwells on that flower its whole life long. It floats in the wind's embrace with an untroubled heart.",
+            "Omega Ruby": "It draws out and controls the hidden power of flowers. The flower Flabébé holds is most likely part of its body.",
+            "Alpha Sapphire": "When it finds a flower it likes, it dwells on that flower its whole life long. It floats in the wind's embrace with an untroubled heart."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It's not safe without the power of a flower, but it will keep traveling around until it finds one with the color and shape it wants.",
+            "Ultra Moon": "Flabébé wears a crown made from pollen it's collected from its flower. The crown has hidden healing properties."
+        },
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "This Flabébé rides a white flower. The wind blows this Pokémon around as it drifts in search of flower gardens.",
+            "Violet": "When evening falls, it searches out a place blooming with flowers of the same white color as itself, and then it goes to sleep."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Routes 4 and 7 (yellow flowers) ( Yellow/Orange/White Flowers ) Route 4 (red flowers) ( Red/Orange/White Flowers ) Route 7 (tall grass) ( Orange/White Flowers ) Route 7 (purple flowers) ( Blue/Orange/White Flowers )",
+            "Y": "Routes 4 and 7 (yellow flowers) ( Yellow/Orange/White Flowers ) Route 4 (red flowers) ( Red/Orange/White Flowers ) Route 7 (tall grass) ( Orange/White Flowers ) Route 7 (purple flowers) ( Blue/Orange/White Flowers )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Melemele Meadow ( Yellow Flower ) Melemele Meadow ( SOS Battle ) ( Yellow/Orange/White Flowers ) Breed Floette ( Red/Blue Flowers )",
+            "Ultra Moon": "Melemele Meadow ( Yellow Flower ) Melemele Meadow ( SOS Battle ) ( Yellow/Orange/White Flowers ) Breed Floette ( Red/Blue Flowers )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Four ( All Flowers ) East Province: East Paldean Sea ( All Flowers ) West Province: Area One ( All Flowers ) Tera Raid Battles ( 1★ ) ( Red Flower )",
+            "Violet": "South Province: Area One , Area Four ( All Flowers ) East Province: East Paldean Sea ( All Flowers ) West Province: Area One ( All Flowers ) Tera Raid Battles ( 1★ ) ( Red Flower )"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Grapploct",
+    "pokedex_number": "#0853",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Limber",
+        "Technician"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 118,
+        "Defense": 90,
+        "Sp. Atk": 70,
+        "Sp. Def": 80,
+        "Speed": 42,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful.",
+            "Shield": "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Route 9 , Lake of Outrage , West Lake Axewell ( Wanderer ) North Lake Miloch , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Route 9 , Lake of Outrage , West Lake Axewell ( Wanderer ) North Lake Miloch , Dusty Bowl ( Max Raid Battle )",
+            "Expansion Pass": "Loop Lagoon ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Clobbopus",
+            "to": "Grapploct",
+            "method": [
+                "Level up (knowing Taunt)"
+            ]
+        }
+    ]
+}

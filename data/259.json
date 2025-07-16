@@ -1,0 +1,128 @@
+{
+    "name": "Marshtomp",
+    "pokedex_number": "#0259",
+    "types": [
+        "Water",
+        "Ground"
+    ],
+    "abilities": [
+        "Torrent",
+        "Damp"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 70,
+        "Sp. Atk": 60,
+        "Sp. Def": 70,
+        "Speed": 50,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "The surface of Marshtomp 's body is enveloped by a thin, sticky film that enables it to live on land. This Pok é mon plays in mud on beaches when the ocean tide is low.",
+            "Sapphire": "Marshtomp is much faster at traveling through mud than it is at swimming. This Pok é mon 's hindquarters exhibit obvious development, giving it the ability to walk on just its hind legs.",
+            "Emerald": "Its toughened hind legs enable it to stand upright. Because it weakens if its skin dries out, it replenishes fluids by playing in mud.",
+            "FireRed": "It is at its best when on muddy ground with poor footing. It quickly overwhelms foes struggling in mud.",
+            "LeafGreen": "It is at its best when on muddy ground with poor footing. It quickly overwhelms foes struggling in mud."
+        },
+        "Generation IV": {
+            "Diamond": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
+            "Pearl": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
+            "Platinum": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
+            "HeartGold": "Living on muddy ground that provides poor footing has made its legs sturdy.",
+            "SoulSilver": "Living on muddy ground that provides poor footing has made its legs sturdy."
+        },
+        "Generation V": {
+            "Black": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
+            "White": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
+            "Black 2": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
+            "White 2": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep."
+        },
+        "Generation VI": {
+            "X": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
+            "Y": "Living on muddy ground that provides poor footing has made its legs sturdy.",
+            "Omega Ruby": "The surface of Marshtomp's body is enveloped by a thin, sticky film that enables it to live on land. This Pokémon plays in mud on beaches when the ocean tide is low.",
+            "Alpha Sapphire": "Marshtomp is much faster at traveling through mud than it is at swimming. This Pokémon's hindquarters exhibit obvious development, giving it the ability to walk on just its hind legs."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
+            "Shining Pearl": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep."
+        },
+        "Generation IX": {
+            "Scarlet": "Living on muddy ground that provides poor footing has served to train its lower body and caused it to develop sturdy legs.",
+            "Violet": "It is at its best when on muddy ground that offers poor footing. It quickly overwhelms opponents that are bogged down and unable to move."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Mudkip",
+            "Sapphire": "Evolve Mudkip",
+            "Emerald": "Evolve Mudkip",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Mudkip",
+            "SoulSilver": "Evolve Mudkip",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer , Evolve event Mudkip",
+            "White": "Poké Transfer , Evolve event Mudkip",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Mudkip",
+            "Alpha Sapphire": "Evolve Mudkip"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Brooklet Hill ( Island Scan ) Sa",
+            "Ultra Moon": "Brooklet Hill ( Island Scan ) Sa",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Mudkip",
+            "Shining Pearl": "Evolve Mudkip",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Mudkip"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Mudkip",
+            "to": "Marshtomp",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Marshtomp",
+            "to": "Swampert",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

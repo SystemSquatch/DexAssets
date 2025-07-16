@@ -1,0 +1,94 @@
+{
+    "name": "Swadloon",
+    "pokedex_number": "#0541",
+    "types": [
+        "Bug",
+        "Grass"
+    ],
+    "abilities": [
+        "Leaf Guard",
+        "Chlorophyll",
+        "Overcoat"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 63,
+        "Defense": 90,
+        "Sp. Atk": 50,
+        "Sp. Def": 80,
+        "Speed": 42,
+        "Total": 380
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
+            "White": "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
+            "Black 2": "Preferring dark, damp places, it spends the entire day eating fallen leaves that lie around it.",
+            "White 2": "Preferring dark, damp places, it spends the entire day eating fallen leaves that lie around it."
+        },
+        "Generation VI": {
+            "X": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
+            "Y": "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
+            "Omega Ruby": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
+            "Alpha Sapphire": "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "Swadloon lives quietly at the feet of trees. It prefers eating fallen leaves that have grown soft rather than fresh ones.",
+            "Violet": "Swadloon wraps itself in leaves for protection. It uses the two leaves atop its head to detect air movements and feel out its surroundings."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 6 , Lostlorn Forest Pinwheel Forest (inner) ( dark grass )",
+            "White": "Route 6 , Lostlorn Forest Pinwheel Forest (inner) ( dark grass )",
+            "Black 2": "Route 6 , Pinwheel Forest (inner), Lostlorn Forest",
+            "White 2": "Route 6 , Pinwheel Forest (inner), Lostlorn Forest"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Grass )",
+            "Y": "Friend Safari ( Grass )",
+            "Omega Ruby": "Evolve Sewaddle",
+            "Alpha Sapphire": "Evolve Sewaddle"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Sewaddle",
+            "Moon": "Evolve Sewaddle",
+            "Ultra Sun": "Evolve Sewaddle",
+            "Ultra Moon": "Evolve Sewaddle",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Mossfell Confluence , Wistful Fields Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Sewaddle",
+            "to": "Swadloon",
+            "method": [
+                "Level 20"
+            ]
+        },
+        {
+            "from": "Swadloon",
+            "to": "Leavanny",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        }
+    ]
+}

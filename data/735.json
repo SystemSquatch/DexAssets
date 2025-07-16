@@ -1,0 +1,67 @@
+{
+    "name": "Gumshoos",
+    "pokedex_number": "#0735",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Stakeout",
+        "Strong Jaw",
+        "Adaptability"
+    ],
+    "stats": {
+        "HP": 88,
+        "Attack": 110,
+        "Defense": 60,
+        "Sp. Atk": 55,
+        "Sp. Def": 60,
+        "Speed": 45,
+        "Total": 418
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "When it finds a trace of its prey, it patiently stakes out the location...but it's always snoozing by nightfall.",
+            "Moon": "It adores having Rattata and Raticate for dinner, but as it's diurnal , it never encounters them. This Pokémon boasts incredible patience.",
+            "Ultra Sun": "Although it wasn't originally found in Alola, this Pokémon was brought over a long time ago when there was a huge Rattata outbreak.",
+            "Ultra Moon": "Patient by nature, this Pokémon loses control of itself and pounces when it spots its favorite meal—Rattata!"
+        },
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "Once it finds signs of prey, it will patiently stake out the location, waiting until the sun goes down.",
+            "Violet": "Gumshoos specializes in relentlessly tracking down prey. The simple-minded Skwovet doesn't seem to provide Gumshoos enough challenge."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Routes 10 , 11 , 15 , 16 , and 17 , Akala Outskirts , Ancient Poni Path , Malie City , Poni Gauntlet , Poni Grove , Poni Plains , Poni Wilds , Tapu Village Day",
+            "Moon": "Routes 10 , 11 , 15 , 16 , and 17 , Akala Outskirts , Ancient Poni Path , Malie City , Poni Gauntlet , Poni Grove , Poni Plains , Poni Wilds , Tapu Village Day",
+            "Ultra Sun": "Routes 10 , 15 , 16 , and 17 , Akala Outskirts , Tapu Village , Mount Lanakila , Poni Plains Day Route 8 Day ( SOS Battle ) Received from Samson Oak at Heahea Beach * ( Totem -sized)",
+            "Ultra Moon": "Routes 10 , 15 , 16 , and 17 , Akala Outskirts , Tapu Village , Mount Lanakila , Poni Plains Day Route 8 Day ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Three , Area Five , Area Six , Inlet Grotto , Alfornada Cavern East Province: Area One , Area Two , Area Three , Tagtree Thicket West Province: Area One , Area Two , Area Three , Asado Desert North Province: Area One , Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area Three , Area Five , Area Six , Inlet Grotto , Alfornada Cavern East Province: Area One , Area Two , Area Three , Tagtree Thicket West Province: Area One , Area Two , Area Three , Asado Desert North Province: Area One , Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Yungoos",
+            "to": "Gumshoos",
+            "method": [
+                "Level 20 (during the day)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Dhelmise",
+    "pokedex_number": "#0781",
+    "types": [
+        "Ghost",
+        "Grass"
+    ],
+    "abilities": [
+        "Steelworker"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 131,
+        "Defense": 100,
+        "Sp. Atk": 86,
+        "Sp. Def": 90,
+        "Speed": 40,
+        "Total": 517
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Swinging its massive anchor, it can KO Wailord in a single blow. What appears to be green seaweed is actually its body.",
+            "Moon": "The soul of seaweed adrift in the waves became reborn as this Pokémon. It maintains itself with new infusions of seabed detritus and seaweed.",
+            "Ultra Sun": "It wraps its prey in green seaweed and sucks away their vitality. It only likes to go after big prey like Wailord .",
+            "Ultra Moon": "Its chain-like green seaweed can stretch outward for hundreds of yards. For some reason, it gets along well with Skrelp ."
+        },
+        "Generation VIII": {
+            "Sword": "After a piece of seaweed merged with debris from a sunken ship, it was reborn as this ghost Pokémon.",
+            "Shield": "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Seafolk Village ( Fishing )",
+            "Moon": "Seafolk Village ( Fishing )",
+            "Ultra Sun": "Seafolk Village ( Fishing )",
+            "Ultra Moon": "Seafolk Village ( Fishing )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 9 Dappled Grove , Bridge Field , Stony Wilderness , Giant's Mirror ( Max Raid Battle )",
+            "Shield": "Route 9 Dappled Grove , Bridge Field , Stony Wilderness , Giant's Mirror ( Max Raid Battle )",
+            "Expansion Pass": "Challenge Beach , Frigid Sea ( Fishing )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,153 @@
+{
+    "name": "Poliwrath",
+    "pokedex_number": "#0062",
+    "types": [
+        "Water",
+        "Fighting"
+    ],
+    "abilities": [
+        "Water Absorb",
+        "Damp",
+        "Swift Swim"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 85,
+        "Defense": 95,
+        "Sp. Atk": 70,
+        "Sp. Def": 90,
+        "Speed": 70,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "An adept swimmer at both the front crawl and breast stroke . Easily overtakes the best human swimmers.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "An adept swimmer at both the front crawl and breast stroke . Easily overtakes the best human swimmers.",
+            "Yellow": "Swims powerfully using all the muscles in its body. It can even overtake champion swimmers.",
+            "Stadium": "A strong swimmer, it is faster than a human champ in an individual medley. It can go far and fast with minimal breathing."
+        },
+        "Generation II": {
+            "Gold": "This strong and skilled swimmer is even capable of crossing the Pacific Ocean just by kicking.",
+            "Silver": "Although an energetic, skilled swimmer that uses all of its muscles, it lives on dry land.",
+            "Crystal": "It can use its well-developed arms and legs to run on the surface of the water for a split second.",
+            "Stadium 2": "This strong and skilled swimmer is even capable of crossing the Pacific Ocean just by kicking. (Pokémon Red, Silver, or Crystal inserted) Although an energetic, skilled swimmer that uses all of its muscles, it lives on dry land. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Poliwrath 's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pok é mon can swim back and forth across the Pacific Ocean without effort.",
+            "Sapphire": "Poliwrath 's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pok é mon can swim back and forth across the Pacific Ocean without effort.",
+            "Emerald": "Its highly developed muscles never grow fatigued, however much it exercises. This Pok é mon can swim back and forth across the Pacific Ocean without effort.",
+            "FireRed": "An adept swimmer, it knows the front crawl, butterfly, and more. It is faster than the best human swimmers.",
+            "LeafGreen": "A swimmer adept at both the front crawl and breaststroke. Easily overtakes the best human swimmers."
+        },
+        "Generation IV": {
+            "Diamond": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
+            "Pearl": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
+            "Platinum": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
+            "HeartGold": "This strong and skilled swimmer is even capable of crossing the Pacific Ocean just by kicking.",
+            "SoulSilver": "Although an energetic, skilled swimmer that uses all of its muscles, it lives on dry land."
+        },
+        "Generation V": {
+            "Black": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
+            "White": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
+            "Black 2": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
+            "White 2": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting."
+        },
+        "Generation VI": {
+            "X": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
+            "Y": "A swimmer adept at both the front crawl and breaststroke. Easily overtakes the best human swimmers.",
+            "Omega Ruby": "Poliwrath's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the ocean without effort.",
+            "Alpha Sapphire": "Poliwrath's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the ocean without effort."
+        },
+        "Generation VII": {
+            "Sun": "Poliwrath in the Alola region are strong swimmers that use the breaststroke. Many children learn to swim by imitating Poliwrath.",
+            "Moon": "Its percentage of body fat is nearly zero. Its body is entirely muscle, which makes it heavy and forces its swimming prowess to develop.",
+            "Ultra Sun": "It's quite a gifted swimmer, even among Water-type Pokémon, but it normally spends its time on land.",
+            "Ultra Moon": "The muscles it has developed through swimming are thick and powerful. When it lands a square punch, it can turn huge boulders to dust.",
+            "Let's Go Pikachu": "Swims powerfully using all the muscles in its body. It can even overtake world-class swimmers.",
+            "Let's Go Eevee": "Swims powerfully using all the muscles in its body. It can even overtake world-class swimmers."
+        },
+        "Generation VIII": {
+            "Sword": "Its body is solid muscle. When swimming through cold seas, Poliwrath uses its impressive arms to smash through drift ice and plow forward.",
+            "Shield": "Poliwrath is skilled at both swimming and martial arts. It uses its well-trained arms to dish out powerful punches.",
+            "Brilliant Diamond": "With its extremely tough muscles, it could keep swimming in the Pacific Ocean without resting.",
+            "Shining Pearl": "With its extremely tough muscles, it could keep swimming in the Pacific Ocean without resting."
+        },
+        "Generation IX": {
+            "Scarlet": "Although it's skilled in a style of dynamic swimming that uses all its muscles, for some reason it lives on dry land.",
+            "Violet": "It can use its well-developed arms and legs to run on the surface of the water for a split second."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Poliwhirl",
+            "Blue": "Evolve Poliwhirl",
+            "Blue (Japan)": "Evolve Poliwhirl",
+            "Yellow": "Evolve Poliwhirl"
+        },
+        "Generation II": {
+            "Gold": "Evolve Poliwhirl",
+            "Silver": "Evolve Poliwhirl",
+            "Crystal": "Evolve Poliwhirl"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Poliwhirl",
+            "LeafGreen": "Evolve Poliwhirl",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Poliwhirl",
+            "Pearl": "Evolve Poliwhirl",
+            "Platinum": "Evolve Poliwhirl",
+            "HeartGold": "Evolve Poliwhirl",
+            "SoulSilver": "Evolve Poliwhirl",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Wellspring Cave , Challenger's Cave , Victory Road , and Giant Chasm ( Fishing in rippling water )",
+            "White": "Wellspring Cave , Challenger's Cave , Victory Road , and Giant Chasm ( Fishing in rippling water )",
+            "Black 2": "Route 23 , Relic Passage , Clay Tunnel , Wellspring Cave , Giant Chasm , and Victory Road * ( Fishing in rippling water )",
+            "White 2": "Route 23 , Relic Passage , Clay Tunnel , Wellspring Cave , Giant Chasm , and Victory Road * ( Fishing in rippling water )"
+        },
+        "Generation VI": {
+            "X": "Victory Road ( Super Rod )",
+            "Y": "Victory Road ( Super Rod )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Malie Garden ( SOS Battle in rain ) Day",
+            "Moon": "Malie Garden ( SOS Battle in rain ) Day",
+            "Ultra Sun": "Malie Garden ( SOS Battle in rain ) Day",
+            "Ultra Moon": "Malie Garden ( SOS Battle in rain ) Day",
+            "Let's Go Pikachu": "Cerulean Cave ( Sea Skim )",
+            "Let's Go Eevee": "Cerulean Cave ( Sea Skim )"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Brawlers' Cave ( Wanderer ) Fields of Honor , Soothing Wetlands , Courageous Cavern ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Poliwhirl",
+            "Shining Pearl": "Evolve Poliwhirl",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Poliwhirl",
+            "to": "Poliwrath",
+            "method": [
+                "Use Water Stone"
+            ]
+        }
+    ]
+}

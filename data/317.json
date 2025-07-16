@@ -1,0 +1,121 @@
+{
+    "name": "Swalot",
+    "pokedex_number": "#0317",
+    "types": [
+        "Poison",
+        "Unknown"
+    ],
+    "abilities": [
+        "Liquid Ooze",
+        "Sticky Hold",
+        "Gluttony"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 73,
+        "Defense": 83,
+        "Sp. Atk": 73,
+        "Sp. Def": 83,
+        "Speed": 55,
+        "Total": 467
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "When Swalot spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target. Once the prey has weakened, this Pok é mon gulps it down whole with its cavernous mouth.",
+            "Sapphire": "Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this Pok é mon 's mouth.",
+            "Emerald": "Its powerful stomach acid is capable of digesting almost anything. The one thing in the whole world a Swalot can't digest is its own stomach.",
+            "FireRed": "It can swallow a tire whole in one gulp. It secretes a horribly toxic fluid from the pores on its body.",
+            "LeafGreen": "It can swallow a tire whole in one gulp. It secretes a horribly toxic fluid from the pores on its body."
+        },
+        "Generation IV": {
+            "Diamond": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+            "Pearl": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+            "Platinum": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+            "HeartGold": "It gulps anything that fits in its mouth. Its special enzymes can dissolve anything.",
+            "SoulSilver": "It gulps anything that fits in its mouth. Its special enzymes can dissolve anything."
+        },
+        "Generation V": {
+            "Black": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+            "White": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+            "Black 2": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+            "White 2": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes."
+        },
+        "Generation VI": {
+            "X": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+            "Y": "It gulps anything that fits in its mouth. Its special enzymes can dissolve anything.",
+            "Omega Ruby": "When Swalot spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target. Once the prey has weakened, this Pokémon gulps it down whole with its cavernous mouth.",
+            "Alpha Sapphire": "Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this Pokémon's mouth."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+            "Shining Pearl": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes."
+        },
+        "Generation IX": {
+            "Scarlet": "It gulps anything that fits in its mouth. Its special enzymes can dissolve anything.",
+            "Violet": "It can swallow a tire whole in one gulp. It secretes a horribly toxic fluid from the pores on its body."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Gulpin",
+            "Sapphire": "Evolve Gulpin",
+            "Emerald": "Evolve Gulpin",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Evolve Gulpin"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Gulpin",
+            "Pearl": "Evolve Gulpin",
+            "Platinum": "Evolve Gulpin",
+            "HeartGold": "Trade",
+            "SoulSilver": "Evolve Gulpin",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Route 9 ( Swarm )",
+            "White 2": "Route 9 ( Swarm )"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Poison )",
+            "Y": "Friend Safari ( Poison )",
+            "Omega Ruby": "Evolve Gulpin",
+            "Alpha Sapphire": "Evolve Gulpin"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Gulpin",
+            "Shining Pearl": "Evolve Gulpin",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Union Circle Tera Raid Battle Search ( 4★ )",
+            "Violet": "North Province: Casseroya Lake Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero": "Evolve Jacq 's Gulpin"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Gulpin",
+            "to": "Swalot",
+            "method": [
+                "Level 26"
+            ]
+        }
+    ]
+}

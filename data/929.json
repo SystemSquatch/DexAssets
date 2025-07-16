@@ -1,0 +1,51 @@
+{
+    "name": "Dolliv",
+    "pokedex_number": "#0929",
+    "types": [
+        "Grass",
+        "Normal"
+    ],
+    "abilities": [
+        "Early Bird",
+        "Harvest"
+    ],
+    "stats": {
+        "HP": 52,
+        "Attack": 53,
+        "Defense": 60,
+        "Sp. Atk": 78,
+        "Sp. Def": 78,
+        "Speed": 33,
+        "Total": 354
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.",
+            "Violet": "It basks in the sun to its heart's content until the fruits on its head ripen. After that, Dolliv departs from human settlements and goes on a journey."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "East Province: East Paldean Sea , Tagtree Thicket North Province: Area Three Tera Raid Battles ( 3★ )",
+            "Violet": "East Province: East Paldean Sea , Tagtree Thicket North Province: Area Three Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Smoliv",
+            "to": "Dolliv",
+            "method": [
+                "Level 25"
+            ]
+        },
+        {
+            "from": "Dolliv",
+            "to": "Arboliva",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

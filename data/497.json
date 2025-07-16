@@ -1,0 +1,86 @@
+{
+    "name": "Serperior",
+    "pokedex_number": "#0497",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Contrary"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 95,
+        "Sp. Atk": 75,
+        "Sp. Def": 95,
+        "Speed": 113,
+        "Total": 528
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It can stop its opponents' movements with just a glare. It takes in solar energy and boosts it internally.",
+            "White": "They raise their heads to intimidate opponents but only give it their all when fighting a powerful opponent.",
+            "Black 2": "It only gives its all against strong opponents who are not fazed by the glare from Serperior's noble eyes.",
+            "White 2": "It only gives its all against strong opponents who are not fazed by the glare from Serperior's noble eyes."
+        },
+        "Generation VI": {
+            "X": "It only gives its all against strong opponents who are not fazed by the glare from Serperior's noble eyes.",
+            "Y": "It can stop its opponents' movements with just a glare. It takes in solar energy and boosts it internally.",
+            "Omega Ruby": "It only gives its all against strong opponents who are not fazed by the glare from Serperior's noble eyes.",
+            "Alpha Sapphire": "It can stop its opponents' movements with just a glare. It takes in solar energy and boosts it internally."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "It generates energy from sunlight, then amplifies that energy dozens of times within its long body.",
+            "Violet": "An intimidating gaze and majestic appearance have caused this Pokémon to be known as the Lord of the Forest."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Servine",
+            "White": "Evolve Servine",
+            "Black 2": "Evolve Servine",
+            "White 2": "Evolve Servine"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Servine",
+            "Alpha Sapphire": "Evolve Servine"
+        },
+        "Generation VII": {
+            "Sun": "Exeggutor Island ( Island Scan ) Th",
+            "Moon": "Exeggutor Island ( Island Scan ) Th",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Servine"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Servine",
+            "to": "Serperior",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

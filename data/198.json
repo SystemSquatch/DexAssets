@@ -1,0 +1,146 @@
+{
+    "name": "Murkrow",
+    "pokedex_number": "#0198",
+    "types": [
+        "Dark",
+        "Flying"
+    ],
+    "abilities": [
+        "Insomnia",
+        "Super Luck",
+        "Prankster"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 42,
+        "Sp. Atk": 85,
+        "Sp. Def": 42,
+        "Speed": 91,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
+            "Silver": "It is said that when chased, it lures its attacker onto dark mountain trails where the foe will get lost.",
+            "Crystal": "It hides any shiny object it finds in a secret location. Murkrow and Meowth loot one another's stashes.",
+            "Stadium 2": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night. (Pokémon Red, Silver, or Crystal inserted) It is said that when chased, it lures its attacker onto dark mountain trails where the foe will get lost. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Murkrow was feared and loathed as the alleged bearer of ill fortune. This Pok é mon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
+            "Sapphire": "Murkrow was feared and loathed as the alleged bearer of ill fortune. This Pok é mon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
+            "Emerald": "Murkrow were feared as the alleged bearers of ill fortune. It shows strong interest in anything that sparkles. It will even try to steal rings from women.",
+            "FireRed": "It is said that when chased, it lures its attacker onto dark mountain trails where the foe will get lost.",
+            "LeafGreen": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night."
+        },
+        "Generation IV": {
+            "Diamond": "It is believed that seeing this Pokémon at night will bring about ominous occurrences.",
+            "Pearl": "It appears near travelers to lure them into deep forests. It is said to carry misfortune.",
+            "Platinum": "If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.",
+            "HeartGold": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
+            "SoulSilver": "It is said that when chased, it lures its attacker onto dark mountain trails where the foe will get lost."
+        },
+        "Generation V": {
+            "Black": "If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.",
+            "White": "If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.",
+            "Black 2": "If spotted, it will lure an unwary person into chasing it then lose the pursuer on mountain trails.",
+            "White 2": "If spotted, it will lure an unwary person into chasing it then lose the pursuer on mountain trails."
+        },
+        "Generation VI": {
+            "X": "It hides any shiny object it finds in a secret location. Murkrow and Meowth loot one another's stashes.",
+            "Y": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
+            "Omega Ruby": "Murkrow was feared and loathed as the alleged bearer of ill fortune. This Pokémon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
+            "Alpha Sapphire": "Murkrow was feared and loathed as the alleged bearer of ill fortune. This Pokémon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women."
+        },
+        "Generation VII": {
+            "Sun": "They awaken at dusk and take wing in the twilight, leading to the expression, \"Get home before the Murkrow fly.\"",
+            "Moon": "Seen as a symbol of bad luck, it's generally disliked. Yet it gives presents—objects that sparkle or shine—to Trainers it's close to.",
+            "Ultra Sun": "It has a weakness for shiny things. It's been known to sneak into the nests of Gabite—noted collectors of jewels—in search of treasure.",
+            "Ultra Moon": "It searches for shiny things for its boss. Murkrow's presence is said to be unlucky, so many people detest it."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It is believed that seeing this Pokémon at night will bring about ominous occurrences.",
+            "Shining Pearl": "It appears near travelers to lure them into deep forests. It is said to bring misfortune.",
+            "Legends: Arceus": "Widely shunned as a bearer of ill fortune. Upon crossing paths with this creature, I've been told one must chant “ Workrum , Workrum—bad luck, don't come” as a protective incantation."
+        },
+        "Generation IX": {
+            "Scarlet": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
+            "Violet": "If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 7 , 16 Night",
+            "Silver": "Routes 7 , 16 Night",
+            "Crystal": "Routes 7 , 16 Night"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "Lost Cave",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Shadow PKMN Lab (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Eterna Forest and Lost Tower Night",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Routes 7 and 16 Night Safari Zone (tall grass in Swamp, default, and with 5 Forest points Morning Day ; Surfing in Swamp with 10 Waterside points)",
+            "SoulSilver": "Routes 7 and 16 Night Safari Zone (tall grass in Swamp, default, and with 5 Forest points Morning Day ; Surfing in Swamp with 10 Waterside points)",
+            "Pal Park": "Forest",
+            "Pokéwalker": "Suburban Area"
+        },
+        "Generation V": {
+            "Black": "Abundant Shrine",
+            "White": "Trade",
+            "Black 2": "Pinwheel Forest ( Hidden Grotto ) *",
+            "White 2": "Pinwheel Forest ( Hidden Grotto ) *",
+            "Dream World": "Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Routes 15 and 16 ( Horde Encounter )",
+            "Y": "Routes 15 and 16 ( Horde Encounter )",
+            "Omega Ruby": "Soaring in the sky",
+            "Alpha Sapphire": "Soaring in the sky"
+        },
+        "Generation VII": {
+            "Sun": "Vast Poni Canyon , Poké Pelago",
+            "Moon": "Vast Poni Canyon , Poké Pelago",
+            "Ultra Sun": "Hau'oli Cemetery Night",
+            "Ultra Moon": "Hau'oli Cemetery Night",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Eterna Forest and Lost Tower Night Grand Underground - Spacious Cave , Grassland Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Crimson Mirelands : Cloudpool Ridge Night (also mass outbreaks nearby Day Night ), massive mass outbreaks Cobalt Coastlands : Crossing Slope Night , Ginkgo Landing Night , Aipom Hill Night , Bathers' Lagoon Night , Hideaway Bay Night , Castaway Shore Night , Windbreak Stand Night , Spring Path Night , Islespy Shore Night , Veilstone Cape Night"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five East Province: Area One , Area Two , Area Three , Tagtree Thicket West Province: Area Two , Area Three Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five East Province: Area One , Area Two , Area Three , Tagtree Thicket West Province: Area Two , Area Three Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Murkrow",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Murkrow",
+            "to": "Honchkrow",
+            "method": [
+                "Use Dusk Stone"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "name": "Eelektross",
+    "pokedex_number": "#0604",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 115,
+        "Defense": 80,
+        "Sp. Atk": 105,
+        "Sp. Def": 80,
+        "Speed": 50,
+        "Total": 515
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+            "White": "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.",
+            "Black 2": "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity.",
+            "White 2": "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity."
+        },
+        "Generation VI": {
+            "X": "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.",
+            "Y": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+            "Omega Ruby": "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.",
+            "Alpha Sapphire": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+            "Violet": "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Eelektrik",
+            "White": "Evolve Eelektrik",
+            "Black 2": "Evolve Eelektrik",
+            "White 2": "Evolve Eelektrik"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Eelektrik",
+            "Alpha Sapphire": "Evolve Eelektrik"
+        },
+        "Generation VII": {
+            "Sun": "Poni Grove ( Island Scan ) Su",
+            "Moon": "Poni Grove ( Island Scan ) Su",
+            "Ultra Sun": "Poni Grove ( Island Scan ) Su",
+            "Ultra Moon": "Poni Grove ( Island Scan ) Su",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Area One ( Dragon Tera Type ) Tera Raid Battles ( 5★ )",
+            "Violet": "North Province: Area One ( Dragon Tera Type ) Tera Raid Battles ( 5★ )",
+            "The Hidden Treasure of Area Zero": "Canyon Biome , Chargestone Cavern , Polar Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Eelektrik",
+            "to": "Eelektross",
+            "method": [
+                "Use Thunder Stone"
+            ]
+        }
+    ]
+}

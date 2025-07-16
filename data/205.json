@@ -1,0 +1,133 @@
+{
+    "name": "Forretress",
+    "pokedex_number": "#0205",
+    "types": [
+        "Bug",
+        "Steel"
+    ],
+    "abilities": [
+        "Sturdy",
+        "Overcoat"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 90,
+        "Defense": 140,
+        "Sp. Atk": 60,
+        "Sp. Def": 60,
+        "Speed": 40,
+        "Total": 465
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Its entire body is shielded by a steel-hard shell. What lurks inside the armor is a total mystery.",
+            "Silver": "It remains immovably rooted to its tree. It scatters pieces of its hard shell to drive its enemies away.",
+            "Crystal": "Usually found hanging on to a fat tree trunk. It shoots out bits of its shell when it sees action.",
+            "Stadium 2": "Its entire body is shielded by a steel-hard shell. What lurks inside the armor is a total mystery. (Pokémon Red, Silver, or Crystal inserted) It remains immovably rooted to its tree. It scatters pieces of its hard shell to drive its enemies away. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Forretress conceals itself inside its hardened steel shell. The shell is opened when the Pok é mon is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.",
+            "Sapphire": "Forretress conceals itself inside its hardened steel shell. The shell is opened when the Pok é mon is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.",
+            "Emerald": "It keeps itself inside its steel shell. The shell is opened when it is catching prey, but it is so quick that the shell's inside cannot be seen.",
+            "FireRed": "It remains immovably rooted to its tree. It scatters pieces of its hard shell to drive its enemies away.",
+            "LeafGreen": "Its entire body is shielded by a steel-hard shell. What lurks inside the armor is a total mystery."
+        },
+        "Generation IV": {
+            "Diamond": "It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.",
+            "Pearl": "It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.",
+            "Platinum": "It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.",
+            "HeartGold": "Its entire body is shielded by a steel-hard shell. What lurks inside this shell is a total mystery.",
+            "SoulSilver": "It remains immovably rooted to its tree. It scatters pieces of its hard shell to drive its enemies away."
+        },
+        "Generation V": {
+            "Black": "It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.",
+            "White": "It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.",
+            "Black 2": "It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.",
+            "White 2": "It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards."
+        },
+        "Generation VI": {
+            "X": "It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.",
+            "Y": "It remains immovably rooted to its tree. It scatters pieces of its hard shell to drive its enemies away.",
+            "Omega Ruby": "Forretress conceals itself inside its hardened steel shell. The shell is opened when the Pokémon is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.",
+            "Alpha Sapphire": "Forretress conceals itself inside its hardened steel shell. The shell is opened when the Pokémon is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen."
+        },
+        "Generation VII": {
+            "Ultra Sun": "When something approaches it, it fires off fragments of its steel shell in attack. This is not a conscious action but a conditioned reflex.",
+            "Ultra Moon": "In the moment that it gulps down its prey, the inside of its shell is exposed, but to this day, no one has ever seen that sight."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It is encased in a steel shell. Forretress's eyes peer out, but what lies within this Pokémon's shell is unknown.",
+            "Shining Pearl": "It is encased in a steel shell. Forretress's eyes peer out, but what lies within this Pokémon's shell is unknown."
+        },
+        "Generation IX": {
+            "Scarlet": "It’s usually found hanging on to a fat tree trunk. It shoots out bits of its shell when it sees action.",
+            "Violet": "Its entire body is shielded by a steel-hard shell. What lurks inside this shell is a total mystery."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Pineco",
+            "Silver": "Evolve Pineco",
+            "Crystal": "Evolve Pineco"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Evolve Pineco",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Shadow PKMN Lab (Shadow)",
+            "XD": "Evolve Pineco"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Pineco",
+            "Pearl": "Evolve Pineco",
+            "Platinum": "Evolve Pineco",
+            "HeartGold": "Evolve Pineco",
+            "SoulSilver": "Evolve Pineco",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Evolve Pineco",
+            "White": "Evolve Pineco",
+            "Black 2": "Evolve Pineco",
+            "White 2": "Evolve Pineco"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Steel )",
+            "Y": "Friend Safari ( Steel )",
+            "Omega Ruby": "Mirage Forest (west of Route 105 ) and Mirage Mountains (west of Route 104 , north of Lilycove City , northeast of Route 125 , and south of Route 131 )",
+            "Alpha Sapphire": "Mirage Forest (west of Route 105 ) and Mirage Mountains (west of Route 104 , north of Lilycove City , northeast of Route 125 , and south of Route 131 )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Pineco",
+            "Ultra Moon": "Evolve Pineco",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Pineco",
+            "Shining Pearl": "Evolve Pineco",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Casseroya Lake , Socarrat Trail Tera Raid Battles ( 4★ )",
+            "Violet": "North Province: Casseroya Lake , Socarrat Trail Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Pineco",
+            "to": "Forretress",
+            "method": [
+                "Level 31"
+            ]
+        }
+    ]
+}

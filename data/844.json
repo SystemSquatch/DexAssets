@@ -1,0 +1,57 @@
+{
+    "name": "Sandaconda",
+    "pokedex_number": "#0844",
+    "types": [
+        "Ground",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sand Spit",
+        "Shed Skin",
+        "Sand Veil"
+    ],
+    "stats": {
+        "HP": 72,
+        "Attack": 107,
+        "Defense": 125,
+        "Sp. Atk": 65,
+        "Sp. Def": 70,
+        "Speed": 71,
+        "Total": 510
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "When it contracts its body, over 220 pounds of sand sprays from its nose. If it ever runs out of sand, it becomes disheartened.",
+            "Shield": "Its unique style of coiling allows it to blast sand out of its sand sac more efficiently."
+        },
+        "Generation IX": {
+            "Scarlet": "It will expand its body as much as it can and then contract itself, blasting out sand with enough force to wash away a dump truck.",
+            "Violet": "The sand it spews contains sharp, pointy gravel, which is actually just sand that Sandaconda's saliva has hardened into irregular shapes."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Route 8 , Lake of Outrage Dusty Bowl ( Max Raid Battle ) Dusty Bowl ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Shield": "Route 8 , Lake of Outrage Dusty Bowl ( Max Raid Battle ) Dusty Bowl ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Gigantamax Factor )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Asado Desert Tera Raid Battles ( 4★ )",
+            "Violet": "West Province: Asado Desert Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Silicobra",
+            "to": "Sandaconda",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

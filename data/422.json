@@ -1,0 +1,120 @@
+{
+    "name": "Shellos",
+    "pokedex_number": "#0422",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sticky Hold",
+        "Storm Drain",
+        "Sand Force"
+    ],
+    "stats": {
+        "HP": 76,
+        "Attack": 48,
+        "Defense": 48,
+        "Sp. Atk": 57,
+        "Sp. Def": 62,
+        "Speed": 34,
+        "Total": 325
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Its colors and shapes differ from region to region. In the Sinnoh region, two types are confirmed.",
+            "Pearl": "It lives along bodies of water. Its body shape has changed to suit its habitat.",
+            "Platinum": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
+            "HeartGold": "Its shape and coloration vary, depending on its habitat.",
+            "SoulSilver": "Its shape and coloration vary, depending on its habitat."
+        },
+        "Generation V": {
+            "Black": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
+            "White": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
+            "Black 2": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
+            "White 2": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out."
+        },
+        "Generation VI": {
+            "X": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
+            "Y": "Its shape and coloration vary, depending on its habitat.",
+            "Omega Ruby": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
+            "Alpha Sapphire": "Its shape and coloration vary, depending on its habitat."
+        },
+        "Generation VII": {
+            "Sun": "Shellos lives in the sea and feasts on plankton. The lovelier the ocean where Shellos resides, the more vibrant its color becomes.",
+            "Moon": "The difference in color from one Shellos to another seems to be a result of their diet. No large changes can be seen in their capabilities.",
+            "Ultra Sun": "When it senses danger, it gushes a purple liquid. Some theories suggest this liquid is a greasy sweat induced by stress.",
+            "Ultra Moon": "Scientists interested in its great regenerative capabilities are currently analyzing the materials from which its cells are made."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Its colors and shapes differ from region to region. In the Sinnoh region, two types are confirmed.",
+            "Shining Pearl": "It lives along bodies of water. Its body shape changed to suit its habitat.",
+            "Sword": "There's speculation that its appearance is determined by what it eats, but the truth remains elusive.",
+            "Shield": "Its appearance changes depending on the environment. One theory suggests that living in cold seas causes Shellos to take on this form.",
+            "Legends: Arceus": "Found in abundance on seashores bordering cold waters. When pressed upon, the Pokémon will secrete from its body's surface a purple fluid that will stain one's clothes."
+        },
+        "Generation IX": {
+            "Scarlet": "A recently published research paper states that this form of Shellos is gradually decreasing in number.",
+            "Violet": "This Pokémon can often be seen along seashores. It's capable of spending a limited amount of time on land."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 205 , 218 , and 221 , Fuego Ironworks , Valley Windworks (tall grass) ( West Sea ) Routes 213 and 224 (tall grass) ( East Sea )",
+            "Pearl": "Routes 205 , 218 , and 221 , Fuego Ironworks , Valley Windworks (tall grass) ( West Sea ) Routes 213 and 224 (tall grass) ( East Sea )",
+            "Platinum": "Routes 205 and 218 , Valley Windworks (tall grass) ( West Sea ) Routes 205 and 218 , Canalave City , Valley Windworks , Fuego Ironworks ( Surfing ) ( West Sea ) Routes 212 and 213 (tall grass) ( East Sea ) Routes 212 and 213 , Pastoria City ( Surfing ) ( East Sea )",
+            "HeartGold": "Transfer from Pokéwalker ( West Sea ) Trade ( East Sea )",
+            "SoulSilver": "Transfer from Pokéwalker ( West Sea ) Trade ( East Sea )",
+            "Pokéwalker": "Stormy Beach ( West Sea )"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Trade with Yancy in Nimbasa City (if the player is male) ( West Sea ) Trade with Curtis in Nimbasa City (if the player is female) ( East Sea )",
+            "White 2": "Trade with Yancy in Nimbasa City (if the player is male) ( West Sea ) Trade with Curtis in Nimbasa City (if the player is female) ( East Sea )",
+            "Dream World": "Sparkling Sea ( West/East Sea )"
+        },
+        "Generation VI": {
+            "X": "Breed Gastrodon ( West Sea ) Trade ( East Sea )",
+            "Y": "Breed Gastrodon ( West Sea ) Trade ( East Sea )",
+            "Omega Ruby": "Routes 103 and 110 ( hidden Pokémon * ) ( West Sea )",
+            "Alpha Sapphire": "Routes 103 and 110 ( hidden Pokémon * ) ( East Sea )"
+        },
+        "Generation VII": {
+            "Sun": "Breed Gastrodon ( East Sea ) Trade ( West Sea )",
+            "Moon": "Breed Gastrodon ( East Sea ) Trade ( West Sea )",
+            "Ultra Sun": "Breed Gastrodon ( East Sea ) Trade Granbull in Seafolk Village ( West Sea )",
+            "Ultra Moon": "Breed Gastrodon ( East Sea ) Trade Granbull in Seafolk Village ( West Sea )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME ( West Sea ) Bridge Field , Giant's Cap , Giant's Mirror , Motostoke Riverbank , Stony Wilderness , Galar Mine No. 2 ( East Sea ) Bridge Field , Giant's Mirror , Lake of Outrage , South Lake Miloch , West Lake Axewell ( Max Raid Battle ) ( East Sea )",
+            "Shield": "Pokémon HOME ( West Sea ) Bridge Field , Giant's Cap , Giant's Mirror , Motostoke Riverbank , Stony Wilderness , Galar Mine No. 2 ( East Sea ) Bridge Field , Giant's Mirror , Lake of Outrage , South Lake Miloch , West Lake Axewell ( Max Raid Battle ) ( East Sea )",
+            "Brilliant Diamond": "Routes 205 , 218 , and 221 , Fuego Ironworks , Valley Windworks (tall grass) ( West Sea ) Routes 213 and 224 (tall grass) ( East Sea ) Grand Underground - Fountainspring Cave",
+            "Shining Pearl": "Routes 205 , 218 , and 221 , Fuego Ironworks , Valley Windworks (tall grass) ( West Sea ) Routes 213 and 224 (tall grass) ( East Sea ) Grand Underground - Fountainspring Cave",
+            "Legends: Arceus": "Obsidian Fieldlands : Ramanas Island , Sandgem Flats , massive mass outbreaks ( West Sea ) Cobalt Coastlands : Tranquility Cove , Seagrass Haven , massive mass outbreaks ( East Sea )"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Five ( East Sea ) East Province: Area One ( East Sea ) West Province: Area Two ( West Sea ) Tera Raid Battles ( 2★ ) ( West V /East S Sea )",
+            "Violet": "South Province: Area Five ( East Sea ) East Province: Area One ( East Sea ) West Province: Area Two ( West Sea ) Tera Raid Battles ( 2★ ) ( West V /East S Sea )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Shellos",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Shellos",
+            "to": "Gastrodon",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

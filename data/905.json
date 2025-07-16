@@ -1,0 +1,44 @@
+{
+    "name": "Enamorus",
+    "pokedex_number": "#0905",
+    "types": [
+        "Fairy",
+        "Flying"
+    ],
+    "abilities": [
+        "Cute Charm",
+        "Contrary",
+        "Overcoat"
+    ],
+    "stats": {
+        "HP": 74,
+        "Attack": 115,
+        "Defense": 70,
+        "Sp. Atk": 135,
+        "Sp. Def": 80,
+        "Speed": 106,
+        "Total": 580
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Legends: Arceus": "A different guise from its feminine humanoid form. From the clouds, it descends upon those who treat any form of life with disrespect and metes out wrathful, ruthless punishment."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Crimson Mirelands : Scarlet Bog ( Only one ) ( Incarnate Forme )"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME",
+            "Violet": "Pokémon HOME"
+        }
+    },
+    "evolution": []
+}

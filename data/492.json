@@ -1,0 +1,92 @@
+{
+    "name": "Shaymin",
+    "pokedex_number": "#0492",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Natural Cure",
+        "Serene Grace"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Sp. Atk": 100,
+        "Sp. Def": 100,
+        "Speed": 100,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It lives in flower patches and avoids detection by curling up to look like a flowering plant.",
+            "Pearl": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
+            "Platinum": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.",
+            "HeartGold": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.",
+            "SoulSilver": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers."
+        },
+        "Generation V": {
+            "Black": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.",
+            "White": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.",
+            "Black 2": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.",
+            "White 2": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude."
+        },
+        "Generation VI": {
+            "X": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
+            "Y": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.",
+            "Omega Ruby": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
+            "Alpha Sapphire": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It lives in common flower patches but is rarely noticed. It is often mistaken for a flowering plant when curled up.",
+            "Shining Pearl": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
+            "Legends: Arceus": "Upon taking in the scent of a particular rare flower, Shaymin is enveloped in light, and its tiny body transforms. I took a whiff of the flower myself, but alas, my body remained unchanged."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Flower Paradise (requires Oak's Letter * ) ( Only one ) Event",
+            "Pearl": "Flower Paradise (requires Oak's Letter * ) ( Only one ) Event",
+            "Platinum": "Flower Paradise (requires Oak's Letter ) ( Only one ) Event",
+            "HeartGold": "Event",
+            "SoulSilver": "Event"
+        },
+        "Generation V": {
+            "Black": "Event",
+            "White": "Event",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Event",
+            "Y": "Event",
+            "Omega Ruby": "Event",
+            "Alpha Sapphire": "Event"
+        },
+        "Generation VII": {
+            "Sun": "Event",
+            "Moon": "Event",
+            "Ultra Sun": "Event",
+            "Ultra Moon": "Event",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Flower Paradise (requires Oak's Letter ) ( Only one )",
+            "Shining Pearl": "Flower Paradise (requires Oak's Letter ) ( Only one )",
+            "Legends: Arceus": "Obsidian Fieldlands : Floaro Gardens ( Only one ) *"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME Version 2.0.1+",
+            "Violet": "Pokémon HOME Version 2.0.1+"
+        }
+    },
+    "evolution": []
+}

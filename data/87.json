@@ -1,0 +1,148 @@
+{
+    "name": "Dewgong",
+    "pokedex_number": "#0087",
+    "types": [
+        "Water",
+        "Ice"
+    ],
+    "abilities": [
+        "Thick Fat",
+        "Hydration",
+        "Ice Body"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 70,
+        "Defense": 80,
+        "Sp. Atk": 70,
+        "Sp. Def": 95,
+        "Speed": 70,
+        "Total": 475
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
+            "Yellow": "Its entire body is a snowy-white. Unharmed by even intense cold, it swims powerfully in icy waters.",
+            "Stadium": "It stores thermal energy inside its pure white, fur-covered body. It swims in frigid water at eight knots."
+        },
+        "Generation II": {
+            "Gold": "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets.",
+            "Silver": "It loves frigid seas with ice floes. It uses its long tail to change swimming direction quickly.",
+            "Crystal": "It sleeps under shallow ocean waters during the day, then looks for food at night when it's cold.",
+            "Stadium 2": "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets. (Pokémon Red, Silver, or Crystal inserted) It loves frigid seas with ice floes. It uses its long tail to change swimming direction quickly. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Dewgong loves to snooze on bitterly cold ice. The sight of this Pok é mon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
+            "Sapphire": "Dewgong loves to snooze on bitterly cold ice. The sight of this Pok é mon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
+            "Emerald": "It loves to snooze on bitterly cold ice. The sight of this Pok é mon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
+            "FireRed": "Its body is covered with a pure white fur. The colder the weather, the more active it becomes.",
+            "LeafGreen": "It stores thermal energy in the body. It swims at a steady eight knots even in intensely cold waters."
+        },
+        "Generation IV": {
+            "Diamond": "In snow, the pure white coat covering its body obscures it from predators.",
+            "Pearl": "In snow, the pure white coat covering its body obscures it from predators.",
+            "Platinum": "In snow, the pure white coat covering its body obscures it from predators.",
+            "HeartGold": "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets.",
+            "SoulSilver": "It loves frigid seas with ice floes. It uses its long tail to change swimming direction quickly."
+        },
+        "Generation V": {
+            "Black": "In snow, the pure white coat covering its body obscures it from predators.",
+            "White": "In snow, the pure white coat covering its body obscures it from predators.",
+            "Black 2": "Its streamlined body has low resistance, and it swims around cold oceans at a speed of eight knots.",
+            "White 2": "Its streamlined body has low resistance, and it swims around cold oceans at a speed of eight knots."
+        },
+        "Generation VI": {
+            "X": "Its body is covered with a pure white fur. The colder the weather, the more active it becomes.",
+            "Y": "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets.",
+            "Omega Ruby": "Dewgong loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
+            "Alpha Sapphire": "Dewgong loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It swims through the ocean at a speed of eight knots, searching for Pokémon that will become its prey. It's especially fond of Wishiwashi.",
+            "Ultra Moon": "It sunbathes on the beach after meals. The rise in its body temperature helps its digestion.",
+            "Let's Go Pikachu": "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters.",
+            "Let's Go Eevee": "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "In snow, the pure white coat covering its body obscures it from predators.",
+            "Shining Pearl": "In snow, the pure white coat covering its body obscures it from predators."
+        },
+        "Generation IX": {
+            "Scarlet": "It sleeps under shallow ocean waters during the day, then looks for food at night when it’s colder.",
+            "Violet": "It stores thermal energy in its body to fend off the cold. It swims at eight knots even in frigid waters."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Seafoam Islands",
+            "Blue": "Seafoam Islands",
+            "Blue (Japan)": "Seafoam Islands",
+            "Yellow": "Seafoam Islands Trade Growlithe at the Pokémon Lab on Cinnabar Island"
+        },
+        "Generation II": {
+            "Gold": "Evolve Seel",
+            "Silver": "Evolve Seel",
+            "Crystal": "Evolve Seel"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Seafoam Islands and Icefall Cave",
+            "LeafGreen": "Seafoam Islands and Icefall Cave",
+            "Colosseum": "Trade",
+            "XD": "Evolve Seel"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 226 and 230 ( Surfing )",
+            "Pearl": "Trade",
+            "Platinum": "Victory Road",
+            "HeartGold": "Seafoam Islands",
+            "SoulSilver": "Seafoam Islands",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Giant Chasm ( Surfing in rippling water )",
+            "White": "Giant Chasm ( Surfing in rippling water )",
+            "Black 2": "Giant Chasm and Seaside Cave ( Surfing in rippling water )",
+            "White 2": "Giant Chasm and Seaside Cave ( Surfing in rippling water )"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Ice )",
+            "Y": "Friend Safari ( Ice )",
+            "Omega Ruby": "Shoal Cave ( hidden Pokémon * )",
+            "Alpha Sapphire": "Shoal Cave ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Seel",
+            "Ultra Moon": "Evolve Seel",
+            "Let's Go Pikachu": "Seafoam Islands",
+            "Let's Go Eevee": "Seafoam Islands"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 226 and 230 ( Surfing ) Grand Underground - Fountainspring Cave , Whiteout Cave , Icy Cave , Glacial Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Polar Biome Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Seel",
+            "to": "Dewgong",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "name": "Nidoran♂",
+    "pokedex_number": "#0032",
+    "types": [
+        "Poison",
+        "Unknown"
+    ],
+    "abilities": [
+        "Poison Point",
+        "Rivalry",
+        "Hustle"
+    ],
+    "stats": {
+        "HP": 46,
+        "Attack": 57,
+        "Defense": 40,
+        "Sp. Atk": 40,
+        "Sp. Def": 40,
+        "Speed": 50,
+        "Total": 273
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
+            "Yellow": "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting.",
+            "Stadium": "Its large ears sense danger. It extends its toxic spikes when angry. The size of its body thorns indicates its toxicity."
+        },
+        "Generation II": {
+            "Gold": "It is small, but its horn is filled with poison. It charges then stabs with the horn to inject poison.",
+            "Silver": "It raises its big ears to check its surroundings. It will strike first if it senses any danger.",
+            "Crystal": "It constantly moves its large ears in many directions in order to detect danger right away.",
+            "Stadium 2": "It is small, but its horn is filled with poison. It charges then stabs with the horn to inject poison. (Pokémon Red, Silver, or Crystal inserted) It raises its big ears to check its surroundings. It will strike first if it senses any danger. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "The male Nidoran has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pok é mon 's notice.",
+            "Sapphire": "The male Nidoran has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pok é mon 's notice.",
+            "Emerald": "The male Nidoran has developed muscles that freely move its ears in any direction. Even the slightest sound does not escape this Pok é mon 's notice.",
+            "FireRed": "Its large ears are flapped like wings when it is listening to distant sounds. It extends toxic barbs when angered.",
+            "LeafGreen": "It stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom."
+        },
+        "Generation IV": {
+            "Diamond": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
+            "Pearl": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
+            "Platinum": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
+            "HeartGold": "It is small, but its horn is filled with poison. It charges then stabs with the horn to inject poison.",
+            "SoulSilver": "It raises its big ears to check its surroundings. It will strike first if it senses any danger."
+        },
+        "Generation V": {
+            "Black": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
+            "White": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
+            "Black 2": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
+            "White 2": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection."
+        },
+        "Generation VI": {
+            "X": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
+            "Y": "Its large ears are flapped like wings when it is listening to distant sounds. It extends toxic barbs when angered.",
+            "Omega Ruby": "Nidoran♂ has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice.",
+            "Alpha Sapphire": "Nidoran♂ has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting.",
+            "Let's Go Eevee": "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting."
+        },
+        "Generation VIII": {
+            "Sword": "The horn on a male Nidoran's forehead contains a powerful poison. This is a very cautious Pokémon, always straining its large ears.",
+            "Shield": "Small but brave, this Pokémon will hold its ground and even risk its life in battle to protect the female it's friendly with.",
+            "Brilliant Diamond": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
+            "Shining Pearl": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Route 22 , Safari Zone Trade Nidoran♀ in Underground Path (Kanto Routes 5–6) (Japanese Pokémon Red and Green only)",
+            "Blue": "Route 22 , Safari Zone Trade Nidoran♀ in Underground Path (Kanto Routes 5–6) (Japanese Pokémon Red and Green only)",
+            "Blue (Japan)": "Route 22 , Safari Zone",
+            "Yellow": "Routes 2 , 9 , 10 , and 22 , Safari Zone"
+        },
+        "Generation II": {
+            "Gold": "Routes 35 and 36",
+            "Silver": "Routes 35 and 36",
+            "Crystal": "National Park Morning Day Route 35 ( Swarm )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Route 3 , Safari Zone",
+            "LeafGreen": "Route 3 , Safari Zone Trade Nidoran♀ in Underground Path (Kanto Routes 5–6)",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 201 ( Poké Radar )",
+            "Pearl": "Route 201 ( Poké Radar )",
+            "Platinum": "Route 201 ( Poké Radar )",
+            "HeartGold": "Routes 35 and 36 Safari Zone Morning Day (Savannah, default)",
+            "SoulSilver": "Routes 35 and 36 Safari Zone Morning Day (Savannah, default)",
+            "Pal Park": "Field",
+            "Pokéwalker": "Refreshing Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Route 2 ( Hidden Grotto )",
+            "White 2": "Route 2 ( Hidden Grotto )",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Route 11 ( Horde Encounter )",
+            "Y": "Route 11 ( Horde Encounter )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Routes 9 , 10 , 22 and 23",
+            "Let's Go Eevee": "Routes 9 , 10 , 22 and 23"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Giant's Bed , Old Cemetery Frostpoint Field ( Wanderer ) Giant's Bed , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 201 ( Poké Radar ) Grand Underground - Grassland Cave , Swampy Cave , Riverbank Cave , Dazzling Cave , Still-Water Cavern , Sunlit Cavern , Stargleam Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 201 ( Poké Radar ) Grand Underground - Grassland Cave , Swampy Cave , Riverbank Cave , Dazzling Cave , Still-Water Cavern , Sunlit Cavern , Stargleam Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Nidoran♂",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Nidoran♂",
+            "to": "Nidorino",
+            "method": [
+                "Level 16"
+            ]
+        }
+    ]
+}

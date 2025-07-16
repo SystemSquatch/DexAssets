@@ -1,0 +1,145 @@
+{
+    "name": "Kingler",
+    "pokedex_number": "#0099",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Hyper Cutter",
+        "Shell Armor",
+        "Sheer Force"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 130,
+        "Defense": 115,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 75,
+        "Total": 475
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",
+            "Yellow": "One claw grew massively and as hard as steel. It has 10,000-HP strength. However, it is too heavy.",
+            "Stadium": "Said to be capable of prying open Shellder and Cloyster shells using its 10,000-horsepower pincer."
+        },
+        "Generation II": {
+            "Gold": "It can hardly lift its massive, overgrown pincer. The pincer's size makes it difficult to aim properly.",
+            "Silver": "Its pincers grow peculiarly large. If it lifts the pincers too fast, it loses its balance and staggers.",
+            "Crystal": "Its oversized claw is very powerful, but when it's not in battle, the claw just gets in the way.",
+            "Stadium 2": "It can hardly lift its massive, overgrown pincer. The pincer's size makes it difficult to aim properly. (Pokémon Red, Silver, or Crystal inserted) Its pincers grow peculiarly large. If it lifts the pincers too fast, it loses its balance and staggers. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pok é mon quickly tires.",
+            "Sapphire": "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pok é mon quickly tires.",
+            "Emerald": "It waves its huge, oversized claw in the air to communicate with others. But since the claw is so heavy, this Pok é mon quickly tires.",
+            "FireRed": "Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.",
+            "LeafGreen": "The large pincer has 10,000-horsepower crushing force. However, its huge size makes it unwieldy to use."
+        },
+        "Generation IV": {
+            "Diamond": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
+            "Pearl": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
+            "Platinum": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
+            "HeartGold": "It can hardly lift its massive, overgrown pincer. The pincer's size makes it difficult to aim properly.",
+            "SoulSilver": "Its pincers grow peculiarly large. If it lifts the pincers too fast, it loses its balance and staggers."
+        },
+        "Generation V": {
+            "Black": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
+            "White": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
+            "Black 2": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
+            "White 2": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim."
+        },
+        "Generation VI": {
+            "X": "Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.",
+            "Y": "Its pincers grow peculiarly large. If it lifts the pincers too fast, it loses its balance and staggers.",
+            "Omega Ruby": "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
+            "Alpha Sapphire": "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "One claw grew massively and is as hard as steel. It has 10,000-horsepower strength. However, it is too heavy.",
+            "Let's Go Eevee": "One claw grew massively and is as hard as steel. It has 10,000-horsepower strength. However, it is too heavy."
+        },
+        "Generation VIII": {
+            "Sword": "Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.",
+            "Shield": "Its oversized claw is very powerful, but when it's not in battle, the claw just gets in the way.",
+            "Brilliant Diamond": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.",
+            "Shining Pearl": "The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Route 23 , Cerulean Cave ( Super Rod )",
+            "Blue": "Route 23 , Cerulean Cave ( Super Rod ) Seafoam Islands",
+            "Blue (Japan)": "Route 23 , Cerulean Cave ( Super Rod ) Seafoam Islands",
+            "Yellow": "Routes 10 and 25 , Seafoam Islands ( Super Rod ) Seafoam Islands"
+        },
+        "Generation II": {
+            "Gold": "Routes 19 , 34 , and 40 , Olivine City , Whirl Islands , Cianwood City , Cerulean City and Gym , Cherrygrove City , Union Cave ( Super Rod )",
+            "Silver": "Routes 19 , 34 , and 40 , Olivine City , Whirl Islands , Cianwood City , Cerulean City and Gym , Cherrygrove City , Union Cave ( Super Rod )",
+            "Crystal": "Routes 19 , 34 , and 40 , Olivine City , Whirl Islands , Cianwood City , Cerulean City , Cherrygrove City , Union Cave ( Super Rod )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Krabby",
+            "LeafGreen": "Routes 19 , 20 , and 21 , Kindle Road , Treasure Beach , Bond Bridge , Resort Gorgeous , Water Labyrinth , Five Isle Meadow , Memorial Pillar , Green Path , Water Path , Outcast Island , Trainer Tower , Tanoby Ruins , One Island , Five Island , Icefall Cave , Pallet Town ( Super Rod )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Krabby",
+            "Pearl": "Evolve Krabby",
+            "Platinum": "Evolve Krabby",
+            "HeartGold": "Cherrygrove City , Olivine City , Cianwood City , Union Cave B2F, Whirl Islands 1F/B1F/B2F, Seafoam Islands B4F, Routes 34 and 40 ( Super Rod ) Cliff Cave (walking and Rock Smash ) Route 19 ( Super Rod and Rock Smash ) Safari Zone (Super Rod in Rocky Beach - default, tall grass with 8 Peak points, Good Rod with 5 Waterside points, and with 8 Waterside points; Wasteland with 10 Waterside points)",
+            "SoulSilver": "Cherrygrove City , Olivine City , Cianwood City , Union Cave B2F, Whirl Islands 1F/B1F/B2F, Seafoam Islands B4F, Routes 34 and 40 ( Super Rod ) Cliff Cave (walking and Rock Smash ) Route 19 ( Super Rod and Rock Smash ) Safari Zone (Super Rod in Rocky Beach - default, tall grass with 8 Peak points, Good Rod with 5 Waterside points, and with 8 Waterside points; Wasteland with 10 Waterside points)",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Routes 4 , 13 , Driftveil City ( fishing in rippling water )",
+            "White": "Routes 4 , 13 , Driftveil City ( fishing in rippling water )",
+            "Black 2": "Virbank City and Virbank Complex ( fishing in rippling water ) Route 18 ( Hidden Grotto ) *",
+            "White 2": "Virbank City and Virbank Complex ( fishing in rippling water ) Route 18 ( Hidden Grotto ) *"
+        },
+        "Generation VI": {
+            "X": "Evolve Krabby",
+            "Y": "Evolve Krabby",
+            "Omega Ruby": "Evolve Krabby",
+            "Alpha Sapphire": "Evolve Krabby"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Routes 12 and 13",
+            "Let's Go Eevee": "Routes 12 and 13"
+        },
+        "Generation VIII": {
+            "Sword": "Route 9 , Axew's Eye South Lake Miloch , West Lake Axewell ( Wanderer ) Dusty Bowl , Giant's Cap , Giant's Mirror , North Lake Miloch , South Lake Miloch , West Lake Axewell ( Max Raid Battle ) South Lake Miloch , West Lake Axewell ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Shield": "Route 9 , Axew's Eye South Lake Miloch , West Lake Axewell ( Wanderer ) Dusty Bowl , Giant's Cap , Giant's Mirror , North Lake Miloch , South Lake Miloch , West Lake Axewell ( Max Raid Battle ) South Lake Miloch , West Lake Axewell ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Expansion Pass": "Fields of Honor , Training Lowlands ( Wanderer ) Fields of Honor , Challenge Beach , Loop Lagoon , Insular Sea , Giant's Bed , Giant's Foot , Ballimere Lake , Frigid Sea ( Max Raid Battle ) Giant's Bed , Giant's Foot , Ballimere Lake , Frigid Sea ( Max Raid Battle ) ( Gigantamax Factor ) Max Lair ( Dynamax Adventure ) ( Gigantamax Factor )",
+            "Brilliant Diamond": "Evolve Krabby",
+            "Shining Pearl": "Evolve Krabby",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Krabby",
+            "to": "Kingler",
+            "method": [
+                "Level 28"
+            ]
+        }
+    ]
+}

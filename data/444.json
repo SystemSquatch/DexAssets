@@ -1,0 +1,119 @@
+{
+    "name": "Gabite",
+    "pokedex_number": "#0444",
+    "types": [
+        "Dragon",
+        "Ground"
+    ],
+    "abilities": [
+        "Sand Veil",
+        "Rough Skin"
+    ],
+    "stats": {
+        "HP": 68,
+        "Attack": 90,
+        "Defense": 65,
+        "Sp. Atk": 50,
+        "Sp. Def": 55,
+        "Speed": 82,
+        "Total": 410
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "There is a long-held belief that medicine made from its scales will heal even incurable illnesses.",
+            "Pearl": "It habitually digs up and hoards gems in its nest. Its loot is constantly targeted by thieves.",
+            "Platinum": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
+            "HeartGold": "As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest.",
+            "SoulSilver": "As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest."
+        },
+        "Generation V": {
+            "Black": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
+            "White": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
+            "Black 2": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
+            "White 2": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest."
+        },
+        "Generation VI": {
+            "X": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
+            "Y": "As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest.",
+            "Omega Ruby": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
+            "Alpha Sapphire": "As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest."
+        },
+        "Generation VII": {
+            "Sun": "In rare cases, it molts and sheds its scales. Medicine containing its scales as an ingredient will make a weary body feel invigorated.",
+            "Moon": "Shiny objects are its passion. It can be found in its cave, scarcely moving, its gaze fixed on the jewels it's amassed or Carbink it has caught.",
+            "Ultra Sun": "It loves shiny things. When it finds a Sableye trying to catch a Carbink, Gabite becomes furiously angry and attacks the Sableye.",
+            "Ultra Moon": "It sheds its skin and gradually grows larger. Its scales can be ground into a powder and used as raw materials for traditional medicine."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon emits ultrasonic waves from a protrusion on either side of its head to probe pitch-dark caves.",
+            "Shield": "Jewels are buried in the caves these Pokémon nest in, but you'll be torn apart by claws and fangs the moment you enter one of these caves.",
+            "Brilliant Diamond": "There is a long-held belief that medicine made from its scales will heal incurable illnesses.",
+            "Shining Pearl": "It habitually digs up and hoards gems in its nest. Its loot is constantly targeted by thieves.",
+            "Legends: Arceus": "Though Gabite are usually of a violent disposition, when I gave one a glass bead it had been eyeing covetously, it suddenly became quite docile."
+        },
+        "Generation IX": {
+            "Scarlet": "In rare cases, it molts and sheds its scales. Medicine containing its scales as an ingredient will make a weary body feel invigorated.",
+            "Violet": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Gible",
+            "Pearl": "Evolve Gible",
+            "Platinum": "Victory Road",
+            "HeartGold": "Evolve Gible",
+            "SoulSilver": "Evolve Gible"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Evolve Gible",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Dragon )",
+            "Y": "Friend Safari ( Dragon )",
+            "Omega Ruby": "Evolve Gible",
+            "Alpha Sapphire": "Evolve Gible"
+        },
+        "Generation VII": {
+            "Sun": "Haina Desert ( SOS Battle )",
+            "Moon": "Haina Desert ( SOS Battle )",
+            "Ultra Sun": "Haina Desert ( SOS Battle )",
+            "Ultra Moon": "Haina Desert ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Shield Expansion Pass": "Giant's Bed , Path to the Peak , Ballimere Lake , Three-Point Pass , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Grand Underground - Riverbank Cave , Fountainspring Cave , Still-Water Cavern (After obtaining TM99 ( Waterfall ))",
+            "Shining Pearl": "Grand Underground - Riverbank Cave , Fountainspring Cave , Still-Water Cavern (After obtaining TM99 ( Waterfall ))",
+            "Legends: Arceus": "Coronet Highlands : near Clamberclaw Cliffs , Clamberclaw Cliffs ( mass outbreaks ), massive mass outbreaks Alabaster Icelands : Avalanche Slopes"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six , Alfornada Cavern West Province: Area Two North Province: Area Two , Dalizapa Passage , Glaseado Mountain Area Zero Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Area Six , Alfornada Cavern West Province: Area Two North Province: Area Two , Dalizapa Passage , Glaseado Mountain Area Zero Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Crystal Pool"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Gible",
+            "to": "Gabite",
+            "method": [
+                "Level 24"
+            ]
+        },
+        {
+            "from": "Gabite",
+            "to": "Garchomp",
+            "method": [
+                "Level 48"
+            ]
+        }
+    ]
+}

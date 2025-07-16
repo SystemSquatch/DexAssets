@@ -1,0 +1,44 @@
+{
+    "name": "Meowscarada",
+    "pokedex_number": "#0908",
+    "types": [
+        "Grass",
+        "Dark"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Protean"
+    ],
+    "stats": {
+        "HP": 76,
+        "Attack": 110,
+        "Defense": 70,
+        "Sp. Atk": 81,
+        "Sp. Def": 70,
+        "Speed": 123,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon uses the reflective fur lining in its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.",
+            "Violet": "With skillful misdirection, it rigs foes with pollen-packed flower bombs. Meowscarada sets off the bombs before its foes realize what's going on."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Evolve Floragato",
+            "Violet": "Evolve Floragato"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Floragato",
+            "to": "Meowscarada",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

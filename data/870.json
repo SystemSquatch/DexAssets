@@ -1,0 +1,48 @@
+{
+    "name": "Falinks",
+    "pokedex_number": "#0870",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Battle Armor",
+        "Defiant"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 100,
+        "Defense": 100,
+        "Sp. Atk": 70,
+        "Sp. Def": 60,
+        "Speed": 75,
+        "Total": 470
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Five of them are troopers, and one is the brass. The brass's orders are absolute.",
+            "Shield": "The six of them work together as one Pokémon. Teamwork is also their battle strategy, and they constantly change their formation as they fight."
+        },
+        "Generation IX": {
+            "Scarlet": "The brass, which is the one that stands at the front and issues orders, is the strongest and smartest of the six.",
+            "Violet": "The leader, known as the brass, uses its extendible horn to issue orders to the others when it's time to change formation."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Route 8 , Lake of Outrage Dusty Bowl , North Lake Miloch , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 8 , Lake of Outrage Dusty Bowl , North Lake Miloch , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Frostpoint Field , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area One , Area Two North Province: Area Two East Province: Area Three ( Steel Tera Type ) Tera Raid Battles ( 4★ , 5★ )",
+            "Violet": "West Province: Area One , Area Two North Province: Area Two East Province: Area Three ( Steel Tera Type ) Tera Raid Battles ( 4★ , 5★ )"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,145 @@
+{
+    "name": "Snubbull",
+    "pokedex_number": "#0209",
+    "types": [
+        "Fairy",
+        "Unknown"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Run Away",
+        "Rattled"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 50,
+        "Sp. Atk": 40,
+        "Sp. Def": 40,
+        "Speed": 30,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Although it looks frightening, it is actually kind and affectionate. It is very popular among women.",
+            "Silver": "It has an active, playful nature. Many women like to frolic with it because of its affectionate ways.",
+            "Crystal": "In truth, it is a cowardly Pok é mon . It growls eagerly in order to hide its fear from its opponent.",
+            "Stadium 2": "Although it looks frightening, it is actually kind and affectionate. It is very popular among women. (Pokémon Red, Silver, or Crystal inserted) It has an active, playful nature. Many women like to frolic with it because of its affectionate ways. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "By baring its fangs and making a scary face, Snubbull sends smaller Pok é mon scurrying away in terror. However, this Pok é mon seems a little sad at making its foes flee.",
+            "Sapphire": "By baring its fangs and making a scary face, Snubbull sends smaller Pok é mon scurrying away in terror. However, this Pok é mon seems a little sad at making its foes flee.",
+            "Emerald": "By baring its fangs and making a scary face, it sends smaller Pok é mon scurrying in terror. The Snubbull does seem a little sad at making its foes flee.",
+            "FireRed": "It has an active, playful nature. Many women like to frolic with it because of its affectionate ways.",
+            "LeafGreen": "Although it looks frightening, it is actually kind and affectionate. It is very popular among women."
+        },
+        "Generation IV": {
+            "Diamond": "Small Pokémon flee from its scary face. It is, however, considered by women to be cute.",
+            "Pearl": "Small Pokémon flee from its scary face. It is, however, considered by women to be cute.",
+            "Platinum": "Small Pokémon flee from its scary face. It is, however, considered by women to be cute.",
+            "HeartGold": "Although it looks frightening, it is actually kind and affectionate. It is very popular among women.",
+            "SoulSilver": "It has an active, playful nature. Many women like to frolic with it because of its affectionate ways."
+        },
+        "Generation V": {
+            "Black": "Small Pokémon flee from its scary face. It is, however, considered by women to be cute.",
+            "White": "Small Pokémon flee from its scary face. It is, however, considered by women to be cute.",
+            "Black 2": "Small Pokémon flee from its scary face. It is, however, considered by women to be cute.",
+            "White 2": "Small Pokémon flee from its scary face. It is, however, considered by women to be cute."
+        },
+        "Generation VI": {
+            "X": "It has an active, playful nature. Many women like to frolic with it because of its affectionate ways.",
+            "Y": "Small Pokémon flee from its scary face. It is, however, considered by women to be cute.",
+            "Omega Ruby": "By baring its fangs and making a scary face, Snubbull sends smaller Pokémon scurrying away in terror. However, this Pokémon seems a little sad at making its foes flee.",
+            "Alpha Sapphire": "By baring its fangs and making a scary face, Snubbull sends smaller Pokémon scurrying away in terror. However, this Pokémon seems a little sad at making its foes flee."
+        },
+        "Generation VII": {
+            "Sun": "Despite its intimidating face, it's quite cowardly. Its desperate attempts to appear threatening make it popular with people.",
+            "Moon": "Its growls make its opponents uneasy. This laid-back Pokémon tends to sleep half the day.",
+            "Ultra Sun": "It grows close to others easily and is also easily spoiled. The disparity between its face and its actions makes many young people wild about it.",
+            "Ultra Moon": "In contrast to its appearance, it's quite timid. When playing with other puppy Pokémon, it sometimes gets bullied."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Small Pokémon flee from its scary face. It is, however, considered by many people to be cute.",
+            "Shining Pearl": "Small Pokémon flee from its scary face. It is, however, considered by many people to be cute."
+        },
+        "Generation IX": {
+            "Scarlet": "In truth, it is a cowardly Pokémon. It growls eagerly in order to hide its fear from its opponent.",
+            "Violet": "Its growls make its opponents uneasy. This laid-back Pokémon tends to sleep half the day."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Route 38",
+            "Silver": "Route 38",
+            "Crystal": "Routes 5 , 6 , 7 , 8 , 34 , and 35 Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Safari Zone extension",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 209 ( Swarm )",
+            "Pearl": "Route 209 ( Swarm )",
+            "Platinum": "Route 209 ( Swarm )",
+            "HeartGold": "Route 38",
+            "SoulSilver": "Route 38",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Breed Granbull",
+            "White 2": "Breed Granbull",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Route 10 , Friend Safari ( Fairy )",
+            "Y": "Route 10 , Friend Safari ( Fairy )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Breed Granbull",
+            "Moon": "Breed Granbull",
+            "Ultra Sun": "Breed Granbull , Poké Pelago *",
+            "Ultra Moon": "Breed Granbull , Poké Pelago *",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 209 ( Swarm ) Grand Underground - Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 209 ( Swarm ) Grand Underground - Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Chargestone Cavern , Polar Biome Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Snubbull",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Snubbull",
+            "to": "Granbull",
+            "method": [
+                "Level 23"
+            ]
+        }
+    ]
+}

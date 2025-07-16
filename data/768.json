@@ -1,0 +1,66 @@
+{
+    "name": "Golisopod",
+    "pokedex_number": "#0768",
+    "types": [
+        "Bug",
+        "Water"
+    ],
+    "abilities": [
+        "Emergency Exit"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 140,
+        "Sp. Atk": 60,
+        "Sp. Def": 90,
+        "Speed": 40,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "With a flashing slash of its giant sharp claws, it cleaves seawater—or even air—right in two.",
+            "Moon": "It battles skillfully with its six arms, but spends most of its time peacefully meditating in caves deep beneath the sea.",
+            "Ultra Sun": "The shell covering its body is as hard as diamond. This Pokémon will do anything it takes to win.",
+            "Ultra Moon": "Its claws, which it can extend and retract at will, are its greatest weapons. Golisopod is sometimes accompanied by Wimpod ."
+        },
+        "Generation VIII": {
+            "Sword": "It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs.",
+            "Shield": "They live in sunken ships or in holes in the seabed. When Golisopod and Grapploct battle, the loser becomes the winner's meal."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Evolve Wimpod",
+            "Moon": "Evolve Wimpod",
+            "Ultra Sun": "Evolve Wimpod",
+            "Ultra Moon": "Evolve Wimpod",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Rolling Fields , Dappled Grove , South Lake Miloch , Bridge Field ( Max Raid Battle )",
+            "Shield": "Lake of Outrage Rolling Fields , Dappled Grove , South Lake Miloch , Bridge Field ( Max Raid Battle )",
+            "Expansion Pass": "Challenge Beach , Courageous Cavern ( Wanderer )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Wimpod",
+            "to": "Golisopod",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

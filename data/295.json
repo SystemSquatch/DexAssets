@@ -1,0 +1,119 @@
+{
+    "name": "Exploud",
+    "pokedex_number": "#0295",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Soundproof",
+        "Scrappy"
+    ],
+    "stats": {
+        "HP": 104,
+        "Attack": 91,
+        "Defense": 63,
+        "Sp. Atk": 91,
+        "Sp. Def": 63,
+        "Speed": 68,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Exploud triggers earthquakes with the tremors it creates by bellowing. If this Pok é mon violently inhales from the ports on its body, it's a sign that it is preparing to let loose a huge bellow.",
+            "Sapphire": "Exploud communicates its feelings to the others by emitting whistle-like sounds from the tubes on its body. This Pok é mon only raises its voice when it is in battle.",
+            "Emerald": "It has sound-generating organs all over its body. It communicates with others by adjusting the tone and volume of the cries it emits.",
+            "FireRed": "It emits a variety of sounds from the holes all over its body. Its loud cries can be heard from over six miles away.",
+            "LeafGreen": "It emits a variety of sounds from the holes all over its body. Its loud cries can be heard from over six miles away."
+        },
+        "Generation IV": {
+            "Diamond": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+            "Pearl": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+            "Platinum": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+            "HeartGold": "Its roar in battle shakes the ground like a tremor--or like an earthquake has struck.",
+            "SoulSilver": "Its roar in battle shakes the ground like a tremor--or like an earthquake has struck."
+        },
+        "Generation V": {
+            "Black": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+            "White": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+            "Black 2": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+            "White 2": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body."
+        },
+        "Generation VI": {
+            "X": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+            "Y": "Its roar in battle shakes the ground like a tremor--or like an earthquake has struck.",
+            "Omega Ruby": "Exploud triggers earthquakes with the tremors it creates by bellowing. If this Pokémon violently inhales from the ports on its body, it's a sign that it is preparing to let loose a huge bellow.",
+            "Alpha Sapphire": "Exploud communicates its feelings to the others by emitting whistle-like sounds from the tubes on its body. This Pokémon only raises its voice when it is in battle."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "In the past, people would use the loud voices of these Pokémon as a means of communication between distant cities.",
+            "Shield": "This Pokémon can do more than just shout. To communicate with others of its kind, it'll emit all sorts of sounds from the holes in its body.",
+            "Brilliant Diamond": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+            "Shining Pearl": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Loudred",
+            "Sapphire": "Evolve Loudred",
+            "Emerald": "Evolve Loudred",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Loudred",
+            "Pearl": "Evolve Loudred",
+            "Platinum": "Evolve Loudred",
+            "HeartGold": "Evolve Loudred",
+            "SoulSilver": "Evolve Loudred",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Loudred",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Loudred",
+            "Y": "Evolve Loudred",
+            "Omega Ruby": "Evolve Loudred",
+            "Alpha Sapphire": "Evolve Loudred"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Loudred",
+            "Shining Pearl": "Evolve Loudred",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Loudred",
+            "to": "Exploud",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Grafaiai",
+    "pokedex_number": "#0945",
+    "types": [
+        "Poison",
+        "Normal"
+    ],
+    "abilities": [
+        "Unburden",
+        "Poison Touch",
+        "Prankster"
+    ],
+    "stats": {
+        "HP": 63,
+        "Attack": 95,
+        "Defense": 65,
+        "Sp. Atk": 80,
+        "Sp. Def": 72,
+        "Speed": 110,
+        "Total": 485
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
+            "Violet": "Each Grafaiai paints its own individual pattern, and it will paint that same pattern over and over again throughout its life."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "East Province: Tagtree Thicket North Province: Area Two , Casseroya Lake East Province: Tagtree Thicket ( Bug Tera Type ) Tera Raid Battles ( 4★ , 6★ )",
+            "Violet": "East Province: Tagtree Thicket North Province: Area Two , Casseroya Lake East Province: Tagtree Thicket ( Bug Tera Type ) Tera Raid Battles ( 4★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Shroodle",
+            "to": "Grafaiai",
+            "method": [
+                "Level 28"
+            ]
+        }
+    ]
+}

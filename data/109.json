@@ -1,0 +1,157 @@
+{
+    "name": "Koffing",
+    "pokedex_number": "#0109",
+    "types": [
+        "Poison",
+        "Unknown"
+    ],
+    "abilities": [
+        "Levitate",
+        "Neutralizing Gas",
+        "Stench"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 65,
+        "Defense": 95,
+        "Sp. Atk": 60,
+        "Sp. Def": 45,
+        "Speed": 35,
+        "Total": 340
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+            "Yellow": "In hot places, its internal gases could expand and explode without any warning. Be very careful!",
+            "Stadium": "A Pokémon that is a  like a thin-skinned balloon filled with a highly toxic gas. Known to occasionally explode."
+        },
+        "Generation II": {
+            "Gold": "Its thin, filmy body is filled with gases that cause constant sniffles, coughs and teary eyes.",
+            "Silver": "The poisonous gases it contains are a little bit lighter than air, keeping it slightly airborne.",
+            "Crystal": "If one gets close enough to it when it expels poisonous gas, the gas swirling inside it can be seen.",
+            "Stadium 2": "Its thin, filmy body is filled with gases that cause constant sniffles, coughs and teary eyes. (Pokémon Red, Silver, or Crystal inserted) The poisonous gases it contains are a little bit lighter than air, keeping it slightly airborne. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "If Koffing becomes agitated, it raises the toxicity of its internal gases and jets them out from all over its body. This Pok é mon may also overinflate its round body, then explode.",
+            "Sapphire": "Koffing embodies toxic substances. It mixes the toxins with raw garbage to set off a chemical reaction that results in a terribly powerful poison gas. The higher the temperature, the more gas is concocted by this Pok é mon .",
+            "Emerald": "Getting up close to a Koffing will give you a chance to observe, through its thin skin, the toxic gases swirling inside. It blows up at the slightest stimulation.",
+            "FireRed": "Its thin, balloon-like body is inflated by horribly toxic gases. It reeks when it is nearby.",
+            "LeafGreen": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning."
+        },
+        "Generation IV": {
+            "Diamond": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+            "Pearl": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+            "Platinum": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+            "HeartGold": "Its thin, filmy body is filled with gases that cause constant sniffles, coughs and teary eyes.",
+            "SoulSilver": "The poisonous gases it contains are a little bit lighter than air, keeping it slightly airborne."
+        },
+        "Generation V": {
+            "Black": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+            "White": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+            "Black 2": "Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions.",
+            "White 2": "Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions."
+        },
+        "Generation VI": {
+            "X": "Its thin, balloon-like body is inflated by horribly toxic gases. It reeks when it is nearby.",
+            "Y": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+            "Omega Ruby": "If Koffing becomes agitated, it raises the toxicity of its internal gases and jets them out from all over its body. This Pokémon may also overinflate its round body, then explode.",
+            "Alpha Sapphire": "Koffing embodies toxic substances. It mixes the toxins with raw garbage to set off a chemical reaction that results in a terribly powerful poison gas. The higher the temperature, the more gas is concocted by this Pokémon."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "In hot places, its internal gases could expand and explode without any warning. Be very careful!",
+            "Let's Go Eevee": "In hot places, its internal gases could expand and explode without any warning. Be very careful!"
+        },
+        "Generation VIII": {
+            "Sword": "Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash.",
+            "Shield": "It adores polluted air. Some claim that Koffing used to be more plentiful in the Galar region than they are now.",
+            "Brilliant Diamond": "Lighter-than-air gases in its body keep it aloft. The gases not only smell; they are also explosive.",
+            "Shining Pearl": "Lighter-than-air gases in its body keep it aloft. The gases not only smell; they are also explosive."
+        },
+        "Generation IX": {
+            "Scarlet": "Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions.",
+            "Violet": "The poisonous gases it contains are a little bit lighter than air. That's why it's always slightly airborne."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Pokémon Mansion",
+            "Blue": "Pokémon Mansion",
+            "Blue (Japan)": "Pokémon Mansion",
+            "Yellow": "Trade"
+        },
+        "Generation II": {
+            "Gold": "Burned Tower Team Rocket HQ ( Seven )",
+            "Silver": "Burned Tower Team Rocket HQ ( Seven )",
+            "Crystal": "Burned Tower Team Rocket HQ ( Seven )"
+        },
+        "Generation III": {
+            "Ruby": "Fiery Path",
+            "Sapphire": "Fiery Path",
+            "Emerald": "Fiery Path",
+            "FireRed": "Pokémon Mansion Celadon City ( surfing )",
+            "LeafGreen": "Pokémon Mansion Celadon City ( surfing )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Breed Weezing",
+            "Pearl": "Breed Weezing",
+            "Platinum": "Stark Mountain",
+            "HeartGold": "Burned Tower Safari Zone (tall grass in Marshland, default) Team Rocket HQ ( Five )",
+            "SoulSilver": "Burned Tower Safari Zone (tall grass in Marshland, default) Team Rocket HQ ( Five )",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Town Outskirts"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Virbank Complex",
+            "White 2": "Virbank Complex",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Fiery Path",
+            "Alpha Sapphire": "Fiery Path"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Trade",
+            "Let's Go Eevee": "Power Plant , Pokémon Mansion"
+        },
+        "Generation VIII": {
+            "Sword": "Dusty Bowl , Giant's Mirror , Motostoke Outskirts , Motostoke Riverbank East Lake Axewell , Giant's Cap , Hammerlocke Hills , Motostoke Riverbank , North Lake Miloch ( Max Raid Battle )",
+            "Shield": "Dusty Bowl , Giant's Mirror , Motostoke Outskirts , Motostoke Riverbank East Lake Axewell , Giant's Cap , Hammerlocke Hills , Motostoke Riverbank , North Lake Miloch ( Max Raid Battle )",
+            "Brilliant Diamond": "Breed Weezing",
+            "Shining Pearl": "Breed Weezing",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Infernal Pass , Crystal Pool"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Koffing",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Koffing",
+            "to": "Weezing",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

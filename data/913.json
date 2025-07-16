@@ -1,0 +1,51 @@
+{
+    "name": "Quaxwell",
+    "pokedex_number": "#0913",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Moxie"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 65,
+        "Sp. Atk": 65,
+        "Sp. Def": 60,
+        "Speed": 65,
+        "Total": 410
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "These Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully.",
+            "Violet": "The hardworking Quaxwell observes people and Pokémon from various regions and incorporates their movements into its own dance routines."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Evolve Quaxly",
+            "Violet": "Evolve Quaxly"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Quaxly",
+            "to": "Quaxwell",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Quaxwell",
+            "to": "Quaquaval",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

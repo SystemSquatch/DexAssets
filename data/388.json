@@ -1,0 +1,111 @@
+{
+    "name": "Grotle",
+    "pokedex_number": "#0388",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Shell Armor"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 89,
+        "Defense": 85,
+        "Sp. Atk": 55,
+        "Sp. Def": 65,
+        "Speed": 36,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.",
+            "Pearl": "The shell is hardened soil. Some Pokémon come to peck the berries growing on the trees on its back.",
+            "Platinum": "It knows where pure water wells up. It carries fellow Pokémon there on its back.",
+            "HeartGold": "A Grotle that lives in the forest is said to have its own secret springwater.",
+            "SoulSilver": "A Grotle that lives in the forest is said to have its own secret springwater."
+        },
+        "Generation V": {
+            "Black": "It knows where pure water wells up. It carries fellow Pokémon there on its back.",
+            "White": "It knows where pure water wells up. It carries fellow Pokémon there on its back.",
+            "Black 2": "It knows where pure water wells up. It carries fellow Pokémon there on its back.",
+            "White 2": "It knows where pure water wells up. It carries fellow Pokémon there on its back."
+        },
+        "Generation VI": {
+            "X": "It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.",
+            "Y": "It knows where pure water wells up. It carries fellow Pokémon there on its back.",
+            "Omega Ruby": "It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.",
+            "Alpha Sapphire": "It knows where pure water wells up. It carries fellow Pokémon there on its back."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It lives along water in forests. In the daytime, it leaves the forest to sunbathe the trees on its shell.",
+            "Shining Pearl": "Its shell is hardened soil. Some Pokémon come to peck the berries growing on the trees on its back.",
+            "Legends: Arceus": "Appears where there is clean spring water. The fruit that grows on the shrubs on its shell is sweet, nutritious, and truly delicious."
+        },
+        "Generation IX": {
+            "Scarlet": "Grotle live in the forest. Each is said to have its own secret place for getting clean springwater.",
+            "Violet": "It knows where pure water wells up. It carries fellow Pokémon there on its back."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Turtwig",
+            "Pearl": "Evolve Turtwig",
+            "Platinum": "Evolve Turtwig",
+            "HeartGold": "Trade",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Evolve Global Link event Turtwig",
+            "White": "Evolve Global Link event Turtwig",
+            "Black 2": "Evolve Global Link event Turtwig",
+            "White 2": "Evolve Global Link event Turtwig"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Turtwig",
+            "Alpha Sapphire": "Evolve Turtwig"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ula'ula Meadow ( Island Scan ) We",
+            "Ultra Moon": "Ula'ula Meadow ( Island Scan ) We",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Turtwig",
+            "Shining Pearl": "Evolve Turtwig",
+            "Legends: Arceus": "Crimson Mirelands : near Droning Meadow , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Evolve Turtwig"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Turtwig",
+            "to": "Grotle",
+            "method": [
+                "Level 18"
+            ]
+        },
+        {
+            "from": "Grotle",
+            "to": "Torterra",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

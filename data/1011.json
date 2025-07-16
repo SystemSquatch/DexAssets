@@ -1,0 +1,53 @@
+{
+    "name": "Dipplin",
+    "pokedex_number": "#1011",
+    "types": [
+        "Grass",
+        "Dragon"
+    ],
+    "abilities": [
+        "Supersweet Syrup",
+        "Gluttony",
+        "Sticky Hold"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 110,
+        "Sp. Atk": 95,
+        "Sp. Def": 80,
+        "Speed": 40,
+        "Total": 485
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Dipplin is two creatures in one Pokémon. Its evolution was triggered by a special apple grown only in one place.",
+            "Violet": "The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Applin",
+            "to": "Dipplin",
+            "method": [
+                "Unknown"
+            ]
+        },
+        {
+            "from": "Dipplin",
+            "to": "Hydrapple",
+            "method": [
+                "Unknown"
+            ]
+        }
+    ]
+}

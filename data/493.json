@@ -1,0 +1,91 @@
+{
+    "name": "Arceus",
+    "pokedex_number": "#0493",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Multitype"
+    ],
+    "stats": {
+        "HP": 120,
+        "Attack": 120,
+        "Defense": 120,
+        "Sp. Atk": 120,
+        "Sp. Def": 120,
+        "Speed": 120,
+        "Total": 720
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It is described in mythology as the Pokémon that shaped the universe with its 1,000 arms.",
+            "Pearl": "It is told in mythology that this Pokémon was born before the universe even existed.",
+            "Platinum": "It is said to have emerged from an egg in a place where there was nothing, then shaped the world.",
+            "HeartGold": "According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world.",
+            "SoulSilver": "According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world."
+        },
+        "Generation V": {
+            "Black": "It is said to have emerged from an egg in a place where there was nothing, then shaped the world.",
+            "White": "It is said to have emerged from an egg in a place where there was nothing, then shaped the world.",
+            "Black 2": "It is said to have emerged from an egg in a place where there was nothing then shaped the world.",
+            "White 2": "It is said to have emerged from an egg in a place where there was nothing then shaped the world."
+        },
+        "Generation VI": {
+            "X": "According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world.",
+            "Y": "It is told in mythology that this Pokémon was born before the universe even existed.",
+            "Omega Ruby": "According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world.",
+            "Alpha Sapphire": "It is told in mythology that this Pokémon was born before the universe even existed."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It is described in mythology as the Pokémon that shaped the universe with its 1,000 arms.",
+            "Shining Pearl": "It is told in mythology that this Pokémon was the first Pokémon born before the universe even existed.",
+            "Legends: Arceus": "It is the heavenly fount from which pours the light that shines across Hisui. Its luminance guides and protects all Pokémon. Hisuian mythology states that Arceus is the creator of all things."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Hall of Origin (requires Azure Flute * ) ( Only one ) Event",
+            "Pearl": "Hall of Origin (requires Azure Flute * ) ( Only one ) Event",
+            "Platinum": "Hall of Origin (requires Azure Flute * ) ( Only one ) Event",
+            "HeartGold": "Trade",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Event",
+            "White": "Event",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Event",
+            "Y": "Event",
+            "Omega Ruby": "Event",
+            "Alpha Sapphire": "Event"
+        },
+        "Generation VII": {
+            "Sun": "Trade Pokémon Bank",
+            "Moon": "Trade Pokémon Bank",
+            "Ultra Sun": "Event",
+            "Ultra Moon": "Event",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Hall of Origin ( Only one * ) Version 1.3.0+",
+            "Shining Pearl": "Hall of Origin ( Only one * ) Version 1.3.0+",
+            "Legends: Arceus": "Coronet Highlands : Hall of Origin ( Only one )"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME",
+            "Violet": "Pokémon HOME"
+        }
+    },
+    "evolution": []
+}

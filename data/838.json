@@ -1,0 +1,64 @@
+{
+    "name": "Carkol",
+    "pokedex_number": "#0838",
+    "types": [
+        "Rock",
+        "Fire"
+    ],
+    "abilities": [
+        "Steam Engine",
+        "Flame Body",
+        "Flash Fire"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 60,
+        "Defense": 90,
+        "Sp. Atk": 60,
+        "Sp. Def": 70,
+        "Speed": 50,
+        "Total": 410
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "It forms coal inside its body. Coal dropped by this Pokémon once helped fuel the lives of people in the Galar region.",
+            "Shield": "By rapidly rolling its legs, it can travel at over 18 mph . The temperature of the flames it breathes exceeds 1,800 degrees Fahrenheit ."
+        },
+        "Generation IX": {
+            "Scarlet": "The temperature inside its body increases when it experiences strong emotions. It rolls around frantically while spewing flames.",
+            "Violet": "Due to the coal tar created inside it, the heap of coal on Carkol's back never falls apart, even when the Pokémon rolls around at high speeds."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Bridge Field , Stony Wilderness , Giant's Cap Galar Mine ( Wanderer ) Giant's Seat , Rolling Fields , Stony Wilderness , Giant's Cap , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Bridge Field , Stony Wilderness , Giant's Cap Galar Mine ( Wanderer ) Giant's Seat , Rolling Fields , Stony Wilderness , Giant's Cap , Dusty Bowl ( Max Raid Battle )",
+            "Expansion Pass": "Ballimere Lake , Lakeside Cave Max Lair ( Dynamax Adventure ) Slippery Slope Sh , Frostpoint Field , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Area Three Tera Raid Battles ( 3★ )",
+            "Violet": "East Province: Area Three Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Rolycoly",
+            "to": "Carkol",
+            "method": [
+                "Level 18"
+            ]
+        },
+        {
+            "from": "Carkol",
+            "to": "Coalossal",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

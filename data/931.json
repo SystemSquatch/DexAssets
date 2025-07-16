@@ -1,0 +1,38 @@
+{
+    "name": "Squawkabilly",
+    "pokedex_number": "#0931",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Hustle",
+        "Guts",
+        "Sheer Force"
+    ],
+    "stats": {
+        "HP": 82,
+        "Attack": 96,
+        "Defense": 51,
+        "Sp. Atk": 45,
+        "Sp. Def": 51,
+        "Speed": 92,
+        "Total": 417
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon dislikes being alone. It has a strong sense of community and survives by cooperating with allies.",
+            "Violet": "Though these Squawkabilly are the fewest in number, they have no trouble living in towns since they blend in with the white buildings."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Cabo Poco ( Green Plumage ) East Province: Area One , Area Two , Area Three ( Green/Blue/Yellow/White Plumage ) West Province: Area One ( Green Plumage ) Tera Raid Battles ( 4★ ) ( Green Plumage )",
+            "Violet": "South Province: Cabo Poco ( Green Plumage ) East Province: Area One , Area Two , Area Three ( Green/Blue/Yellow/White Plumage ) West Province: Area One ( Green Plumage ) Tera Raid Battles ( 4★ ) ( Green Plumage )"
+        }
+    },
+    "evolution": []
+}

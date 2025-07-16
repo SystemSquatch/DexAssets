@@ -1,0 +1,47 @@
+{
+    "name": "Oinkologne",
+    "pokedex_number": "#0916",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Lingering Aroma",
+        "Gluttony",
+        "Aroma Veil",
+        "Gluttony",
+        "Thick Fat"
+    ],
+    "stats": {
+        "HP": 110,
+        "Attack": 100,
+        "Defense": 75,
+        "Sp. Atk": 59,
+        "Sp. Def": 80,
+        "Speed": 65,
+        "Total": 489
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon sends a flowerlike scent wafting about. Well-developed muscles in its legs allow it to leap more than 16 feet with no trouble at all.",
+            "Violet": "This is a meticulous Pokémon that likes to keep things tidy. It shrouds itself in a floral aroma that soothes the Pokémon around it."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area Three , Area Five East Province: Area One , Area Two , Tagtree Thicket West Province: Area Two , Area Three Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area Three , Area Five East Province: Area One , Area Two , Tagtree Thicket West Province: Area Two , Area Three Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Lechonk",
+            "to": "Oinkologne",
+            "method": [
+                "Level 18"
+            ]
+        }
+    ]
+}

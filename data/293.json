@@ -1,0 +1,127 @@
+{
+    "name": "Whismur",
+    "pokedex_number": "#0293",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Soundproof",
+        "Rattled"
+    ],
+    "stats": {
+        "HP": 64,
+        "Attack": 51,
+        "Defense": 23,
+        "Sp. Atk": 51,
+        "Sp. Def": 23,
+        "Speed": 28,
+        "Total": 240
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Normally, Whismur 's voice is very quiet - it is barely audible even if one is paying close attention. However, if this Pok é mon senses danger, it starts crying at an earsplitting volume.",
+            "Sapphire": "Whismur is very timid. If it starts to cry loudly, it becomes startled by its own crying and cries even harder. When it finally stops crying, the Pok é mon goes to sleep, all tired out.",
+            "Emerald": "Its cries equal a jet plane in volume. It inhales through its ear canals. Because of this system, it can cry continually without having to catch its breath.",
+            "FireRed": "It usually murmurs, but starts crying loudly if it senses danger. It stops when its ear covers are shut.",
+            "LeafGreen": "It usually murmurs, but starts crying loudly if it senses danger. It stops when its ear covers are shut."
+        },
+        "Generation IV": {
+            "Diamond": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
+            "Pearl": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
+            "Platinum": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
+            "HeartGold": "If it senses danger, it scares the foe by crying out with the volume of a jet-plane engine.",
+            "SoulSilver": "If it senses danger, it scares the foe by crying out with the volume of a jet-plane engine."
+        },
+        "Generation V": {
+            "Black": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
+            "White": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
+            "Black 2": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
+            "White 2": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane."
+        },
+        "Generation VI": {
+            "X": "It usually murmurs but starts crying loudly if it senses danger. It stops when its ear covers are shut.",
+            "Y": "If it senses danger, it scares the foe by crying out with the volume of a jet-plane engine.",
+            "Omega Ruby": "Normally, Whismur's voice is very quiet—it is barely audible even if one is paying close attention. However, if this Pokémon senses danger, it starts crying at an earsplitting volume.",
+            "Alpha Sapphire": "Whismur is very timid. If it starts to cry loudly, it becomes startled by its own crying and cries even harder. When it finally stops crying, the Pokémon goes to sleep, all tired out."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "The cry of a Whismur is over 100 decibels. If you're close to a Whismur when it lets out a cry, you'll be stuck with an all-day headache.",
+            "Shield": "When Whismur cries, the sound of its own voice startles it, making the Pokémon cry even louder. It cries until its exhausted, then it falls asleep.",
+            "Brilliant Diamond": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
+            "Shining Pearl": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 116 , Rusturf Tunnel , Victory Road",
+            "Sapphire": "Route 116 , Rusturf Tunnel , Victory Road",
+            "Emerald": "Route 116 , Desert Underpass , Rusturf Tunnel , Victory Road",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Breed Loudred or Exploud",
+            "Pearl": "Breed Loudred or Exploud",
+            "Platinum": "Breed Loudred or Exploud",
+            "HeartGold": "Routes 30 , 31 , 32 , 34 , 35 , 42 , 43 , 44 , 45 , 47 , 4 , 6 , 9 , 10 , 13 , 21 , 22 , 24 , 25 , 26 , 27 , and 28 , Ruins of Alph , Mt. Silver (Hoenn Sound)",
+            "SoulSilver": "Routes 30 , 31 , 32 , 34 , 35 , 42 , 43 , 44 , 45 , 47 , 4 , 6 , 9 , 10 , 13 , 21 , 22 , 24 , 25 , 26 , 27 , and 28 , Ruins of Alph , Mt. Silver (Hoenn Sound)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Connecting Cave",
+            "Y": "Connecting Cave",
+            "Omega Ruby": "Route 116 , Rusturf Tunnel",
+            "Alpha Sapphire": "Route 116 , Rusturf Tunnel"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Brawlers' Cave Soothing Wetlands , Courageous Cavern , Training Lowlands ( Max Raid Battles )",
+            "Brilliant Diamond": "Breed Loudred or Exploud",
+            "Shining Pearl": "Breed Loudred or Exploud",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Whismur",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Whismur",
+            "to": "Loudred",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "name": "Pidgey",
+    "pokedex_number": "#0016",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Tangled Feet",
+        "Big Pecks"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 40,
+        "Sp. Atk": 35,
+        "Sp. Def": 35,
+        "Speed": 56,
+        "Total": 251
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+            "Yellow": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
+            "Stadium": "If at all possible, it will try to avoid battles. Small or weak enemies are blown away by Whirlwind ."
+        },
+        "Generation II": {
+            "Gold": "It usually hides in tall grass. Because it dislikes fighting, it protects itself by kicking up sand.",
+            "Silver": "Common in grassy areas and forests, it is very docile and will chase off enemies by flapping up sand.",
+            "Crystal": "It rapidly flaps its wings in the grass, stirring up a dust cloud that drives insect prey out into the open.",
+            "Stadium 2": "It usually hides in tall grass. Because it dislikes fighting, it protects itself by kicking up sand. (Pokémon Red, Silver, or Crystal inserted) Common in grassy areas and forests, it is very docile and will chase off enemies by flapping up sand. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
+            "Sapphire": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
+            "Emerald": "It has an extremely sharp sense of direction. It can unerringly return home to its nest, however far it may be removed from its familiar surroundings.",
+            "FireRed": "Does not like to fight. It hides in tall grass and so on, foraging for food such as small bugs.",
+            "LeafGreen": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand."
+        },
+        "Generation IV": {
+            "Diamond": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
+            "Pearl": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
+            "Platinum": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
+            "HeartGold": "It usually hides in tall grass. Because it dislikes fighting, it protects itself by kicking up sand.",
+            "SoulSilver": "Common in grassy areas and forests, it is very docile and will chase off enemies by flapping up sand."
+        },
+        "Generation V": {
+            "Black": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
+            "White": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
+            "Black 2": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
+            "White 2": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back."
+        },
+        "Generation VI": {
+            "X": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+            "Y": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
+            "Omega Ruby": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
+            "Alpha Sapphire": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
+            "Let's Go Eevee": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
+            "Shining Pearl": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 1 , 2 , 3 , 5 , 6 , 7 , 8 , 12 , 13 , 14 , 15 , 21 , 24 , and 25",
+            "Blue": "Routes 1 , 2 , 3 , 5 , 6 , 7 , 8 , 12 , 13 , 14 , 15 , 21 , 24 , and 25",
+            "Blue (Japan)": "Routes 1 , 2 , 3 , 5 , 6 , 7 , 8 , 12 , 13 , 14 , 15 , 21 , 24 , and 25",
+            "Yellow": "Routes 1 , 2 , 5 , 6 , 7 , 8 , 11 , 12 , 13 , 21 , 24 , and 25 , Viridian Forest"
+        },
+        "Generation II": {
+            "Gold": "Routes 1 , 2 , 5 , 6 , 25 , 29 , 30 , 31 , 35 , 36 , and 37 , National Park Morning Day",
+            "Silver": "Routes 1 , 2 , 5 , 6 , 25 , 29 , 30 , 31 , 35 , 36 , and 37 , National Park Morning Day",
+            "Crystal": "Routes 1 , 2 , 5 , 25 , 29 , 30 , 31 , 32 , 34 , 35 , 36 , and 37 , National Park , Ilex Forest Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Routes 1 , 2 , 3 , 5 , 6 , 7 , 8 , 12 , 13 , 14 , 15 , 24 , and 25 , Bond Bridge , Berry Forest , Five Isle Meadow",
+            "LeafGreen": "Routes 1 , 2 , 3 , 5 , 6 , 7 , 8 , 12 , 13 , 14 , 15 , 24 , and 25 , Bond Bridge , Berry Forest , Five Isle Meadow",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 229 ( Swarm )",
+            "Pearl": "Route 229 ( Swarm )",
+            "Platinum": "Route 229",
+            "HeartGold": "Routes 1 , 2 , 5 , 6 , 25 , 29 , 30 , 31 , 35 , 36 , and 37 , National Park , Viridian Forest Morning Day Safari Zone Morning Day (Forest, default)",
+            "SoulSilver": "Routes 1 , 2 , 5 , 6 , 25 , 29 , 30 , 31 , 35 , 36 , and 37 , National Park , Viridian Forest Morning Day Safari Zone Morning Day (Forest, default)",
+            "Pal Park": "Field",
+            "Pokéwalker": "Refreshing Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Routes 2 and 3 , Friend Safari ( Flying )",
+            "Y": "Routes 2 and 3 , Friend Safari ( Flying )",
+            "Omega Ruby": "Breed Pidgeotto",
+            "Alpha Sapphire": "Breed Pidgeotto"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Pidgeot",
+            "Ultra Moon": "Breed Pidgeot",
+            "Let's Go Pikachu": "Routes 1 , 2 , 5 , 6 , 7 , 8 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 20 , 21 , 24 , and 25 , Viridian Forest",
+            "Let's Go Eevee": "Routes 1 , 2 , 5 , 6 , 7 , 8 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 20 , 21 , 24 , and 25 , Viridian Forest"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 229 ( Swarm )",
+            "Shining Pearl": "Route 229 ( Swarm )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Pidgey",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Pidgey",
+            "to": "Pidgeotto",
+            "method": [
+                "Level 18"
+            ]
+        }
+    ]
+}

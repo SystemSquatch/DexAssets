@@ -1,0 +1,78 @@
+{
+    "name": "Landorus",
+    "pokedex_number": "#0645",
+    "types": [
+        "Ground",
+        "Flying"
+    ],
+    "abilities": [
+        "Sand Force",
+        "Sheer Force",
+        "Intimidate"
+    ],
+    "stats": {
+        "HP": 89,
+        "Attack": 125,
+        "Defense": 90,
+        "Sp. Atk": 115,
+        "Sp. Def": 80,
+        "Speed": 101,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\"",
+            "White": "The energy that comes pouring from its tail increases the nutrition in the soil, making crops grow to great size.",
+            "Black 2": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+            "White 2": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant."
+        },
+        "Generation VI": {
+            "X": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\"",
+            "Y": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+            "Omega Ruby": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\"",
+            "Alpha Sapphire": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Legends: Arceus": "Landorus soars through the sky in this form, bestowing plentiful harvests upon the land and earning the people's reverence. It can traverse the whole of Hisui in a mere couple of hours."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Abundant Shrine (requires Tornadus and Thundurus in party ) ( Only one ) ( Incarnate Forme )",
+            "White": "Abundant Shrine (requires Tornadus and Thundurus in party ) ( Only one ) ( Incarnate Forme )",
+            "Black 2": "Transfer from Dream Radar ( Therian Forme )",
+            "White 2": "Transfer from Dream Radar ( Therian Forme )"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Soaring in the sky (requires Tornadus and Thundurus in party ) ( Only one ) ( Incarnate Forme )",
+            "Alpha Sapphire": "Soaring in the sky (requires Tornadus and Thundurus in party ) ( Only one ) ( Incarnate Forme )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Cliff World ) (requires Tornadus and Thundurus in party) ( Only one ) ( Incarnate Forme )",
+            "Ultra Moon": "Ultra Space Wilds ( Cliff World ) (requires Tornadus and Thundurus in party) ( Only one ) ( Incarnate Forme )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one ) ( Incarnate Forme )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Obsidian Fieldlands : Ramanas Island ( Only one ) ( Incarnate Forme )"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME",
+            "Violet": "Pokémon HOME"
+        }
+    },
+    "evolution": []
+}

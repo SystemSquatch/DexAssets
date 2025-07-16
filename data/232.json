@@ -1,0 +1,130 @@
+{
+    "name": "Donphan",
+    "pokedex_number": "#0232",
+    "types": [
+        "Ground",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sturdy",
+        "Sand Veil"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 120,
+        "Defense": 120,
+        "Sp. Atk": 60,
+        "Sp. Def": 60,
+        "Speed": 50,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It has sharp, hard tusks and a rugged hide. Its Tackle is strong enough to knock down a house.",
+            "Silver": "The longer and bigger its tusks, the higher its rank in its herd. The tusks take long to grow.",
+            "Crystal": "Because this Pok é mon 's skin is so tough, a normal attack won't even leave a scratch on it.",
+            "Stadium 2": "It has sharp, hard tusks and a rugged hide. Its Tackle is strong enough to knock down a house. (Pokémon Red, Silver, or Crystal inserted) The longer and bigger its tusks, the higher its rank in its herd. The tusks take long to grow. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Donphan 's favorite attack is curling its body into a ball, then charging at its foe while rolling at high speed. Once it starts rolling, this Pok é mon can't stop very easily.",
+            "Sapphire": "If Donphan were to tackle with its hard body, even a house could be destroyed. Using its massive strength, the Pok é mon helps clear rock and mud slides that block mountain trails.",
+            "Emerald": "A Donphan is so strong it can easily haul a dump truck. Its hide has toughened to a rock-hard state. An ordinary sort of attack won't even leave a scratch.",
+            "FireRed": "The longer and bigger its tusks, the higher its rank in its herd. The tusks take a long time to grow.",
+            "LeafGreen": "It has sharp, hard tusks and a rugged hide. Its Tackle is strong enough to knock down a house."
+        },
+        "Generation IV": {
+            "Diamond": "It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.",
+            "Pearl": "It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.",
+            "Platinum": "It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.",
+            "HeartGold": "It has sharp, hard tusks and a rugged hide. Its tackle is strong enough to knock down a house.",
+            "SoulSilver": "The longer and bigger its tusks, the higher its rank in its herd. The tusks take long to grow."
+        },
+        "Generation V": {
+            "Black": "It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.",
+            "White": "It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.",
+            "Black 2": "It attacks by curling up then rolling into its foe. It can blow apart a house in one hit.",
+            "White 2": "It attacks by curling up then rolling into its foe. It can blow apart a house in one hit."
+        },
+        "Generation VI": {
+            "X": "It has sharp, hard tusks and a rugged hide. Its Tackle is strong enough to knock down a house.",
+            "Y": "The longer and bigger its tusks, the higher its rank in its herd. The tusks take long to grow.",
+            "Omega Ruby": "Donphan's favorite attack is curling its body into a ball, then charging at its foe while rolling at high speed. Once it starts rolling, this Pokémon can't stop very easily.",
+            "Alpha Sapphire": "If Donphan were to tackle with its hard body, even a house could be destroyed. Using its massive strength, the Pokémon helps clear rock and mud slides that block mountain trails."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It attacks by curling up and rolling into its foe. It can blow apart a house in one hit.",
+            "Shining Pearl": "It attacks by curling up and rolling into its foe. It can blow apart a house in one hit."
+        },
+        "Generation IX": {
+            "Scarlet": "Donphan is covered in tough hide, so even being hit by a car won’t faze this Pokémon. However, it is extremely susceptible to rain.",
+            "Violet": "Donphan is normally a calm Pokémon, but once it is enraged, it will curl its body into a ball and charge at you while rolling."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Trade , Evolve Event Phanpy",
+            "Silver": "Route 28 , Mt. Silver , Mt. Silver Cave , Victory Road *",
+            "Crystal": "Route 45 Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Evolve Phanpy",
+            "Sapphire": "Evolve Phanpy",
+            "Emerald": "Evolve Phanpy",
+            "FireRed": "Evolve Phanpy",
+            "LeafGreen": "Evolve Phanpy",
+            "Colosseum": "Trade",
+            "XD": "Evolve Phanpy"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Phanpy",
+            "Pearl": "Evolve Phanpy",
+            "Platinum": "Evolve Phanpy",
+            "HeartGold": "Route 28 , Mt. Silver , Mt. Silver Cave , Victory Road",
+            "SoulSilver": "Trade",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Evolve Phanpy",
+            "White 2": "Evolve Phanpy"
+        },
+        "Generation VI": {
+            "X": "Evolve Phanpy",
+            "Y": "Evolve Phanpy",
+            "Omega Ruby": "Safari Zone (Zone 4, tall grass ), Mirage Mountains (west of Route 104 , north of Lilycove City , northeast of Route 125 , south of Route 131 )",
+            "Alpha Sapphire": "Safari Zone (Zone 4, tall grass ), Mirage Mountains (west of Route 104 , north of Lilycove City , northeast of Route 125 , south of Route 131 )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Phanpy",
+            "Shining Pearl": "Evolve Phanpy",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Four West Province: Area Two , Asado Desert Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Area Four West Province: Area Two , Asado Desert Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Phanpy",
+            "to": "Donphan",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

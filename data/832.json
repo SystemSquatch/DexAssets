@@ -1,0 +1,54 @@
+{
+    "name": "Dubwool",
+    "pokedex_number": "#0832",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Fluffy",
+        "Steadfast",
+        "Bulletproof"
+    ],
+    "stats": {
+        "HP": 72,
+        "Attack": 80,
+        "Defense": 100,
+        "Sp. Atk": 60,
+        "Sp. Def": 90,
+        "Speed": 88,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You'll start to bounce the moment you set foot on it.",
+            "Shield": "Its majestic horns are meant only to impress the opposite gender. They never see use in battle."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Dusty Bowl , Hammerlocke Hills , Motostoke Riverbank , Rolling Fields Bridge Field , East Lake Axewell , Motostoke Riverbank , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Dusty Bowl , Hammerlocke Hills , Motostoke Riverbank , Rolling Fields Bridge Field , East Lake Axewell , Motostoke Riverbank , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Slippery Slope , Frostpoint Field , Giant's Bed , Snowslide Slope , Three-Point Pass Slippery Slope , Frostpoint Field , Giant's Bed , Snowslide Slope ( Wanderer ) Fields of Honor , Soothing Wetlands , Stepping-Stone Sea , Insular Sea , Slippery Slope , Giant's Bed , Giant's Foot , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Wooloo",
+            "to": "Dubwool",
+            "method": [
+                "Level 24"
+            ]
+        }
+    ]
+}

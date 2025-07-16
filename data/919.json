@@ -1,0 +1,51 @@
+{
+    "name": "Nymble",
+    "pokedex_number": "#0919",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Swarm",
+        "Tinted Lens"
+    ],
+    "stats": {
+        "HP": 33,
+        "Attack": 46,
+        "Defense": 40,
+        "Sp. Atk": 21,
+        "Sp. Def": 25,
+        "Speed": 45,
+        "Total": 210
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It has its third set of legs folded up. When it’s in a tough spot, this Pokémon jumps over 30 feet using the strength of its legs.",
+            "Violet": "It's highly skilled at a fighting style in which it uses its jumping capabilities to dodge incoming attacks while also dealing damage to opponents."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area Two , Area Three , Area Six West Province: Area One Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area Two , Area Three , Area Six West Province: Area One Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Nymble",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Nymble",
+            "to": "Lokix",
+            "method": [
+                "Level 24"
+            ]
+        }
+    ]
+}

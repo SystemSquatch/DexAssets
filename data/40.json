@@ -1,0 +1,152 @@
+{
+    "name": "Wigglytuff",
+    "pokedex_number": "#0040",
+    "types": [
+        "Normal",
+        "Fairy"
+    ],
+    "abilities": [
+        "Cute Charm",
+        "Competitive",
+        "Frisk"
+    ],
+    "stats": {
+        "HP": 140,
+        "Attack": 70,
+        "Defense": 45,
+        "Sp. Atk": 75,
+        "Sp. Def": 50,
+        "Speed": 45,
+        "Total": 425
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+            "Yellow": "Its body is full of elasticity. By inhaling deeply, it can continue to inflate itself without limit.",
+            "Stadium": "Its soft and supple skin allows it to expand like a balloon. If it gets angry, it inhales and inflates itself steadily."
+        },
+        "Generation II": {
+            "Gold": "Their fur feels so good that if two of them snuggle together, they won't want to be separated.",
+            "Silver": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a Body Slam .",
+            "Crystal": "The rich, fluffy fur that covers its body feels so good that anyone who feels it can't stop touching it.",
+            "Stadium 2": "Their fur feels so good that if two of them snuggle together, they won't want to be separated. (Pokémon Red, Silver, or Crystal inserted) It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a Body Slam . (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Wigglytuff has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this Pok é mon 's eyes, it is quickly washed away.",
+            "Sapphire": "Wigglytuff 's body is very flexible. By inhaling deeply, this Pok é mon can inflate itself seemingly without end. Once inflated, Wigglytuff bounces along lightly like a balloon.",
+            "Emerald": "Its fur is the ultimate in luxuriousness. Sleeping alongside a Wigglytuff is simply divine. Its body expands seemingly without end when it inhales.",
+            "FireRed": "Its fur is extremely fine, dense, and supple. The exquisitely pleasant fur conveys an image of luxury.",
+            "LeafGreen": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size."
+        },
+        "Generation IV": {
+            "Diamond": "Its fine fur feels sublime to the touch. It can expand its body by inhaling air.",
+            "Pearl": "Its fine fur feels sublime to the touch. It can expand its body by inhaling air.",
+            "Platinum": "Its fine fur feels sublime to the touch. It can expand its body by inhaling air.",
+            "HeartGold": "Their fur feels so good that if two of them snuggle together, they won't want to be separated.",
+            "SoulSilver": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam."
+        },
+        "Generation V": {
+            "Black": "Its fine fur feels sublime to the touch. It can expand its body by inhaling air.",
+            "White": "Its fine fur feels sublime to the touch. It can expand its body by inhaling air.",
+            "Black 2": "Its fine fur feels so pleasant, those who accidentally touch it cannot take their hands away.",
+            "White 2": "Its fine fur feels so pleasant, those who accidentally touch it cannot take their hands away."
+        },
+        "Generation VI": {
+            "X": "Their fur feels so good that if two of them snuggle together, they won't want to be separated.",
+            "Y": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+            "Omega Ruby": "Wigglytuff has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this Pokémon's eyes, it is quickly washed away.",
+            "Alpha Sapphire": "Wigglytuff's body is very flexible. By inhaling deeply, this Pokémon can inflate itself seemingly without end. Once inflated, Wigglytuff bounces along lightly like a balloon."
+        },
+        "Generation VII": {
+            "Sun": "It sheds its fine fur when the seasons change. The fur is gathered and spun into a luxurious yarn.",
+            "Moon": "As it inhales, it expands...and expands...and expands. Wigglytuff compete to see which one can inflate itself the most.",
+            "Ultra Sun": "Thanks to its bouncy body and fine fur, this Pokémon is sought after. Holding one in your arms while you sleep feels great.",
+            "Ultra Moon": "When it gets angry, it inhales with all its might, and its body gradually inflates. Sometimes they can grow 20 times larger!",
+            "Let's Go Pikachu": "Its body is very elastic. By inhaling deeply, it can continue to inflate itself without limit.",
+            "Let's Go Eevee": "Its body is very elastic. By inhaling deeply, it can continue to inflate itself without limit."
+        },
+        "Generation VIII": {
+            "Sword": "The more air it takes in, the more it inflates. If opponents catch it in a bad mood, it will inflate itself to an enormous size to intimidate them.",
+            "Shield": "It's proud of its fur, which is fine and delicate. In particular, the curl on its forehead has a texture that's perfectly heavenly.",
+            "Brilliant Diamond": "Its fine fur feels sublime to the touch. It can expand its body by inhaling air.",
+            "Shining Pearl": "Its fine fur feels sublime to the touch. It can expand its body by inhaling air."
+        },
+        "Generation IX": {
+            "Scarlet": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",
+            "Violet": "The rich, fluffy fur that covers its body feels so good that anyone who feels it can't stop touching it."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Cerulean Cave",
+            "Blue": "Cerulean Cave",
+            "Blue (Japan)": "Cerulean Cave",
+            "Yellow": "Celadon City ( Rocket Game Corner )"
+        },
+        "Generation II": {
+            "Gold": "Evolve Jigglypuff",
+            "Silver": "Evolve Jigglypuff",
+            "Crystal": "Evolve Jigglypuff"
+        },
+        "Generation III": {
+            "Ruby": "Evolve Jigglypuff",
+            "Sapphire": "Evolve Jigglypuff",
+            "Emerald": "Evolve Jigglypuff",
+            "FireRed": "Evolve Jigglypuff",
+            "LeafGreen": "Evolve Jigglypuff",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Jigglypuff",
+            "Pearl": "Evolve Jigglypuff",
+            "Platinum": "Evolve Jigglypuff",
+            "HeartGold": "Evolve Jigglypuff",
+            "SoulSilver": "Evolve Jigglypuff",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Route 14 ( rustling grass )",
+            "White": "Route 14 ( rustling grass )",
+            "Black 2": "Routes 1 and 2 , Dreamyard ( rustling grass )",
+            "White 2": "Routes 1 and 2 , Dreamyard ( rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Jigglypuff",
+            "Y": "Evolve Jigglypuff",
+            "Omega Ruby": "Evolve Jigglypuff",
+            "Alpha Sapphire": "Evolve Jigglypuff"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Jigglypuff",
+            "Moon": "Evolve Jigglypuff",
+            "Ultra Sun": "Evolve Jigglypuff",
+            "Ultra Moon": "Evolve Jigglypuff",
+            "Let's Go Pikachu": "Evolve Jigglypuff",
+            "Let's Go Eevee": "Evolve Jigglypuff"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Fields of Honor , Soothing Wetlands , Loop Lagoon , Training Lowlands ( Wanderer ) Fields of Honor , Soothing Wetlands , Forest of Focus , Stepping-Stone Sea , Insular Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Jigglypuff",
+            "Shining Pearl": "Evolve Jigglypuff",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Area One Tera Raid Battles ( 4★ )",
+            "Violet": "North Province: Area One Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Jigglypuff",
+            "to": "Wigglytuff",
+            "method": [
+                "Use Moon Stone"
+            ]
+        }
+    ]
+}

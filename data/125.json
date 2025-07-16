@@ -1,0 +1,160 @@
+{
+    "name": "Electabuzz",
+    "pokedex_number": "#0125",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Static",
+        "Vital Spirit"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 83,
+        "Defense": 57,
+        "Sp. Atk": 95,
+        "Sp. Def": 85,
+        "Speed": 105,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
+            "Yellow": "If a major power outage occurs, it is certain that this Pok é mon has eaten electricity at a power plant.",
+            "Stadium": "Appear in power plants in search of electricity. They are said to cause major blackouts if they disappear."
+        },
+        "Generation II": {
+            "Gold": "Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue.",
+            "Silver": "Its body constantly discharges electricity. Getting close to it will make your hair stand on end.",
+            "Crystal": "When two Electabuzz touch, they control the electric currents to communicate their feelings.",
+            "Stadium 2": "Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue. (Pokémon Red, Silver, or Crystal inserted) Its body constantly discharges electricity. Getting close to it will make your hair stand on end. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "When a storm arrives, gangs of this Pok é mon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.",
+            "Sapphire": "When a storm arrives, gangs of this Pok é mon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.",
+            "Emerald": "When a storm approaches, it competes with others to scale heights that are likely to be stricken by lightning. Some towns use Electabuzz in place of lightning rods.",
+            "FireRed": "It loves to feed on strong electricity. It occasionally appears around large power plants and so on.",
+            "LeafGreen": "Normally found near power plants, they can wander away and cause major blackouts in cities."
+        },
+        "Generation IV": {
+            "Diamond": "Half of all blackouts occur when this Pokémon appears at power plants and eats electricity.",
+            "Pearl": "Half of all blackouts occur when this Pokémon appears at power plants and eats electricity.",
+            "Platinum": "It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.",
+            "HeartGold": "Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue.",
+            "SoulSilver": "Its body constantly discharges electricity. Getting close to it will make your hair stand on end."
+        },
+        "Generation V": {
+            "Black": "It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.",
+            "White": "It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.",
+            "Black 2": "Research is progressing on storing lightning in Electabuzz so this energy can be used at any time.",
+            "White 2": "Research is progressing on storing lightning in Electabuzz so this energy can be used at any time."
+        },
+        "Generation VI": {
+            "X": "Electricity runs across the surface of its body. In darkness, its entire body glows a whitish blue.",
+            "Y": "It loves to feed on strong electricity. It occasionally appears around large power plants and so on.",
+            "Omega Ruby": "When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.",
+            "Alpha Sapphire": "When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods."
+        },
+        "Generation VII": {
+            "Sun": "Half of all sudden blackouts are caused by Electabuzz gathering at electric power plants and gobbling up electricity.",
+            "Moon": "Electricity leaks from it in amounts far greater than the amount of electricity it eats.",
+            "Ultra Sun": "Electricity permeates its body. It swings its arms round and round to charge up electricity before unleashing a punch.",
+            "Ultra Moon": "While it's often blamed for power outages, the truth is the cause of outages is more often an error on the part of the electric company.",
+            "Let's Go Pikachu": "If a major power outage occurs, it is certain that this Pokémon has eaten electricity at a power plant.",
+            "Let's Go Eevee": "If a major power outage occurs, it is certain that this Pokémon has eaten electricity at a power plant."
+        },
+        "Generation VIII": {
+            "Sword": "Many power plants keep Ground-type Pokémon around as a defense against Electabuzz that come seeking electricity.",
+            "Shield": "With the coming of a storm, many of these Pokémon will gather under tall trees and sit there waiting for lightning to strike.",
+            "Brilliant Diamond": "Half of all blackouts occur when this Pokémon appears at power plants and eats electricity.",
+            "Shining Pearl": "Half of all blackouts occur when this Pokémon appears at power plants and eats electricity.",
+            "Legends: Arceus": "Feeds on electrical energy. During sudden showers beneath looming thunderclouds, one can observe Electabuzz scaling tall trees, where the Pokémon will then wait for lightning to strike."
+        },
+        "Generation IX": {
+            "Scarlet": "Its body constantly discharges electricity. Getting close to it will make your hair stand on end.",
+            "Violet": "Research is progressing on storing lightning in Electabuzz so this energy can be used at any time."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Power Plant",
+            "Blue": "Trade",
+            "Blue (Japan)": "Trade",
+            "Yellow": "Trade"
+        },
+        "Generation II": {
+            "Gold": "Route 10",
+            "Silver": "Route 10",
+            "Crystal": "Route 10"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "Power Plant",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow) , Evolve Elekid"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Elekid",
+            "Pearl": "Evolve Elekid",
+            "Platinum": "Route 222",
+            "HeartGold": "Route 10 Safari Zone (Forest with 4 Peak points)",
+            "SoulSilver": "Route 10 Safari Zone (Forest with 4 Peak points)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade , Event",
+            "White": "Evolve Elekid",
+            "Black 2": "Trade",
+            "White 2": "Evolve Elekid"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Electric )",
+            "Y": "Friend Safari ( Electric )",
+            "Omega Ruby": "Evolve Elekid",
+            "Alpha Sapphire": "Evolve Elekid"
+        },
+        "Generation VII": {
+            "Sun": "Route 12 , Blush Mountain ( SOS Battle )",
+            "Moon": "Route 12 , Blush Mountain ( SOS Battle )",
+            "Ultra Sun": "Blush Mountain , Mount Hokulani ( SOS Battle )",
+            "Ultra Moon": "Blush Mountain , Mount Hokulani ( SOS Battle )",
+            "Let's Go Pikachu": "Power Plant",
+            "Let's Go Eevee": "Power Plant"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Giant's Bed , Old Cemetery , Giant's Foot , Frigid Sea , Three-Point Pass , Ballimere Lake Giant's Bed , Giant's Foot , Ballimere Lake ( Wanderer ) Frostpoint Field , Giant's Bed , Three-Point Pass , Frigid Sea , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Elekid",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Coronet Highlands : Cloudcap Pass , massive mass outbreaks Alabaster Icelands : Icebound Falls , Arena's Approach , Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Savanna Biome , Canyon Biome , Polar Biome , Chargestone Cavern Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Elekid",
+            "to": "Electabuzz",
+            "method": [
+                "Level 30"
+            ]
+        },
+        {
+            "from": "Electabuzz",
+            "to": "Electivire",
+            "method": [
+                "Trade (holding Electirizer)"
+            ]
+        }
+    ]
+}

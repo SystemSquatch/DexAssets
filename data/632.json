@@ -1,0 +1,80 @@
+{
+    "name": "Durant",
+    "pokedex_number": "#0632",
+    "types": [
+        "Bug",
+        "Steel"
+    ],
+    "abilities": [
+        "Swarm",
+        "Hustle",
+        "Truant"
+    ],
+    "stats": {
+        "HP": 58,
+        "Attack": 109,
+        "Defense": 112,
+        "Sp. Atk": 48,
+        "Sp. Def": 48,
+        "Speed": 109,
+        "Total": 484
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor .",
+            "White": "Durant dig nests in mountains. They build their complicated, interconnected tunnels into mazes.",
+            "Black 2": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+            "White 2": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony."
+        },
+        "Generation VI": {
+            "X": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+            "Y": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
+            "Omega Ruby": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+            "Alpha Sapphire": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "They lay their eggs deep inside their nests. When attacked by Heatmor, they retaliate using their massive mandibles.",
+            "Shield": "With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda ."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Victory Road",
+            "White": "Victory Road",
+            "Black 2": "Twist Mountain , Clay Tunnel , Underground Ruins",
+            "White 2": "Twist Mountain , Clay Tunnel , Underground Ruins",
+            "Dream World": "Rugged Mountain *"
+        },
+        "Generation VI": {
+            "X": "Route 18 , Terminus Cave",
+            "Y": "Route 18 , Terminus Cave",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 6 , Giant's Mirror , Lake of Outrage Rolling Fields , Dappled Grove , Hammerlocke Hills , Bridge Field ( Max Raid Battle )",
+            "Shield": "Route 6 , Giant's Mirror , Lake of Outrage Rolling Fields , Dappled Grove , Hammerlocke Hills , Bridge Field ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed , Old Cemetery , Three-Point Passl Giant's Bed , Snowslide Slope , Path to the Peak , Frigid Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

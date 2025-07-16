@@ -1,0 +1,94 @@
+{
+    "name": "Mienshao",
+    "pokedex_number": "#0620",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Inner Focus",
+        "Regenerator",
+        "Reckless"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 60,
+        "Sp. Atk": 95,
+        "Sp. Def": 60,
+        "Speed": 105,
+        "Total": 510
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
+            "White": "They use the long fur on their arms as a whip to strike their opponents.",
+            "Black 2": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop.",
+            "White 2": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop."
+        },
+        "Generation VI": {
+            "X": "It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
+            "Y": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop.",
+            "Omega Ruby": "It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
+            "Alpha Sapphire": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It overwhelms its opponents with continuous attacks and then slowly stores up power before delivering the finishing blow.",
+            "Ultra Moon": "When Mienshao lets out a bizarre wail, you're in danger. A flurry of kicks and chops too fast to see is about to be unleashed!"
+        },
+        "Generation VIII": {
+            "Sword": "When Mienshao comes across a truly challenging opponent, it will lighten itself by biting off the fur on its arms.",
+            "Shield": "Delivered at blinding speeds, kicks from this Pokémon can shatter massive boulders into tiny pieces."
+        },
+        "Generation IX": {
+            "Scarlet": "When Mienshao lets out a bizarre wail, you're in danger. A flurry of kicks and chops too fast to see is about to be unleashed!",
+            "Violet": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 14 ( dark grass )",
+            "White": "Route 14 ( dark grass )",
+            "Black 2": "Route 23 ( dark grass ) Dragonspiral Tower",
+            "White 2": "Route 23 ( dark grass ) Dragonspiral Tower"
+        },
+        "Generation VI": {
+            "X": "Evolve Mienfoo",
+            "Y": "Evolve Mienfoo",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Mienfoo",
+            "Ultra Moon": "Evolve Mienfoo",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Challenge Road ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Mienfoo",
+            "to": "Mienshao",
+            "method": [
+                "Level 50"
+            ]
+        }
+    ]
+}

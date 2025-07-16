@@ -1,0 +1,115 @@
+{
+    "name": "Illumise",
+    "pokedex_number": "#0314",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Oblivious",
+        "Tinted Lens",
+        "Prankster"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 47,
+        "Defense": 55,
+        "Sp. Atk": 73,
+        "Sp. Def": 75,
+        "Speed": 85,
+        "Total": 400
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Illumise attracts a swarm of Volbeat using a sweet fragrance. Once the Volbeat have gathered, this Pok é mon leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",
+            "Sapphire": "Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This Pok é mon is said to earn greater respect from its peers by composing more complex designs in the sky.",
+            "Emerald": "A nocturnal Pok é mon that becomes active upon nightfall. It leads a Volbeat swarm to draw patterns in the night sky. Over 200 different patterns have been confirmed.",
+            "FireRed": "It guides Volbeat to draw signs in night skies. There are scientists that study the patterns it creates.",
+            "LeafGreen": "It guides Volbeat to draw signs in night skies. There are scientists that study the patterns it creates."
+        },
+        "Generation IV": {
+            "Diamond": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
+            "Pearl": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
+            "Platinum": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
+            "HeartGold": "Its fragrance attracts a swarm of Volbeat , so they draw over 200 patterns in the night sky.",
+            "SoulSilver": "Its fragrance attracts a swarm of Volbeat , so they draw over 200 patterns in the night sky."
+        },
+        "Generation V": {
+            "Black": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
+            "White": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
+            "Black 2": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
+            "White 2": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky."
+        },
+        "Generation VI": {
+            "X": "Its fragrance attracts a swarm of Volbeat , so they draw over 200 patterns in the night sky.",
+            "Y": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
+            "Omega Ruby": "Illumise attracts a swarm of Volbeat using a sweet fragrance. Once the Volbeat have gathered, this Pokémon leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",
+            "Alpha Sapphire": "Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This Pokémon is said to earn greater respect from its peers by composing more complex designs in the sky."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
+            "Shining Pearl": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky."
+        },
+        "Generation IX": {
+            "Scarlet": "Illumise uses its sweet scent to guide Volbeat , having them form over 200 patterns in the night sky.",
+            "Violet": "It guides Volbeat to draw signs in the night sky. There are scholars who research the meaning of these signs."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 117",
+            "Sapphire": "Route 117",
+            "Emerald": "Route 117",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 229",
+            "Pearl": "Route 229",
+            "Platinum": "Route 229",
+            "HeartGold": "National Park ( Bug-Catching Contest ) Sa Safari Zone (Wasteland with 10 Plains points)",
+            "SoulSilver": "National Park ( Bug-Catching Contest ) Sa Safari Zone (Wasteland with 10 Plains points)",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Hoenn Field"
+        },
+        "Generation V": {
+            "Black": "Breed Volbeat",
+            "White": "Route 3 ( Swarm )",
+            "Black 2": "Breed Volbeat",
+            "White 2": "Route 3 ( Swarm )",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Route 7 , Berry fields , Friend Safari ( Bug )",
+            "Y": "Route 7 , Berry fields , Friend Safari ( Bug )",
+            "Omega Ruby": "Route 117",
+            "Alpha Sapphire": "Route 117"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 229 Grand Underground - Grassland Cave , Sunlit Cavern , Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 229 Grand Underground - Grassland Cave , Sunlit Cavern , Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Apple Hills , Loyalty Plaza , Reveler's Road , Mossfell Confluence , Fellhorn Gorge , Wistful Fields , Kitakami Wilds , Timeless Woods Tera Raid Battles ( 2★ , 4★ )"
+        }
+    },
+    "evolution": []
+}

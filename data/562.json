@@ -1,0 +1,99 @@
+{
+    "name": "Yamask",
+    "pokedex_number": "#0562",
+    "types": [
+        "Ghost",
+        "Unknown"
+    ],
+    "abilities": [
+        "Mummy",
+        "Wandering Spirit"
+    ],
+    "stats": {
+        "HP": 38,
+        "Attack": 30,
+        "Defense": 85,
+        "Sp. Atk": 55,
+        "Sp. Def": 65,
+        "Speed": 30,
+        "Total": 303
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.",
+            "White": "These Pokémon arose from the spirits of people interred in graves in past ages. Each retains memories of its former life.",
+            "Black 2": "These Pokémon arose from the spirits of people interred in graves. Each retains memories of its former life.",
+            "White 2": "These Pokémon arose from the spirits of people interred in graves. Each retains memories of its former life."
+        },
+        "Generation VI": {
+            "X": "These Pokémon arose from the spirits of people interred in graves. Each retains memories of its former life.",
+            "Y": "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.",
+            "Omega Ruby": "These Pokémon arose from the spirits of people interred in graves. Each retains memories of its former life.",
+            "Alpha Sapphire": "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "A clay slab with cursed engravings took possession of a Yamask. The slab is said to be absorbing the Yamask's dark power.",
+            "Shield": "It's said that this Pokémon was formed when an ancient clay tablet was drawn to a vengeful spirit."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Relic Castle",
+            "White": "Relic Castle",
+            "Black 2": "Relic Castle",
+            "White 2": "Relic Castle"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Breed Cofagrigus",
+            "Alpha Sapphire": "Breed Cofagrigus"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Galarian Yamask at Ballonlea Stadium ( Unovan Form ) Route 6 ( Galarian Form ) Bridge Field , Dusty Bowl , Giant's Mirror , Rolling Fields , South Lake Miloch , Stony Wilderness Sh , Watchtower Ruins ( Max Raid Battle ) ( Galarian Form )",
+            "Shield": "Trade Galarian Yamask at Ballonlea Stadium ( Unovan Form ) Route 6 ( Galarian Form ) Bridge Field , Dusty Bowl , Giant's Mirror , Rolling Fields , South Lake Miloch , Stony Wilderness Sh , Watchtower Ruins ( Max Raid Battle ) ( Galarian Form )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Yamask",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Yamask",
+            "to": "Cofagrigus",
+            "method": [
+                "Level 34"
+            ]
+        },
+        {
+            "from": "Yamask",
+            "to": "Runerigus",
+            "method": [
+                "Take Damage"
+            ]
+        }
+    ]
+}

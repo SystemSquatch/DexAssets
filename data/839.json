@@ -1,0 +1,57 @@
+{
+    "name": "Coalossal",
+    "pokedex_number": "#0839",
+    "types": [
+        "Rock",
+        "Fire"
+    ],
+    "abilities": [
+        "Steam Engine",
+        "Flame Body",
+        "Flash Fire"
+    ],
+    "stats": {
+        "HP": 110,
+        "Attack": 80,
+        "Defense": 120,
+        "Sp. Atk": 80,
+        "Sp. Def": 90,
+        "Speed": 30,
+        "Total": 510
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "It's usually peaceful, but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2,700 degrees Fahrenheit .",
+            "Shield": "While it's engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area."
+        },
+        "Generation IX": {
+            "Scarlet": "To intimidate its opponents, Coalossal will vigorously shake its body, scattering coal from its smoldering back.",
+            "Violet": "It's gentle usually but fearsome when angered. With a body that burns at over 2,700 degrees Fahrenheit , it crushes foes and turns them to ash."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Dusty Bowl , Lake of Outrage Giant's Cap ( Wanderer ) Dusty Bowl , Giant's Seat , Rolling Fields , Stony Wilderness ( Max Raid Battle ) Giant's Seat ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Shield": "Dusty Bowl , Lake of Outrage Giant's Cap ( Wanderer ) Dusty Bowl , Giant's Seat , Rolling Fields , Stony Wilderness ( Max Raid Battle ) Giant's Seat ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Expansion Pass": "Ballimere Lake , Lakeside Cave ( Wanderer ) Frostpoint Field ( Max Raid Battle ) Slippery Slope , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle ) ( Gigantamax Factor ) Max Lair ( Dynamax Adventure ) ( Gigantamax Factor )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 5★ )",
+            "Violet": "Tera Raid Battles ( 5★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Carkol",
+            "to": "Coalossal",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

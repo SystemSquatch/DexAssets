@@ -1,0 +1,127 @@
+{
+    "name": "Cacnea",
+    "pokedex_number": "#0331",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sand Veil",
+        "Water Absorb"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 40,
+        "Sp. Atk": 85,
+        "Sp. Def": 40,
+        "Speed": 35,
+        "Total": 335
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Cacnea lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey. When prey comes near, this Pok é mon shoots sharp thorns from its body to bring the victim down.",
+            "Sapphire": "The more arid and harsh the environment, the more pretty and fragrant a flower Cacnea grows. This Pok é mon battles by wildly swinging its thorny arms.",
+            "Emerald": "Cacnea live in deserts with virtually no rainfall. It battles by swinging its thick, spiked arms. Once a year, a yellow flower blooms.",
+            "FireRed": "It prefers harsh environments such as deserts. It can survive for 30 days on water stored in its body.",
+            "LeafGreen": "It prefers harsh environments such as deserts. It can survive for 30 days on water stored in its body."
+        },
+        "Generation IV": {
+            "Diamond": "By storing water in its body, this desert dweller can survive for 30 days without water.",
+            "Pearl": "By storing water in its body, this desert dweller can survive for 30 days without water.",
+            "Platinum": "By storing water in its body, this desert dweller can survive for 30 days without water.",
+            "HeartGold": "It lives in arid locations. Its yellow flowers bloom once a year.",
+            "SoulSilver": "It lives in arid locations. Its yellow flowers bloom once a year."
+        },
+        "Generation V": {
+            "Black": "By storing water in its body, this desert dweller can survive for 30 days without water.",
+            "White": "By storing water in its body, this desert dweller can survive for 30 days without water.",
+            "Black 2": "By storing water in its body, this desert dweller can survive for 30 days without water.",
+            "White 2": "By storing water in its body, this desert dweller can survive for 30 days without water."
+        },
+        "Generation VI": {
+            "X": "It lives in arid locations. Its yellow flowers bloom once a year.",
+            "Y": "It prefers harsh environments such as deserts. It can survive for 30 days on water stored in its body.",
+            "Omega Ruby": "Cacnea lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey. When prey comes near, this Pokémon shoots sharp thorns from its body to bring the victim down.",
+            "Alpha Sapphire": "The more arid and harsh the environment, the more pretty and fragrant a flower Cacnea grows. This Pokémon battles by wildly swinging its thorny arms."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "By storing water in its body, this desert dweller can survive for 30 days without water.",
+            "Shining Pearl": "By storing water in its body, this desert dweller can survive for 30 days without water."
+        },
+        "Generation IX": {
+            "Scarlet": "It prefers harsh environments, such as deserts. It can survive for 30 days on water stored in its body.",
+            "Violet": "It lives in arid locations. Its yellow flowers bloom once a year."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 111",
+            "Sapphire": "Route 111",
+            "Emerald": "Route 111",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 228",
+            "Pearl": "Route 228",
+            "Platinum": "Route 228",
+            "HeartGold": "Safari Zone (Desert with 35 Forest points)",
+            "SoulSilver": "Safari Zone (Desert with 35 Forest points)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Breed Cacturne",
+            "White 2": "Breed Cacturne",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Breed Cacturne",
+            "Y": "Breed Cacturne",
+            "Omega Ruby": "Route 111",
+            "Alpha Sapphire": "Route 111"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 228 Grand Underground - Grassland Cave , Sunlit Cavern , Swampy Cave , Rocky Cave , Big Bluff Cavern , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 228 Grand Underground - Grassland Cave , Sunlit Cavern , Swampy Cave , Rocky Cave , Big Bluff Cavern , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Asado Desert Tera Raid Battles ( 2★ )",
+            "Violet": "West Province: Asado Desert Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Cacnea",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Cacnea",
+            "to": "Cacturne",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

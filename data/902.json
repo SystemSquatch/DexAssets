@@ -1,0 +1,57 @@
+{
+    "name": "Basculegion",
+    "pokedex_number": "#0902",
+    "types": [
+        "Water",
+        "Ghost"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Adaptability",
+        "Mold Breaker"
+    ],
+    "stats": {
+        "HP": 120,
+        "Attack": 112,
+        "Defense": 65,
+        "Sp. Atk": 80,
+        "Sp. Def": 75,
+        "Speed": 78,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Legends: Arceus": "Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal."
+        },
+        "Generation IX": {
+            "Scarlet": "The souls of its comrades cloak its body and propel it effortlessly through even raging rapids.",
+            "Violet": "It can afflict a target with terrifying illusions that are under its control. The deeper the sadness in its friends' souls, the paler Basculegion becomes."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Cobalt Coastlands : Massive Mass Outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Tera Raid Battles ( 5★ , 6★ ) ( Male )",
+            "The Hidden Treasure of Area Zero (Violet)": "Tera Raid Battles ( 5★ , 6★ ) ( Female )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Basculin",
+            "to": "Basculegion",
+            "method": [
+                "Recoil Damage"
+            ]
+        }
+    ]
+}

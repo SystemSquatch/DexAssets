@@ -1,0 +1,142 @@
+{
+    "name": "Natu",
+    "pokedex_number": "#0177",
+    "types": [
+        "Psychic",
+        "Flying"
+    ],
+    "abilities": [
+        "Synchronize",
+        "Early Bird",
+        "Magic Bounce"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 45,
+        "Sp. Atk": 70,
+        "Sp. Def": 45,
+        "Speed": 70,
+        "Total": 320
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
+            "Silver": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots.",
+            "Crystal": "It is extremely good at climbing tree trunks and likes to eat the new sprouts on the trees.",
+            "Stadium 2": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something. (Pokémon Red, Silver, or Crystal inserted) It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Natu cannot fly because its wings are not yet fully grown. If your eyes meet with this Pok é mon 's eyes, it will stare back intently at you. But if you move even slightly, it will hop away to safety.",
+            "Sapphire": "Natu has a highly developed jumping ability. The Pok é mon flaps and leaps onto tree branches that are taller than grown-up people to pick at the tree's new shoots.",
+            "Emerald": "It runs up short trees that grow on the savanna to peck at new shoots. A Natu 's eyes look as if they are always observing something.",
+            "FireRed": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots.",
+            "LeafGreen": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something."
+        },
+        "Generation IV": {
+            "Diamond": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
+            "Pearl": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
+            "Platinum": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
+            "HeartGold": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
+            "SoulSilver": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots."
+        },
+        "Generation V": {
+            "Black": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
+            "White": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
+            "Black 2": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
+            "White 2": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move."
+        },
+        "Generation VI": {
+            "X": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
+            "Y": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots.",
+            "Omega Ruby": "Natu cannot fly because its wings are not yet fully grown. If your eyes meet with this Pokémon's eyes, it will stare back intently at you. But if you move even slightly, it will hop away to safety.",
+            "Alpha Sapphire": "Natu has a highly developed jumping ability. The Pokémon flaps and leaps onto tree branches that are taller than grown-up people to pick at the tree's new shoots."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Although it still can't fly, its jumping power is outstanding. It jumps way up into trees and plucks the buds from the branches.",
+            "Ultra Moon": "The look in its eyes gives the impression that it's carefully observing you. If you approach it, Natu will hop away."
+        },
+        "Generation VIII": {
+            "Sword": "It is extremely good at climbing tree trunks and likes to eat the new sprouts on the trees.",
+            "Shield": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
+            "Brilliant Diamond": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
+            "Shining Pearl": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Ruins of Alph",
+            "Silver": "Ruins of Alph",
+            "Crystal": "Ruins of Alph"
+        },
+        "Generation III": {
+            "Ruby": "Safari Zone",
+            "Sapphire": "Safari Zone",
+            "Emerald": "Safari Zone",
+            "FireRed": "Ruin Valley",
+            "LeafGreen": "Ruin Valley",
+            "Colosseum": "Trade",
+            "XD": "Prestige Precept Center (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Route 224 ( Swarm )",
+            "Pearl": "Route 224 ( Swarm )",
+            "Platinum": "Route 224 ( Swarm )",
+            "HeartGold": "Ruins of Alph Route 28 , Mt. Silver , Mt. Silver Cave ( Headbutt trees )",
+            "SoulSilver": "Ruins of Alph Route 28 , Mt. Silver , Mt. Silver Cave ( Headbutt trees )",
+            "Pal Park": "Forest",
+            "Pokéwalker": "Scary Cave"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Route 5 ( Swarm )",
+            "White 2": "Route 5 ( Swarm )",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Breed Xatu",
+            "Y": "Breed Xatu",
+            "Omega Ruby": "Breed Xatu",
+            "Alpha Sapphire": "Breed Xatu"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Akala Outskirts Day Poké Pelago *",
+            "Ultra Moon": "Akala Outskirts Day Poké Pelago *",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields , West Lake Axewell , North Lake Miloch , South Lake Miloch , Giant's Seat , Giant's Mirror Rolling Fields , East Lake Axewell , Motostoke Riverbank , Bridge Field , Stony Wilderness , Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Rolling Fields , West Lake Axewell , North Lake Miloch , South Lake Miloch , Giant's Seat , Giant's Mirror Rolling Fields , East Lake Axewell , Motostoke Riverbank , Bridge Field , Stony Wilderness , Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 224 ( Swarm ) Grand Underground - Spacious Cave , Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 224 ( Swarm ) Grand Underground - Spacious Cave , Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Natu",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Natu",
+            "to": "Xatu",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

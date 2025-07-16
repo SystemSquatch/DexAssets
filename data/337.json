@@ -1,0 +1,110 @@
+{
+    "name": "Lunatone",
+    "pokedex_number": "#0337",
+    "types": [
+        "Rock",
+        "Psychic"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 65,
+        "Sp. Atk": 95,
+        "Sp. Def": 85,
+        "Speed": 70,
+        "Total": 440
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Lunatone was discovered at a location where a meteorite fell. As a result, some people theorize that this Pok é mon came from space. However, no one has been able to prove this theory so far.",
+            "Sapphire": "Lunatone becomes active around the time of the full moon. Instead of walking, it moves by floating in midair. The Pok é mon 's intimidating red eyes cause all those who see it to become transfixed with fear.",
+            "Emerald": "It becomes very active on the night of a full moon. This Pok é mon was first discovered 40 years ago at the site of a meteor strike.",
+            "FireRed": "Its health ebbs and flows with the lunar cycle. It brims with power when exposed to the light of the full moon.",
+            "LeafGreen": "Its health ebbs and flows with the lunar cycle. It brims with power when exposed to the light of the full moon."
+        },
+        "Generation IV": {
+            "Diamond": "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
+            "Pearl": "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
+            "Platinum": "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
+            "HeartGold": "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.",
+            "SoulSilver": "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep."
+        },
+        "Generation V": {
+            "Black": "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
+            "White": "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
+            "Black 2": "The phase of the moon apparently has some effect on its power. It's active on the night of a full moon.",
+            "White 2": "The phase of the moon apparently has some effect on its power. It's active on the night of a full moon."
+        },
+        "Generation VI": {
+            "X": "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
+            "Y": "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.",
+            "Omega Ruby": "Lunatone was discovered at a location where a meteoroid fell. As a result, some people theorize that this Pokémon came from space. However, no one has been able to prove this theory so far.",
+            "Alpha Sapphire": "Lunatone becomes active around the time of the full moon. Instead of walking, it moves by floating in midair. The Pokémon's intimidating red eyes cause all those who see it to become transfixed with fear."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "The phase of the moon apparently has some effect on its power. It's active on the night of a full moon.",
+            "Shield": "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.",
+            "Brilliant Diamond": "It becomes active on nights with a full moon, so it is said to have some link to the lunar phases.",
+            "Shining Pearl": "It becomes active on nights with a full moon, so it is said to have some link to the lunar phases."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Meteor Falls",
+            "Emerald": "Trade , Event",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Phenac Stadium (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Lake Verity , Lake Acuity , Lake Valor , Mt. Coronet , Sendoff Spring , Turnback Cave (Sapphire)",
+            "Pearl": "Lake Verity , Lake Acuity , Lake Valor , Mt. Coronet , Sendoff Spring , Turnback Cave (Sapphire)",
+            "Platinum": "Lake Verity , Lake Acuity , Lake Valor , Mt. Coronet , Sendoff Spring , Turnback Cave (Sapphire)",
+            "HeartGold": "Safari Zone (Mountain with 15 Peak points)",
+            "SoulSilver": "Safari Zone (Mountain with 15 Peak points)",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Route 13 , Giant Chasm",
+            "White": "Route 13 , Giant Chasm",
+            "Black 2": "Routes 13 and 22 , Giant Chasm",
+            "White 2": "Routes 13 and 22 , Giant Chasm",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Glittering Cave",
+            "Y": "Glittering Cave",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Meteor Falls"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Giant's Cap , Route 8 Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Grand Underground - Dazzling Cave , Riverbank Cave , Still-Water Cavern , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

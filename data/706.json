@@ -1,0 +1,87 @@
+{
+    "name": "Goodra",
+    "pokedex_number": "#0706",
+    "types": [
+        "Dragon",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sap Sipper",
+        "Hydration",
+        "Sap Sipper",
+        "Shell Armor",
+        "Gooey"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 70,
+        "Sp. Atk": 110,
+        "Sp. Def": 150,
+        "Speed": 80,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.",
+            "Y": "It attacks with retractable horns. It throws a punch that's the equivalent of the force of a hundred pro boxers.",
+            "Omega Ruby": "This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.",
+            "Alpha Sapphire": "It attacks with retractable horns. It throws a punch that's the equivalent of the force of a hundred pro boxers."
+        },
+        "Generation VII": {
+            "Sun": "An amazingly friendly Pokémon, but if left to itself, loneliness overcomes it, and it oozes gooey tears.",
+            "Moon": "It gets picked on because it's meek. But then, whoever teased it gets to feel the full force of its horns and a good swatting from its thick tail.",
+            "Ultra Sun": "It's very friendly toward people. If you grow close to it, Goodra will hug you with its sticky, slime-covered body. Don't get mad.",
+            "Ultra Moon": "Underneath its slimy skin is a thick layer of fat, and the combination of the two makes enemies' attacks slide right off."
+        },
+        "Generation VIII": {
+            "Sword": "Sometimes it misunderstands instructions and appears dazed or bewildered. Many Trainers don't mind, finding this behavior to be adorable.",
+            "Shield": "Its form of offense is forcefully stretching out its horns. The strikes land 100 times harder than any blow from a heavyweight boxer.",
+            "Legends: Arceus": "Able to freely control the hardness of its metallic shell. It loathes solitude and is extremely clingy—it will fume and run riot if those dearest to it ever leave its side."
+        },
+        "Generation IX": {
+            "Scarlet": "It loves the rain. This mellow Pokémon can be seen walking around on the plains and in the mountains on rainy days.",
+            "Violet": "This Pokémon is uncontrollable when enraged. It rampages on and on, lashing its tail with enough power to send a dump truck flying."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Evolve Sliggoo",
+            "Y": "Evolve Sliggoo",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Sliggoo",
+            "Moon": "Evolve Sliggoo",
+            "Ultra Sun": "Evolve Sliggoo",
+            "Ultra Moon": "Evolve Sliggoo",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Axew's Eye , Rolling Fields ( Max Raid Battle )",
+            "Shield Expansion Pass": "Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Obsidian Fieldlands : Lake Verity (only one during Mission 14) ( Hisuian Form ) Crimson Mirelands : massive mass outbreaks ( Hisuian Form ) Coronet Highlands : near Ancient Quarry ( Hisuian Form ) Unobtainable ( Kalosian Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 5★ , 6★ ) ( Kalosian Form ) Pokémon HOME , Evolve Hisuian Sliggoo ( Hisuian Form )",
+            "Violet": "Tera Raid Battles ( 5★ , 6★ ) ( Kalosian Form ) Pokémon HOME , Evolve Hisuian Sliggoo ( Hisuian Form )",
+            "The Hidden Treasure of Area Zero": "Evolve Sliggoo ( Kalosian Form ) Evolve Hisuian Sliggoo ( Hisuian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Sliggoo",
+            "to": "Goodra",
+            "method": [
+                "Level 50 (in rain)"
+            ]
+        }
+    ]
+}

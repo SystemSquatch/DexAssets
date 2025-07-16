@@ -1,0 +1,147 @@
+{
+    "name": "Jynx",
+    "pokedex_number": "#0124",
+    "types": [
+        "Ice",
+        "Psychic"
+    ],
+    "abilities": [
+        "Oblivious",
+        "Forewarn",
+        "Dry Skin"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 50,
+        "Defense": 35,
+        "Sp. Atk": 115,
+        "Sp. Def": 95,
+        "Speed": 95,
+        "Total": 455
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
+            "Yellow": "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks.",
+            "Stadium": "Talks in a strange, incomprehensible language. It is known for its weird wiggling that causes people to dance."
+        },
+        "Generation II": {
+            "Gold": "It rocks its body rhythmically. It appears to alter the rhythm depending on how it is feeling.",
+            "Silver": "It speaks a language similar to that of humans. However, it seems to use dancing to communicate.",
+            "Crystal": "It has several different cry patterns, each of which seems to have its own meaning.",
+            "Stadium 2": "It rocks its body rhythmically. It appears to alter the rhythm depending on how it is feeling. (Pokémon Red, Silver, or Crystal inserted) It speaks a language similar to that of humans. However, it seems to use dancing to communicate. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
+            "Sapphire": "Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
+            "Emerald": "A Jynx sashays rhythmically as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without noticing.",
+            "FireRed": "It speaks using a language that sounds human. Research is under way to determine what is being said.",
+            "LeafGreen": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it."
+        },
+        "Generation IV": {
+            "Diamond": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",
+            "Pearl": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",
+            "Platinum": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",
+            "HeartGold": "It rocks its body rhythmically. It appears to alter the rhythm depending on how it is feeling.",
+            "SoulSilver": "It speaks a language similar to that of humans. However, it seems to use dancing to communicate."
+        },
+        "Generation V": {
+            "Black": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",
+            "White": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",
+            "Black 2": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",
+            "White 2": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say."
+        },
+        "Generation VI": {
+            "X": "It wiggles its hips as it walks. It can cause people to dance in unison with it.",
+            "Y": "It speaks using a language that sounds human. Research is under way to determine what is being said.",
+            "Omega Ruby": "Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
+            "Alpha Sapphire": "Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It sways its hips to a rhythm all its own. The precise movements of Jynx living in Alola are truly wonderful.",
+            "Ultra Moon": "Its strange cries sound like human language. There are some musicians who compose songs for Jynx to sing.",
+            "Let's Go Pikachu": "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks.",
+            "Let's Go Eevee": "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks."
+        },
+        "Generation VIII": {
+            "Sword": "In certain parts of Galar, Jynx was once feared and worshiped as the Queen of Ice.",
+            "Shield": "The Jynx of Galar often have beautiful and delicate voices. Some of these Pokémon have even gathered a fan base.",
+            "Brilliant Diamond": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",
+            "Shining Pearl": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Trade Poliwhirl in Cerulean City",
+            "Blue": "Trade Poliwhirl in Cerulean City",
+            "Blue (Japan)": "Seafoam Islands",
+            "Yellow": "Trade"
+        },
+        "Generation II": {
+            "Gold": "Ice Path",
+            "Silver": "Ice Path",
+            "Crystal": "Ice Path Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Trade Poliwhirl in Cerulean City",
+            "LeafGreen": "Trade Poliwhirl in Cerulean City",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Smoochum",
+            "Pearl": "Evolve Smoochum",
+            "Platinum": "Snowpoint Temple",
+            "HeartGold": "Seafoam Islands and Ice Path",
+            "SoulSilver": "Seafoam Islands and Ice Path",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Giant Chasm",
+            "White": "Giant Chasm",
+            "Black 2": "Evolve Dream Radar Smoochum",
+            "White 2": "Evolve Dream Radar Smoochum"
+        },
+        "Generation VI": {
+            "X": "Frost Cavern",
+            "Y": "Frost Cavern",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Seaward Cave ( SOS Battle ) Poké Pelago",
+            "Ultra Moon": "Seaward Cave ( SOS Battle ) Poké Pelago",
+            "Let's Go Pikachu": "Seafoam Islands",
+            "Let's Go Eevee": "Seafoam Islands"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Slippery Slope , Frostpoint Field Max Lair ( Dynamax Adventure ) Slippery Slope , Giant's Bed , Snowslide Slope , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Smoochum",
+            "Shining Pearl": "Evolve Smoochum",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Smoochum",
+            "to": "Jynx",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

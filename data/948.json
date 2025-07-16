@@ -1,0 +1,51 @@
+{
+    "name": "Toedscool",
+    "pokedex_number": "#0948",
+    "types": [
+        "Ground",
+        "Grass"
+    ],
+    "abilities": [
+        "Mycelium Might"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 35,
+        "Sp. Atk": 50,
+        "Sp. Def": 100,
+        "Speed": 70,
+        "Total": 335
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Toedscool lives in muggy forests. The flaps that fall from its body are chewy and very delicious.",
+            "Violet": "Though it looks like Tentacool , Toedscool is a completely different species. Its legs may be thin, but it can run at a speed of 30 mph ."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Three , Area Four , Area Five East Province: Area One , Area Two , Tagtree Thicket West Province: Area Two , Area Three North Province: Socarrat Trail Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Three , Area Four , Area Five East Province: Area One , Area Two , Tagtree Thicket West Province: Area Two , Area Three North Province: Socarrat Trail Tera Raid Battles ( 1★ )",
+            "The Hidden Treasure of Area Zero": "Reveler's Road , Kitakami Hall , Mossfell Confluence , Fellhorn Gorge , Oni Mountain , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Toedscool",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Toedscool",
+            "to": "Toedscruel",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

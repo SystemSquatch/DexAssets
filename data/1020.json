@@ -1,0 +1,37 @@
+{
+    "name": "Gouging Fire",
+    "pokedex_number": "#1020",
+    "types": [
+        "Fire",
+        "Dragon"
+    ],
+    "abilities": [
+        "Protosynthesis"
+    ],
+    "stats": {
+        "HP": 105,
+        "Attack": 115,
+        "Defense": 121,
+        "Sp. Atk": 65,
+        "Sp. Def": 93,
+        "Speed": 91,
+        "Total": 590
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "There are scant few reports of this creature being sighted. One short video shows it rampaging and spouting pillars of flame.",
+            "Violet": "It resembles an eerie Pokémon once shown in a paranormal magazine. That Pokémon was said to be an Entei regenerated from a fossil."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Area Zero (after starting Perrin 's questline in The Indigo Disk ; only one )",
+            "The Hidden Treasure of Area Zero (Violet)": "Trade"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,154 @@
+{
+    "name": "Marowak",
+    "pokedex_number": "#0105",
+    "types": [
+        "Ground",
+        "Unknown"
+    ],
+    "abilities": [
+        "Rock Head",
+        "Lightning Rod",
+        "Cursed Body",
+        "Lightning Rod",
+        "Battle Armor",
+        "Rock Head"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 110,
+        "Sp. Atk": 50,
+        "Sp. Def": 80,
+        "Speed": 45,
+        "Total": 425
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+            "Yellow": "Small and weak, this Pok é mon is adept with its bone club. It has grown more vicious over the ages.",
+            "Stadium": "Originally a small and weak Pokémon, it became rough and aggressive when it begin  using bones as weapons."
+        },
+        "Generation II": {
+            "Gold": "It has been seen pounding boulders with the bone it carries in order to tap out messages to others.",
+            "Silver": "It collects bones from an unknown place. A Marowak graveyard exists somewhere in the world, rumors say.",
+            "Crystal": "Somewhere in the world is a cemetery just for Marowak . It gets its bones from those graves.",
+            "Stadium 2": "It has been seen pounding boulders with the bone it carries in order to tap out messages to others. (Pokémon Red, Silver, or Crystal inserted) It collects bones from an unknown place. A Marowak graveyard exists somewhere in the world, rumors say. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pok é mon 's tempered and hardened spirit is not easily broken.",
+            "Sapphire": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pok é mon 's tempered and hardened spirit is not easily broken.",
+            "Emerald": "A Marowak is the evolved form of a Cubone that has grown tough by overcoming the grief of losing its mother. Its tempered and hardened spirit is not easily broken.",
+            "FireRed": "It is small and was originally very weak. Its temperament turned ferocious when it began using bones.",
+            "LeafGreen": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets."
+        },
+        "Generation IV": {
+            "Diamond": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
+            "Pearl": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
+            "Platinum": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
+            "HeartGold": "It has been seen pounding boulders with the bone it carries in order to tap out messages to others.",
+            "SoulSilver": "It collects bones from an unknown place. Some whisper that a Marowak graveyard exists somewhere in the world."
+        },
+        "Generation V": {
+            "Black": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
+            "White": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
+            "Black 2": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
+            "White 2": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons."
+        },
+        "Generation VI": {
+            "X": "It is small and was originally very weak. Its temperament turned ferocious when it began using bones.",
+            "Y": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+            "Omega Ruby": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon's tempered and hardened spirit is not easily broken.",
+            "Alpha Sapphire": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon's tempered and hardened spirit is not easily broken."
+        },
+        "Generation VII": {
+            "Sun": "The bones it possesses were once its mother's. Its mother's regrets have become like a vengeful spirit protecting this Pokémon.",
+            "Moon": "Its custom is to mourn its lost companions. Mounds of dirt by the side of the road mark the graves of the Marowak.",
+            "Ultra Sun": "The rich greenery of the Alola region is hard on Marowak. It controls fire to stay alive.",
+            "Ultra Moon": "When it beats opponents with its bone, the cursed flames spread to them. No amount of water will stop those flames from burning.",
+            "Let's Go Pikachu": "It has transformed the spirit of its dear departed mother into flames, and tonight it will once again dance in mourning of others of its kind.",
+            "Let's Go Eevee": "It has transformed the spirit of its dear departed mother into flames, and tonight it will once again dance in mourning of others of its kind."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon sets the bone it holds on fire and dances through the night as a way to mourn its fallen allies.",
+            "Shield": "The cursed flames that light up the bone carried by this Pokémon are said to cause both mental and physical pain that will never fade.",
+            "Brilliant Diamond": "The bones it uses have been in its possession since it was born. It has a ferocious nature.",
+            "Shining Pearl": "The bones it uses have been in its possession since it was born. It has a ferocious nature."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Victory Road and Cerulean Cave",
+            "Blue": "Victory Road and Cerulean Cave",
+            "Blue (Japan)": "Victory Road and Cerulean Cave",
+            "Yellow": "Safari Zone"
+        },
+        "Generation II": {
+            "Gold": "Rock Tunnel",
+            "Silver": "Rock Tunnel",
+            "Crystal": "Routes 9 and 10 , Rock Tunnel Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Victory Road and Sevault Canyon",
+            "LeafGreen": "Victory Road and Sevault Canyon",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Cubone",
+            "Pearl": "Evolve Cubone",
+            "Platinum": "Evolve Cubone",
+            "HeartGold": "Rock Tunnel Safari Zone Morning Day (Desert, default and with 6 Peak points)",
+            "SoulSilver": "Rock Tunnel Safari Zone Morning Day (Desert, default and with 6 Peak points)",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Scary Cave"
+        },
+        "Generation V": {
+            "Black": "Route 15",
+            "White": "Route 15",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Ground )",
+            "Y": "Friend Safari ( Ground )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade ( Kantonian Form ) Evolve Cubone ( Alolan Form )",
+            "Moon": "Trade ( Kantonian Form ) Evolve Cubone ( Alolan Form )",
+            "Ultra Sun": "Evolve Cubone in Ultra Space ( Kantonian Form ) Evolve Cubone ( Alolan Form ) Received from Samson Oak at Heahea Beach * ( Totem -sized; Alolan Form )",
+            "Ultra Moon": "Evolve Cubone in Ultra Space ( Kantonian Form ) Evolve Cubone ( Alolan Form )",
+            "Let's Go Pikachu": "Evolve Cubone ( Kantonian Form ) Trade Kantonian Marowak in Fuchsia City ( Alolan Form )",
+            "Let's Go Eevee": "Evolve Cubone ( Kantonian Form ) Trade Kantonian Marowak in Fuchsia City ( Alolan Form )"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Potbottom Desert ( Wanderer ) ( Kantonian Form ) Max Lair ( Dynamax Adventure ) ( Kantonian Form ) Reward for finding at least 50 Alolan Diglett ( Alolan Form ) Trade Marowak with Regina on Isle of Armor ( Alolan Form ) Max Lair ( Dynamax Adventure ) ( Alolan Form )",
+            "Brilliant Diamond": "Evolve Cubone ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Shining Pearl": "Evolve Cubone ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Cubone",
+            "to": "Marowak",
+            "method": [
+                "Level 28",
+                "Level 28 (during the night)"
+            ]
+        }
+    ]
+}

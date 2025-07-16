@@ -1,0 +1,58 @@
+{
+    "name": "Charcadet",
+    "pokedex_number": "#0935",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Flash Fire",
+        "Flame Body"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 40,
+        "Sp. Atk": 50,
+        "Sp. Def": 40,
+        "Speed": 35,
+        "Total": 255
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
+            "Violet": "Its firepower increases when it fights, reaching over 1,800 degrees Fahrenheit . It likes berries that are rich in fat."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area Three , Area Four , Area Five East Province: Area One , Area Two , Area Three , Tagtree Thicket West Province: Area One , Area Two , Area Three , Asado Desert Tera Raid Battles ( 1★ , 3★ )",
+            "Violet": "South Province: Area Three , Area Four , Area Five East Province: Area One , Area Two , Area Three , Tagtree Thicket West Province: Area One , Area Two , Area Three , Asado Desert Tera Raid Battles ( 1★ , 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Charcadet",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Charcadet",
+            "to": "Armarouge",
+            "method": [
+                "Use Auspicious Armor"
+            ]
+        },
+        {
+            "from": "Charcadet",
+            "to": "Ceruledge",
+            "method": [
+                "Use Malicious Armor"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "name": "Parasect",
+    "pokedex_number": "#0047",
+    "types": [
+        "Bug",
+        "Grass"
+    ],
+    "abilities": [
+        "Effect Spore",
+        "Dry Skin",
+        "Damp"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 95,
+        "Defense": 80,
+        "Sp. Atk": 60,
+        "Sp. Def": 80,
+        "Speed": 30,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
+            "Yellow": "The bug host is drained of energy by the mushrooms on its back. They appear to do all the thinking.",
+            "Stadium": "The bug host is controlled by the mushrooms that scatter poisonous spores. The spores are sometimes used as medicine in China."
+        },
+        "Generation II": {
+            "Gold": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mushrooms on its back.",
+            "Silver": "The larger the mushroom on its back grows, the stronger the mushroom spores it scatters.",
+            "Crystal": "When nothing's left to extract from the bug, the mushrooms on its back leave spores on the bug's egg.",
+            "Stadium 2": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mushrooms on its back. (Pokémon Red, Silver, or Crystal inserted) The larger the mushroom on its back grows, the stronger the mushroom spores it scatters. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
+            "Sapphire": "Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
+            "Emerald": "Parasect are known to infest the roots of large trees en masse and drain nutrients. When an infested tree dies, they move onto another tree all at once.",
+            "FireRed": "It scatters toxic spores from the mushroom cap. In China, the spores are used as herbal medicine.",
+            "LeafGreen": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places."
+        },
+        "Generation IV": {
+            "Diamond": "A mushroom grown larger than the host's body controls Parasect . It scatters poisonous spores.",
+            "Pearl": "It is controlled by a mushroom grown larger than the bug body. It is said to prefer damp places.",
+            "Platinum": "A mushroom grown larger than the host's body controls Parasect. It scatters poisonous spores.",
+            "HeartGold": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mushroom on its back.",
+            "SoulSilver": "The larger the mushroom on its back grows, the stronger the mushroom spores it scatters."
+        },
+        "Generation V": {
+            "Black": "A mushroom grown larger than the host's body controls Parasect. It scatters poisonous spores.",
+            "White": "A mushroom grown larger than the host's body controls Parasect. It scatters poisonous spores.",
+            "Black 2": "A mushroom grown larger than the host's body controls Parasect. It scatters poisonous spores.",
+            "White 2": "A mushroom grown larger than the host's body controls Parasect. It scatters poisonous spores."
+        },
+        "Generation VI": {
+            "X": "A mushroom grown larger than the host's body controls Parasect. It scatters poisonous spores.",
+            "Y": "The larger the mushroom on its back grows, the stronger the mushroom spores it scatters.",
+            "Omega Ruby": "Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
+            "Alpha Sapphire": "Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once."
+        },
+        "Generation VII": {
+            "Sun": "The large mushroom on its back controls it. It often fights over territory with Shiinotic .",
+            "Moon": "It scatters toxic spores from its mushroom cap. Once harvested, these spores can be steeped and boiled down to prepare herbal medicines.",
+            "Ultra Sun": "The bug is mostly dead, with the mushroom on its back having become the main body. If the mushroom comes off, the bug stops moving.",
+            "Ultra Moon": "Its poisonous spores are also used in traditional medicine. Apparently, spores produced in Alola are not of very good quality.",
+            "Let's Go Pikachu": "The bug host is drained of energy by the mushroom on its back. The mushroom appears to do all the thinking.",
+            "Let's Go Eevee": "The bug host is drained of energy by the mushroom on its back. The mushroom appears to do all the thinking."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Parasect is controlled by a mushroom that has grown larger than its host's body. The Pokémon scatters poisonous spores.",
+            "Shining Pearl": "It is controlled by the mushroom, which has grown larger than the bug body. It is said to prefer damp places.",
+            "Legends: Arceus": "Mushroom-lacking specimens of this Pokémon lie unmoving in the forest, lending credence to the hypothesis that the large mushroom is in control of Parasect's actions."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Safari Zone , Cerulean Cave",
+            "Blue": "Safari Zone , Cerulean Cave",
+            "Blue (Japan)": "Safari Zone , Cerulean Cave",
+            "Yellow": "Safari Zone , Cerulean Cave Trade for Tangela on Route 18"
+        },
+        "Generation II": {
+            "Gold": "Evolve Paras",
+            "Silver": "Evolve Paras",
+            "Crystal": "Mt. Silver Cave"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Safari Zone , Cerulean Cave",
+            "LeafGreen": "Safari Zone , Cerulean Cave",
+            "Colosseum": "Trade",
+            "XD": "Evolve Paras"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Paras",
+            "Pearl": "Evolve Paras",
+            "Platinum": "Evolve Paras",
+            "HeartGold": "Cerulean Cave Safari Zone (tall grass in Swamp with 3 Plains points)",
+            "SoulSilver": "Cerulean Cave Safari Zone (tall grass in Swamp with 3 Plains points)",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Paras",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Paras",
+            "Y": "Evolve Paras",
+            "Omega Ruby": "Evolve Paras",
+            "Alpha Sapphire": "Evolve Paras"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Paras",
+            "Moon": "Evolve Paras",
+            "Ultra Sun": "Route 11 Day",
+            "Ultra Moon": "Route 11 Day",
+            "Let's Go Pikachu": "Evolve Paras",
+            "Let's Go Eevee": "Evolve Paras"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Paras",
+            "Shining Pearl": "Evolve Paras",
+            "Legends: Arceus": "Obsidian Fieldlands : near Nature's Pantry (also mass outbreaks ), massive mass outbreaks Crimson Mirelands : Golden Lowlands , near Ursa's Ring , near Cloudpool Ridge , Diamond Heath , near Cottonsedge Prairie , Droning Meadow , massive mass outbreaks Cobalt Coastlands : Windbreak Stand Coronet Highlands : Heavenward Lookout , Wayward Wood"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Paras",
+            "to": "Parasect",
+            "method": [
+                "Level 24"
+            ]
+        }
+    ]
+}

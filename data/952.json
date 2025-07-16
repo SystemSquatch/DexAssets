@@ -1,0 +1,45 @@
+{
+    "name": "Scovillain",
+    "pokedex_number": "#0952",
+    "types": [
+        "Grass",
+        "Fire"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Insomnia",
+        "Moody"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 108,
+        "Defense": 65,
+        "Sp. Atk": 108,
+        "Sp. Def": 65,
+        "Speed": 75,
+        "Total": 486
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame.",
+            "Violet": "The green head has turned vicious due to the spicy chemicals stimulating its brain. Once it goes on a rampage, there is no stopping it."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six North Province: Area One , Area Three , Dalizapa Passage Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Area Six North Province: Area One , Area Three , Dalizapa Passage Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Capsakid",
+            "to": "Scovillain",
+            "method": [
+                "Use Fire Stone"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "name": "Swanna",
+    "pokedex_number": "#0581",
+    "types": [
+        "Water",
+        "Flying"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Big Pecks",
+        "Hydration"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 87,
+        "Defense": 63,
+        "Sp. Atk": 87,
+        "Sp. Def": 63,
+        "Speed": 98,
+        "Total": 473
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
+            "White": "It administers sharp, powerful pecks with its bill. It whips its long neck to deliver forceful repeated strikes.",
+            "Black 2": "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles.",
+            "White 2": "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles."
+        },
+        "Generation VI": {
+            "X": "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles.",
+            "Y": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
+            "Omega Ruby": "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles.",
+            "Alpha Sapphire": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "Centered around its leader, the flock dances in perfect sync to strengthen its unity.",
+            "Violet": "It's said that many artists have taken inspiration from the sight of Swanna performing a beautiful dance in the light of dawn."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Marvelous Bridge ( Shadow )",
+            "White": "Marvelous Bridge ( Shadow )",
+            "Black 2": "Marvelous Bridge ( Shadow )",
+            "White 2": "Marvelous Bridge ( Shadow )"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Flying )",
+            "Y": "Friend Safari ( Flying )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Cliff World )",
+            "Ultra Moon": "Ultra Space Wilds ( Cliff World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Kitakami Wilds Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Ducklett",
+            "to": "Swanna",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

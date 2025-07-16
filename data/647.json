@@ -1,0 +1,77 @@
+{
+    "name": "Keldeo",
+    "pokedex_number": "#0647",
+    "types": [
+        "Water",
+        "Fighting"
+    ],
+    "abilities": [
+        "Justified"
+    ],
+    "stats": {
+        "HP": 91,
+        "Attack": 72,
+        "Defense": 90,
+        "Sp. Atk": 129,
+        "Sp. Def": 90,
+        "Speed": 108,
+        "Total": 580
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "By blasting water from its hooves, it can glide across water. It excels at using leg moves while battling.",
+            "White": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",
+            "Black 2": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
+            "White 2": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow."
+        },
+        "Generation VI": {
+            "X": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",
+            "Y": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
+            "Omega Ruby": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",
+            "Alpha Sapphire": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Keldeo has strengthened its resolve for battle, filling its body with power and changing its form. *",
+            "Shield": "The power that lay hidden in its body now covers its horn, turning it into a sword that can slice through anything. *"
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Event",
+            "White": "Event",
+            "Black 2": "Event",
+            "White 2": "Event"
+        },
+        "Generation VI": {
+            "X": "Event",
+            "Y": "Event",
+            "Omega Ruby": "Event",
+            "Alpha Sapphire": "Event"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Ballimere Lake ( Only one ) ( Resolute Form )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME , Event Version 3.0.0+",
+            "Violet": "Pokémon HOME , Event Version 3.0.0+"
+        }
+    },
+    "evolution": []
+}

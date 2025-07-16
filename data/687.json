@@ -1,0 +1,82 @@
+{
+    "name": "Malamar",
+    "pokedex_number": "#0687",
+    "types": [
+        "Dark",
+        "Psychic"
+    ],
+    "abilities": [
+        "Contrary",
+        "Suction Cups",
+        "Infiltrator"
+    ],
+    "stats": {
+        "HP": 86,
+        "Attack": 92,
+        "Defense": 88,
+        "Sp. Atk": 68,
+        "Sp. Def": 75,
+        "Speed": 73,
+        "Total": 482
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "It wields the most compelling hypnotic powers of any Pokémon, and it forces others to do whatever it wants.",
+            "Y": "It lures its prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.",
+            "Omega Ruby": "It wields the most compelling hypnotic powers of any Pokémon, and it forces others to do whatever it wants.",
+            "Alpha Sapphire": "It lures its prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids."
+        },
+        "Generation VII": {
+            "Ultra Sun": "When it comes to strong hypnosis, there's an endless number of people who utilize Malamar for their nefarious deeds.",
+            "Ultra Moon": "It flashes the pattern on its torso to control its prey and draw them in. The edges of its fins are supremely sharp."
+        },
+        "Generation VIII": {
+            "Sword": "Gazing at its luminescent spots will quickly induce a hypnotic state, putting the observer under Malamar's control.",
+            "Shield": "It's said that Malamar's hypnotic powers played a role in certain history-changing events."
+        },
+        "Generation IX": {
+            "Scarlet": "Its hypnotic powers are dangerously strong. Anyone who falls under Malamar’s control loses their memories surrounding the event.",
+            "Violet": "It flashes the luminescent spots on its body to hypnotize its opponents, gaining total control over them."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Evolve Inkay",
+            "Y": "Evolve Inkay",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Inkay",
+            "Ultra Moon": "Evolve Inkay",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Watchtower Ruins , West Lake Axewell , Motostoke Riverbank , Stony Wilderness , Giant's Mirror , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Watchtower Ruins , West Lake Axewell , Motostoke Riverbank , Stony Wilderness , Giant's Mirror , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor , Soothing Wetlands , Loop Lagoon , Training Lowlands ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Inkay",
+            "to": "Malamar",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

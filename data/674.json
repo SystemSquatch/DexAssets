@@ -1,0 +1,86 @@
+{
+    "name": "Pancham",
+    "pokedex_number": "#0674",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Iron Fist",
+        "Mold Breaker",
+        "Scrappy"
+    ],
+    "stats": {
+        "HP": 67,
+        "Attack": 82,
+        "Defense": 62,
+        "Sp. Atk": 46,
+        "Sp. Def": 48,
+        "Speed": 43,
+        "Total": 348
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "It does its best to be taken seriously by its enemies, but its glare is not sufficiently intimidating. Chewing on a leaf is its trademark.",
+            "Y": "It does its level best to glare and pull a scary face, but it can't help grinning if anyone pats its head.",
+            "Omega Ruby": "It does its best to be taken seriously by its enemies, but its glare is not sufficiently intimidating. Chewing on a leaf is its trademark.",
+            "Alpha Sapphire": "It does its level best to glare and pull a scary face, but it can't help grinning if anyone pats its head."
+        },
+        "Generation VII": {
+            "Sun": "It grows up imitating the behavior of Pangoro, which it looks up to as a leader.",
+            "Moon": "There's no point to the leaf in its mouth, aside from an effort to look cool. It's mischievous, so it's not well suited to inexperienced Trainers.",
+            "Ultra Sun": "It follows Pangoro around like a henchman. When Pancham makes a big mistake, its leaf gets taken away.",
+            "Ultra Moon": "It's desperate to intimidate its opponents. Be nice and pretend to be scared if you catch it glaring at you intensely."
+        },
+        "Generation VIII": {
+            "Sword": "It chooses a Pangoro as its master and then imitates its master's actions. This is how it learns to battle and hunt for prey.",
+            "Shield": "Wanting to make sure it's taken seriously, Pancham's always giving others a glare. But if it's not focusing, it ends up smiling."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Route 5 , Friend Safari ( Fighting )",
+            "Y": "Route 5 , Friend Safari ( Fighting )",
+            "Omega Ruby": "Trade , Event",
+            "Alpha Sapphire": "Trade , Event"
+        },
+        "Generation VII": {
+            "Sun": "Routes 10 , 11 , and 17",
+            "Moon": "Routes 10 , 11 , and 17",
+            "Ultra Sun": "Routes 10 and 11",
+            "Ultra Moon": "Routes 10 and 11",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 3 , Rolling Fields , West Lake Axewell , East Lake Axewell Dusty Bowl , North Lake Miloch ( Max Raid Battle )",
+            "Shield": "Route 3 , Rolling Fields , West Lake Axewell , East Lake Axewell Dusty Bowl , North Lake Miloch ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Pancham",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Pancham",
+            "to": "Pangoro",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "name": "Slaking",
+    "pokedex_number": "#0289",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Truant"
+    ],
+    "stats": {
+        "HP": 150,
+        "Attack": 160,
+        "Defense": 100,
+        "Sp. Atk": 95,
+        "Sp. Def": 65,
+        "Speed": 100,
+        "Total": 670
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Slaking spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this Pok é mon reluctantly moves to another spot.",
+            "Sapphire": "Wherever Slaking live, rings of over a yard in diameter appear in grassy fields. They are made by the Pok é mon as it eats all the grass within reach while lying prone on the ground.",
+            "Emerald": "Hordes of Slaking gather around trees when fruits come into season. They wait around patiently for ripened fruits to fall out of the trees.",
+            "FireRed": "It is the world's most slothful Pok é mon . However, it can exert horrifying power by releasing pent-up energy all at once.",
+            "LeafGreen": "It is the world's most slothful Pok é mon . However, it can exert horrifying power by releasing pent-up energy all at once."
+        },
+        "Generation IV": {
+            "Diamond": "The world's laziest Pokémon. When it is lounging, it is actually saving energy for striking back.",
+            "Pearl": "The world's laziest Pokémon. When it is lounging, it is actually saving energy for striking back.",
+            "Platinum": "The world's laziest Pokémon. When it is lounging, it is actually saving energy for striking back.",
+            "HeartGold": "The world's laziest Pokémon. It moves to another spot when there's no food left within its reach.",
+            "SoulSilver": "The world's laziest Pokémon. It moves to another spot when there's no food left within its reach."
+        },
+        "Generation V": {
+            "Black": "The world's laziest Pokémon. When it is lounging, it is actually saving energy for striking back.",
+            "White": "The world's laziest Pokémon. When it is lounging, it is actually saving energy for striking back.",
+            "Black 2": "This Pokémon lives lying on its side. It only rolls over and moves when there is no more grass to eat.",
+            "White 2": "This Pokémon lives lying on its side. It only rolls over and moves when there is no more grass to eat."
+        },
+        "Generation VI": {
+            "X": "The world's laziest Pokémon. It moves to another spot when there's no food left within its reach.",
+            "Y": "It is the world's most slothful Pokémon. However, it can exert horrifying power by releasing pent-up energy all at once.",
+            "Omega Ruby": "Slaking spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this Pokémon reluctantly moves to another spot.",
+            "Alpha Sapphire": "Wherever Slaking live, rings of over a yard in diameter appear in grassy fields. They are made by the Pokémon as it eats all the grass within reach while lying prone on the ground."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It is the world's laziest Pokémon. When it is lounging, it is actually saving energy for striking back.",
+            "Shining Pearl": "It is the world's laziest Pokémon. When it is lounging, it is actually saving energy for striking back."
+        },
+        "Generation IX": {
+            "Scarlet": "It is the world’s most slothful Pokémon. However, it can exert horrifying power by releasing pent-up energy all at once.",
+            "Violet": "This Pokémon lives lying on its side. It only rolls over and moves when there is no more grass to eat."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Vigoroth",
+            "Sapphire": "Evolve Vigoroth",
+            "Emerald": "Evolve Vigoroth",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Vigoroth",
+            "Pearl": "Evolve Vigoroth",
+            "Platinum": "Evolve Vigoroth",
+            "HeartGold": "Evolve Vigoroth",
+            "SoulSilver": "Evolve Vigoroth",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Vigoroth",
+            "Black 2": "Pinwheel Forest (inner; rustling grass )",
+            "White 2": "Pinwheel Forest (inner; rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Vigoroth",
+            "Alpha Sapphire": "Evolve Vigoroth"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Vigoroth",
+            "Moon": "Evolve Vigoroth",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Vigoroth",
+            "Shining Pearl": "Evolve Vigoroth",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Area Two , Socarrat Trail North Province: Area Two ( Ghost Tera Type ) Tera Raid Battles ( 5★ )",
+            "Violet": "North Province: Area Two , Socarrat Trail North Province: Area Two ( Ghost Tera Type ) Tera Raid Battles ( 5★ )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Vigoroth",
+            "to": "Slaking",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

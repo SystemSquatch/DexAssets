@@ -1,0 +1,155 @@
+{
+    "name": "Tangela",
+    "pokedex_number": "#0114",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Leaf Guard",
+        "Regenerator"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 55,
+        "Defense": 115,
+        "Sp. Atk": 100,
+        "Sp. Def": 40,
+        "Speed": 60,
+        "Total": 435
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks.",
+            "Yellow": "Its identity is obscured by masses of thick, blue vines. The vines are said to never stop growing.",
+            "Stadium": "Its identity is obscured by countless blue vines that are similar to seaweed. Will become entangled with anything."
+        },
+        "Generation II": {
+            "Gold": "The vines that cloak its entire body are always jiggling. They effectively unnerve its foes.",
+            "Silver": "It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.",
+            "Crystal": "During battle, it constantly moves the vines that cover its body in order to annoy its opponent.",
+            "Stadium 2": "The vines that cloak its entire body are always jiggling. They effectively unnerve its foes. (Pokémon Red, Silver, or Crystal inserted) It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Tangela 's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+            "Sapphire": "Tangela 's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+            "Emerald": "Its vines snap off easily and painlessly if they are grabbed, allowing it to make a quick getaway. The lost vines are replaced by new growth the very next day.",
+            "FireRed": "Blue plant vines cloak the Pok é mon 's identity in a tangled mass. It entangles anything that gets close.",
+            "LeafGreen": "The whole body is swathed with wide vines that are similar to seaweed. The vines sway as it walks."
+        },
+        "Generation IV": {
+            "Diamond": "It is shrouded by blue vines. No one has seen the face hidden behind this growth of vines.",
+            "Pearl": "It is shrouded by blue vines. No one has seen the face hidden behind this growth of vines.",
+            "Platinum": "The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.",
+            "HeartGold": "The vines that cloak its entire body are always jiggling. They effectively unnerve its foes.",
+            "SoulSilver": "It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared."
+        },
+        "Generation V": {
+            "Black": "The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.",
+            "White": "The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.",
+            "Black 2": "Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long.",
+            "White 2": "Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long."
+        },
+        "Generation VI": {
+            "X": "Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long.",
+            "Y": "It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.",
+            "Omega Ruby": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+            "Alpha Sapphire": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Its identity is obscured by masses of thick blue vines. The vines are said to never stop growing.",
+            "Let's Go Eevee": "Its identity is obscured by masses of thick blue vines. The vines are said to never stop growing."
+        },
+        "Generation VIII": {
+            "Sword": "Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon's true appearance remains a mystery.",
+            "Shield": "The vines of a Tangela have a distinct scent. In some parts of Galar, Tangela vines are used as herbs.",
+            "Brilliant Diamond": "It is shrouded by blue vines. No one has seen the face hidden behind this growth of vines.",
+            "Shining Pearl": "It is shrouded by blue vines. No one has seen the face hidden behind this growth of vines.",
+            "Legends: Arceus": "It is cloaked entirely in blue vines, preventing any glimpse of its true identity. The vines impart a refreshing sensation when chewed—they're useful as a spice."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Route 21 Trade Venonat at the Pokémon Lab on Cinnabar Island",
+            "Blue": "Route 21 Trade Venonat at the Pokémon Lab on Cinnabar Island",
+            "Blue (Japan)": "Route 21",
+            "Yellow": "Safari Zone"
+        },
+        "Generation II": {
+            "Gold": "Routes 21 , 28 , and 44 , Mt. Silver",
+            "Silver": "Routes 21 , 28 , and 44 , Mt. Silver",
+            "Crystal": "Routes 21 , 28 , and 44 , Mt. Silver"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Route 21 , Treasure Beach Trade Venonat at the Pokémon Lab on Cinnabar Island",
+            "LeafGreen": "Route 21 , Treasure Beach Trade Venonat at the Pokémon Lab on Cinnabar Island",
+            "Colosseum": "Trade",
+            "XD": "Cipher Key Lair (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Trade , breed event Tangrowth",
+            "Pearl": "Trade , breed event Tangrowth",
+            "Platinum": "Great Marsh",
+            "HeartGold": "Routes 21 , 28 , and 44 , Mt. Silver Routes 12 , 13 , 14 , 15 , 18 , 21 , Fuchsia City ( Headbutt trees )",
+            "SoulSilver": "Routes 21 , 28 , and 44 , Mt. Silver Routes 12 , 13 , 14 , 15 , 18 , 21 , Fuchsia City ( Headbutt trees )",
+            "Pal Park": "Forest",
+            "Pokéwalker": "Big Forest"
+        },
+        "Generation V": {
+            "Black": "Route 13 , Giant Chasm",
+            "White": "Route 13 , Giant Chasm",
+            "Black 2": "Route 13 , Giant Chasm Route 13 ( Hidden Grotto ) *",
+            "White 2": "Route 13 , Giant Chasm Route 13 ( Hidden Grotto ) *",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Grass )",
+            "Y": "Friend Safari ( Grass )",
+            "Omega Ruby": "Mirage Forest (north of Lilycove City , east of Mossdeep City , west of Route 114 , north of Route 124 ), Mirage Island (west of Dewford Town ), Mirage Mountain (north of Route 125 )",
+            "Alpha Sapphire": "Mirage Forest (north of Lilycove City , east of Mossdeep City , west of Route 114 , north of Route 124 ), Mirage Island (west of Dewford Town ), Mirage Mountain (north of Route 125 )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Route 21",
+            "Let's Go Eevee": "Route 21"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Forest of Focus Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Grand Underground - Swampy Cave , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Grand Underground - Swampy Cave , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Crimson Mirelands : Gapejaw Bog and nearby, near Cottonsedge Prairie , massive mass outbreaks Cobalt Coastlands : near Crossing Slope"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Tangela",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Tangela",
+            "to": "Tangrowth",
+            "method": [
+                "Level up (knowing Ancient Power)"
+            ]
+        }
+    ]
+}

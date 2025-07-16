@@ -1,0 +1,141 @@
+{
+    "name": "Girafarig",
+    "pokedex_number": "#0203",
+    "types": [
+        "Normal",
+        "Psychic"
+    ],
+    "abilities": [
+        "Inner Focus",
+        "Early Bird",
+        "Sap Sipper"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 65,
+        "Sp. Atk": 90,
+        "Sp. Def": 65,
+        "Speed": 85,
+        "Total": 455
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite.",
+            "Silver": "Its tail, which also contains a small brain, may bite on its own if it notices an alluring smell.",
+            "Crystal": "When it is in danger, its tail uses some sort of mysterious powers to drive away the enemy.",
+            "Stadium 2": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite. (Pokémon Red, Silver, or Crystal inserted) Its tail, which also contains a small brain, may bite on its own if it notices an alluring smell. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Girafarig 's rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this Pok é mon from behind can cause the rear head to suddenly lash out and bite.",
+            "Sapphire": "Girafarig 's rear head contains a tiny brain that is too small for thinking. However, the rear head doesn't need to sleep, so it can keep watch over its surroundings 24 hours a day.",
+            "Emerald": "A Girafarig is an herbivore--it eats grass and tree shoots. While it is eating, its tail makes chewing and swallowing motions as if it were also eating.",
+            "FireRed": "Its tail, which also contains a small brain, may bite on its own if it notices an alluring smell.",
+            "LeafGreen": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite."
+        },
+        "Generation IV": {
+            "Diamond": "Its tail also has a small brain. It bites to repel any foe trying to sneak up on it from behind.",
+            "Pearl": "While it sleeps, the head on its tail keeps watch. The tail doesn't need to sleep.",
+            "Platinum": "The head on its tail contains a small brain. It can instinctively fight even while facing backward.",
+            "HeartGold": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent by biting.",
+            "SoulSilver": "Its tail, which also contains a small brain, may bite on its own if it notices an alluring smell."
+        },
+        "Generation V": {
+            "Black": "The head on its tail contains a small brain. It can instinctively fight even while facing backward.",
+            "White": "The head on its tail contains a small brain. It can instinctively fight even while facing backward.",
+            "Black 2": "The head on its tail contains a small brain. It can instinctively fight even while facing backward.",
+            "White 2": "The head on its tail contains a small brain. It can instinctively fight even while facing backward."
+        },
+        "Generation VI": {
+            "X": "While it sleeps, the head on its tail keeps watch. The tail doesn't need to sleep.",
+            "Y": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent by biting.",
+            "Omega Ruby": "Girafarig's rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this Pokémon from behind can cause the rear head to suddenly lash out and bite.",
+            "Alpha Sapphire": "Girafarig's rear head contains a tiny brain that is too small for thinking. However, the rear head doesn't need to sleep, so it can keep watch over its surroundings 24 hours a day."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Its tail has a separate small brain. The tail bites to repel any foe trying to sneak up on the Pokémon from behind.",
+            "Shining Pearl": "While it sleeps, the head on its tail keeps watch. The tail doesn't need to sleep."
+        },
+        "Generation IX": {
+            "Scarlet": "Though very small, the brain in its tail is still considered an important organ because it emits powerful psychic energy.",
+            "Violet": "Girafarig’s tail has a small head. It instinctively bites at any foe that approaches the Pokémon from behind."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Route 43",
+            "Silver": "Route 43",
+            "Crystal": "Trade"
+        },
+        "Generation III": {
+            "Ruby": "Safari Zone",
+            "Sapphire": "Safari Zone",
+            "Emerald": "Safari Zone",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 214 and Valor Lakefront",
+            "Pearl": "Route 214 and Valor Lakefront",
+            "Platinum": "Route 221 and Valor Lakefront",
+            "HeartGold": "Routes 43 and 48 Safari Zone (Plains, default, and with 3 Plains points Morning Day )",
+            "SoulSilver": "Routes 43 and 48 Safari Zone (Plains, default, and with 3 Plains points Morning Day )",
+            "Pal Park": "Field",
+            "Pokéwalker": "Treehouse"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Nature Preserve",
+            "White 2": "Nature Preserve",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Psychic )",
+            "Y": "Friend Safari ( Psychic )",
+            "Omega Ruby": "Safari Zone (Zone 1, long grass ), Mirage Mountain (south of Route 131 )",
+            "Alpha Sapphire": "Safari Zone (Zone 1, long grass ), Mirage Mountain (south of Route 131 )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 214 and Valor Lakefront Grand Underground - Stargleam Cavern , Dazzling Cave (After obtaining TM97 ( Defog ))",
+            "Shining Pearl": "Route 214 and Valor Lakefront Grand Underground - Stargleam Cavern , Dazzling Cave (After obtaining TM97 ( Defog ))",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area Two , Area Three Area Zero Tera Raid Battles ( 3★ )",
+            "Violet": "West Province: Area Two , Area Three Area Zero Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Girafarig",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Girafarig",
+            "to": "Farigiraf",
+            "method": [
+                "Level up (knowing Twin Beam)"
+            ]
+        }
+    ]
+}

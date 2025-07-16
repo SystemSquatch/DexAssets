@@ -1,0 +1,78 @@
+{
+    "name": "Torracat",
+    "pokedex_number": "#0726",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Blaze",
+        "Intimidate"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 85,
+        "Defense": 50,
+        "Sp. Atk": 80,
+        "Sp. Def": 50,
+        "Speed": 90,
+        "Total": 420
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "At its throat, it bears a bell of fire. The bell rings brightly whenever this Pokémon spits fire.",
+            "Moon": "It boasts powerful front legs. With a single punch, it can bend an iron bar right over.",
+            "Ultra Sun": "It can act spoiled if it grows close to its Trainer. A powerful Pokémon, its sharp claws can leave its Trainer's whole body covered in scratches.",
+            "Ultra Moon": "When its mane is standing on end, you can tell it's feeling good. When it isn't feeling well, its fur will lie down flat."
+        },
+        "Generation VIII": {
+            "Sword": "In the midst of battle, the fire pouch on Torracat's neck rings like a bell and produces stronger flames than usual. *",
+            "Shield": "When facing a powerful enemy, Torracat's fighting spirit gets pumped up, and its fire bell blazes hotter. *"
+        },
+        "Generation IX": {
+            "Scarlet": "At its throat, it bears a bell of fire. The bell rings brightly whenever fire spews out.",
+            "Violet": "Torracat will let its Trainer coddle it once they’ve grown close, but it’s a powerful, sharp-clawed Pokémon, so its Trainer gets covered in scratches."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Evolve Litten",
+            "Moon": "Evolve Litten",
+            "Ultra Sun": "Evolve Litten",
+            "Ultra Moon": "Evolve Litten",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME Trade Version 1.2.0+",
+            "Shield": "Pokémon HOME Trade Version 1.2.0+",
+            "Expansion Pass": "Evolve Litten",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Litten"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Litten",
+            "to": "Torracat",
+            "method": [
+                "Level 17"
+            ]
+        },
+        {
+            "from": "Torracat",
+            "to": "Incineroar",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

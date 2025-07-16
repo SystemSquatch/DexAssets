@@ -1,0 +1,165 @@
+{
+    "name": "Magneton",
+    "pokedex_number": "#0082",
+    "types": [
+        "Electric",
+        "Steel"
+    ],
+    "abilities": [
+        "Magnet Pull",
+        "Sturdy",
+        "Analytic"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 60,
+        "Defense": 95,
+        "Sp. Atk": 120,
+        "Sp. Def": 70,
+        "Speed": 70,
+        "Total": 465
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Formed by several Magnemite s linked together. They frequently appear when sunspots flare up.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Formed by several Magnemite s linked together. They frequently appear when sunspots flare up.",
+            "Yellow": "Generates strange radio signals. It raises the temperature by 3.6F degrees within 3,300 feet .",
+            "Stadium": "Formed by Magnemite that link together when the number of black spots on the sun increases. Fires high-voltage power, etc."
+        },
+        "Generation II": {
+            "Gold": "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",
+            "Silver": "The Magnemite are united by a magnetism so powerful, it dries all moisture in its vicinities.",
+            "Crystal": "When many Magneton gather together, the resulting magnetic storm disrupts radio waves.",
+            "Stadium 2": "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close. (Pokémon Red, Silver, or Crystal inserted) The Magnemite are united by a magnetism so powerful, it dries all moisture in their vicinity. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pok é mon .",
+            "Sapphire": "Magneton emits a powerful magnetic force that is fatal to electronics and precision instruments. Because of this, it is said that some towns warn people to keep this Pok é mon inside a Pok é Ball .",
+            "Emerald": "It is actually three Magnemite linked by magnetism. It generates powerful radio waves that raise temperatures by 3.6 degrees F within a 3,300-foot radius.",
+            "FireRed": "A linked cluster formed of several Magnemite . It discharges powerful magnetic waves at high voltage.",
+            "LeafGreen": "Formed by several Magnemite linked together. They frequently appear when sunspots flare up."
+        },
+        "Generation IV": {
+            "Diamond": "It is actually three Magnemite linked by magnetism. A group can set off a magnetic storm.",
+            "Pearl": "It is actually three Magnemite linked by magnetism. A group can set off a magnetic storm.",
+            "Platinum": "Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.",
+            "HeartGold": "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",
+            "SoulSilver": "The Magnemite are united by a magnetism so powerful, it dries all moisture in its vicinity."
+        },
+        "Generation V": {
+            "Black": "Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.",
+            "White": "Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.",
+            "Black 2": "The stronger electromagnetic waves from the three linked Magnemite are enough to dry out surrounding moisture.",
+            "White 2": "The stronger electromagnetic waves from the three linked Magnemite are enough to dry out surrounding moisture."
+        },
+        "Generation VI": {
+            "X": "A linked cluster formed of several Magnemite. It discharges powerful magnetic waves at high voltage.",
+            "Y": "Generates strange radio signals. It raises the temperature by 3.6 degrees Fahrenheit within 3,300 feet .",
+            "Omega Ruby": "Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon.",
+            "Alpha Sapphire": "Magneton emits a powerful magnetic force that is fatal to electronics and precision instruments. Because of this, it is said that some towns warn people to keep this Pokémon inside a Poké Ball."
+        },
+        "Generation VII": {
+            "Sun": "When three Magnemite link together, their brains also become one. They do not become three times more intelligent.",
+            "Moon": "It has about three times the electrical power of Magnemite. For some reason, outbreaks of this Pokémon happen when lots of sunspots appear.",
+            "Ultra Sun": "Delicate equipment can malfunction in areas inhabited by Magneton, which send out mysterious electrical signals.",
+            "Ultra Moon": "When rain clouds form, many Magneton gather in high places to wait for lightning to strike.",
+            "Let's Go Pikachu": "Generates strange radio signals. It raises the temperature by 3.6 degrees Fahrenheit within 3,300 feet .",
+            "Let's Go Eevee": "Generates strange radio signals. It raises the temperature by 3.6 degrees Fahrenheit within 3,300 feet ."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon is three Magnemite that have linked together. Magneton sends out powerful radio waves to study its surroundings.",
+            "Shield": "This Pokémon is constantly putting out a powerful magnetic force. Most computers go haywire when a Magneton approaches.",
+            "Brilliant Diamond": "A Magneton is actually three Magnemite linked by magnetism. A group of these Pokémon can set off a magnetic storm.",
+            "Shining Pearl": "A Magneton is actually three Magnemite linked by magnetism. A group of these Pokémon can set off a magnetic storm.",
+            "Legends: Arceus": "Three Magnemite gathered to evolve into this Pokémon. The source of much vexation on my part, as its powerful magnetism destroys my research equipment."
+        },
+        "Generation IX": {
+            "Scarlet": "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",
+            "Violet": "They're formed by several Magnemite linked together. They frequently appear when sunspots flare up."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Power Plant , Cerulean Cave",
+            "Blue": "Power Plant , Cerulean Cave",
+            "Blue (Japan)": "Power Plant , Cerulean Cave",
+            "Yellow": "Power Plant"
+        },
+        "Generation II": {
+            "Gold": "Evolve Magnemite",
+            "Silver": "Evolve Magnemite",
+            "Crystal": "Trade Dugtrio in Power Plant"
+        },
+        "Generation III": {
+            "Ruby": "New Mauville",
+            "Sapphire": "New Mauville",
+            "Emerald": "New Mauville",
+            "FireRed": "Power Plant , Cerulean Cave",
+            "LeafGreen": "Power Plant , Cerulean Cave",
+            "Colosseum": "Trade",
+            "XD": "Cipher Key Lair (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Magnemite",
+            "Pearl": "Evolve Magnemite",
+            "Platinum": "Route 222 , Victory Road",
+            "HeartGold": "Cerulean Cave Safari Zone (Peak, default; Mountain, default and 3 Plains points) Trade Dugtrio in Power Plant",
+            "SoulSilver": "Cerulean Cave Safari Zone (Peak, default; Mountain, default and 3 Plains points) Trade Dugtrio in Power Plant",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Magnemite",
+            "Black 2": "P2 Laboratory",
+            "White 2": "P2 Laboratory"
+        },
+        "Generation VI": {
+            "X": "Lost Hotel , Friend Safari ( Steel )",
+            "Y": "Lost Hotel , Friend Safari ( Steel )",
+            "Omega Ruby": "Evolve Magnemite",
+            "Alpha Sapphire": "Evolve Magnemite"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Magnemite",
+            "Moon": "Evolve Magnemite",
+            "Ultra Sun": "Evolve Magnemite",
+            "Ultra Moon": "Evolve Magnemite",
+            "Let's Go Pikachu": "Power Plant",
+            "Let's Go Eevee": "Power Plant"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Challenge Road , Training Lowlands ( Wanderer ) Fields of Honor , Forest of Focus , Challenge Beach , Brawlers' Cave , Courageous Cavern , Stepping-Stone Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Magnemite",
+            "Shining Pearl": "Evolve Magnemite",
+            "Legends: Arceus": "Cobalt Coastlands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 4★ )",
+            "Violet": "North Province: Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero": "Canyon Biome , Chargestone Cavern , Polar Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Magnemite",
+            "to": "Magneton",
+            "method": [
+                "Level 30"
+            ]
+        },
+        {
+            "from": "Magneton",
+            "to": "Magnezone",
+            "method": [
+                "Level up (near a Mt Coronet)",
+                "Level up (near a Chargestone Cave)",
+                "Level up (near a Kalos Route 13)",
+                "Level up",
+                "Use Thunder Stone"
+            ]
+        }
+    ]
+}

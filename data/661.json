@@ -1,0 +1,90 @@
+{
+    "name": "Fletchling",
+    "pokedex_number": "#0661",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Big Pecks",
+        "Gale Wings"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 43,
+        "Sp. Atk": 40,
+        "Sp. Def": 38,
+        "Speed": 62,
+        "Total": 278
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
+            "Y": "Despite the beauty of its lilting voice, it's merciless to intruders that enter its territory.",
+            "Omega Ruby": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
+            "Alpha Sapphire": "Despite the beauty of its lilting voice, it's merciless to intruders that enter its territory."
+        },
+        "Generation VII": {
+            "Sun": "This amiable Pokémon is easy to train. But when battle is joined, it shows its ferocious side.",
+            "Moon": "When it's excited, its temperature can double, spiking hormone production in its body.",
+            "Ultra Sun": "While it's an amiable Pokémon, if you touch it unexpectedly, it will heat up its body in an instant, and you'll be burned.",
+            "Ultra Moon": "Its body is always warm. Trainers who live in cold areas apparently sleep with it in their bed."
+        },
+        "Generation VIII": {
+            "Sword": "Its melodious cries are actually warnings. Fletchling will mercilessly peck at anything that enters its territory.",
+            "Shield": "When this Pokémon gets excited, its body temperature increases sharply. If you touch a Fletchling with bare hands, you might get burned."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon is normally calm, but once it enters battle, its hormonal balance changes and it becomes aggressive.",
+            "Violet": "Fletchling can be found in both rural and urban areas. They once had a huge territorial dispute with Squawkabilly . Fights broke out all over town."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Routes 2 and 3 , Santalune Forest",
+            "Y": "Routes 2 and 3 , Santalune Forest",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Wela Volcano Park , Poké Pelago *",
+            "Moon": "Wela Volcano Park , Poké Pelago *",
+            "Ultra Sun": "Route 8 , Wela Volcano Park",
+            "Ultra Moon": "Route 8 , Wela Volcano Park",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Challenge Road , Loop Lagoon , Potbottom Desert Fields of Honor , Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Five , Poco Path South Province: Area Two ( Fire Tera Type ) Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Area One , Area Two , Area Five , Poco Path South Province: Area Two ( Fire Tera Type ) Tera Raid Battles ( 2★ )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth , Canyon Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Fletchling",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Fletchling",
+            "to": "Fletchinder",
+            "method": [
+                "Level 17"
+            ]
+        }
+    ]
+}

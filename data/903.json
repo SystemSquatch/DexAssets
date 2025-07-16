@@ -1,0 +1,52 @@
+{
+    "name": "Sneasler",
+    "pokedex_number": "#0903",
+    "types": [
+        "Fighting",
+        "Poison"
+    ],
+    "abilities": [
+        "Pressure",
+        "Unburden",
+        "Poison Touch"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 130,
+        "Defense": 60,
+        "Sp. Atk": 40,
+        "Sp. Def": 80,
+        "Speed": 120,
+        "Total": 510
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Legends: Arceus": "Because of Sneasler's virulent poison and daunting physical prowess, no other species could hope to best it on the frozen highlands. Preferring solitude, this species does not form packs."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Coronet Highlands : Massive Mass Outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME",
+            "Violet": "Pokémon HOME"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Sneasel",
+            "to": "Sneasler",
+            "method": [
+                "Level up (holding Razor Claw, during the day)"
+            ]
+        }
+    ]
+}

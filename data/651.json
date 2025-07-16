@@ -1,0 +1,81 @@
+{
+    "name": "Quilladin",
+    "pokedex_number": "#0651",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Bulletproof"
+    ],
+    "stats": {
+        "HP": 61,
+        "Attack": 78,
+        "Defense": 95,
+        "Sp. Atk": 56,
+        "Sp. Def": 58,
+        "Speed": 57,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "It relies on its sturdy shell to deflect predators' attacks. It counterattacks with its sharp quills.",
+            "Y": "They strengthen their lower bodies by running into one another. They are very kind and won't start fights.",
+            "Omega Ruby": "It relies on its sturdy shell to deflect predators' attacks. It counterattacks with its sharp quills.",
+            "Alpha Sapphire": "They strengthen their lower bodies by running into one another. They are very kind and won't start fights."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "It’s protected by a sturdy shell. The shell is also very heavy, which naturally strengthens Quilladin’s lower body.",
+            "Violet": "It can send a trailer flying with a tackle. It’s numb to pain, so even violent collisions don’t faze it."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Friend Safari ( Grass )",
+            "Y": "Friend Safari ( Grass )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Chespin",
+            "Ultra Moon": "Evolve Chespin",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Evolve Chespin"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Chespin",
+            "to": "Quilladin",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Quilladin",
+            "to": "Chesnaught",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

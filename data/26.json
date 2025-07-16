@@ -1,0 +1,154 @@
+{
+    "name": "Raichu",
+    "pokedex_number": "#0026",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Static",
+        "Surge Surfer",
+        "Lightning Rod"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 55,
+        "Sp. Atk": 90,
+        "Sp. Def": 80,
+        "Speed": 100,
+        "Total": 475
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Its long tail serves as a ground to protect itself from its own high voltage power.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Its long tail serves as a ground to protect itself from its own high voltage power.",
+            "Yellow": "When electricity builds up inside its body, it becomes feisty. It also glows in the dark.",
+            "Stadium": "Its electrical attacks may reach 10,000 volts. It discharges electricity from its tail, so it is not harmed by its own power."
+        },
+        "Generation II": {
+            "Gold": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
+            "Silver": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+            "Crystal": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
+            "Stadium 2": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual. (Pokémon Red, Silver, or Crystal inserted) If the electric pouches in its cheeks become fully charged, both ears will stand straight up. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "If the electrical sacks become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pok é mon 's nest.",
+            "Sapphire": "This Pok é mon exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. Raichu searches for electricity by planting its tail in the ground.",
+            "Emerald": "If it stores too much electricity, its behavior turns aggressive. To avoid this, it occasionally discharges excess energy and calms itself down.",
+            "FireRed": "Its electric charges can reach even 100,000 volts. Careless contact can cause even an Indian elephant to faint.",
+            "LeafGreen": "Its long tail serves as a ground to protect itself from its own high-voltage power."
+        },
+        "Generation IV": {
+            "Diamond": "It turns aggressive if it has too much electricity in its body. It discharges power through its tail.",
+            "Pearl": "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.",
+            "Platinum": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+            "HeartGold": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
+            "SoulSilver": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up."
+        },
+        "Generation V": {
+            "Black": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+            "White": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+            "Black 2": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+            "White 2": "Its tail discharges electricity into the ground, protecting it from getting shocked."
+        },
+        "Generation VI": {
+            "X": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
+            "Y": "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.",
+            "Omega Ruby": "If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.",
+            "Alpha Sapphire": "This Pokémon exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. Raichu plants its tail in the ground to discharge electricity."
+        },
+        "Generation VII": {
+            "Sun": "It only evolves to this form in the Alola region. According to researchers, its diet is one of the causes of this change.",
+            "Moon": "It uses psychokinesis to control electricity. It hops aboard its own tail, using psychic power to lift the tail and move about while riding it.",
+            "Ultra Sun": "It focuses psychic energy into its tail and rides it like it's surfing. Another name for this Pokémon is \"hodad.\"",
+            "Ultra Moon": "When you rub its cheeks, a sweet fragrance comes wafting out. However, you'll also get a light shock!",
+            "Let's Go Pikachu": "It loves pancakes prepared with a secret Alolan recipe. Some wonder whether that recipe holds the key to this Pokémon's evolution.",
+            "Let's Go Eevee": "It loves pancakes prepared with a secret Alolan recipe. Some wonder whether that recipe holds the key to this Pokémon's evolution."
+        },
+        "Generation VIII": {
+            "Sword": "It's believed that the weather, climate, and food of the Alola region all play a part in causing Pikachu to evolve into this form of Raichu.",
+            "Shield": "This Pokémon rides on its tail while it uses its psychic powers to levitate. It attacks with star-shaped thunderbolts.",
+            "Brilliant Diamond": "It turns aggressive if it has too much electricity in its body. It discharges power through its tail.",
+            "Shining Pearl": "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.",
+            "Legends: Arceus": "It can discharge bursts of electricity exceeding 100,000 volts—a single strike with that amount of power would incapacitate one of the Copperajah of my homeland ."
+        },
+        "Generation IX": {
+            "Scarlet": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+            "Violet": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Cerulean Cave",
+            "Blue": "Power Plant , Cerulean Cave",
+            "Blue (Japan)": "Power Plant , Cerulean Cave",
+            "Yellow": "Trade"
+        },
+        "Generation II": {
+            "Gold": "Evolve Pikachu",
+            "Silver": "Evolve Pikachu",
+            "Crystal": "Evolve Pikachu"
+        },
+        "Generation III": {
+            "Ruby": "Evolve Pikachu",
+            "Sapphire": "Evolve Pikachu",
+            "Emerald": "Evolve Pikachu",
+            "FireRed": "Evolve Pikachu",
+            "LeafGreen": "Evolve Pikachu",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Pikachu",
+            "Pearl": "Evolve Pikachu",
+            "Platinum": "Evolve Pikachu",
+            "HeartGold": "Evolve Pikachu",
+            "SoulSilver": "Evolve Pikachu",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Evolve Pikachu",
+            "Y": "Evolve Pikachu",
+            "Omega Ruby": "Evolve Pikachu",
+            "Alpha Sapphire": "Evolve Pikachu"
+        },
+        "Generation VII": {
+            "Sun": "Trade ( Kantonian Form ) Evolve Pikachu ( Alolan Form )",
+            "Moon": "Trade ( Kantonian Form ) Evolve Pikachu ( Alolan Form )",
+            "Ultra Sun": "Evolve Pikachu in Ultra Space ( Kantonian Form ) Evolve Pikachu ( Alolan Form )",
+            "Ultra Moon": "Evolve Pikachu in Ultra Space ( Kantonian Form ) Evolve Pikachu ( Alolan Form )",
+            "Let's Go Pikachu": "Evolve Pikachu ( Kantonian Form ) Trade Kantonian Raichu in Saffron City ( Alolan Form )",
+            "Let's Go Eevee": "Evolve Pikachu ( Kantonian Form ) Trade Kantonian Raichu in Saffron City ( Alolan Form )"
+        },
+        "Generation VIII": {
+            "Sword": "Giant's Cap , Motostoke Riverbank ( Max Raid Battle ) ( Kantonian Form ) Trade ( Alolan Form )",
+            "Shield": "Giant's Cap , Motostoke Riverbank ( Max Raid Battle ) ( Kantonian Form ) Trade ( Alolan Form )",
+            "Expansion Pass": "Forest of Focus , Soothing Wetlands ( Wanderer ) ( Kantonian Form ) Challenge Beach , Fields of Honor , Forest of Focus ( Max Raid Battle ) ( Kantonian Form ) Reward for finding at least 40 Alolan Diglett ( Alolan Form ) Max Lair ( Dynamax Adventure ) ( Kantonian/Alolan Forms )",
+            "Brilliant Diamond": "Evolve Pikachu ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Shining Pearl": "Evolve Pikachu ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Legends: Arceus": "Obsidian Fieldlands : massive mass outbreaks ( Kantonian Form ) Crimson Mirelands : Golden Lowlands ( Kantonian Form ) Alabaster Icelands : Space-time distortions ( Kantonian Form ) Unobtainable ( Alolan Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area Two ( Kantonian Form ) North Province: Socarrat Trail ( Kantonian Form ) Area Zero ( Kantonian Form ) Tera Raid Battles ( 4★ , 5★ ) ( Kantonian Form ) Pokémon HOME ( Alolan Form )",
+            "Violet": "West Province: Area Two ( Kantonian Form ) North Province: Socarrat Trail ( Kantonian Form ) Area Zero ( Kantonian Form ) Tera Raid Battles ( 4★ , 5★ ) ( Kantonian Form ) Pokémon HOME ( Alolan Form )",
+            "The Hidden Treasure of Area Zero": "Evolve Pikachu ( Kantonian Form ) Pokémon HOME , Poké Portal News ( Alolan Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Pikachu",
+            "to": "Raichu",
+            "method": [
+                "Use Thunder Stone"
+            ]
+        }
+    ]
+}

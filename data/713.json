@@ -1,0 +1,81 @@
+{
+    "name": "Avalugg",
+    "pokedex_number": "#0713",
+    "types": [
+        "Ice",
+        "Unknown"
+    ],
+    "abilities": [
+        "Own Tempo",
+        "Ice Body",
+        "Strong Jaw",
+        "Ice Body",
+        "Sturdy"
+    ],
+    "stats": {
+        "HP": 95,
+        "Attack": 117,
+        "Defense": 184,
+        "Sp. Atk": 44,
+        "Sp. Def": 46,
+        "Speed": 28,
+        "Total": 514
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Its ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way.",
+            "Y": "The way several Bergmite huddle on its back makes it look like an aircraft carrier made of ice.",
+            "Omega Ruby": "Its ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way.",
+            "Alpha Sapphire": "The way several Bergmite huddle on its back makes it look like an aircraft carrier made of ice."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "At high latitudes, this Pokémon can be found with clusters of Bergmite on its back as it swims among the icebergs.",
+            "Shield": "As Avalugg moves about during the day, the cracks in its body deepen. The Pokémon's body returns to a pristine state overnight.",
+            "Legends: Arceus": "The armor of ice covering its lower jaw puts steel to shame and can shatter rocks with ease. This Pokémon barrels along steep mountain paths, cleaving through the deep snow."
+        },
+        "Generation IX": {
+            "Scarlet": "As Avalugg walks along with Bergmite on its back, it comes across pods of Cetitan . It lets them pass to avoid conflict.",
+            "Violet": "This Pokémon uses its massive icy body to flatten anything that gets in its way. When it's floating out on the ocean, it looks exactly like drift ice."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Evolve Bergmite",
+            "Y": "Evolve Bergmite",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage ( Wanderer ) Stony Wilderness , Dusty Bowl , Hammerlocke Hills , Giant's Cap ( Max Raid Battle )",
+            "Shield": "Lake of Outrage ( Wanderer ) Giant's Seat , Stony Wilderness , Dusty Bowl , Hammerlocke Hills , Giant's Cap ( Max Raid Battle )",
+            "Expansion Pass": "Frigid Sea , Three-Point Pass Insular Sea , Giant's Bed , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Alabaster Icelands : Avalugg's Legacy , massive mass outbreaks ( Hisuian Form ) Unobtainable ( Kalosian Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: North Paldean Sea , Casseroya Lake , Glaseado Mountain ( Kalosian Form ) North Province: Glaseado Mountain ( Rock Tera Type ) ( Kalosian Form ) Tera Raid Battles ( 5★ , 6★ ) ( Kalosian Form ) Evolve Bergmite in Pokémon Legends: Arceus via Pokémon HOME ( Hisuian Form )",
+            "Violet": "North Province: North Paldean Sea , Casseroya Lake , Glaseado Mountain ( Kalosian Form ) North Province: Glaseado Mountain ( Rock Tera Type ) ( Kalosian Form ) Tera Raid Battles ( 5★ , 6★ ) ( Kalosian Form ) Evolve Bergmite in Pokémon Legends: Arceus via Pokémon HOME ( Hisuian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Bergmite",
+            "to": "Avalugg",
+            "method": [
+                "Level 37"
+            ]
+        }
+    ]
+}

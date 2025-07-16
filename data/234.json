@@ -1,0 +1,142 @@
+{
+    "name": "Stantler",
+    "pokedex_number": "#0234",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Frisk",
+        "Sap Sipper"
+    ],
+    "stats": {
+        "HP": 73,
+        "Attack": 95,
+        "Defense": 62,
+        "Sp. Atk": 85,
+        "Sp. Def": 65,
+        "Speed": 85,
+        "Total": 465
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "The curved antlers subtly change the flow of air to create a strange space where reality is distorted.",
+            "Silver": "Those who stare at its antlers will gradually lose control of their senses and be unable to stand.",
+            "Crystal": "The round balls found on the fallen antlers can be ground into a powder that aids in sleeping.",
+            "Stadium 2": "The curved antlers subtly change the flow of air to create a strange space where reality is distorted. (Pokémon Red, Silver, or Crystal inserted) Those who stare at its antlers will gradually lose control of their senses and be unable to stand. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Stantler 's magnificent antlers were traded at high prices as works of art. As a result, this Pok é mon was hunted close to extinction by those who were after the priceless antlers.",
+            "Sapphire": "Stantler 's magnificent antlers were traded at high prices as works of art. As a result, this Pok é mon was hunted close to extinction by those who were after the priceless antlers.",
+            "Emerald": "Stantler 's magnificent antlers were once traded at high prices as works of art. As a result, this Pok é mon was hunted close to extinction.",
+            "FireRed": "Those who stare at its antlers will gradually lose control of their senses and be unable to stand.",
+            "LeafGreen": "Its curved antlers subtly change the flow of air to create a strange space where reality is distorted."
+        },
+        "Generation IV": {
+            "Diamond": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers.",
+            "Pearl": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers.",
+            "Platinum": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers.",
+            "HeartGold": "The curved antlers subtly change the flow of air to create a strange space where reality is distorted.",
+            "SoulSilver": "Those who stare at its antlers will gradually lose control of their senses and be unable to stand."
+        },
+        "Generation V": {
+            "Black": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers.",
+            "White": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers.",
+            "Black 2": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers.",
+            "White 2": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers."
+        },
+        "Generation VI": {
+            "X": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers.",
+            "Y": "The curved antlers subtly change the flow of air to create a strange space where reality is distorted.",
+            "Omega Ruby": "Stantler's magnificent antlers were traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the priceless antlers.",
+            "Alpha Sapphire": "Stantler's magnificent antlers were traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the priceless antlers."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers.",
+            "Shining Pearl": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers.",
+            "Legends: Arceus": "Its strangely shaped antlers have the power to bewitch those who see them. Medicine made by grinding up the black orbs from fallen antlers is an effective treatment for insomnia."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon apparently used to live in much harsher environments , and thus it once had stronger psychic powers than it does now.",
+            "Violet": "It's said that this Pokémon used to be stronger long ago when it had many enemies, and that it was even able to evolve under its own power."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 36 and 37",
+            "Silver": "Routes 36 and 37",
+            "Crystal": "Route 37 Night"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Safari Zone extension",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "The Under Subway (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Route 207 ( Poké Radar )",
+            "Platinum": "Route 207 ( Poké Radar )",
+            "HeartGold": "Routes 36 and 37 Safari Zone Night (Plains - default, with 3 Plains points, and with 3 Forest points)",
+            "SoulSilver": "Routes 36 and 37 Safari Zone Night (Plains - default, with 3 Plains points, and with 3 Forest points)",
+            "Pal Park": "Field",
+            "Pokéwalker": "Treehouse"
+        },
+        "Generation V": {
+            "Black": "Abundant Shrine",
+            "White": "Abundant Shrine",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Mirage Mountain (west of Route 104 )",
+            "Alpha Sapphire": "Mirage Mountain (west of Route 104 )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Route 207 ( Poké Radar )",
+            "Legends: Arceus": "Obsidian Fieldlands : Deertrack Heights (additional ), massive mass outbreaks Cobalt Coastlands : Windbreak Stand Coronet Highlands : Wayward Wood , near Glacier Terrace"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Three , Area Five Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area One , Area Three , Area Five Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Reveler's Road , Kitakami Hall , Mossfell Confluence , Oni Mountain , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Stantler",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Stantler",
+            "to": "Wyrdeer",
+            "method": [
+                "Agile Style Move (knowing Psyshield Bash)"
+            ]
+        }
+    ]
+}

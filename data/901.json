@@ -1,0 +1,57 @@
+{
+    "name": "Ursaluna",
+    "pokedex_number": "#0901",
+    "types": [
+        "Ground",
+        "Normal"
+    ],
+    "abilities": [
+        "Guts",
+        "Bulletproof",
+        "Unnerve",
+        "Mind's Eye"
+    ],
+    "stats": {
+        "HP": 130,
+        "Attack": 140,
+        "Defense": 105,
+        "Sp. Atk": 45,
+        "Sp. Def": 80,
+        "Speed": 50,
+        "Total": 550
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Legends: Arceus": "I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will."
+        },
+        "Generation IX": {
+            "Scarlet": "It crossed the sea and drifted ashore in a new land . Surviving in this place led it to take on a unique appearance and gain special powers.",
+            "Violet": "This special Ursaluna can see in the dark with its left eye and protects itself with mud that is as hard as iron."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Crimson Mirelands : Massive Mass Outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME , Evolve Ursaring in Pokémon Legends: Arceus ( Regular Form ) Trade ( Bloodmoon ) Version 2.0.1+",
+            "Violet": "Pokémon HOME , Evolve Ursaring in Pokémon Legends: Arceus ( Regular Form ) Trade ( Bloodmoon ) Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Timeless Woods ( only one ) ( Bloodmoon )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Ursaring",
+            "to": "Ursaluna",
+            "method": [
+                "Use Peat Block (during the full-moon)"
+            ]
+        }
+    ]
+}

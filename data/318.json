@@ -1,0 +1,133 @@
+{
+    "name": "Carvanha",
+    "pokedex_number": "#0318",
+    "types": [
+        "Water",
+        "Dark"
+    ],
+    "abilities": [
+        "Rough Skin",
+        "Speed Boost"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 90,
+        "Defense": 20,
+        "Sp. Atk": 65,
+        "Sp. Def": 20,
+        "Speed": 65,
+        "Total": 305
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Carvanha 's strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this Pok é mon .",
+            "Sapphire": "If anything invades Carvanha 's territory, it will swarm and tear at the intruder with its pointed fangs. On its own, however, this Pok é mon turns suddenly timid.",
+            "Emerald": "Carvanha attack ships in swarms, making them sink. Although it is said to be a very vicious Pok é mon , it timidly flees as soon as it finds itself alone.",
+            "FireRed": "It lives in massive rivers that course through jungles. It swarms prey that enter its territory.",
+            "LeafGreen": "It lives in massive rivers that course through jungles. It swarms prey that enter its territory."
+        },
+        "Generation IV": {
+            "Diamond": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
+            "Pearl": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
+            "Platinum": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
+            "HeartGold": "They form packs to attack boats and rip out their hulls to sink them. They live in rivers in the jungle.",
+            "SoulSilver": "They form packs to attack boats and rip out their hulls to sink them. They live in rivers in the jungle."
+        },
+        "Generation V": {
+            "Black": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
+            "White": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
+            "Black 2": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
+            "White 2": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls."
+        },
+        "Generation VI": {
+            "X": "They form packs to attack boats and rip out their hulls to sink them. They live in rivers in the jungle.",
+            "Y": "It lives in massive rivers that course through jungles. It swarms prey that enter its territory.",
+            "Omega Ruby": "Carvanha's strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this Pokémon.",
+            "Alpha Sapphire": "If anything invades Carvanha's territory, it will swarm and tear at the intruder with its pointed fangs. On its own, however, this Pokémon turns suddenly timid."
+        },
+        "Generation VII": {
+            "Sun": "Each school has its own territory. Any intruders are mercilessly attacked with fangs bared.",
+            "Moon": "If they scent the faintest trace of blood, they rush to attack en masse. When alone, they're rather cowardly.",
+            "Ultra Sun": "They're such cowards that they won't hunt alone. When five or so of them get together, they suddenly turn ferocious!",
+            "Ultra Moon": "With its sturdy jaws and fangs, it can easily chomp wooden boats to splinters. It fights with Basculin over food."
+        },
+        "Generation VIII": {
+            "Sword": "It won't attack while it's alone—not even if it spots prey. Instead, it waits for other Carvanha to join it, and then the Pokémon attack as a group.",
+            "Shield": "These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs.",
+            "Brilliant Diamond": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
+            "Shining Pearl": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Routes 118 and 119 ( Good Rod or Super Rod )",
+            "Sapphire": "Routes 118 and 119 ( Good Rod or Super Rod )",
+            "Emerald": "Routes 118 and 119 ( Good Rod or Super Rod )",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Cipher Lab (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Great Marsh ( Super Rod )",
+            "Pearl": "Great Marsh ( Super Rod )",
+            "Platinum": "Great Marsh ( Super Rod )",
+            "HeartGold": "Transfer from Pokéwalker",
+            "SoulSilver": "Transfer from Pokéwalker",
+            "Pal Park": "Sea",
+            "Pokéwalker": "Warm Beach"
+        },
+        "Generation V": {
+            "Black": "Village Bridge ( Fishing )",
+            "White": "Village Bridge ( Fishing )",
+            "Black 2": "Village Bridge ( Fishing )",
+            "White 2": "Village Bridge ( Fishing )",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Route 22 ( Good Rod )",
+            "Y": "Route 22 ( Good Rod )",
+            "Omega Ruby": "Routes 118 and 119 ( Good Rod or Super Rod )",
+            "Alpha Sapphire": "Routes 118 and 119 ( Good Rod or Super Rod )"
+        },
+        "Generation VII": {
+            "Sun": "Breed Sharpedo",
+            "Moon": "Breed Sharpedo",
+            "Ultra Sun": "Poni Breaker Coast ( Fishing )",
+            "Ultra Moon": "Poni Breaker Coast ( Fishing )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Training Lowlands ( Fishing )",
+            "Brilliant Diamond": "Great Marsh ( Super Rod ) Grand Underground - Riverbank Cave , Fountainspring Cave , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Great Marsh ( Super Rod ) Grand Underground - Riverbank Cave , Fountainspring Cave , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Carvanha",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Carvanha",
+            "to": "Sharpedo",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

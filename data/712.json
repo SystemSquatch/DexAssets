@@ -1,0 +1,87 @@
+{
+    "name": "Bergmite",
+    "pokedex_number": "#0712",
+    "types": [
+        "Ice",
+        "Unknown"
+    ],
+    "abilities": [
+        "Own Tempo",
+        "Ice Body",
+        "Sturdy"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 69,
+        "Defense": 85,
+        "Sp. Atk": 32,
+        "Sp. Def": 35,
+        "Speed": 28,
+        "Total": 304
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "It blocks opponents' attacks with the ice that shields its body. It uses cold air to repair any cracks with new ice.",
+            "Y": "Using air of -150 degrees Fahrenheit , they freeze opponents solid. They live in herds above the snow line on mountains.",
+            "Omega Ruby": "It blocks opponents' attacks with the ice that shields its body. It uses cold air to repair any cracks with new ice.",
+            "Alpha Sapphire": "Using air of -150 degrees Fahrenheit , they freeze opponents solid. They live in herds above the snow line on mountains."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "They chill the air around them to -150 degrees Fahrenheit , freezing the water in the air into ice that they use as armor.",
+            "Shield": "This Pokémon lives in areas of frigid cold. It secures itself to the back of an Avalugg by freezing its feet in place.",
+            "Legends: Arceus": "Lives on mountains blanketed in perennial snow. It freezes water vapor in the air to make the ice helmet that it dons for defense."
+        },
+        "Generation IX": {
+            "Scarlet": "They live in mountainous regions of frigid cold. On rare occasions, they ride on the back of an Avalugg to cross seas and move to new habitats.",
+            "Violet": "Bergmite protects itself by coating its body in ice formed by frigid air of -148 degrees Fahrenheit . It fights with Frigibax whenever they meet."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Frost Cavern , Friend Safari ( Ice )",
+            "Y": "Frost Cavern , Friend Safari ( Ice )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 9 , Lake of Outrage Stony Wilderness , Dusty Bowl , Hammerlocke Hills , Giant's Cap ( Max Raid Battle )",
+            "Shield": "Route 9 , Lake of Outrage Giant's Seat , Stony Wilderness , Dusty Bowl , Hammerlocke Hills , Giant's Cap ( Max Raid Battle )",
+            "Sword Expansion Pass": "Frigid Sea , Three-Point Pass Giant's Bed , Frigid Sea ( Max Raid Battle )",
+            "Shield Expansion Pass": "Frigid Sea , Three-Point Pass",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Alabaster Icelands : near Avalanche Slopes , near Whiteout Valley , Bonechill Wastes , Arena's Approach , Avalugg's Legacy , near Glacier Terrace , Crevasse Passage , Icepeak Cavern , Ice Column Chamber , massive mass outbreaks Alabaster Icelands: near Avalanche Slopes, Whiteout Valley, near Bonechill Wastes, Arena's Approach, Avalugg's Legacy, near Snowfall Hot Spring , Crevasse Passage, Secret Hollow , Icepeak Cavern, Ice Column Chamber Shaking ore deposits"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: North Paldean Sea , Casseroya Lake , Glaseado Mountain Tera Raid Battles ( 3★ )",
+            "Violet": "North Province: North Paldean Sea , Casseroya Lake , Glaseado Mountain Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Bergmite",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Bergmite",
+            "to": "Avalugg",
+            "method": [
+                "Level 37"
+            ]
+        }
+    ]
+}

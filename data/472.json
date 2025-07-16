@@ -1,0 +1,106 @@
+{
+    "name": "Gliscor",
+    "pokedex_number": "#0472",
+    "types": [
+        "Ground",
+        "Flying"
+    ],
+    "abilities": [
+        "Hyper Cutter",
+        "Sand Veil",
+        "Poison Heal"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 95,
+        "Defense": 125,
+        "Sp. Atk": 45,
+        "Sp. Def": 75,
+        "Speed": 95,
+        "Total": 510
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",
+            "Pearl": "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",
+            "Platinum": "If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.",
+            "HeartGold": "Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.",
+            "SoulSilver": "Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest."
+        },
+        "Generation V": {
+            "Black": "If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.",
+            "White": "If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.",
+            "Black 2": "It dances silently through the sky. When it approaches prey, it can land a critical hit in an instant.",
+            "White 2": "It dances silently through the sky. When it approaches prey, it can land a critical hit in an instant."
+        },
+        "Generation VI": {
+            "X": "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",
+            "Y": "Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.",
+            "Omega Ruby": "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",
+            "Alpha Sapphire": "Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It observes prey while hanging inverted from branches. When the chance presents itself, Gliscor swoops!",
+            "Shining Pearl": "It observes prey while hanging inverted from branches. When the chance presents itself, Gliscor swoops!",
+            "Legends: Arceus": "It glides soundlessly on pitch-black wings and sinks sharp fangs into the throat of its prey. It takes on a look of satisfaction once it has entirely drained its prey of blood."
+        },
+        "Generation IX": {
+            "Scarlet": "If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.",
+            "Violet": "It flies soundlessly through the sky. It catches prey with its long tail, then lunges at the prey's vulnerable spots with its fangs."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Gligar",
+            "Pearl": "Evolve Gligar",
+            "Platinum": "Evolve Gligar",
+            "HeartGold": "Evolve Gligar",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Routes 11 and 15 ( rustling grass )",
+            "White": "Routes 11 and 15 ( rustling grass )",
+            "Black 2": "Routes 11 , 15 , and 23 ( rustling grass )",
+            "White 2": "Routes 11 , 15 , and 23 ( rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Gligar",
+            "Y": "Evolve Gligar",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Gligar",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Coronet Highlands : near Primeval Grotto , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Tera Raid Battles ( 5★ , 6★ )",
+            "The Hidden Treasure of Area Zero (Violet)": "Tera Raid Battle Search ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Gligar",
+            "to": "Gliscor",
+            "method": [
+                "Level up (holding Razor Fang, during the night)"
+            ]
+        }
+    ]
+}

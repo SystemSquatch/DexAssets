@@ -1,0 +1,87 @@
+{
+    "name": "Seismitoad",
+    "pokedex_number": "#0537",
+    "types": [
+        "Water",
+        "Ground"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Poison Touch",
+        "Water Absorb"
+    ],
+    "stats": {
+        "HP": 105,
+        "Attack": 85,
+        "Defense": 75,
+        "Sp. Atk": 85,
+        "Sp. Def": 75,
+        "Speed": 74,
+        "Total": 499
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
+            "White": "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.",
+            "Black 2": "By putting power into its bumps, it creates vibrations and increases the power of its punches.",
+            "White 2": "By putting power into its bumps, it creates vibrations and increases the power of its punches."
+        },
+        "Generation VI": {
+            "X": "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.",
+            "Y": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
+            "Omega Ruby": "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.",
+            "Alpha Sapphire": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "The vibrating of the bumps all over its body causes earthquake-like tremors. Seismitoad and Croagunk are similar species.",
+            "Shield": "This Pokémon is popular among the elderly, who say the vibrations of its lumps are great for massages."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 8 , Icirrus City , Moor of Icirrus ( Surfing in rippling water )",
+            "White": "Route 8 , Icirrus City , Moor of Icirrus ( Surfing in rippling water )",
+            "Black 2": "Route 8 , Icirrus City , Moor of Icirrus ( Surfing in rippling water ) Pinwheel Forest (outer; rustling grass )",
+            "White 2": "Route 8 , Icirrus City , Moor of Icirrus ( Surfing in rippling water ) Pinwheel Forest (outer; rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Palpitoad",
+            "Y": "Evolve Palpitoad",
+            "Omega Ruby": "Evolve Palpitoad",
+            "Alpha Sapphire": "Evolve Palpitoad"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 7 , Axew's Eye , Lake of Outrage Rolling Fields , West Lake Axewell , South Lake Miloch , North Lake Miloch , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Route 7 , Axew's Eye , Lake of Outrage Rolling Fields , West Lake Axewell , South Lake Miloch , North Lake Miloch , Dusty Bowl ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Palpitoad",
+            "to": "Seismitoad",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

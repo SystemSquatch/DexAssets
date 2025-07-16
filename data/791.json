@@ -1,0 +1,68 @@
+{
+    "name": "Solgaleo",
+    "pokedex_number": "#0791",
+    "types": [
+        "Psychic",
+        "Steel"
+    ],
+    "abilities": [
+        "Full Metal Body"
+    ],
+    "stats": {
+        "HP": 137,
+        "Attack": 137,
+        "Defense": 107,
+        "Sp. Atk": 113,
+        "Sp. Def": 89,
+        "Speed": 97,
+        "Total": 680
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It is said to live in another world. The intense light it radiates from the surface of its body can make the darkest of nights light up like midday.",
+            "Moon": "This Pokémon is said to be a male evolution of Cosmog . At the activation of its third eye, it departs for another world.",
+            "Ultra Sun": "Sometimes the result of its opening an Ultra Wormhole is that energy and life-forms from other worlds are called here to this world.",
+            "Ultra Moon": "In writings from the distant past, it's called by the name “the beast that devours the sun.”"
+        },
+        "Generation VIII": {
+            "Sword": "When light radiates from its body, this Pokémon could almost appear to be the sun. It will dispel any darkness and light up the world. *",
+            "Shield": "Solgaleo was once known as the Beast That Devours the Sun. Energy in the form of light radiates boundlessly from it. *"
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Altar of the Sunne ( Only one )",
+            "Moon": "Trade",
+            "Ultra Sun": "Mahalo Trail ( Only one )",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME Trade Version 1.3.0+",
+            "Shield": "Pokémon HOME Trade Version 1.3.0+",
+            "Sword Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Pokémon League after receiving the Solgaleo Treat from Snacksworth ( Only one ) ( Solo Quest )",
+            "The Hidden Treasure of Area Zero (Violet)": "Pokémon League after receiving the Solgaleo Treat from Snacksworth ( Only one ) ( Group Quest )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Cosmoem",
+            "to": "Solgaleo",
+            "method": [
+                "Level 53"
+            ]
+        }
+    ]
+}

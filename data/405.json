@@ -1,0 +1,108 @@
+{
+    "name": "Luxray",
+    "pokedex_number": "#0405",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Rivalry",
+        "Intimidate",
+        "Guts"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 79,
+        "Sp. Atk": 95,
+        "Sp. Def": 79,
+        "Speed": 70,
+        "Total": 523
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It has eyes that can see through anything. It spots and captures prey hiding behind objects.",
+            "Pearl": "When its eyes gleam gold, it can spot hiding prey--even those taking shelter behind a wall.",
+            "Platinum": "It can see clearly through walls to track down its prey and seek its lost young.",
+            "HeartGold": "Luxray 's ability to see through objects comes in handy when it's scouting for danger.",
+            "SoulSilver": "Luxray 's ability to see through objects comes in handy when it's scouting for danger."
+        },
+        "Generation V": {
+            "Black": "It can see clearly through walls to track down its prey and seek its lost young.",
+            "White": "It can see clearly through walls to track down its prey and seek its lost young.",
+            "Black 2": "It can see clearly through walls to track down its prey and seek its lost young.",
+            "White 2": "It can see clearly through walls to track down its prey and seek its lost young."
+        },
+        "Generation VI": {
+            "X": "When its eyes gleam gold, it can spot hiding prey--even those taking shelter behind a wall.",
+            "Y": "Luxray's ability to see through objects comes in handy when it's scouting for danger.",
+            "Omega Ruby": "When its eyes gleam gold, it can spot hiding prey—even those taking shelter behind a wall.",
+            "Alpha Sapphire": "Luxray's ability to see through objects comes in handy when it's scouting for danger."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Luxray can see through solid objects. It will instantly spot prey trying to hide behind walls, even if the walls are thick.",
+            "Shield": "Seeing through solid objects uses up a lot of Luxray's electricity, so the Pokémon sleeps for long periods of time to store up energy.",
+            "Brilliant Diamond": "It has eyes that can see through anything. It spots and captures prey hiding behind objects.",
+            "Shining Pearl": "When its eyes gleam gold, it can spot hiding prey—even those taking shelter behind a wall.",
+            "Legends: Arceus": "They form packs, each having one male as leader. Legends say that when Luxray's two eyes shimmer with gold, the Pokémon can see through anything."
+        },
+        "Generation IX": {
+            "Scarlet": "It can see clearly through walls to track down its prey and seek its lost young.",
+            "Violet": "Luxray's ability to see through objects comes in handy when it's scouting for danger."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Luxio",
+            "Pearl": "Evolve Luxio",
+            "Platinum": "Evolve Luxio",
+            "HeartGold": "Evolve Luxio",
+            "SoulSilver": "Evolve Luxio"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Luxio",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Luxio",
+            "Y": "Evolve Luxio",
+            "Omega Ruby": "Evolve Luxio",
+            "Alpha Sapphire": "Evolve Luxio"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Luxio",
+            "Moon": "Evolve Luxio",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Soothing Wetlands , Forest of Focus , Loop Lagoon , Training Lowlands ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Luxio",
+            "Shining Pearl": "Evolve Luxio",
+            "Legends: Arceus": "Obsidian Fieldlands : Sandgem Flats , Lake Verity , massive mass outbreaks Crimson Mirelands : Space-time distortions Coronet Highlands : Heavenward Lookout , Sonorous Path , Sacred Plaza (additional ), Cloudcap Pass , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Five North Province: Area Two Tera Raid Battles ( 5★ )",
+            "Violet": "South Province: Area Five North Province: Area Two Tera Raid Battles ( 5★ )",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Luxio",
+            "to": "Luxray",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

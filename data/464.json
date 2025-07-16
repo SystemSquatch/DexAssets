@@ -1,0 +1,108 @@
+{
+    "name": "Rhyperior",
+    "pokedex_number": "#0464",
+    "types": [
+        "Ground",
+        "Rock"
+    ],
+    "abilities": [
+        "Lightning Rod",
+        "Solid Rock",
+        "Reckless"
+    ],
+    "stats": {
+        "HP": 115,
+        "Attack": 140,
+        "Defense": 130,
+        "Sp. Atk": 55,
+        "Sp. Def": 55,
+        "Speed": 40,
+        "Total": 535
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times.",
+            "Pearl": "It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times.",
+            "Platinum": "It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.",
+            "HeartGold": "From holes in its palms, it fires out Geodude . Its carapace can withstand volcanic eruptions.",
+            "SoulSilver": "From holes in its palms, it fires out Geodude . Its carapace can withstand volcanic eruptions."
+        },
+        "Generation V": {
+            "Black": "It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.",
+            "White": "It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.",
+            "Black 2": "It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.",
+            "White 2": "It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly."
+        },
+        "Generation VI": {
+            "X": "From holes in its palms, it fires out Geodude. Its carapace can withstand volcanic eruptions.",
+            "Y": "It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times.",
+            "Omega Ruby": "From holes in its palms, it fires out Geodude. Its carapace can withstand volcanic eruptions.",
+            "Alpha Sapphire": "It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It can load up to three projectiles per arm into the holes in its hands. What launches out of those holes could be either rocks or Roggenrola.",
+            "Shield": "It relies on its carapace to deflect incoming attacks and throw its enemy off balance. As soon as that happens, it drives its drill into the foe.",
+            "Brilliant Diamond": "It puts rocks in holes in its palms and uses its muscles to shoot them. On rare occasions, the Pokémon even shoots out Geodude.",
+            "Shining Pearl": "It puts rocks in holes in its palms and uses its muscles to shoot them. On rare occasions, the Pokémon even shoots out Geodude.",
+            "Legends: Arceus": "This Pokémon evolved through use of a curious item. Its rocklike hide is composed of a mysterious substance and can withstand a blow from a masterwork sword with nary a scratch."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon's sturdy carapace protects it from volcanic eruptions. It shoots round rocks from the holes in its hands.",
+            "Violet": "A Rhyperior's brain is smaller than a Rhydon's, but the Rhyperior is stronger because it spends more energy on battling and less on brainpower."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Rhydon",
+            "Pearl": "Evolve Rhydon",
+            "Platinum": "Evolve Rhydon",
+            "HeartGold": "Evolve Rhydon",
+            "SoulSilver": "Evolve Rhydon"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Rhydon",
+            "Black 2": "Evolve Rhydon",
+            "White 2": "Evolve Rhydon"
+        },
+        "Generation VI": {
+            "X": "Evolve Rhydon",
+            "Y": "Evolve Rhydon",
+            "Omega Ruby": "Evolve Rhydon",
+            "Alpha Sapphire": "Evolve Rhydon"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Rhydon",
+            "Moon": "Evolve Rhydon",
+            "Ultra Sun": "Evolve Rhydon",
+            "Ultra Moon": "Evolve Rhydon",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Bridge Field , Dusty Bowl , Giant's Seat , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Bridge Field , Dusty Bowl , Giant's Seat , Rolling Fields ( Max Raid Battle )",
+            "Expansion Pass": "Potbottom Desert ( Wanderer ) Fields of Honor ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Rhydon",
+            "Shining Pearl": "Evolve Rhydon",
+            "Legends: Arceus": "Crimson Mirelands : massive mass outbreaks Cobalt Coastlands : Space-time distortions Coronet Highlands : near Sacred Plaza , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Rhydon",
+            "to": "Rhyperior",
+            "method": [
+                "Trade (holding Protector)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "name": "Excadrill",
+    "pokedex_number": "#0530",
+    "types": [
+        "Ground",
+        "Steel"
+    ],
+    "abilities": [
+        "Sand Rush",
+        "Sand Force",
+        "Mold Breaker"
+    ],
+    "stats": {
+        "HP": 110,
+        "Attack": 135,
+        "Defense": 60,
+        "Sp. Atk": 50,
+        "Sp. Def": 65,
+        "Speed": 88,
+        "Total": 508
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
+            "White": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
+            "Black 2": "Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is.",
+            "White 2": "Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is."
+        },
+        "Generation VI": {
+            "X": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
+            "Y": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
+            "Omega Ruby": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
+            "Alpha Sapphire": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It's not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill's rampant digging.",
+            "Shield": "Known as the Drill King, this Pokémon can tunnel through the terrain at speeds of over 90 mph ."
+        },
+        "Generation IX": {
+            "Scarlet": "Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is.",
+            "Violet": "Its drill, which has evolved into steel, is strong enough to bore through iron plates. This Pokémon is a great help in tunnel construction."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Challenger's Cave , Victory Road , Giant Chasm ( Dust Cloud )",
+            "White": "Challenger's Cave , Victory Road , Giant Chasm ( Dust Cloud )",
+            "Black 2": "Clay Tunnel , Twist Mountain , Victory Road , Reversal Mountain , Wellspring Cave , Seaside Cave , Giant Chasm , Underground Ruins ( Dust Cloud )",
+            "White 2": "Clay Tunnel , Twist Mountain , Victory Road , Reversal Mountain , Wellspring Cave , Seaside Cave , Giant Chasm , Underground Ruins ( Dust Cloud )"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Steel )",
+            "Y": "Friend Safari ( Steel )",
+            "Omega Ruby": "Mirage Caves (north of Fortree City , north of Route 132 )",
+            "Alpha Sapphire": "Mirage Caves (north of Fortree City , north of Route 132 )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Giant's Mirror , Lake of Outrage Rolling Fields , Bridge Field ( Max Raid Battle )",
+            "Shield": "Giant's Mirror , Lake of Outrage Rolling Fields , Bridge Field ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Canyon Biome , Chargestone Cavern , Polar Biome Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Drilbur",
+            "to": "Excadrill",
+            "method": [
+                "Level 31"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "name": "Bunnelby",
+    "pokedex_number": "#0659",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Pickup",
+        "Cheek Pouch",
+        "Huge Power"
+    ],
+    "stats": {
+        "HP": 38,
+        "Attack": 36,
+        "Defense": 38,
+        "Sp. Atk": 32,
+        "Sp. Def": 36,
+        "Speed": 57,
+        "Total": 237
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "They use their large ears to dig burrows. They will dig the whole night through.",
+            "Y": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
+            "Omega Ruby": "They use their large ears to dig burrows. They will dig the whole night through.",
+            "Alpha Sapphire": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It excels at digging holes. Using its ears, it can dig a nest 33 feet deep in one night.",
+            "Shield": "It's very sensitive to danger. The sound of Corviknight's flapping will have Bunnelby digging a hole to hide underground in moments."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Routes 2 , 3 , 5 , and 22",
+            "Y": "Routes 2 , 3 , 5 , and 22",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields , Dappled Grove , West Lake Axewell , East Lake Axewell , North Lake Miloch , Giant's Cap Rolling Fields , East Lake Axewell , Motostoke Riverbank ( Max Raid Battle )",
+            "Shield": "Rolling Fields , Dappled Grove , West Lake Axewell , East Lake Axewell , North Lake Miloch , Giant's Cap Rolling Fields , East Lake Axewell , Motostoke Riverbank ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Bunnelby",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Bunnelby",
+            "to": "Diggersby",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

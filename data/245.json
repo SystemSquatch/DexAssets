@@ -1,0 +1,122 @@
+{
+    "name": "Suicune",
+    "pokedex_number": "#0245",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Pressure",
+        "Inner Focus",
+        "Water Absorb"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 75,
+        "Defense": 115,
+        "Sp. Atk": 90,
+        "Sp. Def": 115,
+        "Speed": 85,
+        "Total": 580
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water.",
+            "Silver": "This Pok é mon races across the land. It is said that north winds will somehow blow whenever it appears.",
+            "Crystal": "This divine Pok é mon blows around the world, always in search of a pure reservoir.",
+            "Stadium 2": "Said to be the incarnation of northern winds, it can instantly purify filthy, murky water. (Pokémon Red, Silver, or Crystal inserted) This Pok é mon races across the land. It is said that north winds will somehow blow whenever it appears. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pok é mon has the power to purify dirty water.",
+            "Sapphire": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pok é mon has the power to purify dirty water.",
+            "Emerald": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gliding elegance. It has the power to purify dirty water.",
+            "FireRed": "This Pok é mon races across the land. It is said that north winds will somehow blow whenever it appears.",
+            "LeafGreen": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water."
+        },
+        "Generation IV": {
+            "Diamond": "It races around the world to purify fouled water. It dashes away with the north wind.",
+            "Pearl": "It races around the world to purify fouled water. It dashes away with the north wind.",
+            "Platinum": "It races around the world to purify fouled water. It dashes away with the north wind.",
+            "HeartGold": "Said to be the embodiment of north winds, it can instantly purify filthy, murky water.",
+            "SoulSilver": "This Pokémon races across the land. It is said that north winds will somehow blow whenever it appears."
+        },
+        "Generation V": {
+            "Black": "It races around the world to purify fouled water. It dashes away with the north wind.",
+            "White": "It races around the world to purify fouled water. It dashes away with the north wind.",
+            "Black 2": "It races around the world to purify fouled water. It dashes away with the north wind.",
+            "White 2": "It races around the world to purify fouled water. It dashes away with the north wind."
+        },
+        "Generation VI": {
+            "X": "It races around the world to purify fouled water. It dashes away with the north wind.",
+            "Y": "Said to be the embodiment of north winds, it can instantly purify filthy, murky water.",
+            "Omega Ruby": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water.",
+            "Alpha Sapphire": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It races around the world to purify fouled water. It dashes away with the north wind.",
+            "Shining Pearl": "It races around the world to purify fouled water. It dashes away with the north wind."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Roaming Johto ( Only one )",
+            "Silver": "Roaming Johto ( Only one )",
+            "Crystal": "Tin Tower ( Only one )"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "Roaming Kanto (if the player chose Charmander ) ( Only one )",
+            "LeafGreen": "Roaming Kanto (if the player chose Charmander ) ( Only one )",
+            "Colosseum": "The Under (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade , Event",
+            "Pearl": "Trade , Event",
+            "Platinum": "Trade , Event",
+            "HeartGold": "Route 25 ( Only one ) Burned Tower *",
+            "SoulSilver": "Route 25 ( Only one ) Burned Tower *"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer Relocator ( Shiny event Suicune only)",
+            "White": "Poké Transfer Relocator ( Shiny event Suicune only)",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Trackless Forest (requires Ho-Oh or Lugia in the party) ( Only one )",
+            "Alpha Sapphire": "Trackless Forest (requires Ho-Oh or Lugia in the party) ( Only one )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Water World ) (requires Raikou and Entei in party) ( Only one )",
+            "Ultra Moon": "Ultra Space Wilds ( Water World ) (requires Raikou and Entei in party) ( Only one )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one )",
+            "Brilliant Diamond": "Ramanas Park (requires Johto Slate ) ( Only one )",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Casseroya Lake after receiving the Suicune Treat from Snacksworth ( Only one ) ( Solo Quest )",
+            "The Hidden Treasure of Area Zero (Violet)": "Casseroya Lake after receiving the Suicune Treat from Snacksworth ( Only one ) ( Group Quest )"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,112 @@
+{
+    "name": "Drifblim",
+    "pokedex_number": "#0426",
+    "types": [
+        "Ghost",
+        "Flying"
+    ],
+    "abilities": [
+        "Aftermath",
+        "Unburden",
+        "Flare Boost"
+    ],
+    "stats": {
+        "HP": 150,
+        "Attack": 80,
+        "Defense": 44,
+        "Sp. Atk": 90,
+        "Sp. Def": 54,
+        "Speed": 80,
+        "Total": 498
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It's drowzy in daytime, but flies off in the evening in big groups. No one knows where they go.",
+            "Pearl": "It carries people and Pokémon when it flies. But since it only drifts, it can end up anywhere.",
+            "Platinum": "At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.",
+            "HeartGold": "It can generate and release gas within its body. That's how it can control the altitude of its drift.",
+            "SoulSilver": "It can generate and release gas within its body. That's how it can control the altitude of its drift."
+        },
+        "Generation V": {
+            "Black": "At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.",
+            "White": "At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.",
+            "Black 2": "They carry people and Pokémon, but the wind can catch them, so there can't be a fixed destination.",
+            "White 2": "They carry people and Pokémon, but the wind can catch them, so there can't be a fixed destination."
+        },
+        "Generation VI": {
+            "X": "It carries people and Pokémon when it flies. But since it only drifts, it can end up anywhere.",
+            "Y": "It's drowsy in daytime, but flies off in the evening in big groups. No one knows where they go.",
+            "Omega Ruby": "It carries people and Pokémon when it flies. But since it only drifts, it can end up anywhere.",
+            "Alpha Sapphire": "It's drowsy in daytime, but flies off in the evening in big groups. No one knows where they go."
+        },
+        "Generation VII": {
+            "Sun": "There was once an incident in which a man took a trip riding a Drifblim, only to go missing.",
+            "Moon": "Even while under careful observation, large flocks of Drifblim flying at dusk will inexplicably disappear from view.",
+            "Ultra Sun": "There's a rumor that if you catch a Drifblim floating on the wind at dusk, you'll be carried away to the afterlife.",
+            "Ultra Moon": "The raw material for the gas inside its body is souls. When its body starts to deflate, it's thought to carry away people and Pokémon."
+        },
+        "Generation VIII": {
+            "Sword": "Some say this Pokémon is a collection of souls burdened with regrets, silently drifting through the dusk.",
+            "Shield": "It grabs people and Pokémon and carries them off somewhere. Where do they go? Nobody knows.",
+            "Brilliant Diamond": "They're drowsy in daytime but fly off in the evening in big groups. No one knows where they go.",
+            "Shining Pearl": "It carries people and Pokémon when it flies. But since it only drifts, it can end up anywhere.",
+            "Legends: Arceus": "It drifts along at dusk, perfectly silent. Its transient, melancholy aspect touches some people deeply—every so often, one will come upon a song or poem devoted to Drifblim."
+        },
+        "Generation IX": {
+            "Scarlet": "It can generate and release gas within its body. That’s how it can control the altitude of its drift.",
+            "Violet": "They carry people and Pokémon, but the wind can catch them, so there can't be a fixed destination."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Drifloon",
+            "Pearl": "Evolve Drifloon",
+            "Platinum": "Evolve Drifloon",
+            "HeartGold": "Trade",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Routes 13 and 14 , Giant Chasm",
+            "White": "Routes 13 and 14 , Giant Chasm",
+            "Black 2": "Routes 13 and 14 , Reversal Mountain",
+            "White 2": "Routes 13 and 14 , Reversal Mountain"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Ghost )",
+            "Y": "Friend Safari ( Ghost )",
+            "Omega Ruby": "Evolve Drifloon",
+            "Alpha Sapphire": "Evolve Drifloon"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Drifloon , Poké Pelago",
+            "Moon": "Evolve Drifloon , Poké Pelago",
+            "Ultra Sun": "Evolve Drifloon",
+            "Ultra Moon": "Evolve Drifloon",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Axew's Eye North Lake Miloch , South Lake Miloch , Watchtower Ruins ( Wanderer ) Giant's Cap , Hammerlocke Hills , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Shield": "Axew's Eye North Lake Miloch , South Lake Miloch , Watchtower Ruins ( Wanderer ) Giant's Cap , Hammerlocke Hills , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Expansion Pass": "Challenge Beach , Challenge Road , Training Lowlands ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Drifloon",
+            "Shining Pearl": "Evolve Drifloon",
+            "Legends: Arceus": "Obsidian Fieldlands : Ramanas Island Night , Sandgem Flats Night , Lake Verity and nearby Night , massive mass outbreaks Crimson Mirelands : Space-time distortions Cobalt Coastlands : Crossing Slope Night , near Ginkgo Landing Night , near Aipom Hill Night , Bathers' Lagoon and nearby Night , near Hideaway Bay Night , Deadwood Haunt Night , near Tombolo Walk Night , Sand's Reach and nearby Night , Tranquility Cove Night , near Castaway Shore Night , near Islespy Shore Night (mass outbreaks nearby Day Night ), Lunker's Lair Night , Seagrass Haven Night , Firespit Island Night Alabaster Icelands : Bonechill Wastes Night , Avalugg's Legacy Night , Glacier Terrace Night (also mass outbreaks Day Night ), Heart's Crag Night , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Cortondo , Alfornada Cavern East Province: Tagtree Thicket North Province: Area One , Area Two , Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 4★ , 5★ )",
+            "Violet": "Union Circle Tera Raid Battle Search ( 4★ , 5★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Drifloon",
+            "to": "Drifblim",
+            "method": [
+                "Level 28"
+            ]
+        }
+    ]
+}

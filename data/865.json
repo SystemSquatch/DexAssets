@@ -1,0 +1,45 @@
+{
+    "name": "Sirfetch'd",
+    "pokedex_number": "#0865",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Steadfast",
+        "Scrappy"
+    ],
+    "stats": {
+        "HP": 62,
+        "Attack": 135,
+        "Defense": 95,
+        "Sp. Atk": 68,
+        "Sp. Def": 82,
+        "Speed": 65,
+        "Total": 507
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Only Farfetch'd that have survived many battles can attain this evolution. When this Pokémon's leek withers, it will retire from combat.",
+            "Shield": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "North Lake Miloch , Stony Wilderness , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Sword Expansion Pass": "Frostpoint Field , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

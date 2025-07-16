@@ -1,0 +1,82 @@
+{
+    "name": "Rockruff",
+    "pokedex_number": "#0744",
+    "types": [
+        "Rock",
+        "Unknown"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Vital Spirit",
+        "Steadfast",
+        "Own Tempo"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 65,
+        "Defense": 40,
+        "Sp. Atk": 30,
+        "Sp. Def": 40,
+        "Speed": 60,
+        "Total": 280
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It's considered to be a good Pokémon for beginners because of its friendliness, but its disposition grows rougher as it grows up.",
+            "Moon": "This Pokémon has lived with people since times long ago. It can sense when its Trainer is in the dumps and will stick close by its Trainer's side.",
+            "Ultra Sun": "As they develop, their disposition grows more violent and aggressive. Many Trainers find them too much to handle and abandon them.",
+            "Ultra Moon": "When it rubs the rocks on its neck against you, that's proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!"
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon can bond very strongly with its Trainer, but it also has a habit of biting. Raising a Rockruff for a long time can be challenging.",
+            "Shield": "This Pokémon intimidates opponents by striking the ground with the rocks on its neck. The moment an opponent flinches, Rockruff attacks."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon is very friendly when it's young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master.",
+            "Violet": "This Pokémon travels in a pack with others until it grows up. When its mood turns sour, it starts striking the ground with the rocks on its neck."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Ten Carat Hill Standard Form Unobtainable ( Own Tempo Form )",
+            "Moon": "Ten Carat Hill Standard Form Unobtainable ( Own Tempo Form )",
+            "Ultra Sun": "Route 1 , Ten Carat Hill ( Standard Form ) Events or breed event Rockruff ( Own Tempo Form )",
+            "Ultra Moon": "Route 1 , Ten Carat Hill ( Standard Form ) Events or breed event Rockruff ( Own Tempo Form )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Challenge Road ( Standard Form ) Fields of Honor , Soothing Wetlands , Challenge Road , Loop Lagoon ( Wanderer ) ( Standard Form ) Fields of Honor , Training Lowlands , Potbottom Desert , Challenge Road ( Max Raid Battle ) ( Standard Form ) Challenge Road ( Max Raid Battle ) ( Own Tempo Form )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Four ( Both Forms ) East Province: Area Two ( Both Forms ) West Province: Area One ( Both Forms ) West Province: Area One ( Psychic Tera Type ) ( Own Tempo Form ) Tera Raid Battles ( 1★ ) ( Standard Form )",
+            "Violet": "South Province: Area One , Area Four ( Both Forms ) East Province: Area Two ( Both Forms ) West Province: Area One ( Both Forms ) West Province: Area One ( Psychic Tera Type ) ( Own Tempo Form ) Tera Raid Battles ( 1★ ) ( Standard Form )",
+            "The Hidden Treasure of Area Zero": "Reveler's Road , Kitakami Hall , Oni Mountain , Oni's Maw , Infernal Pass , Crystal Pool , Chilling Waterhead , Wistful Fields , Paradise Barrens , Kitakami Wilds ( Standard Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Rockruff",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Rockruff",
+            "to": "Lycanroc",
+            "method": [
+                "Level 25 (during the day)",
+                "Level 25 (during the night)",
+                "Level 25 (during the dusk)"
+            ]
+        }
+    ]
+}

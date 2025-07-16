@@ -1,0 +1,157 @@
+{
+    "name": "Kadabra",
+    "pokedex_number": "#0064",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Synchronize",
+        "Inner Focus",
+        "Magic Guard"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 30,
+        "Sp. Atk": 120,
+        "Sp. Def": 70,
+        "Speed": 105,
+        "Total": 400
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "It emits special alpha waves from its body that induce headaches just by being close by.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "It emits special alpha waves from its body that induce headaches just by being close by.",
+            "Yellow": "Many odd things happen if this Pok é mon is close by. For example, it makes clocks run backwards.",
+            "Stadium": "When it uses psychic power, all its brain cells work in unison to generate powerful alpha waves."
+        },
+        "Generation II": {
+            "Gold": "It possesses strong spiritual power. The more danger it faces, the stronger its psychic power.",
+            "Silver": "If it uses its abilities, it emits special alpha waves that cause machines to malfunction.",
+            "Crystal": "When it closes its eyes, twice as many alpha particles come out of the surface of its body.",
+            "Stadium 2": "It possesses strong spiritual power. The more danger it faces, the stronger its psychic power. (Pokémon Red, Silver, or Crystal inserted) If it uses its abilities, it emits special alpha waves that cause machines to malfunction. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Kadabra emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a Trainer of this Pok é mon .",
+            "Sapphire": "Kadabra holds a silver spoon in its hand. The spoon is used to amplify the alpha waves in its brain. Without the spoon, the Pok é mon is said to be limited to half the usual amount of its telekinetic powers.",
+            "Emerald": "It is rumored that a boy with psychic abilities suddenly transformed into Kadabra while he was assisting research into extrasensory powers.",
+            "FireRed": "It happened one morning -a boy with extrasensory powers awoke in bed transformed into Kadabra .",
+            "LeafGreen": "It emits special alpha waves from its body that induce headaches just by being close."
+        },
+        "Generation IV": {
+            "Diamond": "If one is nearby, an eerie shadow appears on TV screens. Seeing the shadow is said to bring bad luck.",
+            "Pearl": "When it uses its psychic power, it emits strong alpha waves that can ruin precision devices.",
+            "Platinum": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
+            "HeartGold": "It possesses strong spiritual power. The more danger it faces, the stronger its psychic power.",
+            "SoulSilver": "If it uses its abilities, it emits special alpha waves that cause machines to malfunction."
+        },
+        "Generation V": {
+            "Black": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
+            "White": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
+            "Black 2": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
+            "White 2": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so."
+        },
+        "Generation VI": {
+            "X": "When it uses its psychic power, it emits strong alpha waves that can ruin precision devices.",
+            "Y": "If it uses its abilities, it emits special alpha waves that cause machines to malfunction.",
+            "Omega Ruby": "Kadabra emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a Trainer of this Pokémon.",
+            "Alpha Sapphire": "Kadabra holds a silver spoon in its hand. The spoon is used to amplify the alpha waves in its brain. Without the spoon, the Pokémon is said to be limited to half the usual amount of its telekinetic powers."
+        },
+        "Generation VII": {
+            "Sun": "A theory exists that this Pokémon was a young boy who couldn't control his psychic powers and ended up transformed into this Pokémon.",
+            "Moon": "Kadabra's presence infests televisions and monitors with creepy shadows that bring bad luck.",
+            "Ultra Sun": "It stares at a silver spoon to amplify its psychic powers before it lets loose. Apparently, gold spoons are no good.",
+            "Ultra Moon": "It possesses strong mental capabilities, but its psychic powers are halved when it's not holding a silver spoon.",
+            "Let's Go Pikachu": "Many odd things happen if this Pokémon is close by. For example, it makes clocks run backward.",
+            "Let's Go Eevee": "Many odd things happen if this Pokémon is close by. For example, it makes clocks run backward."
+        },
+        "Generation VIII": {
+            "Sword": "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow.",
+            "Shield": "This Pokémon's telekinesis is immensely powerful. To prepare for evolution, Kadabra stores up psychic energy in the star on its forehead.",
+            "Brilliant Diamond": "If one is nearby, an eerie shadow appears on TV screens. Seeing the shadow is said to bring bad luck.",
+            "Shining Pearl": "When it uses its psychic power, it emits strong alpha waves that can ruin precision instruments.",
+            "Legends: Arceus": "There are rumors that a child with mystical powers became a Kadabra; however, this remains unverified. I suspect that the spoon Kadabra holds enhances its brain waves."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Cerulean Cave",
+            "Blue": "Cerulean Cave",
+            "Blue (Japan)": "Cerulean Cave",
+            "Yellow": "Route 8"
+        },
+        "Generation II": {
+            "Gold": "Route 8",
+            "Silver": "Route 8",
+            "Crystal": "Route 8"
+        },
+        "Generation III": {
+            "Ruby": "Evolve Abra",
+            "Sapphire": "Evolve Abra",
+            "Emerald": "Evolve Abra",
+            "FireRed": "Cerulean Cave",
+            "LeafGreen": "Cerulean Cave",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 215 , Victory Road",
+            "Pearl": "Route 215 , Victory Road",
+            "Platinum": "Route 215",
+            "HeartGold": "Route 8 , Cerulean Cave",
+            "SoulSilver": "Route 8 , Cerulean Cave",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Abra",
+            "Black 2": "Evolve Abra",
+            "White 2": "Evolve Abra"
+        },
+        "Generation VI": {
+            "X": "Evolve Abra",
+            "Y": "Evolve Abra",
+            "Omega Ruby": "Evolve Abra",
+            "Alpha Sapphire": "Evolve Abra"
+        },
+        "Generation VII": {
+            "Sun": "Poké Pelago",
+            "Moon": "Poké Pelago",
+            "Ultra Sun": "Evolve Abra",
+            "Ultra Moon": "Evolve Abra",
+            "Let's Go Pikachu": "Routes 7 and 8",
+            "Let's Go Eevee": "Routes 7 and 8"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Fields of Honor , Soothing Wetlands ( Wanderer ) Soothing Wetlands , Challenge Beach ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Route 215 , Victory Road Grand Underground - Dazzling Cave , Stargleam Cavern (after obtaining TM97 ( Defog ))",
+            "Shining Pearl": "Route 215 , Victory Road Grand Underground - Dazzling Cave , Stargleam Cavern (after obtaining TM97 ( Defog ))",
+            "Legends: Arceus": "Obsidian Fieldlands : Sandgem Flats , massive mass outbreaks Cobalt Coastlands : Space-time distortions Alabaster Icelands : Lake Acuity , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Abra",
+            "to": "Kadabra",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Kadabra",
+            "to": "Alakazam",
+            "method": [
+                "Trade"
+            ]
+        }
+    ]
+}

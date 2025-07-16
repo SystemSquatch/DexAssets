@@ -1,0 +1,159 @@
+{
+    "name": "Rattata",
+    "pokedex_number": "#0019",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Run Away",
+        "Guts",
+        "Gluttony",
+        "Hustle",
+        "Hustle",
+        "Thick Fat"
+    ],
+    "stats": {
+        "HP": 30,
+        "Attack": 56,
+        "Defense": 35,
+        "Sp. Atk": 25,
+        "Sp. Def": 35,
+        "Speed": 72,
+        "Total": 253
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+            "Yellow": "Will chew on anything with its fangs. If you see one, it is certain that 40 more live in the area.",
+            "Stadium": "Scurries around quickly, searching for hard objects to gnaw. It appears to be jittery and unable to remain still."
+        },
+        "Generation II": {
+            "Gold": "It eats anything. Wherever food is available, it will settle down and produce offspring continuously.",
+            "Silver": "Living wherever there is food available, it ceaselessly scavenges for edibles the entire day.",
+            "Crystal": "This Pok é mon 's impressive vitality allows it to live anywhere. It also multiplies very quickly.",
+            "Stadium 2": "It eats anything. Wherever food is available, it will settle down and produce offspring continuously. (Pokémon Red, Silver, or Crystal inserted) Living wherever there is food available, it ceaselessly scavenges for edibles the entire day. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives - it will make its nest anywhere.",
+            "Sapphire": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives - it will make its nest anywhere.",
+            "Emerald": "A Rattata is cautious in the extreme. Even while it is asleep, it constantly moves its ears and listens for danger. It will make its nest anywhere.",
+            "FireRed": "Its fangs are long and very sharp. They grow continuously, so it gnaws on hard things to whittle them down.",
+            "LeafGreen": "Bites anything when it attacks. Small and very quick, it is a common sight in many places."
+        },
+        "Generation IV": {
+            "Diamond": "Cautious in the extreme, its hardy vitality lets it live in any kind of environment.",
+            "Pearl": "Cautious in the extreme, its hardy vitality lets it live in any kind of environment.",
+            "Platinum": "Cautious in the extreme, its hardy vitality lets it live in any kind of environment.",
+            "HeartGold": "It eats anything. Wherever food is available, it will settle down and produce offspring continuously.",
+            "SoulSilver": "Living wherever there is food available, it ceaselessly scavenges for edibles the entire day."
+        },
+        "Generation V": {
+            "Black": "Cautious in the extreme, its hardy vitality lets it live in any kind of environment.",
+            "White": "Cautious in the extreme, its hardy vitality lets it live in any kind of environment.",
+            "Black 2": "It searches for food all day. It gnaws on hard objects to wear down its fangs, which grow constantly during its lifetime.",
+            "White 2": "It searches for food all day. It gnaws on hard objects to wear down its fangs, which grow constantly during its lifetime."
+        },
+        "Generation VI": {
+            "X": "Living wherever there is food available, it ceaselessly scavenges for edibles the entire day.",
+            "Y": "Its fangs are long and very sharp. They grow continuously, so it gnaws on hard things to whittle them down.",
+            "Omega Ruby": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives—it will make its nest anywhere.",
+            "Alpha Sapphire": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives—it will make its nest anywhere."
+        },
+        "Generation VII": {
+            "Sun": "With its incisors, it gnaws through doors and infiltrates people's homes. Then, with a twitch of its whiskers, it steals whatever food it finds.",
+            "Moon": "When the sun goes down, it becomes active. It runs around town on a chase for good food for the boss of its nest—Raticate.",
+            "Ultra Sun": "It shows no interest in anything that isn't fresh. If you take it shopping with you, it will help you pick out ingredients.",
+            "Ultra Moon": "Night after night, they sneak into people's homes seeking food. A massive outbreak of them has become an issue of public concern.",
+            "Let's Go Pikachu": "Its whiskers provide it with a keen sense of smell, enabling it to pick up the scent of hidden food and locate it instantly.",
+            "Let's Go Eevee": "Its whiskers provide it with a keen sense of smell, enabling it to pick up the scent of hidden food and locate it instantly."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It's cautious in the extreme, and its hardy vitality lets it live in any kind of environment.",
+            "Shining Pearl": "It's cautious in the extreme, and its hardy vitality lets it live in any kind of environment."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 1 , 2 , 4 , 9 , 16 , 21 , and 22",
+            "Blue": "Routes 1 , 2 , 4 , 9 , 16 , 21 , and 22",
+            "Blue (Japan)": "Routes 1 , 2 , 4 , 9 , 16 , 21 , and 22",
+            "Yellow": "Routes 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 , 11 , 16 , 18 , 21 , and 22 , Pokémon Mansion"
+        },
+        "Generation II": {
+            "Gold": "Routes 1 , 3 , 4 , 7 , 9 , 11 , 22 , 29 , 30 , 31 , 32 , 33 , 34 , 38 , 39 , and 46 , Tin Tower , Mt. Mortar , Union Cave , Tohjo Falls , Sprout Tower and Burned Tower",
+            "Silver": "Routes 1 , 3 , 4 , 7 , 9 , 11 , 22 , 29 , 30 , 31 , 32 , 33 , 34 , and 46 , Tin Tower , Mt. Mortar , Union Cave , Tohjo Falls , Sprout Tower and Burned Tower",
+            "Crystal": "Routes 1 , 3 , 4 , 9 , 21 , 22 , 29 , 32 , 33 , 34 , 42 , and 46 , Tin Tower , Mt. Mortar , Union Cave , Tohjo Falls , Sprout Tower and Burned Tower Routes 6 , 7 , 11 , 38 , 39 Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Routes 1 , 2 , 4 , 9 , 16 , 17 , 18 , and 22 , Pokémon Mansion",
+            "LeafGreen": "Routes 1 , 2 , 4 , 9 , 16 , 17 , 18 , and 22 , Pokémon Mansion",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 225 and 226",
+            "Pearl": "Routes 225 and 226",
+            "Platinum": "Routes 225 and 226",
+            "HeartGold": "Routes 1 , 3 , 4 , 7 , 9 , 11 , 22 , 29 , 30 , 31 , 32 , 33 , 34 , 38 , 39 , and 46 , Sprout Tower , Union Cave , Burned Tower , Bell Tower , Mt. Mortar , Tohjo Falls Safari Zone (Plains, default Morning Day ; Mountain, default)",
+            "SoulSilver": "Routes 1 , 3 , 4 , 7 , 9 , 11 , 22 , 29 , 30 , 31 , 32 , 33 , 34 , and 46 , Sprout Tower , Union Cave , Burned Tower , Bell Tower , Mt. Mortar , Tohjo Falls Safari Zone (Plains, default Morning Day ; Mountain, default)",
+            "Pal Park": "Field",
+            "Pokéwalker": "Suburban Area , Town Outskirts"
+        },
+        "Generation V": {
+            "Black": "Breed Raticate",
+            "White": "Breed Raticate",
+            "Black 2": "Castelia Sewers , Castelia Park , Relic Passage",
+            "White 2": "Castelia Sewers , Castelia Park , Relic Passage",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Route 117 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 117 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Routes 1 , 2 , 3 , 4 , 6 , 8 , Hau'oli City , Kala'e Bay Night ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Moon": "Routes 1 , 2 , 3 , 4 , 6 , 8 , Hau'oli City , Kala'e Bay Night ( Alolan Form ) Verdant Cavern ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Sun": "Routes 1 , 2 , 4 , 6 , 8 , Kala'e Bay Night ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Moon": "Routes 1 , 2 , 4 , 6 , 8 , Kala'e Bay Night ( Alolan Form ) Verdant Cavern ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Let's Go Pikachu": "Routes 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 , 11 , 16 , 17 , 18 , 21 , and 22 , Pokémon Mansion ( Kantonian Form ) Trade Kantonian Rattata in Cerulean City ( Alolan Form )",
+            "Let's Go Eevee": "Routes 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 , 11 , 16 , 17 , 18 , 21 , and 22 , Pokémon Mansion ( Kantonian Form ) Trade Kantonian Rattata in Cerulean City ( Alolan Form )"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 225 and 226 ( Kantonian Form ) Grand Underground - Spacious Cave , Grassland Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern (After obtaining the National Pokédex ) ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Shining Pearl": "Routes 225 and 226 ( Kantonian Form ) Grand Underground - Spacious Cave , Grassland Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern (After obtaining the National Pokédex ) ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Rattata",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Rattata",
+            "to": "Raticate",
+            "method": [
+                "Level 20",
+                "Level 20 (during the night)"
+            ]
+        }
+    ]
+}

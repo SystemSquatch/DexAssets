@@ -1,0 +1,80 @@
+{
+    "name": "Sigilyph",
+    "pokedex_number": "#0561",
+    "types": [
+        "Psychic",
+        "Flying"
+    ],
+    "abilities": [
+        "Wonder Skin",
+        "Magic Guard",
+        "Tinted Lens"
+    ],
+    "stats": {
+        "HP": 72,
+        "Attack": 58,
+        "Defense": 80,
+        "Sp. Atk": 103,
+        "Sp. Def": 80,
+        "Speed": 97,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "They never vary the route they fly, because their memories of guarding an ancient city remain steadfast.",
+            "White": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
+            "Black 2": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
+            "White 2": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders."
+        },
+        "Generation VI": {
+            "X": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
+            "Y": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
+            "Omega Ruby": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
+            "Alpha Sapphire": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Psychic power allows these Pokémon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians' emissaries.",
+            "Shield": "A discovery was made in the desert where Sigilyph fly. The ruins of what may have been an ancient city were found beneath the sands."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Desert Resort",
+            "White": "Desert Resort",
+            "Black 2": "Desert Resort Desert Resort ( N's Pokémon ) Transfer from Dream Radar",
+            "White 2": "Desert Resort Desert Resort ( N's Pokémon ) Transfer from Dream Radar",
+            "Dream World": "Windswept Sky *"
+        },
+        "Generation VI": {
+            "X": "Route 10 , Friend Safari ( Psychic )",
+            "Y": "Route 10 , Friend Safari ( Psychic )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Cliff World )",
+            "Ultra Moon": "Ultra Space Wilds ( Cliff World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage , Stony Wilderness , Motostoke Riverbank Rolling Fields , East Lake Axewell , Motostoke Riverbank , Bridge Field , Stony Wilderness , Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Lake of Outrage , Stony Wilderness , Motostoke Riverbank Rolling Fields , East Lake Axewell , Motostoke Riverbank , Bridge Field , Stony Wilderness , Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

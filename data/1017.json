@@ -1,0 +1,40 @@
+{
+    "name": "Ogerpon",
+    "pokedex_number": "#1017",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Defiant",
+        "Water Absorb",
+        "Mold Breaker",
+        "Sturdy",
+        "Embody Aspect"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 84,
+        "Sp. Atk": 60,
+        "Sp. Def": 96,
+        "Speed": 110,
+        "Total": 550
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This form has excellent defenses, absorbing impacts solidly like the cornerstones that support houses.",
+            "Violet": "In this form, it draws on the power of stone. Its body is rock-solid, protecting it from all manner of attacks."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Dreaded Den ( only one ) ( Teal Mask )"
+        }
+    },
+    "evolution": []
+}

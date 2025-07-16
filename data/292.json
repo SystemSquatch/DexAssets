@@ -1,0 +1,117 @@
+{
+    "name": "Shedinja",
+    "pokedex_number": "#0292",
+    "types": [
+        "Bug",
+        "Ghost"
+    ],
+    "abilities": [
+        "Wonder Guard"
+    ],
+    "stats": {
+        "HP": 1,
+        "Attack": 90,
+        "Defense": 45,
+        "Sp. Atk": 30,
+        "Sp. Def": 30,
+        "Speed": 40,
+        "Total": 236
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Shedinja 's hard body doesn't move - not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this Pok é mon will steal the spirit of anyone peering into its hollow body from its back.",
+            "Sapphire": "Shedinja is a peculiar Pok é mon . It seems to appear unsought in a Pok é Ball after a Nincada evolves. This bizarre Pok é mon is entirely immobile - it doesn't even breathe.",
+            "Emerald": "A peculiar Pok é mon that floats in air even though its wings remain completely still. The inside of its body is hollow and utterly dark.",
+            "FireRed": "A most peculiar Pok é mon that somehow appears in a Pok é Ball when a Nincada evolves.",
+            "LeafGreen": "A most peculiar Pok é mon that somehow appears in a Pok é Ball when a Nincada evolves."
+        },
+        "Generation IV": {
+            "Diamond": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one's spirit.",
+            "Pearl": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one's spirit.",
+            "Platinum": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one's spirit.",
+            "HeartGold": "A strange Pokémon--it flies without moving its wings, has a hollow shell for a body, and does not breathe.",
+            "SoulSilver": "A strange Pokémon--it flies without moving its wings, has a hollow shell for a body, and does not breathe."
+        },
+        "Generation V": {
+            "Black": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one's spirit.",
+            "White": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one's spirit.",
+            "Black 2": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one's spirit.",
+            "White 2": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one's spirit."
+        },
+        "Generation VI": {
+            "X": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one's spirit.",
+            "Y": "A most peculiar Pokémon that somehow appears in a Poké Ball when a Nincada evolves.",
+            "Omega Ruby": "Shedinja's hard body doesn't move—not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this Pokémon will steal the spirit of anyone peering into its hollow body from its back.",
+            "Alpha Sapphire": "Shedinja is a peculiar Pokémon. It seems to appear unsought in a Poké Ball after a Nincada evolves. This bizarre Pokémon is entirely immobile—it doesn't even breathe."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "A most peculiar Pokémon that somehow appears in a Poké Ball when a Nincada evolves.",
+            "Shield": "A strange Pokémon—it flies without moving its wings, has a hollow shell for a body, and does not breathe.",
+            "Brilliant Diamond": "It is a discarded bug shell that came to life. Peering into the crack on its back is said to steal one's spirit.",
+            "Shining Pearl": "It is a discarded bug shell that came to life. Peering into the crack on its back is said to steal one's spirit."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Nincada with extra slot in party",
+            "Sapphire": "Evolve Nincada with extra slot in party",
+            "Emerald": "Evolve Nincada with extra slot in party",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Nincada with extra slot in party and spare Poké Ball",
+            "Pearl": "Evolve Nincada with extra slot in party and spare Poké Ball",
+            "Platinum": "Evolve Nincada with extra slot in party and spare Poké Ball",
+            "HeartGold": "Evolve Nincada with extra slot in party and spare Poké Ball",
+            "SoulSilver": "Evolve Nincada with extra slot in party and spare Poké Ball",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Evolve Nincada with extra slot in party and spare Poké Ball",
+            "Y": "Evolve Nincada with extra slot in party and spare Poké Ball",
+            "Omega Ruby": "Evolve Nincada with extra slot in party and spare Poké Ball",
+            "Alpha Sapphire": "Evolve Nincada with extra slot in party and spare Poké Ball"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Bridge Field , Rolling Fields , South Lake Miloch ( Max Raid Battle )",
+            "Shield": "Bridge Field , Rolling Fields , South Lake Miloch ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Nincada with extra slot in party and spare Poké Ball",
+            "Shining Pearl": "Evolve Nincada with extra slot in party and spare Poké Ball",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Nincada",
+            "to": "Shedinja",
+            "method": [
+                "Shed"
+            ]
+        }
+    ]
+}

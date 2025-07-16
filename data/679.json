@@ -1,0 +1,79 @@
+{
+    "name": "Honedge",
+    "pokedex_number": "#0679",
+    "types": [
+        "Steel",
+        "Ghost"
+    ],
+    "abilities": [
+        "No Guard"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 80,
+        "Defense": 100,
+        "Sp. Atk": 35,
+        "Sp. Def": 37,
+        "Speed": 28,
+        "Total": 325
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
+            "Y": "If anyone dares to grab its hilt, it wraps a blue cloth around that person's arm and drains that person's life energy completely.",
+            "Omega Ruby": "Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
+            "Alpha Sapphire": "If anyone dares to grab its hilt, it wraps a blue cloth around that person's arm and drains that person's life energy completely."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Honedge's soul once belonged to a person who was killed a long time ago by the sword that makes up Honedge's body.",
+            "Shield": "The blue eye on the sword's handguard is the true body of Honedge. With its old cloth, it drains people's lives away."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Route 6",
+            "Y": "Route 6",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Akala Outskirts ( Island Scan ) We",
+            "Moon": "Akala Outskirts ( Island Scan ) We",
+            "Ultra Sun": "Akala Outskirts ( Island Scan ) We",
+            "Ultra Moon": "Akala Outskirts ( Island Scan ) We",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Hammerlocke Hills Watchtower Ruins , Stony Wilderness Sh , Giant's Seat , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Hammerlocke Hills Watchtower Ruins , Stony Wilderness Sh , Giant's Seat , Dusty Bowl ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Honedge",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Honedge",
+            "to": "Doublade",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

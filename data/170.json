@@ -1,0 +1,148 @@
+{
+    "name": "Chinchou",
+    "pokedex_number": "#0170",
+    "types": [
+        "Water",
+        "Electric"
+    ],
+    "abilities": [
+        "Volt Absorb",
+        "Illuminate",
+        "Water Absorb"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 38,
+        "Defense": 38,
+        "Sp. Atk": 56,
+        "Sp. Def": 56,
+        "Speed": 67,
+        "Total": 330
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+            "Silver": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+            "Crystal": "Its antennae, which evolved from a fin, have both positive and negative charges flowing through them.",
+            "Stadium 2": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies. (Pokémon Red, Silver, or Crystal inserted) On the dark ocean floor, its only means of communication is its constantly flashing lights. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pok é mon flashes its electric lights to exchange signals with others.",
+            "Sapphire": "Chinchou 's two antennas are filled with cells that generate strong electricity. This Pok é mon 's cells create so much electrical power, it even makes itself tingle slightly.",
+            "Emerald": "When it senses danger, it discharges positive and negative electricity from its two antennae. It lives in depths beyond sunlight's reach.",
+            "FireRed": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+            "LeafGreen": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies."
+        },
+        "Generation IV": {
+            "Diamond": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+            "Pearl": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+            "Platinum": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+            "HeartGold": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+            "SoulSilver": "On the dark ocean floor, its only means of communication is its constantly flashing lights."
+        },
+        "Generation V": {
+            "Black": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+            "White": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+            "Black 2": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+            "White 2": "It discharges positive and negative electricity from its antenna tips to shock its foes."
+        },
+        "Generation VI": {
+            "X": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+            "Y": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+            "Omega Ruby": "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pokémon flashes its electric lights to exchange signals with others.",
+            "Alpha Sapphire": "Chinchou's two antennas are filled with cells that generate strong electricity. This Pokémon's cells create so much electrical power, it even makes itself tingle slightly."
+        },
+        "Generation VII": {
+            "Sun": "Its two antennae were originally fins. It discharges electricity to stun its prey before attacking.",
+            "Moon": "It lives in the depths beyond the reach of sunlight. It flashes lights on its antennae to communicate with others of its kind.",
+            "Ultra Sun": "Its two antennae glow softly to lure in prey, making it a useful Pokémon for night fishing.",
+            "Ultra Moon": "Chinchou blink their shining antennae at one another to claim their respective turf."
+        },
+        "Generation VIII": {
+            "Sword": "Its antennae, which evolved from a fin, have both positive and negative charges flowing through them.",
+            "Shield": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+            "Brilliant Diamond": "It discharges positive and negative electricity from the tips of its antennae to shock its foes.",
+            "Shining Pearl": "It discharges positive and negative electricity from the tips of its antennae to shock its foes."
+        },
+        "Generation IX": {
+            "Scarlet": "It lives in ocean depths beyond the reach of sunlight. It flashes lights on its antennae to communicate with others of its kind.",
+            "Violet": "It shoots positively and negatively charged electricity from the tips of its two antennae and stuns its opponents."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 20 , 21 , 26 , 27 , 41 , Olivine City * , Vermilion City * , Cinnabar Island , Pallet Town , New Bark Town ( Good Rod or Super Rod )",
+            "Silver": "Routes 20 , 21 , 26 , 27 , 41 , Olivine City * , Vermilion City * , Cinnabar Island , Pallet Town , New Bark Town ( Good Rod or Super Rod )",
+            "Crystal": "Routes 20 , 21 , 26 , 27 , 41 , Olivine City * , Vermilion City * , Cinnabar Island , Pallet Town , New Bark Town ( Good Rod or Super Rod )"
+        },
+        "Generation III": {
+            "Ruby": "Underwater ( Routes 124 and 126 )",
+            "Sapphire": "Underwater ( Routes 124 and 126 )",
+            "Emerald": "Underwater ( Routes 124 and 126 )",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 220 ( Super Rod )",
+            "Pearl": "Route 220 ( Super Rod )",
+            "Platinum": "Route 220 ( Super Rod )",
+            "HeartGold": "Routes 20 , 21 , 26 , 27 , 41 , and 47 , New Bark Town , Pallet Town , Vermilion City , Cinnabar Island ( Good Rod or Super Rod )",
+            "SoulSilver": "Routes 20 , 21 , 26 , 27 , 41 , and 47 , New Bark Town , Pallet Town , Vermilion City , Cinnabar Island ( Good Rod or Super Rod )",
+            "Pal Park": "Sea",
+            "Pokéwalker": "White Lake and Beyond the Sea"
+        },
+        "Generation V": {
+            "Black": "Route 18 , Driftveil City ( Fishing )",
+            "White": "Route 18 , Driftveil City ( Fishing )",
+            "Black 2": "Undella Bay ( Fishing )",
+            "White 2": "Undella Bay ( Fishing )"
+        },
+        "Generation VI": {
+            "X": "Azure Bay , Shalour City ( Good Rod )",
+            "Y": "Azure Bay , Shalour City ( Good Rod )",
+            "Omega Ruby": "Routes 107 , 124 , 126 , 128 , 129 , and 130 ( Underwater )",
+            "Alpha Sapphire": "Routes 107 , 124 , 126 , 128 , 129 , and 130 ( Underwater )"
+        },
+        "Generation VII": {
+            "Sun": "Route 8 , Akala Outskirts ( Fishing )",
+            "Moon": "Route 8 , Akala Outskirts ( Fishing )",
+            "Ultra Sun": "Route 8 , Akala Outskirts ( Fishing )",
+            "Ultra Moon": "Route 8 , Akala Outskirts ( Fishing )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Hulbury , Giant's Mirror , East Lake Axewell , West Lake Axewell East Lake Axewell , Giant's Cap , Giant's Mirror , Lake of Outrage , Motostoke Riverbank , North Lake Miloch , South Lake Miloch , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Hulbury , Giant's Mirror , East Lake Axewell , West Lake Axewell East Lake Axewell , Giant's Cap , Giant's Mirror , Lake of Outrage , Motostoke Riverbank , North Lake Miloch , South Lake Miloch , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Workout Sea , Stepping-Stone Sea , Insular Sea , Honeycalm Island , Honeycalm Sea",
+            "Brilliant Diamond": "Route 220 ( Super Rod ) Grand Underground - Fountainspring Cave , Icy Cave , Glacial Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 220 ( Super Rod ) Grand Underground - Fountainspring Cave , Icy Cave , Glacial Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Canyon Biome , Chargestone Cavern Tera Raid Battles ( 1★ , 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Chinchou",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Chinchou",
+            "to": "Lanturn",
+            "method": [
+                "Level 27"
+            ]
+        }
+    ]
+}

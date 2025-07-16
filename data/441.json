@@ -1,0 +1,95 @@
+{
+    "name": "Chatot",
+    "pokedex_number": "#0441",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Tangled Feet",
+        "Big Pecks"
+    ],
+    "stats": {
+        "HP": 76,
+        "Attack": 65,
+        "Defense": 45,
+        "Sp. Atk": 92,
+        "Sp. Def": 42,
+        "Speed": 91,
+        "Total": 411
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It can learn and speak human words. If they gather, they all learn the same saying.",
+            "Pearl": "It keeps rhythm by flicking its tail feathers like a metronome. It imitates human speech.",
+            "Platinum": "Its tongue is just like a human's. As a result, it can cleverly mimic human speech.",
+            "HeartGold": "It mimics the cries of other Pokémon to trick them into thinking it's one of them. This way they won't attack it.",
+            "SoulSilver": "It mimics the cries of other Pokémon to trick them into thinking it's one of them. This way they won't attack it."
+        },
+        "Generation V": {
+            "Black": "Its tongue is just like a human's. As a result, it can cleverly mimic human speech.",
+            "White": "Its tongue is just like a human's. As a result, it can cleverly mimic human speech.",
+            "Black 2": "Its tongue is just like a human's. As a result, it can cleverly mimic human speech.",
+            "White 2": "Its tongue is just like a human's. As a result, it can cleverly mimic human speech."
+        },
+        "Generation VI": {
+            "X": "It mimics the cries of other Pokémon to trick them into thinking it's one of them. This way they won't attack it.",
+            "Y": "It can learn and speak human words. If they gather, they all learn the same saying.",
+            "Omega Ruby": "It mimics the cries of other Pokémon to trick them into thinking it's one of them. This way they won't attack it.",
+            "Alpha Sapphire": "It can learn and speak human words. If they gather, they all learn the same saying."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "They can learn and speak human words. If they gather, they all learn the same saying.",
+            "Shining Pearl": "It keeps rhythm by flicking its tail feathers like a metronome. It also imitates human speech.",
+            "Legends: Arceus": "A versatile performer skilled in the imitation of human speech. It is said that older, more experienced Chatot can even understand the meaning of the words they mimic."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 222 and 224 Morning Day Trade Buizel at Eterna Condominiums",
+            "Pearl": "Routes 222 and 224 Morning Day Trade Buizel at Eterna Condominiums",
+            "Platinum": "Routes 213 , 218 , 222 Morning Day Trade Buizel at Eterna Condominiums",
+            "HeartGold": "Sprout Tower , Bell Tower , Burned Tower (Sinnoh Sound)",
+            "SoulSilver": "Sprout Tower , Bell Tower , Burned Tower (Sinnoh Sound)",
+            "Pokéwalker": "Rally"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Route 18 ( Hidden Grotto )",
+            "White 2": "Route 18 ( Hidden Grotto )",
+            "Dream World": "Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Route 12 , Azure Bay",
+            "Y": "Route 12 , Azure Bay",
+            "Omega Ruby": "Routes 103 , 104 , and 110 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Routes 103 , 104 , and 110 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 222 and 224 Morning Day Trade Buizel at Eterna Condominiums",
+            "Shining Pearl": "Routes 222 and 224 Morning Day Trade Buizel at Eterna Condominiums",
+            "Legends: Arceus": "Obsidian Fieldlands : massive mass outbreaks Cobalt Coastlands : Deadwood Haunt Day (also mass outbreaks Day Night ), massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

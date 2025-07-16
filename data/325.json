@@ -1,0 +1,129 @@
+{
+    "name": "Spoink",
+    "pokedex_number": "#0325",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Thick Fat",
+        "Own Tempo",
+        "Gluttony"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 25,
+        "Defense": 35,
+        "Sp. Atk": 70,
+        "Sp. Def": 80,
+        "Speed": 60,
+        "Total": 330
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Spoink bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this Pok é mon cannot afford to stop bouncing - if it stops, its heart will stop.",
+            "Sapphire": "Spoink keeps a pearl on top of its head. The pearl functions to amplify this Pok é mon 's psychokinetic powers. It is therefore on a constant search for a bigger pearl.",
+            "Emerald": "A Pok é mon that manipulates psychic power at will. It doesn't stop bouncing even when it is asleep. It loves eating mushrooms that grow underground.",
+            "FireRed": "It apparently dies if it stops bouncing about. It carries a pearl from Clamperl on its head.",
+            "LeafGreen": "It apparently dies if it stops bouncing about. It carries a pearl from Clamperl on its head."
+        },
+        "Generation IV": {
+            "Diamond": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
+            "Pearl": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
+            "Platinum": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
+            "HeartGold": "It bounces around on its tail to keep its heart pumping. It carries a pearl from Clamperl on its head.",
+            "SoulSilver": "It bounces around on its tail to keep its heart pumping. It carries a pearl from Clamperl on its head."
+        },
+        "Generation V": {
+            "Black": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
+            "White": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
+            "Black 2": "Using its tail like a spring, it keeps its heart beating by bouncing constantly. If it stops, it dies.",
+            "White 2": "Using its tail like a spring, it keeps its heart beating by bouncing constantly. If it stops, it dies."
+        },
+        "Generation VI": {
+            "X": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
+            "Y": "It bounces around on its tail to keep its heart pumping. It carries a pearl from Clamperl on its head.",
+            "Omega Ruby": "Spoink bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this Pokémon cannot afford to stop bouncing—if it stops, its heart will stop.",
+            "Alpha Sapphire": "Spoink keeps a pearl on top of its head. The pearl functions to amplify this Pokémon's psychokinetic powers. It is therefore on a constant search for a bigger pearl."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
+            "Shining Pearl": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating."
+        },
+        "Generation IX": {
+            "Scarlet": "Spoink will die if it stops bouncing. The pearl on its head amplifies its psychic powers.",
+            "Violet": "Using its tail like a spring, it keeps its heart beating by bouncing constantly. If it stops, it dies."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Jagged Pass",
+            "Sapphire": "Jagged Pass",
+            "Emerald": "Jagged Pass",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 214 ( Swarm )",
+            "Pearl": "Route 214 ( Swarm )",
+            "Platinum": "Route 214 ( Swarm )",
+            "HeartGold": "Ilex Forest , Viridian Forest (Hoenn Sound)",
+            "SoulSilver": "Ilex Forest , Viridian Forest (Hoenn Sound)",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Reversal Mountain",
+            "White 2": "Trade",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Route 8",
+            "Y": "Route 8",
+            "Omega Ruby": "Jagged Pass",
+            "Alpha Sapphire": "Jagged Pass"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Grumpig",
+            "Ultra Moon": "Breed Grumpig",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 214 ( Swarm )",
+            "Shining Pearl": "Route 214 ( Swarm )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Three Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Area Three Tera Raid Battles ( 2★ )",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Infernal Pass , Chilling Waterhead , Wistful Fields , Paradise Barrens"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Spoink",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Spoink",
+            "to": "Grumpig",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

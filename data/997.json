@@ -1,0 +1,51 @@
+{
+    "name": "Arctibax",
+    "pokedex_number": "#0997",
+    "types": [
+        "Dragon",
+        "Ice"
+    ],
+    "abilities": [
+        "Thermal Exchange",
+        "Ice Body"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 95,
+        "Defense": 66,
+        "Sp. Atk": 45,
+        "Sp. Def": 65,
+        "Speed": 62,
+        "Total": 423
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.",
+            "Violet": "It attacks with the blade of its frozen dorsal fin by doing a front flip in the air. Arctibax's strong back and legs allow it to pull off this technique."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "North Province: Glaseado Mountain",
+            "Violet": "North Province: Glaseado Mountain"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Frigibax",
+            "to": "Arctibax",
+            "method": [
+                "Level 35"
+            ]
+        },
+        {
+            "from": "Arctibax",
+            "to": "Baxcalibur",
+            "method": [
+                "Level 54"
+            ]
+        }
+    ]
+}

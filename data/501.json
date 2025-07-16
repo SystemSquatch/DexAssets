@@ -1,0 +1,95 @@
+{
+    "name": "Oshawott",
+    "pokedex_number": "#0501",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Shell Armor"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 45,
+        "Sp. Atk": 63,
+        "Sp. Def": 45,
+        "Speed": 45,
+        "Total": 308
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+            "White": "The scalchop on its stomach is made from the same elements as claws. It detaches the scalchop for use as a blade.",
+            "Black 2": "The scalchop on its stomach isn't just used for battle--it can be used to break open hard berries as well.",
+            "White 2": "The scalchop on its stomach isn't just used for battle--it can be used to break open hard berries as well."
+        },
+        "Generation VI": {
+            "X": "The scalchop on its stomach isn't just used for battle--it can be used to break open hard berries as well.",
+            "Y": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+            "Omega Ruby": "The scalchop on its stomach isn't just used for battle—it can be used to break open hard berries as well.",
+            "Alpha Sapphire": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Legends: Arceus": "This Pokémon from the Unova region uses the shell on its belly as a weapon to cut down its foes. Thus, I've conferred upon this shell the name \"scalchop.\""
+        },
+        "Generation IX": {
+            "Scarlet": "It wields the scalchop on its stomach like a knife, blocking the moves of its enemies before slashing back at them in swift retaliation.",
+            "Violet": "It’s said that Oshawott learned to maintain its scalchop with riverbed stones by mimicking humans it saw using whetstones."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "First partner Pokémon from Professor Juniper in Nuvema Town",
+            "White": "First partner Pokémon from Professor Juniper in Nuvema Town",
+            "Black 2": "First partner Pokémon from Bianca in Aspertia City",
+            "White 2": "First partner Pokémon from Bianca in Aspertia City"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Received from Professor Birch on Route 101 after completing the Delta Episode",
+            "Alpha Sapphire": "Received from Professor Birch on Route 101 after completing the Delta Episode"
+        },
+        "Generation VII": {
+            "Sun": "Breed Samurott",
+            "Moon": "Breed Samurott",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Jubilife Village : First partner Pokémon from Professor Laventon , Received from Professor Laventon (after completing Mission 18, if the player did not choose Oshawott) Alabaster Icelands : ( Space-time distortions (after completing Mission 18), massive mass outbreaks after completing Request 102)"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade , Breed Samurott or Hisuian Samurott",
+            "Violet": "Trade , Breed Samurott or Hisuian Samurott",
+            "The Hidden Treasure of Area Zero": "Polar Biome (after boosting biodiversity in the Polar Biome)"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Oshawott",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Oshawott",
+            "to": "Dewott",
+            "method": [
+                "Level 17"
+            ]
+        }
+    ]
+}

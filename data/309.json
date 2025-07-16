@@ -1,0 +1,130 @@
+{
+    "name": "Electrike",
+    "pokedex_number": "#0309",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Static",
+        "Lightning Rod",
+        "Minus"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 40,
+        "Sp. Atk": 65,
+        "Sp. Def": 40,
+        "Speed": 65,
+        "Total": 295
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Electrike stores electricity in its long body hair. This Pok é mon stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
+            "Sapphire": "Electrike runs faster than the human eye can follow. The friction from running is converted into electricity, which is then stored in this Pok é mon 's fur.",
+            "Emerald": "It generates electricity using friction from the atmosphere. In seasons with especially arid air, its entire body blazes with violent showers of sparks.",
+            "FireRed": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
+            "LeafGreen": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches."
+        },
+        "Generation IV": {
+            "Diamond": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+            "Pearl": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+            "Platinum": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+            "HeartGold": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
+            "SoulSilver": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry."
+        },
+        "Generation V": {
+            "Black": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+            "White": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+            "Black 2": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+            "White 2": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed."
+        },
+        "Generation VI": {
+            "X": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+            "Y": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
+            "Omega Ruby": "Electrike stores electricity in its long body hair. This Pokémon stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
+            "Alpha Sapphire": "Electrike runs faster than the human eye can follow. The friction from running is converted into electricity, which is then stored in this Pokémon's fur."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Friction between the air and its fur produces static electricity. When Electrike runs, it makes a crackling sound.",
+            "Ultra Moon": "Static electricity builds up all over its body as strands of its long fur rub together. This Pokémon boasts incredible speed."
+        },
+        "Generation VIII": {
+            "Sword": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
+            "Shield": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
+            "Brilliant Diamond": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+            "Shining Pearl": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Routes 110 and 118",
+            "Sapphire": "Routes 110 and 118",
+            "Emerald": "Routes 110 and 118",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Valley Windworks ( Swarm )",
+            "Pearl": "Valley Windworks ( Swarm )",
+            "Platinum": "Valley Windworks ( Swarm )",
+            "HeartGold": "Safari Zone (tall grass in Rocky Beach with 10 Plains points)",
+            "SoulSilver": "Safari Zone (tall grass in Rocky Beach with 10 Plains points)",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Breed Manectric",
+            "White 2": "Breed Manectric",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Route 10",
+            "Omega Ruby": "Route 110 , Route 118",
+            "Alpha Sapphire": "Route 110 , Route 118"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Poké Pelago * , Breed Manectric",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 4 , Rolling Fields , Dappled Grove , West Lake Axewell , East Lake Axewell , Watchtower Ruins , South Lake Miloch , Giant's Seat , Giant's Mirror , Dusty Bowl Giant's Cap , Hammerlocke Hills , Motostoke Riverbank ( Max Raid Battle )",
+            "Shield": "Route 4 , Rolling Fields , Dappled Grove , West Lake Axewell , East Lake Axewell , Watchtower Ruins , South Lake Miloch , Giant's Seat , Giant's Mirror , Dusty Bowl Giant's Cap , Hammerlocke Hills , Motostoke Riverbank ( Max Raid Battle )",
+            "Brilliant Diamond": "Valley Windworks ( Swarm )",
+            "Shining Pearl": "Valley Windworks ( Swarm )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Electrike",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Electrike",
+            "to": "Manectric",
+            "method": [
+                "Level 26"
+            ]
+        }
+    ]
+}

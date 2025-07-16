@@ -1,0 +1,145 @@
+{
+    "name": "Nidoking",
+    "pokedex_number": "#0034",
+    "types": [
+        "Poison",
+        "Ground"
+    ],
+    "abilities": [
+        "Poison Point",
+        "Rivalry",
+        "Sheer Force"
+    ],
+    "stats": {
+        "HP": 81,
+        "Attack": 92,
+        "Defense": 77,
+        "Sp. Atk": 85,
+        "Sp. Def": 75,
+        "Speed": 85,
+        "Total": 495
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
+            "Yellow": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
+            "Stadium": "Has a rock-hard hide that is worn like armor. The long horn on its head is sharp and highly venomous."
+        },
+        "Generation II": {
+            "Gold": "It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body.",
+            "Silver": "Its tail is thick and powerful. If it binds an enemy, it can snap the victim's spine quite easily.",
+            "Crystal": "It uses its thick arms, legs and tail to attack forcefully. Melee combat is its specialty.",
+            "Stadium 2": "It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body. (Pokémon Red, Silver, or Crystal inserted) Its tail is thick and powerful. If it binds an enemy, it can snap the victim's spine quite easily. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Nidoking 's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pok é mon goes on a rampage, there is no stopping it.",
+            "Sapphire": "Nidoking 's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pok é mon goes on a rampage, there is no stopping it.",
+            "Emerald": "A Nidoking 's thick tail packs enormously destructive power capable of toppling a metal transmission tower. Once it goes on a rampage, there is no stopping it.",
+            "FireRed": "It is recognized by its rock-hard hide and its extended horn. Be careful with the horn as it contains venom.",
+            "LeafGreen": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones."
+        },
+        "Generation IV": {
+            "Diamond": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+            "Pearl": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+            "Platinum": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+            "HeartGold": "It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body.",
+            "SoulSilver": "Its tail is thick and powerful. If it binds an enemy, it can render the victim helpless quite easily."
+        },
+        "Generation V": {
+            "Black": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+            "White": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+            "Black 2": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+            "White 2": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick."
+        },
+        "Generation VI": {
+            "X": "It is recognized by its rock-hard hide and its extended horn. Be careful with the horn, as it contains venom.",
+            "Y": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+            "Omega Ruby": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
+            "Alpha Sapphire": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
+            "Let's Go Eevee": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond."
+        },
+        "Generation VIII": {
+            "Sword": "When it goes on a rampage, it's impossible to control. But in the presence of a Nidoqueen it's lived with for a long time, Nidoking calms down.",
+            "Shield": "Nidoking prides itself on its strength. It's forceful and spirited in battle, making use of its thick tail and diamond-crushing horn.",
+            "Brilliant Diamond": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+            "Shining Pearl": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Nidorino",
+            "Blue": "Evolve Nidorino",
+            "Blue (Japan)": "Evolve Nidorino",
+            "Yellow": "Evolve Nidorino"
+        },
+        "Generation II": {
+            "Gold": "Evolve Nidorino",
+            "Silver": "Evolve Nidorino",
+            "Crystal": "Evolve Nidorino"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Nidorino",
+            "LeafGreen": "Evolve Nidorino",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Nidorino",
+            "Pearl": "Evolve Nidorino",
+            "Platinum": "Evolve Nidorino",
+            "HeartGold": "Evolve Nidorino",
+            "SoulSilver": "Evolve Nidorino",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Nidorino",
+            "Black 2": "Evolve Nidorino",
+            "White 2": "Evolve Nidorino"
+        },
+        "Generation VI": {
+            "X": "Evolve Nidorino",
+            "Y": "Evolve Nidorino",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Route 23",
+            "Let's Go Eevee": "Route 23"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Giant's Bed ( Wanderer ) Giant's Bed , Frigid Sea , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Nidorino",
+            "Shining Pearl": "Evolve Nidorino",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Nidorino",
+            "to": "Nidoking",
+            "method": [
+                "Use Moon Stone"
+            ]
+        }
+    ]
+}

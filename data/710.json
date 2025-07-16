@@ -1,0 +1,81 @@
+{
+    "name": "Pumpkaboo",
+    "pokedex_number": "#0710",
+    "types": [
+        "Ghost",
+        "Grass"
+    ],
+    "abilities": [
+        "Pickup",
+        "Frisk",
+        "Insomnia"
+    ],
+    "stats": {
+        "HP": 44,
+        "Attack": 66,
+        "Defense": 70,
+        "Sp. Atk": 44,
+        "Sp. Def": 55,
+        "Speed": 56,
+        "Total": 335
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.",
+            "Y": "It is said to carry wandering spirits to the place where they belong so they can move on.",
+            "Omega Ruby": "The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.",
+            "Alpha Sapphire": "It is said to carry wandering spirits to the place where they belong so they can move on."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Supersized Pumpkaboo are very partial to the spirits of people who were of similarly superior proportions.",
+            "Shield": "Massive Pumpkaboo are said to be the product of areas where a great number of lost souls lingered."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Route 16 ( All Sizes ) Friend Safari ( Ghost ) ( Average Size )",
+            "Y": "Route 16 ( All Sizes ) Friend Safari ( Ghost ) ( Average Size )",
+            "Omega Ruby": "Trade , Event",
+            "Alpha Sapphire": "Trade , Event"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 4 , Giant's Mirror , Hammerlocke Hills ( All Sizes ) Dappled Grove , Giant's Mirror ( Max Raid Battle ) ( All Sizes ) South Lake Miloch Sw , Watchtower Ruins , Stony Wilderness ( Max Raid Battle ) ( Average Size )",
+            "Shield": "Route 4 , Giant's Mirror , Hammerlocke Hills ( All Sizes ) Dappled Grove , Giant's Mirror ( Max Raid Battle ) ( All Sizes ) South Lake Miloch Sw , Watchtower Ruins , Stony Wilderness ( Max Raid Battle ) ( Average Size )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Pumpkaboo",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Pumpkaboo",
+            "to": "Gourgeist",
+            "method": [
+                "Trade"
+            ]
+        }
+    ]
+}

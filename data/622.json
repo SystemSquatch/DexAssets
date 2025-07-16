@@ -1,0 +1,102 @@
+{
+    "name": "Golett",
+    "pokedex_number": "#0622",
+    "types": [
+        "Ground",
+        "Ghost"
+    ],
+    "abilities": [
+        "Iron Fist",
+        "Klutz",
+        "No Guard"
+    ],
+    "stats": {
+        "HP": 59,
+        "Attack": 74,
+        "Defense": 50,
+        "Sp. Atk": 35,
+        "Sp. Def": 50,
+        "Speed": 35,
+        "Total": 303
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
+            "White": "These Pokémon are thought to have been created by the science of an ancient and mysterious civilization.",
+            "Black 2": "Ancient science fashioned this Pokémon from clay. It's been active for thousands of years.",
+            "White 2": "Ancient science fashioned this Pokémon from clay. It's been active for thousands of years."
+        },
+        "Generation VI": {
+            "X": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
+            "Y": "Ancient science fashioned this Pokémon from clay. It's been active for thousands of years.",
+            "Omega Ruby": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
+            "Alpha Sapphire": "Ancient science fashioned this Pokémon from clay. It's been active for thousands of years."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Its movements are powered by a mysterious energy. It has continued to move since ancient times, so its power may soon run out.",
+            "Ultra Moon": "Although ancient people apparently built it by working with clay, the source of its energy is unclear."
+        },
+        "Generation VIII": {
+            "Sword": "They were sculpted from clay in ancient times. No one knows why, but some of them are driven to continually line up boulders.",
+            "Shield": "This Pokémon was created from clay. It received orders from its master many thousands of years ago, and it still follows those orders to this day."
+        },
+        "Generation IX": {
+            "Scarlet": "These Pokémon are thought to have been created by the science of an ancient and mysterious civilization.",
+            "Violet": "Its movements are powered by a mysterious energy. It has continued to move since ancient times, so its power may soon run out."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Dragonspiral Tower",
+            "White": "Dragonspiral Tower",
+            "Black 2": "Breed Golurk",
+            "White 2": "Breed Golurk",
+            "Dream World": "Spooky Manor *"
+        },
+        "Generation VI": {
+            "X": "Route 10",
+            "Y": "Route 10",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Haina Desert ( SOS Battle )",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 8 , Rolling Fields , Dappled Grove , Watchtower Ruins , North Lake Miloch , Giant's Seat , Giant's Cap , Stony Wilderness Rolling Fields , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Route 8 , Rolling Fields , Dappled Grove , Watchtower Ruins , North Lake Miloch , Giant's Seat , Giant's Cap , Stony Wilderness Rolling Fields , Dusty Bowl ( Max Raid Battle )",
+            "Expansion Pass": "Frostpoint Field , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Canyon Biome , Chargestone Cavern , Polar Biome Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Golett",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Golett",
+            "to": "Golurk",
+            "method": [
+                "Level 43"
+            ]
+        }
+    ]
+}

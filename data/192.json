@@ -1,0 +1,131 @@
+{
+    "name": "Sunflora",
+    "pokedex_number": "#0192",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Solar Power",
+        "Early Bird"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 55,
+        "Sp. Atk": 105,
+        "Sp. Def": 85,
+        "Speed": 30,
+        "Total": 425
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still.",
+            "Silver": "In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets.",
+            "Crystal": "As the hot season approaches, the petals on this Pok é mon 's face become more vivid and lively.",
+            "Stadium 2": "It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still. (Pokémon Red, Silver, or Crystal inserted) In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
+            "Sapphire": "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
+            "Emerald": "Sunflora convert solar energy into nutrition. They are highly active in the warm daytime but suddenly stop moving as soon as the sun sets.",
+            "FireRed": "In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets.",
+            "LeafGreen": "It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still."
+        },
+        "Generation IV": {
+            "Diamond": "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
+            "Pearl": "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
+            "Platinum": "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
+            "HeartGold": "It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still.",
+            "SoulSilver": "In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets."
+        },
+        "Generation V": {
+            "Black": "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
+            "White": "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
+            "Black 2": "Since it converts sunlight into energy, it is always looking in the direction of the sun.",
+            "White 2": "Since it converts sunlight into energy, it is always looking in the direction of the sun."
+        },
+        "Generation VI": {
+            "X": "As the hot season approaches, the petals on this Pokémon's face become more vivid and lively.",
+            "Y": "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
+            "Omega Ruby": "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
+            "Alpha Sapphire": "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
+            "Shining Pearl": "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it."
+        },
+        "Generation IX": {
+            "Scarlet": "In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets.",
+            "Violet": "Since it converts sunlight into energy, it is always looking in the direction of the sun."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Sunkern",
+            "Silver": "Evolve Sunkern",
+            "Crystal": "Evolve Sunkern"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Evolve Sunkern",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Realgamtwr Dome (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Sunkern",
+            "Pearl": "Evolve Sunkern",
+            "Platinum": "Evolve Sunkern",
+            "HeartGold": "Evolve Sunkern",
+            "SoulSilver": "Evolve Sunkern",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Route 12 ( rustling grass )",
+            "White": "Route 12 ( rustling grass )",
+            "Black 2": "Evolve Sunkern",
+            "White 2": "Evolve Sunkern"
+        },
+        "Generation VI": {
+            "X": "Evolve Sunkern",
+            "Y": "Evolve Sunkern",
+            "Omega Ruby": "Evolve Sunkern",
+            "Alpha Sapphire": "Evolve Sunkern"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Sunkern",
+            "Shining Pearl": "Evolve Sunkern",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six East Province: East Paldean Sea , Tagtree Thicket North Province: Area Two , Area Three Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Area Six East Province: East Paldean Sea , Tagtree Thicket North Province: Area Two , Area Three Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Sunkern",
+            "to": "Sunflora",
+            "method": [
+                "Use Sun Stone"
+            ]
+        }
+    ]
+}

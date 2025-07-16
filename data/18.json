@@ -1,0 +1,143 @@
+{
+    "name": "Pidgeot",
+    "pokedex_number": "#0018",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Tangled Feet",
+        "Big Pecks",
+        "No Guard"
+    ],
+    "stats": {
+        "HP": 83,
+        "Attack": 80,
+        "Defense": 75,
+        "Sp. Atk": 70,
+        "Sp. Def": 70,
+        "Speed": 91,
+        "Total": 469
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp .",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp .",
+            "Yellow": "This Pok é mon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
+            "Stadium": "Capable of flying incredibly quickly. In full flight, by the time its flapping is heard, it is long gone."
+        },
+        "Generation II": {
+            "Gold": "Its well-developed chest muscles make it strong enough to whip up a gusty windstorm with just a few flaps.",
+            "Silver": "It spreads its beautiful wings wide to frighten its enemies. It can fly at Mach 2 speed.",
+            "Crystal": "Its outstanding vision allows it to spot splashing Magikarp , even while flying at 3300 feet .",
+            "Stadium 2": "Its well-developed chest muscles make it strong enough to whip up a gusty windstorm with just a few flaps. (Pokémon Red, Silver, or Crystal inserted) It spreads its beautiful wings wide to frighten its enemies. It can fly at Mach 2 speed. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "This Pok é mon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pok é mon .",
+            "Sapphire": "This Pok é mon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pok é mon .",
+            "Emerald": "This Pok é mon has gorgeous, glossy feathers. Many Trainers are so captivated by the beautiful feathers on its head that they choose Pidgeot as their Pok é mon .",
+            "FireRed": "It spreads its gorgeous wings widely to intimidate enemies. It races through the skies at Mach-2 speed.",
+            "LeafGreen": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp ."
+        },
+        "Generation IV": {
+            "Diamond": "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.",
+            "Pearl": "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.",
+            "Platinum": "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.",
+            "HeartGold": "Its well-developed chest muscles make it strong enough to whip up a gusty windstorm with just a few flaps.",
+            "SoulSilver": "It spreads its beautiful wings wide to frighten its enemies. It can fly at Mach 2 speed."
+        },
+        "Generation V": {
+            "Black": "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.",
+            "White": "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.",
+            "Black 2": "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.",
+            "White 2": "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees."
+        },
+        "Generation VI": {
+            "X": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
+            "Y": "It spreads its gorgeous wings widely to intimidate enemies. It races through the skies at Mach-2 speed.",
+            "Omega Ruby": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon.",
+            "Alpha Sapphire": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "With its muscular strength now greatly increased, it can fly continuously for two weeks without resting.",
+            "Let's Go Eevee": "With its muscular strength now greatly increased, it can fly continuously for two weeks without resting."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.",
+            "Shining Pearl": "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Pidgeotto",
+            "Blue": "Evolve Pidgeotto",
+            "Blue (Japan)": "Evolve Pidgeotto",
+            "Yellow": "Evolve Pidgeotto"
+        },
+        "Generation II": {
+            "Gold": "Evolve Pidgeotto",
+            "Silver": "Evolve Pidgeotto",
+            "Crystal": "Evolve Pidgeotto"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Pidgeotto",
+            "LeafGreen": "Evolve Pidgeotto",
+            "Colosseum": "Trade",
+            "XD": "Evolve Pidgeotto"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Pidgeotto",
+            "Pearl": "Evolve Pidgeotto",
+            "Platinum": "Evolve Pidgeotto",
+            "HeartGold": "Evolve Pidgeotto",
+            "SoulSilver": "Evolve Pidgeotto",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade , Event",
+            "White": "Evolve Pidgeotto",
+            "Black 2": "Trade , Event",
+            "White 2": "Trade , Event"
+        },
+        "Generation VI": {
+            "X": "Evolve Pidgeotto",
+            "Y": "Evolve Pidgeotto",
+            "Omega Ruby": "Evolve Pidgeotto",
+            "Alpha Sapphire": "Evolve Pidgeotto"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 10 ( Island Scan ) Th",
+            "Ultra Moon": "Route 10 ( Island Scan ) Th",
+            "Let's Go Pikachu": "Routes 1 , 2 , 5 , 6 , 7 , 8 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 20 , 21 , 24 , and 25",
+            "Let's Go Eevee": "Routes 1 , 2 , 5 , 6 , 7 , 8 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 20 , 21 , 24 , and 25"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Pidgeotto",
+            "Shining Pearl": "Evolve Pidgeotto",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Pidgeotto",
+            "to": "Pidgeot",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "name": "Kirlia",
+    "pokedex_number": "#0281",
+    "types": [
+        "Psychic",
+        "Fairy"
+    ],
+    "abilities": [
+        "Synchronize",
+        "Trace",
+        "Telepathy"
+    ],
+    "stats": {
+        "HP": 38,
+        "Attack": 35,
+        "Defense": 35,
+        "Sp. Atk": 65,
+        "Sp. Def": 55,
+        "Speed": 50,
+        "Total": 278
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "It is said that a Kirlia that is exposed to the positive emotions of its Trainer grows beautiful. This Pok é mon controls psychokinetic powers with its highly developed brain.",
+            "Sapphire": "Kirlia uses the horns on its head to amplify its psychokinetic power. When the Pok é mon uses its power, the air around it becomes distorted, creating mirages of nonexistent scenery.",
+            "Emerald": "A Kirlia has the psychic power to create a rip in the dimensions and see into the future. It is said to dance with pleasure on sunny mornings.",
+            "FireRed": "The cheerful spirit of its Trainer gives it energy for its psychokinetic power. It spins and dances when happy.",
+            "LeafGreen": "The cheerful spirit of its Trainer gives it energy for its psychokinetic power. It spins and dances when happy."
+        },
+        "Generation IV": {
+            "Diamond": "It is highly perceptive of its Trainer's feelings. It dances when it is feeling happy.",
+            "Pearl": "It is highly perceptive of its Trainer's feelings. It dances when it is feeling happy.",
+            "Platinum": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
+            "HeartGold": "It has a psychic power that enables it to distort the space around it and see into the future.",
+            "SoulSilver": "It has a psychic power that enables it to distort the space around it and see into the future."
+        },
+        "Generation V": {
+            "Black": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
+            "White": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
+            "Black 2": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
+            "White 2": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about."
+        },
+        "Generation VI": {
+            "X": "The cheerful spirit of its Trainer gives it energy for its psychokinetic power. It spins and dances when happy.",
+            "Y": "It has a psychic power that enables it to distort the space around it and see into the future.",
+            "Omega Ruby": "It is said that a Kirlia that is exposed to the positive emotions of its Trainer grows beautiful. This Pokémon controls psychokinetic powers with its highly developed brain.",
+            "Alpha Sapphire": "Kirlia uses the horns on its head to amplify its psychokinetic power. When the Pokémon uses its power, the air around it becomes distorted, creating mirages of nonexistent scenery."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
+            "Shield": "It has a psychic power that enables it to distort the space around it and see into the future.",
+            "Brilliant Diamond": "It is highly perceptive of its Trainer's feelings. It dances when it is feeling happy.",
+            "Shining Pearl": "It is highly perceptive of its Trainer's feelings. It dances when it is feeling happy.",
+            "Legends: Arceus": "It resembles a maiden in appearance, but it wields strange powers to project visions of paradise. I suspect the crimson ornaments on its head are the key to its abilities."
+        },
+        "Generation IX": {
+            "Scarlet": "It has a psychic power that enables it to distort the space around it and see into the future.",
+            "Violet": "The cheerful spirit of its Trainer gives it energy for its psychokinetic power. It spins and dances when happy."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Ralts",
+            "Sapphire": "Evolve Ralts",
+            "Emerald": "Evolve Ralts",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Evolve Ralts"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 203 and 204 ( Poké Radar )",
+            "Pearl": "Routes 203 and 204 ( Poké Radar )",
+            "Platinum": "Route 212 Route 209 ( Poké Radar )",
+            "HeartGold": "Evolve Ralts",
+            "SoulSilver": "Evolve Ralts",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Ralts",
+            "Black 2": "Evolve Ralts",
+            "White 2": "Evolve Ralts"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Fairy )",
+            "Y": "Friend Safari ( Fairy )",
+            "Omega Ruby": "Evolve Ralts",
+            "Alpha Sapphire": "Evolve Ralts"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Ralts",
+            "Ultra Moon": "Evolve Ralts",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields ( Wanderer ) Bridge Field , Lake of Outrage , Motostoke Riverbank , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Shield": "Rolling Fields ( Wanderer ) Bridge Field , Lake of Outrage , Motostoke Riverbank , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor , Soothing Wetlands ( Max Raid Battle )",
+            "Brilliant Diamond": "Routes 203 and 204 ( Poké Radar ) Grand Underground - Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Routes 203 and 204 ( Poké Radar ) Grand Underground - Dazzling Cave , Stargleam Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Crimson Mirelands : Shrouded Ruins Alabaster Icelands : Heart's Crag Day , Lake Acuity ( mass outbreaks ), Snowpoint Temple , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Cortondo East Province: Area Two , Levincia West Province: Porto Marinada North Province: Dalizapa Passage , Montenevera East Province: Area Three ( Fire Tera Type ) Tera Raid Battles ( 3★ )",
+            "Violet": "South Province: Cortondo East Province: Area Two , Levincia West Province: Porto Marinada North Province: Dalizapa Passage , Montenevera East Province: Area Three ( Fire Tera Type ) Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Ralts",
+            "to": "Kirlia",
+            "method": [
+                "Level 20"
+            ]
+        },
+        {
+            "from": "Kirlia",
+            "to": "Gardevoir",
+            "method": [
+                "Level 30"
+            ]
+        },
+        {
+            "from": "Kirlia",
+            "to": "Gallade",
+            "method": [
+                "Use Dawn Stone ((Male only))"
+            ]
+        }
+    ]
+}

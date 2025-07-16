@@ -1,0 +1,75 @@
+{
+    "name": "Carbink",
+    "pokedex_number": "#0703",
+    "types": [
+        "Rock",
+        "Fairy"
+    ],
+    "abilities": [
+        "Clear Body",
+        "Sturdy"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 150,
+        "Sp. Atk": 50,
+        "Sp. Def": 150,
+        "Speed": 50,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Born from the temperatures and pressures deep underground, it fires beams from the stone in its head.",
+            "Y": "It has slept underground for hundreds of millions of years since its birth. It's occasionally found during the excavation of caves.",
+            "Omega Ruby": "Born from the temperatures and pressures deep underground, it fires beams from the stone in its head.",
+            "Alpha Sapphire": "It has slept underground for hundreds of millions of years since its birth. It's occasionally found during the excavation of caves."
+        },
+        "Generation VII": {
+            "Sun": "Born from the high temperatures and pressures deep underground, it defends itself by firing beams from the jewel part of its body.",
+            "Moon": "Although this Pokémon is not especially rare, its glittering, jewel-draped body draws attention from people.",
+            "Ultra Sun": "Some say that deep beneath the surface of the world, a pack of Carbink live with their queen in a kingdom of jewels.",
+            "Ultra Moon": "To keep the jewels on their bodies free of tarnish, packs of Carbink use their soft manes to polish one another's jewels."
+        },
+        "Generation VIII": {
+            "Sword": "When beset by attackers, Carbink wipes them all out by firing high-energy beams from the gems embedded in its body.",
+            "Shield": "It's said that somewhere in the world, there's a mineral vein housing a large pack of slumbering Carbink. It's also said that this pack has a queen ."
+        },
+        "Generation IX": {
+            "Scarlet": "It has slept underground for hundreds of millions of years since its birth. It's occasionally found during the excavation of caves.",
+            "Violet": "Born from the high temperatures and pressures deep underground, it defends itself by firing beams from the jewel part of its body."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Reflection Cave",
+            "Y": "Reflection Cave",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Ten Carat Hill , Vast Poni Canyon , Poké Pelago",
+            "Moon": "Ten Carat Hill , Vast Poni Canyon , Poké Pelago",
+            "Ultra Sun": "Ten Carat Hill , Vast Poni Canyon",
+            "Ultra Moon": "Ten Carat Hill , Vast Poni Canyon",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Tunnel to the Top , Roaring-Sea Caves , Lakeside Cave Slippery Slope , Frostpoint Field , Giant's Bed , Snowslide Slope , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Crystal Pool , Chilling Waterhead Area Zero Underdepths Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": []
+}

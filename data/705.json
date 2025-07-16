@@ -1,0 +1,94 @@
+{
+    "name": "Sliggoo",
+    "pokedex_number": "#0705",
+    "types": [
+        "Dragon",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sap Sipper",
+        "Hydration",
+        "Sap Sipper",
+        "Shell Armor",
+        "Gooey"
+    ],
+    "stats": {
+        "HP": 68,
+        "Attack": 75,
+        "Defense": 53,
+        "Sp. Atk": 83,
+        "Sp. Def": 113,
+        "Speed": 60,
+        "Total": 452
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can't see anything.",
+            "Y": "Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose.",
+            "Omega Ruby": "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can't see anything.",
+            "Alpha Sapphire": "Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose."
+        },
+        "Generation VII": {
+            "Sun": "It has trouble drawing a line between friends and food. It will calmly try to melt and eat even those it gets along well with.",
+            "Moon": "This Pokémon's mucous can dissolve anything. Toothless, it sprays mucous on its prey. Once they're nicely dissolved, it slurps them up.",
+            "Ultra Sun": "It crawls along sluggishly. The swirly protrusion on its back is filled with its brain and other organs.",
+            "Ultra Moon": "Its entire body is covered with gooey mucus that can dissolve anything. Be sure to put gloves on if you're going to touch it."
+        },
+        "Generation VIII": {
+            "Sword": "Although this Pokémon isn't very strong, its body is coated in a caustic slime that can melt through anything, so predators steer clear of it.",
+            "Shield": "The lump on its back contains its tiny brain. It thinks only of food and escaping its enemies.",
+            "Legends: Arceus": "A creature given to melancholy. I suspect its metallic shell developed as a result of the mucus on its skin reacting with the iron in Hisui's water."
+        },
+        "Generation IX": {
+            "Scarlet": "The swirly protrusion on its back is filled with all its vital organs, such as its brain and heart.",
+            "Violet": "When Sliggoo senses danger, the mucus coating its entire body becomes more concentrated— it'll dissolve anything."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Route 19 , Friend Safari ( Dragon )",
+            "Y": "Route 19 , Friend Safari ( Dragon )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Exeggutor Island ( SOS Battle in rain )",
+            "Moon": "Exeggutor Island ( SOS Battle in rain )",
+            "Ultra Sun": "Exeggutor Island ( SOS Battle in rain )",
+            "Ultra Moon": "Exeggutor Island ( SOS Battle in rain )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Lake of Outrage Axew's Eye , Rolling Fields ( Max Raid Battle )",
+            "Shield Expansion Pass": "Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Crimson Mirelands : Holm of Trials , Ursa's Ring ( mass outbreaks ), massive mass outbreaks ( Hisuian Form ) Coronet Highlands : near Ancient Quarry ( Hisuian Form ) Unobtainable ( Kalosian Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area Three ( Kalosian Form ) North Province: Casseroya Lake ( Kalosian Form ) South Province: Area Four ( Poison Tera Type ) ( Kalosian Form ) Tera Raid Battles ( 4★ ) ( Kalosian Form ) Evolve Goomy in Pokémon Legends: Arceus via Pokémon HOME ( Hisuian Form )",
+            "Violet": "West Province: Area Three ( Kalosian Form ) North Province: Casseroya Lake ( Kalosian Form ) South Province: Area Four ( Poison Tera Type ) ( Kalosian Form ) Tera Raid Battles ( 4★ ) ( Kalosian Form ) Evolve Goomy in Pokémon Legends: Arceus via Pokémon HOME ( Hisuian Form )",
+            "The Hidden Treasure of Area Zero": "Timeless Woods ( Kalosian Form ) Poké Portal News , Evolve Goomy in Pokémon Legends: Arceus via Pokémon HOME ( Hisuian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Goomy",
+            "to": "Sliggoo",
+            "method": [
+                "Level 40"
+            ]
+        },
+        {
+            "from": "Sliggoo",
+            "to": "Goodra",
+            "method": [
+                "Level 50 (in rain)"
+            ]
+        }
+    ]
+}

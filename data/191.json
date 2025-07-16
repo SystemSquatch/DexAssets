@@ -1,0 +1,140 @@
+{
+    "name": "Sunkern",
+    "pokedex_number": "#0191",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Solar Power",
+        "Early Bird"
+    ],
+    "stats": {
+        "HP": 30,
+        "Attack": 30,
+        "Defense": 30,
+        "Sp. Atk": 30,
+        "Sp. Def": 30,
+        "Speed": 30,
+        "Total": 180
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It may drop out of the sky suddenly. If attacked by a Spearow , it will violently shake its leaves.",
+            "Silver": "It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
+            "Crystal": "It is very weak. Its only means of defense is to shake its leaves desperately at its attacker.",
+            "Stadium 2": "It may drop out of the sky suddenly. If attacked by a Spearow , it will violently shake its leaves. (Pokémon Red, Silver, or Crystal inserted) It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
+            "Sapphire": "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
+            "Emerald": "Sunkern try to minimize movement to conserve the nutrients they have stored in their bodies for evolution. They will not eat, subsisting only on morning dew.",
+            "FireRed": "It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
+            "LeafGreen": "It may drop out of the sky suddenly. If attacked by a Spearow , it will violently shake its leaves."
+        },
+        "Generation IV": {
+            "Diamond": "It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.",
+            "Pearl": "It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.",
+            "Platinum": "It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.",
+            "HeartGold": "It may plummet from the sky. If attacked by a Spearow , it will violently shake its leaves.",
+            "SoulSilver": "It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else."
+        },
+        "Generation V": {
+            "Black": "It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.",
+            "White": "It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.",
+            "Black 2": "It suddenly falls out of the sky in the morning. Knowing it's weak, it simply feeds until it evolves.",
+            "White 2": "It suddenly falls out of the sky in the morning. Knowing it's weak, it simply feeds until it evolves."
+        },
+        "Generation VI": {
+            "X": "It may plummet from the sky. If attacked by a Spearow, it will violently shake its leaves.",
+            "Y": "It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
+            "Omega Ruby": "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
+            "Alpha Sapphire": "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "They may suddenly fall out of the sky in the morning. In the year following a cold summer, their population explodes.",
+            "Shining Pearl": "They may suddenly fall out of the sky in the morning. In the year following a cold summer, their population explodes."
+        },
+        "Generation IX": {
+            "Scarlet": "It suddenly falls out of the sky in the morning. Knowing it’s weak, it simply feeds until it evolves.",
+            "Violet": "It is very weak. Its only means of defense is to shake its leaves desperately at its attacker."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Route 24 , National Park Day",
+            "Silver": "Route 24 , National Park Day",
+            "Crystal": "Route 24 , National Park Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Safari Zone extension",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Northern Route 204 ( Poké Radar )",
+            "Pearl": "Northern Route 204 ( Poké Radar )",
+            "Platinum": "Northern Route 204 ( Poké Radar )",
+            "HeartGold": "Route 24 , National Park Day Safari Zone Day (tall grass in Meadow, default)",
+            "SoulSilver": "Route 24 , National Park Day Safari Zone Day (tall grass in Meadow, default)",
+            "Pal Park": "Field",
+            "Pokéwalker": "Beautiful Beach"
+        },
+        "Generation V": {
+            "Black": "Route 12",
+            "White": "Route 12",
+            "Black 2": "Route 20",
+            "White 2": "Route 20",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Grass )",
+            "Y": "Friend Safari ( Grass )",
+            "Omega Ruby": "Mirage Forests (south of Route 109 , west of Route 114 , north of Lilycove City , north of Route 124 , east of Mossdeep City , south of Route 132 )",
+            "Alpha Sapphire": "Mirage Forests (south of Route 109 , west of Route 114 , north of Lilycove City , north of Route 124 , east of Mossdeep City , south of Route 132 )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Northern Route 204 ( Poké Radar ) Grand Underground - Grassland Cave , Sunlit Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Northern Route 204 ( Poké Radar ) Grand Underground - Grassland Cave , Sunlit Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Sunkern",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Sunkern",
+            "to": "Sunflora",
+            "method": [
+                "Use Sun Stone"
+            ]
+        }
+    ]
+}

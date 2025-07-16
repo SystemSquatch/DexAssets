@@ -1,0 +1,58 @@
+{
+    "name": "Wishiwashi",
+    "pokedex_number": "#0746",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Schooling"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 20,
+        "Defense": 20,
+        "Sp. Atk": 25,
+        "Sp. Def": 25,
+        "Speed": 40,
+        "Total": 175
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Weak Wishiwashi school together to concentrate their power. Their united force makes them the demon of the sea, feared near and far.",
+            "Moon": "At their appearance, even Gyarados will flee. When they team up to use Water Gun , its power exceeds that of Hydro Pump .",
+            "Ultra Sun": "Wishiwashi assemble in this formation to face off against strong foes. It boasts a strength that earned it the name “demon of the sea.”",
+            "Ultra Moon": "Called “demon of the sea” by some, when Wishiwashi are injured in battle and their numbers dwindle, they become a regular school."
+        },
+        "Generation VIII": {
+            "Sword": "On their own, they're very weak. But when Wishiwashi pool their power together in a school, they become a demon of the sea.",
+            "Shield": "When facing tough opponents, they get into formation. But if they get wounded in battle, they'll scatter and become solitary again."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Routes 7 , 8 , 9 , 13 , 14 , and 15 , Melemele Sea , Kala'e Bay , Brooklet Hill , Akala Outskirts , Secluded Shore ( Fishing )",
+            "Moon": "Routes 7 , 8 , 9 , 13 , 14 , and 15 , Melemele Sea , Kala'e Bay , Brooklet Hill , Akala Outskirts , Secluded Shore ( Fishing )",
+            "Ultra Sun": "Routes 7 , 8 , 9 , 13 , 14 , and 15 , Melemele Sea , Kala'e Bay , Brooklet Hill , Akala Outskirts ( Fishing )",
+            "Ultra Moon": "Routes 7 , 8 , 9 , 13 , 14 , and 15 , Melemele Sea , Kala'e Bay , Brooklet Hill , Akala Outskirts ( Fishing )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 9 , Hulbury , West Lake Axewell , East Lake Axewell , Axew's Eye East Lake Axewell , West Lake Axewell , South Lake Miloch , North Lake Miloch , Bridge Field , Giant's Cap , Dusty Bowl , Lake of Outrage ( Max Raid Battle )",
+            "Shield": "Route 9 , Hulbury , West Lake Axewell , East Lake Axewell , Axew's Eye East Lake Axewell , West Lake Axewell , South Lake Miloch , North Lake Miloch , Bridge Field , Giant's Cap , Dusty Bowl , Lake of Outrage ( Max Raid Battle )",
+            "Expansion Pass": "Challenge Beach , Stepping-Stone Sea , Insular Sea , Honeycalm Island , Honeycalm Sea Fields of Honor , Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

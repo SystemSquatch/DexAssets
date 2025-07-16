@@ -1,0 +1,94 @@
+{
+    "name": "Scrafty",
+    "pokedex_number": "#0560",
+    "types": [
+        "Dark",
+        "Fighting"
+    ],
+    "abilities": [
+        "Shed Skin",
+        "Moxie",
+        "Intimidate"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 115,
+        "Sp. Atk": 45,
+        "Sp. Def": 115,
+        "Speed": 58,
+        "Total": 488
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.",
+            "White": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
+            "Black 2": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
+            "White 2": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is."
+        },
+        "Generation VI": {
+            "X": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
+            "Y": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
+            "Omega Ruby": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
+            "Alpha Sapphire": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader."
+        },
+        "Generation VII": {
+            "Ultra Sun": "This Pokémon may be rude, but it takes very good care of its family, its friends, and its turf.",
+            "Ultra Moon": "It taunts its opponents by spitting. It has a certain territory that it never leaves its whole life long."
+        },
+        "Generation VIII": {
+            "Sword": "As halfhearted as this Pokémon's kicks may seem, they pack enough power to shatter Conkeldurr's concrete pillars.",
+            "Shield": "While mostly known for having the temperament of an aggressive ruffian, this Pokémon takes very good care of its family, friends, and territory."
+        },
+        "Generation IX": {
+            "Scarlet": "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.",
+            "Violet": "This Pokémon may be rude, but it takes very good care of its family, its friends, and its turf."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Scraggy",
+            "White": "Evolve Scraggy",
+            "Black 2": "Routes 15 and 18 , P2 Laboratory Route 1 ( dark grass )",
+            "White 2": "Routes 15 and 18 , P2 Laboratory Route 1 ( dark grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Scraggy",
+            "Y": "Evolve Scraggy",
+            "Omega Ruby": "Evolve Scraggy",
+            "Alpha Sapphire": "Evolve Scraggy"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Scraggy",
+            "Ultra Moon": "Evolve Scraggy",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields , West Lake Axewell , South Lake Miloch , North Lake Miloch , Bridge Field , Stony Wilderness , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Sword Expansion Pass": "Challenge Road , Training Lowlands ( Wanderer )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Canyon Biome , Chargestone Cavern Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Scraggy",
+            "to": "Scrafty",
+            "method": [
+                "Level 39"
+            ]
+        }
+    ]
+}

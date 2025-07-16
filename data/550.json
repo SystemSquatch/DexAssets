@@ -1,0 +1,108 @@
+{
+    "name": "Basculin",
+    "pokedex_number": "#0550",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Reckless",
+        "Adaptability",
+        "Rock Head",
+        "Adaptability",
+        "Rattled",
+        "Adaptability",
+        "Mold Breaker"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 92,
+        "Defense": 65,
+        "Sp. Atk": 80,
+        "Sp. Def": 55,
+        "Speed": 98,
+        "Total": 460
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Red and blue Basculin get along so poorly, they'll start fighting instantly. These Pokémon are very hostile.",
+            "White": "Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other's school.",
+            "Black 2": "Red- and blue-striped Basculin are very violent and always fighting. They are also remarkably tasty.",
+            "White 2": "Red- and blue-striped Basculin are very violent and always fighting. They are also remarkably tasty."
+        },
+        "Generation VI": {
+            "X": "Red- and blue-striped Basculin are very violent and always fighting. They are also remarkably tasty.",
+            "Y": "Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other's school.",
+            "Omega Ruby": "Red- and blue-striped Basculin are very violent and always fighting. They are also remarkably tasty.",
+            "Alpha Sapphire": "Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other's school."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Even Basculin, which devours everything it can with its huge jaws, is nothing more than food to organisms stronger than itself.",
+            "Ultra Moon": "Some people call it “the thug of the lake.” Whether the differences in color are meaningful is not yet known."
+        },
+        "Generation VIII": {
+            "Sword": "Blue-striped Basculin used to be a common food source. They apparently have an inoffensive, light flavor.",
+            "Shield": "Known for their violence, these Pokémon have the most fights with schools of red-striped Basculin.",
+            "Legends: Arceus": "Though it differs from other Basculin in several respects, including demeanor—this one is gentle—I have categorized it as a regional form given the vast array of shared qualities."
+        },
+        "Generation IX": {
+            "Scarlet": "They live in frigid seas, forming schools and sharing food among themselves. When the time comes, they return to the river they were born in.",
+            "Violet": "Its ecology is starkly different from that of other Basculin, so theories that it's a totally different species have gained traction in recent years."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 1 , 3 , 6 , 11 , 14 , Striaton City , Wellspring Cave , Pinwheel Forest , Dragonspiral Tower , Challenger's Cave , Victory Road , Village Bridge , Giant Chasm , Abundant Shrine , Lostlorn Forest ( Surfing or fishing ) ( Red-Striped Form ) ( Rippling water ) ( Blue-Striped Form ) Trade Minccino in Driftveil City ( Red-Striped Form )",
+            "White": "Routes 1 , 3 , 6 , 11 , 14 , Striaton City , Wellspring Cave , Pinwheel Forest , Dragonspiral Tower , Challenger's Cave , Victory Road , Village Bridge , Giant Chasm , Abundant Shrine , Lostlorn Forest ( Surfing or fishing ) ( Blue-Striped Form ) ( Rippling water ) ( Red-Striped Form ) Trade Minccino in Driftveil City ( Blue-Striped Form )",
+            "Black 2": "Routes 1 , 3 , 6 , 11 , 13 , 14 , 19 , 20 , 22 , 23 , Aspertia City , Floccesy Ranch , Relic Passage , Clay Tunnel , Dragonspiral Tower , Striaton City , Wellspring Cave , Pinwheel Forest , Undella Town , Humilau City , Victory Road , Village Bridge , Giant Chasm , Abundant Shrine , Nature Preserve , Lostlorn Forest ( Surfing or fishing ) ( Red-Striped Form ) ( Rippling water ) ( Blue-Striped Form )",
+            "White 2": "Routes 1 , 3 , 6 , 11 , 13 , 14 , 19 , 20 , 22 , 23 , Aspertia City , Floccesy Ranch , Relic Passage , Clay Tunnel , Dragonspiral Tower , Striaton City , Wellspring Cave , Pinwheel Forest , Undella Town , Humilau City , Victory Road , Village Bridge , Giant Chasm , Abundant Shrine , Nature Preserve , Lostlorn Forest ( Surfing or fishing ) ( Blue-Striped Form ) ( Rippling water ) ( Red-Striped Form )",
+            "Dream World": "Sparkling Sea * ( Red/Blue-Striped Forms )"
+        },
+        "Generation VI": {
+            "X": "Routes 15 and 16 , Laverre City , Couriway Town , Frost Cavern , Pokémon Village , Victory Road ( Good Rod ) ( Blue-Striped Form ) Routes 15 and 16 , Laverre City , Couriway Town , Frost Cavern , Pokémon Village , Victory Road ( Super Rod ) ( Red-Striped Form ) Route 21 (Good Rod or Super Rod) ( Red-Striped Form )",
+            "Y": "Routes 15 and 16 , Laverre City , Couriway Town , Frost Cavern , Pokémon Village , Victory Road ( Good Rod ) ( Red-Striped Form ) Routes 15 and 16 , Laverre City , Couriway Town , Frost Cavern , Pokémon Village , Victory Road ( Super Rod ) ( Blue-Striped Form ) Route 21 (Good Rod or Super Rod) ( Red-Striped Form )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Brooklet Hill , Malie Garden , Vast Poni Canyon ( Fishing ) ( Red-Striped Form ) Trade ( Blue-Striped Form )",
+            "Ultra Moon": "Brooklet Hill , Malie Garden , Vast Poni Canyon ( Fishing ) ( Blue-Striped Form ) Trade ( Red-Striped Form )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade ( Blue-Striped Form ) Hulbury , Motostoke Riverbank , North Lake Miloch ( fishing ) ( Red-Striped Form ) Motostoke Riverbank ( Surfing ) ( Red-Striped Form ) Bridge Field , Giant's Cap , Giant's Mirror , Lake of Outrage , East Lake Axewell , West Lake Axewell , South Lake Miloch , North Lake Miloch ( Max Raid Battle ) ( Red-Striped Form )",
+            "Shield": "Trade ( Red-Striped Form ) Hulbury , Motostoke Riverbank , North Lake Miloch ( fishing ) ( Blue-Striped Form ) Motostoke Riverbank ( Surfing ) ( Blue-Striped Form ) Bridge Field , Giant's Cap , Giant's Mirror , Lake of Outrage , East Lake Axewell , West Lake Axewell , South Lake Miloch , North Lake Miloch ( Max Raid Battle ) ( Blue-Striped Form )",
+            "Sword Expansion Pass": "Snowslide Slope , Frigid Sea ( fishing ) ( Red-Striped Form ) Roaring-Sea Caves ( Surfing ) ( Red-Striped Form ) Giant's Bed , Giant's Foot , Ballimere Lake ( Surfing and fishing ) ( Red-Striped Form ) Giant's Bed , Giant's Foot , Ballimere Lake , Frigid Sea ( Max Raid Battle ) ( Red / Blue-Striped Forms ) Max Lair ( Dynamax Adventure ) ( Red / Blue-Striped Forms )",
+            "Shield Expansion Pass": "Snowslide Slope , Frigid Sea ( fishing ) ( Blue-Striped Form ) Roaring-Sea Caves ( Surfing ) ( Blue-Striped Form ) Giant's Bed , Giant's Foot , Ballimere Lake ( Surfing and fishing ) ( Blue-Striped Form ) Giant's Bed , Giant's Foot , Ballimere Lake , Frigid Sea ( Max Raid Battle ) ( Red / Blue-Striped Forms ) Max Lair ( Dynamax Adventure ) ( Red / Blue-Striped Forms )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Cobalt Coastlands : Tranquility Cove , near Islespy Shore , near Firespit Island , massive mass outbreaks ( White-Striped Form ) Coronet Highlands : Fabled Spring ( White-Striped Form ) Alabaster Icelands : near Avalugg's Legacy , Heart's Crag , Lake Acuity , near Pearl Settlement ( White-Striped Form ) Unobtainable ( Red/Blue-Striped Forms )"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five , Area Six ( Red/Blue-Striped Forms ) East Province: Area Two , Area Three ( Red/Blue-Striped Forms ) West Province: Area One , Area Two , Area Three ( Red/Blue-Striped Forms ) North Province: Glaseado Mountain ( Red/Blue-Striped Forms ) Tera Raid Battles ( 3★ ) ( Red-Striped Form ) Trade ( White-Striped Form )",
+            "Violet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five , Area Six ( Red/Blue-Striped Forms ) East Province: Area Two , Area Three ( Red/Blue-Striped Forms ) West Province: Area One , Area Two , Area Three ( Red/Blue-Striped Forms ) North Province: Glaseado Mountain ( Red/Blue-Striped Forms ) Tera Raid Battles ( 3★ ) ( Red-Striped Form ) Trade ( White-Striped Form )",
+            "The Hidden Treasure of Area Zero": "Timeless Woods ( White-Striped Form ) Tera Raid Battles ( 3★ ) ( White-Striped Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Basculin",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Basculin",
+            "to": "Basculegion",
+            "method": [
+                "Recoil Damage"
+            ]
+        }
+    ]
+}

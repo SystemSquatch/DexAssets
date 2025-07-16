@@ -1,0 +1,54 @@
+{
+    "name": "Thievul",
+    "pokedex_number": "#0828",
+    "types": [
+        "Dark",
+        "Unknown"
+    ],
+    "abilities": [
+        "Run Away",
+        "Unburden",
+        "Stakeout"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 58,
+        "Defense": 58,
+        "Sp. Atk": 87,
+        "Sp. Def": 92,
+        "Speed": 90,
+        "Total": 455
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
+            "Shield": "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Routes 7 and 9 , Bridge Field , Hammerlocke Hills , Stony Wilderness West Lake Axewell , Bridge Field , Stony Wilderness , Giant's Mirror , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Routes 7 and 9 , Bridge Field , Hammerlocke Hills , Stony Wilderness West Lake Axewell , Bridge Field , Stony Wilderness , Giant's Mirror , Dusty Bowl ( Max Raid Battle )",
+            "Expansion Pass": "Frostpoint Field , Giant's Bed , Snowslide Slope , Giant's Foot , Frigid Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Nickit",
+            "to": "Thievul",
+            "method": [
+                "Level 18"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "name": "Ferroseed",
+    "pokedex_number": "#0597",
+    "types": [
+        "Grass",
+        "Steel"
+    ],
+    "abilities": [
+        "Iron Barbs"
+    ],
+    "stats": {
+        "HP": 44,
+        "Attack": 50,
+        "Defense": 91,
+        "Sp. Atk": 24,
+        "Sp. Def": 86,
+        "Speed": 10,
+        "Total": 305
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.",
+            "White": "They stick their spikes into cave walls and absorb the minerals they find in the rock.",
+            "Black 2": "It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.",
+            "White 2": "It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger."
+        },
+        "Generation VI": {
+            "X": "When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.",
+            "Y": "It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.",
+            "Omega Ruby": "When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.",
+            "Alpha Sapphire": "It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It defends itself by launching spikes, but its aim isn't very good at first. Only after a lot of practice will it improve.",
+            "Shield": "Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed's spikes grow big and strong."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Chargestone Cave",
+            "White": "Chargestone Cave",
+            "Black 2": "Chargestone Cave Chargestone Cave ( N's Pokémon )",
+            "White 2": "Chargestone Cave Chargestone Cave ( N's Pokémon )"
+        },
+        "Generation VI": {
+            "X": "Reflection Cave , Glittering Cave , Friend Safari ( Steel )",
+            "Y": "Reflection Cave , Glittering Cave , Friend Safari ( Steel )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 4 , Bridge Field , Motostoke Riverbank , Stony Wilderness Bridge Field , Dappled Grove , Dusty Bowl , Giant's Mirror , Giant's Seat , Hammerlocke Hills , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 4 , Bridge Field , Motostoke Riverbank , Stony Wilderness Bridge Field , Dappled Grove , Dusty Bowl , Giant's Mirror , Giant's Seat , Hammerlocke Hills , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Lakeside Cave",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Ferroseed",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Ferroseed",
+            "to": "Ferrothorn",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

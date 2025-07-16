@@ -1,0 +1,35 @@
+{
+    "name": "Iron Thorns",
+    "pokedex_number": "#0995",
+    "types": [
+        "Rock",
+        "Electric"
+    ],
+    "abilities": [
+        "Quark Drive"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 134,
+        "Defense": 110,
+        "Sp. Atk": 70,
+        "Sp. Def": 84,
+        "Speed": 72,
+        "Total": 570
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It has some similarities to a Pokémon introduced in a dubious magazine as a Tyranitar from one billion years into the future.",
+            "Violet": "Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Union Circle",
+            "Violet": "Area Zero"
+        }
+    },
+    "evolution": []
+}

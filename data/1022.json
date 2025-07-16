@@ -1,0 +1,45 @@
+{
+    "name": "Iron Boulder",
+    "pokedex_number": "#1022",
+    "types": [
+        "Rock",
+        "Psychic"
+    ],
+    "abilities": [
+        "Quark Drive"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 120,
+        "Defense": 80,
+        "Sp. Atk": 68,
+        "Sp. Def": 108,
+        "Speed": 124,
+        "Total": 590
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It resembles a Pokémon described in a dubious magazine as a Terrakion that had been modified by an evil organization.",
+            "Violet": "It was named after a mysterious object recorded in an old book. Its body seems to be metallic."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Trade",
+            "The Hidden Treasure of Area Zero (Violet)": "Area Zero (after starting Perrin 's questline in The Indigo Disk ; only one )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Iron Boulder",
+            "method": [
+                "Base Stage"
+            ]
+        }
+    ]
+}

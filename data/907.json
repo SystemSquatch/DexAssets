@@ -1,0 +1,51 @@
+{
+    "name": "Floragato",
+    "pokedex_number": "#0907",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Protean"
+    ],
+    "stats": {
+        "HP": 61,
+        "Attack": 80,
+        "Defense": 63,
+        "Sp. Atk": 60,
+        "Sp. Def": 63,
+        "Speed": 83,
+        "Total": 410
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.",
+            "Violet": "The hardness of Floragato's fur depends on the Pokémon's mood. When Floragato is prepared to battle, its fur becomes pointed and needle sharp."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Evolve Sprigatito",
+            "Violet": "Evolve Sprigatito"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Sprigatito",
+            "to": "Floragato",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Floragato",
+            "to": "Meowscarada",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

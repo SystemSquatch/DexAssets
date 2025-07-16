@@ -1,0 +1,65 @@
+{
+    "name": "Chewtle",
+    "pokedex_number": "#0833",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Strong Jaw",
+        "Shell Armor",
+        "Swift Swim"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 64,
+        "Defense": 50,
+        "Sp. Atk": 38,
+        "Sp. Def": 38,
+        "Speed": 44,
+        "Total": 284
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Apparently the itch of its teething impels it to snap its jaws at anything in front of it.",
+            "Shield": "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go."
+        },
+        "Generation IX": {
+            "Scarlet": "Its large front tooth is still growing in. When the tooth itches, this Pokémon will bite another Chewtle’s horn, and the two Pokémon will tussle.",
+            "Violet": "A popular game among children is to lift up sticks that Chewtle have bitten onto to see whose Chewtle can hang on the longest."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Routes 2 , 4 and 5 , Galar Mine No. 2 , Giant's Cap , Giant's Mirror , Hulbury , Motostoke , Motostoke Outskirts , Motostoke Riverbank Bridge Field , Dusty Bowl , East Lake Axewell , Giant's Cap , Giant's Mirror , Lake of Outrage , South Lake Miloch , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Routes 2 , 4 and 5 , Galar Mine No. 2 , Giant's Cap , Giant's Mirror , Hulbury , Motostoke , Motostoke Outskirts , Motostoke Riverbank Bridge Field , Dusty Bowl , East Lake Axewell , Giant's Cap , Giant's Mirror , Lake of Outrage , South Lake Miloch , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Courageous Cavern , Soothing Wetlands",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Four , Area Five East Province: Area Two , Area Three West Province: Area One , Area Two North Province: Area Two Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two , Area Four , Area Five East Province: Area Two , Area Three West Province: Area One , Area Two North Province: Area Two Tera Raid Battles ( 1★ )",
+            "The Hidden Treasure of Area Zero": "Mossfell Confluence , Fellhorn Gorge , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Chewtle",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Chewtle",
+            "to": "Drednaw",
+            "method": [
+                "Level 22"
+            ]
+        }
+    ]
+}

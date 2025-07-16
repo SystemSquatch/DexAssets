@@ -1,0 +1,118 @@
+{
+    "name": "Relicanth",
+    "pokedex_number": "#0369",
+    "types": [
+        "Water",
+        "Rock"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Rock Head",
+        "Sturdy"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 90,
+        "Defense": 130,
+        "Sp. Atk": 45,
+        "Sp. Def": 65,
+        "Speed": 55,
+        "Total": 485
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Relicanth is a Pok é mon species that existed for a hundred million years without ever changing its form. This ancient Pok é mon feeds on microscopic organisms with its toothless mouth.",
+            "Sapphire": "Relicanth is a rare species that was discovered in deep-sea explorations. This Pok é mon 's body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.",
+            "Emerald": "A Pok é mon that was once believed to have been extinct. The species has not changed its form for 100 million years. It walks on the seafloor using its pectoral fins.",
+            "FireRed": "It has remained unchanged for 100 million years. It was discovered during a deep-sea exploration.",
+            "LeafGreen": "It has remained unchanged for 100 million years. It was discovered during a deep-sea exploration."
+        },
+        "Generation IV": {
+            "Diamond": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
+            "Pearl": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
+            "Platinum": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
+            "HeartGold": "Discovered by chance during deep-sea explorations, it has not changed since ancient times.",
+            "SoulSilver": "Discovered by chance during deep-sea explorations, it has not changed since ancient times."
+        },
+        "Generation V": {
+            "Black": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
+            "White": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
+            "Black 2": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
+            "White 2": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years."
+        },
+        "Generation VI": {
+            "X": "It has remained unchanged for 100 million years. It was discovered during a deep-sea exploration.",
+            "Y": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
+            "Omega Ruby": "Relicanth is a Pokémon species that existed for a hundred million years without ever changing its form. This ancient Pokémon feeds on microscopic organisms with its toothless mouth.",
+            "Alpha Sapphire": "Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon's body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks."
+        },
+        "Generation VII": {
+            "Sun": "Its form has remained the same for one hundred million years. Its body is filled with fat, so it can withstand the water pressure of the deep sea.",
+            "Moon": "It was fortuitously discovered during a deep sea expedition. Its teeth have atrophied, so it now survives on microscopic organisms it sucks up.",
+            "Ultra Sun": "Thought to have gone extinct, Relicanth was given a name that is a variation of the name of the person who discovered it.",
+            "Ultra Moon": "The reason it hasn't changed at all in a hundred million years is that it's apparently already a perfect life-form."
+        },
+        "Generation VIII": {
+            "Sword": "Rock-hard scales and oil-filled swim bladders allow this Pokémon to survive the intense water pressure of the deep sea.",
+            "Shield": "This Pokémon was discovered during deep-sea exploration. Its appearance hasn't changed in 100,000,000 years, so it's called a living fossil.",
+            "Brilliant Diamond": "This rare Pokémon was discovered during a deep-sea exploration. It has not changed in over 100 million years.",
+            "Shining Pearl": "This rare Pokémon was discovered during a deep-sea exploration. It has not changed in over 100 million years."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Underwater ( Routes 124 and 126 )",
+            "Sapphire": "Underwater ( Routes 124 and 126 )",
+            "Emerald": "Underwater ( Routes 124 and 126 )",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 226 ( Super Rod )",
+            "Pearl": "Route 226 ( Super Rod )",
+            "Platinum": "Route 226 ( Super Rod )",
+            "HeartGold": "Route 12 ( Super Rod during a swarm )",
+            "SoulSilver": "Route 12 ( Super Rod during a swarm )",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Route 4 ( Fishing in rippling water )",
+            "White": "Route 4 ( Fishing in rippling water )",
+            "Black 2": "Route 4 ( Fishing in rippling water )",
+            "White 2": "Route 4 ( Fishing in rippling water )",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Ambrette Town , Cyllage City ( Super Rod )",
+            "Y": "Ambrette Town , Cyllage City ( Super Rod )",
+            "Omega Ruby": "Routes 107 , 124 , 126 , 128 , 129 , and 130 ( Underwater )",
+            "Alpha Sapphire": "Routes 107 , 124 , 126 , 128 , 129 , and 130 ( Underwater )"
+        },
+        "Generation VII": {
+            "Sun": "Poni Wilds ( Fishing )",
+            "Moon": "Poni Wilds ( Fishing )",
+            "Ultra Sun": "Poni Breaker Coast ( Fishing )",
+            "Ultra Moon": "Poni Breaker Coast ( Fishing )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Ballimere Lake ( Surfing ) Giant's Bed , Giant's Foot , Ballimere Lake , Frigid Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Route 226 ( Super Rod )",
+            "Shining Pearl": "Route 226 ( Super Rod )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

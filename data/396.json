@@ -1,0 +1,111 @@
+{
+    "name": "Starly",
+    "pokedex_number": "#0396",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Reckless"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 30,
+        "Sp. Atk": 30,
+        "Sp. Def": 30,
+        "Speed": 60,
+        "Total": 245
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "They flock in great numbers. Though small, they flap their wings with great power.",
+            "Pearl": "Usually with a large flock, it is barely noticeable when alone. Its cries are very strident.",
+            "Platinum": "Because they are weak individually, they form groups. However, they bicker if the group grows too big.",
+            "HeartGold": "They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying.",
+            "SoulSilver": "They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying."
+        },
+        "Generation V": {
+            "Black": "Because they are weak individually, they form groups. However, they bicker if the group grows too big.",
+            "White": "Because they are weak individually, they form groups. However, they bicker if the group grows too big.",
+            "Black 2": "Because they are weak individually, they form groups. However, they bicker if the group grows too big.",
+            "White 2": "Because they are weak individually, they form groups. However, they bicker if the group grows too big."
+        },
+        "Generation VI": {
+            "X": "They flock in great numbers. Though small, they flap their wings with great power.",
+            "Y": "They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying.",
+            "Omega Ruby": "They flock in great numbers. Though small, they flap their wings with great power.",
+            "Alpha Sapphire": "They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "They flock in great numbers. Though small, they flap their wings with great power.",
+            "Shining Pearl": "Usually with a large flock, it is barely noticeable when alone. Its cries are very strident.",
+            "Legends: Arceus": "They live in the fields and mountains, gathering in large flocks. Their cries are quite obnoxious. Though small, their wings are strong—a strike from them leaves pain that persists for a week."
+        },
+        "Generation IX": {
+            "Scarlet": "They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying.",
+            "Violet": "Because they are weak individually, they form groups. However, they bicker if the group grows too big."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 201 , 202 , 203 , 204 , 209 , and 212 , Lake Verity , Great Marsh",
+            "Pearl": "Routes 201 , 202 , 203 , 204 , 209 , and 212 , Lake Verity , Great Marsh",
+            "Platinum": "Routes 201 , 202 , 203 , and 204 , Lake Verity",
+            "HeartGold": "Pewter City ( Headbutt trees * )",
+            "SoulSilver": "Pewter City ( Headbutt trees * )"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Route 11 ( Horde Encounter )",
+            "Y": "Route 11 ( Horde Encounter )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Breed Staravia or Staraptor",
+            "Moon": "Breed Staravia or Staraptor",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 201 , 202 , 203 , 204 , 209 , and 212 , Lake Verity , Great Marsh",
+            "Shining Pearl": "Routes 201 , 202 , 203 , 204 , 209 , and 212 , Lake Verity , Great Marsh",
+            "Legends: Arceus": "Obsidian Fieldlands : Aspiration Hill Day , Horseshoe Plains Day , near Worn Bridge Day , Deertrack Path Day , Deertrack Heights Day , Windswept Run Day , Nature's Pantry Day , Tidewater Dam Day , near Obsidian Falls Day , Ramanas Island Day , massive mass outbreaks Cobalt Coastlands : Crossing Slope Day , Bathers' Lagoon Day , Deadwood Haunt Day , Sand's Reach Day , Tranquility Cove Day , near Castaway Shore Day , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Four Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two , Area Four Tera Raid Battles ( 1★ )",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Apple Hills , Loyalty Plaza , Reveler's Road , Kitakami Hall , Mossfell Confluence , Fellhorn Gorge , Oni Mountain , Kitakami Wilds"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Starly",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Starly",
+            "to": "Staravia",
+            "method": [
+                "Level 14"
+            ]
+        }
+    ]
+}

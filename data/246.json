@@ -1,0 +1,144 @@
+{
+    "name": "Larvitar",
+    "pokedex_number": "#0246",
+    "types": [
+        "Rock",
+        "Ground"
+    ],
+    "abilities": [
+        "Guts",
+        "Sand Veil"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 64,
+        "Defense": 50,
+        "Sp. Atk": 45,
+        "Sp. Def": 50,
+        "Speed": 41,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
+            "Silver": "It is born deep underground. It can't emerge until it has entirely consumed the soil around it.",
+            "Crystal": "Born deep underground, this Pok é mon becomes a pupa after eating enough dirt to make a mountain.",
+            "Stadium 2": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow. (Pokémon Red, Silver, or Crystal inserted) It is born deep underground. It can't emerge until it has entirely consumed the soil around it. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Larvitar is born deep under the ground. To come up to the surface, this Pok é mon must eat its way through the soil above. Until it does so, Larvitar cannot see its parent's face.",
+            "Sapphire": "Larvitar is born deep under the ground. To come up to the surface, this Pok é mon must eat its way through the soil above. Until it does so, Larvitar cannot see its parent's face.",
+            "Emerald": "A Larvitar is born deep under the ground. It must eat its way through the soil above and reach the surface for it to see its parents' faces.",
+            "FireRed": "It is born deep underground. It can't emerge until it has entirely consumed the soil around it.",
+            "LeafGreen": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow."
+        },
+        "Generation IV": {
+            "Diamond": "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
+            "Pearl": "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
+            "Platinum": "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
+            "HeartGold": "It feeds on soil. After it has eaten a large mountain, it falls asleep so it can grow.",
+            "SoulSilver": "It is born deep underground. It can't emerge until it has entirely consumed the soil around it."
+        },
+        "Generation V": {
+            "Black": "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
+            "White": "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
+            "Black 2": "Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.",
+            "White 2": "Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil."
+        },
+        "Generation VI": {
+            "X": "It feeds on soil. After it has eaten a large mountain, it falls asleep so it can grow.",
+            "Y": "Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.",
+            "Omega Ruby": "Larvitar is born deep under the ground. To come up to the surface, this Pokémon must eat its way through the soil above. Until it does so, Larvitar cannot see its parents.",
+            "Alpha Sapphire": "Larvitar is born deep under the ground. To come up to the surface, this Pokémon must eat its way through the soil above. Until it does so, Larvitar cannot see its parents."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Born underground, it eats its way through dirt to the surface, where its parents are. It doesn't deal well with the bright light it finds there.",
+            "Ultra Moon": "Raised on nutrients it finds in the dirt, it eats roughly a mountain's worth of dirt before it becomes a pupa."
+        },
+        "Generation VIII": {
+            "Sword": "Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.",
+            "Shield": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
+            "Brilliant Diamond": "This Pokémon eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
+            "Shining Pearl": "This Pokémon eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow."
+        },
+        "Generation IX": {
+            "Scarlet": "Born deep underground, this Pokémon becomes a pupa after eating enough dirt to make a mountain.",
+            "Violet": "It is born deep underground. It can't emerge until it has entirely consumed the soil around it."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Mt. Silver Cave",
+            "Silver": "Mt. Silver Cave",
+            "Crystal": "Mt. Silver Cave Morning Day Celadon Game Corner"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Sevault Canyon",
+            "LeafGreen": "Sevault Canyon",
+            "Colosseum": "Trade",
+            "XD": "Trade Wooper to Duking in Pyrite Town"
+        },
+        "Generation IV": {
+            "Diamond": "Route 207 ( Poké Radar )",
+            "Pearl": "Trade",
+            "Platinum": "Route 206 ( Swarm )",
+            "HeartGold": "Safari Zone (Mountain, default Morning Day , and with 5 Peak points) Mt. Silver Cave",
+            "SoulSilver": "Safari Zone (Mountain, default Morning Day , and with 5 Peak points) Mt. Silver Cave",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Breed Pupitar or Tyranitar",
+            "White": "Breed Pupitar or Tyranitar",
+            "Black 2": "Breed Pupitar or Tyranitar",
+            "White 2": "Breed Pupitar or Tyranitar",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Breed Pupitar or Tyranitar",
+            "Y": "Terminus Cave ( Horde Encounter )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Diglett's Tunnel",
+            "Ultra Moon": "Diglett's Tunnel",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade , use Dynamax Crystal ★And15 at Watchtower Lair , Wild Area News",
+            "Shield": "Lake of Outrage Giant's Seat , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Shield Expansion Pass": "Roaring-Sea Caves",
+            "Brilliant Diamond": "Route 207 ( Poké Radar ) Grand Underground - Rocky Cave , Big Bluff Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Five , Alfornada Cavern East Province: Area Three West Province: Area One , Asado Desert North Province: Dalizapa Passage Tera Raid Battles ( 3★ )",
+            "Violet": "Union Circle Tera Raid Battle Search ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Larvitar",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Larvitar",
+            "to": "Pupitar",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

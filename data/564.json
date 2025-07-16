@@ -1,0 +1,100 @@
+{
+    "name": "Tirtouga",
+    "pokedex_number": "#0564",
+    "types": [
+        "Water",
+        "Rock"
+    ],
+    "abilities": [
+        "Solid Rock",
+        "Sturdy",
+        "Swift Swim"
+    ],
+    "stats": {
+        "HP": 54,
+        "Attack": 78,
+        "Defense": 103,
+        "Sp. Atk": 53,
+        "Sp. Def": 45,
+        "Speed": 22,
+        "Total": 355
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile.",
+            "White": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey.",
+            "Black 2": "This Pokémon was restored from a fossil. It swam skillfully and dove to depths beyond half a mile.",
+            "White 2": "This Pokémon was restored from a fossil. It swam skillfully and dove to depths beyond half a mile."
+        },
+        "Generation VI": {
+            "X": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey.",
+            "Y": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile.",
+            "Omega Ruby": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey.",
+            "Alpha Sapphire": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile."
+        },
+        "Generation VII": {
+            "Sun": "Based on studies of its skeletal structure, it can apparently dive to ocean depths of over half a mile.",
+            "Moon": "Reputed to be the ancestor of most turtle Pokémon, it lived in warm seas approximately a hundred million years ago.",
+            "Ultra Sun": "It was restored from an ancient fossil. Tirtouga lived in the sea but came up onto the land to search for prey.",
+            "Ultra Moon": "Its hunting grounds encompassed a broad area, from the land to more than half a mile deep in the ocean."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon inhabited ancient seas. Although it can only crawl, it still comes up onto land in search of prey.",
+            "Shield": "Tirtouga is considered to be the ancestor of many turtle Pokémon. It was restored to life from a fossil."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Revive from Cover Fossil at the Nacrene Museum",
+            "White": "Revive from Cover Fossil at the Nacrene Museum",
+            "Black 2": "Revive from Cover Fossil at the Nacrene Museum",
+            "White 2": "Revive from Cover Fossil at the Nacrene Museum",
+            "Dream World": "Sparkling Sea *"
+        },
+        "Generation VI": {
+            "X": "Revive from Cover Fossil at the Ambrette Town Fossil Lab",
+            "Y": "Revive from Cover Fossil at the Ambrette Town Fossil Lab",
+            "Omega Ruby": "Trade Receive Cover Fossil held by a traded Pokémon and revive it",
+            "Alpha Sapphire": "Revive from Cover Fossil at the Devon Corporation in Rustboro City"
+        },
+        "Generation VII": {
+            "Sun": "Revive from Cover Fossil at the Fossil Restoration Center on Route 8",
+            "Moon": "Trade Receive Cover Fossil held by a traded Pokémon and revive it",
+            "Ultra Sun": "Revive from Cover Fossil at the Fossil Restoration Center on Route 8",
+            "Ultra Moon": "Revive from Cover Fossil at the Fossil Restoration Center on Route 8",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Frigid Sea",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Tirtouga",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Tirtouga",
+            "to": "Carracosta",
+            "method": [
+                "Level 37"
+            ]
+        }
+    ]
+}

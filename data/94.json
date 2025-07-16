@@ -1,0 +1,155 @@
+{
+    "name": "Gengar",
+    "pokedex_number": "#0094",
+    "types": [
+        "Ghost",
+        "Poison"
+    ],
+    "abilities": [
+        "Cursed Body",
+        "Shadow Tag",
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Atk": 130,
+        "Sp. Def": 75,
+        "Speed": 110,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Under a full moon, this Pok é mon likes to mimic the shadows of people and laugh at their fright.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Under a full moon, this Pok é mon likes to mimic the shadows of people and laugh at their fright.",
+            "Yellow": "A Gengar is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
+            "Stadium": "Appears to attack people who get lost in the mountains. Said to be the culprit behind shadows that laugh in the moonlight."
+        },
+        "Generation II": {
+            "Gold": "It steals heat from its surroundings. If you feel a sudden chill, it is certain that a Gengar appeared.",
+            "Silver": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
+            "Crystal": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
+            "Stadium 2": "It steals heat from its surroundings. If you feel a sudden chill, it is certain that a Gengar appeared. (Pokémon Red, Silver, or Crystal inserted) To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+            "Sapphire": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+            "Emerald": "Deep in the night, your shadow cast by a streetlight may suddenly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+            "FireRed": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
+            "LeafGreen": "On the night of a full moon, if shadows move on their own and laugh, it must be Gengar 's doing."
+        },
+        "Generation IV": {
+            "Diamond": "It hides in shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 degrees F .",
+            "Pearl": "Lurking in the shadowy corners of rooms, it awaits chances to steal its prey's life force.",
+            "Platinum": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+            "HeartGold": "It steals heat from its surroundings. If you feel a sudden chill, it is certain that a Gengar appeared.",
+            "SoulSilver": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity."
+        },
+        "Generation V": {
+            "Black": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+            "White": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+            "Black 2": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+            "White 2": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people."
+        },
+        "Generation VI": {
+            "X": "It hides in shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 degrees Fahrenheit .",
+            "Y": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
+            "Omega Ruby": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+            "Alpha Sapphire": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow."
+        },
+        "Generation VII": {
+            "Sun": "Gengar's relationships are warped. It has no interest in opponents unless it perceives them as prey.",
+            "Moon": "The energy of Mega Evolution awakened it. It sinks into another dimension, where it keeps a patient watch for its chance to attack.",
+            "Ultra Sun": "It tries to take the lives of anyone and everyone. It will even try to curse the Trainer who is its master!",
+            "Ultra Moon": "Mega Evolution has made it possible for Gengar to access other dimensions. Its entire body is brimming with strange power.",
+            "Let's Go Pikachu": "It can pass through other dimensions and appear anywhere. It caused a stir one time when it stuck just one leg out of a wall.",
+            "Let's Go Eevee": "It can pass through other dimensions and appear anywhere. It caused a stir one time when it stuck just one leg out of a wall."
+        },
+        "Generation VIII": {
+            "Sword": "On the night of a full moon, if shadows move on their own and laugh, it must be Gengar's doing.",
+            "Shield": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
+            "Brilliant Diamond": "It hides in shadows. It is said that in rooms where Gengar is hiding, the temperature drops by nearly 10 degrees Fahrenheit .",
+            "Shining Pearl": "Lurking in the shadowy corners of rooms, it awaits chances to steal its prey's life-force.",
+            "Legends: Arceus": "Possesses potential victims' shadows in an effort to steal away the victims' lives. If your shadow begins to laugh, you must take hold of a protective charm posthaste!"
+        },
+        "Generation IX": {
+            "Scarlet": "To steal the life of its target, it slips into the prey’s shadow and silently waits for an opportunity.",
+            "Violet": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Haunter",
+            "Blue": "Evolve Haunter",
+            "Blue (Japan)": "Trade Machoke for Haunter in Cerulean City (evolves immediately)",
+            "Yellow": "Evolve Haunter"
+        },
+        "Generation II": {
+            "Gold": "Evolve Haunter",
+            "Silver": "Evolve Haunter",
+            "Crystal": "Evolve Haunter"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Haunter",
+            "LeafGreen": "Evolve Haunter",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Old Chateau (Any Gen III game)",
+            "Pearl": "Old Chateau (Any Gen III game)",
+            "Platinum": "Old Chateau (Any Gen III game)",
+            "HeartGold": "Evolve Haunter",
+            "SoulSilver": "Evolve Haunter",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Haunter",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Evolve Haunter",
+            "Y": "Evolve Haunter",
+            "Omega Ruby": "Trade , Event",
+            "Alpha Sapphire": "Trade , Event"
+        },
+        "Generation VII": {
+            "Sun": "Thrifty Megamart (Abandoned Site) ( SOS Battle )",
+            "Moon": "Thrifty Megamart (Abandoned Site) ( SOS Battle )",
+            "Ultra Sun": "Thrifty Megamart (Abandoned Site) ( SOS Battle )",
+            "Ultra Moon": "Thrifty Megamart (Abandoned Site) ( SOS Battle )",
+            "Let's Go Pikachu": "Evolve Haunter",
+            "Let's Go Eevee": "Evolve Haunter"
+        },
+        "Generation VIII": {
+            "Sword": "Giant's Cap ( Wanderer ) Giant's Mirror , South Lake Miloch , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Giant's Cap ( Wanderer ) Giant's Mirror , South Lake Miloch , Stony Wilderness ( Max Raid Battle ) Stony Wilderness ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Sword Expansion Pass": "Slippery Slope , Old Cemetery , Giant's Foot , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Shield Expansion Pass": "Slippery Slope , Old Cemetery , Giant's Foot , Frigid Sea , Ballimere Lake ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Brilliant Diamond": "Evolve Haunter",
+            "Shining Pearl": "Evolve Haunter",
+            "Legends: Arceus": "Obsidian Fieldlands : Space-time distortions Crimson Mirelands : massive mass outbreaks Coronet Highlands : massive mass outbreaks Alabaster Icelands : massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Pincurchin for Haunter in Levincia (evolves immediately) Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "Trade Pincurchin for Haunter in Levincia (evolves immediately) Tera Raid Battles ( 5★ , 6★ )",
+            "The Hidden Treasure of Area Zero": "Mossfell Confluence"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Haunter",
+            "to": "Gengar",
+            "method": [
+                "Trade"
+            ]
+        }
+    ]
+}

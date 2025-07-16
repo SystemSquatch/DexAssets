@@ -1,0 +1,108 @@
+{
+    "name": "Abomasnow",
+    "pokedex_number": "#0460",
+    "types": [
+        "Grass",
+        "Ice"
+    ],
+    "abilities": [
+        "Snow Warning",
+        "Soundproof",
+        "Snow Warning"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 92,
+        "Defense": 75,
+        "Sp. Atk": 92,
+        "Sp. Def": 85,
+        "Speed": 60,
+        "Total": 494
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It whips up blizzards in mountains that are always buried in snow. It is the abominable snowman.",
+            "Pearl": "It blankets wide areas in snow by whipping up blizzards. It is also known as \"The Ice Monster.\"",
+            "Platinum": "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.",
+            "HeartGold": "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",
+            "SoulSilver": "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards."
+        },
+        "Generation V": {
+            "Black": "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.",
+            "White": "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.",
+            "Black 2": "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.",
+            "White 2": "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again."
+        },
+        "Generation VI": {
+            "X": "It blankets wide areas in snow by whipping up blizzards. It is also known as \"The Ice Monster.\"",
+            "Y": "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",
+            "Omega Ruby": "It blankets wide areas in snow by whipping up blizzards. It is also known as \"The Ice Monster.\"",
+            "Alpha Sapphire": "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "If it sees any packs of Darumaka going after Snover, it chases them off, swinging its sizable arms like hammers.",
+            "Shield": "This Pokémon is known to bring blizzards. A shake of its massive body is enough to cause whiteout conditions.",
+            "Brilliant Diamond": "It whips up blizzards in mountains that are always buried in snow. It is the abominable snowman.",
+            "Shining Pearl": "It blankets wide areas in snow by whipping up blizzards. It is also known as the Ice Monster.",
+            "Legends: Arceus": "A powerful Pokémon that can split huge boulders with ease. Dislikes associating with others and chooses to live quietly deep within the mountains, playing with the snow."
+        },
+        "Generation IX": {
+            "Scarlet": "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",
+            "Violet": "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Mt. Coronet (Exterior)",
+            "Pearl": "Mt. Coronet (Exterior)",
+            "Platinum": "Mt. Coronet (Exterior)",
+            "HeartGold": "Evolve Pokéwalker Snover",
+            "SoulSilver": "Evolve Pokéwalker Snover"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Route 17",
+            "Y": "Route 17",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Cave World )",
+            "Ultra Moon": "Ultra Space Wilds ( Cave World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 10 , Dusty Bowl , Lake of Outrage Route 10 , Axew's Eye , Giant's Mirror , Giant's Seat , Hammerlocke Hills ( Wanderer ) Dusty Bowl , Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Route 10 , Dusty Bowl , Lake of Outrage Route 10 , Axew's Eye , Giant's Mirror , Giant's Seat , Hammerlocke Hills ( Wanderer ) Dusty Bowl , Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Frostpoint Field Slippery Slope , Frostpoint Field ( Wanderer ) Max Lair ( Dynamax Adventure ) Slippery Slope , Giant's Bed , Snowslide Slope , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Mount Coronet (Exterior)",
+            "Shining Pearl": "Mount Coronet (Exterior)",
+            "Legends: Arceus": "Coronet Highlands : massive mass outbreaks Alabaster Icelands : Bonechill Wastes (additional ), near Arena's Approach , near Avalugg's Legacy , Glacier Terrace , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Glaseado Mountain Tera Raid Battles ( 5★ )",
+            "Violet": "North Province: Glaseado Mountain Tera Raid Battles ( 5★ )",
+            "The Hidden Treasure of Area Zero": "Chargestone Cavern , Polar Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Snover",
+            "to": "Abomasnow",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

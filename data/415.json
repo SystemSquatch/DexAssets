@@ -1,0 +1,115 @@
+{
+    "name": "Combee",
+    "pokedex_number": "#0415",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "abilities": [
+        "Honey Gather",
+        "Hustle"
+    ],
+    "stats": {
+        "HP": 30,
+        "Attack": 30,
+        "Defense": 42,
+        "Sp. Atk": 30,
+        "Sp. Def": 42,
+        "Speed": 70,
+        "Total": 244
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "A Pokémon formed by three others. It busily carries sweet floral honey to Vespiquen .",
+            "Pearl": "It collects and delivers honey to its colony. At night, they cluster to form a beehive and sleep.",
+            "Platinum": "The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen .",
+            "HeartGold": "At night, Combee sleep in a group of about a thousand, packed closely together in a lump.",
+            "SoulSilver": "At night, Combee sleep in a group of about a thousand, packed closely together in a lump."
+        },
+        "Generation V": {
+            "Black": "The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.",
+            "White": "The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.",
+            "Black 2": "This Pokémon is a set of three. When they sleep, they gather up and form a giant hive of 100 Combee.",
+            "White 2": "This Pokémon is a set of three. When they sleep, they gather up and form a giant hive of 100 Combee."
+        },
+        "Generation VI": {
+            "X": "The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.",
+            "Y": "It collects and delivers honey to its colony. At night, they cluster to form a beehive and sleep.",
+            "Omega Ruby": "The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.",
+            "Alpha Sapphire": "It collects and delivers honey to its colony. At night, they cluster to form a beehive and sleep."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "The members of the trio spend all their time together. Each one has a slightly different taste in nectar.",
+            "Shield": "It ceaselessly gathers nectar from sunrise to sundown, all for the sake of Vespiquen and the swarm.",
+            "Brilliant Diamond": "Three Pokémon joined to become one. It busily carries sweet nectar to Vespiquen.",
+            "Shining Pearl": "They collect and deliver honey to their colony. At night, they cluster to form a beehive and sleep.",
+            "Legends: Arceus": "They swear fealty to a queen Pokémon and work diligently to gather nectar. Each swarm produces a different flavor of honey."
+        },
+        "Generation IX": {
+            "Scarlet": "At night, Combee sleep in a group of about a hundred, packed closely together in a lump.",
+            "Violet": "The trio is together from birth. It constantly gathers nectar from flowers to please Vespiquen."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "Pearl": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "Platinum": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "HeartGold": "Routes 5 , 6 , 7 , 8 , 11 , 16 , 25 , Vermilion City , Celadon City , Cerulean City ( Headbutt trees ) National Park ( Bug-Catching Contest ) Th Sa",
+            "SoulSilver": "Routes 5 , 6 , 7 , 8 , 11 , 16 , 25 , Vermilion City , Celadon City , Cerulean City ( Headbutt trees ) National Park ( Bug-Catching Contest ) Th Sa",
+            "Pokéwalker": "Sinnoh Field"
+        },
+        "Generation V": {
+            "Black": "Route 12",
+            "White": "Route 12",
+            "Black 2": "Route 12 and Lostlorn Forest Lostlorn Forest ( Hidden Grotto )",
+            "White 2": "Route 12 and Lostlorn Forest Lostlorn Forest ( Hidden Grotto )",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Route 4 , Berry fields , Friend Safari ( Bug )",
+            "Y": "Route 4 , Berry fields , Friend Safari ( Bug )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields Bridge Field , South Lake Miloch ( Max Raid Battle )",
+            "Shield": "Rolling Fields Bridge Field , South Lake Miloch ( Max Raid Battle )",
+            "Expansion Pass": "Honeycalm Island Honeycalm Island ( Max Raid Battle )",
+            "Brilliant Diamond": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees ) Grand Underground - Grassland Cave , Sunlit Cavern",
+            "Shining Pearl": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees ) Grand Underground - Grassland Cave , Sunlit Cavern",
+            "Legends: Arceus": "Obsidian Fieldlands : Grueling Grove , near The Heartwood , near Oreburrow Tunnel Crimson Mirelands : Cloudpool Ridge , near Cottonsedge Prairie , near Droning Meadow , near Lake Valor Cobalt Coastlands : Aipom Hill Obsidian Fieldlands: The Heartwood, near Grandtree Arena , near Oreburrow Tunnel, Ramanas Island Shaking trees Crimson Mirelands: Cottonsedge Prairie, Droning Meadow Shaking trees Cobalt Coastlands: Aipom Hill Shaking trees"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Four East Province: East Paldean Sea West Province: Area One Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two , Area Four East Province: East Paldean Sea West Province: Area One Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Combee",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Combee",
+            "to": "Vespiquen",
+            "method": [
+                "Level 21 ((Female only))"
+            ]
+        }
+    ]
+}

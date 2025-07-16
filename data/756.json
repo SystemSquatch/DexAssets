@@ -1,0 +1,68 @@
+{
+    "name": "Shiinotic",
+    "pokedex_number": "#0756",
+    "types": [
+        "Grass",
+        "Fairy"
+    ],
+    "abilities": [
+        "Illuminate",
+        "Effect Spore",
+        "Rain Dish"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 80,
+        "Sp. Atk": 90,
+        "Sp. Def": 100,
+        "Speed": 30,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Forests where Shiinotic live are treacherous to enter at night. People confused by its strange lights can never find their way home again.",
+            "Moon": "It emits flickering spores that cause drowsiness. When its prey succumb to sleep, this Pokémon feeds on them by sucking in their energy.",
+            "Ultra Sun": "It puts its prey to sleep and siphons off their vitality through the tip of its arms. If one of its kind is weakened, it helps by sending it vitality.",
+            "Ultra Moon": "When it starts fighting for territory with Parasect, the entire area gets completely coated in spores!"
+        },
+        "Generation VIII": {
+            "Sword": "Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.",
+            "Shield": "If you see a light deep in a forest at night, don't go near. Shiinotic will make you fall fast asleep."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Evolve Morelull",
+            "Moon": "Evolve Morelull",
+            "Ultra Sun": "Route 11 Night",
+            "Ultra Moon": "Route 11 Night",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Glimwood Tangle Rolling Fields , Dappled Grove , Bridge Field , Stony Wilderness , Giant's Mirror , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Glimwood Tangle Rolling Fields , Dappled Grove , Bridge Field , Stony Wilderness , Giant's Mirror , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Morelull",
+            "to": "Shiinotic",
+            "method": [
+                "Level 24"
+            ]
+        }
+    ]
+}

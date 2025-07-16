@@ -1,0 +1,153 @@
+{
+    "name": "Golduck",
+    "pokedex_number": "#0055",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Damp",
+        "Cloud Nine",
+        "Swift Swim"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 78,
+        "Sp. Atk": 95,
+        "Sp. Def": 80,
+        "Speed": 85,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa .",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa .",
+            "Yellow": "Its slim and long limbs end in broad flippers. They are used for swimming gracefully in lakes.",
+            "Stadium": "Its webbed hands and feet make it a proficient swimmer. May be seen swimming elegantly at dusk in places like lakes."
+        },
+        "Generation II": {
+            "Gold": "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.",
+            "Silver": "It appears by waterways at dusk. It may use telekinetic powers if its forehead glows mysteriously.",
+            "Crystal": "It swims gracefully along on the quiet, slow-moving rivers and lakes of which it is so fond.",
+            "Stadium 2": "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow. (Pokémon Red, Silver, or Crystal inserted) It appears by waterways at dusk. It may use telekinetic powers if its forehead glows mysteriously. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "The webbed flippers on its forelegs and hind legs and the streamlined body of Golduck give it frightening speed. This Pok é mon is definitely much faster than even the most athletic swimmer.",
+            "Sapphire": "Golduck is the fastest swimmer among all Pok é mon . It swims effortlessly, even in a rough, stormy sea. It sometimes rescues people from wrecked ships floundering in high seas.",
+            "Emerald": "A Golduck is an adept swimmer. It sometimes joins competitive swimmers in training. It uses psychic powers when its forehead shimmers with light.",
+            "FireRed": "The forelegs are webbed, helping to make it an adept swimmer. It can be seen swimming elegantly in lakes, etc.",
+            "LeafGreen": "Often seen swimming elegantly by lakeshores. It is often mistaken for the Japanese monster Kappa."
+        },
+        "Generation IV": {
+            "Diamond": "A Pokémon that lives in lakes. It swims faster than any human swimming champion.",
+            "Pearl": "The flippers of its well-developed limbs give it shocking speed. It is the best swimmer among Pokémon.",
+            "Platinum": "It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.",
+            "HeartGold": "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.",
+            "SoulSilver": "It appears by waterways at dusk. It may use telekinetic powers if its forehead glows mysteriously."
+        },
+        "Generation V": {
+            "Black": "It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.",
+            "White": "It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.",
+            "Black 2": "When its forehead shines mysteriously, Golduck can use the full extent of its power.",
+            "White 2": "When its forehead shines mysteriously, Golduck can use the full extent of its power."
+        },
+        "Generation VI": {
+            "X": "It appears by waterways at dusk. It may use telekinetic powers if its forehead glows mysteriously.",
+            "Y": "The forelegs are webbed, helping to make it an adept swimmer. It can be seen swimming elegantly in lakes, etc.",
+            "Omega Ruby": "The webbed flippers on its forelegs and hind legs and the streamlined body of Golduck give it frightening speed. This Pokémon is definitely much faster than even the most athletic swimmer.",
+            "Alpha Sapphire": "Golduck is the fastest swimmer among all Pokémon. It swims effortlessly, even in a rough, stormy sea. It sometimes rescues people from wrecked ships floundering in high seas."
+        },
+        "Generation VII": {
+            "Sun": "It is said that the red part of its forehead grants supernatural powers to those who possess one, so it was over-hunted in the past.",
+            "Moon": "It swims along the banks of lakes and catches fish Pokémon. It takes them to the shore and quietly eats them up.",
+            "Ultra Sun": "Even fast-swimming fish Pokémon can be disabled by Golduck. It brings them to a standstill and seizes them.",
+            "Ultra Moon": "A professional swimmer, it can continue swimming for two days straight by waving its long tail skillfully.",
+            "Let's Go Pikachu": "Its long, slim limbs end in broad flippers. They are used for swimming gracefully in lakes.",
+            "Let's Go Eevee": "Its long, slim limbs end in broad flippers. They are used for swimming gracefully in lakes."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon lives in gently flowing rivers. It paddles through the water with its long limbs, putting its graceful swimming skills on display.",
+            "Shield": "Old tales tell of Golduck punishing those that defiled its river. The guilty were dragged into the water and taken away.",
+            "Brilliant Diamond": "This Pokémon lives in lakes. It swims faster than any world-class swimmer.",
+            "Shining Pearl": "The flippers of its well-developed limbs give it shocking speed. It is the best swimmer among Pokémon.",
+            "Legends: Arceus": "Its body is strong, and it has webbing on its hands and feet. Golduck can swim easily through rough seas, clawing its way through the high waves."
+        },
+        "Generation IX": {
+            "Scarlet": "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.",
+            "Violet": "It swims gracefully along on the quiet, slow- moving rivers and lakes of which it is so fond."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Seafoam Islands",
+            "Blue": "Seafoam Islands",
+            "Blue (Japan)": "Evolve Psyduck",
+            "Yellow": "Route 6 ( Surfing )"
+        },
+        "Generation II": {
+            "Gold": "Routes 6 and 35 , Ilex Forest ( Surfing ) Mt. Silver Cave *",
+            "Silver": "Routes 6 and 35 , Ilex Forest ( Surfing ) Mt. Silver Cave *",
+            "Crystal": "Routes 6 and 35 , Ilex Forest , Mt. Silver Cave * ( Surfing ) Mt. Silver Cave * Night"
+        },
+        "Generation III": {
+            "Ruby": "Safari Zone ( Surfing )",
+            "Sapphire": "Safari Zone ( Surfing )",
+            "Emerald": "Safari Zone ( Surfing )",
+            "FireRed": "Cerulean Cave , Seafoam Islands , Berry Forest , Cape Brink ( Surfing ) Seafoam Islands , Cape Brink",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle ( Shadow )"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 203 , 204 , 205 , 208 , 209 , 210 , 212 , 214 , and 225 , Twinleaf Town , Eterna City , Celestic Town , Ravaged Path , Oreburgh Gate , Lake Verity , Lake Acuity , Lake Valor , Sendoff Spring , Resort Area ( Surfing ) Routes 226 and 230 , Great Marsh , Sendoff Spring (walking and Surfing )",
+            "Pearl": "Routes 203 , 204 , 205 , 208 , 209 , 210 , 212 , 214 , and 225 , Twinleaf Town , Eterna City , Celestic Town , Ravaged Path , Oreburgh Gate , Lake Verity , Lake Acuity , Lake Valor , Sendoff Spring , Resort Area ( Surfing ) Routes 226 and 230 , Great Marsh , Sendoff Spring (walking and Surfing )",
+            "Platinum": "Routes 203 , 204 , 205 , 208 , 209 , 210 , 212 , 214 , and 225 , Twinleaf Town , Eterna City , Celestic Town , Ravaged Path , Oreburgh Gate , Lake Verity , Lake Acuity , Lake Valor , Sendoff Spring , Resort Area ( Surfing ) Lake Acuity , Lake Valor (walking and Surfing )",
+            "HeartGold": "Routes 6 and 35 , Ilex Forest , Cerulean Cave ( Surfing ) Mt. Silver Cave , Seafoam Islands Safari Zone (Wasteland with 3 Waterside points; tall grass in Wetland, default Night , and with 5 Peak points; Surfing in Wasteland with 4 Waterside points, and with 6 Waterside points)",
+            "SoulSilver": "Routes 6 and 35 , Ilex Forest , Cerulean Cave ( Surfing ) Mt. Silver Cave , Seafoam Islands Safari Zone (Wasteland with 3 Waterside points; tall grass in Wetland, default Night , and with 5 Peak points; Surfing in Wasteland with 4 Waterside points, and with 6 Waterside points)",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Routes 11 and 14 , Village Bridge",
+            "White": "Routes 11 and 14 , Village Bridge",
+            "Black 2": "Routes 11 , 14 , 22 , and 23 , Village Bridge , Seaside Cave , Abundant Shrine , Nature Preserve Route 23 , Abundant Shrine * ( Hidden Grotto )",
+            "White 2": "Routes 11 , 14 , 22 , and 23 , Village Bridge , Seaside Cave , Abundant Shrine , Nature Preserve Route 23 , Abundant Shrine * ( Hidden Grotto )"
+        },
+        "Generation VI": {
+            "X": "Evolve Psyduck",
+            "Y": "Evolve Psyduck",
+            "Omega Ruby": "Evolve Psyduck",
+            "Alpha Sapphire": "Evolve Psyduck"
+        },
+        "Generation VII": {
+            "Sun": "Poni Gauntlet Vast Poni Canyon ( Surfing )",
+            "Moon": "Poni Gauntlet Vast Poni Canyon ( Surfing )",
+            "Ultra Sun": "Poni Gauntlet Vast Poni Canyon ( Surfing )",
+            "Ultra Moon": "Poni Gauntlet Vast Poni Canyon ( Surfing )",
+            "Let's Go Pikachu": "Cerulean Cave",
+            "Let's Go Eevee": "Cerulean Cave"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Forest of Focus , Training Lowlands , Brawlers' Cave ( Wanderer ) Soothing Wetlands , Forest of Focus , Challenge Beach , Courageous Cavern ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Routes 203 , 204 , 205 , 208 , 209 , 210 , 212 , 214 , and 225 , Twinleaf Town , Eterna City , Celestic Town , Ravaged Path , Oreburgh Gate , Lake Verity , Lake Acuity , Lake Valor , Sendoff Spring , Resort Area ( Surfing ) Routes 226 and 230 , Great Marsh , Sendoff Spring",
+            "Shining Pearl": "Routes 203 , 204 , 205 , 208 , 209 , 210 , 212 , 214 , and 225 , Twinleaf Town , Eterna City , Celestic Town , Ravaged Path , Oreburgh Gate , Lake Verity , Lake Acuity , Lake Valor , Sendoff Spring , Resort Area ( Surfing ) Routes 226 and 230 , Great Marsh , Sendoff Spring",
+            "Legends: Arceus": "Obsidian Fieldlands : The Heartwood ( mass outbreaks ) Crimson Mirelands : Golden Lowlands (mass outbreaks), Holm of Trials , massive mass outbreaks Cobalt Coastlands : Bathers' Lagoon (additional ), massive mass outbreaks Coronet Highlands : Wayward Wood , Lonely Spring"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six South Province: Area Four ( Psychic Tera Type ) North Province: Area One , Area Three , Casseroya Lake , Glaseado Mountain Area Zero Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Area Six South Province: Area Four ( Psychic Tera Type ) North Province: Area One , Area Three , Casseroya Lake , Glaseado Mountain Area Zero Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Psyduck",
+            "to": "Golduck",
+            "method": [
+                "Level 33"
+            ]
+        }
+    ]
+}

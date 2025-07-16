@@ -1,0 +1,52 @@
+{
+    "name": "Rellor",
+    "pokedex_number": "#0953",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Compound Eyes",
+        "Shed Skin"
+    ],
+    "stats": {
+        "HP": 41,
+        "Attack": 50,
+        "Defense": 60,
+        "Sp. Atk": 31,
+        "Sp. Def": 58,
+        "Speed": 30,
+        "Total": 270
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.",
+            "Violet": "It rolls its mud ball around while the energy it needs for evolution matures. Eventually the time comes for it to evolve."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "West Province: Asado Desert Tera Raid Battles ( 1★ )",
+            "Violet": "West Province: Asado Desert Tera Raid Battles ( 1★ )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Rellor",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Rellor",
+            "to": "Rabsca",
+            "method": [
+                "Other"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "name": "Salamence",
+    "pokedex_number": "#0373",
+    "types": [
+        "Dragon",
+        "Flying"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Moxie",
+        "Aerilate"
+    ],
+    "stats": {
+        "HP": 95,
+        "Attack": 135,
+        "Defense": 80,
+        "Sp. Atk": 110,
+        "Sp. Def": 80,
+        "Speed": 100,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Salamence came about as a result of a strong, long-held dream of growing wings. It is said that this powerful desire triggered a sudden mutation in this Pok é mon 's cells, causing it to sprout its magnificent wings.",
+            "Sapphire": "By evolving into Salamence , this Pok é mon finally realizes its long-held dream of growing wings. To express its joy, it flies and wheels all over the sky while spouting flames from its mouth.",
+            "Emerald": "After many long years, its cellular structure underwent a sudden mutation to grow wings. When angered, it loses all thought and rampages out of control.",
+            "FireRed": "It becomes uncontrollable if it is enraged. It destroys everything with shredding claws and fire.",
+            "LeafGreen": "It becomes uncontrollable if it is enraged. It destroys everything with shredding claws and fire."
+        },
+        "Generation IV": {
+            "Diamond": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+            "Pearl": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+            "Platinum": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+            "HeartGold": "It's uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains.",
+            "SoulSilver": "It's uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains."
+        },
+        "Generation V": {
+            "Black": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+            "White": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+            "Black 2": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+            "White 2": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out."
+        },
+        "Generation VI": {
+            "X": "It becomes uncontrollable if it is enraged. It destroys everything with shredding claws and fire.",
+            "Y": "It's uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains.",
+            "Omega Ruby": "Salamence came about as a result of a strong, long-held dream of growing wings. It is said that this powerful desire triggered a sudden mutation in this Pokémon's cells, causing it to sprout its magnificent wings.",
+            "Alpha Sapphire": "By evolving into Salamence, this Pokémon finally realizes its long-held dream of growing wings. To express its joy, it flies and wheels all over the sky while spouting flames from its mouth."
+        },
+        "Generation VII": {
+            "Sun": "Anyone standing in its path gets sliced right in two, while this Pokémon continues its flight without interruption.",
+            "Moon": "Mega Evolution fuels its brutality, and it may even turn on the Trainer who raised it. It's been dubbed \"the blood-soaked crescent.\"",
+            "Ultra Sun": "The stress of its two proud wings becoming misshapen and stuck together because of strong energy makes it go on a rampage.",
+            "Ultra Moon": "It puts its forelegs inside its shell to streamline itself for flight. Salamence flies at high speeds over all kinds of topographical features."
+        },
+        "Generation VIII": {
+            "Sword": "Salamence is an unusual Pokémon in that it was able to evolve a body with wings just by constantly wishing to be able to fly.",
+            "Shield": "While basking in the joy of flight generally keeps this Pokémon in high spirits, Salamence turns into an uncontrollable menace if something angers it.",
+            "Brilliant Diamond": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+            "Shining Pearl": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out."
+        },
+        "Generation IX": {
+            "Scarlet": "It flies around on its wings, which have grown in at last. In its happiness, it gushes hot flames, burning up everything it passes over.",
+            "Violet": "It becomes uncontrollable if it is enraged. It destroys everything with shredding claws and fire."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Shelgon",
+            "Sapphire": "Evolve Shelgon",
+            "Emerald": "Evolve Shelgon",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Trade , Event",
+            "Pearl": "Evolve Shelgon",
+            "Platinum": "Evolve Shelgon",
+            "HeartGold": "Evolve Shelgon",
+            "SoulSilver": "Evolve Shelgon",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade , Event",
+            "White": "Evolve Shelgon",
+            "Black 2": "Evolve Shelgon",
+            "White 2": "Evolve Shelgon"
+        },
+        "Generation VI": {
+            "X": "Evolve Shelgon",
+            "Y": "Evolve Shelgon",
+            "Omega Ruby": "Evolve Shelgon",
+            "Alpha Sapphire": "Evolve Shelgon"
+        },
+        "Generation VII": {
+            "Sun": "Route 3 ( SOS Battle )",
+            "Moon": "Route 3 ( SOS Battle )",
+            "Ultra Sun": "Route 3 ( SOS Battle )",
+            "Ultra Moon": "Route 3 ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Sword Expansion Pass": "Tunnel to the Top , Path to the Peak ( Wanderer ) Giant's Bed , Path to the Peak , Ballimere Lake , Three-Point Pass , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Evolve Shelgon",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battle Search ( 5★ , 6★ )",
+            "Violet": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Shelgon",
+            "to": "Salamence",
+            "method": [
+                "Level 50"
+            ]
+        }
+    ]
+}

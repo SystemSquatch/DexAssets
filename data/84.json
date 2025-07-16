@@ -1,0 +1,155 @@
+{
+    "name": "Doduo",
+    "pokedex_number": "#0084",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Run Away",
+        "Early Bird",
+        "Tangled Feet"
+    ],
+    "stats": {
+        "HP": 35,
+        "Attack": 85,
+        "Defense": 45,
+        "Sp. Atk": 35,
+        "Sp. Def": 35,
+        "Speed": 75,
+        "Total": 310
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
+            "Yellow": "Its short wings make flying difficult. Instead, this Pok é mon runs at high speed on developed legs.",
+            "Stadium": "A Pokémon with two heads. More skilled at running than flying, it is capable of racing at speeds over 60 mph ."
+        },
+        "Generation II": {
+            "Gold": "By alternately raising and lowering its two heads, it balances itself to be more stable while running.",
+            "Silver": "It races through grassy plains with powerful strides, leaving footprints up to four inches deep.",
+            "Crystal": "It lives on a grassy plain where it can see a long way. If it sees an enemy, it runs away at 60 mph .",
+            "Stadium 2": "By alternately raising and lowering its two heads, it balances itself to be more stable while running. (Pokémon Red, Silver, or Crystal inserted) It races through grassy plains with powerful strides, leaving foot prints up to four inches deep. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Doduo 's two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps.",
+            "Sapphire": "Doduo 's two heads contain completely identical brains. A scientific study reported that on rare occasions, there will be examples of this Pok é mon possessing different sets of brains.",
+            "Emerald": "Even while eating or sleeping, one of the heads remains always vigilant for any sign of danger. When threatened, it flees at over 60 miles per hour .",
+            "FireRed": "A two-headed Pok é mon that was discovered as a sudden mutation. It runs at a pace of over 60 miles per hour .",
+            "LeafGreen": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints."
+        },
+        "Generation IV": {
+            "Diamond": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+            "Pearl": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+            "Platinum": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+            "HeartGold": "By alternately raising and lowering its two heads, it balances itself to be more stable while running.",
+            "SoulSilver": "It races through grassy plains with powerful strides, leaving footprints up to four inches deep."
+        },
+        "Generation V": {
+            "Black": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+            "White": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+            "Black 2": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+            "White 2": "The brains in its two heads appear to communicate emotions to each other with a telepathic power."
+        },
+        "Generation VI": {
+            "X": "A two-headed Pokémon that was discovered as a sudden mutation. It runs at a pace of over 60 miles per hour.",
+            "Y": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+            "Omega Ruby": "Doduo's two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps.",
+            "Alpha Sapphire": "Doduo's two heads contain completely identical brains. A scientific study reported that on rare occasions, there will be examples of this Pokémon possessing different sets of brains."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs.",
+            "Let's Go Eevee": "Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+            "Shining Pearl": "The brains in its two heads appear to communicate emotions to each other with a telepathic power."
+        },
+        "Generation IX": {
+            "Scarlet": "Its twin heads have exactly the same genes and battle in perfect sync with each other.",
+            "Violet": "Its heads never sleep at the same time—each one takes a turn keeping watch while the other sleeps, switching every hour or so."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 16 , 17 , and 18 , Safari Zone",
+            "Blue": "Routes 16 , 17 , and 18 , Safari Zone",
+            "Blue (Japan)": "Routes 16 , 17 , and 18 , Safari Zone",
+            "Yellow": "Routes 16 , 17 , and 18"
+        },
+        "Generation II": {
+            "Gold": "Routes 22 , 26 , 27 , and 28 , Mt. Silver Morning Day",
+            "Silver": "Routes 22 , 26 , 27 , and 28 , Mt. Silver Morning Day",
+            "Crystal": "Routes 22 , 26 , 27 , and 28 , Mt. Silver Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Safari Zone",
+            "Sapphire": "Safari Zone",
+            "Emerald": "Safari Zone",
+            "FireRed": "Routes 16 , 17 , and 18 , Safari Zone",
+            "LeafGreen": "Routes 16 , 17 , and 18 , Safari Zone",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 201 ( Swarm )",
+            "Pearl": "Route 201 ( Swarm )",
+            "Platinum": "Route 201 ( Swarm )",
+            "HeartGold": "Routes 22 , 26 , 27 , and 28 , Mt. Silver Morning Day Safari Zone (tall grass in Rocky Beach, default Morning Day ; tall grass in Wetland with 4 Peak points)",
+            "SoulSilver": "Routes 22 , 26 , 27 , and 28 , Mt. Silver Morning Day Safari Zone (tall grass in Rocky Beach, default Morning Day ; tall grass in Wetland with 4 Peak points)",
+            "Pal Park": "Field",
+            "Pokéwalker": "Refreshing Field"
+        },
+        "Generation V": {
+            "Black": "Route 12 ( Swarm )",
+            "White": "Route 12 ( Swarm )",
+            "Black 2": "Route 12 ( Swarm )",
+            "White 2": "Route 12 ( Swarm )",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Route 5 , Friend Safari ( Flying )",
+            "Y": "Route 5 , Friend Safari ( Flying )",
+            "Omega Ruby": "Safari Zone",
+            "Alpha Sapphire": "Safari Zone"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Routes 16 , 17 , and 18",
+            "Let's Go Eevee": "Routes 16 , 17 , and 18"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 201 ( Swarm ) Grand Underground - Spacious Cave , Grassland Cave , Sunlit Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 201 ( Swarm ) Grand Underground - Spacious Cave , Grassland Cave , Sunlit Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Savanna Biome Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Doduo",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Doduo",
+            "to": "Dodrio",
+            "method": [
+                "Level 31"
+            ]
+        }
+    ]
+}

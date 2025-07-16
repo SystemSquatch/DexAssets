@@ -1,0 +1,89 @@
+{
+    "name": "Scolipede",
+    "pokedex_number": "#0545",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "abilities": [
+        "Poison Point",
+        "Swarm",
+        "Speed Boost",
+        "Quick Feet"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 89,
+        "Sp. Atk": 55,
+        "Sp. Def": 69,
+        "Speed": 112,
+        "Total": 475
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
+            "White": "Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them.",
+            "Black 2": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
+            "White 2": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison."
+        },
+        "Generation VI": {
+            "X": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
+            "Y": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
+            "Omega Ruby": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
+            "Alpha Sapphire": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claw's toxic spikes.",
+            "Shield": "Scolipede engage in fierce territorial battles with Centiskorch . At the end of one of these battles, the victor makes a meal of the loser."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Whirlipede",
+            "White": "Evolve Whirlipede",
+            "Black 2": "Pinwheel Forest (inner; rustling grass )",
+            "White 2": "Pinwheel Forest (inner; rustling grass )",
+            "Dream World": "Pleasant Forest *"
+        },
+        "Generation VI": {
+            "X": "Evolve Whirlipede",
+            "Y": "Evolve Whirlipede",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Whirlipede",
+            "Moon": "Evolve Whirlipede",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Forest of Focus ( Wanderer ) Fields of Honor , Soothing Wetlands , Forest of Focus , Training Lowlands , Workout Sea , Stepping-Stone Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Whirlipede",
+            "to": "Scolipede",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

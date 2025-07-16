@@ -1,0 +1,141 @@
+{
+    "name": "Pupitar",
+    "pokedex_number": "#0247",
+    "types": [
+        "Rock",
+        "Ground"
+    ],
+    "abilities": [
+        "Shed Skin"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 84,
+        "Defense": 70,
+        "Sp. Atk": 65,
+        "Sp. Def": 70,
+        "Speed": 51,
+        "Total": 410
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Its shell is as hard as sheet rock, and it is also very strong. Its Thrashing can topple a mountain.",
+            "Silver": "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.",
+            "Crystal": "It will not stay still, even while it's a pupa. It already has arms and legs under its solid shell.",
+            "Stadium 2": "Its shell is as hard as sheet rock, and it is also very strong. Its Thrash ing can topple a mountain. (Pokémon Red, Silver, or Crystal inserted) Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable - it avoids damage even if it hits solid steel.",
+            "Sapphire": "Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable - it avoids damage even if it hits solid steel.",
+            "Emerald": "A Pupitar creates a gas inside its body that it ejects under compression to propel itself like a jet. Its body can withstand a collision with solid steel.",
+            "FireRed": "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.",
+            "LeafGreen": "Its shell is as hard as sheet rock, and it is also very strong. Its Thrashing can topple a mountain."
+        },
+        "Generation IV": {
+            "Diamond": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
+            "Pearl": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
+            "Platinum": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
+            "HeartGold": "Its shell is as hard as sheet rock, and it is also very strong. Its thrashing can topple a mountain.",
+            "SoulSilver": "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power."
+        },
+        "Generation V": {
+            "Black": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
+            "White": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
+            "Black 2": "This pupa flies around wildly by venting with great force the gas pressurized inside its body.",
+            "White 2": "This pupa flies around wildly by venting with great force the gas pressurized inside its body."
+        },
+        "Generation VI": {
+            "X": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
+            "Y": "Its shell is as hard as sheet rock, and it is also very strong. Its thrashing can topple a mountain.",
+            "Omega Ruby": "Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable—it avoids damage even if it hits solid steel.",
+            "Alpha Sapphire": "Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable—it avoids damage even if it hits solid steel."
+        },
+        "Generation VII": {
+            "Ultra Sun": "This troublesome Pokémon can't wait to evolve, so it relieves its stress by wildly propelling itself around using compressed gas.",
+            "Ultra Moon": "This dangerous pupa thrashes about. Its shell is as hard as bedrock, containing its gradually forming new body within."
+        },
+        "Generation VIII": {
+            "Sword": "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.",
+            "Shield": "It will not stay still, even while it's a pupa. It already has arms and legs under its solid shell.",
+            "Brilliant Diamond": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
+            "Shining Pearl": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket."
+        },
+        "Generation IX": {
+            "Scarlet": "This pupa flies around wildly by venting with great force the gas pressurized inside its body.",
+            "Violet": "Its shell is as hard as bedrock, and it is also very strong. Its thrashing can topple a mountain."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Larvitar",
+            "Silver": "Evolve Larvitar",
+            "Crystal": "Mt. Silver Cave Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Evolve Larvitar",
+            "LeafGreen": "Evolve Larvitar",
+            "Colosseum": "Trade",
+            "XD": "Evolve Larvitar"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Larvitar",
+            "Pearl": "Trade",
+            "Platinum": "Evolve Larvitar",
+            "HeartGold": "Mt. Silver Cave",
+            "SoulSilver": "Mt. Silver Cave",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Route 15",
+            "White": "Route 15",
+            "Black 2": "Route 15",
+            "White 2": "Route 15"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Rock )",
+            "Y": "Route 18 , Terminus Cave , Friend Safari ( Rock )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Larvitar",
+            "Ultra Moon": "Evolve Larvitar",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade , Evolve Dynamax Crystal Larvitar , Wild Area News",
+            "Shield": "Lake of Outrage Giant's Seat , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Brilliant Diamond": "Grand Underground - Rocky Cave , Big Bluff Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Alfornada Cavern North Province: Area Two Tera Raid Battles ( 4★ )",
+            "Violet": "Union Circle Tera Raid Battle Search ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Larvitar",
+            "to": "Pupitar",
+            "method": [
+                "Level 30"
+            ]
+        },
+        {
+            "from": "Pupitar",
+            "to": "Tyranitar",
+            "method": [
+                "Level 55"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Cramorant",
+    "pokedex_number": "#0845",
+    "types": [
+        "Flying",
+        "Water"
+    ],
+    "abilities": [
+        "Gulp Missile"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 55,
+        "Sp. Atk": 85,
+        "Sp. Def": 95,
+        "Speed": 85,
+        "Total": 475
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "This Cramorant has accidentally gotten a Pikachu lodged in its gullet. Cramorant is choking a little, but it isn't really bothered.",
+            "Shield": "The half-swallowed Pikachu is so startled that it isn't struggling yet, but it's still looking for a chance to strike back."
+        },
+        "Generation IX": {
+            "Scarlet": "Its throat is clearly not wide enough to swallow a Pikachu, and yet Cramorant makes no move to release its catch.",
+            "Violet": "With a Pikachu stuck in its throat, Cramorant can use Pikachu's prickling electricity to give its opponents a shock."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Route 9 , Bridge Field , Lake of Outrage , Stony Wilderness Axew's Eye ( Wanderer ) Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Route 9 , Bridge Field , Lake of Outrage , Stony Wilderness Axew's Eye ( Wanderer ) Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Challenge Beach , Forest of Focus , Training Lowlands Challenge Beach , Forest of Focus ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Fellhorn Gorge , Kitakami Wilds Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero (Violet)": "Union Circle Tera Raid Battle Search ( 4★ )"
+        }
+    },
+    "evolution": []
+}

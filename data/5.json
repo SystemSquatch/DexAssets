@@ -1,0 +1,155 @@
+{
+    "name": "Charmeleon",
+    "pokedex_number": "#0005",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Blaze",
+        "Solar Power"
+    ],
+    "stats": {
+        "HP": 58,
+        "Attack": 64,
+        "Defense": 58,
+        "Sp. Atk": 80,
+        "Sp. Def": 65,
+        "Speed": 80,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
+            "Yellow": "Tough fights could excite this Pok é mon . When excited, it may blow out bluish-white flames.",
+            "Stadium": "It appears to be very vicious. It attacks with razor-sharp claws and won't stop until the enemy is defeated."
+        },
+        "Generation II": {
+            "Gold": "It is very hot-headed by nature, so it constantly seeks opponents. It calms down only when it wins.",
+            "Silver": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+            "Crystal": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
+            "Stadium 2": "It is very hot-headed by nature, so it constantly seeks opponents. It calms down only when it wins. (Pokémon Red, Silver, or Crystal inserted) It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
+            "Sapphire": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
+            "Emerald": "Without pity, its sharp claws destroy foes. If it encounters a strong enemy, it becomes agitated, and the flame on its tail flares with a bluish white color.",
+            "FireRed": "It lashes about with its tail to knock down its foe. It then tears up the fallen opponent with sharp claws.",
+            "LeafGreen": "When it swings its burning tail, it elevates the air temperature to  unbearably high levels."
+        },
+        "Generation IV": {
+            "Diamond": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
+            "Pearl": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
+            "Platinum": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
+            "HeartGold": "It is very hotheaded by nature, so it constantly seeks opponents. It calms down only when it wins.",
+            "SoulSilver": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws."
+        },
+        "Generation V": {
+            "Black": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
+            "White": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
+            "Black 2": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
+            "White 2": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars."
+        },
+        "Generation VI": {
+            "X": "It lashes about with its tail to knock down its foe. It then tears up the fallen opponent with sharp claws.",
+            "Y": "When it swings its burning tail, it elevates the air temperature to unbearably high levels.",
+            "Omega Ruby": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
+            "Alpha Sapphire": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Tough fights could excite this Pokémon. When excited, it may breathe out bluish-white flames.",
+            "Let's Go Eevee": "Tough fights could excite this Pokémon. When excited, it may breathe out bluish-white flames."
+        },
+        "Generation VIII": {
+            "Sword": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+            "Shield": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
+            "Brilliant Diamond": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
+            "Shining Pearl": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars."
+        },
+        "Generation IX": {
+            "Scarlet": "When it swings its burning tail, the temperature around it rises higher and higher, tormenting its opponents.",
+            "Violet": "It is very hotheaded by nature, so it constantly seeks opponents to battle against. Its aggression will not be quelled if it doesn’t win."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Charmander",
+            "Blue": "Evolve Charmander",
+            "Blue (Japan)": "Evolve Charmander",
+            "Yellow": "Evolve Charmander"
+        },
+        "Generation II": {
+            "Gold": "Time Capsule , Evolve Event Charmander",
+            "Silver": "Time Capsule , Evolve Event Charmander",
+            "Crystal": "Time Capsule , Evolve Event Charmander"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Evolve Event Charmander",
+            "Sapphire": "Trade , Evolve Event Charmander",
+            "Emerald": "Trade , Evolve Event Charmander",
+            "FireRed": "Evolve Charmander",
+            "LeafGreen": "Evolve Charmander",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade , Evolve Event Charmander",
+            "Pearl": "Trade , Evolve Event Charmander",
+            "Platinum": "Trade , Evolve Event Charmander",
+            "HeartGold": "Evolve Charmander",
+            "SoulSilver": "Evolve Charmander",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer , Evolve Event Charmander",
+            "White": "Poké Transfer , Evolve Event Charmander",
+            "Black 2": "Poké Transfer , Evolve Event Charmander",
+            "White 2": "Poké Transfer , Evolve Event Charmander"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Fire )",
+            "Y": "Friend Safari ( Fire )",
+            "Omega Ruby": "Trade , Evolve Event Charmander",
+            "Alpha Sapphire": "Trade , Evolve Event Charmander"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Charmander",
+            "Ultra Moon": "Evolve Charmander",
+            "Let's Go Pikachu": "Evolve Charmander",
+            "Let's Go Eevee": "Evolve Charmander"
+        },
+        "Generation VIII": {
+            "Sword": "Hammerlocke Hills , Lake of Outrage ( Max Raid Battle )",
+            "Shield": "Hammerlocke Hills , Lake of Outrage ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Charmander",
+            "Shining Pearl": "Evolve Charmander",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Evolve Charmander"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Charmander",
+            "to": "Charmeleon",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Charmeleon",
+            "to": "Charizard",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

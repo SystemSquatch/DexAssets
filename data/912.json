@@ -1,0 +1,51 @@
+{
+    "name": "Quaxly",
+    "pokedex_number": "#0912",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Moxie"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 65,
+        "Defense": 45,
+        "Sp. Atk": 50,
+        "Sp. Def": 45,
+        "Speed": 50,
+        "Total": 310
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.",
+            "Violet": "Its strong legs let it easily swim around in even fast-flowing rivers. It likes to keep things tidy and is prone to overthinking things."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "First partner Pokémon from Clavell in Cabo Poco",
+            "Violet": "First partner Pokémon from Clavell in Cabo Poco"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Quaxly",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Quaxly",
+            "to": "Quaxwell",
+            "method": [
+                "Level 16"
+            ]
+        }
+    ]
+}

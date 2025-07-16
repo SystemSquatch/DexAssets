@@ -1,0 +1,105 @@
+{
+    "name": "Hippowdon",
+    "pokedex_number": "#0450",
+    "types": [
+        "Ground",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sand Stream",
+        "Sand Force"
+    ],
+    "stats": {
+        "HP": 108,
+        "Attack": 112,
+        "Defense": 118,
+        "Sp. Atk": 68,
+        "Sp. Def": 72,
+        "Speed": 47,
+        "Total": 525
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
+            "Pearl": "Its huge mouth is almost seven feet across. It has enough power to completely crush a car.",
+            "Platinum": "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",
+            "HeartGold": "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking.",
+            "SoulSilver": "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking."
+        },
+        "Generation V": {
+            "Black": "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",
+            "White": "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",
+            "Black 2": "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",
+            "White 2": "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength."
+        },
+        "Generation VI": {
+            "X": "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking.",
+            "Y": "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
+            "Omega Ruby": "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking.",
+            "Alpha Sapphire": "It blasts internally stored sand from ports on its body to create a towering twister for attack."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Stones can get stuck in the ports on their bodies. Dwebble help dislodge such stones, so Hippowdon look after these Pokémon.",
+            "Shield": "When roused to violence by its rage, it spews out the quantities of sand it has swallowed and whips up a sandstorm.",
+            "Brilliant Diamond": "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
+            "Shining Pearl": "Its huge mouth opens almost seven feet wide. It has enough power to completely crush a car.",
+            "Legends: Arceus": "Short-tempered and easily moved to violence. It whips up whirlwinds of sand to crush its foes' spirits, then goes in for the attack."
+        },
+        "Generation IX": {
+            "Scarlet": "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",
+            "Violet": "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Route 228",
+            "Pearl": "Route 228",
+            "Platinum": "Route 228",
+            "HeartGold": "Evolve Hippopotas",
+            "SoulSilver": "Evolve Hippopotas"
+        },
+        "Generation V": {
+            "Black": "Evolve Hippopotas",
+            "White": "Evolve Hippopotas",
+            "Black 2": "Desert Resort ( Swarm )",
+            "White 2": "Desert Resort ( Swarm )"
+        },
+        "Generation VI": {
+            "X": "Evolve Hippopotas",
+            "Y": "Evolve Hippopotas",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Cave World )",
+            "Ultra Moon": "Ultra Space Wilds ( Cave World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 8 , Giant's Mirror , Lake of Outrage Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Route 8 , Giant's Mirror , Lake of Outrage Dusty Bowl ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 228",
+            "Shining Pearl": "Route 228",
+            "Legends: Arceus": "Crimson Mirelands : Gapejaw Bog , Scarlet Bog and nearby, massive mass outbreaks Coronet Highlands : Celestica Trail , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Asado Desert Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "West Province: Asado Desert Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Hippopotas",
+            "to": "Hippowdon",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

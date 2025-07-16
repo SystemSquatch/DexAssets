@@ -1,0 +1,99 @@
+{
+    "name": "Lampent",
+    "pokedex_number": "#0608",
+    "types": [
+        "Ghost",
+        "Fire"
+    ],
+    "abilities": [
+        "Flash Fire",
+        "Flame Body",
+        "Infiltrator",
+        "Shadow Tag"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 60,
+        "Sp. Atk": 95,
+        "Sp. Def": 60,
+        "Speed": 55,
+        "Total": 370
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "This ominous Pokémon is feared. Through cities it wanders, searching for the spirits of the fallen.",
+            "White": "It arrives near the moment of death and steals spirit from the body.",
+            "Black 2": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
+            "White 2": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on."
+        },
+        "Generation VI": {
+            "X": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
+            "Y": "It arrives near the moment of death and steals spirit from the body.",
+            "Omega Ruby": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
+            "Alpha Sapphire": "It arrives near the moment of death and steals spirit from the body."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "This Pokémon appears just before someone passes away, so it's feared as an emissary of death.",
+            "Shield": "It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them."
+        },
+        "Generation IX": {
+            "Scarlet": "Lampent appears at the moment of death and promptly absorbs the spirit as it leaves the body.",
+            "Violet": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Litwick",
+            "White": "Evolve Litwick",
+            "Black 2": "Evolve Litwick",
+            "White 2": "Evolve Litwick"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Ghost )",
+            "Y": "Friend Safari ( Ghost )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Litwick",
+            "Moon": "Evolve Litwick",
+            "Ultra Sun": "Evolve Litwick",
+            "Ultra Moon": "Evolve Litwick",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Dusty Bowl , Giant's Cap , Hammerlocke Hills , Lake of Outrage , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Lake of Outrage Dusty Bowl , Giant's Cap , Hammerlocke Hills , Lake of Outrage , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed , Old Cemetery Giant's Bed , Snowslide Slope , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Timeless Woods Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Litwick",
+            "to": "Lampent",
+            "method": [
+                "Level 41"
+            ]
+        },
+        {
+            "from": "Lampent",
+            "to": "Chandelure",
+            "method": [
+                "Use Dusk Stone"
+            ]
+        }
+    ]
+}

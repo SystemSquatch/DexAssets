@@ -1,0 +1,84 @@
+{
+    "name": "Emolga",
+    "pokedex_number": "#0587",
+    "types": [
+        "Electric",
+        "Flying"
+    ],
+    "abilities": [
+        "Static",
+        "Motor Drive"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 75,
+        "Defense": 60,
+        "Sp. Atk": 75,
+        "Sp. Def": 60,
+        "Speed": 103,
+        "Total": 428
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "The energy made in its cheeks' electric pouches is stored inside its membrane and released while it is gliding.",
+            "White": "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.",
+            "Black 2": "It glides on its outstretched membrane while shocking foes with the electricity stored in the pouches on its cheeks.",
+            "White 2": "It glides on its outstretched membrane while shocking foes with the electricity stored in the pouches on its cheeks."
+        },
+        "Generation VI": {
+            "X": "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.",
+            "Y": "The energy made in its cheeks' electric pouches is stored inside its membrane and released while it is gliding.",
+            "Omega Ruby": "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.",
+            "Alpha Sapphire": "The energy made in its cheeks' electric pouches is stored inside its membrane and released while it is gliding."
+        },
+        "Generation VII": {
+            "Sun": "It glides using its cape-like membrane. Electrical energy scatters from it, shocking its friends and foes alike.",
+            "Moon": "It grills berries and bug Pokémon with electric shocks and makes a meal of them. It usually nests in the holes gouged in trees by Pikipek.",
+            "Ultra Sun": "They store up electricity to fly through the air. When thunder cracks at night, sometimes there are almost enough of them to blot out the sky.",
+            "Ultra Moon": "As it flies, it scatters electricity around, so bird Pokémon keep their distance. That's why Emolga can keep all its food to itself."
+        },
+        "Generation VIII": {
+            "Sword": "As Emolga flutters through the air, it crackles with electricity. This Pokémon is cute, but it can cause a lot of trouble.",
+            "Shield": "This Pokémon absolutely loves sweet berries. Sometimes it stuffs its cheeks full of so much food that it can't fly properly."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 5 , 6 , 7 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , and 16 , Dragonspiral Tower , Village Bridge , Giant Chasm , Abundant Shrine , Lostlorn Forest ( rustling grass ) Trade Boldore on Route 7",
+            "White": "Routes 5 , 6 , 7 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , and 16 , Dragonspiral Tower , Village Bridge , Giant Chasm , Abundant Shrine , Lostlorn Forest ( rustling grass ) Trade Boldore on Route 7",
+            "Black 2": "Routes 5 , 6 , 7 , 9 , 11 , 12 , 13 , 14 , 15 , 16 , 22 , and 23 , Dragonspiral Tower , Village Bridge , Abundant Shrine , Lostlorn Forest ( rustling grass )",
+            "White 2": "Routes 5 , 6 , 7 , 9 , 11 , 12 , 13 , 14 , 15 , 16 , 22 , and 23 , Dragonspiral Tower , Village Bridge , Abundant Shrine , Lostlorn Forest ( rustling grass )",
+            "Dream World": "Windswept Sky *"
+        },
+        "Generation VI": {
+            "X": "Route 10 , Friend Safari ( Electric )",
+            "Y": "Route 10 , Friend Safari ( Electric )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Poni Plains , Poké Pelago *",
+            "Moon": "Poni Plains , Poké Pelago *",
+            "Ultra Sun": "Poni Plains",
+            "Ultra Moon": "Poni Plains",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Forest of Focus Loop Lagoon ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

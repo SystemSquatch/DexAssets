@@ -1,0 +1,44 @@
+{
+    "name": "Ceruledge",
+    "pokedex_number": "#0937",
+    "types": [
+        "Fire",
+        "Ghost"
+    ],
+    "abilities": [
+        "Flash Fire",
+        "Weak Armor"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 80,
+        "Sp. Atk": 60,
+        "Sp. Def": 100,
+        "Speed": 85,
+        "Total": 525
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
+            "Violet": "An old set of armor steeped in grudges caused this Pokémon's evolution. Ceruledge cuts its enemies to pieces without mercy."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battle Search ( 5★ , 6★ , Poké Portal News )",
+            "Violet": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Charcadet",
+            "to": "Ceruledge",
+            "method": [
+                "Use Malicious Armor"
+            ]
+        }
+    ]
+}

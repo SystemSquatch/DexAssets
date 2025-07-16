@@ -1,0 +1,116 @@
+{
+    "name": "Snover",
+    "pokedex_number": "#0459",
+    "types": [
+        "Grass",
+        "Ice"
+    ],
+    "abilities": [
+        "Snow Warning",
+        "Soundproof"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 50,
+        "Sp. Atk": 62,
+        "Sp. Def": 60,
+        "Speed": 40,
+        "Total": 334
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It lives on snowy mountains. Having had little contact with humans, it is boldly inquisitive.",
+            "Pearl": "In the spring, it grows berries with the texture of frozen treats around its belly.",
+            "Platinum": "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
+            "HeartGold": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring.",
+            "SoulSilver": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring."
+        },
+        "Generation V": {
+            "Black": "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
+            "White": "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
+            "Black 2": "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
+            "White 2": "Seemingly curious about people, they gather around footsteps they find on snowy mountains."
+        },
+        "Generation VI": {
+            "X": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring.",
+            "Y": "In the spring, it grows berries with the texture of frozen treats around its belly.",
+            "Omega Ruby": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring.",
+            "Alpha Sapphire": "In the spring, it grows berries with the texture of frozen treats around its belly."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It lives on snowy mountains. It sinks its legs into the snow to absorb water and keep its own temperature down.",
+            "Shield": "The berries that grow around its belly are like ice pops. Galarian Darumaka absolutely love these berries.",
+            "Brilliant Diamond": "It lives on snowy mountains. Having had little contact with humans, it is boldly inquisitive.",
+            "Shining Pearl": "In the spring, it grows berries with the texture of frozen treats around its belly.",
+            "Legends: Arceus": "One is likely to encounter this Pokémon while out in the snow. There are stories of Snover appearing in human settlements but doing no harm—rather, they bond with the children."
+        },
+        "Generation IX": {
+            "Scarlet": "During cold seasons, it migrates to the mountain’s lower reaches. It returns to the snow-covered summit in the spring.",
+            "Violet": "Seemingly curious about people, they gather around footsteps they find on snowy mountains."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 216 and 217 , Acuity Lakefront , Mt. Coronet (peak)",
+            "Pearl": "Routes 216 and 217 , Acuity Lakefront , Mt. Coronet (peak)",
+            "Platinum": "Routes 216 and 217 , Acuity Lakefront , Lake Acuity , Mt. Coronet (peak)",
+            "HeartGold": "Transfer from Pokéwalker",
+            "SoulSilver": "Transfer from Pokéwalker",
+            "Pokéwalker": "Icy Mountain Rd."
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Route 17 , Friend Safari ( Ice )",
+            "Y": "Route 17 , Friend Safari ( Ice )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Abomasnow",
+            "Ultra Moon": "Breed Abomasnow",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Routes 8 and 10 , Dappled Grove , East Lake Axewell , Axew's Eye , Watchtower Ruins , North Lake Miloch , South Lake Miloch , Giant's Seat , Giant's Mirror , Giant's Cap , Dusty Bowl Dusty Bowl , Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Routes 8 and 10 , Dappled Grove , East Lake Axewell , Axew's Eye , Watchtower Ruins , North Lake Miloch , South Lake Miloch , Giant's Seat , Giant's Mirror , Giant's Cap , Dusty Bowl Dusty Bowl , Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Frostpoint Field",
+            "Brilliant Diamond": "Routes 216 and 217 , Acuity Lakefront , Mt. Coronet (peak) Grand Underground - Icy Cave , Whiteout Cave , Glacial Cavern (After defeating Candice )",
+            "Shining Pearl": "Routes 216 and 217 , Acuity Lakefront , Mt. Coronet (peak) Grand Underground - Icy Cave , Whiteout Cave , Glacial Cavern (After defeating Candice )",
+            "Legends: Arceus": "Coronet Highlands : massive mass outbreaks Alabaster Icelands : Bonechill Wastes , near Arena's Approach , near Avalugg's Legacy , Glacier Terrace , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Glaseado Mountain Tera Raid Battles ( 3★ )",
+            "Violet": "North Province: Glaseado Mountain Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Chargestone Cavern , Polar Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Snover",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Snover",
+            "to": "Abomasnow",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

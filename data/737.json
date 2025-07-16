@@ -1,0 +1,78 @@
+{
+    "name": "Charjabug",
+    "pokedex_number": "#0737",
+    "types": [
+        "Bug",
+        "Electric"
+    ],
+    "abilities": [
+        "Battery"
+    ],
+    "stats": {
+        "HP": 57,
+        "Attack": 82,
+        "Defense": 95,
+        "Sp. Atk": 55,
+        "Sp. Def": 75,
+        "Speed": 36,
+        "Total": 400
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Its body is capable of storing electricity. On camping trips, people are grateful to have one around.",
+            "Moon": "From the food it digests, it generates electricity, and it stores this energy in its electric sac.",
+            "Ultra Sun": "It buries itself in fallen leaves and barely moves, munching away on humus. If you accidentally step on one, you'll get a shock!",
+            "Ultra Moon": "Its stout shell provides excellent defense from attacks. It uses electricity on persistent opponents."
+        },
+        "Generation VIII": {
+            "Sword": "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",
+            "Shield": "Its digestive processes convert the leaves it eats into electricity. An electric sac in its belly stores the electricity for later use."
+        },
+        "Generation IX": {
+            "Scarlet": "Protected by a sturdy shell, Charjabug eats large quantities of fresh and decomposing leaf litter in order to evolve.",
+            "Violet": "As it digests fallen leaves, it generates and stores electricity, which it can discharge from the tips of its jaws."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Blush Mountain",
+            "Moon": "Blush Mountain",
+            "Ultra Sun": "Blush Mountain",
+            "Ultra Moon": "Blush Mountain",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Axew's Eye , Dusty Bowl , Hammerlocke Hills Bridge Field , Dappled Grove , Giant's Cap , Motostoke Riverbank , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Axew's Eye , Dusty Bowl , Hammerlocke Hills Bridge Field , Dappled Grove , Giant's Cap , Motostoke Riverbank , Rolling Fields ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Oni Mountain , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Grubbin",
+            "to": "Charjabug",
+            "method": [
+                "Level 20"
+            ]
+        },
+        {
+            "from": "Charjabug",
+            "to": "Vikavolt",
+            "method": [
+                "Level up",
+                "Use Thunder Stone"
+            ]
+        }
+    ]
+}

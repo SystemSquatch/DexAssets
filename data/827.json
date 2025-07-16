@@ -1,0 +1,60 @@
+{
+    "name": "Nickit",
+    "pokedex_number": "#0827",
+    "types": [
+        "Dark",
+        "Unknown"
+    ],
+    "abilities": [
+        "Run Away",
+        "Unburden",
+        "Stakeout"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 28,
+        "Defense": 28,
+        "Sp. Atk": 47,
+        "Sp. Def": 52,
+        "Speed": 50,
+        "Total": 245
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",
+            "Shield": "Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Routes 1 and 2 , Dusty Bowl , Giant's Mirror , Stony Wilderness West Lake Axewell , Bridge Field , Stony Wilderness , Giant's Mirror , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Routes 1 and 2 , Dusty Bowl , Giant's Mirror , Stony Wilderness West Lake Axewell , Bridge Field , Stony Wilderness , Giant's Mirror , Dusty Bowl ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Nickit",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Nickit",
+            "to": "Thievul",
+            "method": [
+                "Level 18"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "name": "Masquerain",
+    "pokedex_number": "#0284",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Unnerve"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 62,
+        "Sp. Atk": 80,
+        "Sp. Def": 82,
+        "Speed": 60,
+        "Total": 414
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Masquerain intimidates enemies with the eyelike patterns on its antennas. This Pok é mon flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter.",
+            "Sapphire": "Masquerain 's antennas have eyelike patterns that usually give it an angry look. If the “eyes” are droopy and appear sad, it is said to be a sign that a heavy rainfall is on its way.",
+            "Emerald": "It intimidates foes with the large eyelike patterns on its antennae. Because it can't fly if its wings get wet, it shelters itself from rain under large trees and eaves.",
+            "FireRed": "The antennae have distinctive patterns that look like eyes. When it rains, they grow heavy, making flight impossible.",
+            "LeafGreen": "The antennae have distinctive patterns that look like eyes. When it rains, they grow heavy, making flight impossible."
+        },
+        "Generation IV": {
+            "Diamond": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
+            "Pearl": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
+            "Platinum": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
+            "HeartGold": "It flaps its four wings to hover and fly freely in any direction--to and fro and sideways.",
+            "SoulSilver": "It flaps its four wings to hover and fly freely in any direction--to and fro and sideways."
+        },
+        "Generation V": {
+            "Black": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
+            "White": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
+            "Black 2": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
+            "White 2": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction."
+        },
+        "Generation VI": {
+            "X": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
+            "Y": "It flaps its four wings to hover and fly freely in any direction--to and fro and sideways.",
+            "Omega Ruby": "Masquerain intimidates enemies with the eyelike patterns on its antennas. This Pokémon flaps its four wings to freely fly in any direction—even sideways and backwards—as if it were a helicopter.",
+            "Alpha Sapphire": "Masquerain's antennas have eyelike patterns that usually give it an angry look. If the \"eyes\" are droopy and appear sad, it is said to be a sign that a heavy rainfall is on its way."
+        },
+        "Generation VII": {
+            "Sun": "It intimidates enemies with the eye-like patterns on its antennae. Its four wings allow it to fly in any direction.",
+            "Moon": "Its wings and antennae don't cope well with moisture. After a rain, it faces sunward to dry off.",
+            "Ultra Sun": "Masquerain intimidates enemies with the eyelike patterns of its eyespots. If that doesn't work, it deftly makes its escape on its set of four wings.",
+            "Ultra Moon": "Its thin, winglike antennae are highly absorbent. It waits out rainy days in tree hollows."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
+            "Shining Pearl": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction."
+        },
+        "Generation IX": {
+            "Scarlet": "It flaps its four wings to hover and fly freely in any direction—to and fro and sideways.",
+            "Violet": "The antennae have distinctive patterns that look like eyes. When it rains, they grow heavy, making flight impossible."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Surskit",
+            "Sapphire": "Evolve Surskit",
+            "Emerald": "Evolve swarm Surskit *",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Evolve Surskit"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Surskit",
+            "Pearl": "Evolve Surskit",
+            "Platinum": "Route 229",
+            "HeartGold": "Safari Zone ( Surfing in Meadow with 10 Waterside points, and with 14 Waterside points)",
+            "SoulSilver": "Safari Zone ( Surfing in Meadow with 10 Waterside points, and with 14 Waterside points)",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Surskit",
+            "Black 2": "Route 11 ( Swarm )",
+            "White 2": "Route 11 ( Swarm )"
+        },
+        "Generation VI": {
+            "X": "Route 3 ( Surfing ) Friend Safari ( Bug )",
+            "Y": "Route 3 ( Surfing ) Friend Safari ( Bug )",
+            "Omega Ruby": "Routes 102 , 111 , 114 , 117 , 120 , 123 , and Petalburg City ( Surfing )",
+            "Alpha Sapphire": "Routes 102 , 111 , 114 , 117 , 120 , 123 , and Petalburg City ( Surfing )"
+        },
+        "Generation VII": {
+            "Sun": "Malie Garden Night",
+            "Moon": "Malie Garden Night",
+            "Ultra Sun": "Malie Garden Night",
+            "Ultra Moon": "Malie Garden Night",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Surskit",
+            "Shining Pearl": "Evolve Surskit",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Five Area Zero Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Area One , Area Five Area Zero Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero": "Mossfell Confluence , Kitakami Wilds"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Surskit",
+            "to": "Masquerain",
+            "method": [
+                "Level 22"
+            ]
+        }
+    ]
+}

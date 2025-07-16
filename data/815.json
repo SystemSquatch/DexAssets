@@ -1,0 +1,56 @@
+{
+    "name": "Cinderace",
+    "pokedex_number": "#0815",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Blaze",
+        "Libero"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 116,
+        "Defense": 75,
+        "Sp. Atk": 65,
+        "Sp. Def": 75,
+        "Speed": 119,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "It juggles a pebble with its feet, turning it into a burning soccer ball . Its shots strike opponents hard and leave them scorched .",
+            "Shield": "It's skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot."
+        },
+        "Generation IX": {
+            "Scarlet": "Although Cinderace loses its cool easily, it will battle flawlessly for a Trainer it trusts.",
+            "Violet": "Using a ball that it made out of flames, Cinderace blinds its opponents and keeps them at bay."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Evolve Raboot",
+            "Shield": "Evolve Raboot",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade , Poké Portal News",
+            "Violet": "Trade , Poké Portal News",
+            "The Hidden Treasure of Area Zero": "Evolve Raboot"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Raboot",
+            "to": "Cinderace",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

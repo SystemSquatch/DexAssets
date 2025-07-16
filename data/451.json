@@ -1,0 +1,112 @@
+{
+    "name": "Skorupi",
+    "pokedex_number": "#0451",
+    "types": [
+        "Poison",
+        "Bug"
+    ],
+    "abilities": [
+        "Battle Armor",
+        "Sniper",
+        "Keen Eye"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 90,
+        "Sp. Atk": 30,
+        "Sp. Def": 55,
+        "Speed": 65,
+        "Total": 330
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
+            "Pearl": "It lives in arid lands. It buries itself in sand and lies in wait for unsuspecting prey.",
+            "Platinum": "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.",
+            "HeartGold": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
+            "SoulSilver": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison."
+        },
+        "Generation V": {
+            "Black": "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.",
+            "White": "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.",
+            "Black 2": "It lives in arid regions and can go without food for a year while waiting for prey.",
+            "White 2": "It lives in arid regions and can go without food for a year while waiting for prey."
+        },
+        "Generation VI": {
+            "X": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
+            "Y": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
+            "Omega Ruby": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
+            "Alpha Sapphire": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "After burrowing into the sand, it waits patiently for prey to come near. This Pokémon and Sizzlipede share common descent.",
+            "Shield": "It attacks using the claws on its tail. Once locked in its grip, its prey is unable to move as this Pokémon's poison seeps in.",
+            "Brilliant Diamond": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
+            "Shining Pearl": "It lives in arid lands. It buries itself in sand and lies in wait for unsuspecting prey.",
+            "Legends: Arceus": "Its claws are not only razor-sharp but poisonous, making Skorupi a highly dangerous Pokémon. It seems to be weakened by cold temperatures, however."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Great Marsh",
+            "Pearl": "Great Marsh",
+            "Platinum": "Great Marsh",
+            "HeartGold": "Safari Zone (Wasteland with 28 Peak points)",
+            "SoulSilver": "Safari Zone (Wasteland with 28 Peak points)"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Reversal Mountain Route 13 ( Hidden Grotto ) *",
+            "White 2": "Reversal Mountain Route 13 ( Hidden Grotto ) *",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Routes 14 , 15 , and 16",
+            "Y": "Routes 14 , 15 , and 16",
+            "Omega Ruby": "Route 114 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 114 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Drapion",
+            "Ultra Moon": "Breed Drapion",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 6 , Giant's Mirror , Motostoke Riverbank East Lake Axewell , Giant's Cap , Hammerlocke Hills , Motostoke Riverbank , North Lake Miloch ( Max Raid Battle )",
+            "Shield": "Route 6 , Giant's Mirror , Motostoke Riverbank East Lake Axewell , Giant's Cap , Hammerlocke Hills , Motostoke Riverbank , North Lake Miloch ( Max Raid Battle )",
+            "Expansion Pass": "Soothing Wetlands",
+            "Brilliant Diamond": "Great Marsh Grand Underground - Volcanic Cave , Rocky Cave , Swampy Cave , Sandsear Cave , Typhlo Cavern , Big Bluff Cavern , Bogsunk Cavern",
+            "Shining Pearl": "Great Marsh Grand Underground - Volcanic Cave , Rocky Cave , Swampy Cave , Sandsear Cave , Typhlo Cavern , Big Bluff Cavern , Bogsunk Cavern",
+            "Legends: Arceus": "Crimson Mirelands : massive mass outbreaks Cobalt Coastlands : Ginkgo Landing , Castaway Shore , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Skorupi",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Skorupi",
+            "to": "Drapion",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

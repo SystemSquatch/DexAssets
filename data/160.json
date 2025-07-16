@@ -1,0 +1,131 @@
+{
+    "name": "Feraligatr",
+    "pokedex_number": "#0160",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Sheer Force"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 105,
+        "Defense": 100,
+        "Sp. Atk": 79,
+        "Sp. Def": 83,
+        "Speed": 78,
+        "Total": 530
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
+            "Silver": "It is hard for it to support its own weight out of water, so it gets down on all fours. But it moves fast.",
+            "Crystal": "Although it has a massive body, its powerful hind legs enable it to move quickly, even on the ground.",
+            "Stadium 2": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up. (Pokémon Red, Silver, or Crystal inserted) It is hard for it to support its own weight out of water, so it gets down on all fours. But it moves fast. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
+            "Sapphire": "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
+            "Emerald": "It opens its huge mouth to intimidate enemies. In battle, it runs using its thick and powerful hind legs to charge the foe with incredible speed.",
+            "FireRed": "It is hard for it to support its own weight out of water, so it gets down on all fours. But it moves fast.",
+            "LeafGreen": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears up its victim."
+        },
+        "Generation IV": {
+            "Diamond": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
+            "Pearl": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
+            "Platinum": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
+            "HeartGold": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
+            "SoulSilver": "It is hard for it to support its weight out of water, so it sometimes gets down on all fours. But it moves fast."
+        },
+        "Generation V": {
+            "Black": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
+            "White": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
+            "Black 2": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
+            "White 2": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey."
+        },
+        "Generation VI": {
+            "X": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
+            "Y": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
+            "Omega Ruby": "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
+            "Alpha Sapphire": "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
+            "Shining Pearl": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey."
+        },
+        "Generation IX": {
+            "Scarlet": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
+            "Violet": "Although it has a massive body, its powerful hind legs enable it to move quickly, even on land."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Croconaw",
+            "Silver": "Evolve Croconaw",
+            "Crystal": "Evolve Croconaw"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Evolve Croconaw",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Evolve Croconaw",
+            "XD": "Evolve Croconaw"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Croconaw",
+            "SoulSilver": "Evolve Croconaw",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade , Event",
+            "Y": "Trade , Event",
+            "Omega Ruby": "Evolve Croconaw",
+            "Alpha Sapphire": "Evolve Croconaw"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Croconaw",
+            "Moon": "Evolve Croconaw",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Croconaw",
+            "Shining Pearl": "Evolve Croconaw",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Croconaw"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Croconaw",
+            "to": "Feraligatr",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

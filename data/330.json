@@ -1,0 +1,127 @@
+{
+    "name": "Flygon",
+    "pokedex_number": "#0330",
+    "types": [
+        "Ground",
+        "Dragon"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 80,
+        "Sp. Atk": 80,
+        "Sp. Def": 80,
+        "Speed": 100,
+        "Total": 520
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Flygon is nicknamed “the elemental spirit of the desert.” Because its flapping wings whip up a cloud of sand, this Pok é mon is always enveloped in a sandstorm while flying.",
+            "Sapphire": "Flygon whips up a sandstorm by flapping its wings. The wings create a series of notes that sound like singing. Because the “singing” is the only thing that can be heard in a sandstorm, this Pok é mon is said to be the desert spirit.",
+            "Emerald": "The flapping of its wings sounds like singing. To prevent detection by enemies, it hides itself by flapping up a cloud of desert sand.",
+            "FireRed": "It hides itself by kicking up desert sand with its wings. Red covers shield its eyes from sand.",
+            "LeafGreen": "It hides itself by kicking up desert sand with its wings. Red covers shield its eyes from sand."
+        },
+        "Generation IV": {
+            "Diamond": "It whips up sandstorms with powerful flaps of its wings. It is known as \"The Desert Spirit.\"",
+            "Pearl": "It whips up sandstorms with powerful flaps of its wings. It is known as \"The Desert Spirit.\"",
+            "Platinum": "It whips up sandstorms with powerful flaps of its wings. It is known as \"The Desert Spirit.\"",
+            "HeartGold": "It is nicknamed \"The Desert Spirit\" because the flapping of its wings sounds like a woman singing.",
+            "SoulSilver": "It is nicknamed \"The Desert Spirit\" because the flapping of its wings sounds like a woman singing."
+        },
+        "Generation V": {
+            "Black": "It whips up sandstorms with powerful flaps of its wings. It is known as \"The Desert Spirit.\"",
+            "White": "It whips up sandstorms with powerful flaps of its wings. It is known as \"The Desert Spirit.\"",
+            "Black 2": "Known as \"The Desert Spirit,\" this Pokémon hides in the sandstorms it causes by beating its wings.",
+            "White 2": "Known as \"The Desert Spirit,\" this Pokémon hides in the sandstorms it causes by beating its wings."
+        },
+        "Generation VI": {
+            "X": "It hides itself by kicking up desert sand with its wings. Red covers shield its eyes from sand.",
+            "Y": "Known as \"The Desert Spirit,\" this Pokémon hides in the sandstorms it causes by beating its wings.",
+            "Omega Ruby": "Flygon is nicknamed \"the elemental spirit of the desert.\" Because its flapping wings whip up a cloud of sand, this Pokémon is always enveloped in a sandstorm while flying.",
+            "Alpha Sapphire": "Flygon whips up a sandstorm by flapping its wings. The wings create a series of notes that sound like singing. Because the \"singing\" is the only thing that can be heard in a sandstorm, this Pokémon is said to be the desert spirit."
+        },
+        "Generation VII": {
+            "Sun": "The flapping of its wings sounds something like singing. Those lured by the sound are enveloped in a sandstorm, becoming Flygon's prey.",
+            "Moon": "This Pokémon hides in the heart of sandstorms it creates and seldom appears where people can see it.",
+            "Ultra Sun": "By flapping their wings, Flygon cause sandstorms that conceal Krookodile. The team then splits the prey they catch.",
+            "Ultra Moon": "People continue to have their hearts stolen by its enchanting songs and find themselves stranded in the desert."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon hides in the heart of sandstorms it creates and seldom appears where people can see it.",
+            "Shield": "It is nicknamed the Desert Spirit because the flapping of its wings sounds like a woman singing.",
+            "Brilliant Diamond": "It whips up sandstorms with powerful flaps of its wings. It is known as the Desert Spirit.",
+            "Shining Pearl": "It whips up sandstorms with powerful flaps of its wings. It is known as the Desert Spirit."
+        },
+        "Generation IX": {
+            "Scarlet": "Known as the Desert Spirit, this Pokémon hides in the sandstorms it causes by beating its wings.",
+            "Violet": "The sound of its wings flapping resembles singing. Those entranced by this sound get lured into a sandstorm and become Flygon’s prey."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Vibrava",
+            "Sapphire": "Evolve Vibrava",
+            "Emerald": "Evolve Vibrava",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Evolve Vibrava",
+            "XD": "Evolve Vibrava"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Vibrava",
+            "Pearl": "Evolve Vibrava",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Vibrava",
+            "SoulSilver": "Evolve Vibrava",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Vibrava",
+            "Black 2": "Evolve Vibrava",
+            "White 2": "Evolve Vibrava"
+        },
+        "Generation VI": {
+            "X": "Evolve Vibrava",
+            "Y": "Evolve Vibrava",
+            "Omega Ruby": "Evolve Vibrava",
+            "Alpha Sapphire": "Evolve Vibrava"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Vibrava",
+            "Moon": "Evolve Vibrava",
+            "Ultra Sun": "Evolve Vibrava",
+            "Ultra Moon": "Evolve Vibrava",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Dusty Bowl ( Wanderer ) Rolling Fields , Axew's Eye Sh , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Lake of Outrage Dusty Bowl ( Wanderer ) Rolling Fields , Axew's Eye Sh , Dusty Bowl ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Vibrava",
+            "Shining Pearl": "Evolve Vibrava",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Savanna Biome Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Vibrava",
+            "to": "Flygon",
+            "method": [
+                "Level 45"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "name": "Omanyte",
+    "pokedex_number": "#0138",
+    "types": [
+        "Rock",
+        "Water"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Shell Armor",
+        "Weak Armor"
+    ],
+    "stats": {
+        "HP": 35,
+        "Attack": 40,
+        "Defense": 100,
+        "Sp. Atk": 90,
+        "Sp. Def": 55,
+        "Speed": 35,
+        "Total": 355
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
+            "Yellow": "An ancient Pok é mon that was recovered from a fossil. It swims by cleverly twisting its 10 tentacles about.",
+            "Stadium": "A prehistoric and long-extinct Pokémon that was resurrected from a fossil. Swims by twisting its 10 tentacles about."
+        },
+        "Generation II": {
+            "Gold": "Revived from an ancient fossil, this Pok é mon uses air stored in its shell to sink and rise in water.",
+            "Silver": "This Pok é mon from ancient times is said to have navigated the sea by adeptly twisting its 10 tentacles.",
+            "Crystal": "In prehistoric times, it swam on the sea floor, eating plankton. Its fossils are sometimes found.",
+            "Stadium 2": "Revived from an ancient fossil, this Pok é mon uses air stored in its shell to sink and rise in water. (Pokémon Red, Silver, or Crystal inserted) This Pok é mon from ancient times is said to have navigated the sea by adeptly twisting its 10 tentacles. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Omanyte is one of the ancient and long-since-extinct Pok é mon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
+            "Sapphire": "Omanyte is one of the ancient and long-since-extinct Pok é mon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
+            "Emerald": "One of the ancient and long-since-extinct Pok é mon that have been regenerated from fossils by humans. If attacked, it withdraws into its hard shell.",
+            "FireRed": "A prehistoric Pok é mon that lived in the primordial sea, it swims by twisting its 10 tentacles about.",
+            "LeafGreen": "Although long extinct, in rare cases, it can be genetically regenerated from fossils."
+        },
+        "Generation IV": {
+            "Diamond": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
+            "Pearl": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
+            "Platinum": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
+            "HeartGold": "Revived from an ancient fossil, this Pokémon uses air stored in its shell to sink and rise in water.",
+            "SoulSilver": "This Pokémon from ancient times is said to have navigated the sea by adeptly twisting its 10 tentacles."
+        },
+        "Generation V": {
+            "Black": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
+            "White": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
+            "Black 2": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
+            "White 2": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas."
+        },
+        "Generation VI": {
+            "X": "A prehistoric Pokémon that lived in the primordial sea, it swims by twisting its 10 tentacles about.",
+            "Y": "Revived from an ancient fossil, this Pokémon uses air stored in its shell to sink and rise in water.",
+            "Omega Ruby": "Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
+            "Alpha Sapphire": "Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Omanyte lived in the seas of antiquity. Its fossils have been found bearing bite marks from Archeops, so apparently Archeops preyed on it.",
+            "Ultra Moon": "It was restored from an ancient fossil. Those Helix Fossils are excavated from areas that were once oceans long, long ago.",
+            "Let's Go Pikachu": "An ancient Pokémon that was recovered from a fossil. It swam by cleverly twisting its 10 tentacles about.",
+            "Let's Go Eevee": "An ancient Pokémon that was recovered from a fossil. It swam by cleverly twisting its 10 tentacles about."
+        },
+        "Generation VIII": {
+            "Sword": "Because some Omanyte manage to escape after being restored or are released into the wild by people, this species is becoming a problem.",
+            "Shield": "This Pokémon is a member of an ancient, extinct species. Omanyte paddles through water with its 10 tentacles, looking like it's just drifting along.",
+            "Brilliant Diamond": "It's a Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
+            "Shining Pearl": "It's a Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Revive from Helix Fossil at the Pokémon Lab on Cinnabar Island",
+            "Blue": "Revive from Helix Fossil at the Pokémon Lab on Cinnabar Island",
+            "Blue (Japan)": "Revive from Helix Fossil at the Pokémon Lab on Cinnabar Island",
+            "Yellow": "Revive from Helix Fossil at the Pokémon Lab on Cinnabar Island"
+        },
+        "Generation II": {
+            "Gold": "Time Capsule , Event",
+            "Silver": "Time Capsule , Event",
+            "Crystal": "Time Capsule , Event"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Revive from Helix Fossil at the Pokémon Lab on Cinnabar Island",
+            "LeafGreen": "Revive from Helix Fossil at the Pokémon Lab on Cinnabar Island",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Revive from Helix Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "Pearl": "Revive from Helix Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "Platinum": "Revive from Helix Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "HeartGold": "Revive from Helix Fossil at the Pewter Museum of Science in Pewter City",
+            "SoulSilver": "Trade Receive Helix Fossil held by a traded Pokémon and revive it",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Revive from Helix Fossil at the Nacrene Museum",
+            "White": "Revive from Helix Fossil at the Nacrene Museum",
+            "Black 2": "Revive from Helix Fossil at the Nacrene Museum",
+            "White 2": "Revive from Helix Fossil at the Nacrene Museum",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Trade Receive Helix Fossil held by a traded Pokémon and revive it",
+            "Y": "Revive from Helix Fossil at the Ambrette Town Fossil Lab",
+            "Omega Ruby": "Trade Receive Helix Fossil held by a traded Pokémon and revive it",
+            "Alpha Sapphire": "Revive from Helix Fossil at the Devon Corporation in Rustboro City"
+        },
+        "Generation VII": {
+            "Sun": "Trade Receive Helix Fossil held by a traded Pokémon and revive it",
+            "Moon": "Trade Receive Helix Fossil held by a traded Pokémon and revive it",
+            "Ultra Sun": "Revive from Helix Fossil at the Fossil Restoration Center on Route 8",
+            "Ultra Moon": "Revive from Helix Fossil at the Fossil Restoration Center on Route 8",
+            "Let's Go Pikachu": "Revive from Helix Fossil at the Cinnabar Lab on Cinnabar Island",
+            "Let's Go Eevee": "Revive from Helix Fossil at the Cinnabar Lab on Cinnabar Island"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Sword Expansion Pass": "Giant's Foot , Roaring-Sea Caves ( Surfing ) Giant's Bed , Snowslide Slope , Giant's Foot , Ballimere Lake , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Revive from Helix Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "Shining Pearl": "Revive from Helix Fossil at the Oreburgh Mining Museum in Oreburgh City",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Omanyte",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Omanyte",
+            "to": "Omastar",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

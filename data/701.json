@@ -1,0 +1,73 @@
+{
+    "name": "Hawlucha",
+    "pokedex_number": "#0701",
+    "types": [
+        "Fighting",
+        "Flying"
+    ],
+    "abilities": [
+        "Limber",
+        "Unburden",
+        "Mold Breaker"
+    ],
+    "stats": {
+        "HP": 78,
+        "Attack": 92,
+        "Defense": 75,
+        "Sp. Atk": 74,
+        "Sp. Def": 63,
+        "Speed": 118,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama .",
+            "Y": "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.",
+            "Omega Ruby": "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama .",
+            "Alpha Sapphire": "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It overwhelms opponents with quick moves, but sometimes it showboats for too long when it's using a special move and gets itself into a pinch.",
+            "Ultra Moon": "In combat, Hawlucha leaps nimbly about, taking advantage of its opponents' blind spots. It's also skilled at using superb submission holds."
+        },
+        "Generation VIII": {
+            "Sword": "It drives its opponents to exhaustion with its agile maneuvers, then ends the fight with a flashy finishing move.",
+            "Shield": "It always strikes a pose before going for its finishing move. Sometimes opponents take advantage of that time to counterattack."
+        },
+        "Generation IX": {
+            "Scarlet": "Its elegant finishing moves—performed by nimbly leaping around using its wings—are polished in the forest where it was born and raised.",
+            "Violet": "Hawlucha live quietly without flocking together. They fight constantly with their natural enemies: noisy groups of Primeape ."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Route 10 , Friend Safari ( Flying )",
+            "Y": "Route 10 , Friend Safari ( Flying )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 3 , Poké Pelago * Trade Spearow on Route 2",
+            "Ultra Moon": "Route 3 , Poké Pelago * Trade Spearow on Route 2",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 6 , Hammerlocke Hills Hammerlocke Hills ( Wanderer ) Stony Wilderness Sw , Rolling Fields Sh , Dusty Bowl , East Lake Axewell , Giant's Cap , Hammerlocke Hills , North Lake Miloch ( Max Raid Battle )",
+            "Shield": "Route 6 , Hammerlocke Hills Hammerlocke Hills ( Wanderer ) Stony Wilderness Sw , Rolling Fields Sh , Dusty Bowl , East Lake Axewell , Giant's Cap , Hammerlocke Hills , North Lake Miloch ( Max Raid Battle )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Four North Province: Area One , Area Two , Area Three , Casseroya Lake , Socarrat Trail South Province: Area Six ( Bug Tera Type ) Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Area Four North Province: Area One , Area Two , Area Three , Casseroya Lake , Socarrat Trail South Province: Area Six ( Bug Tera Type ) Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": []
+}

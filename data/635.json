@@ -1,0 +1,88 @@
+{
+    "name": "Hydreigon",
+    "pokedex_number": "#0635",
+    "types": [
+        "Dark",
+        "Dragon"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 92,
+        "Attack": 105,
+        "Defense": 90,
+        "Sp. Atk": 125,
+        "Sp. Def": 90,
+        "Speed": 98,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "This brutal Pokémon travels the skies on its six wings. Anything that moves seems like a foe to it, triggering its attack.",
+            "White": "The heads on their arms do not have brains. They use all three heads to consume and destroy everything.",
+            "Black 2": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
+            "White 2": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!"
+        },
+        "Generation VI": {
+            "X": "The heads on their arms do not have brains. They use all three heads to consume and destroy everything.",
+            "Y": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
+            "Omega Ruby": "The heads on their arms do not have brains. They use all three heads to consume and destroy everything.",
+            "Alpha Sapphire": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!"
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "There are a slew of stories about villages that were destroyed by Hydreigon. It bites anything that moves.",
+            "Shield": "The three heads take turns sinking their teeth into the opponent. Their attacks won't slow until their target goes down."
+        },
+        "Generation IX": {
+            "Scarlet": "Only the central head has a brain. It is very intelligent, but it thinks only of destruction.",
+            "Violet": "It's said that Hydreigon grew ferocious because people in times long past loathed it, considering it to be evil incarnate and attacking it relentlessly."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Zweilous",
+            "White": "Evolve Zweilous",
+            "Black 2": "Evolve Zweilous",
+            "White 2": "Evolve Zweilous"
+        },
+        "Generation VI": {
+            "X": "Victory Road",
+            "Y": "Victory Road",
+            "Omega Ruby": "Evolve Zweilous",
+            "Alpha Sapphire": "Evolve Zweilous"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Zweilous",
+            "Moon": "Evolve Zweilous",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Bridge Field , Dusty Bowl , Giant's Mirror , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Sword Expansion Pass": "Roaring-Sea Caves ( Wanderer )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "Tera Raid Battle Search ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Zweilous",
+            "to": "Hydreigon",
+            "method": [
+                "Level 64"
+            ]
+        }
+    ]
+}

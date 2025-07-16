@@ -1,0 +1,78 @@
+{
+    "name": "Brionne",
+    "pokedex_number": "#0729",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Liquid Voice"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 69,
+        "Defense": 69,
+        "Sp. Atk": 91,
+        "Sp. Def": 81,
+        "Speed": 50,
+        "Total": 420
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "A skillful dancer, it creates a sequence of water balloons as it dances, and briskly bombards its enemies.",
+            "Moon": "It cares deeply for its companions. When its Trainer is feeling down, it performs a cheery dance to try and help.",
+            "Ultra Sun": "It gets excited when it sees a dance it doesn't know. This hard worker practices diligently until it can learn that dance.",
+            "Ultra Moon": "It attacks by smacking its enemies with the exploding water balloons that it creates."
+        },
+        "Generation VIII": {
+            "Sword": "As if dancing, it artfully dodges the attacks of its enemies. All the while, it's busy forming a bunch of balloons to overwhelm its foes. *",
+            "Shield": "On nights when the sea is calm, Brionne dance with one another to the singing of the Primarina that's leading them. *"
+        },
+        "Generation IX": {
+            "Scarlet": "A skillful dancer, it creates a sequence of water balloons as it dances, then briskly bombards its enemies.",
+            "Violet": "It cares deeply for its companions. When its Trainer is feeling down, it performs a cheery dance to try to help."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Evolve Popplio",
+            "Moon": "Evolve Popplio",
+            "Ultra Sun": "Evolve Popplio",
+            "Ultra Moon": "Evolve Popplio",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME Trade Version 1.2.0+",
+            "Shield": "Pokémon HOME Trade Version 1.2.0+",
+            "Expansion Pass": "Evolve Popplio",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Popplio"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Popplio",
+            "to": "Brionne",
+            "method": [
+                "Level 17"
+            ]
+        },
+        {
+            "from": "Brionne",
+            "to": "Primarina",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

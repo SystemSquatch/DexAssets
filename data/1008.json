@@ -1,0 +1,35 @@
+{
+    "name": "Miraidon",
+    "pokedex_number": "#1008",
+    "types": [
+        "Electric",
+        "Dragon"
+    ],
+    "abilities": [
+        "Hadron Engine"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 85,
+        "Defense": 100,
+        "Sp. Atk": 135,
+        "Sp. Def": 115,
+        "Speed": 135,
+        "Total": 670
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Its characteristics match those of a mysterious object recorded in an old expedition journal as the Iron Serpent. *",
+            "Violet": "It was given the name Miraidon by the professor who discovered it. Its ecology and other details are unknown. *"
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Poco Path ( only one ) ( Low-Power Mode ) Area Zero (after credits ; only one ) ( Ultimate Mode )"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,129 @@
+{
+    "name": "Spheal",
+    "pokedex_number": "#0363",
+    "types": [
+        "Ice",
+        "Water"
+    ],
+    "abilities": [
+        "Thick Fat",
+        "Ice Body",
+        "Oblivious"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 40,
+        "Defense": 50,
+        "Sp. Atk": 55,
+        "Sp. Def": 50,
+        "Speed": 25,
+        "Total": 290
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Spheal is much faster rolling than walking to get around. When groups of this Pok é mon eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy.",
+            "Sapphire": "Spheal always travels by rolling around on its ball-like body. When the season for ice floes arrives, this Pok é mon can be seen rolling about on ice and crossing the sea.",
+            "Emerald": "It is completely covered with plushy fur. As a result, it never feels the cold even when it is rolling about on ice floes or diving in the sea.",
+            "FireRed": "Its body is covered in fluffy fur. The fur keeps it from feeling cold while it is rolling on ice.",
+            "LeafGreen": "Its body is covered in fluffy fur. The fur keeps it from feeling cold while it is rolling on ice."
+        },
+        "Generation IV": {
+            "Diamond": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
+            "Pearl": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
+            "Platinum": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
+            "HeartGold": "It crosses the oceans by rolling itself on drifting ice. Fluffy fur keeps it warm when the temperature is below freezing.",
+            "SoulSilver": "It crosses the oceans by rolling itself on drifting ice. Fluffy fur keeps it warm when the temperature is below freezing."
+        },
+        "Generation V": {
+            "Black": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
+            "White": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
+            "Black 2": "They can't swim well yet, and they move much faster by rolling. When they're happy, they clap fins.",
+            "White 2": "They can't swim well yet, and they move much faster by rolling. When they're happy, they clap fins."
+        },
+        "Generation VI": {
+            "X": "They can't swim well yet, and they move much faster by rolling. When they're happy, they clap fins.",
+            "Y": "Its body is covered in fluffy fur. The fur keeps it from feeling cold while it is rolling on ice.",
+            "Omega Ruby": "Spheal is much faster rolling than walking to get around. When groups of this Pokémon eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy.",
+            "Alpha Sapphire": "Spheal always travels by rolling around on its ball-like body. When the season for ice floes arrives, this Pokémon can be seen rolling about on ice and crossing the sea."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "This Pokémon's body is covered in blubber and impressively round. It's faster for Spheal to roll around than walk.",
+            "Shield": "As it drifts among the waves, Spheal probes the sea. As soon as it spots prey, it informs the Walrein in its herd.",
+            "Brilliant Diamond": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
+            "Shining Pearl": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
+            "Legends: Arceus": "During the season when drift ice approaches the shore, Spheal prefers living on the ice—where fewer predators lurk—rather than the land. Its fur retains heat superbly and resists harsh cold."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Shoal Cave",
+            "Sapphire": "Shoal Cave",
+            "Emerald": "Shoal Cave",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Cipher Lab (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Routes 226 and 230",
+            "Platinum": "Breed Sealeo or Walrein",
+            "HeartGold": "Safari Zone (Peak with 35 Waterside points)",
+            "SoulSilver": "Safari Zone (Peak with 35 Waterside points)",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Undella Bay ( Surfing ) Winter",
+            "White": "Undella Bay ( Surfing ) Winter",
+            "Black 2": "Undella Bay ( Surfing ) Winter Route 13 ( Hidden Grotto ) *",
+            "White 2": "Undella Bay ( Surfing ) Winter Route 13 ( Hidden Grotto ) *",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Ice )",
+            "Y": "Friend Safari ( Ice )",
+            "Omega Ruby": "Shoal Cave",
+            "Alpha Sapphire": "Shoal Cave"
+        },
+        "Generation VII": {
+            "Sun": "Route 7 ( Island Scan ) Mo",
+            "Moon": "Route 7 ( Island Scan ) Mo",
+            "Ultra Sun": "Route 7 ( Island Scan ) Mo",
+            "Ultra Moon": "Route 7 ( Island Scan ) Mo",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Frigid Sea Giant's Bed , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Breed Walrein",
+            "Shining Pearl": "Routes 226 and 230 Grand Underground - Icy Cave , Whiteout Cave , Glacial Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Obsidian Fieldlands : massive mass outbreaks Cobalt Coastlands : Ginkgo Landing , Hideaway Bay , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Spheal",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Spheal",
+            "to": "Sealeo",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "name": "Alomomola",
+    "pokedex_number": "#0594",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Healer",
+        "Hydration",
+        "Regenerator"
+    ],
+    "stats": {
+        "HP": 165,
+        "Attack": 75,
+        "Defense": 80,
+        "Sp. Atk": 40,
+        "Sp. Def": 45,
+        "Speed": 65,
+        "Total": 470
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "The special membrane enveloping Alomomola has the ability to heal wounds.",
+            "White": "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
+            "Black 2": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
+            "White 2": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds."
+        },
+        "Generation VI": {
+            "X": "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
+            "Y": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
+            "Omega Ruby": "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
+            "Alpha Sapphire": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds."
+        },
+        "Generation VII": {
+            "Sun": "It uses its special mucus to close the wounds of injured Pokémon. The reason for this behavior remains unknown.",
+            "Moon": "They float upon the open sea. Many water Pokémon gather in the area around Alomomola.",
+            "Ultra Sun": "Fishermen take them along on long voyages, because if you have an Alomomola with you, there'll be no need for a doctor or medicine.",
+            "Ultra Moon": "The reason it helps Pokémon in a weakened condition is that any Pokémon coming after them may also attack Alomomola."
+        },
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
+            "Violet": "They float upon the open sea. Many water Pokémon gather in the area around Alomomola."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 4 , 17 , 18 , Driftveil City , P2 Laboratory ( Surfing in rippling water )",
+            "White": "Routes 4 , 17 , 18 , Driftveil City , P2 Laboratory ( Surfing in rippling water )",
+            "Black 2": "Routes 4 , 17 , 18 and 21 , Virbank City , Virbank Complex , P2 Laboratory ( Surfing in rippling water )",
+            "White 2": "Routes 4 , 17 , 18 and 21 , Virbank City , Virbank Complex , P2 Laboratory ( Surfing in rippling water )",
+            "Dream World": "Sparkling Sea *"
+        },
+        "Generation VI": {
+            "X": "Shalour City , Azure Bay ( Super Rod )",
+            "Y": "Shalour City , Azure Bay ( Super Rod )",
+            "Omega Ruby": "Routes 122 , 124 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 and 134 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Routes 122 , 124 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 and 134 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Brooklet Hill ( Fishing )",
+            "Moon": "Brooklet Hill ( Fishing )",
+            "Ultra Sun": "Brooklet Hill ( Fishing )",
+            "Ultra Moon": "Brooklet Hill ( Fishing )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Paldean Sea Tera Raid Battles ( 4★ )",
+            "Violet": "North Paldean Sea Tera Raid Battles ( 4★ )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth , Canyon Biome , Chargestone Cavern"
+        }
+    },
+    "evolution": []
+}

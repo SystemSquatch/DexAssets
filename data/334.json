@@ -1,0 +1,124 @@
+{
+    "name": "Altaria",
+    "pokedex_number": "#0334",
+    "types": [
+        "Dragon",
+        "Flying"
+    ],
+    "abilities": [
+        "Natural Cure",
+        "Cloud Nine",
+        "Pixilate"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 70,
+        "Defense": 90,
+        "Sp. Atk": 70,
+        "Sp. Def": 105,
+        "Speed": 80,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Altaria dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this Pok é mon makes its listeners experience dreamy wonderment.",
+            "Sapphire": "Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pok é mon catches updrafts with its buoyant wings and soars way up into the wild blue yonder.",
+            "Emerald": "It hums in a beautiful soprano voice. It flies among white clouds in the blue sky. It launches intensely hot fireballs from its mouth.",
+            "FireRed": "If you hear a beautiful melody trilling deep among mountains far from people, it is Altaria 's humming.",
+            "LeafGreen": "If you hear a beautiful melody trilling deep among mountains far from people, it is Altaria 's humming."
+        },
+        "Generation IV": {
+            "Diamond": "It looks like a fluffy cloud when it is in flight. It hums with its soprano voice.",
+            "Pearl": "It looks like a fluffy cloud when it is in flight. It hums with its soprano voice.",
+            "Platinum": "If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.",
+            "HeartGold": "It flies gracefully through the sky. Its melodic humming makes you feel like you're in a dream.",
+            "SoulSilver": "It flies gracefully through the sky. Its melodic humming makes you feel like you're in a dream."
+        },
+        "Generation V": {
+            "Black": "If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.",
+            "White": "If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.",
+            "Black 2": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano.",
+            "White 2": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano."
+        },
+        "Generation VI": {
+            "X": "It flies gracefully through the sky. Its melodic humming makes you feel like you're in a dream.",
+            "Y": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano.",
+            "Omega Ruby": "Altaria dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this Pokémon makes its listeners experience dreamy wonderment.",
+            "Alpha Sapphire": "Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pokémon catches updrafts with its buoyant wings and soars way up into the wild blue yonder."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "As it flies in a calm and relaxed manner, Altaria performs a humming song that would enrapture any audience.",
+            "Shield": "This Pokémon has a kind disposition, but if it's provoked, it will threaten opponents with shrill cries before attacking them without mercy.",
+            "Brilliant Diamond": "It looks like a fluffy cloud when it is in flight. It hums with its soprano voice.",
+            "Shining Pearl": "It looks like a fluffy cloud when it is in flight. It hums with its soprano voice."
+        },
+        "Generation IX": {
+            "Scarlet": "If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.",
+            "Violet": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Sky Pillar",
+            "Sapphire": "Sky Pillar",
+            "Emerald": "Sky Pillar",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Evolve Swablu",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Swablu",
+            "Pearl": "Evolve Swablu",
+            "Platinum": "Evolve Swablu",
+            "HeartGold": "Evolve Swablu",
+            "SoulSilver": "Evolve Swablu",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Route 14",
+            "White": "Route 14",
+            "Black 2": "Route 14 , Victory Road , Abundant Shrine , Nature Preserve",
+            "White 2": "Route 14 , Victory Road , Abundant Shrine , Nature Preserve"
+        },
+        "Generation VI": {
+            "X": "Route 21",
+            "Y": "Route 21",
+            "Omega Ruby": "Evolve Swablu",
+            "Alpha Sapphire": "Evolve Swablu"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Cliff World )",
+            "Ultra Moon": "Ultra Space Wilds ( Cliff World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Giant's Bed , Path to the Peak , Giant's Foot , Frigid Sea , Ballimere Lake ( Wanderer ) Slippery Slope , Frostpoint Field , Giant's Bed , Giant's Foot , Frigid Sea , Ballimere Lake , Dyna Tree Hill ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Swablu",
+            "Shining Pearl": "Evolve Swablu",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six West Province: Area Three North Province: Area One , Area Two , Casseroya Lake West Province: Area One ( Fairy Tera Type ) Tera Raid Battles ( 5★ )",
+            "Violet": "South Province: Area Six West Province: Area Three North Province: Area One , Area Two , Casseroya Lake West Province: Area One ( Fairy Tera Type ) Tera Raid Battles ( 5★ )",
+            "The Hidden Treasure of Area Zero": "Canyon Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Swablu",
+            "to": "Altaria",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

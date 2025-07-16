@@ -1,0 +1,149 @@
+{
+    "name": "Starmie",
+    "pokedex_number": "#0121",
+    "types": [
+        "Water",
+        "Psychic"
+    ],
+    "abilities": [
+        "Illuminate",
+        "Natural Cure",
+        "Analytic"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 75,
+        "Defense": 85,
+        "Sp. Atk": 100,
+        "Sp. Def": 85,
+        "Speed": 115,
+        "Total": 520
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
+            "Yellow": "The center section is named the core. People think it is communicating when it glows in 7 colors.",
+            "Stadium": "When away from human eyes, its core is said to glow mysteriously in seven colors. This Pokémon may have come from outer space."
+        },
+        "Generation II": {
+            "Gold": "The center section of its body is called the core. It glows in a different color each time it is seen.",
+            "Silver": "Regardless of the environment it lives in, its body grows to form a symmetrical geometric shape.",
+            "Crystal": "It is said that it uses the seven-colored core of its body to send electric waves into outer space.",
+            "Stadium 2": "The center section of its body is called the core. It glows in a different color each time it is seen. (Pokémon Red, Silver, or Crystal inserted) Regardless of the environment it lives in, its body grows to form a symmetrical geometric shape. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Starmie 's center section - the core - glows brightly in seven colors. Because of its luminous nature, this Pok é mon has been given the nickname “the gem of the sea.”",
+            "Sapphire": "Starmie swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center of this Pok é mon 's body glows in seven colors.",
+            "Emerald": "People in ancient times imagined that Starmie were transformed from the reflections of stars that twinkled on gentle waves at night.",
+            "FireRed": "This Pok é mon has a geometric body. Because of its body, the locals suspect that it is an alien creature.",
+            "LeafGreen": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem."
+        },
+        "Generation IV": {
+            "Diamond": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
+            "Pearl": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
+            "Platinum": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
+            "HeartGold": "The middle section of its body is called the core. It glows in a different color each time it is seen.",
+            "SoulSilver": "Regardless of the environment it lives in, its body grows to form a symmetrical geometric shape."
+        },
+        "Generation V": {
+            "Black": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
+            "White": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
+            "Black 2": "Its core shines in many colors and sends radio signals into space to communicate with something.",
+            "White 2": "Its core shines in many colors and sends radio signals into space to communicate with something."
+        },
+        "Generation VI": {
+            "X": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
+            "Y": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
+            "Omega Ruby": "Starmie's center section—the core—glows brightly in seven colors. Because of its luminous nature, this Pokémon has been given the nickname \"the gem of the sea.\"",
+            "Alpha Sapphire": "Starmie swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center of this Pokémon's body glows in seven colors."
+        },
+        "Generation VII": {
+            "Sun": "Its shining core is thought to receive and transmit enigmatic signals. It has been known to cause headaches in those who approach it.",
+            "Moon": "Its unusual body shape, reminiscent of abstract art, led local people to spread rumors that this Pokémon may be an invader from outer space.",
+            "Ultra Sun": "Its sparkling core is called \"the gem of the sea.\" This core can be made into high-priced accessories that are traded in secret.",
+            "Ultra Moon": "It rotates its geometrically shaped body to swim through the water. It always seems to be sending out mysterious radio waves.",
+            "Let's Go Pikachu": "The center section is named the core. People think it is communicating when it glows in seven colors.",
+            "Let's Go Eevee": "The center section is named the core. People think it is communicating when it glows in seven colors."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon has an organ known as its core. The organ glows in seven colors when Starmie is unleashing its potent psychic powers.",
+            "Shield": "Starmie swims by spinning its body at high speed. As this Pokémon cruises through the ocean, it absorbs tiny plankton.",
+            "Brilliant Diamond": "At the center of its body is a red core that sends mysterious radio signals into the night sky.",
+            "Shining Pearl": "At the center of its body is a red core that sends mysterious radio signals into the night sky."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Evolve Staryu",
+            "Blue": "Evolve Staryu",
+            "Blue (Japan)": "Evolve Staryu",
+            "Yellow": "Evolve Staryu"
+        },
+        "Generation II": {
+            "Gold": "Evolve Staryu",
+            "Silver": "Evolve Staryu",
+            "Crystal": "Evolve Staryu"
+        },
+        "Generation III": {
+            "Ruby": "Evolve Staryu",
+            "Sapphire": "Evolve Staryu",
+            "Emerald": "Evolve Staryu",
+            "FireRed": "Trade",
+            "LeafGreen": "Evolve Staryu",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Staryu",
+            "Pearl": "Evolve Staryu",
+            "Platinum": "Evolve Staryu",
+            "HeartGold": "Evolve Staryu",
+            "SoulSilver": "Evolve Staryu",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Route 13 ( Surfing on rippling water )",
+            "White": "Route 13 ( Surfing on rippling water )",
+            "Black 2": "Route 13 , Undella Town , Humilau City ( Surfing on rippling water )",
+            "White 2": "Route 13 , Undella Town , Humilau City ( Surfing on rippling water )"
+        },
+        "Generation VI": {
+            "X": "Route 8 ( Super Rod )",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Staryu",
+            "Alpha Sapphire": "Evolve Staryu"
+        },
+        "Generation VII": {
+            "Sun": "Route 7 ( SOS Battle )",
+            "Moon": "Route 7 ( SOS Battle )",
+            "Ultra Sun": "Route 7 , Hano Beach ( SOS Battle )",
+            "Ultra Moon": "Route 7 , Hano Beach ( SOS Battle )",
+            "Let's Go Pikachu": "Routes 18 , 19 , and 21 ( Sea Skim )",
+            "Let's Go Eevee": "Routes 18 , 19 , and 21 ( Sea Skim )"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Fields of Honor , Challenge Beach ( Wanderer ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Staryu",
+            "Shining Pearl": "Evolve Staryu",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Staryu",
+            "to": "Starmie",
+            "method": [
+                "Use Water Stone"
+            ]
+        }
+    ]
+}

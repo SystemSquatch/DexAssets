@@ -1,0 +1,156 @@
+{
+    "name": "Ekans",
+    "pokedex_number": "#0023",
+    "types": [
+        "Poison",
+        "Unknown"
+    ],
+    "abilities": [
+        "Intimidate",
+        "Shed Skin",
+        "Unnerve"
+    ],
+    "stats": {
+        "HP": 35,
+        "Attack": 60,
+        "Defense": 44,
+        "Sp. Atk": 40,
+        "Sp. Def": 54,
+        "Speed": 55,
+        "Total": 288
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Moves silently and stealthily. Eats the eggs of birds, such as Pidgey and Spearow , whole.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Moves silently and stealthily. Eats the eggs of birds, such as Pidgey and Spearow , whole.",
+            "Yellow": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+            "Stadium": "Slithers silently through grass, searching for its favorite food-- Pidgey and Spearow eggs."
+        },
+        "Generation II": {
+            "Gold": "It can freely detach its jaw to swallow large prey whole. It can become too heavy to move, however.",
+            "Silver": "It always hides in grass. When first born, it has no poison, so its bite is painful, but harmless.",
+            "Crystal": "It flutters the tip of its tongue to seek out the scent of prey, then swallows the prey whole.",
+            "Stadium 2": "It can freely detach its jaw to swallow large prey whole. It can become too heavy to move, however. (Pokémon Red, Silver, or Crystal inserted) It always hides in grass. When first born, it has no poison, so its bite is painful, but harmless. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
+            "Sapphire": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
+            "Emerald": "An Ekans curls itself up in a spiral while it rests. This position allows it to quickly respond to an enemy from any direction with a threat from its upraised head.",
+            "FireRed": "A very common sight in grassland, etc. It flicks its tongue in and out to sense danger in its surroundings.",
+            "LeafGreen": "Moving silently and stealthily, it eats the eggs of birds, such as Pidgey and Spearow , whole."
+        },
+        "Generation IV": {
+            "Diamond": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
+            "Pearl": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
+            "Platinum": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
+            "HeartGold": "It can freely detach its jaw to swallow large prey whole. It can become too heavy to move, however.",
+            "SoulSilver": "It always hides in grass. When first born, it has no poison, so its bite is painful, but harmless."
+        },
+        "Generation V": {
+            "Black": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
+            "White": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
+            "Black 2": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
+            "White 2": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind."
+        },
+        "Generation VI": {
+            "X": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+            "Y": "Moving silently and stealthily, it eats the eggs of birds, such as Pidgey and Spearow, whole.",
+            "Omega Ruby": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
+            "Alpha Sapphire": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head."
+        },
+        "Generation VII": {
+            "Ultra Sun": "By dislocating its jaw, it can swallow prey larger than itself. After a meal, it curls up and rests.",
+            "Ultra Moon": "The eggs of bird Pokémon are its favorite food. It swallows eggs whole, so sometimes an egg gets stuck, and Ekans faints.",
+            "Let's Go Pikachu": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+            "Let's Go Eevee": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
+            "Shining Pearl": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind."
+        },
+        "Generation IX": {
+            "Scarlet": "It can freely detach its jaw to swallow large prey whole. It can become too heavy to move, however.",
+            "Violet": "A very common sight in grasslands and such. It flicks its tongue in and out to sense danger in its surroundings."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 4 , 8 , 9 , 10 , 11 , and 23",
+            "Blue": "Trade",
+            "Blue (Japan)": "Trade",
+            "Yellow": "Trade"
+        },
+        "Generation II": {
+            "Gold": "Goldenrod Game Corner",
+            "Silver": "Routes 3 , 4 , 32 , and 33",
+            "Crystal": "Routes 3 , 4 , 32 , 33 , and 42 Morning Day Routes 26 , 27 , 32 , 33 , and 42 , Azalea Town ( Headbutt trees )"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "Routes 4 , 8 , 9 , 10 , 11 , and 23",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 212 (FireRed)",
+            "Pearl": "Route 212 (FireRed)",
+            "Platinum": "Route 212 (FireRed)",
+            "HeartGold": "Goldenrod Game Corner Safari Zone Morning Day (tall grass in Marshland, default)",
+            "SoulSilver": "Routes 3 , 4 , 32 , and 33 Safari Zone Morning Day (tall grass in Marshland, default)",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Route 14 ( Horde Encounter )",
+            "Y": "Route 14 ( Horde Encounter )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 2",
+            "Ultra Moon": "Route 2",
+            "Let's Go Pikachu": "Trade",
+            "Let's Go Eevee": "Routes 3 and 4"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Grand Underground - Grassland Cave , Swampy Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Apple Hills , Loyalty Plaza , Reveler's Road , Mossfell Confluence , Fellhorn Gorge , Oni Mountain , Wistful Fields Tera Raid Battles ( 1★ , 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Ekans",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Ekans",
+            "to": "Arbok",
+            "method": [
+                "Level 22"
+            ]
+        }
+    ]
+}

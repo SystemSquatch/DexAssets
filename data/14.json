@@ -1,0 +1,147 @@
+{
+    "name": "Kakuna",
+    "pokedex_number": "#0014",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "abilities": [
+        "Shed Skin"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 25,
+        "Defense": 50,
+        "Sp. Atk": 25,
+        "Sp. Def": 25,
+        "Speed": 35,
+        "Total": 205
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Almost incapable of moving, this Pok é mon can only harden its shell to protect itself from predators.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Almost incapable of moving, this Pok é mon can only harden its shell to protect itself from predators.",
+            "Yellow": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
+            "Stadium": "Because it is virtually motionless, it may appear dead. Inside, however, a new body is being made."
+        },
+        "Generation II": {
+            "Gold": "Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked.",
+            "Silver": "From this form, it will grow into an adult. As its body becomes softer, the external shell hardens.",
+            "Crystal": "Nearly incapable of movement, it leans against stout trees while waiting for its evolution .",
+            "Stadium 2": "Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked. (Pokémon Red, Silver, or Crystal inserted) From this form, it will grow into an adult. As its body becomes softer, the external shell hardens. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
+            "Sapphire": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
+            "Emerald": "It remains virtually immobile while it clings to a tree. However, on the inside, it busily prepares for evolution. This is evident from how hot its shell becomes.",
+            "FireRed": "This Pok é mon is in a temporary stage while making its body. It is almost completely unable to move on its own.",
+            "LeafGreen": "Almost incapable of moving, this Pok é mon can only harden its shell to protect itself when it is in danger."
+        },
+        "Generation IV": {
+            "Diamond": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+            "Pearl": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+            "Platinum": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+            "HeartGold": "Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked.",
+            "SoulSilver": "From this form, it will grow into an adult. As its body becomes softer, the external shell hardens."
+        },
+        "Generation V": {
+            "Black": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+            "White": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+            "Black 2": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+            "White 2": "While awaiting evolution, it hides from predators under leaves and in nooks of branches."
+        },
+        "Generation VI": {
+            "X": "Almost incapable of moving, this Pokémon can only harden its shell to protect itself when it is in danger.",
+            "Y": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+            "Omega Ruby": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
+            "Alpha Sapphire": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
+            "Let's Go Eevee": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+            "Shining Pearl": "While awaiting evolution, it hides from predators under leaves and in nooks of branches."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 24 and 25 , Viridian Forest",
+            "Blue": "Route 25 , Viridian Forest",
+            "Blue (Japan)": "Route 25 , Viridian Forest",
+            "Yellow": "Trade"
+        },
+        "Generation II": {
+            "Gold": "National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "Silver": "Routes 2 , 30 , and 31 , National Park and Ilex Forest Morning Day National Park ( Bug-Catching Contest ) Tu Th Sa Routes 26 , 27 , 34 , 35 , 36 , 37 , 38 , and 39 , Azalea Town , Ilex Forest , Lake of Rage ( Headbutt trees )",
+            "Crystal": "Ilex Forest Morning Day National Park ( Bug-Catching Contest ) Tu Th Sa Ilex Forest ( Headbutt trees )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Routes 24 and 25 , Viridian Forest , Pattern Bush",
+            "LeafGreen": "Routes 24 and 25 , Viridian Forest , Pattern Bush",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Eterna Forest (LeafGreen)",
+            "Pearl": "Eterna Forest (LeafGreen)",
+            "Platinum": "Eterna Forest (LeafGreen)",
+            "HeartGold": "National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "SoulSilver": "Routes 2 , 30 , and 31 , Ilex Forest , National Park , Viridian Forest Morning Day National Park ( Bug-Catching Contest ) Tu Th Sa Route 47 , Ilex Forest ( Headbutt trees )",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Route 12",
+            "White": "Trade",
+            "Black 2": "Evolve Weedle",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Santalune Forest , Friend Safari ( Poison )",
+            "Y": "Friend Safari ( Poison )",
+            "Omega Ruby": "Safari Zone ( hidden Pokémon * )",
+            "Alpha Sapphire": "Safari Zone ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Weedle",
+            "Ultra Moon": "Evolve Weedle",
+            "Let's Go Pikachu": "Viridian Forest",
+            "Let's Go Eevee": "Viridian Forest"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Evolve Weedle",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Weedle",
+            "to": "Kakuna",
+            "method": [
+                "Level 7"
+            ]
+        },
+        {
+            "from": "Kakuna",
+            "to": "Beedrill",
+            "method": [
+                "Level 10"
+            ]
+        }
+    ]
+}

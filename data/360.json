@@ -1,0 +1,125 @@
+{
+    "name": "Wynaut",
+    "pokedex_number": "#0360",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Shadow Tag",
+        "Telepathy"
+    ],
+    "stats": {
+        "HP": 95,
+        "Attack": 23,
+        "Defense": 48,
+        "Sp. Atk": 23,
+        "Sp. Def": 48,
+        "Speed": 23,
+        "Total": 260
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Wynaut can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this Pok é mon will be slapping the ground with its tail.",
+            "Sapphire": "Wynaut gather on moonlit nights to play by squeezing up against each other. By being squeezed, this Pok é mon gains endurance and is trained to dole out powerful counterattacks.",
+            "Emerald": "A Wynaut loves to eat sweet fruits. It cleverly picks fruits using its earlike arms. They gather in fruit gardens, drawn by the fragrance.",
+            "FireRed": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+            "LeafGreen": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave."
+        },
+        "Generation IV": {
+            "Diamond": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
+            "Pearl": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
+            "Platinum": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
+            "HeartGold": "It tends to move in a pack. Individuals squash against one another to toughen their spirits.",
+            "SoulSilver": "It tends to move in a pack. Individuals squash against one another to toughen their spirits."
+        },
+        "Generation V": {
+            "Black": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
+            "White": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
+            "Black 2": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
+            "White 2": "It grows strong by pushing up against others en masse. It loves eating sweet fruit."
+        },
+        "Generation VI": {
+            "X": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+            "Y": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
+            "Omega Ruby": "Wynaut can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this Pokémon will be slapping the ground with its tail.",
+            "Alpha Sapphire": "Wynaut gather on moonlit nights to play by squeezing up against each other. By being squeezed, this Pokémon gains endurance and is trained to dole out powerful counterattacks."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It tends to move in a pack. Individuals squash against one another to toughen their spirits.",
+            "Shield": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+            "Brilliant Diamond": "They grow strong by pushing up against one another en masse. They love eating sweet fruit.",
+            "Shining Pearl": "They grow strong by pushing up against one another en masse. They love eating sweet fruit."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Hatch Egg received from an old couple in Lavaridge Town Route 130 ( Mirage Island )",
+            "Sapphire": "Hatch Egg received from an old couple in Lavaridge Town Route 130 ( Mirage Island )",
+            "Emerald": "Hatch Egg received from an old couple in Lavaridge Town Route 130 ( Mirage Island )",
+            "FireRed": "Breed Wobbuffet holding a Lax Incense",
+            "LeafGreen": "Breed Wobbuffet holding a Lax Incense",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Breed Wobbuffet holding a Lax Incense",
+            "Pearl": "Breed Wobbuffet holding a Lax Incense",
+            "Platinum": "Breed Wobbuffet holding a Lax Incense",
+            "HeartGold": "Breed Wobbuffet holding a Lax Incense",
+            "SoulSilver": "Breed Wobbuffet holding a Lax Incense",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Route 2 ( Swarm )",
+            "White": "Route 2 ( Swarm )",
+            "Black 2": "Breed Wobbuffet holding a Lax Incense",
+            "White 2": "Breed Wobbuffet holding a Lax Incense"
+        },
+        "Generation VI": {
+            "X": "Breed Wobbuffet holding a Lax Incense",
+            "Y": "Breed Wobbuffet holding a Lax Incense",
+            "Omega Ruby": "Hatch Egg received from an old couple in Lavaridge Town",
+            "Alpha Sapphire": "Hatch Egg received from an old couple in Lavaridge Town"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Hammerlocke Hills , Motostoke Riverbank , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Hammerlocke Hills , Motostoke Riverbank , Stony Wilderness ( Max Raid Battle )",
+            "Brilliant Diamond": "Breed Wobbuffet holding a Lax Incense",
+            "Shining Pearl": "Breed Wobbuffet holding a Lax Incense",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Wynaut",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Wynaut",
+            "to": "Wobbuffet",
+            "method": [
+                "Level 15"
+            ]
+        }
+    ]
+}

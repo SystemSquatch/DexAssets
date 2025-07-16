@@ -1,0 +1,134 @@
+{
+    "name": "Azumarill",
+    "pokedex_number": "#0184",
+    "types": [
+        "Water",
+        "Fairy"
+    ],
+    "abilities": [
+        "Thick Fat",
+        "Huge Power",
+        "Sap Sipper"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 50,
+        "Defense": 80,
+        "Sp. Atk": 50,
+        "Sp. Def": 80,
+        "Speed": 50,
+        "Total": 410
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers.",
+            "Silver": "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet.",
+            "Crystal": "The bubble-like pattern on its stomach helps it camouflage itself when it's in the water.",
+            "Stadium 2": "By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers. (Pokémon Red, Silver, or Crystal inserted) When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Azumarill 's long ears are indispensable sensors. By focusing its hearing, this Pok é mon can identify what kinds of prey are around, even in rough and fast-running rivers.",
+            "Sapphire": "Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pok é mon . The air balloons enable the Pok é mon in trouble to breathe.",
+            "Emerald": "It lives in water virtually all day long. Its body color and pattern act as camouflage that makes it tough for enemies to spot in water.",
+            "FireRed": "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet.",
+            "LeafGreen": "By keeping still and listening intently, it can even tell what is in wild, fast-moving rivers."
+        },
+        "Generation IV": {
+            "Diamond": "It lives in rivers and lakes. In water, its coloring and patterns trick the vision of foes.",
+            "Pearl": "Its long ears are superb sensors. It can distinguish the movements of living things on riverbeds.",
+            "Platinum": "It can spend all day in water, since it can inhale and store a large volume of air.",
+            "HeartGold": "By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers.",
+            "SoulSilver": "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet."
+        },
+        "Generation V": {
+            "Black": "It can spend all day in water, since it can inhale and store a large volume of air.",
+            "White": "It can spend all day in water, since it can inhale and store a large volume of air.",
+            "Black 2": "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",
+            "White 2": "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are."
+        },
+        "Generation VI": {
+            "X": "Its long ears are superb sensors. It can distinguish the movements of living things on riverbeds.",
+            "Y": "The bubble-like pattern on its stomach helps it camouflage itself when it's in the water.",
+            "Omega Ruby": "Azumarill's long ears are indispensable sensors. By focusing its hearing, this Pokémon can identify what kinds of prey are around, even in rough and fast-running rivers.",
+            "Alpha Sapphire": "Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pokémon. The air balloons enable the Pokémon in trouble to breathe."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It spends most of its time in the water. On sunny days, Azumarill floats on the surface of the water and sunbathes.",
+            "Shield": "These Pokémon create air-filled bubbles. When Azurill play in rivers, Azumarill will cover them with these bubbles.",
+            "Brilliant Diamond": "It lives in rivers and lakes. In water, its coloring and patterns trick the vision of foes.",
+            "Shining Pearl": "Its long ears are superb sensors. It can distinguish the movements of living things on riverbeds."
+        },
+        "Generation IX": {
+            "Scarlet": "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",
+            "Violet": "By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Marill",
+            "Silver": "Evolve Marill",
+            "Crystal": "Evolve Marill"
+        },
+        "Generation III": {
+            "Ruby": "Evolve Marill",
+            "Sapphire": "Evolve Marill",
+            "Emerald": "Evolve Marill",
+            "FireRed": "Trade",
+            "LeafGreen": "Evolve Marill",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Marill",
+            "Pearl": "Evolve Marill",
+            "Platinum": "Victory Road",
+            "HeartGold": "Evolve Marill",
+            "SoulSilver": "Evolve Marill",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Marill",
+            "Black 2": "Routes 6 , 11 , 20 , and 22 , Village Bridge , Abundant Shrine , Floccesy Ranch , Pinwheel Forest , Victory Road * , Relic Passage ( Surfing in rippling water ) Routes 6 , 11 , and 22 , Village Bridge , Abundant Shrine ( Rustling grass )",
+            "White 2": "Routes 6 , 11 , 20 , and 22 , Village Bridge , Abundant Shrine , Floccesy Ranch , Pinwheel Forest , Victory Road * , Relic Passage ( Surfing in rippling water ) Routes 6 , 11 , and 22 , Village Bridge , Abundant Shrine ( Rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Route 22 , Friend Safari ( Water )",
+            "Y": "Route 22 , Friend Safari ( Water )",
+            "Omega Ruby": "Routes 102 , 111 , 114 , 117 , 120 , and 123 , Petalburg City ( Surfing )",
+            "Alpha Sapphire": "Routes 102 , 111 , 114 , 117 , 120 , and 123 , Petalburg City ( Surfing )"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Marill",
+            "Moon": "Evolve Marill",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Soothing Wetlands , Training Lowlands ( Wanderer ) Fields of Honor ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Marill",
+            "Shining Pearl": "Evolve Marill",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area Two North Province: Casseroya Lake North Province: Casseroya Lake ( Fairy Tera Type ) Tera Raid Battles ( 4★ )",
+            "Violet": "West Province: Area Two North Province: Casseroya Lake North Province: Casseroya Lake ( Fairy Tera Type ) Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Marill",
+            "to": "Azumarill",
+            "method": [
+                "Level 18"
+            ]
+        }
+    ]
+}

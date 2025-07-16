@@ -1,0 +1,65 @@
+{
+    "name": "Morgrem",
+    "pokedex_number": "#0860",
+    "types": [
+        "Dark",
+        "Fairy"
+    ],
+    "abilities": [
+        "Prankster",
+        "Frisk",
+        "Pickpocket"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 45,
+        "Sp. Atk": 75,
+        "Sp. Def": 55,
+        "Speed": 70,
+        "Total": 370
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "When it gets down on all fours as if to beg for forgiveness, it's trying to lure opponents in so that it can stab them with its spear-like hair .",
+            "Shield": "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow."
+        },
+        "Generation IX": {
+            "Scarlet": "Morgrem prefers dirty tactics, like ambushing, because it doesn’t have confidence in its brawn.",
+            "Violet": "This Pokémon absorbs negative emotions and turns them into energy. It's popular with people who tend to think gloomy thoughts."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Glimwood Tangle Bridge Field , Dusty Bowl , Giant's Mirror , Hammerlocke Hills , Lake of Outrage , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Glimwood Tangle Bridge Field , Dusty Bowl , Giant's Mirror , Hammerlocke Hills , Lake of Outrage , Rolling Fields ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed , Snowslide Slope , Giant's Foot Frostpoint Field , Giant's Bed , Snowslide Slope , Giant's Foot , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Tagtree Thicket Tera Raid Battles ( 3★ )",
+            "Violet": "East Province: Tagtree Thicket Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Impidimp",
+            "to": "Morgrem",
+            "method": [
+                "Level 32"
+            ]
+        },
+        {
+            "from": "Morgrem",
+            "to": "Grimmsnarl",
+            "method": [
+                "Level 42"
+            ]
+        }
+    ]
+}

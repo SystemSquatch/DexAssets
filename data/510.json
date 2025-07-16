@@ -1,0 +1,87 @@
+{
+    "name": "Liepard",
+    "pokedex_number": "#0510",
+    "types": [
+        "Dark",
+        "Unknown"
+    ],
+    "abilities": [
+        "Limber",
+        "Unburden",
+        "Prankster"
+    ],
+    "stats": {
+        "HP": 64,
+        "Attack": 88,
+        "Defense": 50,
+        "Sp. Atk": 88,
+        "Sp. Def": 50,
+        "Speed": 106,
+        "Total": 446
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "These Pokémon vanish and appear unexpectedly. Many Trainers are drawn to their beautiful form and fur.",
+            "White": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
+            "Black 2": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
+            "White 2": "Their beautiful form comes from the muscles they have developed. They run silently in the night."
+        },
+        "Generation VI": {
+            "X": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
+            "Y": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
+            "Omega Ruby": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
+            "Alpha Sapphire": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",
+            "Shield": "This stealthy Pokémon sneaks up behind prey without making any sound at all. It competes with Thievul for territory."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 5 , 9 , and 16 Dreamyard (Ruins; dark grass )",
+            "White": "Routes 5 , 9 , and 16 Dreamyard (Ruins; dark grass )",
+            "Black 2": "Routes 2 , 5 , 9 , and 16 , Dreamyard Routes 5 and 9 ( Hidden Grotto )",
+            "White 2": "Routes 2 , 5 , 9 , and 16 , Dreamyard Routes 5 and 9 ( Hidden Grotto )"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Dark )",
+            "Y": "Route 15 , Friend Safari ( Dark )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Routes 7 , 9 , Axew's Eye , Giant's Seat , Bridge Field , Giant's Cap West Lake Axewell , Bridge Field , Stony Wilderness , Giant's Mirror , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Routes 7 , 9 , Axew's Eye , Giant's Seat , Bridge Field , Giant's Cap West Lake Axewell , Bridge Field , Stony Wilderness , Giant's Mirror , Dusty Bowl ( Max Raid Battle )",
+            "Expansion Pass": "Frostpoint Field , Giant's Bed , Snowslide Slope , Giant's Foot , Frigid Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Purrloin",
+            "to": "Liepard",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "name": "Tyranitar",
+    "pokedex_number": "#0248",
+    "types": [
+        "Rock",
+        "Dark"
+    ],
+    "abilities": [
+        "Sand Stream",
+        "Unnerve",
+        "Sand Stream"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 134,
+        "Defense": 110,
+        "Sp. Atk": 95,
+        "Sp. Def": 100,
+        "Speed": 61,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
+            "Silver": "Extremely strong, it can change the landscape. It has an insolent nature that makes it not care about others.",
+            "Crystal": "In just one of its mighty hands, it has the power to make the ground shake and mountains crumble.",
+            "Stadium 2": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies. (Pokémon Red, Silver, or Crystal inserted) Extremely strong, it can change the landscape. It has an insolent nature that makes it not care about others. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pok é mon wanders about in mountains seeking new opponents to fight.",
+            "Sapphire": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pok é mon wanders about in mountains seeking new opponents to fight.",
+            "Emerald": "A Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. It roams in mountains seeking new opponents to fight.",
+            "FireRed": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies. (Version 1.0) It has an impudent nature. Having great strength, it can even change surrounding landforms. (Version 1.1)",
+            "LeafGreen": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies."
+        },
+        "Generation IV": {
+            "Diamond": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+            "Pearl": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+            "Platinum": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+            "HeartGold": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
+            "SoulSilver": "Extremely strong, it can change the landscape. It has an insolent nature that makes it not care about others."
+        },
+        "Generation V": {
+            "Black": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+            "White": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+            "Black 2": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
+            "White 2": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain."
+        },
+        "Generation VI": {
+            "X": "In just one of its mighty hands, it has the power to make the ground shake and mountains crumble.",
+            "Y": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+            "Omega Ruby": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.",
+            "Alpha Sapphire": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Due to the colossal power poured into it, this Pokémon's back split right open. Its destructive instincts are the only thing keeping it moving.",
+            "Ultra Moon": "The effects of Mega Evolution make it more ferocious than ever. It's unclear whether it can even hear its Trainer's orders."
+        },
+        "Generation VIII": {
+            "Sword": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
+            "Shield": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
+            "Brilliant Diamond": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+            "Shining Pearl": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward."
+        },
+        "Generation IX": {
+            "Scarlet": "Extremely strong, it can change the landscape. It is so insolent that it doesn’t care about others.",
+            "Violet": "In just one of its mighty hands, it has the power to make the ground shake and mountains crumble."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Pupitar",
+            "Silver": "Evolve Pupitar",
+            "Crystal": "Evolve Pupitar"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "Evolve Pupitar",
+            "LeafGreen": "Evolve Pupitar",
+            "Colosseum": "Tower Colosseum (Shadow)",
+            "XD": "Evolve Pupitar"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Pupitar",
+            "Pearl": "Trade",
+            "Platinum": "Evolve Pupitar",
+            "HeartGold": "Evolve Pupitar",
+            "SoulSilver": "Evolve Pupitar",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Route 15 ( rustling grass )",
+            "White": "Route 15 ( rustling grass )",
+            "Black 2": "Route 15 ( rustling grass )",
+            "White 2": "Route 15 ( rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Pupitar",
+            "Y": "Evolve Pupitar",
+            "Omega Ruby": "Trade , Event",
+            "Alpha Sapphire": "Trade , Event"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Pupitar",
+            "Ultra Moon": "Evolve Pupitar",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade , Evolve Dynamax Crystal Pupitar , Wild Area News",
+            "Shield": "Dusty Bowl ( Wanderer ) Bridge Field , Dusty Bowl , Giant's Mirror , Giant's Seat , Rolling Fields , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Shield Expansion Pass": "Roaring-Sea Caves ( Wanderer )",
+            "Brilliant Diamond": "Evolve Pupitar",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "Tera Raid Battle Search ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Pupitar",
+            "to": "Tyranitar",
+            "method": [
+                "Level 55"
+            ]
+        }
+    ]
+}

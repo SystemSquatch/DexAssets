@@ -1,0 +1,83 @@
+{
+    "name": "Druddigon",
+    "pokedex_number": "#0621",
+    "types": [
+        "Dragon",
+        "Unknown"
+    ],
+    "abilities": [
+        "Rough Skin",
+        "Sheer Force",
+        "Mold Breaker"
+    ],
+    "stats": {
+        "HP": 77,
+        "Attack": 120,
+        "Defense": 90,
+        "Sp. Atk": 60,
+        "Sp. Def": 90,
+        "Speed": 48,
+        "Total": 485
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
+            "White": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
+            "Black 2": "It runs through the narrow tunnels formed by Excadrill and Onix . It uses its sharp claws to catch prey.",
+            "White 2": "It runs through the narrow tunnels formed by Excadrill and Onix . It uses its sharp claws to catch prey."
+        },
+        "Generation VI": {
+            "X": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
+            "Y": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
+            "Omega Ruby": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
+            "Alpha Sapphire": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move."
+        },
+        "Generation VII": {
+            "Ultra Sun": "The red skin on its face is harder than rock. In narrow caves, it squares off against its enemies and charges face-first right into them.",
+            "Ultra Moon": "It infiltrates tunnels that Pokémon like Diglett and Dugtrio have dug and quietly waits for prey to pass through."
+        },
+        "Generation VIII": {
+            "Sword": "Druddigon lives in caves, but it never skips sunbathing—it won't be able to move if its body gets too cold.",
+            "Shield": "Druddigon are vicious and cunning. They take up residence in nests dug out by other Pokémon, treating the stolen nests as their own lairs."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Dragonspiral Tower",
+            "White": "Dragonspiral Tower",
+            "Black 2": "Dragonspiral Tower , Victory Road",
+            "White 2": "Dragonspiral Tower , Victory Road",
+            "Dream World": "Icy Cave *"
+        },
+        "Generation VI": {
+            "X": "Victory Road (Cave), Friend Safari ( Dragon )",
+            "Y": "Victory Road (Cave), Friend Safari ( Dragon )",
+            "Omega Ruby": "Meteor Falls ( hidden Pokémon * )",
+            "Alpha Sapphire": "Meteor Falls ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Resolution Cave",
+            "Ultra Moon": "Resolution Cave",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Snowslide Slope , Path to the Peak , Three-Point Pass Brawler's Cave , Courageous Cavern , Tunnel to the Top ( Wanderer ) Loop Lagoon , Workout Sea , Honeycalm Sea , Giant's Bed , Path to the Peak , Frigid Sea , Three-Point Pass , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

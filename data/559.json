@@ -1,0 +1,102 @@
+{
+    "name": "Scraggy",
+    "pokedex_number": "#0559",
+    "types": [
+        "Dark",
+        "Fighting"
+    ],
+    "abilities": [
+        "Shed Skin",
+        "Moxie",
+        "Intimidate"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 70,
+        "Sp. Atk": 35,
+        "Sp. Def": 70,
+        "Speed": 48,
+        "Total": 348
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
+            "White": "It immediately headbutts anyone that makes eye contact with it. Its skull is massively thick.",
+            "Black 2": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too.",
+            "White 2": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too."
+        },
+        "Generation VI": {
+            "X": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
+            "Y": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too.",
+            "Omega Ruby": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
+            "Alpha Sapphire": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too."
+        },
+        "Generation VII": {
+            "Ultra Sun": "They move in small groups, walking around lazily. Anyone who makes eye contact gets smacked with a headbutt.",
+            "Ultra Moon": "It stretches its saggy skin up to its neck to protect itself. The saggier their skin, the more respect they garner."
+        },
+        "Generation VIII": {
+            "Sword": "If it locks eyes with you, watch out! Nothing and no one is safe from the reckless headbutts of this troublesome Pokémon.",
+            "Shield": "It protects itself with its durable skin. It's thought that this Pokémon will evolve once its skin has completely stretched out."
+        },
+        "Generation IX": {
+            "Scarlet": "It stretches its saggy skin up to its neck to protect itself. Among Scraggy, individuals with saggier skin apparently garner more respect.",
+            "Violet": "It will abruptly headbutt anyone that makes eye contact with it. Its skull is extremely hard."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 4 and 18 , Desert Resort , P2 Laboratory Route 1 ( dark grass )",
+            "White": "Routes 4 and 18 , Desert Resort , P2 Laboratory Route 1 ( dark grass )",
+            "Black 2": "Route 4 and Desert Resort Desert Resort ( N's Pokémon )",
+            "White 2": "Route 4 and Desert Resort Desert Resort ( N's Pokémon )",
+            "Dream World": "Dream Park *"
+        },
+        "Generation VI": {
+            "X": "Route 5 ( Horde Encounter )",
+            "Y": "Route 5 ( Horde Encounter )",
+            "Omega Ruby": "Route 113 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 113 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Routes 16 and 17",
+            "Ultra Moon": "Routes 16 and 17",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Galar Mine No. 2 , Motostoke Outskirts , Bridge Field , Stony Wilderness , Dusty Bowl , Giant's Cap , Giant's Mirror Rolling Fields , West Lake Axewell , South Lake Miloch , North Lake Miloch , Bridge Field , Stony Wilderness , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Sword Expansion Pass": "Challenge Road , Potbottom Desert Soothing Wetlands ( Wanderer )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Canyon Biome , Chargestone Cavern Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Scraggy",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Scraggy",
+            "to": "Scrafty",
+            "method": [
+                "Level 39"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "name": "Cherubi",
+    "pokedex_number": "#0420",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Chlorophyll"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 35,
+        "Defense": 45,
+        "Sp. Atk": 62,
+        "Sp. Def": 53,
+        "Speed": 35,
+        "Total": 275
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
+            "Pearl": "Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution.",
+            "Platinum": "The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off.",
+            "HeartGold": "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
+            "SoulSilver": "It evolves by sucking the energy out of the small ball where it had been storing nutrients."
+        },
+        "Generation V": {
+            "Black": "The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off.",
+            "White": "The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off.",
+            "Black 2": "The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off.",
+            "White 2": "The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off."
+        },
+        "Generation VI": {
+            "X": "Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution.",
+            "Y": "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
+            "Omega Ruby": "Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution.",
+            "Alpha Sapphire": "It evolves by sucking the energy out of the small ball where it had been storing nutrients."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It nimbly dashes about to avoid getting pecked by bird Pokémon that would love to make off with its small, nutrient-rich storage ball.",
+            "Shield": "The deeper a Cherubi's red, the more nutrients it has stockpiled in its body. And the sweeter and tastier its small ball!",
+            "Brilliant Diamond": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
+            "Shining Pearl": "Sunlight colors it red. When the small ball is drained of nutrients and shriveled, evolution is near.",
+            "Legends: Arceus": "Once the fruit growing alongside the main body is large and plump, Cherubi will use the nutrients within to evolve. The fruit then detaches, becoming nourishment for other creatures."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "Pearl": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "Platinum": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "HeartGold": "National Park ( Headbutt trees * ; post-National Dex)",
+            "SoulSilver": "National Park ( Headbutt trees * ; post-National Dex)"
+        },
+        "Generation V": {
+            "Black": "Breed Cherrim",
+            "White": "Breed Cherrim",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Breed Cherrim",
+            "Alpha Sapphire": "Breed Cherrim"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 3 , Rolling Fields , Dappled Grove , Axew's Eye , Watchtower Ruins , North Lake Miloch , Giant's Seat , Giant's Mirror , Giant's Cap , Motostoke Riverbank , Bridge Field , Lake of Outrage , Hammerlocke Hills ( Berry tree ) Bridge Field , Dappled Grove , Giant's Mirror , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 3 , Rolling Fields , Dappled Grove , Axew's Eye , Watchtower Ruins , North Lake Miloch , Giant's Seat , Giant's Mirror , Giant's Cap , Motostoke Riverbank , Bridge Field , Lake of Outrage , Hammerlocke Hills ( Berry tree ) Bridge Field , Dappled Grove , Giant's Mirror , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees ) Grand Underground - Grassland Cave , Sunlit Cavern",
+            "Shining Pearl": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees ) Grand Underground - Grassland Cave , Sunlit Cavern",
+            "Legends: Arceus": "Obsidian Fieldlands : The Heartwood ( mass outbreaks ) Obsidian Fieldlands: The Heartwood Shaking trees Crimson Mirelands : Gapejaw Bog Shaking trees Coronet Highlands : Lonely Spring , near Primeval Grotto , Bolderoll Ravine Shaking trees"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Cherubi",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Cherubi",
+            "to": "Cherrim",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

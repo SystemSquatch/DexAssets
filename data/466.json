@@ -1,0 +1,112 @@
+{
+    "name": "Electivire",
+    "pokedex_number": "#0466",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Motor Drive",
+        "Vital Spirit"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 123,
+        "Defense": 67,
+        "Sp. Atk": 95,
+        "Sp. Def": 85,
+        "Speed": 95,
+        "Total": 540
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.",
+            "Pearl": "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.",
+            "Platinum": "Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then looses high voltage.",
+            "HeartGold": "As its electric charge amplifies, blue sparks begin to crackle between its horns.",
+            "SoulSilver": "As its electric charge amplifies, blue sparks begin to crackle between its horns."
+        },
+        "Generation V": {
+            "Black": "Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then looses high voltage.",
+            "White": "Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then looses high voltage.",
+            "Black 2": "The instant it presses the tips of its tails onto an opponent, it sends over 20,000 volts of electricity into the foe.",
+            "White 2": "The instant it presses the tips of its tails onto an opponent, it sends over 20,000 volts of electricity into the foe."
+        },
+        "Generation VI": {
+            "X": "As its electric charge amplifies, blue sparks begin to crackle between its horns.",
+            "Y": "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.",
+            "Omega Ruby": "As its electric charge amplifies, blue sparks begin to crackle between its horns.",
+            "Alpha Sapphire": "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power."
+        },
+        "Generation VII": {
+            "Sun": "It pushes the tips of its tails against its foes and then lets loose a high-voltage current. Its foes are burned to a crisp in an instant.",
+            "Moon": "When it gets excited, it thumps its chest. With every thud, thunder roars and electric sparks shower all around.",
+            "Ultra Sun": "It grips its tail, which spews electricity, and then beats down opponents with the power of its electrified fist.",
+            "Ultra Moon": "A single Electivire can provide enough electricity for all the buildings in a big city for a year."
+        },
+        "Generation VIII": {
+            "Sword": "The amount of electrical energy this Pokémon produces is proportional to the rate of its pulse. The voltage jumps while Electivire is battling.",
+            "Shield": "In terms of electrical-energy output, Electivire is one of the best among all Electric Pokémon. It discharges high-voltage currents from its tails.",
+            "Brilliant Diamond": "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of electricity.",
+            "Shining Pearl": "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of electricity.",
+            "Legends: Arceus": "Its evolution was induced by an unusual item, and its electrical output rises along with its heart rate. From its tails, it can unleash an electric current measuring 20,000 volts."
+        },
+        "Generation IX": {
+            "Scarlet": "When it gets excited, it thumps its chest. With every thud, thunder roars and electric sparks shower all around.",
+            "Violet": "This Pokémon presses the tips of its tails onto an opponent and instantly sends over 20,000 volts of high-voltage electricity through them."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Electabuzz",
+            "Pearl": "Evolve Electabuzz",
+            "Platinum": "Evolve Electabuzz",
+            "HeartGold": "Evolve Electabuzz",
+            "SoulSilver": "Evolve Electabuzz"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Electabuzz",
+            "Black 2": "Trade",
+            "White 2": "Evolve Electabuzz"
+        },
+        "Generation VI": {
+            "X": "Evolve Electabuzz",
+            "Y": "Evolve Electabuzz",
+            "Omega Ruby": "Evolve Electabuzz",
+            "Alpha Sapphire": "Evolve Electabuzz"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Electabuzz",
+            "Moon": "Evolve Electabuzz",
+            "Ultra Sun": "Evolve Electabuzz",
+            "Ultra Moon": "Evolve Electabuzz",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Giant's Bed , Frigid Sea , Three-Point Pass , Ballimere Lake ( Wanderer ) Frostpoint Field , Giant's Bed , Three-Point Pass , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Electabuzz",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Coronet Highlands : Cloudcap Pass , massive mass outbreaks Alabaster Icelands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Electabuzz",
+            "to": "Electivire",
+            "method": [
+                "Trade (holding Electirizer)"
+            ]
+        }
+    ]
+}

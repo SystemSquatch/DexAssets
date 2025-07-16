@@ -1,0 +1,129 @@
+{
+    "name": "Gulpin",
+    "pokedex_number": "#0316",
+    "types": [
+        "Poison",
+        "Unknown"
+    ],
+    "abilities": [
+        "Liquid Ooze",
+        "Sticky Hold",
+        "Gluttony"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 43,
+        "Defense": 53,
+        "Sp. Atk": 43,
+        "Sp. Def": 53,
+        "Speed": 40,
+        "Total": 302
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Virtually all of Gulpin 's body is its stomach. As a result, it can swallow something its own size. This Pok é mon 's stomach contains a special fluid that digests anything.",
+            "Sapphire": "Most of Gulpin 's body is made up of its stomach - its heart and brain are very small in comparison. This Pok é mon 's stomach contains special enzymes that dissolve anything.",
+            "Emerald": "This Pok é mon 's stomach fluid can even digest scrap iron. In one gulp, it can swallow something that is as large as itself.",
+            "FireRed": "There is nothing its stomach can't digest. While it is digesting, vile, overpowering gases are expelled.",
+            "LeafGreen": "There is nothing its stomach can't digest. While it is digesting, vile, overpowering gases are expelled."
+        },
+        "Generation IV": {
+            "Diamond": "Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.",
+            "Pearl": "Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.",
+            "Platinum": "Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.",
+            "HeartGold": "It has a small heart and brain. Its stomach comprises most of its body, with enzymes to dissolve anything.",
+            "SoulSilver": "It has a small heart and brain. Its stomach comprises most of its body, with enzymes to dissolve anything."
+        },
+        "Generation V": {
+            "Black": "Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.",
+            "White": "Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.",
+            "Black 2": "Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.",
+            "White 2": "Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows."
+        },
+        "Generation VI": {
+            "X": "It has a small heart and brain. Its stomach comprises most of its body, with enzymes to dissolve anything.",
+            "Y": "There is nothing its stomach can't digest. While it is digesting, vile, overpowering gases are expelled.",
+            "Omega Ruby": "Virtually all of Gulpin's body is its stomach. As a result, it can swallow something its own size. This Pokémon's stomach contains a special fluid that digests anything.",
+            "Alpha Sapphire": "Most of Gulpin's body is made up of its stomach—its heart and brain are very small in comparison. This Pokémon's stomach contains special enzymes that dissolve anything."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.",
+            "Shining Pearl": "Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows."
+        },
+        "Generation IX": {
+            "Scarlet": "There is nothing its stomach can’t digest. While it is digesting, vile, overpowering gases are expelled.",
+            "Violet": "It has a small heart and brain. Its stomach comprises most of its body, with enzymes to dissolve anything."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 110",
+            "Sapphire": "Route 110",
+            "Emerald": "Route 110",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Cipher Lab (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Great Marsh (After obtaining the National Pokédex )",
+            "Pearl": "Great Marsh (After obtaining the National Pokédex )",
+            "Platinum": "Great Marsh (After obtaining the National Pokédex )",
+            "HeartGold": "Trade",
+            "SoulSilver": "Route 3 ( Swarm )",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade or Dream World",
+            "White": "Trade or Dream World",
+            "Black 2": "Breed Swalot",
+            "White 2": "Breed Swalot",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Route 5",
+            "Y": "Route 5",
+            "Omega Ruby": "Route 110",
+            "Alpha Sapphire": "Route 110"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Great Marsh (After obtaining the National Pokédex )",
+            "Shining Pearl": "Great Marsh (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Union Circle Tera Raid Battle Search ( 2★ )",
+            "Violet": "South Province: Area Three East Province: Area One Tera Raid Battles ( 2★ )",
+            "The Hidden Treasure of Area Zero": "Trade with Jacq"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Gulpin",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Gulpin",
+            "to": "Swalot",
+            "method": [
+                "Level 26"
+            ]
+        }
+    ]
+}

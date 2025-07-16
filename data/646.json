@@ -1,0 +1,80 @@
+{
+    "name": "Kyurem",
+    "pokedex_number": "#0646",
+    "types": [
+        "Dragon",
+        "Ice"
+    ],
+    "abilities": [
+        "Pressure",
+        "Turboblaze",
+        "Teravolt"
+    ],
+    "stats": {
+        "HP": 125,
+        "Attack": 130,
+        "Defense": 90,
+        "Sp. Atk": 130,
+        "Sp. Def": 90,
+        "Speed": 95,
+        "Total": 660
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+            "White": "It can produce ultracold air. Its body is frozen.",
+            "Black 2": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+            "White 2": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals."
+        },
+        "Generation VI": {
+            "X": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+            "Y": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+            "Omega Ruby": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+            "Alpha Sapphire": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It's said that this Pokémon battles in order to protect the ideal world that will exist in the future for people and Pokémon. *",
+            "Shield": "The sameness of Zekrom 's and Kyurem's genes allowed Kyurem to absorb Zekrom. Kyurem can now use the power of both electricity and ice. *"
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Giant Chasm ( Only one )",
+            "White": "Giant Chasm ( Only one )",
+            "Black 2": "Giant Chasm ( Only one )",
+            "White 2": "Giant Chasm ( Only one )"
+        },
+        "Generation VI": {
+            "X": "Trade , Event",
+            "Y": "Trade , Event",
+            "Omega Ruby": "Gnarled Den (requires Reshiram and Zekrom in party ) ( Only one )",
+            "Alpha Sapphire": "Gnarled Den (requires Reshiram and Zekrom in party ) ( Only one )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Water World ) (requires Reshiram and Zekrom in party) ( Only one )",
+            "Ultra Moon": "Ultra Space Wilds ( Water World ) (requires Reshiram and Zekrom in party) ( Only one )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Dalizapa Passage after receiving the Kyurem Treat from Snacksworth ( Only one ) ( Group Quest )"
+        }
+    },
+    "evolution": []
+}

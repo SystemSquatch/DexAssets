@@ -1,0 +1,80 @@
+{
+    "name": "Cosmoem",
+    "pokedex_number": "#0790",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sturdy"
+    ],
+    "stats": {
+        "HP": 43,
+        "Attack": 29,
+        "Defense": 131,
+        "Sp. Atk": 29,
+        "Sp. Def": 131,
+        "Speed": 37,
+        "Total": 400
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Motionless as if dead, its body is faintly warm to the touch. In the distant past, it was called the cocoon of the stars.",
+            "Moon": "There's something accumulating around the black core within its hard shell. People think this Pokémon may come from another world.",
+            "Ultra Sun": "The king who ruled Alola in times of antiquity called it the “cocoon of the stars” and built an altar to worship it.",
+            "Ultra Moon": "As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid."
+        },
+        "Generation VIII": {
+            "Sword": "The absorption of starlight fuels this Pokémon's growth. The shell that encases it is harder than any known material. *",
+            "Shield": "It sucks in dust from the air at an astounding rate, frantically building up energy within its core as preparation for evolution. *"
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Evolve Cosmog",
+            "Moon": "Evolve Cosmog",
+            "Ultra Sun": "Evolve Cosmog",
+            "Ultra Moon": "Evolve Cosmog",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME Trade Version 1.3.0+",
+            "Shield": "Pokémon HOME Trade Version 1.3.0+",
+            "Expansion Pass": "Evolve Cosmog",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME Version 3.0.0+",
+            "Violet": "Pokémon HOME Version 3.0.0+"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Cosmog",
+            "to": "Cosmoem",
+            "method": [
+                "Level 43"
+            ]
+        },
+        {
+            "from": "Cosmoem",
+            "to": "Solgaleo",
+            "method": [
+                "Level 53"
+            ]
+        },
+        {
+            "from": "Cosmoem",
+            "to": "Lunala",
+            "method": [
+                "Level 53"
+            ]
+        }
+    ]
+}

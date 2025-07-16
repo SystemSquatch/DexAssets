@@ -1,0 +1,156 @@
+{
+    "name": "Oddish",
+    "pokedex_number": "#0043",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Run Away"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 55,
+        "Sp. Atk": 75,
+        "Sp. Def": 65,
+        "Speed": 30,
+        "Total": 320
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+            "Yellow": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",
+            "Stadium": "Burrows underground in the day, exposing only its leaves. It is said to scream loudly if anyone tries to yank it out."
+        },
+        "Generation II": {
+            "Gold": "Awakened by moonlight, it roams actively at night. In the day, it stays quietly underground.",
+            "Silver": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
+            "Crystal": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+            "Stadium 2": "Awakened by moonlight, it roams actively at night. In the day, it stays quietly underground. (Pokémon Red, Silver, or Crystal inserted) If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
+            "Sapphire": "Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pok é mon 's feet are thought to change shape and become similar to the roots of trees.",
+            "Emerald": "This Pok é mon grows by absorbing moonlight. During the daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its enemies.",
+            "FireRed": "Its scientific name is “Oddium Wanderus.” At night, it is said to walk nearly 1,000 feet on its two roots.",
+            "LeafGreen": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds."
+        },
+        "Generation IV": {
+            "Diamond": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+            "Pearl": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+            "Platinum": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+            "HeartGold": "Awakened by moonlight, it roams actively at night. In the day, it stays quietly underground.",
+            "SoulSilver": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds."
+        },
+        "Generation V": {
+            "Black": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+            "White": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+            "Black 2": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+            "White 2": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night."
+        },
+        "Generation VI": {
+            "X": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+            "Y": "Its scientific name is \"Oddium Wanderus.\" At night, it is said to walk nearly 1,000 feet on its two roots.",
+            "Omega Ruby": "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
+            "Alpha Sapphire": "Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pokémon's feet are thought to change shape and become similar to the roots of trees."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",
+            "Let's Go Eevee": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly."
+        },
+        "Generation VIII": {
+            "Sword": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
+            "Shield": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+            "Brilliant Diamond": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+            "Shining Pearl": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night."
+        },
+        "Generation IX": {
+            "Scarlet": "Its scientific name is Oddium wanderus. It is said to cover distances as far as 1,000 feet when night falls, walking on its two roots.",
+            "Violet": "When it is woken by moonlight, it wanders about. But during the day, it stays still underground."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Routes 5 , 6 , 7 , 12 , 13 , 14 , 15 , 24 , and 25",
+            "Blue": "Trade",
+            "Blue (Japan)": "Routes 5 , 6 , 7 , 12 , 13 , 14 , 15 , 24 , and 25",
+            "Yellow": "Routes 12 , 13 , 14 , 15 , 24 , and 25"
+        },
+        "Generation II": {
+            "Gold": "Routes 5 , 6 , 24 , and 25 , Ilex Forest Night",
+            "Silver": "Routes 5 , 6 , 24 , and 25 , Ilex Forest Night",
+            "Crystal": "Routes 24 and 25 , Ilex Forest Night"
+        },
+        "Generation III": {
+            "Ruby": "Routes 110 , 117 , 119 , 120 , 121 , and 123 , Safari Zone",
+            "Sapphire": "Routes 110 , 117 , 119 , 120 , 121 , and 123 , Safari Zone",
+            "Emerald": "Routes 110 , 117 , 119 , 120 , 121 , and 123 , Safari Zone",
+            "FireRed": "Routes 5 , 6 , 7 , 12 , 13 , 14 , 15 , 24 , and 25 , Berry Forest , Bond Bridge , Cape Brink , Water Path",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 229 and 230",
+            "Pearl": "Routes 229 and 230",
+            "Platinum": "Routes 224 and 230 Night",
+            "HeartGold": "Routes 5 , 6 , 24 , and 25 , Ilex Forest Night Safari Zone Night (tall grass in Marshland, default)",
+            "SoulSilver": "Routes 5 , 6 , 24 , and 25 , Ilex Forest Night Safari Zone Night (tall grass in Marshland, default)",
+            "Pal Park": "Forest",
+            "Pokéwalker": "Noisy Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest *",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Route 6 , Friend Safari ( Grass )",
+            "Y": "Route 6 , Friend Safari ( Grass )",
+            "Omega Ruby": "Routes 110 and 117 Routes 119 , 120 , and Safari Zone ( Horde Encounter )",
+            "Alpha Sapphire": "Routes 110 and 117 Routes 119 , 120 , and Safari Zone ( Horde Encounter )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Routes 1 , 2 , 12 , 13 , 14 , 15 , 21 , 24 , and 25 , Viridian Forest",
+            "Let's Go Eevee": "Trade"
+        },
+        "Generation VIII": {
+            "Sword": "Dappled Grove , Rolling Fields , East Lake Axewell , Watchtower Ruins Dappled Grove , East Lake Axewell , Giant's Cap , Hammerlocke Hills , Motostoke Riverbank , North Lake Miloch ( Max Raid Battle )",
+            "Shield": "Dappled Grove , Rolling Fields , East Lake Axewell , Watchtower Ruins Dappled Grove , East Lake Axewell , Giant's Cap , Hammerlocke Hills , Motostoke Riverbank , North Lake Miloch ( Max Raid Battle )",
+            "Brilliant Diamond": "Routes 229 and 230 Grand Underground - Grassland Cave , Swampy Cave , Spacious Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Routes 229 and 230 Grand Underground - Grassland Cave , Swampy Cave , Spacious Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Coastal Biome Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Oddish",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Oddish",
+            "to": "Gloom",
+            "method": [
+                "Level 21"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Fuecoco",
+    "pokedex_number": "#0909",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Blaze",
+        "Unaware"
+    ],
+    "stats": {
+        "HP": 67,
+        "Attack": 45,
+        "Defense": 59,
+        "Sp. Atk": 63,
+        "Sp. Def": 40,
+        "Speed": 36,
+        "Total": 310
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.",
+            "Violet": "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco's head and flickers to and fro."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "First partner Pokémon from Clavell in Cabo Poco",
+            "Violet": "First partner Pokémon from Clavell in Cabo Poco"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Fuecoco",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Fuecoco",
+            "to": "Crocalor",
+            "method": [
+                "Level 16"
+            ]
+        }
+    ]
+}

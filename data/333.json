@@ -1,0 +1,131 @@
+{
+    "name": "Swablu",
+    "pokedex_number": "#0333",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Natural Cure",
+        "Cloud Nine"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 40,
+        "Defense": 60,
+        "Sp. Atk": 40,
+        "Sp. Def": 75,
+        "Speed": 50,
+        "Total": 310
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Swablu has light and fluffy wings that are like cottony clouds. This Pok é mon is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat.",
+            "Sapphire": "Swablu loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this Pok é mon finds a stream and showers itself.",
+            "Emerald": "A Pok é mon that has wings like cottony clouds. After enduring winter, in which little food is available, Swablu flocks move closer to towns in the spring.",
+            "FireRed": "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.",
+            "LeafGreen": "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty."
+        },
+        "Generation IV": {
+            "Diamond": "Its wings are like cotton tufts. If it perches on someone's head, it looks like a cotton hat.",
+            "Pearl": "Its wings are like cotton tufts. If it perches on someone's head, it looks like a cotton hat.",
+            "Platinum": "It can't relax if it or its surroundings are not clean. It wipes off dirt with its wings.",
+            "HeartGold": "Its wings bring cottony clouds to mind. It grooms with springwater and loves to sit on heads.",
+            "SoulSilver": "Its wings bring cottony clouds to mind. It grooms with springwater and loves to sit on heads."
+        },
+        "Generation V": {
+            "Black": "It can't relax if it or its surroundings are not clean. It wipes off dirt with its wings.",
+            "White": "It can't relax if it or its surroundings are not clean. It wipes off dirt with its wings.",
+            "Black 2": "For some reason, it likes to land on people's heads softly and act like it's a hat.",
+            "White 2": "For some reason, it likes to land on people's heads softly and act like it's a hat."
+        },
+        "Generation VI": {
+            "X": "For some reason, it likes to land on people's heads softly and act like it's a hat.",
+            "Y": "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.",
+            "Omega Ruby": "Swablu has light and fluffy wings that are like cottony clouds. This Pokémon is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat.",
+            "Alpha Sapphire": "Swablu loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this Pokémon finds a stream and showers itself."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Its cottony wings are full of air, making them light and fluffy to the touch. Swablu takes diligent care of its wings.",
+            "Shield": "Since Swablu looks like a cumulus cloud, foes can have a hard time finding it. Apparently its wings turned white over many generations.",
+            "Brilliant Diamond": "Its wings are like cotton tufts. If it perches on someone's head, it looks like a cotton hat.",
+            "Shining Pearl": "Its wings are like cotton tufts. If it perches on someone's head, it looks like a cotton hat."
+        },
+        "Generation IX": {
+            "Scarlet": "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.",
+            "Violet": "It can't relax if it or its surroundings are not clean. It wipes off dirt with its wings."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Routes 114 and 115",
+            "Sapphire": "Routes 114 and 115",
+            "Emerald": "Routes 114 and 115",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Pyrite Cave (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 211 * ( Poké Radar )",
+            "Pearl": "Route 211 * ( Poké Radar )",
+            "Platinum": "Route 210",
+            "HeartGold": "Route 45 ( Swarm )",
+            "SoulSilver": "Route 45 ( Swarm )",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Breed Altaria",
+            "White": "Breed Altaria",
+            "Black 2": "Route 14 and Abundant Shrine Abundant Shrine ( Hidden Grotto ) * Transfer from Dream Radar",
+            "White 2": "Route 14 and Abundant Shrine Abundant Shrine ( Hidden Grotto ) * Transfer from Dream Radar",
+            "Dream World": "Windswept Sky"
+        },
+        "Generation VI": {
+            "X": "Route 21 ( Horde Encounter )",
+            "Y": "Route 21 ( Horde Encounter )",
+            "Omega Ruby": "Routes 114 and 115 , Soaring in the sky Sky Pillar ( Horde Encounter )",
+            "Alpha Sapphire": "Routes 114 and 115 , Soaring in the sky Sky Pillar ( Horde Encounter )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Altaria",
+            "Ultra Moon": "Breed Altaria",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Slippery Slope , Frostpoint Field , Giant's Bed , Path to the Peak , Giant's Foot , Frigid Sea , Three-Point Pass , Ballimere Lake Slippery Slope , Frostpoint Field , Giant's Bed ( Wanderer ) Slippery Slope , Frostpoint Field , Giant's Bed , Giant's Foot , Frigid Sea , Ballimere Lake , Dyna Tree Hill ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 211 * ( Poké Radar ) Grand Underground - Spacious Cave , Whiteout Cave , Icy Cave , Fountainspring Cave , Glacial Cavern",
+            "Shining Pearl": "Route 211 * ( Poké Radar ) Grand Underground - Spacious Cave , Whiteout Cave , Icy Cave , Fountainspring Cave , Glacial Cavern",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Three , Area Four , Area Five , Area Six East Province: Area One West Province: Area One North Province: Casseroya Lake Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area Three , Area Four , Area Five , Area Six East Province: Area One West Province: Area One North Province: Casseroya Lake Tera Raid Battles ( 1★ )",
+            "The Hidden Treasure of Area Zero": "Canyon Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Swablu",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Swablu",
+            "to": "Altaria",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

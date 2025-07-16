@@ -1,0 +1,89 @@
+{
+    "name": "Haxorus",
+    "pokedex_number": "#0612",
+    "types": [
+        "Dragon",
+        "Unknown"
+    ],
+    "abilities": [
+        "Rivalry",
+        "Mold Breaker",
+        "Unnerve"
+    ],
+    "stats": {
+        "HP": 76,
+        "Attack": 147,
+        "Defense": 90,
+        "Sp. Atk": 60,
+        "Sp. Def": 70,
+        "Speed": 97,
+        "Total": 540
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.",
+            "White": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.",
+            "Black 2": "Its tusks are incredibly destructive. They can easily slice through a thick, sturdy steel column every time.",
+            "White 2": "Its tusks are incredibly destructive. They can easily slice through a thick, sturdy steel column every time."
+        },
+        "Generation VI": {
+            "X": "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.",
+            "Y": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.",
+            "Omega Ruby": "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.",
+            "Alpha Sapphire": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Its resilient tusks are its pride and joy. It licks up dirt to take in the minerals it needs to keep its tusks in top condition.",
+            "Shield": "While usually kindhearted, it can be terrifying if angered. Tusks that can slice through steel beams are how Haxorus deals with its adversaries."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon nests in caves and abandoned mines. It is docile, but it will become incredibly angry if its tusks are touched, so beware.",
+            "Violet": "It overwhelms enemies with its prized tusks, which are sharp enough to cut through a metal transmission tower in one strike."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Fraxure",
+            "White": "Evolve Fraxure",
+            "Black 2": "Nature Preserve ( One , Shiny )",
+            "White 2": "Nature Preserve ( One , Shiny )"
+        },
+        "Generation VI": {
+            "X": "Evolve Fraxure",
+            "Y": "Evolve Fraxure",
+            "Omega Ruby": "Evolve Fraxure",
+            "Alpha Sapphire": "Evolve Fraxure"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Fraxure",
+            "Moon": "Evolve Fraxure",
+            "Ultra Sun": "Evolve Fraxure",
+            "Ultra Moon": "Evolve Fraxure",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Axew's Eye , Lake of Outrage Rolling Fields , Axew's Eye Sw ( Max Raid Battle )",
+            "Shield": "Axew's Eye , Lake of Outrage Rolling Fields , Axew's Eye Sw ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Fraxure",
+            "to": "Haxorus",
+            "method": [
+                "Level 48"
+            ]
+        }
+    ]
+}

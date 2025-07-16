@@ -1,0 +1,104 @@
+{
+    "name": "Torterra",
+    "pokedex_number": "#0389",
+    "types": [
+        "Grass",
+        "Ground"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Shell Armor"
+    ],
+    "stats": {
+        "HP": 95,
+        "Attack": 109,
+        "Defense": 105,
+        "Sp. Atk": 75,
+        "Sp. Def": 85,
+        "Speed": 56,
+        "Total": 525
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Small Pokémon occasionally gather on its unmoving back to begin building their nests.",
+            "Pearl": "Groups of this Pokémon migrating in search of water have been mistaken for \"moving forests.\"",
+            "Platinum": "Some Pokémon are born on a Torterra 's back and spend their entire life there.",
+            "HeartGold": "Ancient people imagined that beneath the ground, a gigantic Torterra dwelled.",
+            "SoulSilver": "Ancient people imagined that beneath the ground, a gigantic Torterra dwelled."
+        },
+        "Generation V": {
+            "Black": "Some Pokémon are born on a Torterra's back and spend their entire life there.",
+            "White": "Some Pokémon are born on a Torterra's back and spend their entire life there.",
+            "Black 2": "Some Pokémon are born on a Torterra's back and spend their entire life there.",
+            "White 2": "Some Pokémon are born on a Torterra's back and spend their entire life there."
+        },
+        "Generation VI": {
+            "X": "Ancient people imagined that beneath the ground, a gigantic Torterra dwelled.",
+            "Y": "Small Pokémon occasionally gather on its unmoving back to begin building their nests.",
+            "Omega Ruby": "Ancient people imagined that beneath the ground, a gigantic Torterra dwelled.",
+            "Alpha Sapphire": "Small Pokémon occasionally gather on its unmoving back to begin building their nests."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Small Pokémon occasionally gather on its unmoving back to begin building their nests.",
+            "Shining Pearl": "Groups of this Pokémon migrating in search of water have been mistaken for moving forests.",
+            "Legends: Arceus": "This remarkable, large-bodied Pokémon would serve beautifully as borrowed scenery for a garden, and its strength is peerless. Torterra roams the wilderness in search of clean water."
+        },
+        "Generation IX": {
+            "Scarlet": "Ancient people imagined that beneath the ground dwelt a gigantic Torterra.",
+            "Violet": "Some Pokémon are born on a Torterra’s back and spend their entire life there."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Grotle",
+            "Pearl": "Evolve Grotle",
+            "Platinum": "Evolve Grotle",
+            "HeartGold": "Trade",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Evolve from the Global Link event Turtwig",
+            "White": "Evolve from the Global Link event Turtwig",
+            "Black 2": "Evolve from the Global Link event Turtwig",
+            "White 2": "Evolve from the Global Link event Turtwig"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Grotle",
+            "Alpha Sapphire": "Evolve Grotle"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Grotle",
+            "Ultra Moon": "Evolve Grotle",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Grotle",
+            "Shining Pearl": "Evolve Grotle",
+            "Legends: Arceus": "Crimson Mirelands : Holm of Trials , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+ , Poké Portal News",
+            "Violet": "Trade Version 2.0.1+ , Poké Portal News",
+            "The Hidden Treasure of Area Zero": "Evolve Grotle"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Grotle",
+            "to": "Torterra",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

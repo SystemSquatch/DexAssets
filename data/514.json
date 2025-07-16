@@ -1,0 +1,82 @@
+{
+    "name": "Simisear",
+    "pokedex_number": "#0514",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Gluttony",
+        "Blaze"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 98,
+        "Defense": 63,
+        "Sp. Atk": 98,
+        "Sp. Def": 63,
+        "Speed": 101,
+        "Total": 498
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It loves sweets because they become energy for the fire burning inside its body.",
+            "White": "A flame burns inside its body. It scatters embers from its head and tail to sear its opponents.",
+            "Black 2": "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.",
+            "White 2": "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets."
+        },
+        "Generation VI": {
+            "X": "A flame burns inside its body. It scatters embers from its head and tail to sear its opponents.",
+            "Y": "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.",
+            "Omega Ruby": "A flame burns inside its body. It scatters embers from its head and tail to sear its opponents.",
+            "Alpha Sapphire": "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Evolve Pansear",
+            "White": "Evolve Pansear",
+            "Black 2": "Evolve Pansear",
+            "White 2": "Evolve Pansear"
+        },
+        "Generation VI": {
+            "X": "Evolve Pansear",
+            "Y": "Evolve Pansear",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Pansear",
+            "to": "Simisear",
+            "method": [
+                "Use Fire Stone"
+            ]
+        }
+    ]
+}

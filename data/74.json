@@ -1,0 +1,163 @@
+{
+    "name": "Geodude",
+    "pokedex_number": "#0074",
+    "types": [
+        "Rock",
+        "Ground"
+    ],
+    "abilities": [
+        "Rock Head",
+        "Sturdy",
+        "Magnet Pull",
+        "Sturdy",
+        "Sand Veil",
+        "Galvanize"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 80,
+        "Defense": 100,
+        "Sp. Atk": 30,
+        "Sp. Def": 30,
+        "Speed": 20,
+        "Total": 300
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+            "Yellow": "Commonly found near mountain trails, etc. If you step on one by accident, it gets angry.",
+            "Stadium": "When traveling uphill, if it encounters a raised step, it cleverly hoists itself up and over using its two arms."
+        },
+        "Generation II": {
+            "Gold": "Most people may not notice, but a closer look should reveal that there are many Geodude around.",
+            "Silver": "It uses its arms to steadily climb steep mountain paths. It swings its fists around if angered.",
+            "Crystal": "Proud of their sturdy bodies, they bash against each other in a contest to prove whose is harder.",
+            "Stadium 2": "Most people may not notice, but a closer look should reveal that there are many Geodude around. (Pokémon Red, Silver, or Crystal inserted) It uses its arms to steadily climb steep mountain paths. It swings its fists around if angered. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "The longer a Geodude lives, the more its edges are chipped and worn away, making it more rounded in appearance. However, this Pok é mon 's heart will remain hard, craggy, and rough always.",
+            "Sapphire": "When Geodude sleeps deeply, it buries itself halfway into the ground. It will not awaken even if hikers step on it unwittingly. In the morning, this Pok é mon rolls downhill in search of food.",
+            "Emerald": "It climbs mountain paths using only the power of its arms. Because they look just like boulders lining paths, hikers may step on them without noticing.",
+            "FireRed": "Its round form makes it easy to pick up. Some people have used them to hurl at each other in a snowball fight.",
+            "LeafGreen": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them."
+        },
+        "Generation IV": {
+            "Diamond": "Many live on mountain trails and remain half buried while keeping an eye on climbers.",
+            "Pearl": "It is impossible to distinguish from rocks. It slams against others in contests of hardness.",
+            "Platinum": "At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.",
+            "HeartGold": "Most people may not notice, but a closer look should reveal that there are many Geodude around.",
+            "SoulSilver": "It uses its arms to steadily climb steep mountain paths. It swings its fists around if angered."
+        },
+        "Generation V": {
+            "Black": "At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.",
+            "White": "At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.",
+            "Black 2": "At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.",
+            "White 2": "At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily."
+        },
+        "Generation VI": {
+            "X": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+            "Y": "It is impossible to distinguish from rocks. It slams against others in contests of hardness.",
+            "Omega Ruby": "The longer a Geodude lives, the more its edges are chipped and worn away, making it more rounded in appearance. However, this Pokémon's heart will remain hard, craggy, and rough always.",
+            "Alpha Sapphire": "When Geodude sleeps deeply, it buries itself halfway into the ground. It will not awaken even if hikers step on it unwittingly. In the morning, this Pokémon rolls downhill in search of food."
+        },
+        "Generation VII": {
+            "Sun": "Its body is a magnetic stone. Iron sand attaches firmly to the portions of its body that are particularly magnetic.",
+            "Moon": "If you accidentally step on a Geodude sleeping on the ground, you'll hear a crunching sound and feel a shock ripple through your entire body.",
+            "Ultra Sun": "If you mistake it for a rock and step on it, it will headbutt you in anger. In addition to the pain, it will also zap you with a shock.",
+            "Ultra Moon": "Geodude compete against each other with headbutts. The iron sand on their heads will stick to whichever one has stronger magnetism.",
+            "Let's Go Pikachu": "Its stone head is imbued with electricity and magnetism. If you carelessly step on one, you'll be in for a painful shock.",
+            "Let's Go Eevee": "Its stone head is imbued with electricity and magnetism. If you carelessly step on one, you'll be in for a painful shock."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Many live on mountain trails and remain\thalf-buried while keeping an eye on climbers.",
+            "Shining Pearl": "It is impossible to distinguish from rocks. It slams against others in contests of toughness.",
+            "Legends: Arceus": "Makes its home in mountainous regions, using its arms to climb along harsh mountain roads. Can be troublesome—carelessly kicking one will cause it to fly into a rage and chase after you."
+        },
+        "Generation IX": {
+            "Scarlet": "Its body is a magnetic stone. Iron sand attaches firmly to the portions of its body that are particularly magnetic.",
+            "Violet": "If you step on a Geodude sleeping on the ground, you’ll hear a zapping sound and feel a tingling shock throughout your entire body."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Mt. Moon , Rock Tunnel , Victory Road",
+            "Blue": "Mt. Moon , Rock Tunnel , Victory Road",
+            "Blue (Japan)": "Mt. Moon , Rock Tunnel , Victory Road",
+            "Yellow": "Mt. Moon , Rock Tunnel , Victory Road"
+        },
+        "Generation II": {
+            "Gold": "Routes 45 and 46 , Mt. Mortar , Dark Cave , Union Cave , Mt. Moon , Rock Tunnel Team Rocket HQ (Seven; trap floor)",
+            "Silver": "Routes 45 and 46 , Mt. Mortar , Dark Cave , Union Cave , Mt. Moon , Rock Tunnel Team Rocket HQ (Seven; trap floor)",
+            "Crystal": "Routes 33 , 45 , and 46 , Mt. Mortar , Dark Cave , Union Cave , Mt. Moon , Rock Tunnel Team Rocket HQ (Seven; trap floor)"
+        },
+        "Generation III": {
+            "Ruby": "Routes 111 and 114 , Victory Road , Safari Zone ( Rock Smash ) Granite Cave (walking and Rock Smash )",
+            "Sapphire": "Routes 111 and 114 , Victory Road , Safari Zone ( Rock Smash ) Granite Cave (walking and Rock Smash )",
+            "Emerald": "Routes 111 and 114 , Victory Road , Safari Zone ( Rock Smash ) Granite Cave (walking and Rock Smash ) Magma Hideout (walking)",
+            "FireRed": "Victory Road , Mt. Moon (walking) Kindle Road , Sevault Canyon , Rock Tunnel , Cerulean Cave , Mt. Ember ( Tall grass and Rock Smash )",
+            "LeafGreen": "Victory Road , Mt. Moon (walking) Kindle Road , Sevault Canyon , Rock Tunnel , Cerulean Cave , Mt. Ember ( Tall grass and Rock Smash )",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 206 , 207 , 210 , 211 , 214 , and 215 , Oreburgh Gate , Ruin Maniac Cave , Oreburgh Mine , Iron Island , Mt. Coronet , Maniac Tunnel , Ravaged Path , Stark Mountain , Valor Lakefront , Wayward Cave",
+            "Pearl": "Routes 206 , 207 , 210 , 211 , 214 , and 215 , Oreburgh Gate , Ruin Maniac Cave , Oreburgh Mine , Iron Island , Mt. Coronet , Maniac Tunnel , Ravaged Path , Stark Mountain , Valor Lakefront , Wayward Cave",
+            "Platinum": "Routes 206 , 207 , 210 , and 214 , Oreburgh Gate , Ruin Maniac Cave , Oreburgh Mine , Iron Island , Mt. Coronet , Maniac Tunnel , Wayward Cave",
+            "HeartGold": "Routes 45 and 46 , Union Cave , Dark Cave , Ruins of Alph , Mt. Mortar , Cliff Cave , Victory Road , Rock Tunnel , Mt. Moon , Cerulean Cave Safari Zone (Peak, default; Meadow with 3 Peak points) Team Rocket HQ (Five; trap floor)",
+            "SoulSilver": "Routes 45 and 46 , Union Cave , Dark Cave , Ruins of Alph , Mt. Mortar , Cliff Cave , Victory Road , Rock Tunnel , Mt. Moon , Cerulean Cave Safari Zone (Peak, default; Meadow with 3 Peak points) Team Rocket HQ (Five; trap floor)",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Rugged Road , Volcano Path , and Night Sky's Edge"
+        },
+        "Generation V": {
+            "Black": "Breed Graveler or Golem",
+            "White": "Breed Graveler or Golem",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Route 18 , Terminus Cave , Victory Road ( Horde Encounter )",
+            "Y": "Route 18 , Terminus Cave , Victory Road ( Horde Encounter )",
+            "Omega Ruby": "Granite Cave Routes 111 , 114 , Rusturf Tunnel ( Rock Smash )",
+            "Alpha Sapphire": "Granite Cave Routes 111 , 114 , Rusturf Tunnel ( Rock Smash )"
+        },
+        "Generation VII": {
+            "Sun": "Route 12 , Blush Mountain ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Moon": "Route 12 , Blush Mountain ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Sun": "Breed Graveler or Golem ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Moon": "Breed Graveler or Golem ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Let's Go Pikachu": "Mt. Moon , Rock Tunnel , Victory Road , Cerulean Cave ( Kantonian Form ) Trade Kantonian Geodude in Vermilion City ( Alolan Form )",
+            "Let's Go Eevee": "Mt. Moon , Rock Tunnel , Victory Road , Cerulean Cave ( Kantonian Form ) Trade Kantonian Geodude in Vermilion City ( Alolan Form )"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 206 , 207 , 210 , 211 , 214 , and 215 , Oreburgh Gate , Ruin Maniac Cave , Oreburgh Mine , Iron Island , Mt. Coronet , Maniac Tunnel , Ravaged Path , Stark Mountain , Valor Lakefront , Wayward Cave ( Kantonian Form ) Grand Underground - Rocky Cave , Spacious Cave , Volcanic Cave , Big Bluff Cavern , Typhlo Cavern ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Shining Pearl": "Routes 206 , 207 , 210 , 211 , 214 , and 215 , Oreburgh Gate , Ruin Maniac Cave , Oreburgh Mine , Iron Island , Mt. Coronet , Maniac Tunnel , Ravaged Path , Stark Mountain , Valor Lakefront , Wayward Cave ( Kantonian Form ) Grand Underground - Rocky Cave , Spacious Cave , Volcanic Cave , Big Bluff Cavern , Typhlo Cavern ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Legends: Arceus": "Obsidian Fieldlands : Worn Bridge , Deertrack Heights , near Obsidian Falls , massive mass outbreaks ( Kantonian Form ) Crimson Mirelands : Gapejaw Bog , Ursa's Ring , near Sludge Mound , near Scarlet Bog , Bolderoll Slope , Droning Meadow ( Kantonian Form ) Cobalt Coastlands : massive mass outbreaks ( Kantonian Form ) Coronet Highlands : near Ancient Quarry , Clamberclaw Cliffs Day , Celestica Ruins , Sacred Plaza , Bolderoll Ravine , massive mass outbreaks ( Kantonian Form ) Unobtainable ( Alolan Form ) Obsidian Fieldlands: near Worn Bridge, Deertrack Path , Deertrack Heights, Windswept Run , Nature's Pantry , Tidewater Dam , The Heartwood , Oreburrow Tunnel Shaking ore deposits ( Kantonian Form ) Crimson Mirelands: Golden Lowlands , Gapejaw Bog, Holm of Trials , Ursa's Ring, Sludge Mound, Scarlet Bog, Cloudpool Ridge , Shrouded Ruins , Diamond Heath , Bolderoll Slope, near Cottonsedge Prairie Shaking ore deposits ( Kantonian Form ) Cobalt Coastlands: Crossing Slope , Ginkgo Landing , Aipom Hill , Bathers' Lagoon , Deadwood Haunt , Sand's Reach , Tranquility Cove , Castaway Shore , near Windbreak Stand , Veilstone Cape Shaking ore deposits ( Kantonian Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Kitakami Road , Apple Hills , Reveler's Road , Oni Mountain , Oni's Maw , Infernal Pass , Chilling Waterhead , Wistful Fields , Paradise Barrens , Kitakami Wilds ( Kantonian Form ) Canyon Biome , Chargestone Cavern ( Alolan Form ) Tera Raid Battles ( 1★ ( Kantonian Form ) , 3★ ( Alolan Form ) )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Geodude",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Geodude",
+            "to": "Graveler",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "name": "Wimpod",
+    "pokedex_number": "#0767",
+    "types": [
+        "Bug",
+        "Water"
+    ],
+    "abilities": [
+        "Wimp Out"
+    ],
+    "stats": {
+        "HP": 25,
+        "Attack": 35,
+        "Defense": 40,
+        "Sp. Atk": 20,
+        "Sp. Def": 30,
+        "Speed": 80,
+        "Total": 230
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "This Pokémon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.",
+            "Moon": "Its habitat varies from beaches to seabeds. A natural scavenger, it will gleefully chow down on anything edible, no matter how rotten.",
+            "Ultra Sun": "It will pick up anything it finds on the ground. Sometimes it finds coins, so Murkrow and Meowth will go after it.",
+            "Ultra Moon": "An astonishingly cowardly Pokémon, Wimpod will whir its legs at high speeds to run away if anything comes near it."
+        },
+        "Generation VIII": {
+            "Sword": "It's nature's cleaner—it eats anything and everything, including garbage and rotten things. The ground near its nest is always clean.",
+            "Shield": "Wimpod gather in swarms, constantly on the lookout for danger. They scatter the moment they detect an enemy's presence."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Route 8 , Poni Breaker Coast , Poni Wilds",
+            "Moon": "Route 8 , Poni Breaker Coast , Poni Wilds",
+            "Ultra Sun": "Dividing Peak Tunnel , Route 8 , Poni Breaker Coast",
+            "Ultra Moon": "Dividing Peak Tunnel , Route 8 , Poni Breaker Coast",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Galar Mine No. 2 , Giant's Mirror , Hammerlocke Hills , Motostoke Riverbank , Bridge Field Rolling Fields , Dappled Grove , South Lake Miloch , Bridge Field ( Max Raid Battle )",
+            "Shield": "Galar Mine No. 2 , Giant's Mirror , Hammerlocke Hills , Motostoke Riverbank , Bridge Field Rolling Fields , Dappled Grove , South Lake Miloch , Bridge Field ( Max Raid Battle )",
+            "Expansion Pass": "Courageous Cavern",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Wimpod",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Wimpod",
+            "to": "Golisopod",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

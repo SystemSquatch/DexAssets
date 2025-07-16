@@ -1,0 +1,46 @@
+{
+    "name": "Glastrier",
+    "pokedex_number": "#0896",
+    "types": [
+        "Ice",
+        "Unknown"
+    ],
+    "abilities": [
+        "Chilling Neigh"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 145,
+        "Defense": 130,
+        "Sp. Atk": 65,
+        "Sp. Def": 110,
+        "Speed": 30,
+        "Total": 580
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Glastrier emits intense cold from its hooves. It's also a belligerent Pokémon—anything it wants, it takes by force.",
+            "Shield": "Glastrier has tremendous physical strength, and the mask of ice covering its face is 100 times harder than diamond."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Crown Shrine ( Only one , if the player obtained the Iceroot Carrot )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Glaseado Mountain after receiving the Glastrier Treat from Snacksworth ( Only one ) ( Solo Quest )",
+            "The Hidden Treasure of Area Zero (Violet)": "Glaseado Mountain after receiving the Glastrier Treat from Snacksworth ( Only one ) ( Group Quest )"
+        }
+    },
+    "evolution": []
+}

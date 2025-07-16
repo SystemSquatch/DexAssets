@@ -1,0 +1,92 @@
+{
+    "name": "Garbodor",
+    "pokedex_number": "#0569",
+    "types": [
+        "Poison",
+        "Unknown"
+    ],
+    "abilities": [
+        "Stench",
+        "Weak Armor",
+        "Aftermath"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 95,
+        "Defense": 82,
+        "Sp. Atk": 60,
+        "Sp. Def": 82,
+        "Speed": 75,
+        "Total": 474
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth.",
+            "White": "They absorb garbage and make it part of their bodies. They shoot a poisonous liquid from their right-hand fingertips.",
+            "Black 2": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
+            "White 2": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies."
+        },
+        "Generation VI": {
+            "X": "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth.",
+            "Y": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
+            "Omega Ruby": "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth.",
+            "Alpha Sapphire": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies."
+        },
+        "Generation VII": {
+            "Sun": "Beware the poisonous liquid it shoots from its right arm. If even a little of it gets on you, you'll experience the effects of the unidentified toxin.",
+            "Moon": "For a time, their numbers increased explosively in Alola. Since the arrival of Grimer, their population has decreased dramatically.",
+            "Ultra Sun": "It locks opponents in place with its left hand, immobilizing them by entirely dousing their bodies with poisonous liquid.",
+            "Ultra Moon": "Some say the reason Garbodor in Alola are a little stronger than their counterparts elsewhere is the presence of Muk, their natural enemy."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.",
+            "Shield": "The toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 9",
+            "White": "Route 9",
+            "Black 2": "Route 9 Route 9 ( Hidden Grotto )",
+            "White 2": "Route 9 Route 9 ( Hidden Grotto )"
+        },
+        "Generation VI": {
+            "X": "Lost Hotel , Pokémon Village (trash cans), Friend Safari ( Poison )",
+            "Y": "Lost Hotel , Pokémon Village (trash cans), Friend Safari ( Poison )",
+            "Omega Ruby": "Evolve Trubbish",
+            "Alpha Sapphire": "Evolve Trubbish"
+        },
+        "Generation VII": {
+            "Sun": "Malie City ( SOS Battle )",
+            "Moon": "Malie City ( SOS Battle )",
+            "Ultra Sun": "Evolve Trubbish",
+            "Ultra Moon": "Evolve Trubbish",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage , East Lake Axewell East Lake Axewell , North Lake Miloch , Motostoke Riverbank , Giant's Cap ( Max Raid Battle ) East Lake Axewell ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Shield": "Lake of Outrage , East Lake Axewell East Lake Axewell , North Lake Miloch , Motostoke Riverbank , Giant's Cap ( Max Raid Battle ) East Lake Axewell ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Expansion Pass": "Giant's Bed , Frigid Sea , Ballimere Lake ( Max Raid Battle ) ( Gigantamax Factor ) Max Lair ( Dynamax Adventure ) ( Gigantamax Factor )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Trubbish",
+            "to": "Garbodor",
+            "method": [
+                "Level 36"
+            ]
+        }
+    ]
+}

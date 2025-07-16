@@ -1,0 +1,95 @@
+{
+    "name": "Karrablast",
+    "pokedex_number": "#0588",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Swarm",
+        "Shed Skin",
+        "No Guard"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 45,
+        "Sp. Atk": 40,
+        "Sp. Def": 45,
+        "Speed": 60,
+        "Total": 315
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet .",
+            "White": "When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets Shelmet .",
+            "Black 2": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet .",
+            "White 2": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet ."
+        },
+        "Generation VI": {
+            "X": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet .",
+            "Y": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet .",
+            "Omega Ruby": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet .",
+            "Alpha Sapphire": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet ."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve.",
+            "Shield": "It spits a liquid from its mouth to melt through Shelmet 's shell. Karrablast doesn't eat the shell— it eats only the contents."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 6 and 11",
+            "White": "Routes 6 and 11",
+            "Black 2": "Routes 6 and 11 Route 8 , Icirrus City , Moor of Icirrus Spring Summer Autumn",
+            "White 2": "Routes 6 and 11 Route 8 , Icirrus City , Moor of Icirrus Spring Summer Autumn",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Routes 14 and 19",
+            "Y": "Routes 14 and 19",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 7 , Bridge Field , Motostoke Riverbank , Hammerlocke Hills , Giant's Cap Rolling Fields , Dappled Grove , South Lake Miloch , Bridge Field ( Max Raid Battle )",
+            "Shield": "Route 7 , Bridge Field , Motostoke Riverbank , Hammerlocke Hills Rolling Fields , Dappled Grove , South Lake Miloch , Bridge Field ( Max Raid Battle )",
+            "Expansion Pass": "Forest of Focus , Old Cemetery Training Lowlands ( Wanderer )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Karrablast",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Karrablast",
+            "to": "Escavalier",
+            "method": [
+                "Trade"
+            ]
+        }
+    ]
+}

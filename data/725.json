@@ -1,0 +1,78 @@
+{
+    "name": "Litten",
+    "pokedex_number": "#0725",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Blaze",
+        "Intimidate"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 65,
+        "Defense": 40,
+        "Sp. Atk": 60,
+        "Sp. Def": 40,
+        "Speed": 70,
+        "Total": 320
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.",
+            "Moon": "It doesn't allow its emotions to be easily seen. Earning its trust takes time. It prefers solitude.",
+            "Ultra Sun": "If you try too hard to get close to it, it won't open up to you. Even if you do grow close, giving it too much affection is still a no-no.",
+            "Ultra Moon": "Its coat regrows twice a year. When the time comes, Litten sets its own body on fire and burns away the old fur."
+        },
+        "Generation VIII": {
+            "Sword": "It spends even the smallest amount of downtime grooming its fur with its tongue. Loose fur gathers in its stomach and serves as fuel for fiery moves. *",
+            "Shield": "Trying to pet Litten before it trusts you will result in a nasty scratch from its sharp claws. Be careful. *"
+        },
+        "Generation IX": {
+            "Scarlet": "If you try too hard to get close to it, it won’t open up to you. Even if you do grow close, giving it too much affection is still a no-no.",
+            "Violet": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "First partner Pokémon from Hala in Iki Town",
+            "Moon": "First partner Pokémon from Hala in Iki Town",
+            "Ultra Sun": "First partner Pokémon from Professor Kukui in Route 1",
+            "Ultra Moon": "First partner Pokémon from Professor Kukui in Route 1",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Pokémon HOME Trade Version 1.2.0+",
+            "Shield": "Pokémon HOME Trade Version 1.2.0+",
+            "Expansion Pass": "Reward for finding at least 100 Alolan Diglett (if the player chose Scorbunny )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Canyon Biome , Chargestone Cavern (after boosting biodiversity in the Canyon Biome)"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Litten",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Litten",
+            "to": "Torracat",
+            "method": [
+                "Level 17"
+            ]
+        }
+    ]
+}

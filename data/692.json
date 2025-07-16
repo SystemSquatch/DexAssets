@@ -1,0 +1,86 @@
+{
+    "name": "Clauncher",
+    "pokedex_number": "#0692",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Mega Launcher"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 62,
+        "Sp. Atk": 58,
+        "Sp. Def": 63,
+        "Speed": 44,
+        "Total": 330
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.",
+            "Y": "Through controlled explosions of internal gas, it can expel water like a pistol shot. At close distances, it can shatter rock.",
+            "Omega Ruby": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.",
+            "Alpha Sapphire": "Through controlled explosions of internal gas, it can expel water like a pistol shot. At close distances, it can shatter rock."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Its claws occasionally fall off, and it keeps a low profile until they grow back. The meat of its claws is so delicious!",
+            "Ultra Moon": "It moves around by jetting water from its right pincer. It has a poor sense of balance, so it's terrible at swimming straight."
+        },
+        "Generation VIII": {
+            "Sword": "Clauncher's claws can fall off during battle, but they'll regenerate. The meat inside the claws is popular as a delicacy in Galar.",
+            "Shield": "By detonating gas that accumulates in its right claw, this Pokémon launches water like a bullet. This is how Clauncher defeats its enemies."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon launches water by detonating gas inside its right claw. It snipes flying Pokémon.",
+            "Violet": "Clauncher's claws will regrow if they fall off. The meat inside the claws is edible, but it has a distinct flavor that doesn't appeal to all tastes."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Route 8 , Ambrette Town , Cyllage City ( Good Rod )",
+            "Y": "Trade",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Routes 105 , 106 , 107 , 108 , and 109 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Clawitzer",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Sword Expansion Pass": "Workout Sea , Stepping-Stone Sea , Insular Sea , Honeycalm Sea , Honeycalm Island",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Union Circle Tera Raid Battle Search ( 2★ )",
+            "Violet": "South Province: South Paldean Sea East Province: East Paldean Sea West Province: West Paldean Sea North Province: North Paldean Sea Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Clauncher",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Clauncher",
+            "to": "Clawitzer",
+            "method": [
+                "Level 37"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Skwovet",
+    "pokedex_number": "#0819",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Cheek Pouch",
+        "Gluttony"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 55,
+        "Sp. Atk": 35,
+        "Sp. Def": 35,
+        "Speed": 25,
+        "Total": 275
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Found throughout the Galar region, this Pokémon becomes uneasy if its cheeks are ever completely empty of berries.",
+            "Shield": "It eats berries nonstop—a habit that has made it more resilient than it looks. It'll show up on farms, searching for yet more berries."
+        },
+        "Generation IX": {
+            "Scarlet": "It stores berries in its cheeks. When there are no berries to be found, Skwovet will stuff pebbles into its cheeks to stave off its cravings.",
+            "Violet": "No matter how much it stuffs its belly with food, it is always anxious about getting hungry again. So, it stashes berries in its cheeks and tail."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Routes 1 and 2 , Slumbering Weald Routes 3 , 4 , and 5 , Rolling Fields , Motostoke Riverbank , North Lake Miloch , Dappled Grove , Watchtower Ruins ( Berry trees ) Rolling Fields , East Lake Axewell , Motostoke Riverbank , Bridge Field , Stony Wilderness ( Max Raid Battle ) Trade Bunnelby in Motostoke",
+            "Shield": "Routes 1 and 2 , Slumbering Weald Routes 3 , 4 , and 5 , Rolling Fields , Motostoke Riverbank , North Lake Miloch , Dappled Grove , Watchtower Ruins ( Berry trees ) Rolling Fields , East Lake Axewell , Motostoke Riverbank , Bridge Field , Stony Wilderness ( Max Raid Battle ) Trade Bunnelby in Motostoke",
+            "Expansion Pass": "Stepping-Stone Sea , Ballimere Lake Fields of Honor , Soothing Wetlands , Challenge Beach , Forest of Focus , Training Lowlands , Workout Sea , Loop Lagoon , Stepping-Stone Sea , Insular Sea , Slippery Slope , Frostpoint Field , Giant's Bed , Giant's Foot , Ballimere Lake ( Berry trees ) Slippery Slope , Giant's Bed , Giant's Foot , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two Tera Raid Battles ( 1★ )",
+            "The Hidden Treasure of Area Zero": "Reveler's Road , Kitakami Hall , Mossfell Confluence , Wistful Fields , Paradise Barrens"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Skwovet",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Skwovet",
+            "to": "Greedent",
+            "method": [
+                "Level 24"
+            ]
+        }
+    ]
+}

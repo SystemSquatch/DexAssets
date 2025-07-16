@@ -1,0 +1,113 @@
+{
+    "name": "Kricketot",
+    "pokedex_number": "#0401",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Shed Skin",
+        "Run Away"
+    ],
+    "stats": {
+        "HP": 37,
+        "Attack": 25,
+        "Defense": 41,
+        "Sp. Atk": 25,
+        "Sp. Def": 41,
+        "Speed": 25,
+        "Total": 194
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
+            "Pearl": "It chats with others using the sounds of its colliding antennae. These sounds are fall hallmarks.",
+            "Platinum": "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.",
+            "HeartGold": "When its antennae hit each other, it sounds like the music of a xylophone.",
+            "SoulSilver": "When its antennae hit each other, it sounds like the music of a xylophone."
+        },
+        "Generation V": {
+            "Black": "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.",
+            "White": "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.",
+            "Black 2": "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.",
+            "White 2": "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound."
+        },
+        "Generation VI": {
+            "X": "It chats with others using the sounds of its colliding antennae. These sounds are fall hallmarks.",
+            "Y": "When its antennae hit each other, it sounds like the music of a xylophone.",
+            "Omega Ruby": "It chats with others using the sounds of its colliding antennae. These sounds are fall hallmarks.",
+            "Alpha Sapphire": "When its antennae hit each other, it sounds like the music of a xylophone."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
+            "Shining Pearl": "It chats with others using the sounds of its colliding antennae. These sounds are the hallmarks of fall evenings.",
+            "Legends: Arceus": "When the trees take on new hues, more of these Pokémon appear. The tone they create by striking their antennae together resembles that of the marimba, an instrument of foreign lands."
+        },
+        "Generation IX": {
+            "Scarlet": "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.",
+            "Violet": "When its antennae hit each other, it sounds like the music of a xylophone."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 202 , 203 , 204 , 206 , 207 Morning Night",
+            "Pearl": "Routes 202 , 203 , 204 , 206 , 207 Morning Night",
+            "Platinum": "Routes 201 , 202 , 203 , 204 , 205 , 207 , Eterna Forest Morning Night",
+            "HeartGold": "National Park ( Bug-Catching Contest ) Th Sa Viridian Forest ( Swarm )",
+            "SoulSilver": "National Park ( Bug-Catching Contest ) Th Sa Viridian Forest ( Swarm )",
+            "Pokéwalker": "Sinnoh Field"
+        },
+        "Generation V": {
+            "Black": "Breed Kricketune",
+            "White": "Breed Kricketune",
+            "Black 2": "Trade",
+            "White 2": "Trade",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Breed Kricketune",
+            "Alpha Sapphire": "Breed Kricketune"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 202 , 203 , 204 , 206 , 207 Morning Night Spacious Cave , Grassland Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern ( Grand Underground )",
+            "Shining Pearl": "Routes 202 , 203 , 204 , 206 , 207 Morning Night Spacious Cave , Grassland Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern ( Grand Underground )",
+            "Legends: Arceus": "Obsidian Fieldlands : Deertrack Path and nearby, Windswept Run , Nature's Pantry , Tidewater Dam , massive mass outbreaks Crimson Mirelands : Cloudpool Ridge , near Diamond Settlement , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Two Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area Two Tera Raid Battles ( 1★ )",
+            "The Hidden Treasure of Area Zero": "Reveler's Road , Kitakami Hall , Mossfell Confluence , Oni Mountain"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Kricketot",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Kricketot",
+            "to": "Kricketune",
+            "method": [
+                "Level 10"
+            ]
+        }
+    ]
+}

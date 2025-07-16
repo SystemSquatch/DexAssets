@@ -1,0 +1,54 @@
+{
+    "name": "Perrserker",
+    "pokedex_number": "#0863",
+    "types": [
+        "Steel",
+        "Unknown"
+    ],
+    "abilities": [
+        "Battle Armor",
+        "Tough Claws",
+        "Steely Spirit"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 100,
+        "Sp. Atk": 50,
+        "Sp. Def": 60,
+        "Speed": 50,
+        "Total": 440
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.",
+            "Shield": "After many battles, it evolved dangerous claws that come together to form daggers when extended."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Route 7 , Route 9 , Giant's Mirror , Lake of Outrage Dusty Bowl , Giant's Seat , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 7 , Route 9 , Giant's Mirror , Lake of Outrage Dusty Bowl , Giant's Seat , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed , Snowslide Slope , Path to the Peak , Frigid Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Evolve Meowth ( Galarian Form )",
+            "Violet": "Evolve Meowth ( Galarian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Meowth",
+            "to": "Perrserker",
+            "method": [
+                "Level 28"
+            ]
+        }
+    ]
+}

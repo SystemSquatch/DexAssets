@@ -1,0 +1,129 @@
+{
+    "name": "Pelipper",
+    "pokedex_number": "#0279",
+    "types": [
+        "Water",
+        "Flying"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Drizzle",
+        "Rain Dish"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 100,
+        "Sp. Atk": 85,
+        "Sp. Def": 70,
+        "Speed": 65,
+        "Total": 430
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Pelipper is a flying transporter that carries small Pok é mon and eggs inside its massive bill. This Pok é mon builds its nest on steep cliffs facing the sea.",
+            "Sapphire": "Pelipper searches for food while in flight by skimming the wave tops. This Pok é mon dips its large bill in the sea to scoop up food, then swallows everything in one big gulp.",
+            "Emerald": "It skims the tops of waves as it flies. When it spots prey, it uses its large beak to scoop up the victim with water. It protects its eggs in its beak.",
+            "FireRed": "It is a flying transporter that carries small Pok é mon in its beak. It bobs on the waves to rest its wings.",
+            "LeafGreen": "It is a flying transporter that carries small Pok é mon in its beak. It bobs on the waves to rest its wings."
+        },
+        "Generation IV": {
+            "Diamond": "It dips its large bill in the sea, then scoops up numerous prey along with water.",
+            "Pearl": "It acts as a delivery service by carrying small Pokémon in its bill. It bobs on the waves to rest.",
+            "Platinum": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
+            "HeartGold": "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm.",
+            "SoulSilver": "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm."
+        },
+        "Generation V": {
+            "Black": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
+            "White": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
+            "Black 2": "Skimming the water's surface, it dips its large bill in the sea, scoops up food and water, and carries it.",
+            "White 2": "Skimming the water's surface, it dips its large bill in the sea, scoops up food and water, and carries it."
+        },
+        "Generation VI": {
+            "X": "It dips its large bill in the sea, then scoops up numerous prey along with water.",
+            "Y": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
+            "Omega Ruby": "Pelipper is a flying transporter that carries small Pokémon and eggs inside its massive bill. This Pokémon builds its nest on steep cliffs facing the sea.",
+            "Alpha Sapphire": "Pelipper searches for food while in flight by skimming the wave tops. This Pokémon dips its large bill in the sea to scoop up food, then swallows everything in one big gulp."
+        },
+        "Generation VII": {
+            "Sun": "Its spacious beak is large enough for a small child to fit right inside.",
+            "Moon": "Gathering food is the work of young males. They store food in their capacious beaks and carry it back to others waiting in the nest.",
+            "Ultra Sun": "It places small Pokémon into its spacious beak and carries them around. No one knows where it's taking them.",
+            "Ultra Moon": "It scoops up Wishiwashi in its huge beak and swallows them whole. It can devour more than 30 at one go!"
+        },
+        "Generation VIII": {
+            "Sword": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
+            "Shield": "Skimming the water's surface, it dips its large bill in the sea, scoops up food and water, and carries it.",
+            "Brilliant Diamond": "It dips its large bill in the sea, then scoops up numerous prey along with water.",
+            "Shining Pearl": "It acts as a delivery service by carrying small Pokémon in its bill. It bobs on the waves to rest."
+        },
+        "Generation IX": {
+            "Scarlet": "It is a flying transporter that carries small Pokémon in its beak. It bobs on the waves to rest its wings.",
+            "Violet": "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Routes 103 , 104 , 105 , 106 , 107 , 108 , 109 , 110 , 115 , 118 , 119 , 121 , 122 , 123 , 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 , and 134 , Dewford Town , Ever Grande City , Lilycove City , Mossdeep City , Pacifidlog Town , Slateport City ( Surfing )",
+            "Sapphire": "Routes 103 , 104 , 105 , 106 , 107 , 108 , 109 , 110 , 115 , 118 , 119 , 121 , 122 , 123 , 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 , and 134 , Dewford Town , Ever Grande City , Lilycove City , Mossdeep City , Pacifidlog Town , Slateport City ( Surfing )",
+            "Emerald": "Routes 103 , 104 , 105 , 106 , 107 , 108 , 109 , 110 , 115 , 118 , 119 , 121 , 122 , 123 , 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 , and 134 , Dewford Town , Ever Grande City , Lilycove City , Mossdeep City , Pacifidlog Town , Slateport City ( Surfing )",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 205 , 213 , 218 , 219 , 220 , 221 , 222 , 223 , 224 , 226 , 229 , and 230 , Canalave City , Fuego Ironworks , Iron Island , Pastoria City , Pokémon League , Sunyshore City , Valley Windworks ( Surfing )",
+            "Pearl": "Routes 205 , 213 , 218 , 219 , 220 , 221 , 222 , 223 , 224 , 226 , 229 , and 230 , Canalave City , Fuego Ironworks , Iron Island , Pastoria City , Pokémon League , Sunyshore City , Valley Windworks ( Surfing )",
+            "Platinum": "Routes 219 , 220 , 221 , 223 , and 226 , Iron Island , Pokémon League , Sunyshore City ( Surfing ) Routes 222 , 224 , and 230 ( Grass or Surfing )",
+            "HeartGold": "Evolve Wingull",
+            "SoulSilver": "Evolve Wingull",
+            "Pal Park": "Sea",
+            "Pokéwalker": "Sightseeing"
+        },
+        "Generation V": {
+            "Black": "Route 13 , Undella Town , Undella Bay ( Surfing )",
+            "White": "Route 13 , Undella Town , Undella Bay ( Surfing )",
+            "Black 2": "Routes 13 and 22 , Giant Chasm Route 22 ( Hidden Grotto )",
+            "White 2": "Routes 13 and 22 , Giant Chasm Route 22 ( Hidden Grotto )"
+        },
+        "Generation VI": {
+            "X": "Evolve Wingull",
+            "Y": "Evolve Wingull",
+            "Omega Ruby": "Routes 103 , 104 , 105 , 106 , 107 , 108 , 109 , 110 , 115 , 118 , 119 , 122 , 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 , 134 , Dewford Town , Ever Grande City , Mossdeep City , Pacifidlog Town , Slateport City , Sea Mauville , Lilycove City , Battle Resort ( Surfing ) Routes 118 , 121 , and 123 ( Grass ) Soaring in the sky",
+            "Alpha Sapphire": "Routes 103 , 104 , 105 , 106 , 107 , 108 , 109 , 110 , 115 , 118 , 119 , 122 , 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 , 134 , Dewford Town , Ever Grande City , Mossdeep City , Pacifidlog Town , Slateport City , Sea Mauville , Lilycove City , Battle Resort ( Surfing ) Routes 118 , 121 , and 123 ( Grass ) Soaring in the sky"
+        },
+        "Generation VII": {
+            "Sun": "Route 16 , Ancient Poni Path , Exeggutor Island , Poni Gauntlet , Poni Plains , Poni Wilds , Tapu Village Route 14 , Secluded Shore ( Surfing ) Route 15 ( Surfing and walking)",
+            "Moon": "Route 16 , Ancient Poni Path , Exeggutor Island , Poni Gauntlet , Poni Plains , Poni Wilds , Tapu Village Route 14 , Secluded Shore ( Surfing ) Route 15 ( Surfing and walking)",
+            "Ultra Sun": "Route 16 , Ancient Poni Path , Exeggutor Island , Poni Gauntlet , Poni Plains , Poni Wilds , Tapu Village Route 14 , Poni Breaker Coast ( Surfing ) Route 15 ( Surfing and walking)",
+            "Ultra Moon": "Route 16 , Ancient Poni Path , Exeggutor Island , Poni Gauntlet , Poni Plains , Poni Wilds , Tapu Village Route 14 , Poni Breaker Coast ( Surfing ) Route 15 ( Surfing and walking)",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 9 , Axew's Eye , Bridge Field , Dusty Bowl , Lake of Outrage , North Lake Miloch , Rolling Fields , Hammerlocke Hills East Lake Axewell , Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Shield": "Route 9 , Axew's Eye , Bridge Field , Dusty Bowl , Lake of Outrage , North Lake Miloch , Rolling Fields , Hammerlocke Hills East Lake Axewell , Giant's Cap , Hammerlocke Hills ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor , Challenge Beach , Workout Sea , Loop Lagoon , Stepping-Stone Sea , Insular Sea , Honeycalm Island , Honeycalm Sea Loop Lagoon , Training Lowlands , Insular Sea ( Wanderer )",
+            "Brilliant Diamond": "Routes 205 , 213 , 218 , 219 , 220 , 221 , 222 , 223 , 224 , 226 , 229 , and 230 , Canalave City , Fuego Ironworks , Iron Island , Pastoria City , Pokémon League , Sunyshore City , Valley Windworks ( Surfing ) Grand Underground - Spacious Cave , Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After defeating Candice )",
+            "Shining Pearl": "Routes 205 , 213 , 218 , 219 , 220 , 221 , 222 , 223 , 224 , 226 , 229 , and 230 , Canalave City , Fuego Ironworks , Iron Island , Pastoria City , Pokémon League , Sunyshore City , Valley Windworks ( Surfing ) Grand Underground - Spacious Cave , Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After defeating Candice )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: West Paldean Sea North Province: North Paldean Sea Tera Raid Battles ( 3★ , 6★ )",
+            "Violet": "West Province: West Paldean Sea North Province: North Paldean Sea Tera Raid Battles ( 3★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Wingull",
+            "to": "Pelipper",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

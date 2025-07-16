@@ -1,0 +1,64 @@
+{
+    "name": "Rolycoly",
+    "pokedex_number": "#0837",
+    "types": [
+        "Rock",
+        "Unknown"
+    ],
+    "abilities": [
+        "Steam Engine",
+        "Heatproof",
+        "Flash Fire"
+    ],
+    "stats": {
+        "HP": 30,
+        "Attack": 40,
+        "Defense": 50,
+        "Sp. Atk": 40,
+        "Sp. Def": 50,
+        "Speed": 30,
+        "Total": 240
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.",
+            "Shield": "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it."
+        },
+        "Generation IX": {
+            "Scarlet": "On sunny days, Rolycoly will come out onto grassy plains and roll around. Then it will eat the grass that gets tangled in its wheel-like leg.",
+            "Violet": "Chunks of the surface of this Pokémon's body that have grown old and flaked off have long been used for fuel as an alternative to coal."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Route 3 , Galar Mine , Giant's Cap , Motostoke Riverbank Dusty Bowl , Giant's Seat , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 3 , Galar Mine , Giant's Cap , Motostoke Riverbank Dusty Bowl , Giant's Seat , Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Shield Expansion Pass": "Slippery Slope , Frostpoint Field , Giant's Bed , Snowslide Slope , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Area Three Tera Raid Battles ( 2★ )",
+            "Violet": "East Province: Area Three Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Rolycoly",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Rolycoly",
+            "to": "Carkol",
+            "method": [
+                "Level 18"
+            ]
+        }
+    ]
+}

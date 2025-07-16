@@ -1,0 +1,116 @@
+{
+    "name": "Buneary",
+    "pokedex_number": "#0427",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Run Away",
+        "Klutz",
+        "Limber"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 66,
+        "Defense": 44,
+        "Sp. Atk": 44,
+        "Sp. Def": 56,
+        "Speed": 85,
+        "Total": 350
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It slams foes by sharply uncoiling its rolled ears. It stings enough to make a grown-up cry in pain.",
+            "Pearl": "When it senses danger, it perks up its ears. On cold nights, it sleeps with its head tucked into its fur.",
+            "Platinum": "Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.",
+            "HeartGold": "You can tell how it feels by the way it rolls its ears. When it's scared, both ears are rolled up.",
+            "SoulSilver": "You can tell how it feels by the way it rolls its ears. When it's scared, both ears are rolled up."
+        },
+        "Generation V": {
+            "Black": "Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.",
+            "White": "Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.",
+            "Black 2": "By extending its rolled-up ears and striking the ground, it can bound so high it surprises itself.",
+            "White 2": "By extending its rolled-up ears and striking the ground, it can bound so high it surprises itself."
+        },
+        "Generation VI": {
+            "X": "Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.",
+            "Y": "When it senses danger, it perks up its ears. On cold nights, it sleeps with its head tucked into its fur.",
+            "Omega Ruby": "Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.",
+            "Alpha Sapphire": "When it senses danger, it perks up its ears. On cold nights, it sleeps with its head tucked into its fur."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Its arms and legs are weak, but when it rolls its ears up tight and then unleashes them with its full force, it can smash boulders to dust.",
+            "Ultra Moon": "The reason it keeps one ear rolled up is so it can launch a swift counterattack if it's attacked by an enemy."
+        },
+        "Generation VIII": {
+            "Sword": "If both of Buneary's ears are rolled up, something is wrong with its body or mind. It's a sure sign the Pokémon is in need of care.",
+            "Shield": "Buneary can attack by rolling up their ears and then striking with the force created by unrolling them. This attack becomes stronger with training.",
+            "Brilliant Diamond": "It slams foes by sharply uncoiling its rolled ears. It stings enough to make a grown-up cry in pain.",
+            "Shining Pearl": "When it senses danger, it perks up its ears. On cold nights, it sleeps with its head tucked into its fur.",
+            "Legends: Arceus": "My hypothesis as to why Buneary rolls up its ears is that its hearing is far too keen. I surmise that the Pokémon protects its hearing by limiting the sound that may enter its ears."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Eterna Forest",
+            "Pearl": "Eterna Forest",
+            "Platinum": "Eterna Forest",
+            "HeartGold": "Route 25 ( Swarm )",
+            "SoulSilver": "Route 25 ( Swarm )",
+            "Pokéwalker": "Rally"
+        },
+        "Generation V": {
+            "Black": "Dream World or Trade",
+            "White": "Dream World or Trade",
+            "Black 2": "Castelia City",
+            "White 2": "Trade",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Safari Zone ( hidden Pokémon * )",
+            "Alpha Sapphire": "Safari Zone ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 1 , Poni Grove",
+            "Ultra Moon": "Route 1 , Poni Grove",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Fields of Honor , Challenge Beach Fields of Honor ( Max Raid Battle )",
+            "Brilliant Diamond": "Eterna Forest Grand Underground - Spacious Cave , Grassland Cave , Sunlit Cavern , Riverbank Cave , Still-Water Cavern , Whiteout Cave , Icy Cave , Glacial Cavern",
+            "Shining Pearl": "Eterna Forest Grand Underground - Spacious Cave , Grassland Cave , Sunlit Cavern , Riverbank Cave , Still-Water Cavern , Whiteout Cave , Icy Cave , Glacial Cavern",
+            "Legends: Arceus": "Obsidian Fieldlands : The Heartwood and nearby, massive mass outbreaks Alabaster Icelands : Bonechill Wastes , Snowfall Hot Spring , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Buneary",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Buneary",
+            "to": "Lopunny",
+            "method": [
+                "Level up (with high friendship)"
+            ]
+        }
+    ]
+}

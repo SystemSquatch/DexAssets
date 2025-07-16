@@ -1,0 +1,146 @@
+{
+    "name": "Venomoth",
+    "pokedex_number": "#0049",
+    "types": [
+        "Bug",
+        "Poison"
+    ],
+    "abilities": [
+        "Shield Dust",
+        "Tinted Lens",
+        "Wonder Skin"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Atk": 90,
+        "Sp. Def": 75,
+        "Speed": 90,
+        "Total": 450
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
+            "Yellow": "The powdery scales on its wings are hard to remove. They also contain poison that leaks out on contact.",
+            "Stadium": "The powder on its wings is poisonous. It scatters the powder with every flap, so you may be poisoned if you are downwind."
+        },
+        "Generation II": {
+            "Gold": "When it attacks, it flaps its large wings violently to scatter its poisonous powder all around.",
+            "Silver": "The powder on its wings is poisonous if it is dark in color. If it is light, it causes paralysis.",
+            "Crystal": "The scales it scatters will paralyze anyone who touches them, making that person unable to stand.",
+            "Stadium 2": "When it attacks, it flaps its large wings violently to scatter its poisonous powder all around. (Pokémon Red, Silver, or Crystal inserted) The powder on its wings is poisonous if it is dark in color. If it is light, it causes paralysis. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Venomoth is nocturnal - it is a Pok é mon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
+            "Sapphire": "Venomoth is nocturnal - it is a Pok é mon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
+            "Emerald": "Venomoth are nocturnal--they only are active at night. Their favorite prey are insects that gather around streetlights, attracted by the light in the darkness.",
+            "FireRed": "The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.",
+            "LeafGreen": "The dustlike scales covering its wings are color-coded to indicate the kinds of poison it has."
+        },
+        "Generation IV": {
+            "Diamond": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
+            "Pearl": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
+            "Platinum": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
+            "HeartGold": "When it attacks, it flaps its large wings violently to scatter its poisonous powder all around.",
+            "SoulSilver": "The powder on its wings is poisonous if it is dark in hue. If it is light in hue, it causes paralysis."
+        },
+        "Generation V": {
+            "Black": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
+            "White": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
+            "Black 2": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
+            "White 2": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin."
+        },
+        "Generation VI": {
+            "X": "The scales it scatters will paralyze anyone who touches them, making that person unable to stand.",
+            "Y": "The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.",
+            "Omega Ruby": "Venomoth is nocturnal—it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
+            "Alpha Sapphire": "Venomoth is nocturnal—it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.",
+            "Let's Go Eevee": "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
+            "Shining Pearl": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin."
+        },
+        "Generation IX": {
+            "Scarlet": "The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.",
+            "Violet": "When it attacks, it flaps its large wings violently to scatter its poisonous powder all around."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Safari Zone , Victory Road , Cerulean Cave",
+            "Blue": "Safari Zone , Victory Road , Cerulean Cave",
+            "Blue (Japan)": "Safari Zone , Victory Road , Cerulean Cave",
+            "Yellow": "Routes 14 and 15 , Cerulean Cave"
+        },
+        "Generation II": {
+            "Gold": "Routes 24 and 25 Night",
+            "Silver": "Routes 24 and 25 Night",
+            "Crystal": "Routes 9 , 10 , 13 , 14 , 15 , and 43 Night"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Safari Zone , Berry Forest",
+            "LeafGreen": "Safari Zone , Berry Forest",
+            "Colosseum": "Trade",
+            "XD": "Cipher Key Lair (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Route 229 ( Poké Radar )",
+            "Pearl": "Route 229 ( Poké Radar )",
+            "Platinum": "Route 229 ( Poké Radar )",
+            "HeartGold": "Routes 24 and 25 Night",
+            "SoulSilver": "Routes 24 and 25 Night",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Dreamyard ( dark grass )",
+            "White": "Dreamyard ( dark grass )",
+            "Black 2": "Evolve Venonat",
+            "White 2": "Evolve Venonat"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Bug and Poison )",
+            "Y": "Friend Safari ( Bug and Poison )",
+            "Omega Ruby": "Mirage Islands (west of Route 104 , west of Dewford Town , north of Route 124 , south of Route 134 )",
+            "Alpha Sapphire": "Mirage Islands (west of Route 104 , west of Dewford Town , north of Route 124 , south of Route 134 )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Routes 14 and 15",
+            "Let's Go Eevee": "Routes 14 and 15"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Route 229 ( Poké Radar ) Grand Underground - Spacious Cave , Grassland Cave , Swampy Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Route 229 ( Poké Radar ) Grand Underground - Spacious Cave , Grassland Cave , Swampy Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Tagtree Thicket North Province: Area Two , Casseroya Lake Area Zero Tera Raid Battles ( 3★ )",
+            "Violet": "East Province: Tagtree Thicket North Province: Area Two , Casseroya Lake Area Zero Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Venonat",
+            "to": "Venomoth",
+            "method": [
+                "Level 31"
+            ]
+        }
+    ]
+}

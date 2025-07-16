@@ -1,0 +1,100 @@
+{
+    "name": "Spiritomb",
+    "pokedex_number": "#0442",
+    "types": [
+        "Ghost",
+        "Dark"
+    ],
+    "abilities": [
+        "Pressure",
+        "Infiltrator"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 92,
+        "Defense": 108,
+        "Sp. Atk": 92,
+        "Sp. Def": 108,
+        "Speed": 35,
+        "Total": 485
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "A Pokémon that was formed by 108 spirits. It is bound to a fissure in an odd keystone.",
+            "Pearl": "It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago.",
+            "Platinum": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
+            "HeartGold": "It was formed by uniting 108 spirits. It has been bound to the Odd Keystone to keep it from doing any mischief.",
+            "SoulSilver": "It was formed by uniting 108 spirits. It has been bound to the Odd Keystone to keep it from doing any mischief."
+        },
+        "Generation V": {
+            "Black": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
+            "White": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
+            "Black 2": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
+            "White 2": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell."
+        },
+        "Generation VI": {
+            "X": "A Pokémon that was formed by 108 spirits. It is bound to a fissure in an odd keystone.",
+            "Y": "It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago.",
+            "Omega Ruby": "A Pokémon that was formed by 108 spirits. It is bound to a fissure in an odd keystone.",
+            "Alpha Sapphire": "It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Exactly 108 spirits gathered to become this Pokémon. Apparently there are some ill-natured spirits in the mix.",
+            "Shield": "All Spiritomb's mischief and misdeeds compelled a traveler to use a mysterious spell to bind Spiritomb to an odd keystone.",
+            "Brilliant Diamond": "It is a Pokémon that was formed by 108 spirits. It is bound to a fissure in an odd keystone.",
+            "Shining Pearl": "It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago.",
+            "Legends: Arceus": "It lays curses by thinking wicked thoughts. Writings tell that this Pokémon was born out of the assembly of five score and eight malevolent spirits."
+        },
+        "Generation IX": {
+            "Scarlet": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
+            "Violet": "It was formed by uniting 108 spirits. It has been bound to the Odd Keystone to keep it from doing any mischief."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Hallowed Tower on Route 209",
+            "Pearl": "Hallowed Tower on Route 209",
+            "Platinum": "Hallowed Tower on Route 209",
+            "HeartGold": "Transfer from Pokéwalker",
+            "SoulSilver": "Transfer from Pokéwalker",
+            "Pokéwalker": "Quiet Cave"
+        },
+        "Generation V": {
+            "Black": "Dream World or Trade",
+            "White": "Dream World or Trade",
+            "Black 2": "Trade with Curtis or Yancy in Nimbasa City Transfer from Dream Radar",
+            "White 2": "Trade with Curtis or Yancy in Nimbasa City Transfer from Dream Radar",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Ghost )",
+            "Y": "Friend Safari ( Ghost )",
+            "Omega Ruby": "Sea Mauville ( One )",
+            "Alpha Sapphire": "Sea Mauville ( One )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Ballimere Lake ( Only one )",
+            "Brilliant Diamond": "Hallowed Tower on Route 209",
+            "Shining Pearl": "Hallowed Tower on Route 209",
+            "Legends: Arceus": "Crimson Mirelands : Shrouded Ruins (additional ), massive mass outbreaks (after completing Request 22)"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Glaseado Mountain (fixed encounter locations only), Casseroya Lake (fixed encounter location only) (snowfield area), Area One (fixed encounter location only) (snowfield area)",
+            "Violet": "North Province: Glaseado Mountain (fixed encounter locations only), Casseroya Lake (fixed encounter location only) (snowfield area), Area One (fixed encounter location only) (snowfield area)"
+        }
+    },
+    "evolution": []
+}

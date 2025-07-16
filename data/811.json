@@ -1,0 +1,63 @@
+{
+    "name": "Thwackey",
+    "pokedex_number": "#0811",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Grassy Surge"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 70,
+        "Sp. Atk": 55,
+        "Sp. Def": 60,
+        "Speed": 80,
+        "Total": 420
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.",
+            "Shield": "When it's drumming out rapid beats in battle, it gets so caught up in the rhythm that it won't even notice that it's already knocked out its opponent."
+        },
+        "Generation IX": {
+            "Scarlet": "It skillfully uses its two sticks not only for drumming out rapid beats but also for pummeling opponents during battle.",
+            "Violet": "It becomes intensely focused while it drums out vigorous beats—so much so that sometimes it won’t listen to its Trainer’s commands."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Evolve Grookey",
+            "Shield": "Evolve Grookey",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Evolve Grookey"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Grookey",
+            "to": "Thwackey",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Thwackey",
+            "to": "Rillaboom",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

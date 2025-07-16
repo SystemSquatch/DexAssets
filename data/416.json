@@ -1,0 +1,106 @@
+{
+    "name": "Vespiquen",
+    "pokedex_number": "#0416",
+    "types": [
+        "Bug",
+        "Flying"
+    ],
+    "abilities": [
+        "Pressure",
+        "Unnerve"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 102,
+        "Sp. Atk": 80,
+        "Sp. Def": 102,
+        "Speed": 40,
+        "Total": 474
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee .",
+            "Pearl": "When endangered, grubs from its six-cell honeycomb strike back. There is only one in a colony.",
+            "Platinum": "It releases various pheromones to make the grubs in its body do its bidding while fighting foes.",
+            "HeartGold": "It raises grubs in the holes in its body. It secretes pheromones to control Combee .",
+            "SoulSilver": "It raises grubs in the holes in its body. It secretes pheromones to control Combee ."
+        },
+        "Generation V": {
+            "Black": "It releases various pheromones to make the grubs in its body do its bidding while fighting foes.",
+            "White": "It releases various pheromones to make the grubs in its body do its bidding while fighting foes.",
+            "Black 2": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
+            "White 2": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding."
+        },
+        "Generation VI": {
+            "X": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
+            "Y": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee .",
+            "Omega Ruby": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
+            "Alpha Sapphire": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee ."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It skillfully commands its grubs in battles with its enemies. The grubs are willing to risk their lives to defend Vespiquen.",
+            "Shield": "Vespiquen that give off more pheromones have larger swarms of Combee attendants.",
+            "Brilliant Diamond": "Its abdomen is a honeycomb for grubs. It raises its grubs on nectar collected by Combee .",
+            "Shining Pearl": "When it is in danger, grubs from its six-cell honeycomb strike back. There is only one in a colony.",
+            "Legends: Arceus": "Commands its subjects to build its hive. It will dispatch any interlopers who dare sneak into its nest and use them as nourishment for itself."
+        },
+        "Generation IX": {
+            "Scarlet": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
+            "Violet": "It raises grubs in the holes in its body. It secretes pheromones to control Combee ."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Combee ♀",
+            "Pearl": "Evolve Combee ♀",
+            "Platinum": "Evolve Combee ♀",
+            "HeartGold": "Evolve Combee ♀",
+            "SoulSilver": "Evolve Combee ♀"
+        },
+        "Generation V": {
+            "Black": "Route 12 ( rustling grass )",
+            "White": "Route 12 ( rustling grass )",
+            "Black 2": "Route 12 , Lostlorn Forest ( rustling grass )",
+            "White 2": "Route 12 , Lostlorn Forest ( rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Combee ♀",
+            "Y": "Evolve Combee ♀",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields ( Wanderer ) Bridge Field , South Lake Miloch ( Max Raid Battle )",
+            "Shield": "Rolling Fields ( Wanderer ) Bridge Field , South Lake Miloch ( Max Raid Battle )",
+            "Expansion Pass": "Honeycalm Island ( Max Raid Battle ) * Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Evolve Combee ♀",
+            "Shining Pearl": "Evolve Combee ♀",
+            "Legends: Arceus": "Obsidian Fieldlands : Grueling Grove (only one during Mission 20) Crimson Mirelands : near Cottonsedge Prairie (additional ), near Droning Meadow , near Lake Valor Crimson Mirelands: Cottonsedge Prairie, Droning Meadow Shaking trees"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Two , Area Six East Province: East Paldean Sea West Province: Area One North Province: Area One , Area Two , Area Three Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Area Two , Area Six East Province: East Paldean Sea West Province: Area One North Province: Area One , Area Two , Area Three Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Combee",
+            "to": "Vespiquen",
+            "method": [
+                "Level 21 ((Female only))"
+            ]
+        }
+    ]
+}

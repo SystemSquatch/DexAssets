@@ -1,0 +1,138 @@
+{
+    "name": "Croconaw",
+    "pokedex_number": "#0159",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Sheer Force"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 80,
+        "Defense": 80,
+        "Sp. Atk": 59,
+        "Sp. Def": 63,
+        "Speed": 58,
+        "Total": 405
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
+            "Silver": "It opens its huge jaws wide when attacking. If it loses any fangs while biting, they grow back in.",
+            "Crystal": "The tips of its fangs are slanted backward. Once those fangs clamp down, the prey has no hope of escape.",
+            "Stadium 2": "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth. (Pokémon Red, Silver, or Crystal inserted) It opens its huge jaws wide when attacking. If it loses any fangs while biting, they grow back in. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
+            "Sapphire": "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
+            "Emerald": "Once its jaws clamp down on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like fishhooks, they become irremovably embedded.",
+            "FireRed": "It opens its huge jaws wide when attacking. If it loses any fangs while biting, they grow back in.",
+            "LeafGreen": "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth."
+        },
+        "Generation IV": {
+            "Diamond": "Once it bites down, it won't let go until it loses its fangs. New fangs quickly grow into place.",
+            "Pearl": "Once it bites down, it won't let go until it loses its fangs. New fangs quickly grow into place.",
+            "Platinum": "Once it bites down, it won't let go until it loses its fangs. New fangs quickly grow into place.",
+            "HeartGold": "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
+            "SoulSilver": "It opens its huge jaws wide when attacking. If it loses any fangs while biting, they grow back in."
+        },
+        "Generation V": {
+            "Black": "Once it bites down, it won't let go until it loses its fangs. New fangs quickly grow into place.",
+            "White": "Once it bites down, it won't let go until it loses its fangs. New fangs quickly grow into place.",
+            "Black 2": "Once it bites down, it won't let go until it loses its fangs. New fangs quickly grow into place.",
+            "White 2": "Once it bites down, it won't let go until it loses its fangs. New fangs quickly grow into place."
+        },
+        "Generation VI": {
+            "X": "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
+            "Y": "Once it bites down, it won't let go until it loses its fangs. New fangs quickly grow into place.",
+            "Omega Ruby": "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
+            "Alpha Sapphire": "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Once it bites down, it won't let go until it loses its fangs. New fangs quickly grow into place.",
+            "Shining Pearl": "Once it bites down, it won't let go until it loses its fangs. New fangs quickly grow into place."
+        },
+        "Generation IX": {
+            "Scarlet": "The tips of its fangs are slanted backward. Once those fangs clamp down, the prey has no hope of escape.",
+            "Violet": "It opens its huge jaws wide to attack. If it loses fangs while biting, they’ll just keep on growing back, one after another."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Evolve Totodile",
+            "Silver": "Evolve Totodile",
+            "Crystal": "Evolve Totodile"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Evolve Totodile",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Phenac City (Shadow) Realgam Tower (if not snagged in Phenac City) Snagem Hideout (if Rosso was battled in Phenac City) Shadow PKMN Lab (if Verde was battled in Phenac City)",
+            "XD": "Evolve Totodile"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Totodile",
+            "SoulSilver": "Evolve Totodile",
+            "Pal Park": "Pond"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Totodile",
+            "Alpha Sapphire": "Evolve Totodile"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Totodile",
+            "Moon": "Evolve Totodile",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Totodile",
+            "Shining Pearl": "Evolve Totodile",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Evolve Totodile"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Totodile",
+            "to": "Croconaw",
+            "method": [
+                "Level 18"
+            ]
+        },
+        {
+            "from": "Croconaw",
+            "to": "Feraligatr",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

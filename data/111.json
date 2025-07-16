@@ -1,0 +1,159 @@
+{
+    "name": "Rhyhorn",
+    "pokedex_number": "#0111",
+    "types": [
+        "Ground",
+        "Rock"
+    ],
+    "abilities": [
+        "Lightning Rod",
+        "Rock Head",
+        "Reckless"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 85,
+        "Defense": 95,
+        "Sp. Atk": 30,
+        "Sp. Def": 30,
+        "Speed": 25,
+        "Total": 345
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
+            "Yellow": "A Pok é mon with a one-track mind. Once it charges, it won't stop running until it falls asleep.",
+            "Stadium": "Its bones are 1,000 times harder than human bones. Using its durability and strength, it can destroy tall buildings."
+        },
+        "Generation II": {
+            "Gold": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
+            "Silver": "It doesn't care if there is anything in its way. It just charges and destroys all obstacles.",
+            "Crystal": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started.",
+            "Stadium 2": "It is inept at turning because of its four short legs. It can only charge and run in one direction. (Pokémon Red, Silver, or Crystal inserted) It doesn't care if there is anything in its way. It just charges and destroys all obstacles. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pok é mon may feel some pain from the collision the next day, however.",
+            "Sapphire": "Rhyhorn 's brain is very small. It is so dense, while on a run it forgets why it started running in the first place. It apparently remembers sometimes if it demolishes something.",
+            "Emerald": "Once it starts running, it doesn't stop. Its tiny brain makes it so stupid that it can't remember why it started running in the first place.",
+            "FireRed": "Strong, but not too bright, this Pok é mon can shatter even a skyscraper with its charging Tackles .",
+            "LeafGreen": "Its massive bones are 1,000 times harder than human bones. Its Tackle can knock a semitrailer flying."
+        },
+        "Generation IV": {
+            "Diamond": "Its body is clad in a thick hide, and its tackles topple buildings. Unfortunately, it is not smart.",
+            "Pearl": "Its body is clad in a thick hide, and its tackles topple buildings. Unfortunately, it is not smart.",
+            "Platinum": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+            "HeartGold": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
+            "SoulSilver": "It doesn't care if there is anything in its way. It just charges and destroys all obstacles."
+        },
+        "Generation V": {
+            "Black": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+            "White": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+            "Black 2": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+            "White 2": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work."
+        },
+        "Generation VI": {
+            "X": "Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging Tackles.",
+            "Y": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
+            "Omega Ruby": "Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day, however.",
+            "Alpha Sapphire": "Rhyhorn's brain is very small. It is so dense, while on a run it forgets why it started running in the first place. It apparently remembers sometimes if it demolishes something."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "A Pokémon with a one-track mind. Once it charges, it won't stop running until it falls asleep.",
+            "Let's Go Eevee": "A Pokémon with a one-track mind. Once it charges, it won't stop running until it falls asleep."
+        },
+        "Generation VIII": {
+            "Sword": "Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging tackles.",
+            "Shield": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started.",
+            "Brilliant Diamond": "Its body is clad in a thick hide, and its tackles topple buildings. Unfortunately, it is not smart.",
+            "Shining Pearl": "Its body is clad in a thick hide, and its tackles topple buildings. Unfortunately, it is not smart.",
+            "Legends: Arceus": "Ludicrously strong—when it butts heads with a mountain, it is the mountain that shatters. But its short legs struggle with turns, and it is incapable of stopping unless it collides with something."
+        },
+        "Generation IX": {
+            "Scarlet": "Rhyhorn claims an area with over a six mile radius as its territory. It apparently forgets where this territory is when running, however.",
+            "Violet": "Once it starts running, it won’t stop—even if it crashes through boulders. This disposition is what’s caused its habitat to expand."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Safari Zone",
+            "Blue": "Safari Zone",
+            "Blue (Japan)": "Safari Zone",
+            "Yellow": "Safari Zone , Cerulean Cave"
+        },
+        "Generation II": {
+            "Gold": "Victory Road",
+            "Silver": "Victory Road",
+            "Crystal": "Victory Road Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Safari Zone",
+            "Sapphire": "Safari Zone",
+            "Emerald": "Safari Zone",
+            "FireRed": "Safari Zone",
+            "LeafGreen": "Safari Zone",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 227 , Stark Mountain",
+            "Pearl": "Route 227 , Stark Mountain",
+            "Platinum": "Routes 214 and 227 , Victory Road , Stark Mountain",
+            "HeartGold": "Victory Road Safari Zone (Savannah, default Morning Day , and with 5 Peak points) Trade Bonsly with Brock in Diglett's Cave Mo Sa",
+            "SoulSilver": "Victory Road Safari Zone (Savannah, default Morning Day , and with 5 Peak points) Trade Bonsly with Brock in Diglett's Cave Mo Sa",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Volcano Path"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest *",
+            "Black 2": "Trade with Curtis or Yancy in Nimbasa City",
+            "White 2": "Trade with Curtis or Yancy in Nimbasa City",
+            "Dream World": "Rugged Mountain"
+        },
+        "Generation VI": {
+            "X": "Glittering Cave",
+            "Y": "Glittering Cave",
+            "Omega Ruby": "Safari Zone (Zone 3, tall grass )",
+            "Alpha Sapphire": "Safari Zone (Zone 3, tall grass )"
+        },
+        "Generation VII": {
+            "Sun": "Blush Mountain ( Island Scan ) Su",
+            "Moon": "Blush Mountain ( Island Scan ) Su",
+            "Ultra Sun": "Blush Mountain ( Island Scan ) Su",
+            "Ultra Moon": "Blush Mountain ( Island Scan ) Su",
+            "Let's Go Pikachu": "Rock Tunnel , Victory Road , Cerulean Cave",
+            "Let's Go Eevee": "Rock Tunnel , Victory Road , Cerulean Cave"
+        },
+        "Generation VIII": {
+            "Sword": "Route 8 , Bridge Field , Giant's Cap , Giant's Mirror , Motostoke Riverbank , Stony Wilderness Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 8 , Bridge Field , Giant's Cap , Giant's Mirror , Motostoke Riverbank , Stony Wilderness Rolling Fields , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Potbottom Desert Fields of Honor ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 227 , Stark Mountain Grand Underground - Spacious Cave , Rocky Cave , Sandsear Cave , Sunlit Cavern , Big Bluff Cavern * , Typhlo Cavern",
+            "Shining Pearl": "Route 227 , Stark Mountain Grand Underground - Spacious Cave , Rocky Cave , Sandsear Cave , Sunlit Cavern , Big Bluff Cavern * , Typhlo Cavern",
+            "Legends: Arceus": "Crimson Mirelands : Shrouded Ruins , Diamond Heath (additional ), Bolderoll Slope , massive mass outbreaks Coronet Highlands : Celestica Trail , Sacred Plaza , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Savanna Biome Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Rhyhorn",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Rhyhorn",
+            "to": "Rhydon",
+            "method": [
+                "Level 42"
+            ]
+        }
+    ]
+}

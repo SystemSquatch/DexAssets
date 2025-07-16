@@ -1,0 +1,65 @@
+{
+    "name": "Impidimp",
+    "pokedex_number": "#0859",
+    "types": [
+        "Dark",
+        "Fairy"
+    ],
+    "abilities": [
+        "Prankster",
+        "Frisk",
+        "Pickpocket"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 45,
+        "Defense": 30,
+        "Sp. Atk": 55,
+        "Sp. Def": 40,
+        "Speed": 50,
+        "Total": 265
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Through its nose, it sucks in the emanations produced by people and Pokémon when they feel annoyed. It thrives off this negative energy.",
+            "Shield": "It sneaks into people's homes, stealing things and feasting on the negative energy of the frustrated occupants."
+        },
+        "Generation IX": {
+            "Scarlet": "The reason this Pokémon causes trouble for those it feels close to is because Impidimp itself gets irritable if it can’t absorb negative emotions.",
+            "Violet": "They live in groups, pestering and playing pranks on each other to polish their troublemaking skills."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Trade Maractus in Stow-on-Side Sh Giant's Mirror , Hammerlocke Hills , Motostoke Outskirts , Stony Wilderness Glimwood Tangle ( Wanderer ) Bridge Field , Dusty Bowl , Giant's Mirror , Hammerlocke Hills , Lake of Outrage , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Trade Maractus in Stow-on-Side Sh Giant's Mirror , Hammerlocke Hills , Motostoke Outskirts , Stony Wilderness Glimwood Tangle ( Wanderer ) Bridge Field , Dusty Bowl , Giant's Mirror , Hammerlocke Hills , Lake of Outrage , Rolling Fields ( Max Raid Battle )",
+            "Expansion Pass": "Slippery Slope Frostpoint Field , Giant's Bed , Snowslide Slope , Giant's Foot , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Tagtree Thicket Tera Raid Battles ( 2★ )",
+            "Violet": "East Province: Tagtree Thicket Tera Raid Battles ( 2★ )",
+            "The Hidden Treasure of Area Zero": "Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Impidimp",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Impidimp",
+            "to": "Morgrem",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

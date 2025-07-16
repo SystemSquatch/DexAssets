@@ -1,0 +1,35 @@
+{
+    "name": "Iron Leaves",
+    "pokedex_number": "#1010",
+    "types": [
+        "Grass",
+        "Psychic"
+    ],
+    "abilities": [
+        "Quark Drive"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 130,
+        "Defense": 88,
+        "Sp. Atk": 70,
+        "Sp. Def": 108,
+        "Speed": 104,
+        "Total": 590
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Many of its physical characteristics match those of a Virizion from the future that was covered in a paranormal magazine.",
+            "Violet": "According to the few eyewitness accounts that exist, it used its shining blades to julienne large trees and boulders."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Poké Portal News Version 1.2.0+",
+            "Violet": "Poké Portal News Version 1.2.0+"
+        }
+    },
+    "evolution": []
+}

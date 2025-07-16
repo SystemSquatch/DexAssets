@@ -1,0 +1,149 @@
+{
+    "name": "Hypno",
+    "pokedex_number": "#0097",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Insomnia",
+        "Forewarn",
+        "Inner Focus"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 73,
+        "Defense": 70,
+        "Sp. Atk": 73,
+        "Sp. Def": 115,
+        "Speed": 67,
+        "Total": 483
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "When it locks eyes with an enemy, it will use a mix of PSI moves such as Hypnosis and Confusion .",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "When it locks eyes with an enemy, it will use a mix of PSI moves such as Hypnosis and Confusion .",
+            "Yellow": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.",
+            "Stadium": "If you lock eyes with it, it will try to hypnotize you. It is best to close your eyes quickly before you get hypnotized."
+        },
+        "Generation II": {
+            "Gold": "When it is very hungry, it puts humans it meets to sleep, then it feasts on their dreams.",
+            "Silver": "Always holding a pendulum that it rocks at a steady rhythm, it causes drowsiness in anyone nearby.",
+            "Crystal": "The longer it swings its pendulum, the longer the effects of its hypnosis last.",
+            "Stadium 2": "When it is very hungry, it puts humans it meets to sleep, then it feasts on their dreams. (Pokémon Red, Silver, or Crystal inserted) Always holding a pendulum that it rocks at a steady rhythm, it causes drowsiness in anyone nearby. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this Pok é mon searches for prey, it polishes the pendulum.",
+            "Sapphire": "Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this Pok é mon searches for prey, it polishes the pendulum.",
+            "Emerald": "The arcing movement and glitter of the pendulum in a Hypno 's hand lull the foe into deep hypnosis. While searching for prey, it polishes the pendulum.",
+            "FireRed": "It carries a pendulum-like device. There once was an incident in which it took away a child it hypnotized.",
+            "LeafGreen": "When it locks eyes with an enemy, it will use a mix of PSI moves such as Hypnosis and Confusion ."
+        },
+        "Generation IV": {
+            "Diamond": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
+            "Pearl": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
+            "Platinum": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
+            "HeartGold": "When it is very hungry, it puts humans it meets to sleep, then it feasts on their dreams.",
+            "SoulSilver": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby."
+        },
+        "Generation V": {
+            "Black": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
+            "White": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
+            "Black 2": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
+            "White 2": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up."
+        },
+        "Generation VI": {
+            "X": "It carries a pendulum-like device. There once was an incident in which it took away a child it hypnotized.",
+            "Y": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
+            "Omega Ruby": "Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this Pokémon searches for prey, it polishes the pendulum.",
+            "Alpha Sapphire": "Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this Pokémon searches for prey, it polishes the pendulum."
+        },
+        "Generation VII": {
+            "Sun": "While it is an extremely dangerous Pokémon, people who are in need of a good, sound sleep call it their savior.",
+            "Moon": "As a matter of course, it makes anyone it meets fall asleep and has a taste of their dreams. Anyone having a good dream, it carries off.",
+            "Ultra Sun": "In Alola, Komala is Hypno's main target. It rarely harms people.",
+            "Ultra Moon": "There are some Hypno that assist doctors with patients who can't sleep at night in hospitals.",
+            "Let's Go Pikachu": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.",
+            "Let's Go Eevee": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
+            "Shining Pearl": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up."
+        },
+        "Generation IX": {
+            "Scarlet": "When it locks eyes with an enemy, it will use a mix of psi moves, such as Hypnosis and Confusion .",
+            "Violet": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Cerulean Cave",
+            "Blue": "Cerulean Cave",
+            "Blue (Japan)": "Cerulean Cave",
+            "Yellow": "Evolve Drowzee"
+        },
+        "Generation II": {
+            "Gold": "Route 11",
+            "Silver": "Route 11",
+            "Crystal": "Route 11 Night"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Berry Forest ( tall grass , event )",
+            "LeafGreen": "Berry Forest ( tall grass , event )",
+            "Colosseum": "Trade",
+            "XD": "Cipher Key Lair (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Drowzee",
+            "Pearl": "Evolve Drowzee",
+            "Platinum": "Evolve Drowzee",
+            "HeartGold": "Route 11 Safari Zone Night (tall grass in Swamp, default, and with 5 Forest points)",
+            "SoulSilver": "Route 11 Safari Zone Night (tall grass in Swamp, default, and with 5 Forest points)",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Dreamyard ( Swarm )",
+            "White 2": "Dreamyard ( Swarm )"
+        },
+        "Generation VI": {
+            "X": "Evolve Drowzee",
+            "Y": "Evolve Drowzee",
+            "Omega Ruby": "Route 121 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 121 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Poni Plains",
+            "Moon": "Poni Plains",
+            "Ultra Sun": "Poni Plains Hau'oli City ( One )",
+            "Ultra Moon": "Poni Plains Hau'oli City ( One )",
+            "Let's Go Pikachu": "Evolve Drowzee",
+            "Let's Go Eevee": "Evolve Drowzee"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Drowzee",
+            "Shining Pearl": "Evolve Drowzee",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Six West Province: Area One , Area Three North Province: Area Three , Dalizapa Passage , Glaseado Mountain Area Zero: Depths * Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: Area Six West Province: Area One , Area Three North Province: Area Three , Dalizapa Passage , Glaseado Mountain Area Zero: Depths * Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Drowzee",
+            "to": "Hypno",
+            "method": [
+                "Level 26"
+            ]
+        }
+    ]
+}

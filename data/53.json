@@ -1,0 +1,157 @@
+{
+    "name": "Persian",
+    "pokedex_number": "#0053",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Limber",
+        "Technician",
+        "Fur Coat",
+        "Technician",
+        "Unnerve",
+        "Rattled"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 70,
+        "Defense": 60,
+        "Sp. Atk": 65,
+        "Sp. Def": 65,
+        "Speed": 115,
+        "Total": 440
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+            "Yellow": "The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen.",
+            "Stadium": "It is highly regarded as a pet for its beautiful fur. However, it is extremely temperamental and difficult to keep."
+        },
+        "Generation II": {
+            "Gold": "Many adore it for its sophisticated air. However, it will lash out and scratch for little reason.",
+            "Silver": "Its lithe muscles allow it to walk without making a sound. It attacks in an instant.",
+            "Crystal": "Behind its lithe, elegant appearance lies a barbaric side. It will tear apart its prey on a mere whim.",
+            "Stadium 2": "Many adore it for its sophisticated air. However, it will lash out and scratch for little reason. (Pokémon Red, Silver, or Crystal inserted) Its lithe muscles allow it to walk without making a sound. It attacks in an instant. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pok é mon 's surrounding vicinity. It becomes docile if grabbed by the whiskers.",
+            "Sapphire": "Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pok é mon 's surrounding vicinity. It becomes docile if grabbed by the whiskers.",
+            "Emerald": "A Persian 's six bold whiskers sense air movements to determine what is in its vicinity. It becomes docile if grabbed by the whiskers.",
+            "FireRed": "Has a vicious temperament. Beware if it raises its tail straight up. It is a signal that it is about to pounce and bite.",
+            "LeafGreen": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness."
+        },
+        "Generation IV": {
+            "Diamond": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
+            "Pearl": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
+            "Platinum": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
+            "HeartGold": "Many adore it for its sophisticated air. However, it will lash out and scratch for little reason.",
+            "SoulSilver": "Its lithe muscles allow it to walk without making a sound. It attacks in an instant."
+        },
+        "Generation V": {
+            "Black": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
+            "White": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
+            "Black 2": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
+            "White 2": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk."
+        },
+        "Generation VI": {
+            "X": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+            "Y": "Its lithe muscles allow it to walk without making a sound. It attacks in an instant.",
+            "Omega Ruby": "Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pokémon's surrounding vicinity. It becomes docile if grabbed by the whiskers.",
+            "Alpha Sapphire": "Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pokémon's surrounding vicinity. It becomes docile if grabbed by the whiskers."
+        },
+        "Generation VII": {
+            "Sun": "Its round face and smooth coat—softer than the most high-class velvet—have made this a very popular Pokémon in Alola.",
+            "Moon": "It looks down on everyone other than itself. Its preferred tactics are sucker punches and blindside attacks.",
+            "Ultra Sun": "In contrast to its lovely face, it's so brutal that it tortures its weakened prey rather than finishing them off.",
+            "Ultra Moon": "Its round face is a symbol of wealth. Persian that have bigger, plumper faces are considered more beautiful.",
+            "Let's Go Pikachu": "It has the classiest coat. The rippling of its fur in the heat of battle has a beauty all its own.",
+            "Let's Go Eevee": "It has the classiest coat. The rippling of its fur in the heat of battle has a beauty all its own."
+        },
+        "Generation VIII": {
+            "Sword": "The round face of Alolan Persian is considered to be a symbol of prosperity in the Alola region, so these Pokémon are very well cared for.",
+            "Shield": "This Pokémon is one tough opponent. Not only does it have formidable physical abilities, but it's also not above fighting dirty.",
+            "Brilliant Diamond": "It is a very haughty Pokémon. Among fans of Persian, the size of the jewel in its forehead is a topic of much talk.",
+            "Shining Pearl": "It is a very haughty Pokémon. Among fans of Persian, the size of the jewel in its forehead is a topic of much talk."
+        },
+        "Generation IX": {
+            "Scarlet": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+            "Violet": "It has a vicious temperament. Beware if it raises its tail straight up. This is a signal that it is about to pounce and bite."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Trade",
+            "Blue": "Evolve Meowth",
+            "Blue (Japan)": "Evolve Meowth",
+            "Yellow": "Trade"
+        },
+        "Generation II": {
+            "Gold": "Trade",
+            "Silver": "Route 7",
+            "Crystal": "Route 7 Night"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Evolve Meowth",
+            "FireRed": "Bond Bridge , Canyon Entrance , Cape Brink , Five Isle Meadow , Kindle Road , Ruin Valley , Sevault Canyon , Treasure Beach , Water Path",
+            "LeafGreen": "Bond Bridge , Canyon Entrance , Cape Brink , Five Isle Meadow , Kindle Road , Ruin Valley , Sevault Canyon , Treasure Beach , Water Path",
+            "Colosseum": "Trade",
+            "XD": "Evolve Meowth"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Meowth",
+            "Pearl": "Evolve Meowth",
+            "Platinum": "Evolve Meowth",
+            "HeartGold": "Trade",
+            "SoulSilver": "Route 7 , Cerulean Cave",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Evolve Meowth",
+            "White 2": "Evolve Meowth"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Mirage Island (North of Route 124 )",
+            "Alpha Sapphire": "Mirage Island (North of Route 124 )"
+        },
+        "Generation VII": {
+            "Sun": "Evolve Meowth ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Moon": "Evolve Meowth ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Sun": "Malie Garden ( SOS Battle ) ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Moon": "Malie Garden ( SOS Battle ) ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Let's Go Pikachu": "Vermilion City ( Only one ) ( Kantonian Form ) Trade ( Alolan Form )",
+            "Let's Go Eevee": "Evolve Meowth ( Kantonian/Alolan Forms )"
+        },
+        "Generation VIII": {
+            "Sword": "Evolve Meowth ( Kantonian Form ) Trade ( Alolan Form )",
+            "Shield": "Evolve Meowth ( Kantonian Form ) Trade ( Alolan Form )",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Kantonian/Alolan Forms )",
+            "Brilliant Diamond": "Evolve Meowth ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Shining Pearl": "Evolve Meowth ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Four ( Kantonian Form ) West Province: Area Three ( Kantonian Form ) Tera Raid Battles ( 4★ ) ( Kantonian Form ) Pokémon HOME ( Alolan Form )",
+            "Violet": "South Province: Area Four ( Kantonian Form ) West Province: Area Three ( Kantonian Form ) Tera Raid Battles ( 4★ ) ( Kantonian Form ) Pokémon HOME ( Alolan Form )",
+            "The Hidden Treasure of Area Zero": "Evolve Meowth ( Alolan Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Meowth",
+            "to": "Persian",
+            "method": [
+                "Level 28",
+                "Level up (with high friendship)"
+            ]
+        }
+    ]
+}

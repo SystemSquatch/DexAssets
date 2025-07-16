@@ -1,0 +1,163 @@
+{
+    "name": "Diglett",
+    "pokedex_number": "#0050",
+    "types": [
+        "Ground",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sand Veil",
+        "Arena Trap",
+        "Sand Veil",
+        "Tangling Hair",
+        "Sand Force"
+    ],
+    "stats": {
+        "HP": 10,
+        "Attack": 55,
+        "Defense": 25,
+        "Sp. Atk": 35,
+        "Sp. Def": 45,
+        "Speed": 95,
+        "Total": 265
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
+            "Yellow": "It prefers dark places. It spends most of its time underground, though it may pop up in caves.",
+            "Stadium": "Its head pokes up approximately eight inches out of the ground. However, its real size remains a mystery to this day."
+        },
+        "Generation II": {
+            "Gold": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.",
+            "Silver": "If a Diglett Digs through a field, it leaves the soil perfectly tilled and ideal for planting crops.",
+            "Crystal": "It digs underground and chews on tree roots, sticking its head out only when the sun isn't bright.",
+            "Stadium 2": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak. (Pokémon Red, Silver, or Crystal inserted) If a Diglett Dig s through a field, it leaves the soil perfectly tilled and ideal for planting crops. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Diglett are raised in most farms. The reason is simple - wherever this Pok é mon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
+            "Sapphire": "Diglett are raised in most farms. The reason is simple - wherever this Pok é mon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
+            "Emerald": "Diglett are raised in most farms. The reason is simple--wherever they burrow, the soil is left perfectly tilled for growing delicious crops.",
+            "FireRed": "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.",
+            "LeafGreen": "Lives about one yard underground where it feeds on plant roots. It sometimes appears aboveground."
+        },
+        "Generation IV": {
+            "Diamond": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
+            "Pearl": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
+            "Platinum": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
+            "HeartGold": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.",
+            "SoulSilver": "If a Diglett digs through a field, it leaves the soil perfectly tilled and ideal for planting crops."
+        },
+        "Generation V": {
+            "Black": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
+            "White": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
+            "Black 2": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
+            "White 2": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight."
+        },
+        "Generation VI": {
+            "X": "Lives about one yard underground where it feeds on plant roots. It sometimes appears aboveground.",
+            "Y": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.",
+            "Omega Ruby": "Diglett are raised in most farms. The reason is simple— wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
+            "Alpha Sapphire": "Diglett are raised in most farms. The reason is simple— wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables."
+        },
+        "Generation VII": {
+            "Sun": "Its head sports an altered form of whiskers made of metal. When in communication with its comrades, its whiskers wobble to and fro.",
+            "Moon": "Its golden hairs function as sensors. It pokes them out of its burrow to monitor its surroundings.",
+            "Ultra Sun": "Although it's powerful enough to dig right through volcanic rock, it doesn't allow itself to be seen very often.",
+            "Ultra Moon": "The need to dig through volcanic rock in the ground has made them more powerful than the Diglett of other regions.",
+            "Let's Go Pikachu": "After living in soil with high iron content for some time, three steel whiskers sprouted from the top of its head.",
+            "Let's Go Eevee": "After living in soil with high iron content for some time, three steel whiskers sprouted from the top of its head."
+        },
+        "Generation VIII": {
+            "Sword": "The metal-rich geology of this Pokémon's habitat caused it to develop steel whiskers on its head.",
+            "Shield": "Its three hairs change shape depending on Diglett's mood. They're a useful communication tool among these Pokémon.",
+            "Brilliant Diamond": "This Pokémon lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
+            "Shining Pearl": "This Pokémon lives underground. Because of its dark habitat, it is repelled by bright sunlight."
+        },
+        "Generation IX": {
+            "Scarlet": "The things growing from its head are whiskers that have become metallic. Diglett communicates with its comrades by waving them.",
+            "Violet": "Its golden whiskers function as sensors. It pokes them out of its burrow to monitor its surroundings."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Diglett's Cave",
+            "Blue": "Diglett's Cave",
+            "Blue (Japan)": "Diglett's Cave",
+            "Yellow": "Diglett's Cave"
+        },
+        "Generation II": {
+            "Gold": "Diglett's Cave",
+            "Silver": "Diglett's Cave",
+            "Crystal": "Diglett's Cave"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Diglett's Cave",
+            "LeafGreen": "Diglett's Cave",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 228",
+            "Pearl": "Route 228",
+            "Platinum": "Route 228",
+            "HeartGold": "Route 48 , Diglett's Cave Safari Zone (tall grass in Marshland with 5 Peak points) Vermilion City ( Rock Smash )",
+            "SoulSilver": "Route 48 , Diglett's Cave Safari Zone (tall grass in Marshland with 5 Peak points) Vermilion City ( Rock Smash )",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Breed Dugtrio",
+            "Y": "Breed Dugtrio",
+            "Omega Ruby": "Fiery Path ( hidden Pokémon * )",
+            "Alpha Sapphire": "Fiery Path ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Routes 5 and 7 , Diglett's Tunnel , Lush Jungle (Cave), Seaward Cave , Ten Carat Hill , Verdant Cavern ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Moon": "Routes 5 and 7 , Diglett's Tunnel , Lush Jungle (Cave), Seaward Cave , Ten Carat Hill , Verdant Cavern ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Sun": "Routes 5 and 7 , Diglett's Tunnel , Verdant Cavern ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Ultra Moon": "Routes 5 and 7 , Diglett's Tunnel , Verdant Cavern ( Alolan Form ) Pokémon Bank ( Kantonian Form )",
+            "Let's Go Pikachu": "Diglett's Cave ( Kantonian Form ) Trade Kantonian Diglett in Lavender Town ( Alolan Form )",
+            "Let's Go Eevee": "Diglett's Cave ( Kantonian Form ) Trade Kantonian Diglett in Lavender Town ( Alolan Form )"
+        },
+        "Generation VIII": {
+            "Sword": "Route 4 , Galar Mine , Rolling Fields , Giant's Mirror ( Kantonian Form ) Bridge Field , Rolling Fields ( Max Raid Battle ) ( Kantonian Form ) Trade ( Alolan Form )",
+            "Shield": "Route 4 , Galar Mine , Rolling Fields , Giant's Mirror ( Kantonian Form ) Bridge Field , Rolling Fields ( Max Raid Battle ) ( Kantonian Form ) Trade ( Alolan Form )",
+            "Expansion Pass": "Reward for finding 150 Alolan Diglett ( Alolan Form )",
+            "Brilliant Diamond": "Route 228 ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Shining Pearl": "Route 228 ( Kantonian Form ) Unobtainable ( Alolan Form )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Two , Area Six , Inlet Grotto , Alfornada Cavern ( Kantonian Form ) East Province: Area Three ( Kantonian Form ) West Province: Asado Desert ( Kantonian Form ) South Province: Area Two ( Rock Tera Type ) ( Kantonian Form ) Tera Raid Battles ( 2★ ) ( Kantonian Form ) Trade ( Alolan Form )",
+            "Violet": "South Province: Area Two , Area Six , Inlet Grotto , Alfornada Cavern ( Kantonian Form ) East Province: Area Three ( Kantonian Form ) West Province: Asado Desert ( Kantonian Form ) South Province: Area Two ( Rock Tera Type ) ( Kantonian Form ) Tera Raid Battles ( 2★ ) ( Kantonian Form ) Trade ( Alolan Form )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth ( Alolan Form ) Tera Raid Battles ( 3★ ) ( Alolan Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Diglett",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Diglett",
+            "to": "Dugtrio",
+            "method": [
+                "Level 26"
+            ]
+        }
+    ]
+}

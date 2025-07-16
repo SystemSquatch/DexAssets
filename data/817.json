@@ -1,0 +1,63 @@
+{
+    "name": "Drizzile",
+    "pokedex_number": "#0817",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Torrent",
+        "Sniper"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 55,
+        "Sp. Atk": 95,
+        "Sp. Def": 55,
+        "Speed": 90,
+        "Total": 420
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.",
+            "Shield": "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere."
+        },
+        "Generation IX": {
+            "Scarlet": "It extends its long, slimy tongue at blinding speeds and finishes off its prey with great skill.",
+            "Violet": "Highly intelligent but also very lazy, it defends its home by laying traps."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Evolve Sobble",
+            "Shield": "Evolve Sobble",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Evolve Sobble"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Sobble",
+            "to": "Drizzile",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Drizzile",
+            "to": "Inteleon",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Clodsire",
+    "pokedex_number": "#0980",
+    "types": [
+        "Poison",
+        "Ground"
+    ],
+    "abilities": [
+        "Poison Point",
+        "Water Absorb",
+        "Unaware"
+    ],
+    "stats": {
+        "HP": 130,
+        "Attack": 75,
+        "Defense": 60,
+        "Sp. Atk": 45,
+        "Sp. Def": 100,
+        "Speed": 20,
+        "Total": 430
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line.",
+            "Violet": "It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area Five , Area Six East Province: Area Three West Province: Area Three North Province: Area One , Glaseado Mountain Tera Raid Battles ( 4★ , 6★ )",
+            "Violet": "South Province: Area Five , Area Six East Province: Area Three West Province: Area Three North Province: Area One , Glaseado Mountain Tera Raid Battles ( 4★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Wooper",
+            "to": "Clodsire",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

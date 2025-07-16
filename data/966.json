@@ -1,0 +1,44 @@
+{
+    "name": "Revavroom",
+    "pokedex_number": "#0966",
+    "types": [
+        "Steel",
+        "Poison"
+    ],
+    "abilities": [
+        "Overcoat",
+        "Filter"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 119,
+        "Defense": 90,
+        "Sp. Atk": 54,
+        "Sp. Def": 67,
+        "Speed": 90,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders—now numbering eight—to generate energy.",
+            "Violet": "Revavroom viciously threatens others with the sound of its exhaust. It sticks its tongue out from its cylindrical mouth and sprays toxic fluids."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "East Province: Area Three North Province: Area One , Area Two , Dalizapa Passage North Province: Glaseado Mountain ( Fire Tera Type ) Tera Raid Battles ( 5★ , 6★ )",
+            "Violet": "East Province: Area Three North Province: Area One , Area Two , Dalizapa Passage North Province: Glaseado Mountain ( Fire Tera Type ) Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Varoom",
+            "to": "Revavroom",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

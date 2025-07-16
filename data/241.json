@@ -1,0 +1,129 @@
+{
+    "name": "Miltank",
+    "pokedex_number": "#0241",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Thick Fat",
+        "Scrappy",
+        "Sap Sipper"
+    ],
+    "stats": {
+        "HP": 95,
+        "Attack": 80,
+        "Defense": 105,
+        "Sp. Atk": 40,
+        "Sp. Def": 70,
+        "Speed": 100,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary.",
+            "Silver": "If it has just had a baby, the milk it produces contains much more nutrition than usual.",
+            "Crystal": "In order to milk a Miltank , one must have a knack for rhythmically pulling up and down on its udders.",
+            "Stadium 2": "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary. (Pokémon Red, Silver, or Crystal inserted) If it has just had a baby, the milk it produces contains much more nutrition than usual. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Miltank gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead.",
+            "Sapphire": "Miltank gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead.",
+            "Emerald": "It gives over five gallons of milk daily. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead.",
+            "FireRed": "If it has just had a baby, the milk it produces contains much more nutrition than usual.",
+            "LeafGreen": "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary."
+        },
+        "Generation IV": {
+            "Diamond": "It is said that kids who drink Miltank 's milk grow up to become hearty, healthy adults.",
+            "Pearl": "It is said that kids who drink Miltank 's milk grow up to become hearty, healthy adults.",
+            "Platinum": "It is said that kids who drink Miltank 's milk grow up to become hearty, healthy adults.",
+            "HeartGold": "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary.",
+            "SoulSilver": "If it is around babies, the milk it produces contains much more nutrition than usual."
+        },
+        "Generation V": {
+            "Black": "It is said that kids who drink Miltank's milk grow up to become hearty, healthy adults.",
+            "White": "It is said that kids who drink Miltank's milk grow up to become hearty, healthy adults.",
+            "Black 2": "It is said that kids who drink Miltank's milk grow up to become hearty, healthy adults.",
+            "White 2": "It is said that kids who drink Miltank's milk grow up to become hearty, healthy adults."
+        },
+        "Generation VI": {
+            "X": "If it is around babies, the milk it produces contains much more nutrition than usual.",
+            "Y": "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary.",
+            "Omega Ruby": "Miltank gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead.",
+            "Alpha Sapphire": "Miltank gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead."
+        },
+        "Generation VII": {
+            "Sun": "Its milk is high in calories and packed with nutrients. Therefore, if you drink too much of it, you may wind up with a body like Miltank's.",
+            "Moon": "Most people raise it for its milk, but it's quite tough and strong, so it's also well suited for battle.",
+            "Ultra Sun": "It produces over five gallons of milk a day. The higher the quality of the pastures it lives in, the richer and tastier its milk becomes.",
+            "Ultra Moon": "Its milk is delicious and chock-full of nutrients. However, if you drink too much, it could make your stomach hurt, so be careful."
+        },
+        "Generation VIII": {
+            "Sword": "Miltank produces highly nutritious milk, so it's been supporting the lives of people and other Pokémon since ancient times.",
+            "Shield": "This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons.",
+            "Brilliant Diamond": "It is said that kids who drink Miltank's milk grow up to become hearty, healthy adults.",
+            "Shining Pearl": "It is said that kids who drink Miltank's milk grow up to become hearty, healthy adults."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 38 and 39",
+            "Silver": "Routes 38 and 39",
+            "Crystal": "Routes 38 and 39 Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Safari Zone extension",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Tower Colosseum (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 209 and 210 ( Poké Radar )",
+            "Pearl": "Routes 209 and 210 ( Poké Radar )",
+            "Platinum": "Route 210 ( Poké Radar )",
+            "HeartGold": "Routes 38 , 39 , and 47",
+            "SoulSilver": "Routes 38 , 39 , and 47",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Dream World or Poké Transfer",
+            "White": "Dream World or Poké Transfer",
+            "Black 2": "Dream World or Poké Transfer",
+            "White 2": "Dream World or Poké Transfer",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Route 12",
+            "Y": "Route 12",
+            "Omega Ruby": "Trade , Event",
+            "Alpha Sapphire": "Trade , Event"
+        },
+        "Generation VII": {
+            "Sun": "Paniola Ranch , Poni Plains",
+            "Moon": "Paniola Ranch , Poni Plains",
+            "Ultra Sun": "Paniola Ranch , Poni Plains",
+            "Ultra Moon": "Paniola Ranch , Poni Plains",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Training Lowlands Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Routes 209 and 210 ( Poké Radar ) Grand Underground - Spacious Cave , Grassland Cave , Sunlit Cavern (After receiving the National Pokédex )",
+            "Shining Pearl": "Routes 209 and 210 ( Poké Radar ) Grand Underground - Spacious Cave , Grassland Cave , Sunlit Cavern (After receiving the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

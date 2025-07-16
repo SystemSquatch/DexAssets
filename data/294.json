@@ -1,0 +1,126 @@
+{
+    "name": "Loudred",
+    "pokedex_number": "#0294",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Soundproof",
+        "Scrappy"
+    ],
+    "stats": {
+        "HP": 84,
+        "Attack": 71,
+        "Defense": 43,
+        "Sp. Atk": 71,
+        "Sp. Def": 43,
+        "Speed": 48,
+        "Total": 360
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Loudred 's bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This Pok é mon 's round ears serve as loudspeakers.",
+            "Sapphire": "Loudred shouts while stamping its feet. After it finishes shouting, this Pok é mon becomes incapable of hearing anything for a while. This is considered to be a weak point.",
+            "Emerald": "It positions the round speakers on its head to assail foes with ultrasonic waves at massive volume. It builds power by stomping the ground.",
+            "FireRed": "When it stamps its feet and bellows, it generates ultrasonic waves that can blow apart a house.",
+            "LeafGreen": "When it stamps its feet and bellows, it generates ultrasonic waves that can blow apart a house."
+        },
+        "Generation IV": {
+            "Diamond": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
+            "Pearl": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
+            "Platinum": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
+            "HeartGold": "It shouts loudly by inhaling air, and then uses its well-developed stomach muscles to exhale.",
+            "SoulSilver": "It shouts loudly by inhaling air, and then uses its well-developed stomach muscles to exhale."
+        },
+        "Generation V": {
+            "Black": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
+            "White": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
+            "Black 2": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
+            "White 2": "The shock waves from its cries can tip over trucks. It stamps its feet to power up."
+        },
+        "Generation VI": {
+            "X": "It shouts loudly by inhaling air, and then uses its well-developed stomach muscles to exhale.",
+            "Y": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
+            "Omega Ruby": "Loudred's bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This Pokémon's round ears serve as loudspeakers.",
+            "Alpha Sapphire": "Loudred shouts while stamping its feet. After it finishes shouting, this Pokémon becomes incapable of hearing anything for a while. This is considered to be a weak point."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Loudred's ears serve as speakers, and they can put out sound waves powerful enough to blow away a house.",
+            "Shield": "The force of this Pokémon's loud voice isn't just the sound—it's also the wave of air pressure that blows opponents away and damages them.",
+            "Brilliant Diamond": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
+            "Shining Pearl": "The shock waves from its cries can tip over trucks. It stamps its feet to power up."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Victory Road",
+            "Sapphire": "Victory Road",
+            "Emerald": "Victory Road , Desert Underpass",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Mt. Coronet ( Poké Radar )",
+            "Pearl": "Mt. Coronet ( Poké Radar )",
+            "Platinum": "Mt. Coronet ( Poké Radar )",
+            "HeartGold": "Evolve Whismur",
+            "SoulSilver": "Evolve Whismur",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Evolve Whismur",
+            "Black 2": "Trade",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Normal )",
+            "Y": "Friend Safari ( Normal )",
+            "Omega Ruby": "Victory Road",
+            "Alpha Sapphire": "Victory Road"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Evolve Whismur",
+            "Brilliant Diamond": "Mt. Coronet ( Poké Radar )",
+            "Shining Pearl": "Mt. Coronet ( Poké Radar )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Whismur",
+            "to": "Loudred",
+            "method": [
+                "Level 20"
+            ]
+        },
+        {
+            "from": "Loudred",
+            "to": "Exploud",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

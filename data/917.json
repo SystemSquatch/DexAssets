@@ -1,0 +1,51 @@
+{
+    "name": "Tarountula",
+    "pokedex_number": "#0917",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Insomnia",
+        "Stakeout"
+    ],
+    "stats": {
+        "HP": 35,
+        "Attack": 41,
+        "Defense": 45,
+        "Sp. Atk": 29,
+        "Sp. Def": 40,
+        "Speed": 20,
+        "Total": 210
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther , this Pokémon’s natural enemy.",
+            "Violet": "The thread it secretes from its rear is as strong as wire. The secret behind the thread's strength is the topic of ongoing research."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five , Cabo Poco , Poco Path , Pokémon League North Province: Socarrat Trail Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five , Cabo Poco , Poco Path , Pokémon League North Province: Socarrat Trail Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Tarountula",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Tarountula",
+            "to": "Spidops",
+            "method": [
+                "Level 15"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "name": "Finneon",
+    "pokedex_number": "#0456",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Storm Drain",
+        "Water Veil"
+    ],
+    "stats": {
+        "HP": 49,
+        "Attack": 49,
+        "Defense": 56,
+        "Sp. Atk": 49,
+        "Sp. Def": 61,
+        "Speed": 66,
+        "Total": 330
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives.",
+            "Pearl": "The way its two tail fins flutter while it swims has earned it the nickname \" Beautifly of the Sea.\"",
+            "Platinum": "The line running down its side can store sunlight. It shines vividly at night.",
+            "HeartGold": "Swimming and fluttering its two tail fins, it looks like a Beautifly . At night, the patterns on its tail fins softly shine.",
+            "SoulSilver": "Swimming and fluttering its two tail fins, it looks like a Beautifly . At night, the patterns on its tail fins softly shine."
+        },
+        "Generation V": {
+            "Black": "The line running down its side can store sunlight. It shines vividly at night.",
+            "White": "The line running down its side can store sunlight. It shines vividly at night.",
+            "Black 2": "The line running down its side can store sunlight. It shines vividly at night.",
+            "White 2": "The line running down its side can store sunlight. It shines vividly at night."
+        },
+        "Generation VI": {
+            "X": "The line running down its side can store sunlight. It shines vividly at night.",
+            "Y": "After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives.",
+            "Omega Ruby": "The line running down its side can store sunlight. It shines vividly at night.",
+            "Alpha Sapphire": "After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives."
+        },
+        "Generation VII": {
+            "Sun": "It absorbs sunlight with the pink areas of its skin, which then shine. This appears to be a form of camouflage.",
+            "Moon": "Its double tail fins propel its energetic jumps. When it breaks the surface of the sea, Wingull swoop down to grab it on the fly.",
+            "Ultra Sun": "When night falls, their pink patterns begin to shine. They're popular with divers, so there are resorts that feed them to keep them close.",
+            "Ultra Moon": "It lures in prey with its shining tail fins. It stays near the surface during the day and moves to the depths when night falls."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives.",
+            "Shining Pearl": "The way its two tail fins flutter while it swims has earned it the nickname Beautifly of the Sea.",
+            "Legends: Arceus": "What a gorgeous sight this Pokémon is as it swims with its long, pink-painted caudal fins fluttering behind it. Finneon's beautiful appearance has led to its nickname: \"finery fish.\""
+        },
+        "Generation IX": {
+            "Scarlet": "The line running down its side can store sunlight. It shines vividly at night.",
+            "Violet": "It absorbs sunlight with the pink areas of its skin, which then shine. This appears to be a form of camouflage."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 205 , 218 , 219 , 220 , and 221 , Fuego Ironworks , Iron Island , Canalave City , Valley Windworks ( Good Rod )",
+            "Pearl": "Routes 205 , 218 , 219 , 220 , and 221 , Fuego Ironworks , Iron Island , Canalave City , Valley Windworks ( Good Rod )",
+            "Platinum": "Routes 205 , 218 , 219 , 220 , and 221 , Fuego Ironworks , Iron Island , Canalave City , Valley Windworks ( Good Rod )",
+            "HeartGold": "Transfer from Pokéwalker",
+            "SoulSilver": "Transfer from Pokéwalker",
+            "Pokéwalker": "Stormy Beach"
+        },
+        "Generation V": {
+            "Black": "Routes 17 and 18 , P2 Laboratory ( Fishing )",
+            "White": "Routes 17 and 18 , P2 Laboratory ( Fishing )",
+            "Black 2": "Routes 4 , 17 , and 18 , P2 Laboratory , Virbank City , Virbank Complex ( Fishing )",
+            "White 2": "Routes 4 , 17 , and 18 , P2 Laboratory , Virbank City , Virbank Complex ( Fishing )",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Routes 122 , 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 , and 134 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Routes 122 , 124 , 125 , 126 , 127 , 128 , 129 , 130 , 131 , 132 , 133 , and 134 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Routes 1 , 7 , 8 , 14 , and 15 , Hau'oli City , Melemele Sea , Kala'e Bay , Brooklet Hill , Hano Beach , Secluded Shore ( Surfing )",
+            "Moon": "Routes 1 , 7 , 8 , 14 , and 15 , Hau'oli City , Melemele Sea , Kala'e Bay , Brooklet Hill , Hano Beach , Secluded Shore ( Surfing )",
+            "Ultra Sun": "Routes 1 , 7 , 8 , 14 , and 15 , Hau'oli City , Melemele Sea , Kala'e Bay , Brooklet Hill , Hano Beach ( Surfing )",
+            "Ultra Moon": "Routes 1 , 7 , 8 , 14 , and 15 , Hau'oli City , Melemele Sea , Kala'e Bay , Brooklet Hill , Hano Beach ( Surfing )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 205 , 218 , 219 , 220 , and 221 , Fuego Ironworks , Iron Island , Canalave City , Valley Windworks ( Good Rod )",
+            "Shining Pearl": "Routes 205 , 218 , 219 , 220 , and 221 , Fuego Ironworks , Iron Island , Canalave City , Valley Windworks ( Good Rod )",
+            "Legends: Arceus": "Cobalt Coastlands : Seagrass Haven , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: West Paldean Sea Tera Raid Battles ( 1★ , 2★ )",
+            "Violet": "West Province: West Paldean Sea Tera Raid Battles ( 1★ , 2★ )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Polar Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Finneon",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Finneon",
+            "to": "Lumineon",
+            "method": [
+                "Level 31"
+            ]
+        }
+    ]
+}

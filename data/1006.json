@@ -1,0 +1,35 @@
+{
+    "name": "Iron Valiant",
+    "pokedex_number": "#1006",
+    "types": [
+        "Fairy",
+        "Fighting"
+    ],
+    "abilities": [
+        "Quark Drive"
+    ],
+    "stats": {
+        "HP": 74,
+        "Attack": 130,
+        "Defense": 90,
+        "Sp. Atk": 120,
+        "Sp. Def": 60,
+        "Speed": 116,
+        "Total": 590
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It has some similarities to a mad scientist’s invention covered in a paranormal magazine.",
+            "Violet": "It's possible that this is the object listed as Iron Valiant in a certain expedition journal."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Union Circle",
+            "Violet": "Area Zero"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,143 @@
+{
+    "name": "Pinsir",
+    "pokedex_number": "#0127",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Hyper Cutter",
+        "Mold Breaker",
+        "Moxie",
+        "Aerilate"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 100,
+        "Sp. Atk": 55,
+        "Sp. Def": 70,
+        "Speed": 85,
+        "Total": 500
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
+            "Yellow": "Grips its prey in its pincers and squeezes hard! It can't move if it's cold, so it lives in warm places.",
+            "Stadium": "Grips and tears at its enemy with the two pincers on its head. Enemies with hard bodies are gripped and tossed."
+        },
+        "Generation II": {
+            "Gold": "With its horns, it digs burrows to sleep in at night. In the morning, damp soil clings to its body.",
+            "Silver": "Swings its long antlers wildly to attack. During cold periods, it hides deep in forests.",
+            "Crystal": "When the temperature drops at night, it sleeps on treetops or among roots where it is well hidden.",
+            "Stadium 2": "With its horns, it digs burrows to sleep in at night. In the morning, damp soil clings to its body. (Pokémon Red, Silver, or Crystal inserted) Swings its long antlers wildly to attack. During cold periods, it hides deep in forests. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pok é mon 's movements turn sluggish in cold places.",
+            "Sapphire": "Pinsir has a pair of massive horns Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe's body when the pincer closes, making it tough for the foe to escape.",
+            "Emerald": "Their pincers are strong enough to shatter thick logs. Because they dislike cold, Pinsir burrow and sleep under the ground on chilly nights.",
+            "FireRed": "Its two long pincer horns are powerful. Once they grip an enemy, they won't release until the foe is torn.",
+            "LeafGreen": "If it fails to crush the foe in its pincers, it will swing around and toss the opponent."
+        },
+        "Generation IV": {
+            "Diamond": "It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.",
+            "Pearl": "It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.",
+            "Platinum": "It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.",
+            "HeartGold": "With its pincer horns, it digs burrows to sleep in at night. In the morning, damp soil clings to its body.",
+            "SoulSilver": "It swings its long pincer horns wildly to attack. During cold periods, it hides deep in forests."
+        },
+        "Generation V": {
+            "Black": "It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.",
+            "White": "It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.",
+            "Black 2": "It grips prey with its powerful pincers and will not let go until the prey is torn in half.",
+            "White 2": "It grips prey with its powerful pincers and will not let go until the prey is torn in half."
+        },
+        "Generation VI": {
+            "X": "It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.",
+            "Y": "It swings its long pincer horns wildly to attack. During cold periods, it hides deep in forests.",
+            "Omega Ruby": "Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pokémon's movements turn sluggish in cold places.",
+            "Alpha Sapphire": "Pinsir has a pair of massive horns. Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe's body when the pincer closes, making it tough for the foe to escape."
+        },
+        "Generation VII": {
+            "Sun": "The influence of Mega Evolution leaves it in a state of constant excitement. It pierces enemies with its two large horns before shredding them.",
+            "Moon": "Bathed in the energy of Mega Evolution, its wings become unusually developed. It flies at speeds of approximately 30 mph .",
+            "Ultra Sun": "After Mega Evolution, it becomes able to fly. Perhaps because it's so happy, it rarely touches the ground.",
+            "Ultra Moon": "It zips around at blistering speeds, looking for an opening to skewer its opponent on its giant pincers.",
+            "Let's Go Pikachu": "With its vaunted horns, it can lift an opponent 10 times heavier than itself and fly about with ease.",
+            "Let's Go Eevee": "With its vaunted horns, it can lift an opponent 10 times heavier than itself and fly about with ease."
+        },
+        "Generation VIII": {
+            "Sword": "These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.",
+            "Shield": "This Pokémon clamps its pincers down on its prey and then either splits the prey in half or flings it away.",
+            "Brilliant Diamond": "It grips prey with its pincers until the prey is torn apart. What it can't tear, it tosses far away.",
+            "Shining Pearl": "It grips prey with its pincers until the prey is torn apart. What it can't tear, it tosses far away."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Trade",
+            "Blue": "Safari Zone , Celadon City ( Rocket Game Corner )",
+            "Blue (Japan)": "Safari Zone",
+            "Yellow": "Safari Zone , Celadon City ( Rocket Game Corner )"
+        },
+        "Generation II": {
+            "Gold": "National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "Silver": "National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "Crystal": "National Park ( Bug-Catching Contest ) Tu Th Sa"
+        },
+        "Generation III": {
+            "Ruby": "Safari Zone",
+            "Sapphire": "Safari Zone",
+            "Emerald": "Safari Zone",
+            "FireRed": "Trade",
+            "LeafGreen": "Safari Zone , Celadon City ( Rocket Game Corner )",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Route 229",
+            "Platinum": "Route 229 ( Swarm )",
+            "HeartGold": "National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "SoulSilver": "National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Route 12",
+            "White": "Route 12",
+            "Black 2": "Lostlorn Forest ( Hidden Grotto )",
+            "White 2": "Route 12 and Lostlorn Forest Lostlorn Forest ( Hidden Grotto )",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Route 12 , Friend Safari ( Bug )",
+            "Y": "Friend Safari ( Bug )",
+            "Omega Ruby": "Safari Zone (Zone 4, long grass )",
+            "Alpha Sapphire": "Safari Zone (Zone 4, long grass )"
+        },
+        "Generation VII": {
+            "Sun": "Lush Jungle , Poni Grove , Poké Pelago *",
+            "Moon": "Lush Jungle , Poni Grove , Poké Pelago *",
+            "Ultra Sun": "Lush Jungle , Poni Grove , Exeggutor Island , Poké Pelago * Exeggutor Island ( Three )",
+            "Ultra Moon": "Lush Jungle , Poni Grove , Exeggutor Island , Poké Pelago * Exeggutor Island ( Three )",
+            "Let's Go Pikachu": "Trade",
+            "Let's Go Eevee": "Routes 14 and 15"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Sword Expansion Pass": "Training Lowlands Challenge Road , Training Lowlands ( Wanderer ) Fields of Honor ( Max Raid Battle )",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Route 229 Grand Underground - Grassland Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern * , Big Bluff Cavern",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

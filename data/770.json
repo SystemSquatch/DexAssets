@@ -1,0 +1,70 @@
+{
+    "name": "Palossand",
+    "pokedex_number": "#0770",
+    "types": [
+        "Ghost",
+        "Ground"
+    ],
+    "abilities": [
+        "Water Compaction",
+        "Sand Veil"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 75,
+        "Defense": 110,
+        "Sp. Atk": 100,
+        "Sp. Def": 75,
+        "Speed": 35,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Possessed people controlled by this Pokémon transformed its sand mound into a castle. As it evolved, its power to curse grew ever stronger.",
+            "Moon": "Buried beneath the castle are masses of dried-up bones from those whose vitality it has drained.",
+            "Ultra Sun": "Each of its grains of sand has its own will. Palossand eats small Pokémon and siphons away their vital essence while they're still alive.",
+            "Ultra Moon": "Once it has whipped up a sandstorm to halt its opponents in their tracks, this terrifying Pokémon snatches away their vitality."
+        },
+        "Generation VIII": {
+            "Sword": "Palossand is known as the Beach Nightmare. It pulls its prey down into the sand by controlling the sand itself, and then it sucks out their souls.",
+            "Shield": "This Pokémon lives on beaches, but it hates water. Palossand can't maintain its castle-like shape if it gets drenched by a heavy rain."
+        },
+        "Generation IX": {
+            "Scarlet": "The terrifying Palossand drags smaller Pokémon into its sandy body. Once its victims are trapped, it drains them of their vitality whenever it pleases.",
+            "Violet": "From the hollows in its arms, it fires the bones of its victims, which are all dried up after being drained of their vitality."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Evolve Sandygast",
+            "Moon": "Evolve Sandygast",
+            "Ultra Sun": "Evolve Sandygast",
+            "Ultra Moon": "Evolve Sandygast",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Loop Lagoon ( Wanderer ) Challenge Beach , Courageous Cavern , Stepping-Stone Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area Two North Province: Casseroya Lake",
+            "Violet": "West Province: Area Two North Province: Casseroya Lake"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Sandygast",
+            "to": "Palossand",
+            "method": [
+                "Level 42"
+            ]
+        }
+    ]
+}

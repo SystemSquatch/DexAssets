@@ -1,0 +1,35 @@
+{
+    "name": "Chien-Pao",
+    "pokedex_number": "#1002",
+    "types": [
+        "Dark",
+        "Ice"
+    ],
+    "abilities": [
+        "Sword of Ruin"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 130,
+        "Defense": 80,
+        "Sp. Atk": 90,
+        "Sp. Def": 65,
+        "Speed": 135,
+        "Total": 580
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused.",
+            "Violet": "The hatred of those who perished by the sword long ago has clad itself in snow and become a Pokémon."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "West Province: Icerend Shrine ( Only one )",
+            "Violet": "West Province: Icerend Shrine ( Only one )"
+        }
+    },
+    "evolution": []
+}

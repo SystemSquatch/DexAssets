@@ -1,0 +1,44 @@
+{
+    "name": "Houndstone",
+    "pokedex_number": "#0972",
+    "types": [
+        "Ghost",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sand Rush",
+        "Fluffy"
+    ],
+    "stats": {
+        "HP": 72,
+        "Attack": 101,
+        "Defense": 100,
+        "Sp. Atk": 50,
+        "Sp. Def": 97,
+        "Speed": 68,
+        "Total": 488
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Houndstone spends most of its time sleeping in graveyards. Among all the dog Pokémon, this one is most loyal to its master.",
+            "Violet": "A lovingly mourned Pokémon was reborn as Houndstone. It doesn't like anyone touching the protuberance atop its head."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "North Province: Area One , Dalizapa Passage , Glaseado Mountain , Casseroya Lake , Socarrat Trail South Province: Area Five ( Ground Tera Type ) Tera Raid Battles ( 4★ )",
+            "Violet": "North Province: Area One , Dalizapa Passage , Glaseado Mountain , Casseroya Lake , Socarrat Trail South Province: Area Five ( Ground Tera Type ) Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Greavard",
+            "to": "Houndstone",
+            "method": [
+                "Level 30 (during the night)"
+            ]
+        }
+    ]
+}

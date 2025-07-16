@@ -1,0 +1,94 @@
+{
+    "name": "Deerling",
+    "pokedex_number": "#0585",
+    "types": [
+        "Normal",
+        "Grass"
+    ],
+    "abilities": [
+        "Chlorophyll",
+        "Sap Sipper",
+        "Serene Grace"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 50,
+        "Sp. Atk": 40,
+        "Sp. Def": 50,
+        "Speed": 75,
+        "Total": 335
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass.",
+            "White": "The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons.",
+            "Black 2": "Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.",
+            "White 2": "Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well."
+        },
+        "Generation VI": {
+            "X": "Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.",
+            "Y": "The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons.",
+            "Omega Ruby": "Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.",
+            "Alpha Sapphire": "The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "Deerling’s scent changes with the seasons, but when the Pokémon is in its Winter Form, it has hardly any scent at all.",
+            "Violet": "This Pokémon will playfully headbutt those it gets along well with. It has antlers hidden under its flower, so the headbutts are a little painful."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 6 and 7 , Dragonspiral Tower",
+            "White": "Routes 6 and 7 , Dragonspiral Tower",
+            "Black 2": "Routes 6 and 7 Received from a Scientist on Route 6 *",
+            "White 2": "Routes 6 and 7 Received from a Scientist on Route 6 *"
+        },
+        "Generation VI": {
+            "X": "Breed Sawsbuck ( Spring Form ) Pokémon Bank ( Summer/Autumn/Winter Forms )",
+            "Y": "Breed Sawsbuck ( Spring Form ) Pokémon Bank ( Summer/Autumn/Winter Forms )",
+            "Omega Ruby": "Route 117 ( hidden Pokémon * ) ( Spring Form ) Pokémon Bank ( Summer/Autumn/Winter Forms )",
+            "Alpha Sapphire": "Route 117 ( hidden Pokémon * ) ( Spring Form ) Pokémon Bank ( Summer/Autumn/Winter Forms )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five ( Spring Form ) East Province: Area One , Area Two ( Summer Form ) West Province: Area Two , Area Three ( Autumn Form ) North Province: Dalizapa Passage , Glaseado Mountain ( Winter Form ) Tera Raid Battles ( 1★ ) ( Spring Form )",
+            "Violet": "South Province: Area One , Area Two , Area Three , Area Four , Area Five ( Spring Form ) East Province: Area One , Area Two ( Summer Form ) West Province: Area Two , Area Three ( Autumn Form ) North Province: Dalizapa Passage , Glaseado Mountain ( Winter Form ) Tera Raid Battles ( 1★ ) ( Spring Form )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome ( Spring Form ) Coastal Biome , Torchlit Labyrinth ( Summer Form ) Canyon Biome , Chargestone Cavern ( Autumn Form ) Polar Biome ( Winter Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Deerling",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Deerling",
+            "to": "Sawsbuck",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

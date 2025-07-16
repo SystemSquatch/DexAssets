@@ -1,0 +1,98 @@
+{
+    "name": "Gothita",
+    "pokedex_number": "#0574",
+    "types": [
+        "Psychic",
+        "Unknown"
+    ],
+    "abilities": [
+        "Frisk",
+        "Competitive",
+        "Shadow Tag"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 50,
+        "Sp. Atk": 55,
+        "Sp. Def": 65,
+        "Speed": 45,
+        "Total": 290
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Their ribbonlike feelers increase their psychic power. They are always staring at something.",
+            "White": "They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only Gothita can see.",
+            "Black 2": "It stares intently at everything. It can become so obsessed with watching that it doesn't notice attacks.",
+            "White 2": "It stares intently at everything. It can become so obsessed with watching that it doesn't notice attacks."
+        },
+        "Generation VI": {
+            "X": "Their ribbonlike feelers increase their psychic power. They are always staring at something.",
+            "Y": "They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only Gothita can see.",
+            "Omega Ruby": "Their ribbonlike feelers increase their psychic power. They are always staring at something.",
+            "Alpha Sapphire": "They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only Gothita can see."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Though they're still only babies, there's psychic power stored in their ribbonlike feelers, and sometimes they use that power to fight.",
+            "Shield": "Even when nobody seems to be around, Gothita can still be heard making a muted cry. Many believe it's speaking to something only it can see."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon is normally very innocent. When it is staring at something invisible, it is unblinking and utterly silent.",
+            "Violet": "Beware of touching the ribbon-shaped feelers that control its psychic power. Gothita will begin bawling if you do."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 5 and 16",
+            "White": "Trade",
+            "Black 2": "Routes 5 and 16 , Strange House",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Breed Gothorita or Gothitelle",
+            "Y": "Breed Gothorita or Gothitelle",
+            "Omega Ruby": "Route 102 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 102 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Route 6 ( Island Scan ) Su",
+            "Moon": "Route 6 ( Island Scan ) Su",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Giant's Cap Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Sword Expansion Pass": "Slippery Slope , Frostpoint Field Giant's Bed , Snowslide Slope , Path to the Peak , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Area Three Tera Raid Battles ( 2★ )",
+            "Violet": "East Province: Area Three Tera Raid Battles ( 2★ )",
+            "The Hidden Treasure of Area Zero": "Coastal Biome , Torchlit Labyrinth"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Gothita",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Gothita",
+            "to": "Gothorita",
+            "method": [
+                "Level 32"
+            ]
+        }
+    ]
+}

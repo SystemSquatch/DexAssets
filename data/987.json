@@ -1,0 +1,35 @@
+{
+    "name": "Flutter Mane",
+    "pokedex_number": "#0987",
+    "types": [
+        "Ghost",
+        "Fairy"
+    ],
+    "abilities": [
+        "Protosynthesis"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 55,
+        "Sp. Atk": 135,
+        "Sp. Def": 135,
+        "Speed": 135,
+        "Total": 570
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This Pokémon has characteristics similar to those of Flutter Mane, a creature mentioned in a certain book.",
+            "Violet": "It has similar features to a ghostly pterosaur that was covered in a paranormal magazine, but the two have little else in common."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Area Zero",
+            "Violet": "Union Circle"
+        }
+    },
+    "evolution": []
+}

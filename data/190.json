@@ -1,0 +1,145 @@
+{
+    "name": "Aipom",
+    "pokedex_number": "#0190",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Run Away",
+        "Pickup",
+        "Skill Link"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 55,
+        "Sp. Atk": 40,
+        "Sp. Def": 55,
+        "Speed": 85,
+        "Total": 360
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
+            "Silver": "It lives atop tall trees. When leaping from branch to branch, it deftly uses its tail for balance.",
+            "Crystal": "It uses its tail to hang on to tree branches. It uses its momentum to swing from one branch to another.",
+            "Stadium 2": "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air. (Pokémon Red, Silver, or Crystal inserted) It lives atop tall trees. When leaping from branch to branch, it deftly uses its tail for balance. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Aipom 's tail ends in a hand-like appendage that can be cleverly manipulated. However, because the Pok é mon uses its tail so much, its real hands have become rather clumsy.",
+            "Sapphire": "Aipom 's tail ends in a hand-like appendage that can be cleverly manipulated. However, because the Pok é mon uses its tail so much, its real hands have become rather clumsy.",
+            "Emerald": "Its tail ends with a dexterous, handlike appendage. However, because it uses the tail so much, Aipom 's real hands have become rather clumsy.",
+            "FireRed": "It lives atop tall trees. When leaping from branch to branch, it deftly uses its tail for balance.",
+            "LeafGreen": "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air."
+        },
+        "Generation IV": {
+            "Diamond": "It uses its tail to pluck fruits that are out of reach. Its tail is more adept than its real hands.",
+            "Pearl": "It lives atop giant trees. It wraps its tail around a branch so it won't fall off while asleep.",
+            "Platinum": "It lives high among the treetops. It can use its tail as freely and cleverly as its hands.",
+            "HeartGold": "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
+            "SoulSilver": "It lives atop tall trees. When leaping from branch to branch, it deftly uses its tail for balance."
+        },
+        "Generation V": {
+            "Black": "It lives high among the treetops. It can use its tail as freely and cleverly as its hands.",
+            "White": "It lives high among the treetops. It can use its tail as freely and cleverly as its hands.",
+            "Black 2": "It lives high among the treetops. It can use its tail as freely and cleverly as its hands.",
+            "White 2": "It lives high among the treetops. It can use its tail as freely and cleverly as its hands."
+        },
+        "Generation VI": {
+            "X": "It lives atop tall trees. When leaping from branch to branch, it deftly uses its tail for balance.",
+            "Y": "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
+            "Omega Ruby": "Aipom's tail ends in a hand-like appendage that can be cleverly manipulated. However, because the Pokémon uses its tail so much, its real hands have become rather clumsy.",
+            "Alpha Sapphire": "Aipom's tail ends in a hand-like appendage that can be cleverly manipulated. However, because the Pokémon uses its tail so much, its real hands have become rather clumsy."
+        },
+        "Generation VII": {
+            "Ultra Sun": "As it did more and more with its tail, its hands became clumsy. It makes its nest high in the treetops.",
+            "Ultra Moon": "It searches for prey from the tops of trees. When it spots its favorite food, Bounsweet, Aipom gets excited and pounces."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It uses its tail to pluck fruits that are out of reach. Its tail is more adept than its real hands.",
+            "Shining Pearl": "It lives atop giant trees. It wraps its tail around a branch so it won't fall off while asleep.",
+            "Legends: Arceus": "This treetop dweller possesses a tail as dexterous as a hand. Ancient writings describe this Pokémon as a one-armed oddity."
+        },
+        "Generation IX": {
+            "Scarlet": "It lives atop of trees. When leaping from branch to branch, it deftly uses its tail for balance.",
+            "Violet": "Its tail moves with greater dexterity than its hands. Making deft use of this tail, Aipom lives high among the treetops."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Routes 29 , 30 , 31 , 32 , 33 , 42 , 43 , and 44 ( Headbutt trees )",
+            "Silver": "Routes 29 , 30 , 31 , 32 , 33 , 42 , 43 , and 44 ( Headbutt trees )",
+            "Crystal": "Routes 33 , 42 , and 44 , Azalea Town ( Headbutt trees )"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Safari Zone extension",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Shadow PKMN Lab (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "Pearl": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "Platinum": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees )",
+            "HeartGold": "Routes 28 , 33 , 42 , 44 , 45 , 46 , Azalea Town , Mt. Silver , Mt. Silver Cave ( Headbutt trees )",
+            "SoulSilver": "Routes 28 , 33 , 42 , 44 , 45 , 46 , Azalea Town , Mt. Silver , Mt. Silver Cave ( Headbutt trees )",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Breed Ambipom",
+            "White 2": "Breed Ambipom",
+            "Dream World": "Dream Park"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Normal )",
+            "Y": "Friend Safari ( Normal )",
+            "Omega Ruby": "Routes 118 and 121 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Routes 118 and 121 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Poni Plains",
+            "Ultra Moon": "Poni Plains",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees ) Grand Underground - Spacious Cave (After obtaining TM97 ( Defog ))",
+            "Shining Pearl": "Routes 205 , 206 , 207 , 208 , 209 , 210 , 211 , 212 , 213 , 214 , 215 , 218 , 221 , 222 , Eterna Forest , Floaroma Meadow , Fuego Ironworks , Valley Windworks ( Honey Trees ) Grand Underground - Spacious Cave (After obtaining TM97 ( Defog ))",
+            "Legends: Arceus": "Obsidian Fieldlands : Ramanas Island Cobalt Coastlands : Aipom Hill (also shaking trees), Hideaway Bay , massive mass outbreaks Alabaster Icelands : Avalanche Slopes , Whiteout Valley , Bonechill Wastes , near Icebound Falls , near Arena's Approach , near Avalugg's Legacy , Snowfall Hot Spring , Glacier Terrace , Heart's Crag , near Pearl Settlement , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "Union Circle Tera Raid Battle Search ( 3★ )",
+            "The Hidden Treasure of Area Zero (Violet)": "Reveler's Road , Kitakami Hall , Mossfell Confluence , Fellhorn Gorge , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Aipom",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Aipom",
+            "to": "Ambipom",
+            "method": [
+                "Level up (knowing Double Hit)"
+            ]
+        }
+    ]
+}

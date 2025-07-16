@@ -1,0 +1,134 @@
+{
+    "name": "Clamperl",
+    "pokedex_number": "#0366",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Shell Armor",
+        "Rattled"
+    ],
+    "stats": {
+        "HP": 35,
+        "Attack": 64,
+        "Defense": 85,
+        "Sp. Atk": 74,
+        "Sp. Def": 55,
+        "Speed": 32,
+        "Total": 345
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Clamperl 's sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown Clamperl 's shell will be scored with nicks and scratches all over.",
+            "Sapphire": "Clamperl grows while being protected by its rock-hard shell. When its body becomes too large to fit inside the shell, it is sure evidence that this Pok é mon is getting close to evolution.",
+            "Emerald": "A Clamperl slams its shell closed on prey to prevent escape. The pearl it creates upon evolution is said to be infused with a mysterious energy.",
+            "FireRed": "It is protected by a sturdy shell. Once in a lifetime, it makes a magnificent pearl.",
+            "LeafGreen": "It is protected by a sturdy shell. Once in a lifetime, it makes a magnificent pearl."
+        },
+        "Generation IV": {
+            "Diamond": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+            "Pearl": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+            "Platinum": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+            "HeartGold": "When it evolves, it makes a mysterious pearl that amplifies psychic powers when it's held.",
+            "SoulSilver": "When it evolves, it makes a mysterious pearl that amplifies psychic powers when it's held."
+        },
+        "Generation V": {
+            "Black": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+            "White": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+            "Black 2": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+            "White 2": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power."
+        },
+        "Generation VI": {
+            "X": "When it evolves, it makes a mysterious pearl that amplifies psychic powers when it's held.",
+            "Y": "It is protected by a sturdy shell. Once in a lifetime, it makes a magnificent pearl.",
+            "Omega Ruby": "Clamperl's sturdy shell is not only good for protection—it is also used for clamping and catching prey. A fully grown Clamperl's shell will be scored with nicks and scratches all over.",
+            "Alpha Sapphire": "Clamperl grows while being protected by its rock-hard shell. When its body becomes too large to fit inside the shell, it is sure evidence that this Pokémon is getting close to evolution."
+        },
+        "Generation VII": {
+            "Ultra Sun": "Despite its appearance, it's carnivorous. It clamps down on its prey with both sides of its shell and doesn't let go until they stop moving.",
+            "Ultra Moon": "Clamperl's pearls are exceedingly precious. They can be more than 10 times as costly as Shellder's pearls."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+            "Shining Pearl": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Underwater ( Routes 124 and 126 )",
+            "Sapphire": "Underwater ( Routes 124 and 126 )",
+            "Emerald": "Underwater ( Routes 124 and 126 )",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 219 and 221 ( Super Rod )",
+            "Pearl": "Routes 219 and 221 ( Super Rod )",
+            "Platinum": "Trade",
+            "HeartGold": "Route 19 ( Surfing during a Swarm )",
+            "SoulSilver": "Route 19 ( Surfing during a Swarm )",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Route 4 ( Fishing )",
+            "White": "Route 4 ( Fishing )",
+            "Black 2": "Route 4 ( Fishing )",
+            "White 2": "Route 4 ( Fishing )",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Route 12 ( Good Rod )",
+            "Y": "Route 12 ( Good Rod )",
+            "Omega Ruby": "Routes 107 , 124 , 126 , 128 , 129 , 130 ( Underwater )",
+            "Alpha Sapphire": "Routes 107 , 124 , 126 , 128 , 129 , 130 ( Underwater )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 15 , Melemele Sea ( Fishing )",
+            "Ultra Moon": "Route 15 , Melemele Sea ( Fishing )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 219 and 221 ( Super Rod ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Routes 219 and 221 ( Super Rod ) Grand Underground - Fountainspring Cave , Riverbank Cave , Still-Water Cavern (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Clamperl",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Clamperl",
+            "to": "Huntail",
+            "method": [
+                "Trade (holding Deep Sea Tooth)"
+            ]
+        },
+        {
+            "from": "Clamperl",
+            "to": "Gorebyss",
+            "method": [
+                "Trade (holding Deep Sea Scale)"
+            ]
+        }
+    ]
+}

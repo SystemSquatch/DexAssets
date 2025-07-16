@@ -1,0 +1,61 @@
+{
+    "name": "Dottler",
+    "pokedex_number": "#0825",
+    "types": [
+        "Bug",
+        "Psychic"
+    ],
+    "abilities": [
+        "Swarm",
+        "Compound Eyes",
+        "Telepathy"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 35,
+        "Defense": 80,
+        "Sp. Atk": 50,
+        "Sp. Def": 90,
+        "Speed": 30,
+        "Total": 335
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "It barely moves, but it's still alive. Hiding in its shell without food or water seems to have awakened its psychic powers.",
+            "Shield": "As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Route 5 , Giant's Cap , Giant's Mirror , Stony Wilderness Bridge Field , Dappled Grove , Rolling Fields , South Lake Miloch ( Max Raid Battle )",
+            "Shield": "Route 5 , Giant's Cap , Giant's Mirror , Stony Wilderness Bridge Field , Dappled Grove , Rolling Fields , South Lake Miloch ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Blipbug",
+            "to": "Dottler",
+            "method": [
+                "Level 10"
+            ]
+        },
+        {
+            "from": "Dottler",
+            "to": "Orbeetle",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

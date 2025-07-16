@@ -1,0 +1,122 @@
+{
+    "name": "Armaldo",
+    "pokedex_number": "#0348",
+    "types": [
+        "Rock",
+        "Bug"
+    ],
+    "abilities": [
+        "Battle Armor",
+        "Swift Swim"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 100,
+        "Sp. Atk": 70,
+        "Sp. Def": 80,
+        "Speed": 45,
+        "Total": 495
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Armaldo 's tough armor makes all attacks bounce off. This Pok é mon 's two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
+            "Sapphire": "Armaldo is a Pok é mon species that became extinct in prehistoric times. This Pok é mon is said to have walked on its hind legs, which would have been more convenient for life on land.",
+            "Emerald": "Armaldo usually lives on land. However, when it hunts for prey, it dives beneath the ocean. It swims around using its two large wings.",
+            "FireRed": "Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed.",
+            "LeafGreen": "Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed."
+        },
+        "Generation IV": {
+            "Diamond": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+            "Pearl": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+            "Platinum": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+            "HeartGold": "Its enormous, retractable claws can cut through most anything. Its entire body is clad in sturdy plates.",
+            "SoulSilver": "Its enormous, retractable claws can cut through most anything. Its entire body is clad in sturdy plates."
+        },
+        "Generation V": {
+            "Black": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+            "White": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+            "Black 2": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+            "White 2": "It went ashore after evolving. Its entire body is clad in a sturdy armor."
+        },
+        "Generation VI": {
+            "X": "Its enormous, retractable claws can cut through most anything. Its entire body is clad in sturdy plates.",
+            "Y": "Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed.",
+            "Omega Ruby": "Armaldo's tough armor makes all attacks bounce off. This Pokémon's two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
+            "Alpha Sapphire": "Armaldo is a Pokémon species that became extinct in prehistoric times. This Pokémon is said to have walked on its hind legs, which would have been more convenient for life on land."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It lived on land and went out into the sea to hunt for prey. Its sharp claws were its greatest weapon.",
+            "Ultra Moon": "Armaldo adapted from living in water to living on land. It has been determined that it is the ancestor of some bug Pokémon."
+        },
+        "Generation VIII": {
+            "Sword": "After evolution, this Pokémon emerged onto land. Its lower body has become stronger, and blows from its tail are devastating.",
+            "Shield": "Though it lives on land, it's also a good swimmer. It dives into the ocean in search of prey, using its sharp claws to take down its quarry.",
+            "Brilliant Diamond": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+            "Shining Pearl": "It went ashore after evolving. Its entire body is clad in a sturdy armor."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Anorith",
+            "Sapphire": "Evolve Anorith",
+            "Emerald": "Evolve Anorith",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Anorith",
+            "Pearl": "Evolve Anorith",
+            "Platinum": "Evolve Anorith",
+            "HeartGold": "Evolve Anorith",
+            "SoulSilver": "Trade",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Evolve Anorith",
+            "White": "Evolve Anorith",
+            "Black 2": "Evolve Anorith",
+            "White 2": "Evolve Anorith"
+        },
+        "Generation VI": {
+            "X": "Evolve Anorith",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Anorith",
+            "Alpha Sapphire": "Evolve Anorith"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Anorith",
+            "Ultra Moon": "Evolve Anorith",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Ballimere Lake ( Wanderer ) Max Lair ( Dynamax Adventure ) Slippery Slope , Snowslide Slope , Crown Shrine , Giant's Foot , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Evolve Anorith",
+            "Shining Pearl": "Evolve Anorith",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Anorith",
+            "to": "Armaldo",
+            "method": [
+                "Level 40"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "name": "Ralts",
+    "pokedex_number": "#0280",
+    "types": [
+        "Psychic",
+        "Fairy"
+    ],
+    "abilities": [
+        "Synchronize",
+        "Trace",
+        "Telepathy"
+    ],
+    "stats": {
+        "HP": 28,
+        "Attack": 25,
+        "Defense": 25,
+        "Sp. Atk": 45,
+        "Sp. Def": 35,
+        "Speed": 40,
+        "Total": 198
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Ralts senses the emotions of people using the horns on its head. This Pok é mon rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.",
+            "Sapphire": "Ralts has the ability to sense the emotions of people. If its Trainer is in a cheerful mood, this Pok é mon grows cheerful and joyous in the same way.",
+            "Emerald": "A Ralts has the power to sense the emotions of people and Pok é mon with the horns on its head. It takes cover if it senses any hostility.",
+            "FireRed": "It is highly attuned to the emotions of people and Pok é mon . It hides if it senses hostility.",
+            "LeafGreen": "It is highly attuned to the emotions of people and Pok é mon . It hides if it senses hostility."
+        },
+        "Generation IV": {
+            "Diamond": "It uses the horns on its head to sense human emotions. It is said to appear in front of cheerful people.",
+            "Pearl": "It uses the horns on its head to sense human emotions. It is said to appear in front of cheerful people.",
+            "Platinum": "If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.",
+            "HeartGold": "The horns on its head provide a strong power that enables it to sense people's emotions.",
+            "SoulSilver": "The horns on its head provide a strong power that enables it to sense people's emotions."
+        },
+        "Generation V": {
+            "Black": "If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.",
+            "White": "If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.",
+            "Black 2": "If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.",
+            "White 2": "If its horns capture the warm feelings of people or Pokémon, its body warms up slightly."
+        },
+        "Generation VI": {
+            "X": "If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.",
+            "Y": "It is highly attuned to the emotions of people and Pokémon. It hides if it senses hostility.",
+            "Omega Ruby": "Ralts senses the emotions of people using the horns on its head. This Pokémon rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.",
+            "Alpha Sapphire": "Ralts has the ability to sense the emotions of people. If its Trainer is in a cheerful mood, this Pokémon grows cheerful and joyous in the same way."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It is highly attuned to the emotions of people and Pokémon. It hides if it senses hostility.",
+            "Shield": "If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.",
+            "Brilliant Diamond": "It uses the horns on its head to sense human emotions. It is said to appear in front of cheerful people.",
+            "Shining Pearl": "It uses the horns on its head to sense human emotions. It is said to appear in front of cheerful people.",
+            "Legends: Arceus": "Tends to prefer people with a chipper disposition to those who are gloomy, but it has shown no discrimination with regard to age or gender. Needs more research."
+        },
+        "Generation IX": {
+            "Scarlet": "The horns on its head provide a strong power that enables it to sense people’s emotions.",
+            "Violet": "It is highly attuned to the emotions of people and Pokémon. It hides if it senses hostility."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 102",
+            "Sapphire": "Route 102",
+            "Emerald": "Route 102",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "ONBS (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 203 and 204 ( Poké Radar )",
+            "Pearl": "Routes 203 and 204 ( Poké Radar )",
+            "Platinum": "Routes 208 , 209 , and 212",
+            "HeartGold": "Route 34 ( Swarm )",
+            "SoulSilver": "Route 34 ( Swarm )",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "White Forest",
+            "Black 2": "Trade with Curtis or Yancy in Nimbasa City Transfer from Dream Radar",
+            "White 2": "Trade with Curtis or Yancy in Nimbasa City Transfer from Dream Radar",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Route 4 Trade in Lumiose City after entering the Hall of Fame",
+            "Y": "Route 4 Trade in Lumiose City after entering the Hall of Fame",
+            "Omega Ruby": "Route 102",
+            "Alpha Sapphire": "Route 102"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 6 ( Island Scan ) Su",
+            "Ultra Moon": "Route 6 ( Island Scan ) Su",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Dappled Grove , North Lake Miloch , Rolling Fields , South Lake Miloch , Watchtower Ruins , West Lake Axewell Bridge Field , Hammerlocke Hills , Lake of Outrage , Motostoke Riverbank , Rolling Fields , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Shield": "Dappled Grove , North Lake Miloch , Rolling Fields , South Lake Miloch , Watchtower Ruins , West Lake Axewell Bridge Field , Hammerlocke Hills , Lake of Outrage , Motostoke Riverbank , Rolling Fields , Stony Wilderness , Watchtower Ruins ( Max Raid Battle )",
+            "Expansion Pass": "Fields of Honor",
+            "Brilliant Diamond": "Routes 203 and 204 ( Poké Radar ) Grand Underground - Fountainspring Cave , Dazzling Cave , Stargleam Cavern",
+            "Shining Pearl": "Routes 203 and 204 ( Poké Radar ) Grand Underground - Fountainspring Cave , Dazzling Cave , Stargleam Cavern",
+            "Legends: Arceus": "Crimson Mirelands : Gapejaw Bog , Shrouded Ruins Alabaster Icelands : Heart's Crag Day , Lake Acuity ( mass outbreaks ), Snowpoint Temple , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Los Platos Tera Raid Battles ( 1★ )",
+            "Violet": "South Province: Area One , Los Platos Tera Raid Battles ( 1★ )",
+            "The Hidden Treasure of Area Zero": "Reveler's Road , Kitakami Hall , Mossfell Confluence , Oni Mountain , Wistful Fields , Paradise Barrens , Kitakami Wilds , Timeless Woods"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Ralts",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Ralts",
+            "to": "Kirlia",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

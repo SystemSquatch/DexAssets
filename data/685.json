@@ -1,0 +1,73 @@
+{
+    "name": "Slurpuff",
+    "pokedex_number": "#0685",
+    "types": [
+        "Fairy",
+        "Unknown"
+    ],
+    "abilities": [
+        "Sweet Veil",
+        "Unburden"
+    ],
+    "stats": {
+        "HP": 82,
+        "Attack": 80,
+        "Defense": 86,
+        "Sp. Atk": 85,
+        "Sp. Def": 75,
+        "Speed": 72,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "It can distinguish the faintest of scents. It puts its sensitive sense of smell to use by helping pastry chefs in their work.",
+            "Y": "Its sense of smell is 100 million times better than a human's, so even the faintest scent tells it about everything in the area. It's like it can see with its nose!",
+            "Omega Ruby": "It can distinguish the faintest of scents. It puts its sensitive sense of smell to use by helping pastry chefs in their work.",
+            "Alpha Sapphire": "Its sense of smell is 100 million times better than a human's, so even the faintest scent tells it about everything in the area. It's like it can see with its nose!"
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "By taking in a person's scent, it can sniff out their mental and physical condition. It's hoped that this skill will have many medical applications.",
+            "Shield": "Slurpuff's fur contains a lot of air, making it soft to the touch and lighter than it looks."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VI.": {},
+        "Generation VI": {
+            "X": "Evolve Swirlix",
+            "Y": "Evolve Swirlix",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields , Bridge Field , Hammerlocke Hills , Lake of Outrage ( Max Raid Battle )",
+            "Shield": "Trade",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Swirlix",
+            "to": "Slurpuff",
+            "method": [
+                "Trade (holding Whipped Dream)"
+            ]
+        }
+    ]
+}

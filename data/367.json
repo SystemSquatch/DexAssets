@@ -1,0 +1,119 @@
+{
+    "name": "Huntail",
+    "pokedex_number": "#0367",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Water Veil"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 104,
+        "Defense": 105,
+        "Sp. Atk": 94,
+        "Sp. Def": 75,
+        "Speed": 52,
+        "Total": 485
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Huntail 's presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This Pok é mon 's eyes can see clearly even in the murky dark depths of the ocean.",
+            "Sapphire": "Huntail 's tail is shaped like a fish. It uses the tail to attract prey, then swallows the prey whole with its large, gaping mouth. This Pok é mon swims by wiggling its slender body like a snake.",
+            "Emerald": "To withstand the crushing pressure of water deep under the sea, its spine is very thick and sturdy. Its tail, which is shaped like a small fish, has eyes that light up.",
+            "FireRed": "It lives deep in the sea where no light ever filters down. It lights up its small fishlike tail to attract prey.",
+            "LeafGreen": "It lives deep in the sea where no light ever filters down. It lights up its small fishlike tail to attract prey."
+        },
+        "Generation IV": {
+            "Diamond": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
+            "Pearl": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
+            "Platinum": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
+            "HeartGold": "It lives deep in the pitch-dark sea. It attracts prey by moving its tail in mimicry of a small animal.",
+            "SoulSilver": "It lives deep in the pitch-dark sea. It attracts prey by moving its tail in mimicry of a small animal."
+        },
+        "Generation V": {
+            "Black": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
+            "White": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
+            "Black 2": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
+            "White 2": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey."
+        },
+        "Generation VI": {
+            "X": "It lives deep in the sea where no light ever filters down. It lights up its small fishlike tail to attract prey.",
+            "Y": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
+            "Omega Ruby": "Huntail's presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This Pokémon's eyes can see clearly even in the murky dark depths of the ocean.",
+            "Alpha Sapphire": "Huntail's tail is shaped like a fish. It uses the tail to attract prey, then swallows the prey whole with its large, gaping mouth. This Pokémon swims by wiggling its slender body like a snake."
+        },
+        "Generation VII": {
+            "Ultra Sun": "It's not the strongest swimmer. It wags its tail to lure in its prey and then gulps them down as soon as they get close.",
+            "Ultra Moon": "Deep seas are their habitat. According to tradition, when Huntail wash up onshore, something unfortunate will happen."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
+            "Shining Pearl": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Evolve Clamperl",
+            "Sapphire": "Evolve Clamperl",
+            "Emerald": "Evolve Clamperl",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Clamperl",
+            "Pearl": "Evolve Clamperl",
+            "Platinum": "Trade",
+            "HeartGold": "Evolve Clamperl",
+            "SoulSilver": "Evolve Clamperl",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Route 4 ( Fishing in rippling water )",
+            "White": "Evolve Clamperl",
+            "Black 2": "Route 4 ( Fishing in rippling water )",
+            "White 2": "Evolve Clamperl"
+        },
+        "Generation VI": {
+            "X": "Route 12 ( Super Rod )",
+            "Y": "Evolve Clamperl",
+            "Omega Ruby": "Evolve Clamperl",
+            "Alpha Sapphire": "Evolve Clamperl"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Route 15 , Melemele Sea Night ( SOS Battle , fishing )",
+            "Ultra Moon": "Route 15 , Melemele Sea Night ( SOS Battle , fishing )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Clamperl",
+            "Shining Pearl": "Evolve Clamperl",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Clamperl",
+            "to": "Huntail",
+            "method": [
+                "Trade (holding Deep Sea Tooth)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "name": "Eevee",
+    "pokedex_number": "#0133",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Run Away",
+        "Adaptability",
+        "Anticipation"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 50,
+        "Sp. Atk": 45,
+        "Sp. Def": 65,
+        "Speed": 55,
+        "Total": 325
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element Stone s.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element Stone s.",
+            "Yellow": "Its genetic code is unstable, so it could evolve in a variety of ways. There are only a few alive.",
+            "Stadium": "Its genetic code is irregular. It evolves into three kinds of Pokémon when exposed to the radiation of elemental stones."
+        },
+        "Generation II": {
+            "Gold": "It has the ability to alter the composition of its body to suit its surrounding environment.",
+            "Silver": "Its irregularly configured DNA is affected by its surroundings. It evolves if its environment changes.",
+            "Crystal": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+            "Stadium 2": "It has the ability to alter the composition of its body to suit its surrounding environment. (Pokémon Red, Silver, or Crystal inserted) Its irregularly configured DNA is affected by its surroundings. It evolves if its environment changes. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various Stones causes this Pok é mon to evolve.",
+            "Sapphire": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various Stones causes this Pok é mon to evolve.",
+            "Emerald": "An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various Stones causes this Pok é mon to evolve.",
+            "FireRed": "An extremely rare Pok é mon that may evolve in a number of different ways depending on stimuli.",
+            "LeafGreen": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element Stones ."
+        },
+        "Generation IV": {
+            "Diamond": "A rare Pokémon that adapts to harsh environments by taking on different evolutionary forms.",
+            "Pearl": "A rare Pokémon that adapts to harsh environments by taking on different evolutionary forms.",
+            "Platinum": "Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.",
+            "HeartGold": "It has the ability to alter the composition of its body to suit its surrounding environment.",
+            "SoulSilver": "Its irregularly configured DNA is affected by its surroundings. It evolves if its environment changes."
+        },
+        "Generation V": {
+            "Black": "Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.",
+            "White": "Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.",
+            "Black 2": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+            "White 2": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions."
+        },
+        "Generation VI": {
+            "X": "A rare Pokémon that adapts to harsh environments by taking on different evolutionary forms.",
+            "Y": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+            "Omega Ruby": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.",
+            "Alpha Sapphire": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve."
+        },
+        "Generation VII": {
+            "Sun": "Possessing an unbalanced and unstable genetic makeup, it conceals many possible evolutions.",
+            "Moon": "Current studies show it can evolve into an incredible eight different species of Pokémon.",
+            "Ultra Sun": "The question of why only Eevee has such unstable genes has still not been solved.",
+            "Ultra Moon": "Its genes are easily influenced by its surroundings. Even its face starts to look like that of its Trainer.",
+            "Let's Go Pikachu": "It can evolve into a variety of forms. Eevee's genes are the key to solving the mysteries of Pokémon evolution.",
+            "Let's Go Eevee": "It can evolve into a variety of forms. Eevee's genes are the key to solving the mysteries of Pokémon evolution."
+        },
+        "Generation VIII": {
+            "Sword": "It has the ability to alter the composition of its body to suit its surrounding environment.",
+            "Shield": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+            "Brilliant Diamond": "It is a rare Pokémon that adapts to harsh environments by changing its appearance and capabilities when it evolves.",
+            "Shining Pearl": "It is a rare Pokémon that adapts to harsh environments by changing its appearance and capabilities when it evolves.",
+            "Legends: Arceus": "Harbors the potential to evolve into manifold forms. Within Eevee lies the key to the mysteries of Pokémon evolution—I'm certain of it."
+        },
+        "Generation IX": {
+            "Scarlet": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+            "Violet": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element stones."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Received from a person in Celadon Mansion",
+            "Blue": "Received from a person in Celadon Mansion",
+            "Blue (Japan)": "Received from a person in Celadon Mansion",
+            "Yellow": "Received from a person in Celadon Mansion"
+        },
+        "Generation II": {
+            "Gold": "Received from Bill in Goldenrod City Celadon Game Corner",
+            "Silver": "Received from Bill in Goldenrod City Celadon Game Corner",
+            "Crystal": "Received from Bill in Goldenrod City"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Received from a person in Celadon Mansion",
+            "LeafGreen": "Received from a person in Celadon Mansion",
+            "Colosseum": "Trade",
+            "XD": "First Pokémon"
+        },
+        "Generation IV": {
+            "Diamond": "Received from Bebe in Hearthome City * Trophy Garden *",
+            "Pearl": "Received from Bebe in Hearthome City * Trophy Garden *",
+            "Platinum": "Received from Bebe in Hearthome City Trophy Garden *",
+            "HeartGold": "Received from Bill in Goldenrod City Celadon Game Corner",
+            "SoulSilver": "Received from Bill in Goldenrod City Celadon Game Corner",
+            "Pal Park": "Field",
+            "Pokéwalker": "Sightseeing"
+        },
+        "Generation V": {
+            "Black": "Trade , Event",
+            "White": "Trade , Event",
+            "Black 2": "Castelia Park Received from Amanita in Castelia City *",
+            "White 2": "Castelia Park Received from Amanita in Castelia City *",
+            "Dream World": "Pokémon Café Forest , Dream Park"
+        },
+        "Generation VI": {
+            "X": "Route 10 , Friend Safari ( Normal ) Trade a Pokémon in a hotel in Camphrier Town , Ambrette Town , Cyllage City , Geosenge Town , Coumarine City , or Couriway Town",
+            "Y": "Route 10 , Friend Safari ( Normal ) Trade a Pokémon in a hotel in Camphrier Town , Ambrette Town , Cyllage City , Geosenge Town , Coumarine City , or Couriway Town",
+            "Omega Ruby": "Route 116 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 116 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Hatch Egg received at the Pokémon Nursery in Paniola Ranch Routes 4 and 6",
+            "Moon": "Hatch Egg received at the Pokémon Nursery in Paniola Ranch Routes 4 and 6",
+            "Ultra Sun": "Hatch Egg received at the Pokémon Nursery in Paniola Ranch Routes 4 and 6",
+            "Ultra Moon": "Hatch Egg received at the Pokémon Nursery in Paniola Ranch Routes 4 and 6",
+            "Let's Go Pikachu": "Route 17",
+            "Let's Go Eevee": "Route 17 ( Eevee ) First Pokémon from Professor Oak in Pallet Town ( Partner Eevee )"
+        },
+        "Generation VIII": {
+            "Sword": "Received from an NPC in the Meetup Spot * ( Gigantamax Factor ) Route 4 Bridge Field , East Lake Axewell , Motostoke Riverbank , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Received from an NPC in the Meetup Spot * ( Gigantamax Factor ) Route 4 Bridge Field , East Lake Axewell , Motostoke Riverbank , Rolling Fields ( Max Raid Battle )",
+            "Expansion Pass": "Giant's Bed , Ballimere Lake Frostpoint Field , Giant's Bed ( Wanderer ) Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Received from Bebe in Hearthome City * Trophy Garden *",
+            "Shining Pearl": "Received from Bebe in Hearthome City * Trophy Garden *",
+            "Legends: Arceus": "Obsidian Fieldlands : Horseshoe Plains , Space-time distortions Crimson Mirelands : Space-time distortions Cobalt Coastlands : near Crossing Slope , Space-time distortions Coronet Highlands : Space-time distortions Alabaster Icelands : Space-time distortions"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area Two , Area Five West Province: Area Three Tera Raid Battles ( 3★ , 5★ )",
+            "Violet": "South Province: Area Two , Area Five West Province: Area Three Tera Raid Battles ( 3★ , 5★ )",
+            "The Hidden Treasure of Area Zero": "Trade with Penny in the League Club Room"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Eevee",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Eevee",
+            "to": "Vaporeon",
+            "method": [
+                "Use Water Stone"
+            ]
+        },
+        {
+            "from": "Eevee",
+            "to": "Jolteon",
+            "method": [
+                "Use Thunder Stone"
+            ]
+        },
+        {
+            "from": "Eevee",
+            "to": "Flareon",
+            "method": [
+                "Use Fire Stone"
+            ]
+        },
+        {
+            "from": "Eevee",
+            "to": "Espeon",
+            "method": [
+                "Level up (during the day, with high friendship)"
+            ]
+        },
+        {
+            "from": "Eevee",
+            "to": "Umbreon",
+            "method": [
+                "Level up (during the night, with high friendship)"
+            ]
+        },
+        {
+            "from": "Eevee",
+            "to": "Leafeon",
+            "method": [
+                "Level up (near a Eterna Forest)",
+                "Level up (near a Pinwheel Forest)",
+                "Level up (near a Kalos Route 20)",
+                "Use Leaf Stone"
+            ]
+        },
+        {
+            "from": "Eevee",
+            "to": "Glaceon",
+            "method": [
+                "Level up (near a Sinnoh Route 217)",
+                "Level up (near a Twist Mountain)",
+                "Level up (near a Frost Cavern)",
+                "Use Ice Stone"
+            ]
+        },
+        {
+            "from": "Eevee",
+            "to": "Sylveon",
+            "method": [
+                "Level up (with high affection)",
+                "Level up (with high friendship)"
+            ]
+        }
+    ]
+}

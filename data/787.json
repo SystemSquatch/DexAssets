@@ -1,0 +1,56 @@
+{
+    "name": "Tapu Bulu",
+    "pokedex_number": "#0787",
+    "types": [
+        "Grass",
+        "Fairy"
+    ],
+    "abilities": [
+        "Grassy Surge",
+        "Telepathy"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 130,
+        "Defense": 115,
+        "Sp. Atk": 85,
+        "Sp. Def": 95,
+        "Speed": 75,
+        "Total": 570
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "It pulls large trees up by the roots and swings them around. It causes vegetation to grow, and then it absorbs energy from the growth.",
+            "Moon": "The guardian deity of Ula'ula is a lazy Pokémon. It commands plants to immobilize its foes and then deals them a savage blow with its horns.",
+            "Ultra Sun": "Although it's called a guardian deity, it's violent enough to crush anyone it sees as an enemy.",
+            "Ultra Moon": "It makes ringing sounds with its tail to let others know where it is, avoiding unneeded conflicts. This guardian deity of Ula'ula controls plants."
+        },
+        "Generation VIII": {},
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Ruins of Abundance (after becoming Champion ) ( Only one )",
+            "Moon": "Ruins of Abundance (after becoming Champion ) ( Only one )",
+            "Ultra Sun": "Ruins of Abundance (after becoming Champion ) ( Only one )",
+            "Ultra Moon": "Ruins of Abundance (after becoming Champion ) ( Only one )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": []
+}

@@ -1,0 +1,94 @@
+{
+    "name": "Dwebble",
+    "pokedex_number": "#0557",
+    "types": [
+        "Bug",
+        "Rock"
+    ],
+    "abilities": [
+        "Sturdy",
+        "Shell Armor",
+        "Weak Armor"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 85,
+        "Sp. Atk": 35,
+        "Sp. Def": 35,
+        "Speed": 55,
+        "Total": 325
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "This Pokémon can easily melt holes in hard rocks with a liquid secreted from its mouth.",
+            "White": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.",
+            "Black 2": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
+            "White 2": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into."
+        },
+        "Generation VI": {
+            "X": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.",
+            "Y": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
+            "Omega Ruby": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.",
+            "Alpha Sapphire": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "When it finds a stone appealing, it creates a hole inside it and uses it as its home. This Pokémon is the natural enemy of Roggenrola and Rolycoly.",
+            "Shield": "It first tries to find a rock to live in, but if there are no suitable rocks to be found, Dwebble may move in to the ports of a Hippowdon."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 18 and Desert Resort",
+            "White": "Route 18 and Desert Resort",
+            "Black 2": "Desert Resort",
+            "White 2": "Desert Resort"
+        },
+        "Generation VI": {
+            "X": "Routes 8 and 12 , Cyllage City , Ambrette Town , Glittering Cave , Azure Bay ( Rock Smash ) Friend Safari ( Rock )",
+            "Y": "Routes 8 and 12 , Cyllage City , Ambrette Town , Glittering Cave , Azure Bay ( Rock Smash ) Friend Safari ( Rock )",
+            "Omega Ruby": "Route 111 ( hidden Pokémon * )",
+            "Alpha Sapphire": "Route 111 ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Crustle",
+            "Ultra Moon": "Breed Crustle",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields , West Lake Axewell , East Lake Axewell , North Lake Miloch , South Lake Miloch , Watchtower Ruins , Giant's Seat , Stony Wilderness , Hammerlocke Hills Rolling Fields , Dappled Grove , South Lake Miloch , Giant's Seat , Bridge Field , Stony Wilderness , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Rolling Fields , West Lake Axewell , East Lake Axewell , North Lake Miloch , South Lake Miloch , Watchtower Ruins , Giant's Seat , Stony Wilderness , Hammerlocke Hills Rolling Fields , Dappled Grove , South Lake Miloch , Giant's Seat , Bridge Field , Stony Wilderness , Dusty Bowl ( Max Raid Battle )",
+            "Expansion Pass": "Courageous Cavern , Loop Lagoon Fields of Honor ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Dwebble",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Dwebble",
+            "to": "Crustle",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

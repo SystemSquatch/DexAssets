@@ -1,0 +1,64 @@
+{
+    "name": "Drakloak",
+    "pokedex_number": "#0886",
+    "types": [
+        "Dragon",
+        "Ghost"
+    ],
+    "abilities": [
+        "Clear Body",
+        "Infiltrator",
+        "Cursed Body"
+    ],
+    "stats": {
+        "HP": 68,
+        "Attack": 80,
+        "Defense": 50,
+        "Sp. Atk": 60,
+        "Sp. Def": 50,
+        "Speed": 102,
+        "Total": 410
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "It's capable of flying faster than 120 mph . It battles alongside Dreepy and dotes on them until they successfully evolve.",
+            "Shield": "Without a Dreepy to place on its head and care for, it gets so uneasy it'll try to substitute any Pokémon it finds for the missing Dreepy."
+        },
+        "Generation IX": {
+            "Scarlet": "This Pokémon flies around at over 120 miles per hour . If a Drakloak is defeated in a battle, its Dreepy will wander off without a second thought.",
+            "Violet": "This Pokémon stores up energy in its lungs, then shoots it out. It takes care of Dreepy and battles alongside them until they're all grown up."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Axew's Eye , Rolling Fields ( Max Raid Battle )",
+            "Shield": "Lake of Outrage Axew's Eye , Rolling Fields ( Max Raid Battle )",
+            "Expansion Pass": "Old Cemetery Slippery Slope , Old Cemetery , Giant's Foot , Frigid Sea , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Union Circle Tera Raid Battle Search ( 4★ )",
+            "Violet": "North Province: Area One , Area Two , Area Three , Casseroya Lake , Glaseado Mountain Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Dreepy",
+            "to": "Drakloak",
+            "method": [
+                "Level 50"
+            ]
+        },
+        {
+            "from": "Drakloak",
+            "to": "Dragapult",
+            "method": [
+                "Level 60"
+            ]
+        }
+    ]
+}

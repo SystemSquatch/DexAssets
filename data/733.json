@@ -1,0 +1,68 @@
+{
+    "name": "Toucannon",
+    "pokedex_number": "#0733",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Skill Link",
+        "Sheer Force"
+    ],
+    "stats": {
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 75,
+        "Sp. Atk": 75,
+        "Sp. Def": 75,
+        "Speed": 60,
+        "Total": 485
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "When it battles, its beak heats up . The temperature can easily exceed 212 degrees Fahrenheit , causing severe burns when it hits.",
+            "Moon": "Within its beak, its internal gas ignites, explosively launching seeds with enough power to pulverize boulders.",
+            "Ultra Sun": "They smack beaks with others of their kind to communicate. The strength and number of hits tell each other how they feel.",
+            "Ultra Moon": "Known for forming harmonious couples, this Pokémon is brought to wedding ceremonies as a good luck charm."
+        },
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "The compressed gas in Toucannon’s beak launches seeds with such force that they can shatter large boulders.",
+            "Violet": "Pairs of Toucannon are considered symbols of companionship, as these Pokémon will raise the temperature of their beaks to warm each other."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VII.": {},
+        "Generation VII": {
+            "Sun": "Evolve Trumbeak",
+            "Moon": "Evolve Trumbeak",
+            "Ultra Sun": "Route 11 , Poni Grove , Poni Plains ( SOS Battle )",
+            "Ultra Moon": "Route 11 , Poni Grove , Poni Plains ( SOS Battle )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Coastal Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Trumbeak",
+            "to": "Toucannon",
+            "method": [
+                "Level 28"
+            ]
+        }
+    ]
+}

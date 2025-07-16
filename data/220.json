@@ -1,0 +1,146 @@
+{
+    "name": "Swinub",
+    "pokedex_number": "#0220",
+    "types": [
+        "Ice",
+        "Ground"
+    ],
+    "abilities": [
+        "Oblivious",
+        "Snow Cloak",
+        "Thick Fat"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 40,
+        "Sp. Atk": 30,
+        "Sp. Def": 30,
+        "Speed": 50,
+        "Total": 250
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
+            "Silver": "If it smells something enticing, it dashes headlong off to find the source of the aroma.",
+            "Crystal": "It uses the tip of its nose to dig for food. Its nose is so tough that even frozen ground poses no problem.",
+            "Stadium 2": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs. (Pokémon Red, Silver, or Crystal inserted) If it smells something enticing, it dashes headlong off to find the source of the aroma. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pok é mon occasionally roots out hot springs.",
+            "Sapphire": "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pok é mon occasionally roots out hot springs.",
+            "Emerald": "It roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under dried grass. It occasionally roots out hot springs.",
+            "FireRed": "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
+            "LeafGreen": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs."
+        },
+        "Generation IV": {
+            "Diamond": "It loves eating mushrooms that grow under dead grass. It also finds hot springs while foraging.",
+            "Pearl": "It loves eating mushrooms that grow under dead grass. It also finds hot springs while foraging.",
+            "Platinum": "It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.",
+            "HeartGold": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
+            "SoulSilver": "If it smells something enticing, it dashes off headlong to find the source of the aroma."
+        },
+        "Generation V": {
+            "Black": "It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.",
+            "White": "It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.",
+            "Black 2": "Rooting the tip of its snout into the ground, it searches for food. Sometimes it even digs up a hot spring.",
+            "White 2": "Rooting the tip of its snout into the ground, it searches for food. Sometimes it even digs up a hot spring."
+        },
+        "Generation VI": {
+            "X": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
+            "Y": "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
+            "Omega Ruby": "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs.",
+            "Alpha Sapphire": "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
+            "Shield": "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
+            "Brilliant Diamond": "It loves eating mushrooms that grow under dead grass. It also finds hot springs while foraging.",
+            "Shining Pearl": "It loves eating mushrooms that grow under dead grass. It also finds hot springs while foraging.",
+            "Legends: Arceus": "Swinub excels at sniffing out mushrooms buried beneath grass or snow. Since ancient times, the people of Hisui have often relied upon this skill."
+        },
+        "Generation IX": {
+            "Scarlet": "It searches for food by digging into the ground with its snout. Even frozen ground doesn't give it any trouble.",
+            "Violet": "It rubs its snout against the ground, digging through the soil as it searches for food. Sometimes it digs up hot springs."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Ice Path",
+            "Silver": "Ice Path",
+            "Crystal": "Ice Path Morning Day"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Icefall Cave",
+            "LeafGreen": "Icefall Cave",
+            "Colosseum": "Trade",
+            "XD": "Phenac City (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Route 217 ( Swarm )",
+            "Pearl": "Route 217 ( Swarm )",
+            "Platinum": "Route 217 , Acuity Lakefront",
+            "HeartGold": "Ice Path",
+            "SoulSilver": "Ice Path",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Icy Mountain Rd."
+        },
+        "Generation V": {
+            "Black": "Breed Piloswine or Mamoswine",
+            "White": "Breed Piloswine or Mamoswine",
+            "Black 2": "Breed Piloswine or Mamoswine",
+            "White 2": "Breed Piloswine or Mamoswine",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Breed Piloswine or Mamoswine",
+            "Y": "Breed Piloswine or Mamoswine",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Tapu Village ( Island Scan ) Mo",
+            "Moon": "Tapu Village ( Island Scan ) Mo",
+            "Ultra Sun": "Tapu Village ( Island Scan ) Mo",
+            "Ultra Moon": "Tapu Village ( Island Scan ) Mo",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Rolling Fields , Giant's Seat , Giant's Mirror , Hammerlocke Hills Dusty Bowl , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Rolling Fields , Giant's Seat , Giant's Mirror , Hammerlocke Hills , Dusty Bowl Dusty Bowl , Stony Wilderness ( Max Raid Battle )",
+            "Sword Expansion Pass": "Slippery Slope",
+            "Shield Expansion Pass": "Slippery Slope Slippery Slope , Giant's Bed , Snowslide Slope , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Route 217 ( Swarm ) Grand Underground - Icy Cave , Swampy Cave , Whiteout Cave , Glacial Cavern , Bogsunk Cavern",
+            "Shining Pearl": "Route 217 ( Swarm ) Grand Underground - Icy Cave , Swampy Cave , Whiteout Cave , Glacial Cavern , Bogsunk Cavern",
+            "Legends: Arceus": "Crimson Mirelands : massive mass outbreaks Alabaster Icelands : Avalanche Slopes , Bonechill Wastes (additional nearby), near Arena's Approach , Avalugg's Legacy , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Reveler's Road , Kitakami Hall , Mossfell Confluence , Oni Mountain , Oni's  Maw , Chilling Waterhead Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Swinub",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Swinub",
+            "to": "Piloswine",
+            "method": [
+                "Level 33"
+            ]
+        }
+    ]
+}

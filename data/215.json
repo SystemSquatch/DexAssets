@@ -1,0 +1,157 @@
+{
+    "name": "Sneasel",
+    "pokedex_number": "#0215",
+    "types": [
+        "Dark",
+        "Ice"
+    ],
+    "abilities": [
+        "Inner Focus",
+        "Keen Eye",
+        "Pickpocket"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 95,
+        "Defense": 55,
+        "Sp. Atk": 35,
+        "Sp. Def": 75,
+        "Speed": 115,
+        "Total": 430
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
+            "Silver": "Vicious in nature, it drives Pidgey from their nests and feasts on the eggs that are left behind.",
+            "Crystal": "This cunning Pok é mon hides under the cover of darkness, waiting to attack its prey.",
+            "Stadium 2": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy. (Pokémon Red, Silver, or Crystal inserted) Vicious in nature, it drives Pidgey from their nests and feasts on the eggs that are left behind. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Sneasel scales trees by punching its hooked claws into the bark. This Pok é mon seeks out unguarded nests and steals eggs for food while the parents are away.",
+            "Sapphire": "Sneasel scales trees by punching its hooked claws into the bark. This Pok é mon seeks out unguarded nests and steals eggs for food while the parents are away.",
+            "Emerald": "A Sneasel scales trees by punching its hooked claws into the bark. It seeks out unguarded nests and steals eggs for food while the parents are away.",
+            "FireRed": "Vicious in nature, it drives Pidgey from their nests and feasts on the eggs that are left behind.",
+            "LeafGreen": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy."
+        },
+        "Generation IV": {
+            "Diamond": "It feeds on eggs stolen from nests. Its sharply hooked claws rip vulnerable spots on prey.",
+            "Pearl": "It is extremely vicious and will not stop attacking until its foe is incapable of moving.",
+            "Platinum": "A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.",
+            "HeartGold": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
+            "SoulSilver": "Vicious in nature, it drives Pidgey from their nests and scavenges any leftovers it can find."
+        },
+        "Generation V": {
+            "Black": "A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.",
+            "White": "A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.",
+            "Black 2": "A smart and sneaky Pokémon, it makes its opponents flinch by suddenly showing the claws hidden in its paws.",
+            "White 2": "A smart and sneaky Pokémon, it makes its opponents flinch by suddenly showing the claws hidden in its paws."
+        },
+        "Generation VI": {
+            "X": "It feeds on eggs stolen from nests. Its sharply hooked claws rip vulnerable spots on prey.",
+            "Y": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
+            "Omega Ruby": "Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away.",
+            "Alpha Sapphire": "Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away."
+        },
+        "Generation VII": {
+            "Sun": "It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.",
+            "Moon": "It uses its claws to poke holes in eggs so it can slurp out the insides. Breeders consider it a scourge and will drive it away or eradicate it.",
+            "Ultra Sun": "They will cooperate to steal eggs from the nests of bird Pokémon, but fights break out to determine which one gets to eat the eggs.",
+            "Ultra Moon": "It blends into the dark of night to ambush its prey. Sneasel will attack Sandshrew, but its hard skin can cause Sneasel's claws to snap off."
+        },
+        "Generation VIII": {
+            "Sword": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
+            "Shield": "It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.",
+            "Brilliant Diamond": "It feeds on eggs stolen from nests. Its sharply hooked claws rip vulnerable spots on prey.",
+            "Shining Pearl": "It is extremely vicious and will not stop attacking until its foe is incapable of moving.",
+            "Legends: Arceus": "Its sturdy, curved claws are ideal for traversing precipitous cliffs. From the tips of these claws drips a venom that infiltrates the nerves of any prey caught in Sneasel's grasp."
+        },
+        "Generation IX": {
+            "Scarlet": "This cunning Pokémon hides under the cover of darkness, waiting to attack its prey.",
+            "Violet": "This is a smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Route 28 , Mt. Silver Night",
+            "Silver": "Route 28 , Mt. Silver Night",
+            "Crystal": "Ice Path Night"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Icefall Cave",
+            "Colosseum": "The Under Subway (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 216 and 217 , Acuity Lakefront , Lake Acuity , Snowpoint Temple",
+            "Pearl": "Routes 216 and 217 , Acuity Lakefront , Lake Acuity , Snowpoint Temple",
+            "Platinum": "Routes 216 and 217 , Acuity Lakefront , Lake Acuity , Snowpoint Temple",
+            "HeartGold": "Route 28 , Mt. Silver Night Mt. Silver Cave",
+            "SoulSilver": "Route 28 , Mt. Silver Night Mt. Silver Cave",
+            "Pal Park": "Mountain",
+            "Pokéwalker": "Icy Mountain Rd."
+        },
+        "Generation V": {
+            "Black": "Giant Chasm",
+            "White": "Giant Chasm",
+            "Black 2": "Giant Chasm Giant Chasm ( Hidden Grotto )",
+            "White 2": "Giant Chasm Giant Chasm ( Hidden Grotto )",
+            "Dream World": "Icy Cave"
+        },
+        "Generation VI": {
+            "X": "Route 17 , Friend Safari ( Ice and Dark )",
+            "Y": "Route 17 , Friend Safari ( Ice and Dark )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Mount Lanakila",
+            "Moon": "Mount Lanakila",
+            "Ultra Sun": "Mount Lanakila",
+            "Ultra Moon": "Mount Lanakila",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Routes 8 and 10 , Motostoke Riverbank , Bridge Field , Stony Wilderness , Dusty Bowl , Giant's Cap , Hammerlocke Hills Bridge Field , Giant's Cap , Hammerlocke Hills , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Routes 8 and 10 , Motostoke Riverbank , Bridge Field , Stony Wilderness , Dusty Bowl , Giant's Cap , Hammerlocke Hills Bridge Field , Giant's Cap , Hammerlocke Hills , Stony Wilderness , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Slippery Slope , Frostpoint Field , Snowslide Slope , Frigid Sea Frostpoint Field , Giant's Bed , Snowslide Slope , Giant's Foot , Frigid Sea ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Routes 216 and 217 , Acuity Lakefront , Lake Acuity , Snowpoint Temple Grand Underground - Whiteout Cave , Icy Cave , Glacial Cavern (After defeating Candice )",
+            "Shining Pearl": "Routes 216 and 217 , Acuity Lakefront , Lake Acuity , Snowpoint Temple Grand Underground - Whiteout Cave , Icy Cave , Glacial Cavern (After defeating Candice )",
+            "Legends: Arceus": "Obsidian Fieldlands : Space-time distortions ( Johtonian Form ) Coronet Highlands : near Celestica Trail , near Primeval Grotto , massive mass outbreaks ( Hisuian Form ) Alabaster Icelands : near Avalugg's Legacy (additional ), Glacier Terrace , near Pearl Settlement ( Hisuian Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Dalizapa Passage , Glaseado Mountain ( Johtonian Form ) North Province: Dalizapa Passage ( Fighting Tera Type ) ( Johtonian Form ) Area Zero ( Johtonian Form ) Tera Raid Battles ( 3★ ) ( Johtonian Form ) Pokémon HOME ( Hisuian Form )",
+            "Violet": "North Province: Dalizapa Passage , Glaseado Mountain ( Johtonian Form ) North Province: Dalizapa Passage ( Fighting Tera Type ) ( Johtonian Form ) Area Zero ( Johtonian Form ) Tera Raid Battles ( 3★ ) ( Johtonian Form ) Pokémon HOME ( Hisuian Form )",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Chilling Waterhead , Timeless Woods ( Johtonian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Sneasel",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Sneasel",
+            "to": "Weavile",
+            "method": [
+                "Level up (holding Razor Claw, during the night)"
+            ]
+        },
+        {
+            "from": "Sneasel",
+            "to": "Sneasler",
+            "method": [
+                "Level up (holding Razor Claw, during the day)"
+            ]
+        }
+    ]
+}

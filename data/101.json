@@ -1,0 +1,146 @@
+{
+    "name": "Electrode",
+    "pokedex_number": "#0101",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Soundproof",
+        "Static",
+        "Aftermath"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 70,
+        "Sp. Atk": 80,
+        "Sp. Def": 80,
+        "Speed": 140,
+        "Total": 480
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
+            "Yellow": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
+            "Stadium": "Stores enormous amounts of electricity within its body and explodes with the slightest provocation. Extremely dangerous."
+        },
+        "Generation II": {
+            "Gold": "It is dangerous. If it has too much electricity and has nothing to do, it amuses itself by exploding.",
+            "Silver": "It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.",
+            "Crystal": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+            "Stadium 2": "It is dangerous. If it has too much electricity and has nothing to do, it amuses itself by exploding. (Pokémon Red, Silver, or Crystal inserted) It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pok é mon exploding all over the place from eating too much electricity.",
+            "Sapphire": "One of Electrode 's characteristics is its attraction to electricity. It is a problematical Pok é mon that congregates mostly at electrical power plants to feed on electricity that has just been generated.",
+            "Emerald": "They appear in great numbers at electric power plants. Because they feed on electricity, they cause massive and chaotic blackouts in nearby cities.",
+            "FireRed": "It explodes in response to even minor stimuli. It is feared, with the nickname of “The Bomb Ball.”",
+            "LeafGreen": "It stores electric energy under very high pressure. It often explodes with little or no provocation."
+        },
+        "Generation IV": {
+            "Diamond": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+            "Pearl": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+            "Platinum": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+            "HeartGold": "It is dangerous. If it has too much electricity and has nothing to do, it amuses itself by exploding.",
+            "SoulSilver": "It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode."
+        },
+        "Generation V": {
+            "Black": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+            "White": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+            "Black 2": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+            "White 2": "It is known to drift on winds if it is bloated to bursting with stored electricity."
+        },
+        "Generation VI": {
+            "X": "It explodes in response to even minor stimuli. It is feared, with the nickname of \"The Bomb Ball.\"",
+            "Y": "It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.",
+            "Omega Ruby": "Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.",
+            "Alpha Sapphire": "One of Electrode's characteristics is its attraction to electricity. It is a problematical Pokémon that congregates mostly at electrical power plants to feed on electricity that has just been generated."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
+            "Let's Go Eevee": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion."
+        },
+        "Generation VIII": {
+            "Brilliant Diamond": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+            "Shining Pearl": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+            "Legends: Arceus": "The tissue on the surface of its body is curiously similar in composition to an Apricorn . When irritated, this Pokémon lets loose an electric current equal to 20 lightning bolts."
+        },
+        "Generation IX": {
+            "Scarlet": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+            "Violet": "It explodes in response to even minor stimuli. It is feared, with the nickname of the Bomb Ball."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Power Plant (Two) Cerulean Cave Trade Raichu at the Pokémon Lab on Cinnabar Island",
+            "Blue": "Power Plant (Two) Cerulean Cave Trade Raichu at the Pokémon Lab on Cinnabar Island",
+            "Blue (Japan)": "Power Plant (Two) Cerulean Cave",
+            "Yellow": "Power Plant (Two)"
+        },
+        "Generation II": {
+            "Gold": "Team Rocket HQ ( Three )",
+            "Silver": "Team Rocket HQ ( Three )",
+            "Crystal": "Team Rocket HQ ( Three )"
+        },
+        "Generation III": {
+            "Ruby": "New Mauville Team Magma Hideout (Two)",
+            "Sapphire": "New Mauville Team Aqua Hideout (Two)",
+            "Emerald": "New Mauville Team Aqua Hideout (Two)",
+            "FireRed": "Power Plant (Two) Cerulean Cave Trade Raichu at the Pokémon Lab on Cinnabar Island",
+            "LeafGreen": "Power Plant (Two) Cerulean Cave Trade Raichu at the Pokémon Lab on Cinnabar Island",
+            "Colosseum": "Trade",
+            "XD": "Evolve Voltorb"
+        },
+        "Generation IV": {
+            "Diamond": "Evolve Voltorb",
+            "Pearl": "Evolve Voltorb",
+            "Platinum": "Evolve Voltorb",
+            "HeartGold": "Team Rocket HQ ( Three ) Cerulean Cave",
+            "SoulSilver": "Team Rocket HQ ( Three ) Cerulean Cave",
+            "Pal Park": "Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Lost Hotel , Friend Safari ( Electric )",
+            "Y": "Lost Hotel , Friend Safari ( Electric )",
+            "Omega Ruby": "Team Magma Hideout (Two)",
+            "Alpha Sapphire": "Team Aqua Hideout (Two)"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Team Rocket's Castle ( Three )",
+            "Ultra Moon": "Team Rocket's Castle ( Three )",
+            "Let's Go Pikachu": "Power Plant ( Four )",
+            "Let's Go Eevee": "Power Plant ( Four )"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Evolve Voltorb",
+            "Shining Pearl": "Evolve Voltorb",
+            "Legends: Arceus": "Coronet Highlands : massive mass outbreaks ( Hisuian Form ) Unobtainable ( Kantonian Form )"
+        },
+        "Generation IX": {
+            "Scarlet": "West Province: Area Three ( Kantonian Form ) Tera Raid Battles ( 4★ ) ( Kantonian Form ) Pokémon HOME ( Hisuian Form )",
+            "Violet": "West Province: Area Three ( Kantonian Form ) Tera Raid Battles ( 4★ ) ( Kantonian Form ) Pokémon HOME ( Hisuian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Voltorb",
+            "to": "Electrode",
+            "method": [
+                "Level 30"
+            ]
+        }
+    ]
+}

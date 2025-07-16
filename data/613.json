@@ -1,0 +1,98 @@
+{
+    "name": "Cubchoo",
+    "pokedex_number": "#0613",
+    "types": [
+        "Ice",
+        "Unknown"
+    ],
+    "abilities": [
+        "Snow Cloak",
+        "Slush Rush",
+        "Rattled"
+    ],
+    "stats": {
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 40,
+        "Sp. Atk": 60,
+        "Sp. Def": 40,
+        "Speed": 40,
+        "Total": 305
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.",
+            "White": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
+            "Black 2": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
+            "White 2": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases."
+        },
+        "Generation VI": {
+            "X": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
+            "Y": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
+            "Omega Ruby": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
+            "Alpha Sapphire": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "When this Pokémon is in good health, its snot becomes thicker and stickier. It will smear its snot on anyone it doesn't like.",
+            "Shield": "It sniffles before performing a move, using its frosty snot to provide an icy element to any move that needs it."
+        },
+        "Generation IX": {
+            "Scarlet": "Many of this species can be found along the shorelines of cold regions. If a Cubchoo lacks dangling snot, there's a chance it is sick.",
+            "Violet": "When Cubchoo starts sneezing, watch out! If it spatters you with its frosty snot, you'll get frostbite."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Twist Mountain Route 7 , Dragonspiral Tower Winter",
+            "White": "Twist Mountain Route 7 , Dragonspiral Tower Winter",
+            "Black 2": "Route 7 Winter Route 7 ( Hidden Grotto ) *",
+            "White 2": "Route 7 Winter Route 7 ( Hidden Grotto ) *"
+        },
+        "Generation VI": {
+            "X": "Frost Cavern ( Horde Encounter )",
+            "Y": "Frost Cavern ( Horde Encounter )",
+            "Omega Ruby": "Shoal Cave ( hidden Pokémon * )",
+            "Alpha Sapphire": "Shoal Cave ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 10 , Bridge Field , Dusty Bowl , Giant's Mirror , Hammerlocke Hills , Stony Wilderness Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Route 10 , Bridge Field , Dusty Bowl , Giant's Mirror , Hammerlocke Hills , Stony Wilderness Dusty Bowl , Giant's Cap , Giant's Seat , Stony Wilderness ( Max Raid Battle )",
+            "Sword Expansion Pass": "Giant's Bed , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "North Province: Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 3★ )",
+            "Violet": "North Province: Dalizapa Passage , Glaseado Mountain Tera Raid Battles ( 3★ )",
+            "The Hidden Treasure of Area Zero": "Chargestone Cavern , Polar Biome"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Cubchoo",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Cubchoo",
+            "to": "Beartic",
+            "method": [
+                "Level 37"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "name": "Raikou",
+    "pokedex_number": "#0243",
+    "types": [
+        "Electric",
+        "Unknown"
+    ],
+    "abilities": [
+        "Pressure",
+        "Inner Focus",
+        "Volt Absorb"
+    ],
+    "stats": {
+        "HP": 90,
+        "Attack": 85,
+        "Defense": 75,
+        "Sp. Atk": 115,
+        "Sp. Def": 100,
+        "Speed": 115,
+        "Total": 580
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
+            "Silver": "A Pok é mon that races across the land while barking a cry that sounds like crashing thunder.",
+            "Crystal": "This rough Pok é mon stores energy inside its body, then sweeps across the land, shooting off electricity.",
+            "Stadium 2": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning. (Pokémon Red, Silver, or Crystal inserted) A Pok é mon that races across the land while barking a cry that sounds like crashing thunder. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Raikou embodies the speed of lightning. The roars of this Pok é mon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
+            "Sapphire": "Raikou embodies the speed of lightning. The roars of this Pok é mon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
+            "Emerald": "Raikou embodies the speed of lightning. Its roars send shock waves shuddering through the air and ground as if lightning bolts were crashing down.",
+            "FireRed": "This Pok é mon races across the land while barking a cry that sounds like crashing thunder.",
+            "LeafGreen": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning."
+        },
+        "Generation IV": {
+            "Diamond": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
+            "Pearl": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
+            "Platinum": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
+            "HeartGold": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
+            "SoulSilver": "A Pokémon that races across the land while barking a cry that sounds like crashing thunder."
+        },
+        "Generation V": {
+            "Black": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
+            "White": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
+            "Black 2": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
+            "White 2": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back."
+        },
+        "Generation VI": {
+            "X": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
+            "Y": "This rough Pokémon stores energy inside its body, then sweeps across the land, shooting off electricity.",
+            "Omega Ruby": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
+            "Alpha Sapphire": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
+            "Shining Pearl": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation II.": {},
+        "Generation II": {
+            "Gold": "Roaming Johto ( Only one )",
+            "Silver": "Roaming Johto ( Only one )",
+            "Crystal": "Roaming Johto ( Only one )"
+        },
+        "Generation III": {
+            "Ruby": "Trade , Event",
+            "Sapphire": "Trade , Event",
+            "Emerald": "Trade , Event",
+            "FireRed": "Roaming Kanto (if the player chose Squirtle ) ( Only one )",
+            "LeafGreen": "Roaming Kanto (if the player chose Squirtle ) ( Only one )",
+            "Colosseum": "Shadow PKMN Lab (Shadow)",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade , Event",
+            "Pearl": "Trade , Event",
+            "Platinum": "Trade , Event",
+            "HeartGold": "Roaming Johto ( Only one )",
+            "SoulSilver": "Roaming Johto ( Only one )",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer Relocator ( Shiny event Raikou only)",
+            "White": "Poké Transfer Relocator ( Shiny event Raikou only)",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Trackless Forest (requires Ho-Oh or Lugia in the party) ( Only one )",
+            "Alpha Sapphire": "Trackless Forest (requires Ho-Oh or Lugia in the party) ( Only one )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade , Event",
+            "Ultra Sun": "Ultra Space Wilds ( Rocky World ) ( Only one )",
+            "Ultra Moon": "Trade , Event",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Max Lair ( Dynamax Adventure ) ( Only one )",
+            "Brilliant Diamond": "Ramanas Park (requires Johto Slate ) ( Only one )",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero (Scarlet)": "West Province: Area One after receiving the Raikou Treat from Snacksworth ( Only one ) ( Solo Quest )",
+            "The Hidden Treasure of Area Zero (Violet)": "West Province: Area One after receiving the Raikou Treat from Snacksworth ( Only one ) ( Group Quest )"
+        }
+    },
+    "evolution": []
+}

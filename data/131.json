@@ -1,0 +1,146 @@
+{
+    "name": "Lapras",
+    "pokedex_number": "#0131",
+    "types": [
+        "Water",
+        "Ice"
+    ],
+    "abilities": [
+        "Water Absorb",
+        "Shell Armor",
+        "Hydration"
+    ],
+    "stats": {
+        "HP": 130,
+        "Attack": 85,
+        "Defense": 80,
+        "Sp. Atk": 85,
+        "Sp. Def": 95,
+        "Speed": 60,
+        "Total": 535
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "A Pok é mon that has been overhunted almost to extinction. It can ferry people across the water.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "A Pok é mon that has been overhunted almost to extinction. It can ferry people across the water.",
+            "Yellow": "A gentle soul that can read the minds of people. It can ferry people across the sea on its back.",
+            "Stadium": "Capable of understanding the language of humans, it enjoys ferrying people on its back. It is on the verge of extinction."
+        },
+        "Generation II": {
+            "Gold": "They have gentle hearts. Because they rarely fight, many have been caught. Their number has dwindled.",
+            "Silver": "It ferries people across the sea on its back. It may sing an enchanting cry if it is in a good mood.",
+            "Crystal": "This gentle Pok é mon loves to give people rides and provides a very comfortable way to get around.",
+            "Stadium 2": "They have gentle hearts. Because they rarely fight, many have been caught. Their number has dwindled. (Pokémon Red, Silver, or Crystal inserted) It ferries people across the sea on its back. It may sing an enchanting cry if it is in a good mood. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "People have driven Lapras almost to the point of extinction. In the evenings, this Pok é mon is said to sing plaintively as it seeks what few others of its kind still remain.",
+            "Sapphire": "People have driven Lapras almost to the point of extinction. In the evenings, this Pok é mon is said to sing plaintively as it seeks what few others of its kind still remain.",
+            "Emerald": "People have driven Lapras almost to the point of extinction. In the evenings, it is said to sing plaintively as it seeks what few others of its kind still remain.",
+            "FireRed": "Its high intelligence enables it to understand human speech. It likes to ferry people on its back.",
+            "LeafGreen": "A Pok é mon that has been overhunted almost to extinction. It can ferry people on its back."
+        },
+        "Generation IV": {
+            "Diamond": "It loves crossing the sea with people and Pokémon on its back. It understands human speech.",
+            "Pearl": "It loves crossing the sea with people and Pokémon on its back. It understands human speech.",
+            "Platinum": "It loves crossing the sea with people and Pokémon on its back. It understands human speech.",
+            "HeartGold": "They have gentle hearts. Because they rarely fight, many have been caught. Their number has dwindled.",
+            "SoulSilver": "It ferries people across the sea on its back. It may sing an enchanting cry if it is in a good mood."
+        },
+        "Generation V": {
+            "Black": "It loves crossing the sea with people and Pokémon on its back. It understands human speech.",
+            "White": "It loves crossing the sea with people and Pokémon on its back. It understands human speech.",
+            "Black 2": "Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back.",
+            "White 2": "Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back."
+        },
+        "Generation VI": {
+            "X": "They have gentle hearts. Because they rarely fight, many have been caught. Their number has dwindled.",
+            "Y": "Its high intelligence enables it to understand human speech. It likes to ferry people on its back.",
+            "Omega Ruby": "People have driven Lapras almost to the point of extinction. In the evenings, this Pokémon is said to sing plaintively as it seeks what few others of its kind still remain.",
+            "Alpha Sapphire": "People have driven Lapras almost to the point of extinction. In the evenings, this Pokémon is said to sing plaintively as it seeks what few others of its kind still remain."
+        },
+        "Generation VII": {
+            "Sun": "Its high intelligence enables it to comprehend human speech. When it's in a good mood, it sings in its beautiful voice.",
+            "Moon": "These Pokémon were once near extinction due to poaching. Following protective regulations, there is now an overabundance of them.",
+            "Ultra Sun": "It likes swimming around with people on its back. In the Alola region, it's an important means of transportation over water.",
+            "Ultra Moon": "They've been so cherished that there's now an overabundance. The fish Pokémon population has declined in waters with too many Lapras.",
+            "Let's Go Pikachu": "A gentle soul that can understand human speech. It can ferry people across the sea on its back.",
+            "Let's Go Eevee": "A gentle soul that can understand human speech. It can ferry people across the sea on its back."
+        },
+        "Generation VIII": {
+            "Sword": "A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.",
+            "Shield": "Crossing icy seas is no issue for this cold-resistant Pokémon. Its smooth skin is a little cool to the touch.",
+            "Brilliant Diamond": "It loves crossing the sea with people and Pokémon on its back. It understands human speech.",
+            "Shining Pearl": "It loves crossing the sea with people and Pokémon on its back. It understands human speech."
+        },
+        "Generation IX": {
+            "Scarlet": "It ferries people across the sea on its back. It may sing an enchanting cry if it is in a good mood.",
+            "Violet": "Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Received from a person in Silph Co. ( Saffron City )",
+            "Blue": "Received from a person in Silph Co. ( Saffron City )",
+            "Blue (Japan)": "Received from a person in Silph Co. ( Saffron City )",
+            "Yellow": "Received from a person in Silph Co. ( Saffron City )"
+        },
+        "Generation II": {
+            "Gold": "Union Cave ( Weekly ) Fr",
+            "Silver": "Union Cave ( Weekly ) Fr",
+            "Crystal": "Union Cave ( Weekly ) Fr"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Received from a person in Silph Co. ( Saffron City ) Icefall Cave ( Surfing )",
+            "LeafGreen": "Received from a person in Silph Co. ( Saffron City ) Icefall Cave ( Surfing )",
+            "Colosseum": "Trade",
+            "XD": "Citadark Isle (Shadow)"
+        },
+        "Generation IV": {
+            "Diamond": "Victory Road ( Surfing )",
+            "Pearl": "Victory Road ( Surfing )",
+            "Platinum": "Victory Road ( Surfing )",
+            "HeartGold": "Union Cave ( Weekly ) Fr Safari Zone ( Surfing in Rocky Beach - default, with 10 Waterside points, with 14 Waterside points, and with 18 Waterside points)",
+            "SoulSilver": "Union Cave ( Weekly ) Fr Safari Zone ( Surfing in Rocky Beach - default, with 10 Waterside points, with 14 Waterside points, and with 18 Waterside points)",
+            "Pal Park": "Sea"
+        },
+        "Generation V": {
+            "Black": "Village Bridge ( Surfing in rippling water )",
+            "White": "Village Bridge ( Surfing in rippling water )",
+            "Black 2": "Village Bridge ( Surfing in rippling water )",
+            "White 2": "Village Bridge ( Surfing in rippling water )",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Received from a man on Route 12 Route 12 and Azure Bay ( Surfing ) Friend Safari ( Ice )",
+            "Y": "Received from a man on Route 12 Route 12 and Azure Bay ( Surfing ) Friend Safari ( Ice )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Poni Wilds ( Surfing ) Poké Pelago *",
+            "Moon": "Poni Wilds ( Surfing ) Poké Pelago *",
+            "Ultra Sun": "Poni Breaker Coast ( Surfing ) Poké Pelago *",
+            "Ultra Moon": "Poni Breaker Coast ( Surfing ) Poké Pelago *",
+            "Let's Go Pikachu": "Received from a person in Silph Co. ( Saffron City ) Routes 19 and 20",
+            "Let's Go Eevee": "Received from a person in Silph Co. ( Saffron City ) Routes 19 and 20"
+        },
+        "Generation VIII": {
+            "Sword": "Route 9 ( fishing ) Route 2 (one), Lake of Outrage , North Lake Miloch , West Lake Axewell ( Wanderer ) Bridge Field , Dusty Bowl , East Lake Axewell , Giant's Cap , Giant's Mirror , Lake of Outrage , South Lake Miloch , Stony Wilderness , West Lake Axewell ( Max Raid Battle ) Wild Area News ( Gigantamax Factor )",
+            "Shield": "Route 9 ( fishing ) Route 2 (one), Lake of Outrage , North Lake Miloch , West Lake Axewell ( Wanderer ) Bridge Field , Dusty Bowl , East Lake Axewell , Giant's Cap , Giant's Mirror , Lake of Outrage , South Lake Miloch , Stony Wilderness , West Lake Axewell ( Max Raid Battle ) Giant's Seat ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Expansion Pass": "Frigid Sea ( Surfing ) Giant's Bed , Frigid Sea ( Max Raid Battle ) ( Gigantamax Factor )",
+            "Brilliant Diamond": "Victory Road ( Surfing )",
+            "Shining Pearl": "Victory Road ( Surfing )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Polar Biome Tera Raid Battles ( 5★ , 6★ )"
+        }
+    },
+    "evolution": []
+}

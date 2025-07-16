@@ -1,0 +1,88 @@
+{
+    "name": "Crustle",
+    "pokedex_number": "#0558",
+    "types": [
+        "Bug",
+        "Rock"
+    ],
+    "abilities": [
+        "Sturdy",
+        "Shell Armor",
+        "Weak Armor"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 95,
+        "Defense": 125,
+        "Sp. Atk": 65,
+        "Sp. Def": 75,
+        "Speed": 45,
+        "Total": 475
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
+            "White": "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.",
+            "Black 2": "When its boulder is broken in battles for territory, it feels unsure and begins to weaken.",
+            "White 2": "When its boulder is broken in battles for territory, it feels unsure and begins to weaken."
+        },
+        "Generation VI": {
+            "X": "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.",
+            "Y": "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
+            "Omega Ruby": "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.",
+            "Alpha Sapphire": "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "This highly territorial Pokémon prefers dry climates. It won't come out of its boulder on rainy days.",
+            "Shield": "Its thick claws are its greatest weapons. They're mighty enough to crack Rhyperior 's carapace."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Route 18 ( dark grass )",
+            "White": "Route 18 ( dark grass )",
+            "Black 2": "Route 18 Seaside Cave ( One ) *",
+            "White 2": "Route 18 Seaside Cave ( One ) *",
+            "Dream World": "Rugged Mountain *"
+        },
+        "Generation VI": {
+            "X": "Evolve Dwebble",
+            "Y": "Evolve Dwebble",
+            "Omega Ruby": "Mirage Mountains (north of Route 125 , southeast of Route 129 ; both by Rock Smash )",
+            "Alpha Sapphire": "Mirage Mountains (north of Route 125 , southeast of Route 129 ; both by Rock Smash )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Cave World )",
+            "Ultra Moon": "Ultra Space Wilds ( Cave World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 8 (One) Axew's Eye Rolling Fields , Giant's Seat , Stony Wilderness , Dusty Bowl ( Max Raid Battle )",
+            "Shield": "Route 8 (One) Axew's Eye Rolling Fields , Giant's Seat , Stony Wilderness , Dusty Bowl ( Max Raid Battle )",
+            "Expansion Pass": "Challenge Road ( Wanderer ) Fields of Honor ( Max Raid Battle ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Dwebble",
+            "to": "Crustle",
+            "method": [
+                "Level 34"
+            ]
+        }
+    ]
+}

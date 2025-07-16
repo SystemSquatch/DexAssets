@@ -1,0 +1,140 @@
+{
+    "name": "Feebas",
+    "pokedex_number": "#0349",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Oblivious",
+        "Adaptability"
+    ],
+    "stats": {
+        "HP": 20,
+        "Attack": 15,
+        "Defense": 20,
+        "Sp. Atk": 10,
+        "Sp. Def": 55,
+        "Speed": 80,
+        "Total": 200
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Feebas 's fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this Pok é mon is largely ignored. It is capable of living in both the sea and in rivers.",
+            "Sapphire": "While Feebas 's body is in tatters, it has a hardy and tenacious life force that enables it to live anywhere. However, this Pok é mon is also slow and dimwitted, making it an easy catch.",
+            "Emerald": "Feebas live in ponds that are heavily infested with weeds. Because of its hopelessly shabby appearance, it seems as if few Trainers raise it.",
+            "FireRed": "Ridiculed for its shabby appearance, it is ignored by researchers. It lives in ponds choked with weeds.",
+            "LeafGreen": "Ridiculed for its shabby appearance, it is ignored by researchers. It lives in ponds choked with weeds."
+        },
+        "Generation IV": {
+            "Diamond": "It is famous for its shabby appearance. While populous, they tend to cluster in set locations.",
+            "Pearl": "It eats anything, so it can even live in polluted streams and lakes. No one pays any attention to it.",
+            "Platinum": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+            "HeartGold": "It is the shabbiest Pokémon of all. It forms in schools and lives at the bottom of rivers.",
+            "SoulSilver": "It is the shabbiest Pokémon of all. It forms in schools and lives at the bottom of rivers."
+        },
+        "Generation V": {
+            "Black": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+            "White": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+            "Black 2": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+            "White 2": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water."
+        },
+        "Generation VI": {
+            "X": "It eats anything, so it can even live in polluted streams and lakes. No one pays any attention to it.",
+            "Y": "It is the shabbiest Pokémon of all. It forms in schools and lives at the bottom of rivers.",
+            "Omega Ruby": "Feebas's fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this Pokémon is largely ignored. It is capable of living in both the sea and in rivers.",
+            "Alpha Sapphire": "While Feebas's body is in tatters, it has a hardy and tenacious life force that enables it to live anywhere. However, this Pokémon is also slow and dimwitted, making it an easy catch."
+        },
+        "Generation VII": {
+            "Sun": "A tough Pokémon that is perfectly fine even in dirty water. However, due to its ragged, shabby appearance, it isn't popular.",
+            "Moon": "Although unattractive and unpopular, this Pokémon's marvelous vitality has made it a subject of research.",
+            "Ultra Sun": "They look ragged, so no one catches them. They look like they'd taste bad, so predators won't eat them. And their numbers continue to grow.",
+            "Ultra Moon": "Because of its wretched appearance, most people pay it no attention, but there are some who collect Feebas—and Feebas alone!"
+        },
+        "Generation VIII": {
+            "Sword": "Although unattractive and unpopular, this Pokémon's marvelous vitality has made it a subject of research.",
+            "Shield": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+            "Brilliant Diamond": "They are famous for their shabby appearance. Although populous, they tend to cluster in set locations.",
+            "Shining Pearl": "It eats anything, so it can even live in polluted streams and lakes. No one pays any attention to it."
+        },
+        "Generation IX": {
+            "Scarlet": "This tough Pokémon is perfectly fine even in dirty water. However, due to its ragged, shabby appearance, it isn't popular.",
+            "Violet": "It is the shabbiest Pokémon of all. It forms schools and lives at the bottom of rivers that teem with plant life."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Route 119 (six fishing spots)",
+            "Sapphire": "Route 119 (six fishing spots)",
+            "Emerald": "Route 119 (six fishing spots)",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Mt. Coronet (four fishing spots)",
+            "Pearl": "Mt. Coronet (four fishing spots)",
+            "Platinum": "Mt. Coronet (four fishing spots)",
+            "HeartGold": "Transfer from Pokéwalker",
+            "SoulSilver": "Transfer from Pokéwalker",
+            "Pal Park": "Sea",
+            "Pokéwalker": "Quiet Cave"
+        },
+        "Generation V": {
+            "Black": "Route 1 ( Fishing or Fishing in rippling water )",
+            "White": "Route 1 ( Fishing or Fishing in rippling water )",
+            "Black 2": "Route 1 ( Fishing or Fishing in rippling water )",
+            "White 2": "Route 1 ( Fishing or Fishing in rippling water )",
+            "Dream World": "Sparkling Sea"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Route 119 ( Fishing )",
+            "Alpha Sapphire": "Route 119 ( Fishing )"
+        },
+        "Generation VII": {
+            "Sun": "Brooklet Hill ( Fishing )",
+            "Moon": "Brooklet Hill ( Fishing )",
+            "Ultra Sun": "Brooklet Hill ( Fishing )",
+            "Ultra Moon": "Brooklet Hill ( Fishing )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Route 2 ( fishing ) Bridge Field , East Lake Axewell , Lake of Outrage , West Lake Axewell ( Max Raid Battle )",
+            "Shield": "Route 2 ( fishing ) Bridge Field , East Lake Axewell , Lake of Outrage , West Lake Axewell ( Max Raid Battle )",
+            "Expansion Pass": "Ballimere Lake ( fishing ) Giant's Bed , Giant's Foot , Roaring-Sea Caves ( Surfing ) Giant's Bed , Giant's Foot , Ballimere Lake , Frigid Sea ( Max Raid Battle )",
+            "Brilliant Diamond": "Mount Coronet (four fishing spots)",
+            "Shining Pearl": "Mount Coronet (four fishing spots)",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Oni Mountain , Crystal Pool Tera Raid Battles ( 2★ , 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Feebas",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Feebas",
+            "to": "Milotic",
+            "method": [
+                "Level up (with high beauty)",
+                "Trade (holding Prism Scale)",
+                "Level up (with high beauty)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "name": "Purugly",
+    "pokedex_number": "#0432",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Thick Fat",
+        "Own Tempo",
+        "Defiant"
+    ],
+    "stats": {
+        "HP": 71,
+        "Attack": 82,
+        "Defense": 64,
+        "Sp. Atk": 64,
+        "Sp. Def": 59,
+        "Speed": 112,
+        "Total": 452
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It is a brazen brute that barges its way into another Pokémon's nest and claims it as its own.",
+            "Pearl": "To make itself appear intimidatingly beefy, it tightly cinches its waist with its twin tails.",
+            "Platinum": "It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly.",
+            "HeartGold": "It would claim another Pokémon's nest as its own if it finds a nest sufficiently comfortable.",
+            "SoulSilver": "It would claim another Pokémon's nest as its own if it finds a nest sufficiently comfortable."
+        },
+        "Generation V": {
+            "Black": "It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly.",
+            "White": "It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly.",
+            "Black 2": "It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly.",
+            "White 2": "It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly."
+        },
+        "Generation VI": {
+            "X": "It would claim another Pokémon's nest as its own if it finds a nest sufficiently comfortable.",
+            "Y": "To make itself appear intimidatingly beefy, it tightly cinches its waist with its twin tails.",
+            "Omega Ruby": "It would claim another Pokémon's nest as its own if it finds a nest sufficiently comfortable.",
+            "Alpha Sapphire": "To make itself appear intimidatingly beefy, it tightly cinches its waist with its twin tails."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It is a brazen brute that barges its way into another Pokémon's nest and claims it as its own.",
+            "Shining Pearl": "To make itself appear intimidatingly beefy, it tightly cinches its waist with its split tail.",
+            "Legends: Arceus": "Though impudent and difficult to tame, Purugly enjoys great popularity due to its fur, the beauty of which surpasses even velveteen."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Routes 222 and 229",
+            "Platinum": "Trade",
+            "HeartGold": "Trade",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "Trade",
+            "White 2": "Evolve Glameow"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Mirage Forests (west of Route 114 , north of Lilycove City , north of Route 124 ), Mirage Island (north of Route 125 )",
+            "Alpha Sapphire": "Mirage Forests (west of Route 114 , north of Lilycove City , north of Route 124 ), Mirage Island (north of Route 125 )"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Trade",
+            "Shining Pearl": "Routes 222 and 229 Grand Underground - Grassland Cave , Spacious Cave , Riverbank Cave , Still-Water Cavern , Sunlit Cavern (After obtaining TM97 ( Defog ))",
+            "Legends: Arceus": "Cobalt Coastlands : Crossing Slope , Veilstone Cape (also mass outbreaks ), massive mass outbreaks Alabaster Icelands : near Glacier Terrace , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Glameow",
+            "to": "Purugly",
+            "method": [
+                "Level 38"
+            ]
+        }
+    ]
+}

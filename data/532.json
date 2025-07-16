@@ -1,0 +1,98 @@
+{
+    "name": "Timburr",
+    "pokedex_number": "#0532",
+    "types": [
+        "Fighting",
+        "Unknown"
+    ],
+    "abilities": [
+        "Guts",
+        "Sheer Force",
+        "Iron Fist"
+    ],
+    "stats": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 55,
+        "Sp. Atk": 25,
+        "Sp. Def": 35,
+        "Speed": 35,
+        "Total": 305
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty.",
+            "White": "These Pokémon appear at building sites and help out with construction. They always carry squared logs.",
+            "Black 2": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
+            "White 2": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs."
+        },
+        "Generation VI": {
+            "X": "These Pokémon appear at building sites and help out with construction. They always carry squared logs.",
+            "Y": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
+            "Omega Ruby": "These Pokémon appear at building sites and help out with construction. They always carry squared logs.",
+            "Alpha Sapphire": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "It loves helping out with construction projects. It loves it so much that if rain causes work to halt, it swings its log around and throws a tantrum.",
+            "Shield": "Timburr that have started carrying logs that are about three times their size are nearly ready to evolve."
+        },
+        "Generation IX": {
+            "Scarlet": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
+            "Violet": "It fights by swinging a piece of lumber around. It is close to evolving when it can handle heavy lumber without difficulty."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Pinwheel Forest (outside), Cold Storage",
+            "White": "Pinwheel Forest (outside), Cold Storage",
+            "Black 2": "Relic Passage Pinwheel Forest (outside) ( N's Pokémon )",
+            "White 2": "Relic Passage Pinwheel Forest (outside) ( N's Pokémon )"
+        },
+        "Generation VI": {
+            "X": "Breed Gurdurr or Conkeldurr",
+            "Y": "Breed Gurdurr or Conkeldurr",
+            "Omega Ruby": "Granite Cave ( hidden Pokémon * )",
+            "Alpha Sapphire": "Granite Cave ( hidden Pokémon * )"
+        },
+        "Generation VII": {
+            "Sun": "Breed Conkeldurr",
+            "Moon": "Breed Conkeldurr",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Trade",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Galar Mine Rolling Fields , South Lake Miloch , Stony Wilderness ( Max Raid Battle )",
+            "Shield": "Galar Mine Rolling Fields , South Lake Miloch , Stony Wilderness ( Max Raid Battle )",
+            "Expansion Pass": "Frostpoint Field , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Apple Hills , Reveler's Road , Mossfell Confluence , Fellhorn Gorge , Oni Mountain , Oni's Maw , Infernal Pass , Crystal Pool , Wistful Fields , Paradise Barrens , Kitakami Wilds Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Timburr",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Timburr",
+            "to": "Gurdurr",
+            "method": [
+                "Level 25"
+            ]
+        }
+    ]
+}

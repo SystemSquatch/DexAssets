@@ -1,0 +1,95 @@
+{
+    "name": "Ducklett",
+    "pokedex_number": "#0580",
+    "types": [
+        "Water",
+        "Flying"
+    ],
+    "abilities": [
+        "Keen Eye",
+        "Big Pecks",
+        "Hydration"
+    ],
+    "stats": {
+        "HP": 62,
+        "Attack": 44,
+        "Defense": 50,
+        "Sp. Atk": 44,
+        "Sp. Def": 50,
+        "Speed": 55,
+        "Total": 305
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "These bird Pokémon are excellent divers. They swim around in the water eating their favorite food--peat moss.",
+            "White": "When attacked, it uses its feathers to splash water, escaping under cover of the spray.",
+            "Black 2": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.",
+            "White 2": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater."
+        },
+        "Generation VI": {
+            "X": "When attacked, it uses its feathers to splash water, escaping under cover of the spray.",
+            "Y": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.",
+            "Omega Ruby": "When attacked, it uses its feathers to splash water, escaping under cover of the spray.",
+            "Alpha Sapphire": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater."
+        },
+        "Generation VII": {},
+        "Generation VIII": {},
+        "Generation IX": {
+            "Scarlet": "It's not very good at flying yet. It watches the dances of its Swanna parents to learn how to move its wings.",
+            "Violet": "It strengthens its body by diving in to the depths of ponds, swimming around while looking for bog moss to eat."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Driftveil Drawbridge ( Shadow )",
+            "White": "Driftveil Drawbridge ( Shadow )",
+            "Black 2": "Driftveil Drawbridge ( Shadow )",
+            "White 2": "Driftveil Drawbridge ( Shadow )",
+            "Dream World": "Windswept Sky *"
+        },
+        "Generation VI": {
+            "X": "Route 7",
+            "Y": "Route 7",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Swanna",
+            "Ultra Moon": "Breed Swanna",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Mossfell Confluence , Fellhorn Gorge , Oni Mountain , Kitakami Wilds Tera Raid Battles ( 1★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Ducklett",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Ducklett",
+            "to": "Swanna",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

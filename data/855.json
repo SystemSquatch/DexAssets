@@ -1,0 +1,57 @@
+{
+    "name": "Polteageist",
+    "pokedex_number": "#0855",
+    "types": [
+        "Ghost",
+        "Unknown"
+    ],
+    "abilities": [
+        "Weak Armor",
+        "Cursed Body"
+    ],
+    "stats": {
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Atk": 134,
+        "Sp. Def": 114,
+        "Speed": 70,
+        "Total": 508
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Trainers Polteageist trusts will be allowed to experience its distinctive flavor and aroma firsthand by sampling just a tiny bit of its tea.",
+            "Shield": "When angered, it launches tea from its body at the offender's mouth. The tea causes strong chills if swallowed."
+        },
+        "Generation IX": {
+            "Scarlet": "Apparently a Polteageist’s disposition is affected by the type of tea the Pokémon came from. What teapot it inhabits makes no difference.",
+            "Violet": "Though risky to drink, this Pokémon's tea tastes delicious. Gourmets who have no fear of danger drink Polteageist tea day after day."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Stony Wilderness , Watchtower Ruins , South Lake Miloch Sh , Giant's Mirror Sh ( Max Raid Battle ) ( Phony Form )",
+            "Shield": "Stony Wilderness , Watchtower Ruins , South Lake Miloch Sh , Giant's Mirror Sh ( Max Raid Battle ) ( Phony Form )",
+            "Expansion Pass": "Old Cemetery ( Wanderer ) ( Phony Form ) Giant's Bed , Old Cemetery , Ballimere Lake ( Max Raid Battle ) Max Lair ( Dynamax Adventure ) ( Phony Form )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 4★ , 5★ ) ( Phony Form )",
+            "Violet": "Tera Raid Battles ( 4★ , 5★ ) ( Phony Form )",
+            "The Hidden Treasure of Area Zero": "Evolve Sinistea"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Sinistea",
+            "to": "Polteageist",
+            "method": [
+                "Use Cracked Pot"
+            ]
+        }
+    ]
+}

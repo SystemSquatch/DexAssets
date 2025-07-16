@@ -1,0 +1,128 @@
+{
+    "name": "Treecko",
+    "pokedex_number": "#0252",
+    "types": [
+        "Grass",
+        "Unknown"
+    ],
+    "abilities": [
+        "Overgrow",
+        "Unburden"
+    ],
+    "stats": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Sp. Atk": 65,
+        "Sp. Def": 55,
+        "Speed": 70,
+        "Total": 310
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pok é mon attacks by slamming foes with its thick tail.",
+            "Sapphire": "Treecko is cool, calm, and collected - it never panics under any situation. If a bigger foe were to glare at this Pok é mon , it would glare right back without conceding an inch of ground.",
+            "Emerald": "It makes its nest in a giant tree in the forest. It ferociously guards against anything nearing its territory. It is said to be the protector of the forest's trees.",
+            "FireRed": "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day's weather.",
+            "LeafGreen": "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day's weather."
+        },
+        "Generation IV": {
+            "Diamond": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
+            "Pearl": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
+            "Platinum": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
+            "HeartGold": "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.",
+            "SoulSilver": "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above."
+        },
+        "Generation V": {
+            "Black": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
+            "White": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
+            "Black 2": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
+            "White 2": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings."
+        },
+        "Generation VI": {
+            "X": "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day's weather.",
+            "Y": "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.",
+            "Omega Ruby": "Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail.",
+            "Alpha Sapphire": "Treecko is cool, calm, and collected—it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "The soles of its feet are covered by countless tiny hooks, enabling it to walk on walls and ceilings.",
+            "Shining Pearl": "The soles of its feet are covered by countless tiny hooks, enabling it to walk on walls and ceilings."
+        },
+        "Generation IX": {
+            "Scarlet": "The small hooks on the soles of its feet latch on to walls and ceilings, so it will never fall even while hanging upside down.",
+            "Violet": "Treecko can quickly scale even vertical surfaces. It senses humidity with its tail to predict the next day’s weather."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "First partner Pokémon from Professor Birch on Route 101",
+            "Sapphire": "First partner Pokémon from Professor Birch on Route 101",
+            "Emerald": "First partner Pokémon from Professor Birch on Route 101",
+            "FireRed": "Trade , Event",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Trade",
+            "Pearl": "Trade",
+            "Platinum": "Trade",
+            "HeartGold": "Received from Steven Stone in Silph Co. after defeating Red",
+            "SoulSilver": "Received from Steven Stone in Silph Co. after defeating Red",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer , Global Link Event",
+            "White": "Poké Transfer , Global Link Event",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "First partner Pokémon from Professor Birch on Route 101",
+            "Alpha Sapphire": "First partner Pokémon from Professor Birch on Route 101"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Grovyle or Sceptile",
+            "Ultra Moon": "Breed Grovyle or Sceptile",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.3.0+",
+            "Shield": "Trade Version 1.3.0+",
+            "Expansion Pass": "Breed Grovyle or Sceptile",
+            "Brilliant Diamond": "Grand Underground - Grassland Cave , Sunlit Cavern , Riverbank Cave , Still-Water Cavern (after obtaining the National Pokédex )",
+            "Shining Pearl": "Grand Underground - Grassland Cave , Sunlit Cavern , Riverbank Cave , Still-Water Cavern (after obtaining the National Pokédex )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 3.0.0+",
+            "Violet": "Trade Version 3.0.0+",
+            "The Hidden Treasure of Area Zero": "Canyon Biome (after boosting biodiversity in the Canyon Biome)"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Treecko",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Treecko",
+            "to": "Grovyle",
+            "method": [
+                "Level 16"
+            ]
+        }
+    ]
+}

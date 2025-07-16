@@ -1,0 +1,111 @@
+{
+    "name": "Chimchar",
+    "pokedex_number": "#0390",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Blaze",
+        "Iron Fist"
+    ],
+    "stats": {
+        "HP": 44,
+        "Attack": 58,
+        "Defense": 44,
+        "Sp. Atk": 58,
+        "Sp. Def": 44,
+        "Speed": 61,
+        "Total": 309
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+            "Pearl": "Its fiery rear end is fueled by gas made in its belly. Even rain can't extinguish the fire.",
+            "Platinum": "It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.",
+            "HeartGold": "The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick.",
+            "SoulSilver": "The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick."
+        },
+        "Generation V": {
+            "Black": "It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.",
+            "White": "It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.",
+            "Black 2": "It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.",
+            "White 2": "It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires."
+        },
+        "Generation VI": {
+            "X": "Its fiery rear end is fueled by gas made in its belly. Even rain can't extinguish the fire.",
+            "Y": "The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick.",
+            "Omega Ruby": "Its fiery rear end is fueled by gas made in its belly. Even rain can't extinguish the fire.",
+            "Alpha Sapphire": "The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+            "Shining Pearl": "Its fiery rear end is fueled by gas made in its belly. Even rain can't extinguish the fire.",
+            "Legends: Arceus": "Full of vigor and always in high spirits. It was once known by the name \"Lantern-Tail\" and feared as some kind of apparition."
+        },
+        "Generation IX": {
+            "Scarlet": "It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.",
+            "Violet": "The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "First partner Pokémon from Professor Rowan 's briefcase at Lake Verity",
+            "Pearl": "First partner Pokémon from Professor Rowan 's briefcase at Lake Verity",
+            "Platinum": "First partner Pokémon from Professor Rowan 's briefcase on Route 201",
+            "HeartGold": "Trade , Event",
+            "SoulSilver": "Trade , Event"
+        },
+        "Generation V": {
+            "Black": "Global Link event",
+            "White": "Global Link event",
+            "Black 2": "Global Link event",
+            "White 2": "Global Link event"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Received from Professor Birch on Route 101 after entering the Hall of Fame twice",
+            "Alpha Sapphire": "Received from Professor Birch on Route 101 after entering the Hall of Fame twice"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Breed Monferno or Infernape",
+            "Ultra Moon": "Breed Monferno or Infernape",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "First partner Pokémon from Professor Rowan 's briefcase at Lake Verity Grand Underground - Sandsear Cave , Typhlo Cavern , Volcanic Cave (after obtaining the National Pokédex )",
+            "Shining Pearl": "First partner Pokémon from Professor Rowan 's briefcase at Lake Verity Grand Underground - Sandsear Cave , Typhlo Cavern , Volcanic Cave (after obtaining the National Pokédex )",
+            "Legends: Arceus": "Obsidian Fieldlands : Deertrack Heights , Windswept Run (only one during Request 20), Ramanas Island , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Received as an Egg from Jacq on Reveler's Road (random between Turtwig, Chimchar and Piplup) Chargestone Cavern , Polar Biome (after boosting biodiversity in the Polar Biome)"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Chimchar",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Chimchar",
+            "to": "Monferno",
+            "method": [
+                "Level 14"
+            ]
+        }
+    ]
+}

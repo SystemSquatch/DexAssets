@@ -1,0 +1,129 @@
+{
+    "name": "Zigzagoon",
+    "pokedex_number": "#0263",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Pickup",
+        "Gluttony",
+        "Quick Feet"
+    ],
+    "stats": {
+        "HP": 38,
+        "Attack": 30,
+        "Defense": 41,
+        "Sp. Atk": 30,
+        "Sp. Def": 41,
+        "Speed": 60,
+        "Total": 240
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Zigzagoon restlessly wanders everywhere at all times. This Pok é mon does so because it is very curious. It becomes interested in anything that it happens to see.",
+            "Sapphire": "The hair on Zigzagoon 's back is bristly. It rubs the hard back hair against trees to leave its territorial markings. This Pok é mon may play dead to fool foes in battle.",
+            "Emerald": "Rubbing its nose against the ground, it always wanders about back and forth in search of something. It is distinguished by the zigzag footprints it leaves.",
+            "FireRed": "A Pok é mon with abundant curiosity. It shows an interest in everything, so it always zigs and zags.",
+            "LeafGreen": "A Pok é mon with abundant curiosity. It shows an interest in everything, so it always zigs and zags."
+        },
+        "Generation IV": {
+            "Diamond": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
+            "Pearl": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
+            "Platinum": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
+            "HeartGold": "It gets interested in everything, which is why it zigs and zags. It is good at finding items.",
+            "SoulSilver": "It gets interested in everything, which is why it zigs and zags. It is good at finding items."
+        },
+        "Generation V": {
+            "Black": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
+            "White": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
+            "Black 2": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
+            "White 2": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground."
+        },
+        "Generation VI": {
+            "X": "It walks in zigzag fashion. It's good at finding items in the grass and even in the ground.",
+            "Y": "A Pokémon with abundant curiosity. It shows an interest in everything, so it always zigzags.",
+            "Omega Ruby": "Zigzagoon restlessly wanders everywhere at all times. This Pokémon does so because it is very curious. It becomes interested in anything that it happens to see.",
+            "Alpha Sapphire": "The hair on Zigzagoon's back is bristly. It rubs the hard back hair against trees to leave its territorial markings. This Pokémon may play dead to fool foes in battle."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "Its restlessness has it constantly running around. If it sees another Pokémon, it will purposely run into them in order to start a fight.",
+            "Shield": "Thought to be the oldest form of Zigzagoon, it moves in zigzags and wreaks havoc upon its surroundings.",
+            "Brilliant Diamond": "It walks in zigzag fashion. It's good at finding items in the grass and even in the ground.",
+            "Shining Pearl": "It walks in zigzag fashion. It's good at finding items in the grass and even in the ground."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation III.": {},
+        "Generation III": {
+            "Ruby": "Routes 101 , 102 , 103 , 104 , 110 , 116 , 117 , 118 , 119 , 120 , 121 , and 123 , Petalburg Woods",
+            "Sapphire": "Routes 101 , 102 , 103 , 104 , 110 , 116 , 117 , 118 , 119 , 120 , 121 , and 123 , Petalburg Woods",
+            "Emerald": "Routes 101 , 102 , 103 , 118 , and 119",
+            "FireRed": "Trade",
+            "LeafGreen": "Trade",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 202 ( Swarm )",
+            "Pearl": "Route 202 ( Swarm )",
+            "Platinum": "Route 202 ( Swarm )",
+            "HeartGold": "Safari Zone (Plains with 15 Forest points; Savannah with 10 Plains points) Sprout Tower , Bell Tower , Burned Tower (Hoenn Sound)",
+            "SoulSilver": "Safari Zone (Plains with 15 Forest points; Savannah with 10 Plains points) Sprout Tower , Bell Tower , Burned Tower (Hoenn Sound)",
+            "Pal Park": "Field",
+            "Pokéwalker": "Hoenn Field"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Route 2",
+            "Y": "Route 2",
+            "Omega Ruby": "Routes 101 , 102 , 103 , 104 , 110 , 116 , and 117 , Petalburg Woods",
+            "Alpha Sapphire": "Routes 101 , 102 , 103 , 104 , 110 , 116 , and 117 , Petalburg Woods"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+ ( Hoennian Form ) Routes 2 and 3 , Bridge Field , Giant's Cap , Stony Wilderness ( Galarian Form ) Bridge Field , Dusty Bowl , Giant's Mirror , Motostoke Riverbank , Stony Wilderness , West Lake Axewell ( Max Raid Battle ) ( Galarian Form )",
+            "Shield": "Trade Version 1.2.0+ ( Hoennian Form ) Routes 2 and 3 , Bridge Field , Giant's Cap , Stony Wilderness ( Galarian Form ) Bridge Field , Dusty Bowl , Giant's Mirror , Motostoke Riverbank , Stony Wilderness , West Lake Axewell ( Max Raid Battle ) ( Galarian Form )",
+            "Expansion Pass": "Trade Galarian Zigzagoon with Regina on Isle of Armor ( Hoennian Form )",
+            "Brilliant Diamond": "Route 202 ( Swarm ) ( Hoennian Form ) Grand Underground - Spacious Cave , Rocky Cave , Big Bluff Cavern (After obtaining the National Pokédex ) ( Hoennian Form ) Unobtainable ( Galarian Form )",
+            "Shining Pearl": "Route 202 ( Swarm ) ( Hoennian Form ) Grand Underground - Spacious Cave , Rocky Cave , Big Bluff Cavern (After obtaining the National Pokédex ) ( Hoennian Form ) Unobtainable ( Galarian Form )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Zigzagoon",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Zigzagoon",
+            "to": "Linoone",
+            "method": [
+                "Level 20"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "name": "Lickilicky",
+    "pokedex_number": "#0463",
+    "types": [
+        "Normal",
+        "Unknown"
+    ],
+    "abilities": [
+        "Own Tempo",
+        "Oblivious",
+        "Cloud Nine"
+    ],
+    "stats": {
+        "HP": 110,
+        "Attack": 85,
+        "Defense": 95,
+        "Sp. Atk": 80,
+        "Sp. Def": 95,
+        "Speed": 50,
+        "Total": 515
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
+            "Pearl": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
+            "Platinum": "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.",
+            "HeartGold": "Its saliva can decompose anything. It wraps its long tongue around things to coat them with its sticky saliva.",
+            "SoulSilver": "It has space in its throat to store saliva. It can also roll up its tongue and store it in the same spot."
+        },
+        "Generation V": {
+            "Black": "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.",
+            "White": "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.",
+            "Black 2": "Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate.",
+            "White 2": "Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate."
+        },
+        "Generation VI": {
+            "X": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
+            "Y": "Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate.",
+            "Omega Ruby": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
+            "Alpha Sapphire": "Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate."
+        },
+        "Generation VII": {
+            "Ultra Sun": "A contest is under way to determine which one can stick its tongue out the farthest. The current record is...more than 82 feet .",
+            "Ultra Moon": "It uses its tongue much more skillfully than its hands or its feet. It can deftly pick up a single small bean with its tongue."
+        },
+        "Generation VIII": {
+            "Sword": "Lickilicky's strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky's tongue can stretch so far.",
+            "Shield": "Lickilicky can do just about anything with its tongue, which is as dexterous as the human hand. In contrast, Lickilicky's use of its fingers is clumsy.",
+            "Brilliant Diamond": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
+            "Shining Pearl": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
+            "Legends: Arceus": "Its tongue can extend and contract freely, and it is capable of reaching lengths over 10 times Lickilicky's height. Beware of the saliva, as it contains corrosive elements."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Evolve Lickitung",
+            "Pearl": "Evolve Lickitung",
+            "Platinum": "Evolve Lickitung",
+            "HeartGold": "Evolve Lickitung",
+            "SoulSilver": "Evolve Lickitung"
+        },
+        "Generation V": {
+            "Black": "Evolve Lickitung",
+            "White": "Evolve Lickitung",
+            "Black 2": "Route 2 ( rustling grass )",
+            "White 2": "Route 2 ( rustling grass )"
+        },
+        "Generation VI": {
+            "X": "Evolve Lickitung",
+            "Y": "Evolve Lickitung",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Evolve Lickitung",
+            "Ultra Moon": "Evolve Lickitung",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Soothing Wetlands",
+            "Brilliant Diamond": "Evolve Lickitung",
+            "Shining Pearl": "Evolve Lickitung",
+            "Legends: Arceus": "Obsidian Fieldlands : Space-time distortions Crimson Mirelands : Shrouded Ruins (also mass outbreaks ), massive mass outbreaks Alabaster Icelands : Avalanche Slopes , massive mass outbreaks"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Lickitung",
+            "to": "Lickilicky",
+            "method": [
+                "Level up (knowing Rollout)"
+            ]
+        }
+    ]
+}

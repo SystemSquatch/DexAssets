@@ -1,0 +1,162 @@
+{
+    "name": "Psyduck",
+    "pokedex_number": "#0054",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Damp",
+        "Cloud Nine",
+        "Swift Swim"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 52,
+        "Defense": 48,
+        "Sp. Atk": 65,
+        "Sp. Def": 50,
+        "Speed": 55,
+        "Total": 320
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "While lulling its enemies with its vacant look, this wily Pok é mon will use psychokinetic powers.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "While lulling its enemies with its vacant look, this wily Pok é mon will use psychokinetic powers.",
+            "Yellow": "Always tormented by headaches. It uses psychic powers, but it is not known if it intends to do so.",
+            "Stadium": "Appears unaware and totally vacant. However, if its chronic headache worsens, it starts exhibiting peculiar powers."
+        },
+        "Generation II": {
+            "Gold": "It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.",
+            "Silver": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
+            "Crystal": "The only time it can use its psychic power is when its sleeping brain cells happen to wake.",
+            "Stadium 2": "It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled. (Pokémon Red, Silver, or Crystal inserted) If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Psyduck uses a mysterious power. When it does so, this Pok é mon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
+            "Sapphire": "If it uses its mysterious power, Psyduck can't remember having done so. It apparently can't form a memory of such an event because it goes into an altered state that is much like deep sleep.",
+            "Emerald": "When its headache intensifies, it starts using strange powers. However, it has no recollection of its powers, so it always looks befuddled and bewildered.",
+            "FireRed": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+            "LeafGreen": "While lulling its enemies with its vacant look, this wily Pok é mon will use psychokinetic powers."
+        },
+        "Generation IV": {
+            "Diamond": "If its usual headache worsens, it starts exhibiting odd powers. It can't remember doing so, however.",
+            "Pearl": "It never remembers using its odd powers, so it always tilts its head in puzzlement.",
+            "Platinum": "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
+            "HeartGold": "It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.",
+            "SoulSilver": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode."
+        },
+        "Generation V": {
+            "Black": "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
+            "White": "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
+            "Black 2": "When headaches stimulate its brain cells, which are usually inactive, it can use a mysterious power.",
+            "White 2": "When headaches stimulate its brain cells, which are usually inactive, it can use a mysterious power."
+        },
+        "Generation VI": {
+            "X": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+            "Y": "It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.",
+            "Omega Ruby": "Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
+            "Alpha Sapphire": "If it uses its mysterious power, Psyduck can't remember having done so. It apparently can't form a memory of such an event because it goes into an altered state that is much like deep sleep."
+        },
+        "Generation VII": {
+            "Sun": "As a result of headaches so fierce they cause it to cry, it sometimes uses psychokinesis without meaning to.",
+            "Moon": "This Pokémon is troubled by constant headaches. The more pain it's in, the more powerful its psychokinesis becomes.",
+            "Ultra Sun": "Using psychokinesis gives it a headache, so it normally passes the time spacing out and doing as little as possible.",
+            "Ultra Moon": "It has been found that its brain cells are 10 times more active when Psyduck is experiencing a headache.",
+            "Let's Go Pikachu": "Always tormented by headaches. It uses psychic powers, but whether it intends to do so is not known.",
+            "Let's Go Eevee": "Always tormented by headaches. It uses psychic powers, but whether it intends to do so is not known."
+        },
+        "Generation VIII": {
+            "Sword": "Psyduck is constantly beset by headaches. If the Pokémon lets its strange power erupt, apparently the pain subsides for a while.",
+            "Shield": "As Psyduck gets stressed out, its headache gets progressively worse. It uses intense psychic energy to overwhelm those around it.",
+            "Brilliant Diamond": "If its usual headache worsens, it starts exhibiting odd powers. It can't remember doing so, however.",
+            "Shining Pearl": "It never remembers using its odd powers, so it always tilts its head in puzzlement.",
+            "Legends: Arceus": "Suffers perpetual headaches. If the agony grows too great, Psyduck's latent power erupts, contrary to Psyduck's intent. Ergo, I am exploring ways to ease the pain."
+        },
+        "Generation IX": {
+            "Scarlet": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+            "Violet": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Seafoam Islands Routes 24 and 25 , Cerulean City , Cerulean Gym , Safari Zone ( Super Rod )",
+            "Blue": "Seafoam Islands Routes 24 and 25 , Cerulean City , Cerulean Gym , Safari Zone ( Super Rod )",
+            "Blue (Japan)": "Routes 24 and 25 , Cerulean City , Cerulean Gym , Safari Zone ( Super Rod )",
+            "Yellow": "Route 6 ( Surfing )"
+        },
+        "Generation II": {
+            "Gold": "Routes 6 and 35 , Ilex Forest ( Surfing )",
+            "Silver": "Routes 6 and 35 , Ilex Forest ( Surfing )",
+            "Crystal": "Routes 6 and 35 , Ilex Forest ( Surfing ) Routes 6 and 35 , Ilex Forest , National Park Night"
+        },
+        "Generation III": {
+            "Ruby": "Safari Zone",
+            "Sapphire": "Safari Zone",
+            "Emerald": "Safari Zone",
+            "FireRed": "Celadon City ( Surfing ) Routes 4 , 10 , 11 , 12 , 13 , 19 , 20 , 21 , 24 , Water Labyrinth , Resort Gorgeous , Memorial Pillar , Green Path , Outcast Island , Tanoby Ruins , Pallet Town , Cerulean City , Vermilion City , Cinnabar Island , One Island , Five Island , Trainer Tower ( Super Rod ) Routes 6 , 22 , 23 , 25 , Viridian City , Fuchsia City , Four Island , Cerulean Cave , Safari Zone ( Surfing and Super Rod ) Treasure Beach , Kindle Road , Bond Bridge , Five Isle Meadow , Ruin Valley , Water Path (walking and Super Rod ) Cape Brink , Berry Forest , Seafoam Islands , Icefall Cave (walking, Surfing , and Super Rod ) Canyon Entrance",
+            "LeafGreen": "Trade , Event",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Routes 203 , 204 , 205 , 209 , 212 , 214 , Twinleaf Town , Eterna City , Lake Verity , Celestic Town ( Surfing ) Routes 208 , 210 , Lake Acuity , Lake Valor , Great Marsh , Oreburgh Gate , Ravaged Path (walking and Surfing )",
+            "Pearl": "Routes 203 , 204 , 205 , 209 , 212 , 214 , Twinleaf Town , Eterna City , Lake Verity , Celestic Town ( Surfing ) Routes 208 , 210 , Lake Acuity , Lake Valor , Great Marsh , Oreburgh Gate , Ravaged Path (walking and Surfing )",
+            "Platinum": "Routes 203 , 204 , 205 , 208 , 209 , 210 , 212 , 214 , 225 , Twinleaf Town , Eterna City , Lake Verity , Resort Area , Celestic Town ( Surfing ) Oreburgh Gate , Ravaged Path , Lake Acuity , Lake Valor (walking and Surfing )",
+            "HeartGold": "Routes 6 and 35 , Ilex Forest , Seafoam Islands , Cerulean Cave Safari Zone (tall grass Night and Surfing in Wetland, default)",
+            "SoulSilver": "Routes 6 and 35 , Ilex Forest , Seafoam Islands , Cerulean Cave Safari Zone (tall grass Night and Surfing in Wetland, default)",
+            "Pal Park": "Pond",
+            "Pokéwalker": "Beautiful Beach , Stormy Beach"
+        },
+        "Generation V": {
+            "Black": "Breed Golduck",
+            "White": "Breed Golduck",
+            "Black 2": "Floccesy Ranch",
+            "White 2": "Floccesy Ranch",
+            "Dream World": "Pleasant Forest"
+        },
+        "Generation VI": {
+            "X": "Route 7 ( Horde Encounter ) Route 22 (walking and Surfing )",
+            "Y": "Route 7 ( Horde Encounter ) Route 22 (walking and Surfing )",
+            "Omega Ruby": "Safari Zone (walking and Surfing )",
+            "Alpha Sapphire": "Safari Zone (walking and Surfing )"
+        },
+        "Generation VII": {
+            "Sun": "Malie Garden Brooklet Hill , Seaward Cave , Ten Carat Hill (walking and Surfing )",
+            "Moon": "Malie Garden Brooklet Hill , Seaward Cave , Ten Carat Hill (walking and Surfing )",
+            "Ultra Sun": "Malie Garden Brooklet Hill , Seaward Cave , Ten Carat Hill , Sandy Cave (walking and Surfing )",
+            "Ultra Moon": "Malie Garden Brooklet Hill , Seaward Cave , Ten Carat Hill , Sandy Cave (walking and Surfing )",
+            "Let's Go Pikachu": "Routes 4 , 6 , 17 , 24 , 25 and Cerulean Cave",
+            "Let's Go Eevee": "Routes 4 , 6 , 17 , 24 , 25 and Cerulean Cave"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+",
+            "Shield": "Trade Version 1.2.0+",
+            "Expansion Pass": "Challenge Beach , Brawlers' Cave Soothing Wetlands , Forest of Focus , Challenge Beach , Courageous Cavern ( Max Raid Battle )",
+            "Brilliant Diamond": "Routes 203 , 204 , 205 , 209 , 212 , 214 , Twinleaf Town , Eterna City , Lake Verity , Celestic Town ( Surfing ) Routes 208 , 210 , Lake Acuity , Lake Valor , Great Marsh , Oreburgh Gate , Ravaged Path (walking and Surfing ) Grand Underground - Spacious Cave , Fountainspring Cave , Riverbank Cave , Still-Water Cavern",
+            "Shining Pearl": "Routes 203 , 204 , 205 , 209 , 212 , 214 , Twinleaf Town , Eterna City , Lake Verity , Celestic Town ( Surfing ) Routes 208 , 210 , Lake Acuity , Lake Valor , Great Marsh , Oreburgh Gate , Ravaged Path (walking and Surfing ) Grand Underground - Spacious Cave , Fountainspring Cave , Riverbank Cave , Still-Water Cavern",
+            "Legends: Arceus": "Obsidian Fieldlands : The Heartwood Crimson Mirelands : Golden Lowlands , Gapejaw Bog , Holm of Trials , massive mass outbreaks Cobalt Coastlands : Bathers' Lagoon , massive mass outbreaks Coronet Highlands : Wayward Wood , Lonely Spring"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: Area One , Area Four , Area Five , Area Six East Province: Area Two , Area Three , Tagtree Thicket West Province: Area One , Area Two , Area Three North Province: Area Two , Casseroya Lake , Glaseado Mountain Tera Raid Battles ( 2★ )",
+            "Violet": "South Province: Area One , Area Four , Area Five , Area Six East Province: Area Two , Area Three , Tagtree Thicket West Province: Area One , Area Two , Area Three North Province: Area Two , Casseroya Lake , Glaseado Mountain Tera Raid Battles ( 2★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Psyduck",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Psyduck",
+            "to": "Golduck",
+            "method": [
+                "Level 33"
+            ]
+        }
+    ]
+}

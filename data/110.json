@@ -1,0 +1,150 @@
+{
+    "name": "Weezing",
+    "pokedex_number": "#0110",
+    "types": [
+        "Poison",
+        "Unknown"
+    ],
+    "abilities": [
+        "Levitate",
+        "Neutralizing Gas",
+        "Stench",
+        "Misty Surge"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 120,
+        "Sp. Atk": 85,
+        "Sp. Def": 70,
+        "Speed": 60,
+        "Total": 490
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Where two kinds of poison gases meet, 2 Koffing s can fuse into a Weezing over many years.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Where two kinds of poison gases meet, 2 Koffing s can fuse into a Weezing over many years.",
+            "Yellow": "It lives and grows by absorbing dust, germs and poison gases that are contained in toxic waste and garbage.",
+            "Stadium": "A twinned Koffing that forms on rare occasions where poisonous gases pool. Its two toxic gases appear to be different."
+        },
+        "Generation II": {
+            "Gold": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
+            "Silver": "Top-grade perfume is made using its internal poison gases by diluting them to the highest level.",
+            "Crystal": "When it inhales poisonous gases from garbage, its body expands, and its insides smell much worse.",
+            "Stadium 2": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases. (Pokémon Red, Silver, or Crystal inserted) Top-grade perfume is made using its internal poison gases by diluting them to the highest level. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Weezing loves the gases given off by rotted kitchen garbage. This Pok é mon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
+            "Sapphire": "Weezing alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The Pok é mon also becomes more putrid.",
+            "Emerald": "By diluting its toxic gases with a special process, the highest grade of perfume can be extracted. To Weezing , gases emanating from garbage are the ultimate feast.",
+            "FireRed": "Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing .",
+            "LeafGreen": "Where two kinds of poison gases meet, two Koffing can fuse into a Weezing over many years."
+        },
+        "Generation IV": {
+            "Diamond": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+            "Pearl": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+            "Platinum": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+            "HeartGold": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
+            "SoulSilver": "Top-grade perfume is made using its internal poison gases by diluting them to the highest level."
+        },
+        "Generation V": {
+            "Black": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+            "White": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+            "Black 2": "Inhaling toxic fumes from trash and mixing them inside its body lets it spread an even fouler stench.",
+            "White 2": "Inhaling toxic fumes from trash and mixing them inside its body lets it spread an even fouler stench."
+        },
+        "Generation VI": {
+            "X": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
+            "Y": "Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing.",
+            "Omega Ruby": "Weezing loves the gases given off by rotted kitchen garbage. This Pokémon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
+            "Alpha Sapphire": "Weezing alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The Pokémon also becomes more putrid."
+        },
+        "Generation VII": {
+            "Let's Go Pikachu": "This Pokémon lives and grows by absorbing poison gas, dust, and germs that exist inside garbage.",
+            "Let's Go Eevee": "This Pokémon lives and grows by absorbing poison gas, dust, and germs that exist inside garbage."
+        },
+        "Generation VIII": {
+            "Sword": "This Pokémon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air.",
+            "Shield": "Long ago, during a time when droves of factories fouled the air with pollution, Weezing changed into this form for some reason.",
+            "Brilliant Diamond": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+            "Shining Pearl": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found."
+        },
+        "Generation IX": {
+            "Scarlet": "Top-grade perfume is made using its internal poison gases by diluting them to the highest level.",
+            "Violet": "When it inhales poisonous gases from garbage, its body expands, and its insides smell much worse."
+        }
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Pokémon Mansion",
+            "Blue": "Pokémon Mansion",
+            "Blue (Japan)": "Pokémon Mansion",
+            "Yellow": "Trade"
+        },
+        "Generation II": {
+            "Gold": "Evolve Koffing",
+            "Silver": "Evolve Koffing",
+            "Crystal": "Burned Tower"
+        },
+        "Generation III": {
+            "Ruby": "Evolve Koffing",
+            "Sapphire": "Evolve Koffing",
+            "Emerald": "Evolve Koffing",
+            "FireRed": "Pokémon Mansion",
+            "LeafGreen": "Evolve Koffing",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 227 , Stark Mountain",
+            "Pearl": "Route 227 , Stark Mountain",
+            "Platinum": "Route 227 , Stark Mountain",
+            "HeartGold": "Safari Zone (tall grass in Marshland, default Morning Day )",
+            "SoulSilver": "Safari Zone (tall grass in Marshland, default Morning Day )",
+            "Pal Park": "Mountain"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Trade",
+            "Black 2": "P2 Laboratory",
+            "White 2": "P2 Laboratory"
+        },
+        "Generation VI": {
+            "X": "Trade",
+            "Y": "Trade",
+            "Omega Ruby": "Evolve Koffing",
+            "Alpha Sapphire": "Evolve Koffing"
+        },
+        "Generation VII": {
+            "Sun": "Pokémon Bank",
+            "Moon": "Pokémon Bank",
+            "Ultra Sun": "Pokémon Bank",
+            "Ultra Moon": "Pokémon Bank",
+            "Let's Go Pikachu": "Trade",
+            "Let's Go Eevee": "Power Plant , Pokémon Mansion"
+        },
+        "Generation VIII": {
+            "Sword": "Trade Version 1.2.0+ ( Kantonian Form ) East Lake Axewell , Lake of Outrage , Slumbering Weald ( Galarian Form ) East Lake Axewell , Giant's Cap , Hammerlocke Hills , Motostoke Riverbank , North Lake Miloch ( Max Raid Battle ) ( Galarian Form )",
+            "Shield": "Trade Version 1.2.0+ ( Kantonian Form ) East Lake Axewell , Lake of Outrage , Slumbering Weald ( Galarian Form ) East Lake Axewell , Giant's Cap , Hammerlocke Hills , Motostoke Riverbank , North Lake Miloch ( Max Raid Battle ) ( Galarian Form )",
+            "Expansion Pass": "Trade Galarian Weezing with Regina on Isle of Armor ( Kantonian Form ) Frostpoint Field , Giant's Bed , Snowslide Slope , Frigid Sea , Ballimere Lake ( Max Raid Battle ) ( Galarian Form ) Max Lair ( Dynamax Adventure ) ( Kantonian Form ) Max Lair ( Dynamax Adventure ) ( Galarian Form )",
+            "Brilliant Diamond": "Route 227 , Stark Mountain ( Kantonian Form ) Grand Underground - Swampy Cave , Bogsunk Cavern (After obtaining the National Pokédex ) ( Kantonian Form ) Unobtainable ( Galarian Form )",
+            "Shining Pearl": "Route 227 , Stark Mountain ( Kantonian Form ) Grand Underground - Swampy Cave , Bogsunk Cavern (After obtaining the National Pokédex ) ( Kantonian Form ) Unobtainable ( Galarian Form )",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Evolve Koffing ( Kantonian Form ) Evolve Koffing in Pokémon Sword and Shield via Pokémon HOME ( Galarian Form )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Koffing",
+            "to": "Weezing",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "name": "Rotom",
+    "pokedex_number": "#0479",
+    "types": [
+        "Electric",
+        "Ghost"
+    ],
+    "abilities": [
+        "Levitate"
+    ],
+    "stats": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 77,
+        "Sp. Atk": 95,
+        "Sp. Def": 77,
+        "Speed": 91,
+        "Total": 440
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+            "Pearl": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+            "Platinum": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
+            "HeartGold": "Research continues on this Pokémon, which could be the power source of a unique motor.",
+            "SoulSilver": "Research continues on this Pokémon, which could be the power source of a unique motor."
+        },
+        "Generation V": {
+            "Black": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
+            "White": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
+            "Black 2": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
+            "White 2": "Its electric-like body can enter some kinds of machines and take control in order to make mischief."
+        },
+        "Generation VI": {
+            "X": "Research continues on this Pokémon, which could be the power source of a unique motor.",
+            "Y": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+            "Omega Ruby": "Research continues on this Pokémon, which could be the power source of a unique motor.",
+            "Alpha Sapphire": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Sword": "This is Rotom after it's seized control of a lawn mower that has a special motor. As it mows down grass, it scatters the clippings everywhere.",
+            "Shield": "In this form, Rotom focuses its antics on plants. Any flowers you were growing are going to get mowed down.",
+            "Brilliant Diamond": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+            "Shining Pearl": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+            "Legends: Arceus": "A form in which Rotom lurks within a misshapen wheelbarrow. The wheelbarrow's mechanisms are bizarre. It's a bothersome Pokémon, causing trouble by mowing down grass and trees."
+        },
+        "Generation IX": {
+            "Scarlet": "The lawn mower is one of the household appliances that led to the development of the Rotom Dex.",
+            "Violet": "This Rotom has possessed a lawn mower. It will mow down grass and flowers, then swagger around with pride at its accomplishments."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "TV in Old Chateau Night ( Only one ) (After obtaining the National Pokédex )",
+            "Pearl": "TV in Old Chateau Night ( Only one ) (After obtaining the National Pokédex )",
+            "Platinum": "TV in Old Chateau Night ( Only one )",
+            "HeartGold": "Trade",
+            "SoulSilver": "Trade"
+        },
+        "Generation V": {
+            "Black": "Trade Ditto on Route 15",
+            "White": "Trade Ditto on Route 15",
+            "Black 2": "Trade Ditto on Route 15 Transfer from Dream Radar",
+            "White 2": "Trade Ditto on Route 15 Transfer from Dream Radar",
+            "Dream World": "Spooky Manor"
+        },
+        "Generation VI": {
+            "X": "Lost Hotel (Shaking trash cans) Tu ( All Forms )",
+            "Y": "Lost Hotel (Shaking trash cans) Tu ( All Forms )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Poni Gauntlet ( Island Scan ) Tu",
+            "Ultra Moon": "Poni Gauntlet ( Island Scan ) Tu",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Lake of Outrage Hammerlocke Hills ( Max Raid Battle ) ( Heat/Wash/Frost/Fan/Mow Rotom )",
+            "Shield": "Lake of Outrage Hammerlocke Hills ( Max Raid Battle ) ( Heat/Wash/Frost/Fan/Mow Rotom )",
+            "Expansion Pass": "Workout Sea ( Wanderer ) ( All Forms ) Max Lair ( Dynamax Adventure )",
+            "Brilliant Diamond": "TV in Old Chateau Night ( Only one ) (After obtaining the National Pokédex )",
+            "Shining Pearl": "TV in Old Chateau Night ( Only one ) (After obtaining the National Pokédex )",
+            "Legends: Arceus": "Coronet Highlands : Celestica Ruins (in boxes), Sacred Plaza (also in boxes), Stonetooth Rows"
+        },
+        "Generation IX": {
+            "Scarlet": "East Province: Area Two West Province: Area Two Tera Raid Battles ( 4★ , 5★ )",
+            "Violet": "East Province: Area Two West Province: Area Two Tera Raid Battles ( 4★ , 5★ )",
+            "The Hidden Treasure of Area Zero": "Savanna Biome , Coastal Biome , Torchlit Labyrinth , Canyon Biome , Chargestone Cavern , Polar Biome"
+        }
+    },
+    "evolution": []
+}

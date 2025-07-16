@@ -1,0 +1,99 @@
+{
+    "name": "Manaphy",
+    "pokedex_number": "#0490",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Hydration"
+    ],
+    "stats": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Sp. Atk": 100,
+        "Sp. Def": 100,
+        "Speed": 100,
+        "Total": 600
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
+            "Pearl": "Water makes up 80% of its body. This Pokémon is easily affected by its environment.",
+            "Platinum": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
+            "HeartGold": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
+            "SoulSilver": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon."
+        },
+        "Generation V": {
+            "Black": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
+            "White": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
+            "Black 2": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
+            "White 2": "It is born with a wondrous power that lets it bond with any kind of Pokémon."
+        },
+        "Generation VI": {
+            "X": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
+            "Y": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
+            "Omega Ruby": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
+            "Alpha Sapphire": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
+            "Shining Pearl": "Water makes up 80 percent of its body. This Pokémon is easily affected by its environment.",
+            "Legends: Arceus": "Rumored to migrate across the oceans and visit Hisui's coastal waters only rarely. Although Manaphy resembles Phione , it is also quite different. The relation between the two is unclear."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Hatch Egg transferred from a Pokémon Ranger game",
+            "Pearl": "Hatch Egg transferred from a Pokémon Ranger game",
+            "Platinum": "Hatch Egg transferred from a Pokémon Ranger game",
+            "HeartGold": "Hatch Egg transferred from a Pokémon Ranger game",
+            "SoulSilver": "Hatch Egg transferred from a Pokémon Ranger game"
+        },
+        "Generation V": {
+            "Black": "Poké Transfer",
+            "White": "Poké Transfer",
+            "Black 2": "Poké Transfer",
+            "White 2": "Poké Transfer"
+        },
+        "Generation VI": {
+            "X": "Event",
+            "Y": "Event",
+            "Omega Ruby": "Event",
+            "Alpha Sapphire": "Event"
+        },
+        "Generation VII": {
+            "Sun": "Event",
+            "Moon": "Event",
+            "Ultra Sun": "Event",
+            "Ultra Moon": "Event",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Event",
+            "Shining Pearl": "Event",
+            "Legends: Arceus": "Cobalt Coastlands : Seaside Hollow ( Only one ) (During Request 66: \"The Sea's Legend\")"
+        },
+        "Generation IX": {
+            "Scarlet": "Pokémon HOME Version 2.0.1+",
+            "Violet": "Pokémon HOME Version 2.0.1+"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Phione",
+            "to": "Manaphy",
+            "method": [
+                "Unknown"
+            ]
+        }
+    ]
+}

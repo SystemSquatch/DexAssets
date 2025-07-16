@@ -1,0 +1,103 @@
+{
+    "name": "Vullaby",
+    "pokedex_number": "#0629",
+    "types": [
+        "Dark",
+        "Flying"
+    ],
+    "abilities": [
+        "Big Pecks",
+        "Overcoat",
+        "Weak Armor"
+    ],
+    "stats": {
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 75,
+        "Sp. Atk": 45,
+        "Sp. Def": 65,
+        "Speed": 60,
+        "Total": 370
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.",
+            "White": "They tend to guard their posteriors with suitable bones they have found. They pursue weak Pokémon.",
+            "Black 2": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
+            "White 2": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz."
+        },
+        "Generation VI": {
+            "X": "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.",
+            "Y": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
+            "Omega Ruby": "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.",
+            "Alpha Sapphire": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz."
+        },
+        "Generation VII": {
+            "Sun": "It protects its plump posterior with the bones of prey it has consumed. As it grows, it replaces the bones.",
+            "Moon": "It can't fly yet and must wait until its wings have developed more. Since it's still at a playful age, it hops around friskily.",
+            "Ultra Sun": "Mandibuzz gives it the bones it wears. Vullaby's wings are short, so it can't fly yet, but it jumps around, dreaming of wide open skies.",
+            "Ultra Moon": "Its healthy appetite leads to visible growth spurts. It often has to replace the bones it wears as its size increases."
+        },
+        "Generation VIII": {
+            "Sword": "It wears a bone to protect its rear. It often squabbles with others of its kind over particularly comfy bones.",
+            "Shield": "Vullaby grow quickly. Bones that have gotten too small for older Vullaby to wear often get passed down to younger ones in the nest."
+        },
+        "Generation IX": {
+            "Scarlet": "They tend to guard their posteriors with suitable bones they have found. They pursue weak Pokémon.",
+            "Violet": "Its healthy appetite leads to visible growth spurts. It often has to replace the bones it wears as its size increases."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation V.": {},
+        "Generation V": {
+            "Black": "Routes 10 and 11 , Victory Road , Village Bridge",
+            "White": "Trade",
+            "Black 2": "Route 23",
+            "White 2": "Trade"
+        },
+        "Generation VI": {
+            "X": "Friend Safari ( Dark )",
+            "Y": "Friend Safari ( Dark )",
+            "Omega Ruby": "Mirage Mountain (northeast of Route 125 )",
+            "Alpha Sapphire": "Mirage Mountain (northeast of Route 125 )"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Route 3 , Poké Pelago",
+            "Ultra Sun": "Trade",
+            "Ultra Moon": "Route 3",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Trade",
+            "Shield": "Route 8 , Stony Wilderness , Bridge Field Rolling Fields , East Lake Axewell , West Lake Axewell , Bridge Field , Stony Wilderness , Giant's Mirror , Dusty Bowl ( Max Raid Battle )",
+            "Shield Expansion Pass": "Potbottom Desert Loop Lagoon ( Max Raid Battle )",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade Version 2.0.1+",
+            "Violet": "Trade Version 2.0.1+",
+            "The Hidden Treasure of Area Zero": "Fellhorn Gorge , Oni Mountain , Wistful Fields , Paradise Barrens , Kitakami Wilds Savanna Biome Tera Raid Battles ( 3★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Vullaby",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Vullaby",
+            "to": "Mandibuzz",
+            "method": [
+                "Level 54"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "name": "Floatzel",
+    "pokedex_number": "#0419",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Swift Swim",
+        "Water Veil"
+    ],
+    "stats": {
+        "HP": 85,
+        "Attack": 105,
+        "Defense": 55,
+        "Sp. Atk": 85,
+        "Sp. Def": 50,
+        "Speed": 115,
+        "Total": 495
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "It floats using its well-developed flotation sac. It assists in the rescues of drowning people.",
+            "Pearl": "Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft.",
+            "Platinum": "It is a common sight around fishing ports. It is known to rescue people and carry off prey.",
+            "HeartGold": "With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives.",
+            "SoulSilver": "With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives."
+        },
+        "Generation V": {
+            "Black": "It is a common sight around fishing ports. It is known to rescue people and carry off prey.",
+            "White": "It is a common sight around fishing ports. It is known to rescue people and carry off prey.",
+            "Black 2": "It is a common sight around fishing ports. It is known to rescue people and carry off prey.",
+            "White 2": "It is a common sight around fishing ports. It is known to rescue people and carry off prey."
+        },
+        "Generation VI": {
+            "X": "It floats using its well-developed flotation sac. It assists in the rescues of drowning people.",
+            "Y": "Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft.",
+            "Omega Ruby": "It floats using its well-developed flotation sac. It assists in the rescues of drowning people.",
+            "Alpha Sapphire": "Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft."
+        },
+        "Generation VII": {},
+        "Generation VIII": {
+            "Brilliant Diamond": "It floats using its well-developed flotation sac. It assists in the rescues of drowning people.",
+            "Shining Pearl": "Its flotation sac developed as a result of pursuing aquatic prey. Floatzel carries people as if it were a rubber raft.",
+            "Legends: Arceus": "Has a long, rather splendid flotation sac, which prevents Floatzel from drowning even in stormy seas. One might glimpse this species around fishing hamlets from time to time."
+        },
+        "Generation IX": {
+            "Scarlet": "With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives.",
+            "Violet": "It is a common sight around fishing ports. It is known to rescue people and help fishers carry what they caught."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IV.": {},
+        "Generation IV": {
+            "Diamond": "Routes 213 , 218 , 221 , 222 , 224 , and 230 , Fuego Ironworks , Victory Road",
+            "Pearl": "Routes 213 , 218 , 221 , 222 , 224 , and 230 , Fuego Ironworks , Victory Road",
+            "Platinum": "Routes 218 , 221 , 222 , 224 , and 230 , Fuego Ironworks , Victory Road",
+            "HeartGold": "Safari Zone (tall grass in Swamp with 10 Waterside points)",
+            "SoulSilver": "Safari Zone (tall grass in Swamp with 10 Waterside points)"
+        },
+        "Generation V": {
+            "Black": "Routes 11 and 14 ( Surfing in rippling water )",
+            "White": "Routes 11 and 14 ( Surfing in rippling water )",
+            "Black 2": "Routes 11 , 14 , and 23 , Victory Road , Nature Preserve , Lostlorn Forest ( Surfing in rippling water )",
+            "White 2": "Routes 11 , 14 , and 23 , Victory Road , Nature Preserve , Lostlorn Forest ( Surfing in rippling water )"
+        },
+        "Generation VI": {
+            "X": "Routes 15 , 16 , and 21 , Frost Cavern , Couriway Town , Victory Road ( Surfing ) Friend Safari ( Water )",
+            "Y": "Routes 15 , 16 , and 21 , Frost Cavern , Couriway Town , Victory Road ( Surfing ) Friend Safari ( Water )",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Trade",
+            "Moon": "Trade",
+            "Ultra Sun": "Ultra Space Wilds ( Water World )",
+            "Ultra Moon": "Ultra Space Wilds ( Water World )",
+            "Let's Go Pikachu": "Unobtainable",
+            "Let's Go Eevee": "Unobtainable"
+        },
+        "Generation VIII": {
+            "Sword": "Unobtainable",
+            "Shield": "Unobtainable",
+            "Brilliant Diamond": "Routes 213 , 218 , 221 , 222 , 224 , and 230 , Fuego Ironworks , Victory Road",
+            "Shining Pearl": "Routes 213 , 218 , 221 , 222 , 224 , and 230 , Fuego Ironworks , Victory Road",
+            "Legends: Arceus": "Obsidian Fieldlands : Horseshoe Plains ( mass outbreaks ), near Worn Bridge , Windswept Run , massive mass outbreaks Crimson Mirelands : Space-time distortions Cobalt Coastlands : Ginkgo Landing , Aipom Hill , Bathers' Lagoon"
+        },
+        "Generation IX": {
+            "Scarlet": "South Province: South Paldean Sea East Province: East Paldean Sea West Province: Area Two , Area Three , West Paldean Sea North Province: North Paldean Sea , Glaseado Mountain Tera Raid Battles ( 4★ )",
+            "Violet": "South Province: South Paldean Sea East Province: East Paldean Sea West Province: Area Two , Area Three , West Paldean Sea North Province: North Paldean Sea , Glaseado Mountain Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Buizel",
+            "to": "Floatzel",
+            "method": [
+                "Level 26"
+            ]
+        }
+    ]
+}

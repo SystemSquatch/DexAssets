@@ -1,0 +1,63 @@
+{
+    "name": "Raboot",
+    "pokedex_number": "#0814",
+    "types": [
+        "Fire",
+        "Unknown"
+    ],
+    "abilities": [
+        "Blaze",
+        "Libero"
+    ],
+    "stats": {
+        "HP": 65,
+        "Attack": 86,
+        "Defense": 60,
+        "Sp. Atk": 55,
+        "Sp. Def": 60,
+        "Speed": 94,
+        "Total": 420
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves.",
+            "Shield": "It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork."
+        },
+        "Generation IX": {
+            "Scarlet": "Thanks to its soft and fluffy fur, Raboot can easily heat up its fire energy and produce flames with more power.",
+            "Violet": "While it prides itself on its varied kicking moves, it can also deliver powerful headbutts once its flames have heated up its forehead."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation VIII.": {},
+        "Generation VIII": {
+            "Sword": "Evolve Scorbunny",
+            "Shield": "Evolve Scorbunny",
+            "Brilliant Diamond": "Unobtainable",
+            "Shining Pearl": "Unobtainable",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Trade",
+            "Violet": "Trade",
+            "The Hidden Treasure of Area Zero": "Evolve Scorbunny"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Scorbunny",
+            "to": "Raboot",
+            "method": [
+                "Level 16"
+            ]
+        },
+        {
+            "from": "Raboot",
+            "to": "Cinderace",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Arboliva",
+    "pokedex_number": "#0930",
+    "types": [
+        "Grass",
+        "Normal"
+    ],
+    "abilities": [
+        "Seed Sower",
+        "Harvest"
+    ],
+    "stats": {
+        "HP": 78,
+        "Attack": 69,
+        "Defense": 90,
+        "Sp. Atk": 125,
+        "Sp. Def": 109,
+        "Speed": 39,
+        "Total": 510
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.",
+            "Violet": "This Pokémon drives back enemies by launching its rich, aromatic oil at them with enough force to smash a boulder."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "Tera Raid Battles ( 5★ )",
+            "Violet": "Tera Raid Battles ( 5★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Dolliv",
+            "to": "Arboliva",
+            "method": [
+                "Level 35"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Wugtrio",
+    "pokedex_number": "#0961",
+    "types": [
+        "Water",
+        "Unknown"
+    ],
+    "abilities": [
+        "Gooey",
+        "Rattled",
+        "Sand Veil"
+    ],
+    "stats": {
+        "HP": 35,
+        "Attack": 100,
+        "Defense": 50,
+        "Sp. Atk": 50,
+        "Sp. Def": 70,
+        "Speed": 120,
+        "Total": 425
+    },
+    "pokedex_entries": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.",
+            "Violet": "A variety of fish Pokémon, Wugtrio was once considered to be a regional form of Dugtrio ."
+        }
+    },
+    "game_locations": {
+        "This Pokémon was unavailable prior to Generation IX.": {},
+        "Generation IX": {
+            "Scarlet": "West Province: Area Two North Province: Area One , Area Three North Province: Area One ( Ground Tera Type ) Tera Raid Battles ( 4★ )",
+            "Violet": "West Province: Area Two North Province: Area One , Area Three North Province: Area One ( Ground Tera Type ) Tera Raid Battles ( 4★ )"
+        }
+    },
+    "evolution": [
+        {
+            "from": "Wiglett",
+            "to": "Wugtrio",
+            "method": [
+                "Level 26"
+            ]
+        }
+    ]
+}

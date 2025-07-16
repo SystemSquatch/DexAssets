@@ -1,0 +1,154 @@
+{
+    "name": "Caterpie",
+    "pokedex_number": "#0010",
+    "types": [
+        "Bug",
+        "Unknown"
+    ],
+    "abilities": [
+        "Shield Dust",
+        "Run Away"
+    ],
+    "stats": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 35,
+        "Sp. Atk": 20,
+        "Sp. Def": 20,
+        "Speed": 45,
+        "Total": 195
+    },
+    "pokedex_entries": {
+        "Generation I": {
+            "Red": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
+            "Blue": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+            "Yellow": "If you touch the feeler on top of its head, it will release a horrible stink to protect itself.",
+            "Stadium": "It has large, eye-like patterns on its head as protection. They are used to frighten off enemies."
+        },
+        "Generation II": {
+            "Gold": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",
+            "Silver": "Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.",
+            "Crystal": "It crawls into foliage where it camouflages itself among leaves that are the same color as its body.",
+            "Stadium 2": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies. (Pokémon Red, Silver, or Crystal inserted) Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage. (Pokémon Blue, Gold, or Yellow inserted)"
+        },
+        "Generation III": {
+            "Ruby": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pok é mon releases a terrifically strong odor.",
+            "Sapphire": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pok é mon releases a terrifically strong odor.",
+            "Emerald": "Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.",
+            "FireRed": "It is covered with a green skin. When it grows, it sheds the skin, covers itself with silk, and becomes a cocoon.",
+            "LeafGreen": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
+        },
+        "Generation IV": {
+            "Diamond": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
+            "Pearl": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
+            "Platinum": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
+            "HeartGold": "For protection, it releases a horrible stench from the antennae on its head to drive away enemies.",
+            "SoulSilver": "Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage."
+        },
+        "Generation V": {
+            "Black": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
+            "White": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
+            "Black 2": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
+            "White 2": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly."
+        },
+        "Generation VI": {
+            "X": "For protection, it releases a horrible stench from the antennae on its head to drive away enemies.",
+            "Y": "Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.",
+            "Omega Ruby": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.",
+            "Alpha Sapphire": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor."
+        },
+        "Generation VII": {
+            "Sun": "When attacked by bird Pokémon, it resists by releasing a terrifically strong odor from its antennae, but it often becomes their prey.",
+            "Moon": "It's easy to catch, and it grows quickly, making it one of the top recommendations for novice Pokémon Trainers.",
+            "Ultra Sun": "Perhaps because it would like to grow up quickly, it has a voracious appetite, eating a hundred leaves a day.",
+            "Ultra Moon": "Its body is soft and weak. In nature, its perpetual fate is to be seen by others as food.",
+            "Let's Go Pikachu": "If you touch the feeler on top of its head, it will release a horrible stink to protect itself.",
+            "Let's Go Eevee": "If you touch the feeler on top of its head, it will release a horrible stink to protect itself."
+        },
+        "Generation VIII": {
+            "Sword": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",
+            "Shield": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+            "Brilliant Diamond": "It releases a stench from its red antennae to repel enemies. It grows by molting repeatedly.",
+            "Shining Pearl": "It releases a stench from its red antennae to repel enemies. It grows by molting repeatedly."
+        },
+        "Generation IX": {}
+    },
+    "game_locations": {
+        "Generation I": {
+            "Red": "Route 25 , Viridian Forest",
+            "Blue": "Routes 2 , 24 , and 25 , Viridian Forest",
+            "Blue (Japan)": "Routes 2 , 24 , and 25 , Viridian Forest",
+            "Yellow": "Viridian Forest"
+        },
+        "Generation II": {
+            "Gold": "Routes 2 , 30 , and 31 , Ilex Forest and National Park Morning Day National Park ( Bug-Catching Contest ) Tu Th Sa Routes 26 , 27 , 34 , 35 , 36 , 37 , 38 , and 39 , Azalea Town , Ilex Forest , Lake of Rage ( Headbutt trees )",
+            "Silver": "National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "Crystal": "Routes 2 , 24 , 25 , 30 , and 31 , Ilex Forest and National Park Morning Day National Park ( Bug-Catching Contest ) Tu Th Sa Ilex Forest ( Headbutt trees )"
+        },
+        "Generation III": {
+            "Ruby": "Trade",
+            "Sapphire": "Trade",
+            "Emerald": "Trade",
+            "FireRed": "Routes 2 , 24 , and 25 , Viridian Forest , Pattern Bush",
+            "LeafGreen": "Routes 2 , 24 , and 25 , Viridian Forest , Pattern Bush",
+            "Colosseum": "Trade",
+            "XD": "Trade"
+        },
+        "Generation IV": {
+            "Diamond": "Route 204 (FireRed)",
+            "Pearl": "Route 204 (FireRed)",
+            "Platinum": "Route 204 , Eterna Forest (FireRed)",
+            "HeartGold": "Routes 2 , 30 , and 31 , Ilex Forest , National Park , Viridian Forest Morning Day National Park ( Bug-Catching Contest ) Tu Th Sa Ilex Forest ( Headbutt trees )",
+            "SoulSilver": "National Park ( Bug-Catching Contest ) Tu Th Sa",
+            "Pal Park": "Forest"
+        },
+        "Generation V": {
+            "Black": "Trade",
+            "White": "Breed Metapod or Butterfree",
+            "Black 2": "Trade",
+            "White 2": "Breed Butterfree"
+        },
+        "Generation VI": {
+            "X": "Santalune Forest",
+            "Y": "Route 2 , Santalune Forest",
+            "Omega Ruby": "Trade",
+            "Alpha Sapphire": "Trade"
+        },
+        "Generation VII": {
+            "Sun": "Routes 1 and 5 , Lush Jungle , Melemele Meadow",
+            "Moon": "Routes 1 and 5 , Lush Jungle , Melemele Meadow",
+            "Ultra Sun": "Routes 1 and 5 , Melemele Meadow Lush Jungle ( SOS Battle )",
+            "Ultra Moon": "Routes 1 and 5 , Melemele Meadow Lush Jungle ( SOS Battle )",
+            "Let's Go Pikachu": "Route 2 , Viridian Forest",
+            "Let's Go Eevee": "Route 2 , Viridian Forest"
+        },
+        "Generation VIII": {
+            "Sword": "Route 1 Bridge Field , Dappled Grove , Rolling Fields , South Lake Miloch ( Max Raid Battle )",
+            "Shield": "Route 1 Bridge Field , Dappled Grove , Rolling Fields , South Lake Miloch ( Max Raid Battle )",
+            "Brilliant Diamond": "Grand Underground - Spacious Cave , Grassland Cave , Swampy Cave , Riverbank Cave Still-Water Cavern , Sunlit Cavern , Bogsunk Cavern (After obtaining the National Pokédex )",
+            "Shining Pearl": "Trade",
+            "Legends: Arceus": "Unobtainable"
+        },
+        "Generation IX": {
+            "Scarlet": "Unobtainable",
+            "Violet": "Unobtainable"
+        }
+    },
+    "evolution": [
+        {
+            "from": null,
+            "to": "Caterpie",
+            "method": [
+                "Base Stage"
+            ]
+        },
+        {
+            "from": "Caterpie",
+            "to": "Metapod",
+            "method": [
+                "Level 7"
+            ]
+        }
+    ]
+}
