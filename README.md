@@ -2,14 +2,19 @@
 
 This repository contains a comprehensive collection of data and images for Pokémon, compiled for educational and personal use.
 
-## License and Use
+# License and Use
 
-This repository aggregates data from two primary sources, each with its own terms:
+This repository contains data and images aggregated from multiple sources, each with its own licensing. As a result, this entire project is governed by the most restrictive of these licenses.
 
-* **Bulbapedia:** The majority of the data (stats, Pokédex entries, images, etc.) is sourced from Bulbapedia and is governed by the **Creative Commons Attribution-NonCommercial-ShareAlike 2.5 (CC BY-NC-SA 2.5)** license.
-* **PokeAPI:** All evolution data is sourced from the free-to-use PokeAPI, which operates under its own fair use policy.
+### Data Sources & Licenses
 
-Because a primary data source explicitly forbids commercial use, the entire repository and any projects derived from it must be considered **strictly non-commercial**. By using this repository, you agree to respect the terms of both original sources.
+* **Bulbapedia:** The majority of the data (stats, Pokédex entries, abilities, game locations, etc.) is sourced from Bulbapedia and is governed by the **[Creative Commons Attribution-NonCommercial-ShareAlike 2.5 (CC BY-NC-SA 2.5)](https://creativecommons.org/licenses/by-nc-sa/2.5/)** license.
+* **PokeAPI:** All evolution data is sourced from the free-to-use **[PokeAPI](https://pokeapi.co/)**, which operates under a fair use policy.
+* **Images:** All Pokémon sprites are the intellectual property of **The Pokémon Company, Nintendo, Creatures Inc., and GAME FREAK inc.** They are used in this non-commercial, fan-made project under the principles of fair use.
+
+### Overall Project License
+
+Due to the "Non-Commercial" (NC) and "ShareAlike" (SA) clauses in the `CC BY-NC-SA 2.5` license from Bulbapedia, this entire repository and any project that uses its data must be considered **strictly non-commercial** and must be shared under the same license if modified or distributed.
 
 ## **Contents**
 
