@@ -2,6 +2,15 @@
 
 This repository contains a comprehensive collection of data and images for Pokémon, compiled for educational and personal use.
 
+## License and Use
+
+This repository aggregates data from two primary sources, each with its own terms:
+
+* **Bulbapedia:** The majority of the data (stats, Pokédex entries, images, etc.) is sourced from Bulbapedia and is governed by the **Creative Commons Attribution-NonCommercial-ShareAlike 2.5 (CC BY-NC-SA 2.5)** license.
+* **PokeAPI:** All evolution data is sourced from the free-to-use PokeAPI, which operates under its own fair use policy.
+
+Because a primary data source explicitly forbids commercial use, the entire repository and any projects derived from it must be considered **strictly non-commercial**. By using this repository, you agree to respect the terms of both original sources.
+
 ## **Contents**
 
 This repository is organized into two main directories:
@@ -12,7 +21,7 @@ This repository is organized into two main directories:
   * A complete list of Pokédex entries from various games  
   * Game locations  
   * A detailed evolution chain, including methods for every evolution path  
-* /assets/images: Contains high-resolution (512x512) Pokémon HOME sprites for each Pokémon.
+* /assets/home_sprites: Contains high-resolution (512x512) Pokémon HOME sprites for each Pokémon.
 
 ## **Data Sources and Attribution**
 
@@ -35,3 +44,6 @@ All Pokémon evolution data, including branching paths and specific evolution me
 * PokeAPI is a community-driven project, and you can find their documentation here: [PokeAPI Documentation](https://pokeapi.co/docs/v2)
 
 *This project is a fan-made, non-commercial endeavor and is not affiliated with Nintendo, Game Freak, or The Pokémon Company.*
+
+Pokémon © 2002-2025 Pokémon. © 1995-2025 Nintendo/Creatures Inc./GAME FREAK inc. TM, ® and Pokémon character names are trademarks of Nintendo.
+No copyright or trademark infringement is intended in using Pokémon content from this repo.
