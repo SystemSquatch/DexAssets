@@ -2,6 +2,20 @@
 
 This repository contains a comprehensive collection of data and images for Pokémon, compiled for educational and personal use.
 
+# License and Use
+
+This repository contains data and images aggregated from multiple sources, each with its own licensing. As a result, this entire project is governed by the most restrictive of these licenses.
+
+### Data Sources & Licenses
+
+* **Bulbapedia:** The majority of the data (stats, Pokédex entries, abilities, game locations, etc.) is sourced from Bulbapedia and is governed by the **[Creative Commons Attribution-NonCommercial-ShareAlike 2.5 (CC BY-NC-SA 2.5)](https://creativecommons.org/licenses/by-nc-sa/2.5/)** license.
+* **PokeAPI:** All evolution data is sourced from the free-to-use **[PokeAPI](https://pokeapi.co/)**, which operates under a fair use policy.
+* **Images:** All Pokémon sprites are the intellectual property of **The Pokémon Company, Nintendo, Creatures Inc., and GAME FREAK inc.** They are used in this non-commercial, fan-made project under the principles of fair use.
+
+### Overall Project License
+
+Due to the "Non-Commercial" (NC) and "ShareAlike" (SA) clauses in the `CC BY-NC-SA 2.5` license from Bulbapedia, this entire repository and any project that uses its data must be considered **strictly non-commercial** and must be shared under the same license if modified or distributed.
+
 ## **Contents**
 
 This repository is organized into two main directories:
@@ -12,7 +26,7 @@ This repository is organized into two main directories:
   * A complete list of Pokédex entries from various games  
   * Game locations  
   * A detailed evolution chain, including methods for every evolution path  
-* /assets/images: Contains high-resolution (512x512) Pokémon HOME sprites for each Pokémon.
+* /assets/home_sprites: Contains high-resolution (512x512) Pokémon HOME sprites for each Pokémon.
 
 ## **Data Sources and Attribution**
 
@@ -35,3 +49,6 @@ All Pokémon evolution data, including branching paths and specific evolution me
 * PokeAPI is a community-driven project, and you can find their documentation here: [PokeAPI Documentation](https://pokeapi.co/docs/v2)
 
 *This project is a fan-made, non-commercial endeavor and is not affiliated with Nintendo, Game Freak, or The Pokémon Company.*
+
+Pokémon © 2002-2025 Pokémon. © 1995-2025 Nintendo/Creatures Inc./GAME FREAK inc. TM, ® and Pokémon character names are trademarks of Nintendo.
+No copyright or trademark infringement is intended in using Pokémon content from this repo.
