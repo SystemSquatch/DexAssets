@@ -20,9 +20,8 @@
     },
     "pokedex_entries": {
         "Generation I": {
-            "Red": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pok é mon .",
-            "Green": "(This entry was originally untranslated in English until it was reused in Pokémon FireRed .)",
-            "Blue": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pok é mon .",
+            "Red": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+            "Blue": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
             "Yellow": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
             "Stadium": "The bulb-like pouch on its back grows larger as it ages. The pouch is filled with numerous seeds."
         },
